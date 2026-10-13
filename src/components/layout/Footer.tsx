@@ -19,7 +19,6 @@ import { useTina, tinaField } from 'tinacms/dist/react';
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import footerData from '../../content/footer/footer.json';
 
-// Icon maps — JSON me string hoti hai, yahan actual icon
 const lucideIconMap: any = {
   HomeIcon, Users, Wallet, FileText, MessageCircle,
   ShieldCheck, Star, Building2,

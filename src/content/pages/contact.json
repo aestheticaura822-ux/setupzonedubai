@@ -8,11 +8,11 @@
     {
       "icon": "Headset",
       "title": "24/7 Support",
-      "lines": ["+971 56 655 6645", "info@setupzonedubai.ae"],
+      "lines": ["+971 56 655 6645", "setupzonedubai@gmail.com"],
       "color": "from-rose-400 to-pink-600",
       "actions": [
         { "label": "Call Now", "link": "tel:+971566556645", "icon": "Phone" },
-        { "label": "Email", "link": "mailto:info@setupzonedubai.ae", "icon": "Mail" }
+        { "label": "Email", "link": "mailto:setupzonedubai@gmail.com", "icon": "Mail" }
       ]
     },
     {
@@ -38,7 +38,7 @@
       "color": "from-emerald-400 to-teal-600",
       "actions": [
         { "label": "WhatsApp", "link": "whatsapp", "icon": "MessageCircle" },
-        { "label": "Email", "link": "mailto:sales@setupzonedubai.ae", "icon": "Mail" }
+        { "label": "Email", "link": "mailto:setupzonedubai@gmail.com", "icon": "Mail" }
       ]
     }
   ],
@@ -92,10 +92,10 @@
       "phoneHref": "tel:+971566556645",
       "directionsHref": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
       "emailLabel": "Email Us",
-      "email1": "info@setupzonedubai.ae",
-      "email1Href": "mailto:info@setupzonedubai.ae",
-      "email2": "sales@setupzonedubai.ae",
-      "email2Href": "mailto:sales@setupzonedubai.ae",
+      "email1": "setupzonedubai@gmail.com",
+      "email1Href": "mailto:setupzonedubai@gmail.com",
+      "email2": "setupzonedubai@gmail.com",
+      "email2Href": "mailto:setupzonedubai@gmail.com",
       "hoursLabel": "Working Hours",
       "hours": [
         { "day": "Mon – Fri", "time": "8 AM – 6 PM" },
@@ -157,9 +157,9 @@
       },
       "email": {
         "label": "Email Us",
-        "value": "info@setupzonedubai.ae",
+        "value": "setupzonedubai@gmail.com",
         "note": "● Reply within 24 hours",
-        "href": "mailto:info@setupzonedubai.ae"
+        "href": "mailto:setupzonedubai@gmail.com"
       },
       "office": {
         "label": "Visit Our Office",

@@ -6,16 +6,26 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
+
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
+
   server: {
     watch: {
       usePolling: true,
     },
+    // ✅ NAYA — Translation API proxy (backend on port 4002)
+    proxy: {
+      '/api': {
+        target: 'http://localhost:4002',
+        changeOrigin: true,
+      },
+    },
   },
+
   optimizeDeps: {
     // ✅ Pehle se optimize ho rahe packages
     include: [
@@ -36,6 +46,7 @@ export default defineConfig({
       target: 'es2020',
     },
   },
+
   // ✅ Vite cache ko custom path pe le jao (Windows friendly)
   cacheDir: 'node_modules/.vite-cache',
 })
