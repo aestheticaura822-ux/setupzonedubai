@@ -6,7 +6,7 @@
   "heading": {
     "line1": "Launch Your",
     "line2Highlight": "Dubai Business",
-    "line3": "In Days, Not Months."
+    "line3": "In Days, Not Mont"
   },
   "subtext": "From company formation to visas, banking, and tax — we handle everything end-to-end so you can focus on growing your business in the UAE's thriving economy.",
   "video": {
@@ -38,7 +38,10 @@
       "tag": "Most Popular",
       "tagColor": "gold",
       "delay": 0.8,
-      "position": { "right": "0px", "top": "20px" },
+      "position": {
+        "right": "0px",
+        "top": "20px"
+      },
       "z": 30
     },
     {
@@ -47,8 +50,11 @@
       "price": "AED 16,999",
       "tag": "Best Value",
       "tagColor": "sky",
-      "delay": 1.0,
-      "position": { "right": "100px", "top": "220px" },
+      "delay": 1,
+      "position": {
+        "right": "100px",
+        "top": "220px"
+      },
       "z": 20
     },
     {
@@ -58,7 +64,10 @@
       "tag": "Quick",
       "tagColor": "violet",
       "delay": 1.2,
-      "position": { "right": "40px", "top": "420px" },
+      "position": {
+        "right": "40px",
+        "top": "420px"
+      },
       "z": 10
     }
   ],
