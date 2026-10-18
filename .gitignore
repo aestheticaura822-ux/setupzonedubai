@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .env
+scripts/translate-all.js
+translate-zh.cjs
+scripts/
+*.cjs
