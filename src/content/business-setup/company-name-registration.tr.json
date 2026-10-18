@@ -1,0 +1,474 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+  "heroBadge": "Marka Kimliğinizi Koruyun",
+  "heroTitle": "Dubai'de Şirket Adı Kaydı",
+  "heroTitleHighlight": "Dubai'de kayıt",
+  "heroSubtitle": "Birleşik Arap Emirlikleri'nde benzersiz, marka değeri taşıyan ve mevzuata uygun işletme adınızı ayırtın. DED ve Serbest Bölgeler ile ücretsiz uygunluk kontrolü — 24 saat içinde onay.",
+  "heroChips": [
+    "Ücretsiz İsim Sorgusu",
+    "24 Saatlik Onay",
+    "DED + Serbest Bölgeler",
+    "%100 Uyumlu"
+  ],
+  "stats": [
+    {
+      "icon": "Type",
+      "value": "3",
+      "label": "İsim Seçenekleri",
+      "color": "from-indigo-400 to-blue-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "24 saat",
+      "label": "Onay Süresi",
+      "color": "from-blue-400 to-cyan-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "%100",
+      "label": "Uyumlu",
+      "color": "from-cyan-400 to-teal-600"
+    },
+    {
+      "icon": "BadgeCheck",
+      "value": "Özgür",
+      "label": "Müsaitlik Kontrolü",
+      "color": "from-teal-400 to-emerald-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "İş Hayatına İlk Adım",
+    "title": "Şirket Adı Kaydı Nedir?",
+    "titleHighlight": "Şirket Adı Kaydı?",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "Marka Kimliği",
+    "imageBadgeText": "İsim Rezervasyonu",
+    "paragraphs": [
+      "Dubai'de şirket adı kaydı (ticari ad rezervasyonu olarak da adlandırılır), Ekonomik Kalkınma Departmanı (DED) veya Serbest Bölge otoritesi nezdinde benzersiz bir işletme adını rezerve etme resmi sürecidir.",
+      "Birleşik Arap Emirlikleri'nde şirket kurmanın ilk zorunlu adımıdır; tescilli bir isim olmadan ticari lisans başvurusunda bulunamazsınız.",
+      "Setup Zone Dubai'de ücretsiz isim uygunluğu kontrolü, marka oluşturmaya uygun isim önerileri, uyumluluk doğrulaması ve eksiksiz başvuru dosyalama hizmetleri sunuyoruz; bu hizmetler genellikle 24 saat içinde onay ile sonuçlanıyor."
+    ],
+    "highlights": [
+      "İş Hayatına İlk Adım",
+      "İsim Rezervasyon Belgesi",
+      "6 Ay Geçerlilik Süresi",
+      "DED + Serbest Bölge",
+      "Ücretsiz Müsaitlik Kontrolü",
+      "24 Saatlik Onay"
+    ]
+  },
+  "namingRulesSection": {
+    "badge": "BAE İsimlendirme Kuralları",
+    "title": "İzin Verilenler ve Yasaklananlar",
+    "titleHighlight": "İzin Verilenler ve Yasaklananlar",
+    "subtitle": "İşletme adınızı seçmeden önce kuralları öğrenin.",
+    "allowedItems": [
+      {
+        "icon": "CheckCircle2",
+        "title": "Eşsiz ve Mevcut",
+        "description": "Seçtiğiniz isim, BAE'de tescilli mevcut bir ticari isimle aynı veya benzer olmamalıdır.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "İş Faaliyetlerini Yansıtmak",
+        "description": "İsim, işletme faaliyetinizle makul bir şekilde ilgili olmalıdır; örneğin, bir ticaret lisansı için \"Ticaret\".",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "BAE İsimlendirme Kuralları",
+        "description": "Birleşik Arap Emirlikleri'nin isim verme kurallarına uyulmalıdır; hakaret içeren, dini, siyasi veya yasaklanmış kelimeler kullanılmamalıdır.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Yasal Yapı Eki",
+        "description": "İsim, doğru yasal yapıyı içermelidir: LLC, FZE, FZCO veya Şahıs Şirketi.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ],
+    "prohibitedItems": [
+      {
+        "icon": "XCircle",
+        "title": "Dini referans bulunmamaktadır.",
+        "description": "Tanrıya, dine veya dini şahsiyetlere atıfta bulunan isimler kesinlikle yasaktır.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Siyasi İsim Yok",
+        "description": "Siyasi parti isimleri, hükümet referansları ve siyasi şahsiyetlerin kullanılması yasaktır.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Ticari Marka Çatışması Yok",
+        "description": "Tescilli ticari markalarla (yerel veya uluslararası) aynı olan isimler reddedilecektir.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Kısıtlanmış Kelime Yok",
+        "description": "\"Banka\", \"sigorta\", \"üniversite\" gibi kelimeler ve ülke isimleri özel onay gerektirir veya yasaktır.",
+        "color": "from-red-500 to-rose-700"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Hizmetlerimiz",
+    "title": "Tam Ad Kayıt Hizmetleri",
+    "titleHighlight": "İsim Kayıt Hizmetleri",
+    "subtitle": "İsim rezervasyonunuz için altı kapsamlı hizmet.",
+    "items": [
+      {
+        "icon": "Sparkles",
+        "title": "Markalaşmaya Uygun İsim Önerileri",
+        "description": "Sektörünüze ve iş vizyonunuza uygun, akılda kalıcı ve unutulmaz isimler öneriyoruz.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Search",
+        "title": "Gerçek Zamanlı Müsaitlik Kontrolü",
+        "description": "Taahhütte bulunmadan önce DED ve tüm büyük Serbest Bölgelerle ücretsiz isim uygunluğu kontrolü yapın.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Uyumluluk Doğrulama",
+        "description": "Reddedilme ve gecikmeleri önlemek için isminizi BAE isim kurallarına göre doğruluyoruz.",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Rezervasyon Başvurusu",
+        "description": "Rezervasyon başvurusunu sizin adınıza biz yapıyoruz; sizin hiçbir evrak işiyle uğraşmanıza gerek yok.",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "Onay Takibi",
+        "description": "Hızlı onay almak için yetkililerle iletişime geçiyoruz; genellikle 24 saat içinde onay alıyoruz.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Sertifika Teslimi",
+        "description": "Resmi Ticari İsim Koruma Belgesini doğrudan size teslim ediyoruz.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "6 Adımlı Süreç",
+    "title": "İsminizi Nasıl Rezerve Edebilirsiniz?",
+    "titleHighlight": "Adınızı Ayırın",
+    "subtitle": "Marka tescili için altı basit adım.",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Brain",
+        "title": "İsim Beyin Fırtınası",
+        "description": "Size 3 benzersiz, marka değeri taşıyan ve mevzuata uygun işletme adı seçeneği bulmanızda yardımcı oluyoruz.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "Search",
+        "title": "Müsaitlik Kontrolü",
+        "description": "İsim uygunluğunu DED ve Serbest Bölge yetkilileriyle gerçek zamanlı olarak kontrol ediyoruz.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "icon": "FileSignature",
+        "title": "Rezervasyon Başvurusu",
+        "description": "Ticari isim tescil başvurusunu ilgili yetkili mercilere hazırlayıp sunuyoruz.",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "İlk Onay",
+        "description": "İsim ön onay alır; bu onay, yetkili makama bağlı olarak genellikle 24 saat içinde gerçekleşir.",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "step": "05",
+        "icon": "ScrollText",
+        "title": "İsim Rezervasyon Belgesi",
+        "description": "Resmi Ticari İsim Koruma Belgesini alın — lisans süreci için 6 ay geçerlidir.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "06",
+        "icon": "Rocket",
+        "title": "Lisanslama İşlemine Devam Et",
+        "description": "Şirket lisansı başvurusunda bulunmak ve şirket kuruluşunu tamamlamak için size ayrılmış ismi kullanın.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "namingTipsSection": {
+    "badge": "Profesyonel İsimlendirme İpuçları",
+    "title": "Mükemmel İşletme Adını Seçin",
+    "titleHighlight": "Mükemmel İşletme Adı",
+    "subtitle": "Zamanın考验ından geçecek bir isim seçmek için altı uzman tavsiyesi.",
+    "items": [
+      {
+        "icon": "Lightbulb",
+        "label": "Kısa ve Akılda Kalıcı Olsun",
+        "desc": "Yazımı ve telaffuzu dünya çapında kolay.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "label": "Küresel Çekiciliği Göz Önünde Bulundurun",
+        "desc": "İngilizce ve Arapça pazarlarda faaliyet göstermektedir.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "Search",
+        "label": "Alan Adının Kullanılabilirliğini Kontrol Et",
+        "desc": ".com ve .ae alan adlarınızı eşleştirin.",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Yasaklı Kelimelerden Kaçının",
+        "desc": "Banka, sigorta, üniversiteyi atlayın",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "icon": "Type",
+        "label": "Kolay Yazım Kullanın",
+        "desc": "Karmaşık harf kombinasyonlarından kaçının.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Crown",
+        "label": "Markanızla Eşleştirin",
+        "desc": "Vizyonunuz ve sektörünüzle uyum sağlayın.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "İhtiyacınız Olanlar",
+    "title": "Gerekli Belgeler",
+    "titleHighlight": "Belgeler",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "3 Önerilen İsim",
+        "desc": "Tercih sırasına göre"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "İş Faaliyeti",
+        "desc": "İşletme türü"
+      },
+      {
+        "icon": "Building2",
+        "label": "Yasal Yapı",
+        "desc": "LLC, FZE, FZCO, vb."
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Başvuru Formu",
+        "desc": "Tarafımızdan tamamlandı"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "Ödeme",
+        "desc": "Rezervasyon ücretleri"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "Güvenilir İsim Ortağınız",
+    "titleHighlight": "İsim Ortağı",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Uyumluluk Uzmanları",
+        "desc": "Birleşik Arap Emirlikleri'nin isim verme kuralları hakkında derin bilgi."
+      },
+      {
+        "icon": "Zap",
+        "label": "24 Saatlik Onay",
+        "desc": "Hızlı rezervasyon işlemleri"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Ücretsiz İsim Sorgusu",
+        "desc": "Ücretsiz kullanılabilirlik doğrulama"
+      },
+      {
+        "icon": "Sparkles",
+        "label": "Yaratıcı Öneriler",
+        "desc": "Ücretsiz marka oluşturmaya uygun isim fikirleri"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Özel Danışman",
+        "desc": "Kişisel danışman"
+      },
+      {
+        "icon": "Globe",
+        "label": "Çok Dilli Ekip",
+        "desc": "İngilizce, Arapça, Hintçe, Urduca"
+      },
+      {
+        "icon": "Layers",
+        "label": "DED + Serbest Bölge",
+        "desc": "Her iki yargı bölgesi de kapsandı."
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Yenileme Desteği",
+        "desc": "Gerekirse uzatma"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "İşletme Büyüme Beklentisi",
+    "title": "Binlerce kişi tarafından güvenilen",
+    "titleHighlight": "Binlerce",
+    "subtitle": "Marka kimliğiniz, uzman ellerde.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10.000+",
+        "label": "İsimler Saklıdır",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "DED + FZ",
+        "label": "Kapsam",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "24 saat",
+        "label": "Hızlı Onay",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Özgür",
+        "label": "İsim Kontrolü",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "%100",
+        "label": "Uyumlu",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Tercih edilen",
+        "label": "İsim Ortağı",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Şirket Adı Kaydı hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "İsim tescili uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+      "whatsappMessage": "Merhaba! Dubai'de şirket adı kaydı hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "Dubai'de şirket adı seçme kuralları nelerdir?",
+        "a": "İsim benzersiz olmalı, mevcut ticari isimlere benzememeli, işletme faaliyetinizi yansıtmalı, BAE isimlendirme kurallarına uymalı ve doğru yasal yapı ekini içermelidir. Dini, siyasi veya yasaklanmış kelimelere izin verilmez."
+      },
+      {
+        "q": "Kaç isim seçeneği sunmalıyım?",
+        "a": "Tercih sırasına göre 3 isim önerisi sunmalısınız. İlk tercihiniz reddedilirse, yetkili makam bir sonraki seçeneği kontrol eder; bu da zamandan ve birden fazla başvurudan tasarruf sağlar."
+      },
+      {
+        "q": "İsim onayı ne kadar sürer?",
+        "a": "Genellikle yetkili makama bağlı olarak 24-48 saat sürer. Bazı Serbest Bölgeler, öncelikli ağımız sayesinde isim onaylarını saatler içinde işleme koymaktadır."
+      },
+      {
+        "q": "Rezerve edilmiş bir isim ne kadar süreyle geçerlidir?",
+        "a": "Ticari İsim Koruma Belgesi genellikle 6 ay geçerlidir ve bu süre zarfında lisans başvurunuzu tamamlamanıza olanak tanır."
+      },
+      {
+        "q": "Adım reddedilirse ne olur?",
+        "a": "İlk tercihiniz reddedilirse, (çoğu durumda) ek ücret almadan bir sonraki seçeneğinizi yeniden gönderiyoruz. Ayrıca, 3 seçeneğin de reddedilmesi durumunda alternatifler konusunda fikir üretmenize yardımcı oluyoruz."
+      },
+      {
+        "q": "Şirket kaydını yaptırdıktan sonra şirket adını değiştirebilir miyim?",
+        "a": "Evet. İlgili makama kayıt olduktan sonra isim değişikliği başvurusunda bulunabilirsiniz; ehliyetinizin ve belgelerinizin güncellenmesi de dahil olmak üzere tüm süreci biz hallediyoruz."
+      },
+      {
+        "q": "Birleşik Arap Emirlikleri'ndeki şirketim için yabancı bir isim kullanabilir miyim?",
+        "a": "Evet. Yabancı kökenli isimler, BAE isim kurallarına uymaları, ticari markalarla çakışmamaları ve yasaklanmış kelimeler içermemeleri koşuluyla kullanılabilir."
+      },
+      {
+        "q": "Şirket kaydı yaptırmadan önce bir isme sahip olmam gerekiyor mu?",
+        "a": "Evet. İsim rezervasyonu, hem anakara hem de serbest bölge yetki alanlarında lisans başvurusundan önceki ilk adımdır."
+      },
+      {
+        "q": "Şirket isimlerinde yasaklanmış kelimeler var mı?",
+        "a": "Evet. \"Banka\", \"sigorta\", \"üniversite\", \"Tanrı\", \"Allah\" gibi kelimeler, ülke isimleri, siyasi referanslar ve tescilli ticari markalar kısıtlanmış veya yasaklanmıştır."
+      },
+      {
+        "q": "Setup Zone Dubai şirket adı tescili konusunda nasıl yardımcı olabilir?",
+        "a": "Ücretsiz isim uygunluğu kontrolü, marka oluşturmaya uygun isim önerileri, uyumluluk doğrulama, başvuru dosyalama ve yetkililerle takip hizmetleri sunuyoruz. Genellikle 24 saat içinde onay alırsınız."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "İsim tesciliyle uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Dubai'de Şirket Kurulumu",
+        "description": "Serbest Bölge, Anakara ve Açık Deniz yapıları.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-indigo-400 to-blue-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "Dubai'de Ticaret Lisansı",
+        "description": "DET ticaret lisansınızı 2-5 gün içinde alın.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-blue-400 to-cyan-600"
+      },
+      {
+        "slug": "company-registration",
+        "title": "Şirket Kaydı",
+        "description": "Hızlı ve uygun fiyatlı kayıt, 5.750 AED'den başlayan fiyatlarla.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-cyan-400 to-teal-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Ücretsiz İsim Sorgusu",
+    "title": "İsminizi ayırtmaya hazır mısınız?",
+    "titleHighlight": "İsminizi ayırtmak ister misiniz?",
+    "subtitle": "Ücretsiz isim uygunluğu kontrolü yaptırın. Uzmanlarımız, marka değeri taşıyan, yasalara uygun ve benzersiz bir işletme ismi seçmenize yardımcı olacaktır.",
+    "chips": [
+      "Ücretsiz Çek",
+      "24 Saatlik Onay",
+      "DED + Serbest Bölgeler"
+    ],
+    "whatsappMessage": "Merhaba! Birleşik Arap Emirlikleri'ndeki şirketim için ücretsiz isim kontrolü yaptırmak istiyorum.",
+    "whatsappCardMessage": "Merhaba! Şirket adı tescili hakkında görüşmek istiyorum."
+  }
+}

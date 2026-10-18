@@ -1,0 +1,222 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1600&q=80",
+  "heroBadge": "Grow Online. Go Global.",
+  "heroTitle": "Dubai CommerCity",
+  "heroTitleHighlight": "CommerCity",
+  "heroSubtitle": "The UAE's first dedicated e-commerce free zone. Next to Dubai International Airport — the perfect launchpad for digital-first businesses, tech startups, and global trade.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-5 Days Setup", "E-Commerce Ecosystem"],
+
+  "stats": [
+    { "icon": "Building2", "value": "500+", "label": "E-Commerce Brands", "color": "from-orange-400 to-red-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-red-400 to-rose-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-rose-400 to-pink-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-pink-400 to-fuchsia-600" }
+  ],
+
+  "launchSection": {
+    "badge": "Launch Your Venture",
+    "title": "The Region's First E-Commerce Free Zone",
+    "titleHighlight": "E-Commerce Free Zone",
+    "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=1200&q=80",
+    "imageBadgeTitle": "E-Commerce Hub",
+    "imageBadgeText": "Next to DXB Airport",
+    "paragraphs": [
+      "Setting up in Dubai CommerCity (DCC) Free Zone means entering the region's first and only free zone dedicated entirely to e-commerce businesses. Strategically located next to Dubai International Airport, CommerCity is designed to support online retailers, logistics providers, digital platforms, and tech-driven companies.",
+      "Whether you're an online retail start-up, an established e-commerce brand expanding into the Middle East, a logistics and fulfillment provider, or a digital service company — DCC offers everything you need to scale. From state-of-the-art warehouses to streamlined customs and logistics facilities, it gives businesses the advantage of speed, efficiency, and global connectivity.",
+      "At Setup Zone Dubai, we make your CommerCity setup simple and stress-free. Our team handles the entire process — from company formation and license selection to visas, compliance, and operational setup."
+    ],
+    "highlights": ["Digital-First Ecosystem", "Bonded Warehousing", "Smart Office Space", "Customs Clearance", "Logistics Integration", "Global Connectivity"]
+  },
+
+  "benefitsSection": {
+    "badge": "Grow Online. Go Global.",
+    "title": "Benefits of Setting Up in Dubai CommerCity",
+    "titleHighlight": "Dubai CommerCity",
+    "subtitle": "Everything you need to launch, scale, and succeed in e-commerce.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Enjoy full control of your business with no local Emirati sponsor required, ensuring complete authority over operations, profits, and decision-making.", "color": "from-orange-400 to-red-600" },
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Income Tax", "description": "Operate at max profitability with tax-free earnings on both corporate and personal income — a significant benefit for startups and global e-commerce brands.", "color": "from-red-400 to-rose-600" },
+      { "icon": "Package", "title": "Bonded Free Zone & No Customs Duties", "description": "Save on duty-free imports and exports within the bonded free zone — perfect for logistics, retail, and global supply chain companies.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Plane", "title": "Close Proximity to DXB Airport", "description": "DCC is right beside Dubai International Airport — ideal for air freight handling, last-mile logistics, and regional trade.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Zap", "title": "Fast-Track Licensing & Registration", "description": "Obtain your FZCO or PLC license in just days! Limited paperwork and all digital processing through DCC's robust online system.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Cpu", "title": "Integrated Digital Ecosystem", "description": "DCC provides a tech-ready ecosystem featuring integrated CRM, ERP, AI, CMS tools, and e-commerce integrations.", "color": "from-purple-400 to-violet-600" },
+      { "icon": "Clock", "title": "24/7 Customs Clearance", "description": "Supporting customs clearance with the onsite customs team, and 24/7 services at DCC. Ideal for businesses doing high volume.", "color": "from-violet-400 to-indigo-600" },
+      { "icon": "Leaf", "title": "Green Building Certified", "description": "Eco-friendly, sustainable buildings that use smart energy with contemporary design — align your brand with ESG targets.", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "licensesSection": {
+    "badge": "Endless Creative Business Options",
+    "title": "What License Types Are Available in DCC?",
+    "titleHighlight": "Available in DCC?",
+    "subtitle": "We assist you in determining the most effective license for your business model.",
+    "items": [
+      { "icon": "ShoppingCart", "title": "E-Commerce License", "description": "Most suitable for businesses selling goods or services online via websites or marketplace platforms. B2B and B2C models with payment gateway connections.", "code": "ECM", "color": "from-orange-400 to-red-600" },
+      { "icon": "Truck", "title": "Trade License", "description": "Best for import/export and wholesalers trading in physical goods in the UAE and international markets through DCC's logistics network.", "code": "TRD", "color": "from-red-400 to-rose-600" },
+      { "icon": "Briefcase", "title": "Service License", "description": "For professional services like digital marketing, media production, IT consulting, and business advisory — locally or globally.", "code": "SRV", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Boxes", "title": "General Trading License", "description": "Broader flexibility to trade multiple, unrelated product categories under a single license — no need for separate trade licenses.", "code": "GTL", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "UserCheck", "title": "Freelancer License", "description": "For individual professionals in content creation, design, software development, digital marketing, and consultancy.", "code": "FRL", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Building2", "title": "Branch Company Setup", "description": "For companies registered overseas or UAE mainland to open a branch in DCC without a new legal entity.", "code": "BRN", "color": "from-purple-400 to-violet-600" }
+    ]
+  },
+
+  "officeSection": {
+    "badge": "Future-Ready Office Solutions",
+    "title": "World-Class Infrastructure & Business Facilities",
+    "titleHighlight": "Business Facilities",
+    "subtitle": "Diverse range of scalable and modern facilities designed for digital commerce.",
+    "items": [
+      { "icon": "Building2", "title": "Premium Fitted Offices", "description": "Modern offices designed specifically for digital commerce and tech enterprises.", "color": "from-orange-400 to-red-600", "size": "small" },
+      { "icon": "Layout", "title": "Shell & Core Spaces", "description": "Customizable spaces to suit your team size and branding needs.", "color": "from-red-400 to-rose-600", "size": "small" },
+      { "icon": "Warehouse", "title": "Dedicated Warehouses & 3PL", "description": "Purpose-built fulfillment centers and third-party logistics support.", "color": "from-rose-500 to-pink-600", "size": "large" },
+      { "icon": "Users", "title": "Smart Desks & Coworking", "description": "Flexible, cost-efficient options for freelancers and lean digital teams.", "color": "from-pink-400 to-fuchsia-600", "size": "small" },
+      { "icon": "Store", "title": "Retail, Food Halls & Kiosks", "description": "Event venues, meeting rooms, and pop-up kiosk setups for brands.", "color": "from-fuchsia-400 to-purple-600", "size": "small" }
+    ]
+  },
+
+  "digitalSupportSection": {
+    "badge": "Ongoing Digital Business Support",
+    "title": "Tech & Digital Growth Support After Setup",
+    "titleHighlight": "After Setup",
+    "subtitle": "We don't just build your DCC enterprise — we help you scale.",
+    "items": [
+      { "icon": "Globe", "label": "Website & E-Commerce Site Development" },
+      { "icon": "Database", "label": "CRM, ERP & CMS Integration" },
+      { "icon": "TrendingUp", "label": "SEO & Digital Marketing Services" },
+      { "icon": "Store", "label": "Marketplace Listing & Content Optimization" },
+      { "icon": "Cpu", "label": "AI Solutions & Blockchain Integration" },
+      { "icon": "CreditCard", "label": "Payment Gateway Setup" },
+      { "icon": "BadgeCheck", "label": "Trademark Registration & Branding" }
+    ]
+  },
+
+  "logisticsSection": {
+    "badge": "Built for Expansion",
+    "title": "Logistics, Warehousing & Fulfillment in DCC",
+    "titleHighlight": "Fulfillment in DCC",
+    "subtitle": "DCC operates 24/7 with an onsite customs team — unrivaled efficiency in managing your supply chain.",
+    "items": [
+      { "icon": "Package", "title": "Bonded Warehousing", "description": "Goods can be stored in fully secured bonded warehouses without incurring import/export duties.", "color": "from-orange-400 to-red-600" },
+      { "icon": "Truck", "title": "Cross-Border Delivery Management", "description": "Seamless coordination of international warehouses for timely global delivery.", "color": "from-red-400 to-rose-600" },
+      { "icon": "BarChart3", "title": "Inventory Management Centers", "description": "Sophisticated centers to control and monitor stock levels in real-time.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Route", "title": "Last-Mile Logistics Solutions", "description": "Comprehensive last-mile delivery networks for faster fulfillment across UAE and MENA.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "QrCode", "title": "DCCWay Digital Clearance", "description": "Completely digital customs platform for speedy and transparent import/export approvals.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Link2", "title": "Logiflow Blockchain Integration", "description": "Innovative blockchain logistics tool for real-time supply chain visibility and compliance.", "color": "from-purple-400 to-violet-600" }
+    ]
+  },
+
+  "activitiesSection": {
+    "badge": "Licenses for Modern Businesses",
+    "title": "Dubai CommerCity Activities Allowed",
+    "titleHighlight": "Activities Allowed",
+    "subtitle": "A wide range of business activities for digital-first industries and global trade.",
+    "items": [
+      { "icon": "ShoppingCart", "title": "E-Commerce & Digital Marketplaces", "description": "Launch B2B or B2C online stores, marketplace platforms, or drop-shipping businesses with fast license approvals.", "color": "from-orange-400 to-red-600" },
+      { "icon": "Code", "title": "Software, CRM, ERP & AI Solutions", "description": "Develop and deploy SaaS, enterprise systems, CRM platforms, and AI-driven tools from Dubai's tech hub.", "color": "from-red-400 to-rose-600" },
+      { "icon": "Megaphone", "title": "Marketing & Advertising Agencies", "description": "Set up digital marketing firms, content creation studios, SEO agencies, and ad-tech platforms.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Truck", "title": "Logistics, Warehousing & Freight", "description": "Operate logistics hubs, freight forwarding, third-party warehousing, or last-mile delivery services.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Store", "title": "Retail & Wholesale Trade", "description": "Import, export, distribute, or sell physical goods via bonded warehouses with global reach.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Video", "title": "Digital Media Production", "description": "Register your media firm for video production, post-editing, animation, podcasting, and live-streaming.", "color": "from-purple-400 to-violet-600" },
+      { "icon": "Briefcase", "title": "Business Consulting, FinTech & EdTech", "description": "Offer business advisory, financial technology, educational platforms, HR, and IT consulting services.", "color": "from-violet-400 to-indigo-600" }
+    ]
+  },
+
+  "ecoSection": {
+    "badge": "Green Innovation at Its Finest",
+    "title": "The Optimal Eco-Friendly Business Hub",
+    "titleHighlight": "Eco-Friendly Business Hub",
+    "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1200&q=80",
+    "imageBadgeTitle": "Green Innovation",
+    "imageBadgeText": "100% LEED Certified",
+    "paragraphs": [
+      "Dubai CommerCity has raised the bar for sustainable business infrastructure. As the first e-commerce free zone in the region designed with sustainable growth in mind, DCC has 100% LEED Certified buildings that meet global standards for energy efficiency and environmental quality.",
+      "From state-of-the-art, energy-efficient logistics centers to smart design amenities which conserve power, lighting and cooling, every detail is designed to encourage sustainable success.",
+      "Whether you are a startup or a multinational corporation, Dubai CommerCity enables you to grow sustainably — and profitably."
+    ],
+    "highlights": [
+      { "icon": "Leaf", "label": "100% LEED Certified Buildings" },
+      { "icon": "Sun", "label": "Energy-Efficient Logistics Centers" },
+      { "icon": "Wind", "label": "Smart Design Amenities" },
+      { "icon": "Recycle", "label": "Dedicated Waste & Recycling" },
+      { "icon": "Globe2", "label": "Dubai Green Economy Vision" },
+      { "icon": "TreePine", "label": "Reduced Environmental Footprint" }
+    ]
+  },
+
+  "partnerSection": {
+    "badge": "Launch Confidently With Experts",
+    "title": "Why Partner with Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "With over a decade of experience, we streamline your DCC Free Zone setup.",
+    "items": [
+      { "icon": "FileText", "label": "Company Registration & Trade Name Approval" },
+      { "icon": "CreditCard", "label": "Investor & Employment Visas" },
+      { "icon": "Building2", "label": "Office/Warehouse Allocation" },
+      { "icon": "DollarSign", "label": "Bank Account Assistance" },
+      { "icon": "Shield", "label": "ESR, AML & UBO Compliance" },
+      { "icon": "RefreshCw", "label": "DCC License Renewals" },
+      { "icon": "Rocket", "label": "Digital Launch & Branding" }
+    ],
+    "footerText": "We handle everything so you can focus on running your business."
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Dubai's Leading E-Commerce Hub",
+    "titleHighlight": "E-Commerce Hub",
+    "subtitle": "Rapidly growing ecosystem for e-commerce, tech, and logistics businesses.",
+    "items": [
+      { "icon": "Building2", "value": "500+", "label": "E-Commerce Brands", "color": "from-orange-400 to-red-600" },
+      { "icon": "Globe", "value": "Global", "label": "Digital Reach", "color": "from-red-400 to-rose-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "E-Commerce Hub", "color": "from-rose-400 to-pink-600" },
+      { "icon": "DollarSign", "value": "Growing", "label": "Digital Economy", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "BarChart3", "value": "Significant", "label": "Regional Impact", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "For E-Commerce", "color": "from-purple-400 to-violet-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai CommerCity Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our DCC specialists.",
+      "whatsappMessage": "Hi! I have a question about Dubai CommerCity Free Zone."
+    },
+    "items": [
+      { "q": "How long does it take to setup a business in Dubai CommerCity?", "a": "With our expert advice and support, you can setup your business in 3-5 working days thanks to DCC's fast track licensing application process and fully digital process." },
+      { "q": "What kinds of companies can I register in DCC?", "a": "DCC supports e-commerce brands, digital marketplaces, software and SaaS companies, AI and tech providers, logistics and fulfillment companies, digital marketing agencies, media production firms, and business consultancies." },
+      { "q": "Can I have 100% ownership of my company in Dubai CommerCity?", "a": "Yes. DCC allows 100% foreign ownership with no local Emirati sponsor required — you have complete authority over operations, profits, and decision-making." },
+      { "q": "Is DCC only for e-commerce businesses?", "a": "While DCC is the first dedicated e-commerce free zone in the UAE, it also supports tech startups, logistics providers, digital agencies, media production companies, and consulting firms." },
+      { "q": "Is there tax in DCC?", "a": "No. DCC offers 0% corporate and personal income tax — a significant benefit for startups and global e-commerce brands looking to serve the Middle East and beyond." },
+      { "q": "What type of workspace can I get in DCC?", "a": "DCC offers premium fitted offices, shell & core spaces, smart desks, coworking spaces, dedicated warehouses, 3PL support, event venues, food halls, retail spaces, and customizable fulfillment centers." },
+      { "q": "How does warehousing and logistics operate in DCC?", "a": "DCC operates 24/7 with an onsite customs team. You get access to bonded warehouses, cross-border delivery management, inventory management centers, last-mile logistics, DCCWay digital clearance, and Logiflow blockchain integration." },
+      { "q": "Can I apply for employment visas with Dubai CommerCity?", "a": "Yes. We handle investor visas, employment visas for your team, and family sponsorship — complete visa and immigration compliance support through DCC." },
+      { "q": "Is DCC a green/sustainable free zone?", "a": "Absolutely. DCC has 100% LEED Certified buildings, energy-efficient logistics centers, smart design amenities, and dedicated waste recycling facilities aligned with Dubai's Green Economy Vision." },
+      { "q": "Why would I consider Setup Zone Dubai for setting up my DCC company?", "a": "With over a decade of experience, we handle company registration, trade name approval, visas, office/warehouse allocation, bank account assistance, compliance (ESR, AML, UBO), license renewals, and digital launch & branding." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DCC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-orange-400 to-red-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-rose-400 to-pink-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Dubai CommerCity?",
+    "titleHighlight": "Dubai CommerCity?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "3-5 Days Setup", "E-Commerce Ecosystem"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Dubai CommerCity setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Dubai CommerCity setup."
+  }
+}

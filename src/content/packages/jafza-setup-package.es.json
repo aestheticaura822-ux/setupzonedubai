@@ -1,0 +1,551 @@
+{
+  "slug": "jafza-setup-package",
+  "hero": {
+    "badge": "Centro comercial de clase mundial",
+    "title": "Paquete de instalación de JAFZA",
+    "titleHighlight": "Paquete",
+    "subtitle": "La Zona Franca de Jebel Ali es un centro de excelencia para el comercio, la logística y las empresas industriales. Ofrecemos paquetes asequibles desde tan solo 5999 AED: licencia, visa, cuenta bancaria y más.",
+    "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=1600&q=80",
+    "breadcrumbLabel": "Paquete de instalación de JAFZA",
+    "ctaPrimaryText": "Ver paquetes",
+    "ctaPrimaryLink": "#paquetes",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "¡Hola! Estoy interesado en el paquete de instalación de JAFZA.",
+    "badges": [
+      "Desde 5.999 AED",
+      "11 paquetes",
+      "Instalación en 3-7 días",
+      "Propiedad al 100%"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "A partir de",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Paquetes",
+      "color": "from-indigo-400 to-blue-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Configuración de días",
+      "color": "from-blue-400 to-sky-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad",
+      "color": "from-sky-400 to-blue-500"
+    }
+  ],
+  "intro": {
+    "badge": "¡Estamos aquí para ayudar!",
+    "title": "Paquetes de configuración JAFZA asequibles para su negocio en los EAU",
+    "titleHighlight": "para su negocio en los Emiratos írabes Unidos",
+    "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=1200&q=80",
+    "imageBadgeTitle": "Zona Franca de JAFZA",
+    "imageBadgeText": "Jebel Ali, Dubái, Emiratos írabes Unidos",
+    "paragraph1": "¿Busca establecer su negocio en el próspero mercado de los EAU? Nuestro equipo de expertos se especializa en ayudar a emprendedores a crear empresas exitosas en más de 65 jurisdicciones.",
+    "paragraph2": "Tanto si prefiere la flexibilidad de una Zona Franca como el prestigio de una licencia comercial en el territorio continental de Estados Unidos, ofrecemos los mejores paquetes de creación de empresas en Dubái para satisfacer sus objetivos comerciales, logísticos e industriales.",
+    "paragraph3": "Todos los paquetes ofrecen un punto de partida para su trayectoria empresarial y pueden personalizarse para adaptarse a sus necesidades.",
+    "features": [
+      "Más de 65 jurisdicciones",
+      "Acceso portuario de primera clase",
+      "Paquetes personalizables",
+      "Desde 5.999 AED",
+      "Instalación rápida en 3-7 días",
+      "Soporte completo"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "Ecosistema de comercio y logística",
+    "title": "Diseñado para el comercio y la industria.",
+    "titleHighlight": "Comercio e industria",
+    "subtitle": "Seis sectores comerciales e industriales que prosperan en JAFZA.",
+    "items": [
+      {
+        "icon": "Container",
+        "title": "Comercio general e importación/exportación",
+        "desc": "Comercio mundial, materias primas, distribución mayorista",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Logística y cadena de suministro",
+        "desc": "Transporte de mercancías, logística de terceros (3PL), redes de distribución",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Anchor",
+        "title": "Servicios marítimos y portuarios",
+        "desc": "Transporte marítimo, operaciones portuarias",
+        "color": "from-blue-400 to-sky-600"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "Almacenamiento y depósito",
+        "desc": "Centros de distribución, almacenamiento en frío y depósitos aduaneros.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Fabricación y montaje",
+        "desc": "Fabricación ligera, procesamiento, embalaje",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Cog",
+        "title": "Ingeniería e Industria",
+        "desc": "Servicios técnicos, contratación, equipos",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Paquetes de instalación asequibles en Dubái",
+    "title": "Nuestros paquetes de configuración de JAFZA",
+    "titleHighlight": "Paquetes de instalación de JAFZA",
+    "subtitle": "11 paquetes premium diseñados para empresas de comercio, logística e industria. Todos personalizables.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Consultoría de viajes y turismo",
+        "price": "14.499 AED",
+        "tagline": "Con visa de residencia",
+        "category": "De primera calidad",
+        "color": "from-blue-500 to-indigo-700",
+        "badge": "Popular",
+        "badgeColor": "de azul 500 a índigo 600",
+        "includes": [
+          "licencia de zona franca",
+          "1. Visa de residencia/inversionista de los EAU",
+          "Cambio de estatus, documento de identidad de los Emiratos írabes Unidos y trámites médicos.",
+          "Contrato de arrendamiento gratuito",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Gestión de eventos",
+        "price": "14.499 AED",
+        "tagline": "Con visa de residencia",
+        "category": "De primera calidad",
+        "color": "from-indigo-500 to-blue-700",
+        "badge": "De primera calidad",
+        "badgeColor": "de índigo 500 a azul 600",
+        "includes": [
+          "licencia de zona franca",
+          "1. Visa de residencia/inversionista de los EAU",
+          "Cambio de estatus, documento de identidad de los Emiratos írabes Unidos y trámites médicos.",
+          "Contrato de arrendamiento gratuito",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Comercio general",
+        "price": "15.999 AED",
+        "tagline": "Con visa de residencia",
+        "category": "De primera calidad",
+        "color": "from-blue-500 to-sky-700",
+        "badge": "Mejor relación calidad-precio",
+        "badgeColor": "del azul 500 al cielo 600",
+        "includes": [
+          "licencia de zona franca",
+          "1. Visa de residencia/inversionista en los EAU",
+          "Cambio de estatus, documento de identidad de los Emiratos írabes Unidos y trámites médicos.",
+          "Contrato de arrendamiento gratuito",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Diseño de moda",
+        "price": "5.999 AED",
+        "tagline": "Hasta 5 actividades",
+        "category": "Economía",
+        "color": "from-sky-500 to-blue-700",
+        "badge": "Creativo",
+        "badgeColor": "del cielo 500 al azul 600",
+        "includes": [
+          "licencia de zona franca",
+          "Contrato de arrendamiento gratuito",
+          "Hasta 5 actividades comerciales",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Fitness y estilo de vida",
+        "price": "5.999 AED",
+        "tagline": "Hasta 5 actividades",
+        "category": "Economía",
+        "color": "from-cyan-500 to-sky-700",
+        "badge": "Asequible",
+        "badgeColor": "de cian 500 a cielo 600",
+        "includes": [
+          "licencia de zona franca",
+          "Contrato de arrendamiento gratuito",
+          "Hasta 5 actividades comerciales",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "Comercio electrónico",
+        "price": "5.999 AED",
+        "tagline": "Listo para negocios en línea",
+        "category": "Economía",
+        "color": "from-teal-500 to-cyan-700",
+        "badge": "Popular",
+        "badgeColor": "de verde azulado 500 a cian 600",
+        "includes": [
+          "licencia de zona franca",
+          "Contrato de arrendamiento gratuito",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "Servicios de TI",
+        "price": "6.449 AED",
+        "tagline": "Hasta 5 actividades",
+        "category": "Profesional",
+        "color": "from-emerald-500 to-teal-700",
+        "badge": "Tecnología",
+        "badgeColor": "de esmeralda 500 a verde azulado 600",
+        "includes": [
+          "licencia de zona franca",
+          "Contrato de arrendamiento gratuito",
+          "Hasta 5 actividades comerciales",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Comercio general",
+        "price": "7.999 AED",
+        "tagline": "Trading de nivel básico",
+        "category": "Estándar",
+        "color": "from-green-500 to-emerald-700",
+        "badge": "Mejor vendido",
+        "badgeColor": "de verde 500 a esmeralda 600",
+        "includes": [
+          "licencia de zona franca",
+          "Contrato de arrendamiento gratuito",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Licencia de zona franca con residencia vitalicia en los EAU.",
+        "price": "11.999 AED",
+        "tagline": "Residencia vitalicia",
+        "category": "De primera calidad",
+        "color": "from-amber-500 to-orange-700",
+        "badge": "Exclusivo",
+        "badgeColor": "de ámbar 500 a naranja 600",
+        "includes": [
+          "licencia de zona franca",
+          "Residencia gratuita en los EAU / visa de inversionista de por vida",
+          "Contrato de arrendamiento gratuito",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Licencia de conducir continental con residencia en los Emiratos írabes Unidos.",
+        "price": "16.999 AED",
+        "tagline": "Continente + Residencia",
+        "category": "Continente",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "Continente",
+        "badgeColor": "de pizarra-600 a pizarra-700",
+        "includes": [
+          "Licencia continental",
+          "1. Visa de residencia/inversionista de los EAU",
+          "Cambio de estatus, documento médico, identificación de los Emiratos írabes Unidos y examen médico.",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Consulta gratuita sobre el IVA"
+        ],
+        "exampleActivities": [
+          "Gestión de proyectos",
+          "Consultoría de gestión",
+          "Agente comercial",
+          "Gestión de instalaciones",
+          "Servicios de limpieza",
+          "Mantenimiento de edificios"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Emprendimiento femenino",
+        "price": "5.999 AED",
+        "tagline": "Diseñado para mujeres emprendedoras.",
+        "category": "Especial",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Especial",
+        "badgeColor": "de rosa 500 a rosa 600",
+        "includes": [
+          "licencia de zona franca",
+          "Contrato de arrendamiento gratuito",
+          "Hasta 5 actividades comerciales",
+          "Asistencia gratuita para abrir una cuenta bancaria",
+          "Dirección de lujo en Dubái y apartado postal compartido",
+          "Consulta gratuita sobre el IVA"
+        ],
+        "exampleActivities": [
+          "Coaching de estilo de vida",
+          "Marketing digital",
+          "Diseño de moda y ropa",
+          "Gestión de eventos",
+          "Servicios de consultoría"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "¿Necesita un paquete comercial personalizado?",
+    "subtitle": "Cuéntenos su visión comercial, logística o industrial y le diseñaremos la solución perfecta.",
+    "buttonText": "Cotización personalizada",
+    "whatsappMessage": "¡Hola! Necesito un paquete de configuración personalizado para JAFZA."
+  },
+  "benefits": {
+    "badge": "¿Por qué JAFZA?",
+    "title": "Beneficios de la configuración de JAFZA",
+    "titleHighlight": "Configuración de JAFZA",
+    "subtitle": "Seis poderosas ventajas para las empresas comerciales e industriales.",
+    "items": [
+      {
+        "icon": "Ship",
+        "title": "Puerto de clase mundial",
+        "desc": "Acceso al puerto de Jebel Ali",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Configuración de bajo costo",
+        "desc": "Desde 5.999 AED",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Propiedad 100% extranjera",
+        "desc": "Propiedad extranjera total",
+        "color": "from-blue-400 to-sky-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Instalación rápida en 3-7 días",
+        "desc": "Expedición rápida de licencias",
+        "color": "from-sky-400 to-blue-500"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Entorno fiscal del 0%",
+        "desc": "Beneficios libres de impuestos",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Ubicación estratégica",
+        "desc": "Puerta de entrada a más de 2 mil millones de consumidores.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "Proceso de 6 pasos",
+    "title": "Cómo empezar",
+    "titleHighlight": "Comience",
+    "subtitle": "Desde la selección del paquete hasta la cuenta bancaria, nos encargamos de todo.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Elige tu paquete",
+        "description": "Seleccione entre nuestros paquetes orientados al sector comercial.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Enviar documentos",
+        "description": "Copias del pasaporte, plan de negocios y fotografías.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Solicitud de licencia",
+        "description": "Presentamos la solicitud ante la autoridad JAFZA.",
+        "color": "from-blue-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Reciba su licencia",
+        "description": "Se obtiene la licencia en un plazo de 3 a 7 días.",
+        "color": "from-sky-400 to-blue-500"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Su socio de confianza para la configuración de JAFZA.",
+    "titleHighlight": "Socio de configuración de JAFZA",
+    "subtitle": "Ocho razones por las que las empresas comerciales e industriales confían en nosotros.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Precios transparentes",
+        "desc": "Sin cargos ocultos, nunca."
+      },
+      {
+        "icon": "Zap",
+        "label": "Instalación rápida en 3-7 días",
+        "desc": "Expedición rápida de licencias"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Cumplimiento al 100%",
+        "desc": "Totalmente aprobado por el gobierno."
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Consultor especializado",
+        "desc": "Asesor personal"
+      },
+      {
+        "icon": "Globe",
+        "label": "Equipo multilingüe",
+        "desc": "Inglés, árabe, hindi, urdu"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Consulta sobre el IVA",
+        "desc": "Incluido gratis"
+      },
+      {
+        "icon": "Award",
+        "label": "Más de 10.000 empresas",
+        "desc": "Lanzado con éxito"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Soporte integral",
+        "desc": "Licencia para abrir una cuenta bancaria"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Zona Franca de JAFZA. ¿Aún tienes preguntas? Estamos a un mensaje de distancia.",
+    "items": [
+      {
+        "q": "¿Qué es la Zona Franca de JAFZA?",
+        "a": "JAFZA (Zona Franca de Jebel Ali) es una de las zonas francas más grandes y prestigiosas del mundo, sede de más de 9500 empresas de más de 100 países. Ubicada junto al puerto de Jebel Ali, el más grande de Oriente Medio, JAFZA ofrece infraestructura industrial, logística y comercial de primer nivel, con propiedad 100% extranjera."
+      },
+      {
+        "q": "¿Dónde se encuentra JAFZA?",
+        "a": "JAFZA está ubicada en Jebel Ali, Dubái, Emiratos írabes Unidos, junto al puerto de Jebel Ali y cerca del aeropuerto internacional Al Maktoum. Ofrece acceso estratégico a las principales rutas marítimas, autopistas (E11, E311) y mercados clave en Oriente Medio, ífrica y Asia."
+      },
+      {
+        "q": "¿Qué incluye el paquete de instalación de JAFZA?",
+        "a": "Según el paquete, obtendrá la licencia de Zona Franca, visa de residencia, documento de identidad emiratí (Examen médico), contrato de arrendamiento, asistencia para la apertura de cuenta bancaria, dirección premium y consulta gratuita sobre el IVA."
+      },
+      {
+        "q": "¿Cuánto cuesta un paquete JAFZA?",
+        "a": "Nuestros paquetes JAFZA tienen precios desde 5999 AED (Económico) hasta 16 999 AED (Tierra continental + Residencia). Los paquetes Premium con visa comienzan en 14 499 AED."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda la instalación?",
+        "a": "Normalmente, la emisión de la licencia tarda entre 3 y 7 días hábiles, y la tramitación del visado y la apertura de la cuenta bancaria requieren entre 1 y 2 semanas adicionales."
+      },
+      {
+        "q": "¿Puedo personalizar mi paquete?",
+        "a": "Sí. Todos los paquetes son puntos de partida y se pueden personalizar para que se ajusten a las necesidades y al presupuesto de su negocio de comercio, logística, industria o servicios."
+      },
+      {
+        "q": "¿Puedo obtener un visado de residencia en los Emiratos írabes Unidos?",
+        "a": "Sí, algunos paquetes incluyen un visado de inversionista/residencia en los EAU con examen médico, documento de identidad de los Emiratos y cambio de estatus. La licencia de zona franca con residencia vitalicia en los EAU incluso ofrece residencia de por vida."
+      },
+      {
+        "q": "¿Está incluida la apertura de una cuenta bancaria?",
+        "a": "Sí. Todos los paquetes incluyen asistencia gratuita para la apertura de cuentas bancarias corporativas en los principales bancos de los Emiratos írabes Unidos."
+      },
+      {
+        "q": "¿Qué actividades puedo realizar en JAFZA?",
+        "a": "JAFZA apoya el comercio general y la importación/exportación, la logística y la cadena de suministro, los servicios marítimos y portuarios, el almacenamiento, la fabricación y el montaje, la ingeniería y la industria, y otros sectores comerciales, con hasta 5 actividades en la mayoría de los paquetes económicos."
+      },
+      {
+        "q": "¿Por qué elegir Setup Zone Dubai para la configuración de JAFZA?",
+        "a": "Ofrecemos precios transparentes, experiencia en comercio y logística, consultores especializados y asistencia integral, desde la obtención de licencias y visas hasta la apertura de cuentas bancarias. Todo ello respaldado por más de 10 000 operaciones exitosas."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Inicie su negocio comercial hoy mismo.",
+    "title": "¿Listo para lanzar en JAFZA Jebel Ali?",
+    "titleHighlight": "¿JAFZA Jebel Ali?",
+    "subtitle": "Solicita una consulta gratuita. Te ayudaremos a elegir el paquete adecuado y a poner en marcha tu negocio comercial o industrial en cuestión de días.",
+    "primaryCta": "Contáctanos por WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Me gustaría una consulta gratuita sobre el paquete de configuración de JAFZA.",
+    "badges": [
+      "Desde 5.999 AED",
+      "Instalación en 3-7 días",
+      "Propiedad al 100%"
+    ],
+    "office": {
+      "label": "Visite nuestra oficina en Dubái.",
+      "line1": "Oficina M08-27, planta M1, Torre Crystal",
+      "line2": "Business Bay, Dubái, Emiratos írabes Unidos — Apartado postal: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Horario laboral",
+      "monFri": "8:00 - 18:00",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Cerrado"
+    }
+  }
+}

@@ -1,0 +1,496 @@
+{
+    "slug":  "spc-setup-package",
+    "hero":  {
+                 "badge":  "Packs d\u0027installation SPC abordables",
+                 "title":  "Pack d\u0027installation SPC "“ Sharjah",
+                 "titleHighlight":  ""“ Sharjah",
+                 "subtitle":  "Créer une entreprise dans la zone franche de Sharjah Publishing City n\u0027a jamais été aussi simple. Des formules abordables À  partir de seulement 5 999 AED : licence, visa, compte bancaire et bien plus encore.",
+                 "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "Pack d\u0027installation SPC",
+                 "ctaPrimaryText":  "Voir les forfaits",
+                 "ctaPrimaryLink":  "#packages",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Bonjour ! Je suis intéressé par les forfaits d\u0027installation SPC À  Sharjah.",
+                 "badges":  [
+                                "À€ partir de 5 999 AED",
+                                "11 colis",
+                                "Installation en 3 À  7 jours",
+                                "Propriété À  100 %"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Signe du dollar",
+                      "value":  "5 999 AED",
+                      "label":  "À€ partir de",
+                      "color":  "de-émeraude-400 À -turquoise-600"
+                  },
+                  {
+                      "icon":  "Emballer",
+                      "value":  "11",
+                      "label":  "Colis",
+                      "color":  "de turquoise 400 À  cyan 600"
+                  },
+                  {
+                      "icon":  "Horloge",
+                      "value":  "3-7",
+                      "label":  "Installation des jours",
+                      "color":  "de cyan 400 À  ciel 600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "100%",
+                      "label":  "Possession",
+                      "color":  "du ciel 400 au bleu 600"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "Nous sommes lÀ  pour vous aider !",
+                  "title":  "Solutions SPC abordables pour votre entreprise aux Émirats arabes unis",
+                  "titleHighlight":  "pour votre entreprise aux Émirats arabes unis",
+                  "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "Zone franche SPC",
+                  "imageBadgeText":  "Sharjah, Émirats arabes unis",
+                  "paragraph1":  "Vous souhaitez implanter votre entreprise sur le marché florissant des Émirats arabes unis ? Notre équipe d"™experts accompagne les entrepreneurs dans la création d"™entreprises prospères dans plus de 65 juridictions.",
+                  "paragraph2":  "Que vous préfériez la flexibilité d\u0027une zone franche ou le prestige d\u0027une licence commerciale sur le continent, nous proposons les meilleures formules de création d\u0027entreprise À  Sharjah, adaptées À  vos objectifs commerciaux.",
+                  "paragraph3":  "Tous nos forfaits constituent un point de départ pour votre aventure entrepreneuriale et peuvent être personnalisés selon vos besoins.",
+                  "features":  [
+                                   "Plus de 65 juridictions",
+                                   "Zone franche et continent",
+                                   "Forfaits personnalisables",
+                                   "À€ partir de 5 999 AED",
+                                   "Installation rapide en 3 À  7 jours",
+                                   "Soutien complet"
+                               ]
+              },
+    "packages":  {
+                     "badge":  "Forfaits d\u0027installation abordables À  Sharjah",
+                     "title":  "Nos forfaits d\u0027installation SPC",
+                     "titleHighlight":  "Packages d\u0027installation SPC",
+                     "subtitle":  "11 formules premium conÀ§ues pour chaque type d\u0027entrepreneur. Toutes personnalisables selon vos besoins.",
+                     "items":  [
+                                   {
+                                       "id":  1,
+                                       "icon":  "Avion",
+                                       "title":  "Conseil en voyages et tourisme",
+                                       "price":  "14 499 AED",
+                                       "tagline":  "Avec visa de résidence",
+                                       "category":  "Prime",
+                                       "color":  "de-émeraude-500 À -turquoise-700",
+                                       "badge":  "Populaire",
+                                       "badgeColor":  "de-émeraude-500 À -turquoise-600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "1 visa de résidence/investisseur aux Émirats arabes unis",
+                                                        "Changement de statut, d\u0027identité émirienne et de dossier médical",
+                                                        "Contrat de location gratuit",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  2,
+                                       "icon":  "Caméra",
+                                       "title":  "Gestion d\u0027événements",
+                                       "price":  "14 499 AED",
+                                       "tagline":  "Avec visa de résidence",
+                                       "category":  "Prime",
+                                       "color":  "de turquoise 500 À  cyan 700",
+                                       "badge":  "Prime",
+                                       "badgeColor":  "de turquoise 500 À  cyan 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "1 visa de résidence/investisseur aux Émirats arabes unis",
+                                                        "Changement de statut, d\u0027identité émirienne et de dossier médical",
+                                                        "Contrat de location gratuit",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  3,
+                                       "icon":  "Panier",
+                                       "title":  "Commerce général",
+                                       "price":  "15 999 AED",
+                                       "tagline":  "Avec visa de résidence",
+                                       "category":  "Prime",
+                                       "color":  "de-cyan-500 À -ciel-700",
+                                       "badge":  "Meilleure valeur",
+                                       "badgeColor":  "de-cyan-500 À -ciel-600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "1 Visa de résidence/investisseur aux Émirats arabes unis",
+                                                        "Changement de statut, d\u0027identité émirienne et de dossier médical",
+                                                        "Contrat de location gratuit",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  4,
+                                       "icon":  "Palette",
+                                       "title":  "Stylisme",
+                                       "price":  "5 999 AED",
+                                       "tagline":  "Jusqu\u0027À  5 activités",
+                                       "category":  "Économie",
+                                       "color":  "du ciel 500 au bleu 700",
+                                       "badge":  "Abordable",
+                                       "badgeColor":  "du ciel 500 au bleu 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Contrat de location gratuit",
+                                                        "Jusqu\u0027À  5 activités commerciales",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  5,
+                                       "icon":  "Haltère",
+                                       "title":  "Forme et style de vie",
+                                       "price":  "5 999 AED",
+                                       "tagline":  "Jusqu\u0027À  5 activités",
+                                       "category":  "Économie",
+                                       "color":  "de bleu 500 À  indigo 700",
+                                       "badge":  "Abordable",
+                                       "badgeColor":  "du bleu 500 À  l\u0027indigo 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Contrat de location gratuit",
+                                                        "Jusqu\u0027À  5 activités commerciales",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  6,
+                                       "icon":  "Panier",
+                                       "title":  "commerce électronique",
+                                       "price":  "5 999 AED",
+                                       "tagline":  "Entreprise en ligne prête À  l\u0027emploi",
+                                       "category":  "Économie",
+                                       "color":  "de l\u0027indigo 500 au violet 700",
+                                       "badge":  "Populaire",
+                                       "badgeColor":  "de l\u0027indigo 500 au violet 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Contrat de location gratuit",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  7,
+                                       "icon":  "Ordinateur portable",
+                                       "title":  "Services informatiques",
+                                       "price":  "6 449 AED",
+                                       "tagline":  "Jusqu\u0027À  5 activités",
+                                       "category":  "Professionnel",
+                                       "color":  "de violet-500 À  pourpre-700",
+                                       "badge":  "Technologie",
+                                       "badgeColor":  "de violet 500 À  pourpre 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Contrat de location gratuit",
+                                                        "Jusqu\u0027À  5 activités commerciales",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  8,
+                                       "icon":  "Magasin",
+                                       "title":  "Commerce général",
+                                       "price":  "7 999 AED",
+                                       "tagline":  "Trading de niveau débutant",
+                                       "category":  "Standard",
+                                       "color":  "de violet 500 À  fuchsia 700",
+                                       "badge":  "Meilleure vente",
+                                       "badgeColor":  "du violet 500 au fuchsia 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Contrat de location gratuit",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  9,
+                                       "icon":  "Couronne",
+                                       "title":  "Licence de zone franche avec résidence À  vie aux Émirats arabes unis",
+                                       "price":  "11 999 AED",
+                                       "tagline":  "Résidence À  vie",
+                                       "category":  "Prime",
+                                       "color":  "de fuchsia-500 À  rose-700",
+                                       "badge":  "Exclusif",
+                                       "badgeColor":  "de fuchsia-500 À  rose-600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Résidence gratuite aux Émirats arabes unis / visa d\u0027investisseur À  vie",
+                                                        "Contrat de location gratuit",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  10,
+                                       "icon":  "Point de repère",
+                                       "title":  "Licence continentale avec résidence aux Émirats arabes unis",
+                                       "price":  "16 999 AED",
+                                       "tagline":  "Continent + Résidence",
+                                       "category":  "continent",
+                                       "color":  "de l\u0027ardoise 600 À  l\u0027ardoise 800",
+                                       "badge":  "continent",
+                                       "badgeColor":  "de l\u0027ardoise 600 À  l\u0027ardoise 700",
+                                       "includes":  [
+                                                        "Licence continentale",
+                                                        "1 visa de résidence/investisseur aux Émirats arabes unis",
+                                                        "Changement de statut, dossier médical, carte d\u0027identité émirienne et changement de statut",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Consultation TVA gratuite"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Gestion de projet",
+                                                                 "Conseil en gestion",
+                                                                 "Courtier commercial",
+                                                                 "Gestion des installations",
+                                                                 "Services de nettoyage",
+                                                                 "entretien des bâtiments"
+                                                             ]
+                                   },
+                                   {
+                                       "id":  11,
+                                       "icon":  "CÅ“ur",
+                                       "title":  "Entrepreneuriat féminin",
+                                       "price":  "5 999 AED",
+                                       "tagline":  "ConÀ§u pour les femmes fondatrices",
+                                       "category":  "Spécial",
+                                       "color":  "de rose 500 À  rose 700",
+                                       "badge":  "Spécial",
+                                       "badgeColor":  "de rose 500 À  rose 600",
+                                       "includes":  [
+                                                        "Licence de zone franche",
+                                                        "Contrat de location gratuit",
+                                                        "Jusqu\u0027À  5 activités commerciales",
+                                                        "Aide gratuite À  l\u0027ouverture de compte bancaire",
+                                                        "Adresse premium et boîte postale partagée",
+                                                        "Consultation TVA gratuite"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Coaching de style de vie",
+                                                                 "Marketing numérique",
+                                                                 "Création de mode et de vêtements",
+                                                                 "Gestion d\u0027événements",
+                                                                 "Services de conseil"
+                                                             ]
+                                   }
+                               ]
+                 },
+    "customPackageCTA":  {
+                             "title":  "Besoin d\u0027un forfait personnalisé ?",
+                             "subtitle":  "Faites-nous part de vos objectifs et nous créerons le forfait idéal pour vous.",
+                             "buttonText":  "Devis personnalisé",
+                             "whatsappMessage":  "Salut ! J\u0027ai besoin d\u0027un package de configuration SPC personnalisé."
+                         },
+    "benefits":  {
+                     "badge":  "Pourquoi SPC",
+                     "title":  "Avantages de la configuration SPC",
+                     "titleHighlight":  "Configuration SPC",
+                     "subtitle":  "Six avantages majeurs À  s\u0027installer À  SPC Sharjah.",
+                     "items":  [
+                                   {
+                                       "icon":  "Globe",
+                                       "title":  "Propriété À  100 %",
+                                       "desc":  "Propriété entièrement étrangère",
+                                       "color":  "de-émeraude-400 À -turquoise-600"
+                                   },
+                                   {
+                                       "icon":  "Signe du dollar",
+                                       "title":  "Taxe de 0 %",
+                                       "desc":  "environnement sans impôt",
+                                       "color":  "de turquoise 400 À  cyan 600"
+                                   },
+                                   {
+                                       "icon":  "Zap",
+                                       "title":  "Installation rapide",
+                                       "desc":  "Licence délivrée en 3 À  7 jours",
+                                       "color":  "de cyan 400 À  ciel 600"
+                                   },
+                                   {
+                                       "icon":  "Portefeuille",
+                                       "title":  "Faible coût",
+                                       "desc":  "À€ partir de 5 999 AED",
+                                       "color":  "du ciel 400 au bleu 600"
+                                   },
+                                   {
+                                       "icon":  "Texte du fichier",
+                                       "title":  "Assistance TVA",
+                                       "desc":  "Consultation gratuite",
+                                       "color":  "de l\u0027indigo 400 au violet 600"
+                                   }
+                               ]
+                 },
+    "process":  {
+                    "badge":  "Processus en 6 étapes",
+                    "title":  "Comment débuter",
+                    "titleHighlight":  "Commencer",
+                    "subtitle":  "Du choix du forfait À  l\u0027ouverture du compte bancaire, nous nous occupons de tout.",
+                    "steps":  [
+                                  {
+                                      "step":  "01",
+                                      "icon":  "Cible",
+                                      "title":  "Choisissez votre forfait",
+                                      "description":  "Choisissez parmi nos forfaits prédéfinis.",
+                                      "color":  "de-émeraude-400 À -turquoise-600"
+                                  },
+                                  {
+                                      "step":  "02",
+                                      "icon":  "Signature du fichier",
+                                      "title":  "Soumettre des documents",
+                                      "description":  "Copies du passeport et photos.",
+                                      "color":  "de turquoise 400 À  cyan 600"
+                                  },
+                                  {
+                                      "step":  "03",
+                                      "icon":  "Vérification du presse-papiers",
+                                      "title":  "Demande de licence",
+                                      "description":  "Nous déposons une demande auprès de l\u0027autorité compétente SPC.",
+                                      "color":  "de cyan 400 À  ciel 600"
+                                  },
+                                  {
+                                      "step":  "04",
+                                      "icon":  "Défilement du texte",
+                                      "title":  "Recevez votre permis",
+                                      "description":  "Autorisation délivrée sous 3 À  7 jours.",
+                                      "color":  "du ciel 400 au bleu 600"
+                                  }
+                              ]
+                },
+    "whyChooseUs":  {
+                        "badge":  "Pourquoi nous choisir ?",
+                        "title":  "Votre partenaire de confiance pour la configuration SPC",
+                        "titleHighlight":  "Partenaire de configuration SPC",
+                        "subtitle":  "Huit raisons pour lesquelles des milliers d\u0027entrepreneurs nous font confiance.",
+                        "items":  [
+                                      {
+                                          "icon":  "Signe du dollar",
+                                          "label":  "Tarification transparente",
+                                          "desc":  "Aucuns frais cachés, jamais"
+                                      },
+                                      {
+                                          "icon":  "Zap",
+                                          "label":  "Installation rapide en 3 À  7 jours",
+                                          "desc":  "Délivrance rapide des permis"
+                                      },
+                                      {
+                                          "icon":  "Vérification du bouclier",
+                                          "label":  "Conformité À  100 %",
+                                          "desc":  "Entièrement approuvé par le gouvernement"
+                                      },
+                                      {
+                                          "icon":  "Vérification de l\u0027utilisateur",
+                                          "label":  "Consultant dévoué",
+                                          "desc":  "conseiller personnel"
+                                      },
+                                      {
+                                          "icon":  "Globe",
+                                          "label":  "Équipe multilingue",
+                                          "desc":  "Anglais, arabe, hindi, ourdou"
+                                      },
+                                      {
+                                          "icon":  "RefreshCw",
+                                          "label":  "Consultation en matière de TVA",
+                                          "desc":  "Inclus gratuitement"
+                                      },
+                                      {
+                                          "icon":  "Prix",
+                                          "label":  "Plus de 10 000 entreprises",
+                                          "desc":  "Lancement réussi"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Questions fréquentes",
+                 "title":  "Foire aux questions",
+                 "titleHighlight":  "Questions",
+                 "subtitle":  "Tout ce que vous devez savoir sur les kits d\u0027installation SPC. Vous avez encore des questions ? N\u0027hésitez pas À  nous contacter.",
+                 "items":  [
+                               {
+                                   "q":  "Qu\u0027est-ce qu\u0027une zone franche SPC ?",
+                                   "a":  "La zone franche SPC (Sharjah Publishing City) est une zone franche de premier plan À  Sharjah, spécialement conÀ§ue pour les entreprises des secteurs de l\u0027édition, des médias, de l\u0027éducation et de la création. Elle propose une installation À  faible coût, la possibilité d\u0027une propriété 100 % étrangère et une obtention rapide des licences (généralement sous 3 À  7 jours ouvrables)."
+                               },
+                               {
+                                   "q":  "Que contient le package d\u0027installation SPC ?",
+                                   "a":  "Selon la formule choisie, vous bénéficiez de la licence de zone franche, du visa de résidence, de l\u0027examen médical et de la carte d\u0027identité des Émirats, du contrat de location, de l\u0027assistance pour l\u0027ouverture d\u0027un compte bancaire, d\u0027une adresse prestigieuse et d\u0027une consultation gratuite sur la TVA."
+                               },
+                               {
+                                   "q":  "Combien coûte un forfait SPC ?",
+                                   "a":  "Nos forfaits SPC débutent À  5 999 AED (économique) et vont jusqu\u0027À  16 999 AED (Chine continentale + résidence). Les forfaits premium avec visa sont disponibles À  partir de 14 499 AED."
+                               },
+                               {
+                                   "q":  "Combien de temps dure l\u0027installation ?",
+                                   "a":  "Il faut généralement compter 3 À  7 jours ouvrables pour la délivrance du permis, et 1 À  2 semaines supplémentaires pour le traitement du visa et l\u0027ouverture du compte bancaire."
+                               },
+                               {
+                                   "q":  "Puis-je personnaliser mon forfait ?",
+                                   "a":  "Oui. Tous les forfaits sont des points de départ et peuvent être personnalisés en fonction de votre activité commerciale, de vos besoins en matière de visa et de votre budget."
+                               },
+                               {
+                                   "q":  "Vais-je obtenir un visa de résidence pour les Émirats arabes unis ?",
+                                   "a":  "Oui, certains forfaits incluent un visa d\u0027investisseur/résident des Émirats arabes unis avec examen médical, carte d\u0027identité émirienne et changement de statut. La licence de zone franche avec résidence À  vie aux Émirats arabes unis offre même une résidence À  vie."
+                               },
+                               {
+                                   "q":  "L\u0027ouverture d\u0027un compte bancaire est-elle incluse ?",
+                                   "a":  "Oui. Tous nos forfaits incluent une assistance gratuite pour l\u0027ouverture d\u0027un compte bancaire professionnel auprès des principales banques des Émirats arabes unis."
+                               },
+                               {
+                                   "q":  "Quelles activités commerciales puis-je exercer ?",
+                                   "a":  "SPC prend en charge l\u0027édition, les médias, le commerce électronique, les services informatiques, les industries créatives et les services professionnels "” avec jusqu\u0027À  5 activités dans la plupart des formules économiques."
+                               },
+                               {
+                                   "q":  "Dois-je être physiquement présent ?",
+                                   "a":  "La plupart des démarches peuvent être effectuées À  distance, mais les tests médicaux et la collecte des données biométriques pour la carte d\u0027identité émirienne nécessitent une brève visite aux Émirats arabes unis."
+                               },
+                               {
+                                   "q":  "Pourquoi choisir Setup Zone Dubai pour la configuration de votre SPC ?",
+                                   "a":  "Nous proposons une tarification transparente, un traitement rapide, des consultants dédiés et un accompagnement complet, de l\u0027obtention de la licence À  l\u0027ouverture d\u0027un compte bancaire. Plus de 10 000 installations réussies À  notre actif."
+                               }
+                           ]
+             },
+    "finalCTA":  {
+                     "badge":  "Démarrez votre entreprise À  Sharjah dès aujourd\u0027hui",
+                     "title":  "Prêt À  lancer le package SPC ?",
+                     "titleHighlight":  "Paquet SPC ?",
+                     "subtitle":  "Bénéficiez d\u0027une consultation gratuite. Nous vous aiderons À  choisir la formule qui vous convient et À  rendre votre entreprise opérationnelle en quelques jours.",
+                     "primaryCta":  "Contactez-nous sur WhatsApp",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tél. : +971566556645",
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite concernant le forfait d\u0027installation SPC À  Sharjah.",
+                     "badges":  [
+                                    "À€ partir de 5 999 AED",
+                                    "Installation en 3 À  7 jours",
+                                    "Propriété À  100 %"
+                                ],
+                     "office":  {
+                                    "label":  "Visitez notre bureau de Dubaï",
+                                    "line1":  "Bureau M08-27, 1er étage, Crystal Tower",
+                                    "line2":  "Business Bay, Dubaï, Émirats arabes unis "” Boîte postale : 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Heures de travail",
+                                   "monFri":  "9h00 "“ 18h00",
+                                   "saturday":  "10h00 "“ 17h00",
+                                   "sunday":  "Fermé"
+                               }
+                 }
+}

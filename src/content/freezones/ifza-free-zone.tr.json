@@ -1,0 +1,591 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "Uluslararası Serbest Bölge Otoritesi",
+  "heroTitle": "IFZA Serbest Bölgesi",
+  "heroTitleHighlight": "Serbest Bölge",
+  "heroSubtitle": "Birleşik Arap Emirlikleri'nin en hızlı büyüyen ve dinamik serbest bölgelerinden biri. %100 yabancı mülkiyeti, %0 vergi, tamamen uzaktan çalışma imkanı — yeni kurulan şirketler, KOBİ'ler ve küresel girişimciler için mükemmel.",
+  "heroChips": [
+    "%100 Sahiplik",
+    "%0 Vergi",
+    "2-3 Gün Kurulum"
+  ],
+  "heroCards": {
+    "primary": {
+      "badge": "En İyi Değer",
+      "icon": "DollarSign",
+      "label": "Lisans",
+      "value": "11.500 AED",
+      "highlight": "2-3 Gün",
+      "highlightLabel": "setup",
+      "footer": "Şeffaf fiyatlandırma, gizli ücret yok.",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "Tamamen Uzaktan",
+      "value": "%99 Çevrimiçi",
+      "title": "İstediğiniz Yerde Kurulum",
+      "subtext": "Dubai'yi ziyaret etmenize gerek yok.",
+      "color": "from-fuchsia-400 to-pink-500"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Kurulum Günleri",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Vergi Oranı",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Users",
+      "value": "20.000+",
+      "label": "Şirketler",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyIfzaSection": {
+    "badge": "Neden IFZA?",
+    "title": "IFZA Serbest Bölgesini Neden Seçmelisiniz?",
+    "titleHighlight": "IFZA Serbest Bölgesi mi?",
+    "subtitle": "Uluslararası standartlara ve esnek, düşük maliyetli çözümlere sahip, BAE'nin en hızlı büyüyen serbest bölgelerinden biri.",
+    "primaryCard": {
+      "icon": "Zap",
+      "title": "Hızlı ve Uygun Maliyetli",
+      "description": "Düşük, şeffaf fiyatlar ve özel paket seçenekleriyle 2-3 gün gibi kısa bir sürede kayıt yaptırın.",
+      "color": "from-violet-500 via-purple-600 to-violet-700"
+    },
+    "secondaryCards": [
+      {
+        "icon": "Globe",
+        "title": "%99 Çevrimiçi Kurulum",
+        "description": "Tamamen dijital portal — uzaktan çalışan girişimciler için mükemmel.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Küresel Ekosistem",
+        "description": "Çok dilli destek ve dünya çapında girişimci ağı.",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Başlıca Faydalar",
+    "title": "IFZA Serbest Bölgesinin Başlıca Faydaları",
+    "titleHighlight": "IFZA Serbest Bölgesi",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "description": "Yerel bir sponsora ihtiyaç duymadan, %100 sahiplik ve %100 kar ve sermaye transferi imkanıyla kendi işinizi kurun.",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80"
+      },
+      {
+        "icon": "Zap",
+        "title": "Tamamen Uzaktan Kurulum — %99 Çevrimiçi",
+        "description": "IFZA'nın dijital portalı ve e-hizmetleri, şirketinizin kurulumunu ve yönetimini tamamen çevrimiçi olarak gerçekleştirmenizi sağlar.",
+        "color": "from-purple-400 to-fuchsia-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "%0 Kurumlar ve Kişisel Vergi",
+        "description": "Kurumlar vergisi ve kişisel gelir vergisinde %0 oranından faydalanırsınız; bu da IFZA'yı BAE'deki en avantajlı yargı bölgesi haline getirir.",
+        "color": "from-fuchsia-400 to-pink-600",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80"
+      },
+      {
+        "icon": "FileText",
+        "title": "Çoklu Lisans Seçenekleri",
+        "description": "Tercih ettiğiniz IFZA ticari, profesyonel, endüstriyel, offshore veya sanal varlık lisansını seçin.",
+        "color": "from-indigo-400 to-violet-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80"
+      },
+      {
+        "icon": "Clock",
+        "title": "Hız ve Maliyet Verimliliği",
+        "description": "IFZA şirket kaydınızı düşük ve şeffaf fiyatlarla sadece 2-3 gün içinde tamamlayın.",
+        "color": "from-pink-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "Premium İş Ekosistemi",
+        "description": "IFZA ekosistemini genişleterek uluslararası girişimcileri bankacılık, danışmanlık ve PRO hizmetleriyle buluşturuyoruz.",
+        "color": "from-cyan-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lisans Türleri",
+    "title": "IFZA'dan 7 Lisans Kategorisi",
+    "titleHighlight": "IFZA",
+    "subtitle": "Çeşitli ticari faaliyetler için geniş bir lisans yelpazesi.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Ticaret Lisansı",
+        "description": "İthalat, ihracat, toptan satış veya dağıtım için.",
+        "code": "TRD",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Profesyonel Lisans",
+        "description": "Danışmanlar, serbest çalışanlar ve hizmet sağlayıcılar için.",
+        "code": "PRO",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Ticari Lisans",
+        "description": "Tüm sektörlerdeki ticaret şirketleri için.",
+        "code": "COM",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Sanayi Lisansı",
+        "description": "İmalat, paketleme ve üretim için.",
+        "code": "IND",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Compass",
+        "title": "Turizm Lisansı",
+        "description": "Seyahat acenteleri ve turizm işletmecileri için.",
+        "code": "TRS",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "Açık Deniz Lisansı",
+        "description": "Birleşik Arap Emirlikleri'nde ofisi bulunmayan uluslararası işletmeler için.",
+        "code": "KAPALI",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Blocks",
+        "title": "Metaverse Hizmetleri Lisansı",
+        "description": "Sanal ekonomi ve dijital varlık işletmeleri için.",
+        "code": "MTV",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "officeOptionsSection": {
+    "badge": "Ofis Çözümleri",
+    "title": "Ölçeklenebilir Altyapı Seçenekleri",
+    "titleHighlight": "Altyapı Seçenekleri",
+    "subtitle": "Yeni kurulan şirketler, KOBİ'ler ve çokuluslu şirketler için özel olarak tasarlanmıştır.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Esnek Masa",
+        "description": "Yeni kurulan şirketler ve serbest çalışanlar için bütçe dostu ortak çalışma alanları.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Akıllı Ofisler",
+        "description": "Esneklik ve maliyet tasarrufu sağlayan, kullanıma hazır ortak ofisler.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Özel Ofis",
+        "description": "Yüksek hızlı internet ve olanaklara sahip kurumsal ofisler.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "IFZA Akademisi",
+        "description": "Girişimciler için sektörel eğitim ve beceri geliştirme programları.",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "complianceSection": {
+    "badge": "Uyumluluk ve Düzenleyici Destek",
+    "title": "Tam Uyumluluk Desteği",
+    "titleHighlight": "Uyumluluk Desteği",
+    "subtitle": "Tüm yasal ve düzenleyici yükümlülükleriniz sizin için yönetilir.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "UBO Uyumluluğu",
+        "description": "Yasal şeffaflık ve BAE'nin mali suçlarla mücadele yasalarına uyum için gerçek sahiplerin bildirilmesi."
+      },
+      {
+        "icon": "Scale",
+        "title": "ESR Uyumluluğu",
+        "description": "Ekonomik Etki Düzenlemeleri ve uygun raporlama için tavsiyeler ve dokümantasyon."
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "AML Uyumluluğu",
+        "description": "Risk değerlendirmeleri, durum tespiti, işlem izleme ve çalışan eğitimi."
+      },
+      {
+        "icon": "Receipt",
+        "title": "IFZA KDV Danışmanlığı",
+        "description": "Birleşik Arap Emirlikleri Federal Vergi Otoritesi kapsamında KDV kaydı, kayıt tutma ve beyanname verme işlemleri."
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Lisans Yenileme Hizmetleri",
+        "description": "Otomatik evrak işlemleri ve elektronik hatırlatıcılar sayesinde hızlı yenileme süreçleri."
+      },
+      {
+        "icon": "FileBadge",
+        "title": "IFZA PRO Hizmetleri",
+        "description": "Belge tercümesi, noter tasdiki, çalışma kartları ve göçmenlik onayları."
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "Küresel Girişimciler",
+    "title": "IFZA'nın Küresel Girişimciler İçin İdeal Olmasının Nedenleri",
+    "titleHighlight": "Küresel Girişimciler İçin İdeal",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "IFZA Küresel Kurulumu",
+        "description": "Birleşik Arap Emirlikleri'ndeki yatırımlarını aktif hale getirmek isteyen yurtdışı yatırımcılar için idealdir.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Receipt",
+        "title": "Şeffaf Fiyatlandırma",
+        "description": "Gizli ücret yok, sürpriz yok — sadece sabit fiyatlı paketler.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "İş Dünyası Analizleri ve Haberleri",
+        "description": "Uzman blog yazıları, piyasa güncellemeleri ve sektör analizleri.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "IFZA Akademisi ve Eğitim",
+        "description": "Ekibinizin becerilerini geliştirmek için dünya standartlarında eğitim programları.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "Kimler İçin",
+    "title": "IFZA'da Kimler Şirket Kurmalı?",
+    "titleHighlight": "IFZA'da mı?",
+    "items": [
+      {
+        "icon": "Code",
+        "title": "Yeni Girişimler ve Teknoloji Girişimcileri",
+        "description": "Uygun maliyetli ortak çalışma alanlarıyla pazara giriş sürenizi hızlandırın.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Dijital Hizmet Sağlayıcıları",
+        "description": "Düşük işletme giderlerine sahip yaratıcı profesyoneller ve serbest çalışanlar.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-ticaret ve Ticaret",
+        "description": "İdeal konum, lojistik desteği ve gümrük avantajları.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Blocks",
+        "title": "Sanal Varlık İşletmeleri",
+        "description": "Metaverse hizmetleri için blockchain ve kripto para işletme lisansları.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Profesyonel Hizmetler",
+        "description": "Uygun fiyatlı lisanslara ihtiyaç duyan danışmanlar ve hizmet sağlayıcılar.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Nasıl Yardım Ediyoruz?",
+    "title": "IFZA Şirket Kurulum Sürecimiz",
+    "titleHighlight": "Oluşum Süreci",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Ücretsiz Danışmanlık ve İş Planı",
+        "description": "İşletmenizin hedeflerini, sektörünü ve uzun vadeli beklentilerini değerlendirerek size en uygun lisansı öneriyoruz.",
+        "icon": "MessageCircle",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "title": "Ticari İsim Rezervasyonu",
+        "description": "Ticari isim rezervasyonu için tüm süreç — ismin kullanılabilir, yasalara uygun ve tescilli olmasını sağlama.",
+        "icon": "FileText",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "title": "Lisans Başvurusu ve Verilmesi",
+        "description": "IFZA dijital portalı üzerinden doğrudan başvuru — lisans birkaç iş günü içinde verilir.",
+        "icon": "BadgeCheck",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "title": "Ofis ve Çalışma Alanı Seçimi",
+        "description": "Dubai Silicon Oasis'te bütçenize uygun esnek çalışma masası, akıllı ofis veya özel alan.",
+        "icon": "Building2",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "05",
+        "title": "Vize Hizmetleri",
+        "description": "Tam vize süreci: giriş izinleri, Emirates Kimlik Kartı, sağlık testleri ve oturma vizesi damgalama.",
+        "icon": "UserCheck",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "06",
+        "title": "Banka Hesabı ve Sigorta",
+        "description": "Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal banka hesabı açılması + sağlık sigortası danışmanlığı.",
+        "icon": "CreditCard",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "costTimelineSection": {
+    "badge": "Maliyet ve Zaman Çizelgesi",
+    "title": "Şeffaf Fiyatlandırma (2026)",
+    "titleHighlight": "Fiyatlandırma (2026)",
+    "subtitle": "IFZA, şeffaf ve her şey dahil fiyatlandırmasıyla bilinir. Gizli ücret yok.",
+    "costBreakdown": [
+      {
+        "item": "Lisans (başlangıç)",
+        "cost": "11.500",
+        "notes": "Kayıt işlemi dahildir.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "item": "Esnek masa",
+        "cost": "7.500 - 9.000",
+        "notes": "Yıllık gereksinim",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "item": "Vize (kişi başına)",
+        "cost": "4.500 - 6.500",
+        "notes": "Emirates kimlik kartı dahil",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "item": "Kuruluş kartı",
+        "cost": "1.500 - 2.000",
+        "notes": "Yıllık",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "item": "KDV kaydı",
+        "cost": "1.000 - 2.000",
+        "notes": "Gerekirse",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ],
+    "year1Total": {
+      "label": "Tipik 1. Yıl Toplamı",
+      "subtext": "Tek hissedarlı şirket, tek vizeyle.",
+      "fromLabel": "İtibaren",
+      "minValue": "24.000",
+      "maxValue": "35.000"
+    },
+    "timelineBadge": "IFZA Zaman Çizelgesi",
+    "timelineTitle": "Neler Beklenmeli",
+    "timeline": [
+      {
+        "day": "1. Gün",
+        "title": "İsim Rezervasyonu + Aktivite Seçimi",
+        "description": "Ticari adınızı tescil ettirmenize ve doğru iş faaliyetini seçmenize yardımcı oluyoruz.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "day": "2-3. Gün",
+        "title": "Belgeler incelendi, lisans verildi.",
+        "description": "Başvurunuz incelenir ve lisansınız birkaç iş günü içinde verilir.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "day": "1-2. Hafta",
+        "title": "Vize Sağlık Kontrolü, Emirates Kimliği, Damgalama",
+        "description": "Tıbbi testler ve Emirates Kimlik biyometrik işlemleri de dahil olmak üzere eksiksiz vize işlemleri.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "day": "2-3. Hafta",
+        "title": "Kurumsal Banka Hesabı Açıldı",
+        "description": "Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal banka hesabı açmanıza yardımcı oluyoruz.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "comparisonTitle": "IFZA vs Rakez vs Meydan",
+    "comparisonSubtitle": "Bütçe Serbest Bölge Karşılaştırması",
+    "comparisonHeaders": {
+      "factor": "Faktör",
+      "ifza": "IFZA",
+      "rakez": "Rakez",
+      "meydan": "Meydan"
+    },
+    "comparison": [
+      {
+        "factor": "Başlangıç maliyeti",
+        "ifza": "11.500 AED",
+        "rakez": "6.000 AED",
+        "meydan": "5.750 AED"
+      },
+      {
+        "factor": "Vize kotası",
+        "ifza": "15'e kadar",
+        "rakez": "10'a kadar",
+        "meydan": "6'ya kadar"
+      },
+      {
+        "factor": "İşlem hızı",
+        "ifza": "3 iş günü",
+        "rakez": "1-3 gün",
+        "meydan": "1-2 gün"
+      },
+      {
+        "factor": "Konum",
+        "ifza": "Dubai Silikon Vahası",
+        "rakez": "Ras Al Khaimah",
+        "meydan": "Dubai (Meydan)"
+      },
+      {
+        "factor": "Bankacılık dostu",
+        "ifza": "Harika",
+        "rakez": "İyi",
+        "meydan": "İyi"
+      }
+    ],
+    "verdictLabel": "Karar:",
+    "verdictText": "IFZA, ölçek ekonomisine ihtiyaç duyan işlem şirketleri için ideal bir nokta; Rakez ve Meydan ise maliyet açısından en iyiler arasında."
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "IFZA Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "IFZA uzmanlarımızla ücretsiz görüşme yapın.",
+      "whatsappMessage": "Merhaba! IFZA Serbest Bölgesi hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "IFZA nedir ve Dubai'de şirket kurmak için onu mükemmel kılan nedir?",
+        "a": "IFZA, düşük kurulum maliyeti, %100 yabancı mülkiyeti ve esnek lisanslamasıyla bilinen Dubai'nin en iyi serbest bölgelerinden biridir. Sıfır kurumlar vergisi veya kişisel gelir vergisi — küresel girişimciler, KOBİ'ler ve yeni kurulan şirketler için idealdir."
+      },
+      {
+        "q": "IFZA'da şirket kurulumu ne kadar hızlı?",
+        "a": "Profesyonel destekle genellikle 2-3 iş günü sürer. Gerekirse süreci daha da hızlandırabiliriz."
+      },
+      {
+        "q": "IFZA ile hangi lisansları alabilirim?",
+        "a": "Ticari, Profesyonel, Endüstriyel, Açık Deniz, Turizm ve Metaverse/Sanal Varlıklar lisansları."
+      },
+      {
+        "q": "IFZA ile işimi uzaktan yürütebilir miyim?",
+        "a": "Evet. IFZA'nın dijital portalı, %99 oranında çevrimiçi kurulum ve yönetim imkanı sunuyor; bu da uzaktan çalışan kurucular için mükemmel bir çözüm."
+      },
+      {
+        "q": "IFZA, %100 yabancı mülkiyetine izin veriyor mu?",
+        "a": "Evet. Tamamen yabancı mülkiyet, kârların ve sermayenin %100'ünün geri getirilmesi – yerel sponsor gerekmiyor."
+      },
+      {
+        "q": "IFZA'da kurumlar vergisi veya gelir vergisi var mı?",
+        "a": "Hayır. Kurumlar vergisi %0 ve kişisel gelir vergisi %0; bu da BAE'deki en avantajlı yargı bölgesi anlamına geliyor."
+      },
+      {
+        "q": "IFZA hangi ofis alanı seçeneklerini sunuyor?",
+        "a": "Dubai Silicon Oasis'te Esnek Çalışma Masaları, Akıllı Ofisler, Özel Ofis Alanları ve Gayrimenkul Hizmetleri."
+      },
+      {
+        "q": "IFZA şirketim için banka hesabı açmama yardımcı olabilir misiniz?",
+        "a": "Evet. Kurumsal hesabınızı minimum belge gereksinimiyle açmak için BAE'nin önde gelen bankalarıyla çalışıyoruz."
+      },
+      {
+        "q": "IFZA ne tür uyumluluk desteği sunuyor?",
+        "a": "Gerçek faydalanıcı uyumluluğu, kurumsal sosyal sorumluluk (ESR) uyumluluğu, kara para aklama ile mücadele (AML) uyumluluğu, KDV danışmanlığı, lisans yenileme ve PRO hizmetleri."
+      },
+      {
+        "q": "IFZA kurulumunun maliyeti ne kadar?",
+        "a": "Lisans ücreti 11.500 AED'den başlıyor + Esnek çalışma masası 7.500-9.000 AED + vize 4.500-6.500 AED. Tipik 1. yıl toplamı: 24.000 - 35.000 AED."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "Serbest Bölge kurulumunuzla iyi uyum sağlayan hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Uyumluluk Hizmetleri",
+        "description": "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Altın Vize",
+        "description": "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bugün Başlayın",
+    "title": "IFZA'da lansman yapmaya hazır mısınız?",
+    "titleHighlight": "IFZA?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Faaliyet seçiminden lisans verilmesine ve banka hesabı açılmasına kadar kurulum sürecinde size rehberlik edeceğiz.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "20.000'den fazla Müşteri",
+      "2-3 Gün Kurulum"
+    ],
+    "whatsappMessage": "Merhaba! IFZA kurulumu için ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! IFZA kurulumu hakkında konuşmak istiyorum."
+  }
+}

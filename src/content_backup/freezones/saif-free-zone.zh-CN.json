@@ -1,0 +1,402 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1600&q=80",
+  "heroBadge": "沙迦机场国际自由区",
+  "heroTitle": "赛富自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "这是阿联酋地理位置最具战略意义的自由区之一——毗邻沙迦国际机场，可直达主要高速公路和海港。是物流、制造业和国际贸易的理想之选。",
+  "heroChips": [
+    "当天安装",
+    "0% 税率",
+    "机场附近"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "当天",
+      "label": "登记",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税务及海关",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Plane",
+      "value": "飞机场",
+      "label": "相邻区域",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whySaifSection": {
+    "badge": "为什么选择SAIF Zone",
+    "title": "在SAIF自由区成立公司的好处",
+    "titleHighlight": "赛富自由区",
+    "subtitle": "阿联酋地理位置最具战略意义的自由区之一。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全掌控决策、利润和运营。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "企业及个人所得税均为 0%。",
+        "description": "无个人所得税，无公司税——收入更多，再投资更多。",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Package",
+        "title": "免征进出口关税",
+        "description": "区域内进出口免征所有关税。",
+        "color": "from-cyan-400 to-sky-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Plane",
+        "title": "黄金地段，毗邻沙迦机场",
+        "description": "可直接通往阿联酋主要公路和海港——是物流、配送、货运代理和国际贸易的理想选择。",
+        "color": "from-sky-400 to-blue-600",
+        "size": "大的"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速设置时间",
+        "description": "当天即可完成注册，即时获得驾照批准，并提供完整的电子版文件。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Building2",
+        "title": "多种设施",
+        "description": "即用型办公室、轻工业厂房、仓库和可定制的土地面积。",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "小的"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "选择合适的赛富保险许可证",
+    "titleHighlight": "SAIF许可证",
+    "subtitle": "快速、简便、准确——我们根据您的业务活动帮助您进行选择。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "商业许可",
+        "description": "适用于一般贸易、进出口和批发。",
+        "code": "COM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "适用于咨询、法律、人力资源和物流服务。",
+        "code": "SRV",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "用于制造、加工和组装作业。",
+        "code": "IND",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "适用于在线企业和数字贸易平台。",
+        "code": "细胞外基质",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "自由职业者和创业许可证",
+        "description": "面向个人专业人士和创业者的专用许可证。",
+        "code": "FRL",
+        "color": "from-emerald-500 to-green-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "我们如何提供帮助",
+    "title": "从起步到规模化——每一步都尽在掌控",
+    "titleHighlight": "每一步都处理妥当",
+    "subtitle": "为您提供完整的SAIF自由区设置服务，涵盖所有环节。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "活动选择及姓名预留",
+        "description": "我们帮助您选择最合适的赛富投资基金业务活动，并根据赛富投资基金的规定预留一个独特的公司名称。",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "公司成立及许可证申请",
+        "description": "我们的团队会提交所有文件和表格，以获得您的 SAIF 贸易许可证——商业、工业或服务。",
+        "icon": "FileText",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "签证流程及设立卡",
+        "description": "我们让申请投资者或雇员签证以及SAIF设立卡变得轻松便捷。",
+        "icon": "UserCheck",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "办公室或仓库选择",
+        "description": "我们提供一系列符合您的计划和预算的办公空间、轻工业厂房或仓库选择。",
+        "icon": "Warehouse",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "银行账户及文件认证",
+        "description": "我们会为您开设公司银行账户，并根据需要对文件进行公证/认证。",
+        "icon": "CreditCard",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "06",
+        "title": "专业服务及医疗注册",
+        "description": "我们提供体检、阿联酋身份证、签证盖章、劳工许可和续签等服务，只需一个联系人即可完成。",
+        "icon": "ClipboardCheck",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      },
+      {
+        "step": "07",
+        "title": "许可证续期及合规性",
+        "description": "我们的合规团队确保您的企业保持活跃状态并随时准备接受审计，按时完成续期。",
+        "icon": "RefreshCw",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "step": "08",
+        "title": "为最终受益所有人 (UBO)、企业社会责任 (ESR) 和反洗钱 (AML) 提供法律支持。",
+        "description": "根据阿联酋法律，为UBO、ESR和AML合规提供咨询和备案支持。",
+        "icon": "ShieldCheck",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+      }
+    ]
+  },
+  "digitalGrowthSection": {
+    "badge": "数字增长",
+    "title": "在SAIF，您能否实现数字化增长？",
+    "titleHighlight": "在SAIF进行数字化？",
+    "subtitle": "当然！您的旅程并不会止步于获得授权——我们将为您打造面向未来的数字化形象。",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "网站及电子商务开发",
+        "description": "现代化的响应式网站和在线商店。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM 和 CMS 集成",
+        "description": "简化赛富基金旗下企业的运营流程。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Search",
+        "title": "沙迦和阿联酋的SEO服务",
+        "description": "提高谷歌排名，吸引自然流量。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "支付网关设置",
+        "description": "集成安全支付解决方案。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "社交媒体和点击付费广告",
+        "description": "精准有效的营销活动。",
+        "color": "from-emerald-500 to-green-600"
+      },
+      {
+        "icon": "Award",
+        "title": "商标注册及品牌",
+        "description": "保护并打造您的品牌形象。",
+        "color": "from-teal-500 to-cyan-600"
+      }
+    ]
+  },
+  "liquidationSection": {
+    "badge": "清算与合规",
+    "title": "轻松退出企业",
+    "titleHighlight": "轻松上手",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "100% 合法",
+    "imageBadgeText": "合规退出",
+    "paragraphs": [
+      "如果您准备在 SAIF 关闭或退出您的企业，我们将使整个清算过程变得轻松、合法且无痛。",
+      "我们会结清未付账款，取消员工签证，遵守所有离职程序，并向SAIF当局注销您的营业执照。",
+      "我们还负责资产转移、最终审计以及获取所有必要的无异议证明（NOC）——让您能够充满信心地退出您的企业。"
+    ],
+    "highlights": [
+      "账单清算",
+      "签证取消",
+      "许可证停用",
+      "资产转移",
+      "最终审核",
+      "NOC援助"
+    ]
+  },
+  "activitiesSection": {
+    "badge": "允许的活动",
+    "title": "沙特机场自由区允许进行哪些活动？",
+    "titleHighlight": "赛富自由区？",
+    "subtitle": "这是阿联酋所有自由区中最丰富多样的商业活动之一。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "贸易及进出口",
+        "description": "批发分销，快速授权。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "仓储与物流",
+        "description": "靠近沙迦机场和主要海港。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "制造与组装",
+        "description": "轻型组装、包装、电子产品和印刷。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "技术与IT服务",
+        "description": "软件开发和数字服务。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "市场营销与媒体",
+        "description": "咨询公司、媒体公司和内容创作公司。",
+        "color": "from-emerald-500 to-green-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "航空服务",
+        "description": "机场附近企业和货运代理。",
+        "color": "from-teal-500 to-cyan-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于赛富自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的SAIF专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于赛富自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在沙特阿卜杜拉自由区注册新公司的流程是什么？",
+        "a": "选择营业执照（商业、服务、工业或电子商务），选择您的业务活动，预留公司名称，提交文件，办理签证和营业执照，并租赁办公室或仓库。所有这些步骤都由我们为您处理。"
+      },
+      {
+        "q": "在沙特机场自由贸易区注册公司需要多长时间？",
+        "a": "沙特机场自由区提供当日注册和即时许可证审批服务。通常情况下，所有手续可在 2-5 个工作日内完成。"
+      },
+      {
+        "q": "在沙特机场自由区 (SAIF Zone) 可以办理哪些类型的营业执照？",
+        "a": "商业、服务、工业、电子商务许可证，以及自由职业者和创业许可证——每一种都针对不同的商业活动量身定制。"
+      },
+      {
+        "q": "作为外国人，我可以合法地拥有赛富投资基金公司100%的股份吗？",
+        "a": "是的。沙特机场自由区允许100%外资所有权——无需当地担保人。"
+      },
+      {
+        "q": "在沙特机场自由区 (SAIF Free Zone) 内，您可以享受哪些税收优惠？",
+        "a": "个人所得税和企业所得税为零，进出口不征收关税，利润全部汇回。"
+      },
+      {
+        "q": "沙特机场自由区提供哪些类型的设施？",
+        "a": "即用型办公空间、轻工业厂房、仓库和可定制的工业用地。"
+      },
+      {
+        "q": "赛义德自由区对于物流和/或制造企业来说是一个好的选择吗？",
+        "a": "当然。沙迦机场毗邻沙迦国际机场，可直达主要高速公路和海港——是物流、配送、货运代理、制造和组装的理想场所。"
+      },
+      {
+        "q": "能否获得SAIF签证服务方面的帮助？",
+        "a": "是的。我们办理投资签证、员工签证、家庭担保、阿联酋身份证、体检和续签等业务。"
+      },
+      {
+        "q": "SAIF 旗下公司需要哪些合规服务？",
+        "a": "UBO 报告、ESR 备案、反洗钱合规、许可证续期和持续监管监控。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的沙特自由贸易区 (SAIF) 设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "专业服务",
+        "description": "阿联酋身份证、劳工卡、签证盖章和续签。",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始",
+    "title": "准备在赛富国际金融中心（SAIF）上市？",
+    "titleHighlight": "赛富？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "当天安装",
+      "0% 税率"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于SAIF系统设置的免费咨询。",
+    "whatsappCardMessage": "您好！我想讨论一下SAIF的设置。"
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "slug": "hiring-employee-management",
+  "hero": {
+    "badge": "Encuentra y recluta al mejor talento",
+    "title": "Contratación en los EAU — Gestión de personal",
+    "titleHighlight": "Gestión de empleados",
+    "subtitle": "Soluciones profesionales de reclutamiento y selección de personal en Dubái y en todos los Emiratos írabes Unidos. Desde la búsqueda hasta la incorporación, encontramos el talento que impulsa el crecimiento de su negocio.",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+    "breadcrumbLabel": "Contratación en los Emiratos írabes Unidos",
+    "breadcrumbParent": "Continente",
+    "ctaPrimaryText": "Obtén una consulta gratuita",
+    "ctaPrimaryLink": "#contacto",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "¡Hola! Estoy interesado en contratar servicios en los Emiratos írabes Unidos.",
+    "badges": [
+      "Más de 10.000 colocaciones",
+      "Cumple con el MOHRE",
+      "Contratación masiva",
+      "emiratización"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "Más de 10.000",
+      "label": "Colocaciones realizadas",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "4",
+      "label": "Continentes de origen",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "Cumple con el MOHRE",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "48 horas",
+      "label": "Tiempo promedio de preselección",
+      "color": "from-purple-400 to-fuchsia-600"
+    }
+  ],
+  "intro": {
+    "badge": "Por qué es importante",
+    "title": "¿Por qué es tan importante contratar al talento adecuado?",
+    "titleHighlight": "¿Tan importante?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "Talento adecuado",
+    "imageBadgeText": "Crecimiento correcto",
+    "paragraph1": "El entorno empresarial altamente competitivo y dinámico de los Emiratos írabes Unidos demuestra que la base del éxito no reside únicamente en la contratación de empleados, sino en la contratación de las personas adecuadas, capacitadas, cualificadas y motivadas, que puedan vincularse directamente con el crecimiento de su negocio.",
+    "paragraph2": "En los sectores de finanzas, banca, tecnología, servicios informáticos, comercio electrónico, venta minorista, hostelería, turismo, construcción, logística, sanidad, educación e industrias creativas, encontrar y retener el talento adecuado es uno de los factores clave que impulsan el crecimiento de las empresas líderes.",
+    "paragraph3": "Con las soluciones de reclutamiento de Setup Zone Dubai, simplificamos la contratación a través de servicios integrales: comparación de perfiles, selección, verificación de antecedentes, evaluación de habilidades, tramitación de visas y gestión de contratos.",
+    "features": [
+      "Habilidades adecuadas",
+      "Adaptación cultural",
+      "Conocimientos del sector",
+      "Impulso a la productividad",
+      "Estabilidad",
+      "Crecimiento sostenible"
+    ]
+  },
+  "industriesSection": {
+    "badge": "Soluciones de talento para todos los sectores.",
+    "title": "¿Para qué sectores contratamos personal?",
+    "titleHighlight": "¿Contratar para?",
+    "subtitle": "Descubre nuestra experiencia en el sector: 7 sectores, infinitas posibilidades.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Corporativo y Administrativo",
+        "description": "Administradores ejecutivos, contadores, gerentes de recursos humanos, administradores de oficina, secretarios corporativos y personal de apoyo para la alta dirección.",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "roles": [
+          "Administración ejecutiva",
+          "Contadores",
+          "Gerentes de Recursos Humanos",
+          "Secretarios corporativos"
+        ]
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Ventas y marketing",
+        "description": "Desarrollo de negocios, marketing digital, gerentes de marketing, gerentes de ventas, ejecutivos de cuentas y especialistas de marca.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "roles": [
+          "Desarrollo de negocios",
+          "Marketing digital",
+          "Gerentes de ventas",
+          "Especialistas de marca"
+        ]
+      },
+      {
+        "icon": "Cpu",
+        "title": "Tecnologías de la Información",
+        "description": "Desarrolladores, ingenieros informáticos, analistas de datos, expertos en ciberseguridad, computación en la nube y consultores de transformación digital.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "roles": [
+          "Desarrolladores",
+          "Ingenieros informáticos",
+          "Analistas de datos",
+          "Ciberseguridad"
+        ]
+      },
+      {
+        "icon": "Crown",
+        "title": "Hostelería y turismo",
+        "description": "Gerentes de hotel, chefs ejecutivos, personal de relaciones con los huéspedes, organizadores de eventos, jefes de limpieza y consultores de viajes.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "roles": [
+          "Gerentes de hotel",
+          "Chefs ejecutivos",
+          "Relaciones con los huéspedes",
+          "Organizadores de eventos"
+        ]
+      },
+      {
+        "icon": "Factory",
+        "title": "Construcción e ingeniería",
+        "description": "Directores de proyecto, ingenieros civiles, mecánicos y eléctricos, arquitectos, supervisores de obra y obreros cualificados.",
+        "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "roles": [
+          "Gerentes de proyecto",
+          "Ingenieros",
+          "arquitectos",
+          "Supervisores de obra"
+        ]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Salud y bienestar",
+        "description": "Médicos, enfermeras, fisioterapeutas, farmacéuticos, terapeutas, técnicos médicos y gerentes de clínicas.",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "roles": [
+          "médicos",
+          "enfermeras",
+          "farmacéuticos",
+          "Terapeutas"
+        ]
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Educación y formación",
+        "description": "Profesores cualificados, coordinadores académicos, desarrolladores de planes de estudio, conferenciantes, formadores y especialistas en aprendizaje.",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-rose-500 to-red-700",
+        "roles": [
+          "profesores",
+          "Coordinadores",
+          "Profesores",
+          "Zapatos de deporte"
+        ]
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Contratación eficiente, riesgo reducido",
+    "title": "¿Cómo funciona nuestro proceso de contratación en los Emiratos írabes Unidos?",
+    "titleHighlight": "Proceso de contratación en los EAU",
+    "subtitle": "Haz clic en cada paso para expandirlo y ver todos los detalles.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "UserPlus",
+        "title": "Búsqueda de talento",
+        "description": "Acceda a una red de profesionales altamente cualificados en Dubái, Abu Dabi e internacionalmente a través de diversas plataformas de reclutamiento y contactos en el sector.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSearch",
+        "title": "Selección de candidatos",
+        "description": "Preselección, evaluación exhaustiva, verificación de antecedentes, comprobación de referencias y pruebas de habilidades técnicas para descartar a los candidatos no cualificados.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "03",
+        "icon": "Users",
+        "title": "Gestión de entrevistas",
+        "description": "Proceso de entrevista completo: programación, seguimiento de los candidatos y recopilación de comentarios de los empleadores para una contratación fluida y eficiente.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "icon": "Handshake",
+        "title": "Gestión de ofertas",
+        "description": "Negocie salarios, elabore paquetes de beneficios, estructure las condiciones laborales y desarrolle contratos que se ajusten a su presupuesto.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "05",
+        "icon": "CreditCard",
+        "title": "Visados y proceso de incorporación",
+        "description": "Trámites de visado previo al empleo, exámenes médicos, documento de identidad de los Emiratos írabes Unidos, documentación de residencia y preparación del contrato laboral.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "¿Por qué asociarse con nosotros?",
+    "title": "Ventajas de contratar con Setup Zone Dubai",
+    "titleHighlight": "con Setup Zone Dubai",
+    "subtitle": "Seis ventajas clave que nos convierten en su socio ideal para la selección de personal.",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "Acceso a talento local e internacional",
+        "description": "Conéctese con los mejores profesionales de los EAU y con talentos globales: emiratíes, ejecutivos de los países del CCG o profesionales internacionales.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Cumplimiento de las leyes laborales de los EAU",
+        "description": "Cumple al 100% con las leyes laborales de los EAU, las regulaciones del Ministerio de Recursos Humanos y Emiratización (MOHRE), las normas de la autoridad de la zona franca y las regulaciones de visados.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Cronograma de reclutamiento más rápido",
+        "description": "La búsqueda eficiente de candidatos y la selección avanzada reducen el tiempo de contratación y le permiten encontrar rápidamente el talento adecuado.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Conocimientos específicos del sector",
+        "description": "Los consultores expertos del sector garantizan que usted contrate a profesionales con las habilidades, cualificaciones y la adecuación cultural adecuadas.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Todas las soluciones de contratación y visado",
+        "description": "Gestión integral del proceso de contratación: contratos, aprobaciones, visados, reconocimientos médicos, documento de identidad de los Emiratos írabes Unidos e incorporación de nuevos empleados, todo gestionado internamente.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Target",
+        "title": "Diseñado a medida para su negocio.",
+        "description": "Soluciones de contratación personalizadas que se adaptan a sus objetivos, presupuesto y planes de personal, tanto para empresas emergentes como para multinacionales.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "emiratisationSection": {
+    "badge": "Apoyo a la emiratización",
+    "title": "¿Apoyamos la contratación de emiratíes?",
+    "titleHighlight": "¿Contratación de emiratíes?",
+    "paragraph1": "En Setup Zone Dubai, ayudamos a los grupos empresariales a cumplir con sus compromisos de emiratización y las cuotas de contratación del gobierno, participando en la búsqueda, selección y colocación de ciudadanos emiratíes cualificados en todos los niveles.",
+    "paragraph2": "La contratación de emiratíes permite cumplir con la normativa a la vez que se conecta con la comunidad, con el beneficio adicional de mejorar la reputación corporativa y contribuir al desarrollo de la fuerza laboral del país.",
+    "paragraph3": "Ofrecemos programas de incorporación personalizados, apoyo para la integración cultural e iniciativas de formación continua diseñadas para empoderar a los ciudadanos de los EAU dentro de su organización.",
+    "features": [
+      {
+        "icon": "UsersRound",
+        "label": "Cumplimiento de la emiratización",
+        "desc": "Cumplir con las cuotas de contratación del gobierno"
+      },
+      {
+        "icon": "Trophy",
+        "label": "Contratación de ciudadanos emiratíes",
+        "desc": "Búsqueda y colocación de talento emiratí"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "Programas de incorporación",
+        "desc": "Integración cultural a medida"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "Desarrollo profesional",
+        "desc": "Formación y desarrollo continuos"
+      },
+      {
+        "icon": "Award",
+        "label": "Reputación corporativa",
+        "desc": "Participación comunitaria"
+      },
+      {
+        "icon": "Scale",
+        "label": "Cumplimiento total",
+        "desc": "Leyes laborales de los EAU"
+      }
+    ],
+    "visualCards": [
+      {
+        "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80",
+        "tag": "Cumplimiento",
+        "title": "Cuotas gubernamentales"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+        "tag": "Desarrollo",
+        "title": "Crecimiento profesional"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
+        "tag": "Integración",
+        "title": "Integración cultural"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+        "tag": "Liderazgo",
+        "title": "Funciones ejecutivas"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "¿Por qué elegir Setup Zone Dubai para la contratación de personal?",
+    "titleHighlight": "Zona de instalación en Dubái",
+    "subtitle": "Cuatro pilares que nos convierten en el socio de reclutamiento de confianza para las empresas de los EAU.",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "Éxito comprobado en la captación de personal.",
+        "description": "Amplia experiencia en la colocación de candidatos cualificados en organizaciones líderes de los EAU en diversos sectores."
+      },
+      {
+        "icon": "Target",
+        "title": "Soluciones de contratación personalizadas",
+        "description": "Cada empresa es única; personalizamos cada contratación según su sector y cultura para lograr la persona idónea."
+      },
+      {
+        "icon": "Eye",
+        "title": "Transparencia total",
+        "description": "Proceso de selección totalmente transparente, sin costes ocultos. Información clara en cada etapa para su total confianza."
+      },
+      {
+        "icon": "Heart",
+        "title": "Integración y soporte post-contratación",
+        "description": "El apoyo continúa después de la contratación con un seguimiento para garantizar una integración fluida, una correcta adaptación a la cultura de la empresa y la retención del personal."
+      }
+    ]
+  },
+  "bulkOverseasSection": {
+    "bulk": {
+      "icon": "UsersRound",
+      "tag": "Reclutamiento masivo",
+      "title": "¿Podemos gestionar la contratación masiva para proyectos en los Emiratos írabes Unidos?",
+      "description": "Ofrecemos soluciones de reclutamiento masivo para organizaciones que necesitan escalar eficazmente en múltiples departamentos. Desde oficinas y hoteles hasta zonas francas y grandes proyectos, gestionamos la selección de personal y la incorporación, cumpliendo estrictamente con la normativa vigente.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+      "gradient": "from-blue-900/90 via-indigo-900/85 to-violet-900/80",
+      "accentColor": "texto-azul-300",
+      "tags": [
+        "Oficinas",
+        "Hoteles",
+        "Zonas francas",
+        "Grandes proyectos"
+      ]
+    },
+    "overseas": {
+      "icon": "Globe2",
+      "tag": "Talento global",
+      "title": "¿Ofrecemos asistencia para la contratación de personal en el extranjero?",
+      "description": "Sí, ofrecemos servicios de búsqueda de talento local e internacional en Asia, Europa, ífrica y América. Nuestro servicio integral de contratación en el extranjero abarca la búsqueda, la verificación de antecedentes, el cumplimiento de las normativas del Ministerio de Recursos Humanos y Medio Ambiente (MOHRE), la obtención de visas de trabajo, permisos laborales y asistencia para la reubicación.",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&q=80",
+      "gradient": "from-violet-900/90 via-purple-900/85 to-fuchsia-900/80",
+      "accentColor": "texto-violeta-300",
+      "tags": [
+        "Asia",
+        "Europa",
+        "ífrica",
+        "América"
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la contratación en los Emiratos írabes Unidos. ¿Aún tienes preguntas? Contáctanos.",
+    "items": [
+      {
+        "q": "¿Qué implica el proceso de contratación de empleados en los Emiratos írabes Unidos?",
+        "a": "La contratación en los Emiratos írabes Unidos implica la búsqueda de candidatos, la preparación de ofertas de trabajo, la elaboración de contratos laborales, la obtención de permisos de trabajo y visados, exámenes médicos, el registro en el Emirates ID y la aprobación del contrato laboral por parte del Ministerio de Recursos Humanos y Emiratización (MOHRE). Cada paso debe cumplir con la legislación laboral de los Emiratos írabes Unidos."
+      },
+      {
+        "q": "¿Pueden las empresas extranjeras contratar empleados en los Emiratos írabes Unidos?",
+        "a": "Sí. Las empresas extranjeras con una entidad válida en los EAU (zona franca o territorio continental) pueden contratar empleados. Le ayudamos a gestionar todos los requisitos legales, incluidos los permisos de trabajo, los visados y el cumplimiento de la normativa del Ministerio de Recursos Humanos y Emiratización (MOHRE)."
+      },
+      {
+        "q": "¿Cuánto tiempo se tarda en contratar a alguien en los Emiratos írabes Unidos?",
+        "a": "Por lo general, la búsqueda y preselección de candidatos lleva de 1 a 2 semanas, las entrevistas y ofertas de trabajo de 1 a 2 semanas, y la tramitación de visados de 2 a 4 semanas. Nuestro eficiente proceso reduce significativamente el tiempo de contratación."
+      },
+      {
+        "q": "¿Influye la emiratización en las empresas a la hora de contratar personal?",
+        "a": "Sí. Algunas empresas deben cumplir con cuotas de emiratización para contratar a ciudadanos emiratíes. Le ayudamos a cumplir con estos requisitos y a encontrar el mejor talento para su negocio."
+      },
+      {
+        "q": "¿Pueden los empleadores contratar talento fuera de los Emiratos írabes Unidos?",
+        "a": "Por supuesto. Ofrecemos servicios de captación de talento local e internacional procedente de Asia, Europa, ífrica y América, cumpliendo plenamente con las leyes de inmigración y del Ministerio de Recursos Humanos."
+      },
+      {
+        "q": "¿Para qué sectores reclutan personal en los Emiratos írabes Unidos?",
+        "a": "Reclutamos personal para los sectores corporativo y administrativo, ventas y marketing, informática y tecnología, hostelería y turismo, construcción e ingeniería, sanidad y bienestar, y educación y formación."
+      },
+      {
+        "q": "¿Cuáles son los costes asociados a la incorporación de empleados en los Emiratos írabes Unidos?",
+        "a": "Los costos incluyen la tramitación de la visa, exámenes médicos, documento de identidad de los Emiratos írabes Unidos, contratos laborales y prestaciones obligatorias. Ofrecemos precios transparentes sin cargos ocultos."
+      },
+      {
+        "q": "¿Puede Setup Zone Dubai ayudar con proyectos de reclutamiento masivo?",
+        "a": "Sí. Nos especializamos en la contratación masiva para oficinas, hoteles, zonas francas y grandes proyectos, gestionando desde la búsqueda de personal hasta la incorporación, cumpliendo estrictamente con la normativa vigente."
+      },
+      {
+        "q": "¿Apoya usted la contratación de personal extranjero para puestos de trabajo en los Emiratos írabes Unidos?",
+        "a": "Sí. Nuestro servicio integral de contratación en el extranjero abarca la búsqueda de candidatos, la verificación de antecedentes, el cumplimiento de las normativas del Ministerio de Recursos Humanos y Medio Ambiente (MOHRE), los visados de trabajo, los permisos de trabajo y el apoyo para la reubicación."
+      },
+      {
+        "q": "¿Por qué utilizar Setup Zone Dubai para contratar personal en los Emiratos írabes Unidos?",
+        "a": "Ofrecemos un éxito comprobado en la selección de personal, soluciones personalizadas, total transparencia, asistencia posterior a la contratación y cumplimiento normativo absoluto, lo que le ahorra tiempo y reduce riesgos."
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "Servicios relacionados",
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se adaptan perfectamente a sus necesidades de contratación.",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "Actividades en el continente",
+        "description": "Más de 2000 actividades aprobadas por el Departamento de Desarrollo Económico (DED) en Dubái y los Emiratos írabes Unidos.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "office-space-solutions",
+        "title": "Soluciones de espacio de oficinas en los Emiratos írabes Unidos",
+        "description": "Oficinas de primera categoría en Dubái y los Emiratos írabes Unidos.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "Servicios de visado para los Emiratos írabes Unidos continentales",
+        "description": "Visados de inversor, de trabajo y familiares.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Crea tu equipo ideal",
+    "title": "¿Listo para contratar al talento adecuado?",
+    "titleHighlight": "¿El talento adecuado?",
+    "subtitle": "Solicita una consulta gratuita. Te ayudaremos a encontrar, seleccionar e incorporar a los mejores profesionales para tu negocio en los Emiratos írabes Unidos.",
+    "primaryCta": "Contáctanos por WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Me gustaría una consulta gratuita sobre contratación de personal en los Emiratos írabes Unidos.",
+    "badges": [
+      "Consulta gratuita",
+      "Más de 10.000 colocaciones",
+      "Cumplimiento total"
+    ],
+    "office": {
+      "label": "Visite nuestra oficina en Dubái.",
+      "line1": "Oficina M08-27, planta M1, Torre Crystal",
+      "line2": "Business Bay, Dubái, Emiratos írabes Unidos — Apartado postal: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Horario laboral",
+      "monFri": "De 9:00 a 18:00.",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Cerrado"
+    }
+  }
+}

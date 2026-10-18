@@ -1,0 +1,115 @@
+{
+  "areaName": "Al Barsha",
+  "areaShort": "Al Barsha",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Service Area",
+  "heroTitle": "Business Setup in Al Barsha",
+  "heroTitleHighlight": "Al Barsha",
+  "heroSubtitle": "Al Barsha is a well-established residential and commercial district in Dubai, known for its proximity to the Dubai Internet City, Media City, and the Mall of the Emirates. Setting up a business in Al Barsha offers excellent connectivity and a thriving business community.",
+
+  "stats": [
+    { "icon": "Building2", "value": "250+", "label": "Companies Setup", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Ownership", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "DollarSign", "value": "AED 5,999", "label": "Starting From", "color": "from-indigo-400 to-violet-600" }
+  ],
+
+  "whyChooseSection": {
+    "badge": "Why Choose Al Barsha?",
+    "title": "A Thriving Business Community",
+    "titleHighlight": "Business Community",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Location",
+    "imageBadgeText": "Al Barsha, Dubai",
+    "paragraph": "Al Barsha offers exceptional advantages for businesses of all sizes. With world-class infrastructure, strategic location, and a supportive business ecosystem, it is the ideal place to establish your company in Dubai.",
+    "items": [
+      { "icon": "MapPin", "title": "Prime Location", "desc": "Excellent connectivity across Dubai" },
+      { "icon": "Users", "title": "Talent Pool", "desc": "Access to diverse professional talent" },
+      { "icon": "Layers", "title": "Infrastructure", "desc": "World-class amenities & facilities" },
+      { "icon": "Briefcase", "title": "Business Community", "desc": "Thriving ecosystem of global companies" },
+      { "icon": "Zap", "title": "Transport Links", "desc": "Proximity to key metro & highways" }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "Our Services",
+    "title": "Business Setup Services in Al Barsha",
+    "titleHighlight": "Al Barsha",
+    "subtitle": "Complete end-to-end solutions for your UAE business.",
+    "items": [
+      { "icon": "Globe", "title": "Free Zone Company Formation", "desc": "Set up in the most suitable free zone — 100% ownership, zero corporate tax, and full profit repatriation.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Building2", "title": "Mainland Company Formation", "desc": "Trade directly in the UAE market with a mainland license. We handle all DED paperwork and licensing.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "FileText", "title": "Trade License in Dubai", "desc": "Get your commercial, professional, or industrial trade license quickly with full regulatory compliance.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Users", "title": "Visa Processing & PRO Services", "desc": "Investor, employee, and dependent visas — we handle medical tests, Emirates ID, and visa stamping.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "DollarSign", "title": "Corporate Bank Account Opening", "desc": "Open a business bank account with leading UAE banks — we handle documentation and KYC.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "FileText", "title": "Accounting & Tax Services", "desc": "Stay compliant with UAE corporate tax and VAT — bookkeeping, VAT returns, and reporting.", "color": "from-purple-400 to-fuchsia-600" }
+    ]
+  },
+
+  "packagesSection": {
+    "badge": "Pricing",
+    "title": "Our Business Setup Packages",
+    "titleHighlight": "Packages",
+    "subtitle": "Transparent, all-inclusive business setup packages starting from:",
+    "items": [
+      { "name": "Free Zone License", "price": "AED 5,999", "note": "No Residency", "color": "from-cyan-400 to-sky-600" },
+      { "name": "Free Zone License + Residency", "price": "AED 11,999", "note": "With UAE Residency", "color": "from-sky-400 to-blue-600" },
+      { "name": "Mainland License + Residency", "price": "AED 16,999", "note": "Mainland + Residency", "color": "from-blue-400 to-indigo-600" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose SetupZoneDubai?",
+    "titleHighlight": "SetupZoneDubai",
+    "items": [
+      "End-to-end business setup support",
+      "Expert knowledge of Dubai free zones and mainland regulations",
+      "Transparent pricing with no hidden fees",
+      "Dedicated relationship manager",
+      "Post-licensing support — PRO, accounting, and compliance",
+      "Fast track processing — license in 3-5 working days"
+    ]
+  },
+
+  "areaFaqsSection": {
+    "badge": "Area FAQs",
+    "title": "Frequently Asked Questions About Business Setup in Al Barsha",
+    "titleHighlight": "Business Setup in Al Barsha",
+    "items": [
+      { "q": "How long does it take to set up a business in Al Barsha?", "a": "Most businesses are fully registered and operational within 3-5 working days, depending on the license type and required approvals." },
+      { "q": "Can I set up a business in Al Barsha as a foreigner?", "a": "Yes, foreigners can set up businesses in Dubai free zones with 100% ownership. Mainland companies may require a local sponsor depending on the business activity." },
+      { "q": "Do I need to be physically present in Dubai?", "a": "Most of the registration process can be done remotely. Our team handles the paperwork and government submissions on your behalf." },
+      { "q": "What types of businesses can I set up in Al Barsha?", "a": "You can set up commercial, professional, industrial, e-commerce, and freelance businesses in Dubai depending on your chosen license type." }
+    ]
+  },
+
+  "quickAnswersSection": {
+    "badge": "Quick Answers",
+    "title": "Quick Answers",
+    "titleHighlight": "Answers",
+    "subtitle": "Common questions about business setup in Dubai. Still have questions? We're one message away.",
+    "relatedServicesTitle": "Related Services & Guides",
+    "items": [
+      { "q": "How much does it cost to start a business in Dubai?", "a": "Business setup in Dubai starts from AED 9,500 for a basic free zone license. Mainland setup starts from AED 14,500." },
+      { "q": "Can a foreigner 100% own a company in Dubai?", "a": "Yes, foreigners can 100% own companies in most free zones and many mainland activities." },
+      { "q": "What is the cheapest free zone in Dubai?", "a": "RAK ICC, Ajman FTZ, and SRTIP offer the most affordable packages starting from AED 5,900." },
+      { "q": "How long does company registration take in Dubai?", "a": "Free zone registration takes 3-7 business days. Mainland takes 2-4 weeks." },
+      { "q": "Do I need a local partner in Dubai?", "a": "Not in free zones. In mainland, many activities now allow 100% foreign ownership." }
+    ],
+    "relatedServices": [
+      { "icon": "Building2", "title": "Business Setup in JVC", "desc": "Explore setup options in JVC", "color": "from-cyan-400 to-sky-600", "link": "/service-areas/jvc" },
+      { "icon": "FileText", "title": "Company Formation in Dubai Marina", "desc": "Formation guide for Dubai Marina", "color": "from-sky-400 to-blue-600", "link": "/service-areas/dubai-marina" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Ready to Start?",
+    "title": "Ready to Start Your Business in Al Barsha?",
+    "titleHighlight": "Al Barsha",
+    "subtitle": "Contact our team of business setup experts today for a free consultation. We'll guide you through every step of the company formation process and help you choose the best jurisdiction for your business.",
+    "primaryCta": "Contact Us Now",
+    "secondaryCta": "+971 56 655 6645",
+    "whatsappMessage": "Hi! I want to setup my business in Al Barsha."
+  }
+}

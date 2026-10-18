@@ -1,0 +1,287 @@
+{
+    "areaName":  "Dubai Silikon Vahası",
+    "areaShort":  "Silikon Vahası",
+    "heroImage":  "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600\u0026q=80",
+    "heroBadge":  "Hizmet Alanı",
+    "heroTitle":  "Dubai Silikon Vahası\u0027nda İş Kurma",
+    "heroTitleHighlight":  "Dubai Silikon Vahası",
+    "heroSubtitle":  "Dubai Silikon Vahası (DSO), Dubai Entegre Ekonomik Bölgeler Otoritesi (DIEZ) tarafından inşa edilen ve işletilen, Dubai\u0027nin teknoloji odaklı serbest bölgesidir. Elektronik, bilişim, yazılım, e-ticaret, yapay zeka ve sanayi şirketleri için tasarlanmış, 7 kilometrekarelik bağımsız bir teknoloji parkıdır.",
+    "stats":  [
+                  {
+                      "icon":  "Bina 2",
+                      "value":  "400+",
+                      "label":  "Şirket Kurulumu",
+                      "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-7",
+                      "label":  "Kurulum Günleri",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Mülkiyet",
+                      "color":  "mavi-400\u0027den çivit-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "9.000 AED",
+                      "label":  "Başlangıç Noktası",
+                      "color":  "indigo-400\u0027den mor-600\u0027e"
+                  }
+              ],
+    "whyChooseSection":  {
+                             "badge":  "Silicon Oasis\u0027te Neden Şirket Kurmalısınız?",
+                             "title":  "Dubai Teknoloji Parkı",
+                             "titleHighlight":  "Teknoloji Parkı",
+                             "image":  "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200\u0026q=80",
+                             "imageBadgeTitle":  "Konum",
+                             "imageBadgeText":  "Silikon Vahası, Dubai",
+                             "paragraph":  "Dubai Silicon Oasis, ofislerin, depoların ve konut villalarının yan yana bulunduğu, kendi kendine yeten bir teknoloji parkıdır.",
+                             "items":  [
+                                           {
+                                               "icon":  "İşlemci",
+                                               "title":  "Teknoloji ve Üretim Dostu",
+                                               "desc":  "Yazılım, elektronik, depolama ve Ar-Ge için izinler"
+                                           },
+                                           {
+                                               "icon":  "Bina 2",
+                                               "title":  "Devlet Mülkiyetindeki Kurum",
+                                               "desc":  "DSOA/DIEZ lisansı doğrudan, dijital ve şeffaf bir şekilde veriyor."
+                                           },
+                                           {
+                                               "icon":  "Kullanıcılar",
+                                               "title":  "Bütünleşik Topluluk",
+                                               "desc":  "Tek bir park içinde ofisler, depolar ve konut villaları."
+                                           },
+                                           {
+                                               "icon":  "Küre",
+                                               "title":  "%100 Yabancı Mülkiyeti",
+                                               "desc":  "%0 gelir vergisi "” standart serbest bölge avantajları"
+                                           }
+                                       ]
+                         },
+    "licenseTypesSection":  {
+                                "badge":  "Lisans Türleri",
+                                "title":  "DSO Lisans Türleri",
+                                "titleHighlight":  "Lisans Türleri",
+                                "subtitle":  "İşletme faaliyetiniz için doğru lisansı seçin.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Alışveriş Sepeti",
+                                                  "name":  "Ticaret",
+                                                  "desc":  "Elektronik, bilişim donanımı, genel ticaret",
+                                                  "cost":  "9.000 AED\u0027den itibaren",
+                                                  "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Evrak çantası",
+                                                  "name":  "Hizmet / Danışmanlık",
+                                                  "desc":  "Yazılım, dijital hizmetler, danışmanlık, pazarlama",
+                                                  "cost":  "9.000 AED\u0027den itibaren",
+                                                  "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Fabrika",
+                                                  "name":  "Endüstriyel / İmalat",
+                                                  "desc":  "Montaj, üretim, depolama",
+                                                  "cost":  "12.000 AED\u0027den itibaren",
+                                                  "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Alışveriş Sepeti",
+                                                  "name":  "E-ticaret",
+                                                  "desc":  "Depolama seçeneğiyle çevrimiçi perakende",
+                                                  "cost":  "10.000 AED\u0027den itibaren",
+                                                  "color":  "indigo-400\u0027den mor-600\u0027e"
+                                              }
+                                          ]
+                            },
+    "officeOptionsSection":  {
+                                 "badge":  "Ofis Seçenekleri",
+                                 "title":  "DSO\u0027da Ofis Seçenekleri",
+                                 "titleHighlight":  "DSO",
+                                 "subtitle":  "Esnek çalışma masaları, tahsisli çalışma masaları, özel ofisler ve tam donanımlı birimler.",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Kullanıcılar",
+                                                   "title":  "Esnek Masalar",
+                                                   "desc":  "Esnek çalışma alanı çözümü"
+                                               },
+                                               {
+                                                   "icon":  "Bina 2",
+                                                   "title":  "Tahsisli Masalar",
+                                                   "desc":  "Size özel çalışma alanınız"
+                                               },
+                                               {
+                                                   "icon":  "Evrak çantası",
+                                                   "title":  "Özel Ofisler",
+                                                   "desc":  "Özel ofis alanları"
+                                               },
+                                               {
+                                                   "icon":  "Sunucu",
+                                                   "title":  "Servis Edilen Birimler",
+                                                   "desc":  "Tam donanımlı üniteler"
+                                               },
+                                               {
+                                                   "icon":  "Fabrika",
+                                                   "title":  "Depo Alanı",
+                                                   "desc":  "Sanayi lisansları için"
+                                               },
+                                               {
+                                                   "icon":  "Sabit Disk",
+                                                   "title":  "Üretim Alanı",
+                                                   "desc":  "Parkın içinde"
+                                               }
+                                           ]
+                             },
+    "comparisonSection":  {
+                              "badge":  "Karşılaştırmak",
+                              "title":  "DSO ve Diğer Serbest Bölgeler: Nasıl Seçim Yapılır?",
+                              "titleHighlight":  "Nasıl Seçilir",
+                              "items":  [
+                                            {
+                                                "name":  "DSO",
+                                                "desc":  "İhtiyacınız olan teknoloji, depolamalı e-ticaret veya hafif imalat seçeneklerinden birini seçin.",
+                                                "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                                "highlight":  true
+                                            },
+                                            {
+                                                "name":  "DMCC (JLT)",
+                                                "desc":  "Emtia ticareti ve uluslararası ticaret altyapısı için tercih edilecek şirket",
+                                                "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                                "highlight":  false
+                                            },
+                                            {
+                                                "name":  "IFZA",
+                                                "desc":  "Dubai adresli, en düşük maliyetli danışman/serbest çalışan seçeneğini tercih edin.",
+                                                "color":  "mavi-400\u0027den çivit-600\u0027e",
+                                                "highlight":  false
+                                            },
+                                            {
+                                                "name":  "Anakara",
+                                                "desc":  "Birleşik Arap Emirlikleri hükümetiyle ticaret yapmanız mı yoksa perakende mağazası açmanız mı gerektiğine karar verin.",
+                                                "color":  "indigo-400\u0027den mor-600\u0027e",
+                                                "highlight":  false
+                                            }
+                                        ]
+                          },
+    "processSection":  {
+                           "badge":  "İşlem",
+                           "title":  "DSO\u0027da Kurulum Süreci",
+                           "titleHighlight":  "DSO",
+                           "steps":  [
+                                         {
+                                             "num":  "01",
+                                             "title":  "Aktivite Kodunu Onayla",
+                                             "desc":  "Yargı yetkisinin uygunluğunu doğrulayın (serbest bölge mi yoksa ana kara mı)",
+                                             "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                         },
+                                         {
+                                             "num":  "02",
+                                             "title":  "Rezerv Ticari Adı",
+                                             "desc":  "DSOA yetkisiyle",
+                                             "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                         },
+                                         {
+                                             "num":  "03",
+                                             "title":  "Belgeleri hazırlayın",
+                                             "desc":  "Pasaport fotokopileri ve iş belgeleri",
+                                             "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                         },
+                                         {
+                                             "num":  "04",
+                                             "title":  "Başvuruyu Gönder",
+                                             "desc":  "Onay süreci genellikle 3-7 iş günü sürer.",
+                                             "color":  "indigo-400\u0027den mor-600\u0027e"
+                                         },
+                                         {
+                                             "num":  "05",
+                                             "title":  "Lisans Al",
+                                             "desc":  "Vize başvurusunda bulunun ve banka hesabı açın.",
+                                             "color":  "from-violet-400 to-purple-600"
+                                         }
+                                     ]
+                       },
+    "areaFaqsSection":  {
+                            "badge":  "Bölgeyle İlgili Sıkça Sorulan Sorular",
+                            "title":  "Sıkça Sorulan Sorular",
+                            "titleHighlight":  "Sorular",
+                            "items":  [
+                                          {
+                                              "q":  "Dubai Silikon Vahası, Dubai hükümetinin bir parçası mı?",
+                                              "a":  "Dubai hükümetine bağlı bir kuruluş olan Dubai Entegre Ekonomik Bölgeler Otoritesi (DIEZ) tarafından işletilmektedir, bu nedenle lisans doğrudan resmi bir otorite tarafından verilmektedir."
+                                          },
+                                          {
+                                              "q":  "DSO\u0027da yaşayabilir ve çalışabilir miyim?",
+                                              "a":  "Evet "“ DSO konut sitelerini de içeriyor, bu nedenle ofisinize yakın bir yerde konaklama yeri kiralayabilirsiniz."
+                                          },
+                                          {
+                                              "q":  "DSO lisansı içe ve dışa aktarmaya izin veriyor mu?",
+                                              "a":  "Evet "“ ticaret lisansları, lisansınızda listelenen malların ithalat/ihracat faaliyetlerini de kapsar."
+                                          },
+                                          {
+                                              "q":  "DSO\u0027ya başlamanın minimum maliyeti nedir?",
+                                              "a":  "Hizmet veya ticaret lisansı yaklaşık 9.000 AED\u0027den başlıyor; vize ve PRO hizmetleri ayrıca fiyatlandırılıyor."
+                                          }
+                                      ]
+                        },
+    "quickAnswersSection":  {
+                                "badge":  "Hızlı Cevaplar",
+                                "title":  "Hızlı Cevaplar",
+                                "titleHighlight":  "Cevaplar",
+                                "subtitle":  "Dubai\u0027de iş kurma hakkında sıkça sorulan sorular. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                                "relatedServicesTitle":  "İlgili Hizmetler ve Kılavuzlar",
+                                "items":  [
+                                              {
+                                                  "q":  "Dubai\u0027de iş kurmanın maliyeti ne kadar?",
+                                                  "a":  "Dubai\u0027de iş kurmanın maliyeti, temel serbest bölge lisansı için 9.500 AED\u0027den başlıyor. Ana karada ise bu maliyet 14.500 AED\u0027den başlıyor."
+                                              },
+                                              {
+                                                  "q":  "Bir yabancı Dubai\u0027de bir şirketin %100\u0027üne sahip olabilir mi?",
+                                                  "a":  "Evet, yabancılar çoğu serbest bölgede ve anakara Çin\u0027deki birçok faaliyette şirketlerin %100\u0027üne sahip olabilirler."
+                                              },
+                                              {
+                                                  "q":  "Dubai\u0027deki en ucuz serbest bölge hangisidir?",
+                                                  "a":  "RAK ICC, Ajman FTZ ve SRTIP, 5.900 AED\u0027den başlayan en uygun fiyatlı paketleri sunmaktadır."
+                                              },
+                                              {
+                                                  "q":  "Dubai\u0027de şirket kaydı ne kadar sürer?",
+                                                  "a":  "Serbest bölgeye kayıt işlemi 3-7 iş günü sürer. Anakara için bu süre 2-4 haftadır."
+                                              },
+                                              {
+                                                  "q":  "Dubai\u0027de yerel bir ortağa ihtiyacım var mı?",
+                                                  "a":  "Serbest bölgelerde durum böyle değil. Anakara\u0027da ise birçok faaliyette artık %100 yabancı mülkiyeti mümkün."
+                                              }
+                                          ],
+                                "relatedServices":  [
+                                                        {
+                                                            "icon":  "Bina 2",
+                                                            "title":  "Al Barsha\u0027da İş Kurma",
+                                                            "desc":  "Al Barsha\u0027daki kurulum seçeneklerini keşfedin.",
+                                                            "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                                            "link":  "/service-areas/al-barsha"
+                                                        },
+                                                        {
+                                                            "icon":  "DosyaMetni",
+                                                            "title":  "JVC\u0027de İş Kurma",
+                                                            "desc":  "JVC\u0027de kurulum seçeneklerini inceleyin.",
+                                                            "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                                            "link":  "/service-areas/jvc"
+                                                        }
+                                                    ]
+                            },
+    "finalCTA":  {
+                     "badge":  "Başlamaya hazır mısınız?",
+                     "title":  "Silicon Oasis\u0027te İş Kurmaya Hazır Mısınız?",
+                     "titleHighlight":  "Silikon Vahası",
+                     "subtitle":  "İşletme kurulumu konusunda uzman ekibimizle bugün iletişime geçin ve ücretsiz danışmanlık hizmetimizden yararlanın. Teknoloji veya endüstriyel işletmeniz için en uygun yargı bölgesini seçmenize yardımcı olacağız.",
+                     "primaryCta":  "Hemen bizimle iletişime geçin",
+                     "secondaryCta":  "+971 56 655 6645",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "Merhaba! İşletmemi Silicon Oasis\u0027te kurmak istiyorum."
+                 }
+}

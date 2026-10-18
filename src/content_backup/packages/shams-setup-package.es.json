@@ -1,0 +1,540 @@
+{
+    "slug":  "shams-setup-package",
+    "hero":  {
+                 "badge":  "Zona franca con prioridad para los medios de comunicaciÁ³n",
+                 "title":  "Paquete de configuraciÁ³n de SHAMS",
+                 "titleHighlight":  "Paquete",
+                 "subtitle":  "Zona franca de Sharjah Media City, diseñada especÁ­ficamente para profesionales de los medios de comunicaciÁ³n. Paquetes asequibles desde tan solo 5999 AED: licencia, visa, cuenta bancaria y más.",
+                 "image":  "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "Paquete de configuraciÁ³n de SHAMS",
+                 "ctaPrimaryText":  "Ver paquetes",
+                 "ctaPrimaryLink":  "#paquetes",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "¡Hola! Estoy interesado en el paquete de configuraciÁ³n de SHAMS.",
+                 "badges":  [
+                                "Desde 5.999 AED",
+                                "11 paquetes",
+                                "InstalaciÁ³n en 3-7 dÁ­as",
+                                "Propiedad al 100%"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Signo de dÁ³lar",
+                      "value":  "5.999 AED",
+                      "label":  "A partir de",
+                      "color":  "de naranja 400 a rojo 600"
+                  },
+                  {
+                      "icon":  "Paquete",
+                      "value":  "11",
+                      "label":  "Paquetes",
+                      "color":  "de rojo 400 a rosa 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "3-7",
+                      "label":  "ConfiguraciÁ³n de dÁ­as",
+                      "color":  "de rosa 400 a rosa 600"
+                  },
+                  {
+                      "icon":  "Globo",
+                      "value":  "100%",
+                      "label":  "Propiedad",
+                      "color":  "de rosa 400 a fucsia 600"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "¡Estamos aquÁ­ para ayudar!",
+                  "title":  "Paquetes de configuraciÁ³n SHAMS asequibles para su negocio en los Emiratos Árabes Unidos.",
+                  "titleHighlight":  "para su negocio en los Emiratos Árabes Unidos",
+                  "image":  "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "Zona Franca SHAMS",
+                  "imageBadgeText":  "Sharjah, Emiratos Árabes Unidos",
+                  "paragraph1":  "¿Busca establecer su negocio en el prÁ³spero mercado de los EAU? Nuestro equipo de expertos se especializa en ayudar a emprendedores a crear empresas exitosas en más de 65 jurisdicciones.",
+                  "paragraph2":  "Tanto si prefiere la flexibilidad de una Zona Franca como el prestigio de una licencia comercial en China continental, ofrecemos los mejores paquetes de creaciÁ³n de empresas en Sharjah para que se adapten a sus objetivos en el sector de los medios de comunicaciÁ³n.",
+                  "paragraph3":  "Todos los paquetes ofrecen un punto de partida para su trayectoria empresarial y pueden personalizarse para adaptarse a sus necesidades.",
+                  "features":  [
+                                   "Más de 65 jurisdicciones",
+                                   "Zona prioritaria para los medios de comunicaciÁ³n",
+                                   "Paquetes personalizables",
+                                   "Desde 5.999 AED",
+                                   "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                   "Soporte completo"
+                               ]
+              },
+    "businessIndustries":  {
+                               "badge":  "Ecosistema que prioriza los medios de comunicaciÁ³n",
+                               "title":  "Diseñado para la industria de los medios de comunicaciÁ³n.",
+                               "titleHighlight":  "Industrias de los medios de comunicaciÁ³n",
+                               "subtitle":  "Seis sectores de medios de comunicaciÁ³n que prosperan en la Zona Franca de SHAMS.",
+                               "items":  [
+                                             {
+                                                 "icon":  "PelÁ­cula",
+                                                 "title":  "ProducciÁ³n de cine y vÁ­deo",
+                                                 "desc":  "CinematografÁ­a, ediciÁ³n, postproducciÁ³n, animaciÁ³n",
+                                                 "color":  "de naranja 400 a rojo 600"
+                                             },
+                                             {
+                                                 "icon":  "Cámara",
+                                                 "title":  "FotografÁ­a",
+                                                 "desc":  "FotografÁ­a comercial, de retrato y de producto",
+                                                 "color":  "de rojo 400 a rosa 600"
+                                             },
+                                             {
+                                                 "icon":  "Megáfono",
+                                                 "title":  "Publicidad y relaciones pÁºblicas",
+                                                 "desc":  "Imagen de marca, campañas, relaciones con los medios",
+                                                 "color":  "de rosa 400 a rosa 600"
+                                             },
+                                             {
+                                                 "icon":  "Paleta",
+                                                 "title":  "Diseño y creatividad",
+                                                 "desc":  "Diseño gráfico, UI/UX, ilustraciÁ³n",
+                                                 "color":  "de rosa 400 a fucsia 600"
+                                             },
+                                             {
+                                                 "icon":  "MÁºsica",
+                                                 "title":  "MÁºsica y audio",
+                                                 "desc":  "ProducciÁ³n, ingenierÁ­a de sonido, podcasting",
+                                                 "color":  "de fucsia-400 a pÁºrpura-600"
+                                             },
+                                             {
+                                                 "icon":  "Herramienta de pluma",
+                                                 "title":  "CreaciÁ³n de contenido",
+                                                 "desc":  "RedacciÁ³n publicitaria, blogs, contenido para redes sociales",
+                                                 "color":  "de morado 400 a violeta 600"
+                                             }
+                                         ]
+                           },
+    "packages":  {
+                     "badge":  "Paquetes de instalaciÁ³n asequibles en Sharjah",
+                     "title":  "Nuestros paquetes de configuraciÁ³n SHAMS",
+                     "titleHighlight":  "Paquetes de configuraciÁ³n de SHAMS",
+                     "subtitle":  "11 paquetes premium diseñados para profesionales de los medios. Todos personalizables.",
+                     "items":  [
+                                   {
+                                       "id":  1,
+                                       "icon":  "AviÁ³n",
+                                       "title":  "ConsultorÁ­a de viajes y turismo",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de naranja 500 a rojo 700",
+                                       "badge":  "Popular",
+                                       "badgeColor":  "de naranja 500 a rojo 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  2,
+                                       "icon":  "Cámara",
+                                       "title":  "GestiÁ³n de eventos",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de rojo 500 a rosa 700",
+                                       "badge":  "De primera calidad",
+                                       "badgeColor":  "de rojo 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  3,
+                                       "icon":  "Carro de la compra",
+                                       "title":  "Comercio general",
+                                       "price":  "15.999 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de rosa 500 a rosa 700",
+                                       "badge":  "Mejor relaciÁ³n calidad-precio",
+                                       "badgeColor":  "de rosa 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista en los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  4,
+                                       "icon":  "Paleta",
+                                       "title":  "Diseño de moda",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de rosa 500 a fucsia 700",
+                                       "badge":  "Creativo",
+                                       "badgeColor":  "de rosa 500 a fucsia 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  5,
+                                       "icon":  "Pesa",
+                                       "title":  "Fitness y estilo de vida",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de fucsia-500 a pÁºrpura-700",
+                                       "badge":  "Asequible",
+                                       "badgeColor":  "de fucsia-500 a pÁºrpura-600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  6,
+                                       "icon":  "Carro de la compra",
+                                       "title":  "Comercio electrÁ³nico",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Listo para negocios en lÁ­nea",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de morado 500 a violeta 700",
+                                       "badge":  "Popular",
+                                       "badgeColor":  "de morado 500 a violeta 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  7,
+                                       "icon":  "Computadora portátil",
+                                       "title":  "Servicios de TI",
+                                       "price":  "6.449 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "Profesional",
+                                       "color":  "de violeta 500 a Á­ndigo 700",
+                                       "badge":  "TecnologÁ­a",
+                                       "badgeColor":  "de violeta 500 a Á­ndigo 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  8,
+                                       "icon":  "Almacenar",
+                                       "title":  "Comercio general",
+                                       "price":  "7.999 AED",
+                                       "tagline":  "Trading de nivel básico",
+                                       "category":  "Estándar",
+                                       "color":  "de Á­ndigo 500 a azul 700",
+                                       "badge":  "Mejor vendido",
+                                       "badgeColor":  "de Á­ndigo 500 a azul 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  9,
+                                       "icon":  "Corona",
+                                       "title":  "Licencia de zona franca con residencia vitalicia en los EAU.",
+                                       "price":  "11.999 AED",
+                                       "tagline":  "Residencia vitalicia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de azul 500 a cian 700",
+                                       "badge":  "Exclusivo",
+                                       "badgeColor":  "de azul 500 a cian 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Residencia gratuita en los EAU / visa de inversionista de por vida",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  10,
+                                       "icon":  "Marca",
+                                       "title":  "Licencia de conducir continental con residencia en los Emiratos Árabes Unidos.",
+                                       "price":  "16.999 AED",
+                                       "tagline":  "Continente + Residencia",
+                                       "category":  "Continente",
+                                       "color":  "de pizarra-600 a pizarra-800",
+                                       "badge":  "Continente",
+                                       "badgeColor":  "de pizarra-600 a pizarra-700",
+                                       "includes":  [
+                                                        "Licencia continental",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento médico, identificaciÁ³n de los Emiratos Árabes Unidos y examen médico.",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "GestiÁ³n de proyectos",
+                                                                 "ConsultorÁ­a de gestiÁ³n",
+                                                                 "Agente comercial",
+                                                                 "GestiÁ³n de instalaciones",
+                                                                 "Servicios de limpieza",
+                                                                 "Mantenimiento de edificios"
+                                                             ]
+                                   },
+                                   {
+                                       "id":  11,
+                                       "icon":  "CorazÁ³n",
+                                       "title":  "Emprendimiento femenino",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Diseñado para mujeres emprendedoras.",
+                                       "category":  "Especial",
+                                       "color":  "de rosa 500 a rosa 700",
+                                       "badge":  "Especial",
+                                       "badgeColor":  "de rosa 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Coaching de estilo de vida",
+                                                                 "Marketing digital",
+                                                                 "Diseño de moda y ropa",
+                                                                 "GestiÁ³n de eventos",
+                                                                 "Servicios de consultorÁ­a"
+                                                             ]
+                                   }
+                               ]
+                 },
+    "customPackageCTA":  {
+                             "title":  "¿Necesita un paquete de medios personalizado?",
+                             "subtitle":  "Cuéntanos tu visiÁ³n de los medios y crearemos el paquete perfecto.",
+                             "buttonText":  "CotizaciÁ³n personalizada",
+                             "whatsappMessage":  "¡Hola! Necesito un paquete de configuraciÁ³n SHAMS personalizado."
+                         },
+    "benefits":  {
+                     "badge":  "¿Por qué SHAMS?",
+                     "title":  "Beneficios de la configuraciÁ³n de SHAMS",
+                     "titleHighlight":  "ConfiguraciÁ³n de SHAMS",
+                     "subtitle":  "Seis poderosas ventajas para los profesionales de los medios de comunicaciÁ³n.",
+                     "items":  [
+                                   {
+                                       "icon":  "Televisor",
+                                       "title":  "Ecosistema que prioriza los medios de comunicaciÁ³n",
+                                       "desc":  "Diseñado especÁ­ficamente para profesionales de los medios de comunicaciÁ³n.",
+                                       "color":  "de naranja 400 a rojo 600"
+                                   },
+                                   {
+                                       "icon":  "Signo de dÁ³lar",
+                                       "title":  "ConfiguraciÁ³n de bajo costo",
+                                       "desc":  "Desde 5.999 AED",
+                                       "color":  "de rojo 400 a rosa 600"
+                                   },
+                                   {
+                                       "icon":  "Globo",
+                                       "title":  "Propiedad 100% extranjera",
+                                       "desc":  "Propiedad extranjera total",
+                                       "color":  "de rosa 400 a rosa 600"
+                                   },
+                                   {
+                                       "icon":  "Borrar",
+                                       "title":  "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                       "desc":  "ExpediciÁ³n rápida de licencias",
+                                       "color":  "de rosa 400 a fucsia 600"
+                                   },
+                                   {
+                                       "icon":  "Billetera",
+                                       "title":  "Entorno fiscal del 0%",
+                                       "desc":  "Beneficios libres de impuestos",
+                                       "color":  "de fucsia-400 a pÁºrpura-600"
+                                   }
+                               ]
+                 },
+    "process":  {
+                    "badge":  "Proceso de 6 pasos",
+                    "title":  "CÁ³mo empezar",
+                    "titleHighlight":  "Comience",
+                    "subtitle":  "Desde la selecciÁ³n del paquete hasta la cuenta bancaria, nos encargamos de todo.",
+                    "steps":  [
+                                  {
+                                      "step":  "01",
+                                      "icon":  "Objetivo",
+                                      "title":  "Elige tu paquete",
+                                      "description":  "Seleccione entre nuestros paquetes especializados en medios de comunicaciÁ³n.",
+                                      "color":  "de naranja 400 a rojo 600"
+                                  },
+                                  {
+                                      "step":  "02",
+                                      "icon":  "Firma del archivo",
+                                      "title":  "Enviar documentos",
+                                      "description":  "Copias del pasaporte, portafolio y fotos.",
+                                      "color":  "de rojo 400 a rosa 600"
+                                  },
+                                  {
+                                      "step":  "03",
+                                      "icon":  "ComprobaciÁ³n del portapapeles",
+                                      "title":  "Solicitud de licencia",
+                                      "description":  "Presentamos la solicitud ante la autoridad SHAMS.",
+                                      "color":  "de rosa 400 a rosa 600"
+                                  },
+                                  {
+                                      "step":  "04",
+                                      "icon":  "Texto desplazable",
+                                      "title":  "Reciba su licencia",
+                                      "description":  "Se obtiene la licencia en un plazo de 3 a 7 dÁ­as.",
+                                      "color":  "de rosa 400 a fucsia 600"
+                                  }
+                              ]
+                },
+    "whyChooseUs":  {
+                        "badge":  "¿Por qué elegirnos?",
+                        "title":  "Su socio de confianza para la configuraciÁ³n de SHAMS.",
+                        "titleHighlight":  "Socio de configuraciÁ³n de SHAMS",
+                        "subtitle":  "Ocho razones por las que los profesionales de los medios confÁ­an en nosotros.",
+                        "items":  [
+                                      {
+                                          "icon":  "Signo de dÁ³lar",
+                                          "label":  "Precios transparentes",
+                                          "desc":  "Sin cargos ocultos, nunca."
+                                      },
+                                      {
+                                          "icon":  "Borrar",
+                                          "label":  "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                          "desc":  "ExpediciÁ³n rápida de licencias"
+                                      },
+                                      {
+                                          "icon":  "ShieldCheck",
+                                          "label":  "Cumplimiento al 100%",
+                                          "desc":  "Totalmente aprobado por el gobierno."
+                                      },
+                                      {
+                                          "icon":  "VerificaciÁ³n de usuario",
+                                          "label":  "Consultor especializado",
+                                          "desc":  "Asesor personal"
+                                      },
+                                      {
+                                          "icon":  "Globo",
+                                          "label":  "Equipo multilingüe",
+                                          "desc":  "Inglés, árabe, hindi, urdu"
+                                      },
+                                      {
+                                          "icon":  "ActualizarCw",
+                                          "label":  "Consulta sobre el IVA",
+                                          "desc":  "Incluido gratis"
+                                      },
+                                      {
+                                          "icon":  "Otorgar",
+                                          "label":  "Más de 10.000 empresas",
+                                          "desc":  "Lanzado con éxito"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Preguntas frecuentes",
+                 "title":  "Preguntas frecuentes",
+                 "titleHighlight":  "Preguntas",
+                 "subtitle":  "Todo lo que necesitas saber sobre la Zona Franca de SHAMS. ¿AÁºn tienes preguntas? Estamos a un mensaje de distancia.",
+                 "items":  [
+                               {
+                                   "q":  "¿Qué es la Zona Franca de SHAMS?",
+                                   "a":  "La Zona Franca SHAMS (Sharjah Media City) es un espacio especialmente diseñado para profesionales y empresas de medios de comunicaciÁ³n: cine, fotografÁ­a, publicidad, diseño, mÁºsica y creaciÁ³n de contenido. Ofrece una instalaciÁ³n a bajo costo, propiedad 100% extranjera y licencias rápidas en un plazo de 3 a 7 dÁ­as hábiles."
+                               },
+                               {
+                                   "q":  "¿DÁ³nde se encuentra la Zona Franca de SHAMS?",
+                                   "a":  "SHAMS está ubicado en Sharjah, Emiratos Árabes Unidos, uno de los siete emiratos. Ofrece una excelente conectividad con Dubái y otros emiratos, con fácil acceso a las principales autopistas y aeropuertos."
+                               },
+                               {
+                                   "q":  "¿Qué incluye el paquete de instalaciÁ³n de SHAMS?",
+                                   "a":  "SegÁºn el paquete, obtendrá la licencia de Zona Franca, visa de residencia, documento de identidad emiratÁ­ (Examen médico), contrato de arrendamiento, asistencia para la apertura de cuenta bancaria, direcciÁ³n premium y consulta gratuita sobre el IVA."
+                               },
+                               {
+                                   "q":  "¿Cuánto cuesta un paquete SHAMS?",
+                                   "a":  "Nuestros paquetes SHAMS tienen precios que van desde 5999 AED (EconÁ³mico) hasta 16 999 AED (Tierra continental + Residencia). Los paquetes Premium con visa comienzan en 14 499 AED."
+                               },
+                               {
+                                   "q":  "¿Cuánto tiempo tarda la instalaciÁ³n?",
+                                   "a":  "Normalmente, la emisiÁ³n de la licencia tarda entre 3 y 7 dÁ­as hábiles, y la tramitaciÁ³n del visado y la apertura de la cuenta bancaria requieren entre 1 y 2 semanas adicionales."
+                               },
+                               {
+                                   "q":  "¿Puedo personalizar mi paquete?",
+                                   "a":  "SÁ­. Todos los paquetes son puntos de partida y se pueden personalizar para que se ajusten a su negocio de medios, sus necesidades de visado y su presupuesto."
+                               },
+                               {
+                                   "q":  "¿Puedo obtener un visado de residencia en los Emiratos Árabes Unidos?",
+                                   "a":  "SÁ­, algunos paquetes incluyen un visado de inversionista/residencia en los EAU con examen médico, documento de identidad de los Emiratos y cambio de estatus. La licencia de zona franca con residencia vitalicia en los EAU incluso ofrece residencia de por vida."
+                               },
+                               {
+                                   "q":  "¿Está incluida la apertura de una cuenta bancaria?",
+                                   "a":  "SÁ­. Todos los paquetes incluyen asistencia gratuita para la apertura de cuentas bancarias corporativas en los principales bancos de los Emiratos Árabes Unidos."
+                               },
+                               {
+                                   "q":  "¿Qué actividades en los medios de comunicaciÁ³n puedo realizar?",
+                                   "a":  "SHAMS ofrece soporte para la producciÁ³n de cine y vÁ­deo, fotografÁ­a, publicidad y relaciones pÁºblicas, diseño, mÁºsica y audio, creaciÁ³n de contenido y otras industrias de los medios de comunicaciÁ³n, con hasta 5 actividades en la mayorÁ­a de los paquetes econÁ³micos."
+                               },
+                               {
+                                   "q":  "¿Por qué elegir Setup Zone Dubai para la configuraciÁ³n de SHAMS?",
+                                   "a":  "Ofrecemos precios transparentes, experiencia en el sector de los medios de comunicaciÁ³n, consultores especializados y asistencia integral, desde la obtenciÁ³n de la licencia hasta la apertura de la cuenta bancaria. Todo ello respaldado por más de 10 000 instalaciones exitosas."
+                               }
+                           ]
+             },
+    "finalCTA":  {
+                     "badge":  "Inicie hoy mismo su negocio de medios de comunicaciÁ³n.",
+                     "title":  "¿Listo para lanzar tu proyecto en SHAMS Sharjah?",
+                     "titleHighlight":  "¿SHAM Sharjah?",
+                     "subtitle":  "Solicita una consulta gratuita. Te ayudaremos a elegir el paquete adecuado y a poner en marcha tu negocio de medios en cuestiÁ³n de dÁ­as.",
+                     "primaryCta":  "Contáctanos por WhatsApp",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "¡Hola! Me gustarÁ­a una consulta gratuita sobre el paquete de configuraciÁ³n de SHAMS.",
+                     "badges":  [
+                                    "Desde 5.999 AED",
+                                    "InstalaciÁ³n en 3-7 dÁ­as",
+                                    "Propiedad al 100%"
+                                ],
+                     "office":  {
+                                    "label":  "Visite nuestra oficina en Dubái.",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado postal: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Horario laboral",
+                                   "monFri":  "De 9:00 a 18:00.",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Cerrado"
+                               }
+                 }
+}

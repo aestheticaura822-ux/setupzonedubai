@@ -1,0 +1,415 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "Negocios más allá de las fronteras",
+  "heroTitle": "ConstituciÁ³n de una empresa en la Zona Franca Sur de Dubái",
+  "heroTitleHighlight": "ConfiguraciÁ³n de la empresa",
+  "heroSubtitle": "Su puerta de entrada al crecimiento global. UbicaciÁ³n estratégica junto al Aeropuerto Internacional Al Maktoum. Propiedad 100% extranjera, cero impuestos y tramitaciÁ³n acelerada de licencias.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "Impuesto cero",
+    "InstalaciÁ³n en 2-4 dÁ­as"
+  ],
+  "heroCards": {
+    "primary": {
+      "badge": "ConfiguraciÁ³n rápida",
+      "icon": "Clock",
+      "label": "Tiempo de configuraciÁ³n",
+      "value": "2-4 dÁ­as",
+      "highlight": "98%",
+      "highlightLabel": "éxito",
+      "footer": "El servicio más rápido en las zonas francas de los EAU.",
+      "color": "from-sky-400 to-blue-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "Propiedad",
+      "value": "100% Extranjero",
+      "title": "Sin patrocinador",
+      "subtext": "Control total",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "tertiary": {
+      "icon": "Plane",
+      "label": "UbicaciÁ³n",
+      "value": "Junto al aeropuerto",
+      "title": "Al Maktoum",
+      "subtext": "centro logÁ­stico global",
+      "color": "from-amber-400 to-orange-500"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-4",
+      "label": "ConfiguraciÁ³n de dÁ­as",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad extranjera",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Impuesto sobre la renta",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Más de 500",
+      "label": "Empresas",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Zona de crecimiento inteligente",
+    "title": "ExplicaciÁ³n de la Zona Franca del Sur de Dubái",
+    "titleHighlight": "Explicado",
+    "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+    "imageBadgeTitle": "Ubicado en",
+    "imageBadgeText": "Sur de Dubái, Emiratos Árabes Unidos",
+    "paragraphs": [
+      "La Zona Franca Sur de Dubái es un área econÁ³mica totalmente respaldada por el gobierno, ubicada en el extremo sur de Dubái, junto al aeropuerto más grande del mundo. Ofrece un marco legal y regulatorio simplificado para empresas locales e internacionales.",
+      "Los emprendedores se benefician de la repatriaciÁ³n total de beneficios, la ausencia de impuestos sobre la renta y de sociedades, y paquetes flexibles para empresas emergentes, pymes y corporaciones multinacionales."
+    ],
+    "highlights": [
+      "RepatriaciÁ³n total de beneficios",
+      "Sin impuesto sobre la renta",
+      "Sin impuesto de sociedades",
+      "Paquetes flexibles"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Beneficios clave",
+    "title": "Ventajas de establecerse en el sur de Dubái",
+    "titleHighlight": "Dubái Sur",
+    "subtitle": "Todo lo que necesitas para hacer crecer tu negocio a nivel global.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Propiedad 100% extranjera",
+        "description": "Control total de tu empresa: no necesitas patrocinador local. Ideal para emprendedores internacionales.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Beneficios fiscales nulos",
+        "description": "Sin impuesto sobre la renta personal ni empresarial. RepatriaciÁ³n total de beneficios y capital.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Registro rápido",
+        "description": "InstalaciÁ³n completa en tan solo 2-4 dÁ­as hábiles. Aprobaciones y licencias rápidas.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "UbicaciÁ³n estratégica",
+        "description": "Junto al Aeropuerto Internacional Al Maktoum y el recinto de la Expo 2020: corredor logÁ­stico.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Paquetes flexibles",
+        "description": "Soluciones para startups, pymes y multinacionales, adaptadas a sus necesidades.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Rocket",
+        "title": "Ecosistema de startups",
+        "description": "Redes de contactos, espacios de coworking y aceleradoras de negocios, todo en un mismo lugar.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Proceso de configuraciÁ³n",
+    "title": "CÁ³mo crear tu empresa en 6 pasos",
+    "titleHighlight": "en 6 pasos",
+    "subtitle": "Un proceso simplificado desde la selecciÁ³n de la actividad hasta la apertura de la cuenta bancaria.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Identificar la actividad empresarial",
+        "description": "Elija entre logÁ­stica, comercio, consultorÁ­a, comercio electrÁ³nico, servicios informáticos y mucho más.",
+        "icon": "Target",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "Elija la estructura legal",
+        "description": "FZE (accionista Áºnico), FZCO (accionista mÁºltiple) o sucursal para empresas ya existentes.",
+        "icon": "Building2",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "Reservar nombre comercial",
+        "description": "EnvÁ­e el nombre que desea para su empresa para su aprobaciÁ³n; debe cumplir con las directrices de denominaciÁ³n de los EAU.",
+        "icon": "FileText",
+        "color": "from-amber-400 to-orange-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "Enviar documentos",
+        "description": "Copias del pasaporte, fotografÁ­as, formulario de solicitud y cualquier otro documento requerido.",
+        "icon": "FileCheck",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "Licencia expedida",
+        "description": "Reciba su licencia comercial, de servicios o industrial, generalmente en cuestiÁ³n de dÁ­as.",
+        "icon": "BadgeCheck",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "06",
+        "title": "Visa y cuenta bancaria",
+        "description": "Solicita visas de residencia y abre una cuenta bancaria corporativa para comenzar a operar.",
+        "icon": "Landmark",
+        "color": "from-pink-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "Por qué es ideal",
+    "title": "Prepara tu negocio para el futuro",
+    "titleHighlight": "Negocio",
+    "subtitle": "La Zona Franca del Sur de Dubái está diseñada para el emprendedor moderno.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Flexible y asequible",
+        "description": "Paquetes de licencias asequibles con opciones para empresas emergentes y emprendedores independientes."
+      },
+      {
+        "icon": "Globe",
+        "title": "Conectividad estratégica",
+        "description": "Cerca del Aeropuerto Internacional Al Maktoum y de los principales puertos para el comercio mundial."
+      },
+      {
+        "icon": "Users",
+        "title": "Propiedad 100% extranjera",
+        "description": "No se necesita patrocinador local: los emprendedores pueden ser dueños de todo."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Ecosistema de startups",
+        "description": "Redes de contactos, espacios de coworking y acceso a aceleradoras de negocios."
+      },
+      {
+        "icon": "Zap",
+        "title": "ConfiguraciÁ³n rápida",
+        "description": "RegÁ­strese y obtenga su licencia en dÁ­as, no en semanas."
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Infraestructura preparada para el futuro",
+        "description": "Diseñado para empresas digitales, de comercio electrÁ³nico y centradas en la tecnologÁ­a."
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "Para quién es",
+    "title": "¿Quién deberÁ­a establecerse en el sur de Dubái?",
+    "titleHighlight": "¿Dubái Sur?",
+    "subtitle": "Ideal para estos sectores y tipos de negocios.",
+    "items": [
+      {
+        "icon": "Truck",
+        "title": "LogÁ­stica y transporte de mercancÁ­as",
+        "description": "Empresas de transporte de mercancÁ­as y logÁ­stica que prestan servicios en los paÁ­ses del CCG y más allá.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Comercio electrÁ³nico",
+        "description": "Tiendas online con centros de distribuciÁ³n y operaciones de entrega.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Servicios de aviaciÁ³n",
+        "description": "Mantenimiento de aeronaves, servicios de vuelos chárter y asistencia aeronáutica.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Store",
+        "title": "CompañÁ­as comerciales",
+        "description": "Empresas de importaciÁ³n/exportaciÁ³n dirigidas al mercado del CCG y otros mercados internacionales.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "ConsultorÁ­as",
+        "description": "Empresas emergentes de servicios y firmas de consultorÁ­a profesional.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Code",
+        "title": "TecnologÁ­a y software",
+        "description": "Desarrollo de software, servicios de TI y plataformas digitales.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "noteText": "Ventaja estratégica: Ubicado cerca del Aeropuerto Internacional Al Maktoum, el Puerto de Jebel Ali y con acceso directo por carretera, aire y mar, una zona diseñada para empresas que necesitan rapidez, acceso y eficiencia operativa."
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Su socio de confianza para la instalaciÁ³n en el sur de Dubái.",
+    "titleHighlight": "ConfiguraciÁ³n del sur de Dubái",
+    "description": "Simplificamos al máximo la configuraciÁ³n de su negocio en la Zona Franca de Dubai South, garantizando transparencia y un ambiente libre de estrés. Desde la selecciÁ³n de actividades hasta la tramitaciÁ³n de visados y la apertura de cuentas bancarias, nos encargamos de todo.",
+    "items": [
+      {
+        "icon": "Award",
+        "label": "Especialistas certificados en zonas francas"
+      },
+      {
+        "icon": "Zap",
+        "label": "Aprobaciones aceleradas"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Precios transparentes"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Cumplimiento al 100%"
+      },
+      {
+        "icon": "Users",
+        "label": "Gestor de cuentas dedicado"
+      },
+      {
+        "icon": "Clock",
+        "label": "Soporte 24/7"
+      }
+    ],
+    "stats": [
+      {
+        "icon": "Clock",
+        "value": "2-4",
+        "label": "DÁ­as Promedio de ConfiguraciÁ³n",
+        "color": "from-sky-500 to-blue-500",
+        "bg": "del-cielo-500/30 al-azul-500/30"
+      },
+      {
+        "icon": "Zap",
+        "value": "98%",
+        "label": "Tasa de éxito",
+        "color": "from-violet-500 to-purple-500",
+        "bg": "de violeta 500/30 a pÁºrpura 500/30"
+      },
+      {
+        "icon": "Users",
+        "value": "Más de 500",
+        "label": "Clientes atendidos",
+        "color": "from-emerald-500 to-teal-500",
+        "bg": "de esmeralda 500/30 a verde azulado 500/30"
+      },
+      {
+        "icon": "Award",
+        "value": "15+",
+        "label": "Años de experiencia",
+        "color": "from-amber-500 to-orange-500",
+        "bg": "de ámbar 500/30 a naranja 500/30"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Zona Franca del Sur de Dubái. ¿AÁºn tienes preguntas? Contáctanos.",
+    "sidebarCard": {
+      "title": "¿AÁºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas de Dubai South.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la Zona Franca del Sur de Dubái."
+    },
+    "items": [
+      {
+        "q": "¿Qué es la Zona Franca del Sur de Dubái y por qué es ideal para la constituciÁ³n de empresas?",
+        "a": "La Zona Franca del Sur de Dubái es una zona econÁ³mica respaldada por el gobierno, ubicada junto al Aeropuerto Internacional Al Maktoum y el recinto de la Expo 2020. Impulsa la logÁ­stica, el comercio electrÁ³nico, la aviaciÁ³n y el comercio, con propiedad 100% extranjera, impuestos cero e infraestructura de primer nivel."
+      },
+      {
+        "q": "¿Cuáles son las principales ventajas de establecerse en la Zona Franca de Dubai South?",
+        "a": "Propiedad 100% extranjera, cero impuestos sobre la renta personal y corporativa, registro rápido (2-4 dÁ­as), paquetes flexibles para empresas de todos los tamaños y un ecosistema completo para startups."
+      },
+      {
+        "q": "¿Qué actividades comerciales están permitidas en la Zona Franca Sur de Dubái?",
+        "a": "LogÁ­stica, servicios de aviaciÁ³n, comercio electrÁ³nico, comercio internacional, consultorÁ­a, servicios de TI, plataformas digitales y mucho más. La lista completa está disponible en el sitio web oficial de Dubai South."
+      },
+      {
+        "q": "¿Necesito un patrocinador local para crear una empresa en la Zona Franca Sur de Dubái?",
+        "a": "No. La Zona Franca de Dubai South permite la propiedad extranjera al 100%; no necesita un patrocinador local para establecer u operar su negocio."
+      },
+      {
+        "q": "¿Qué tipos de licencias están disponibles?",
+        "a": "Se requieren licencias comerciales, de servicios e industriales, segÁºn la actividad de su negocio. Cada una tiene diferentes cupos de visas y requisitos de oficina."
+      },
+      {
+        "q": "¿Qué estructuras legales están permitidas?",
+        "a": "Establecimiento de Zona Franca (FZE) para accionistas Áºnicos, Sociedad de Zona Franca (FZCO) para accionistas mÁºltiples y Sucursales para empresas existentes en los EAU o en el extranjero."
+      },
+      {
+        "q": "¿Puedo constituir una empresa en la Zona Franca del Sur de Dubái de forma remota?",
+        "a": "SÁ­. Gestionamos todo el proceso de forma remota, desde la recopilaciÁ³n de documentos hasta la emisiÁ³n de la licencia; no es necesario viajar a Dubái."
+      },
+      {
+        "q": "¿Cuáles son las opciones de visado después de establecerse?",
+        "a": "Puedes solicitar visas de residencia para ti, tu familia y tus empleados. El nÁºmero de visas disponibles depende del tamaño de tu oficina (oficina flexible o privada)."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se adaptan perfectamente a la configuraciÁ³n de su Zona Franca.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos Árabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa Dorada",
+        "description": "Residencia de 10 años en los Emiratos Árabes Unidos para inversores y profesionales con talento.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "corporate-tax-vat",
+        "title": "Impuesto de sociedades e IVA",
+        "description": "Asesoramiento fiscal especializado, registro ante la FTA y cumplimiento de la normativa.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Empieza hoy",
+    "title": "¿Listo para lanzar en Dubai South?",
+    "titleHighlight": "¿Dubái Sur?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuraciÁ³n, desde la selecciÁ³n de la actividad hasta la emisiÁ³n de la licencia y la apertura de la cuenta bancaria.",
+    "chips": [
+      "Consulta gratuita",
+      "Más de 10.000 clientes",
+      "InstalaciÁ³n en 2-4 dÁ­as"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarÁ­a una consulta gratuita para la puesta en marcha de la Zona Franca del Sur de Dubái.",
+    "whatsappCardMessage": "¡Hola! Me gustarÁ­a hablar sobre la configuraciÁ³n de la Zona Franca del Sur de Dubái."
+  }
+}

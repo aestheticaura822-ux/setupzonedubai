@@ -1,0 +1,75 @@
+{
+  "badge": "Unsere Kernleistungen",
+  "heading": {
+    "line1": "Umfassende Unternehmensgründung in",
+    "highlight": "Dubai und die VAE"
+  },
+  "subtitle": "Freizone, Festland und umfassende Geschäftsunterstützung – alles, was Sie für den Start und das Wachstum Ihres Unternehmens in den VAE benötigen, an einem Ort.",
+  "services": [
+    {
+      "id": "freezone",
+      "icon": "Building2",
+      "title": "Einrichtung der Freizone",
+      "tagline": "Für internationale und ortsunabhängige Unternehmen",
+      "description": "100% Eigentum, keine Steuern, ideal für Remote-Arbeit – wir finden die beste Freizone für Ihre Aktivitäten und Ihr Budget.",
+      "image": "https://images.pexels.com/photos/36260007/pexels-photo-36260007.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "100% ausländisches Eigentum",
+        "0 % persönliche und Unternehmenssteuer",
+        "5 kostenlose Geschäftsaktivitäten",
+        "Fernbedienungsfreundliche Einrichtung"
+      ],
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)",
+      "accentColor": "text-sky-600",
+      "bgAccent": "bg-sky-50",
+      "borderAccent": "border-sky-200",
+      "number": "01"
+    },
+    {
+      "id": "mainland",
+      "icon": "Globe",
+      "title": "Einrichtung auf dem Festland",
+      "tagline": "Für lokale Marktaktivitäten in den VAE",
+      "description": "Handeln Sie in den gesamten VAE, stellen Sie problemlos Mitarbeiter ein und erweitern Sie Ihre Präsenz. Wir kümmern uns um alle Formalitäten mit der DED, die Lizenzierung und die Büroorganisation.",
+      "image": "https://images.pexels.com/photos/32761488/pexels-photo-32761488.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "Voller Marktzugang in den VAE",
+        "Keine Handelsbeschränkungen",
+        "Stellen Sie Mitarbeiter frei ein",
+        "Teilnahmeberechtigt an öffentlichen Ausschreibungen"
+      ],
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentColor": "text-violett-600",
+      "bgAccent": "bg-violet-50",
+      "borderAccent": "border-violet-200",
+      "number": "02"
+    },
+    {
+      "id": "support",
+      "icon": "Briefcase",
+      "title": "Geschäftssupport",
+      "tagline": "Für aktive Unternehmen in den VAE",
+      "description": "Sie führen ein Unternehmen? Wir kümmern uns um die administrativen Angelegenheiten: Umsatzsteuer, Bankgeschäfte, Verlängerungen, Lohnabrechnung, Visa, Rechtsdokumente und vieles mehr.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+      "features": [
+        "Umsatzsteuer- und Körperschaftsteuererklärung",
+        "Bankkontoverwaltung",
+        "Lizenz- und Visaverlängerungen",
+        "Lohn- und Gehaltsabrechnung & Buchhaltung"
+      ],
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentColor": "text-amber-600",
+      "bgAccent": "bg-amber-50",
+      "borderAccent": "border-amber-200",
+      "number": "03"
+    }
+  ],
+  "bottomCTA": {
+    "question": "Sie sind sich nicht sicher, welches Produkt das Richtige für Sie ist?",
+    "buttonText": "Sprechen Sie mit einem Experten",
+    "buttonLink": "#Kontakt"
+  }
+}

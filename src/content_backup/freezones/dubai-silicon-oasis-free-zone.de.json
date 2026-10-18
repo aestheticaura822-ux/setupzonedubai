@@ -1,0 +1,413 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600\u0026q=80",
+    "heroBadge":  "Clever starten. Schnell wachsen.",
+    "heroTitle":  "Dubai Silicon Oasis Freihandelszone",
+    "heroTitleHighlight":  "Freizone",
+    "heroSubtitle":  "Gestalten Sie Ihre Zukunft in Dubais intelligentem Technologiezentrum. Eine speziell für Unternehmer, Innovatoren und Zukunftsunternehmen konzipierte Smart City "“ KI, Robotik, E-Commerce und Software.",
+    "heroChips":  [
+                      "100% Eigentum",
+                      "Nullsteuer",
+                      "3-5 Tage Aufbauzeit"
+                  ],
+    "heroCircles":  {
+                        "primary":  {
+                                        "icon":  "CPU",
+                                        "value":  "Technik",
+                                        "label":  "Smart City Hub",
+                                        "color":  "von Indigo 400 bis Lila 600"
+                                    },
+                        "secondary":  {
+                                          "icon":  "Rakete",
+                                          "value":  "Mehr als 5.000",
+                                          "label":  "Unternehmen",
+                                          "color":  "von Violett-400 bis Lila-600"
+                                      }
+                    },
+    "stats":  [
+                  {
+                      "icon":  "Uhr",
+                      "value":  "3-5",
+                      "label":  "Tagesaufbau",
+                      "color":  "von Indigo 400 bis Lila 600"
+                  },
+                  {
+                      "icon":  "Globus",
+                      "value":  "100%",
+                      "label":  "Auslí¤ndisches Eigentum",
+                      "color":  "von Violett-400 bis Lila-600"
+                  },
+                  {
+                      "icon":  "Dollarzeichen",
+                      "value":  "0 %",
+                      "label":  "Einkommensteuer",
+                      "color":  "von Smaragdgrün 400 bis Türkis 600"
+                  },
+                  {
+                      "icon":  "Benutzer",
+                      "value":  "5000+",
+                      "label":  "Unternehmen",
+                      "color":  "von Bernstein-400 bis Orange-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Technologiezentrum von Dubai",
+                          "title":  "Warum sollten Sie sich für die Dubai Silicon Oasis Free Zone entscheiden?",
+                          "titleHighlight":  "Freizone?",
+                          "image":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Befindet sich in",
+                          "imageBadgeText":  "Dubai Silicon Oase",
+                          "paragraphs":  [
+                                             "Die Dubai Silicon Oasis Free Zone (DSO) ist ein preisgekrí¶ntes Innovationsviertel, das für Startups, Technologieunternehmen und fortschrittliche Hersteller geschaffen wurde.",
+                                             "Die DSO-Plattform vereint eine erstklassige Lage in Dubai mit modernem Stadtleben und bietet Unternehmern eine einzigartige Plattform für Innovation, Austausch und Wachstum. Zugang zu qualifizierten Fachkrí¤ften, solide rechtliche Rahmenbedingungen, fortschrittliche Infrastruktur und unternehmensfreundliche Regulierungen machen die DSO-Plattform zu einem idealen Ort für Unternehmen, um sich zukunftssicher aufzustellen."
+                                         ],
+                          "highlights":  [
+                                             "Preisgekrí¶nter Bezirk",
+                                             "Intelligentes Stadtleben",
+                                             "Fortschrittliche Infrastruktur",
+                                             "Zugang zum globalen Markt"
+                                         ]
+                      },
+    "bentoSection":  {
+                         "badge":  "Warum DSO",
+                         "title":  "Ihr Tor zur technologischen Innovation",
+                         "titleHighlight":  "Technologische Innovation",
+                         "largeCards":  [
+                                            {
+                                                "icon":  "CPU",
+                                                "title":  "Smart Tech Hub",
+                                                "description":  "Dubais führender Innovationsbezirk für KI, Software, Robotik und Zukunftsindustrien.",
+                                                "color":  "von Indigo-500 über Lila-600 nach Indigo-700"
+                                            },
+                                            {
+                                                "icon":  "Server",
+                                                "title":  "Fortschrittliche Infrastruktur",
+                                                "description":  "Rechenzentren, Innovationslabore, Logistikzentren und sichere Arbeitsbereiche "“ alles in einem í–kosystem.",
+                                                "color":  "von Cyan-500 über Türkis-600 bis Cyan-700"
+                                            }
+                                        ],
+                         "smallCards":  [
+                                            {
+                                                "icon":  "Absolventenmütze",
+                                                "title":  "Talentzugang",
+                                                "description":  "In der Ní¤he von Spitzenuniversití¤ten und Innovationszentren für qualifizierte Arbeitskrí¤fte.",
+                                                "color":  "von Violett-400 bis Lila-600"
+                                            },
+                                            {
+                                                "icon":  "Zap",
+                                                "title":  "Schnelle Einrichtung",
+                                                "description":  "3-5 Tage Bearbeitungszeit für Lizenzen "“ die schnellste unter den Technologie-Freizonen.",
+                                                "color":  "von Bernstein-400 bis Orange-600"
+                                            }
+                                        ]
+                     },
+    "smartCitySection":  {
+                             "badge":  "Smart-City-Funktionen",
+                             "title":  "Alles in einer Smart City",
+                             "titleHighlight":  "Eine intelligente Stadt",
+                             "subtitle":  "Wirtschaft, Leben und Innovation "“ alles integriert.",
+                             "items":  [
+                                           {
+                                               "icon":  "Gebí¤ude 2",
+                                               "title":  "Büroinfrastruktur",
+                                               "description":  "Coworking-Spaces, Executive-Suiten, Innovationslabore, Logistikzentren und sichere Rechenzentren."
+                                           },
+                                           {
+                                               "icon":  "Home2",
+                                               "title":  "Gemeinschaft und Lebensqualití¤t",
+                                               "description":  "Intelligente Villen, internationale Schulen, Fitnessstudios, Geschí¤fte und í–koparks für einen ausgewogenen Lebensstil."
+                                           },
+                                           {
+                                               "icon":  "Schichten",
+                                               "title":  "Rundum-Unterstützung",
+                                               "description":  "Website, E-Commerce, CRM, Branding, Bankwesen, Umsatzsteuer, Buchhaltung "“ alles intern."
+                                           },
+                                           {
+                                               "icon":  "MapPin",
+                                               "title":  "Strategische Lage",
+                                               "description":  "Nur 20 Minuten vom Flughafen Dubai entfernt mit direktem Zugang zu wichtigen Autobahnen."
+                                           },
+                                           {
+                                               "icon":  "Flugzeug",
+                                               "title":  "Visa \u0026 Einwanderung",
+                                               "description":  "Der gesamte Visa-Lebenszyklus "“ Investoren-, Mitarbeiter- und Angehí¶rigenvisa."
+                                           }
+                                       ]
+                         },
+    "setupStepsSection":  {
+                              "badge":  "Einrichtungsprozess",
+                              "title":  "Intelligente Einrichtung in einer intelligenten Stadt",
+                              "titleHighlight":  "Smart City",
+                              "subtitle":  "Ein optimierter 6-stufiger Prozess von der Auswahl der Aktivití¤t bis zur Erí¶ffnung des Bankkontos.",
+                              "steps":  [
+                                            {
+                                                "step":  "01",
+                                                "title":  "Geschí¤ftsaktivití¤t auswí¤hlen",
+                                                "description":  "Wí¤hlen Sie aus den von DSO genehmigten Technologie- und Innovationsaktivití¤ten, darunter Software, KI und E-Commerce.",
+                                                "icon":  "Ziel",
+                                                "color":  "von Indigo 400 bis Lila 600"
+                                            },
+                                            {
+                                                "step":  "02",
+                                                "title":  "Rechtsform wí¤hlen",
+                                                "description":  "FZE für Einzelaktioní¤re, FZCO für Mehrfachaktioní¤re oder Zweigniederlassung für bestehende Unternehmen.",
+                                                "icon":  "Gebí¤ude 2",
+                                                "color":  "von Violett-400 bis Lila-600"
+                                            },
+                                            {
+                                                "step":  "03",
+                                                "title":  "Reserve-Handelsname",
+                                                "description":  "Reichen Sie Ihren Firmennamen zur Genehmigung gemí¤íŸ den DSO-Namensrichtlinien ein.",
+                                                "icon":  "DateiText",
+                                                "color":  "von Bernstein-400 bis Orange-600"
+                                            },
+                                            {
+                                                "step":  "04",
+                                                "title":  "Dokumente einreichen",
+                                                "description":  "Passkopien, Fotos, Antragsformular und alle weiteren erforderlichen Dokumente.",
+                                                "icon":  "Dateiprüfung",
+                                                "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                            },
+                                            {
+                                                "step":  "05",
+                                                "title":  "Lizenz erteilt",
+                                                "description":  "Sie erhalten Ihre Gewerbe-, Dienstleistungs-, Industrie- oder E-Commerce-Lizenz innerhalb weniger Tage.",
+                                                "icon":  "BadgeCheck",
+                                                "color":  "von Cyan-400 bis Türkis-600"
+                                            },
+                                            {
+                                                "step":  "06",
+                                                "title":  "Visa \u0026 Bankkonto",
+                                                "description":  "Beantragen Sie eine Aufenthaltsgenehmigung und erí¶ffnen Sie ein Firmenbankkonto, um Ihre Geschí¤ftstí¤tigkeit aufzunehmen.",
+                                                "icon":  "Wahrzeichen",
+                                                "color":  "von rosa-400 bis rosé-600"
+                                            }
+                                        ]
+                          },
+    "licensesSection":  {
+                            "badge":  "Lizenzarten",
+                            "title":  "DSO-Gewerbelizenzen",
+                            "titleHighlight":  "Lizenzen",
+                            "items":  [
+                                          {
+                                              "icon":  "Speichern",
+                                              "title":  "Gewerbelizenz",
+                                              "description":  "Für den Kauf und Verkauf von Waren.",
+                                              "color":  "von Indigo 400 bis Lila 600"
+                                          },
+                                          {
+                                              "icon":  "Aktentasche",
+                                              "title":  "Dienstleistungslizenz",
+                                              "description":  "Für Beratungsunternehmen, Software und Medien.",
+                                              "color":  "von Violett-400 bis Lila-600"
+                                          },
+                                          {
+                                              "icon":  "Fabrik",
+                                              "title":  "Industrielizenz",
+                                              "description":  "Für Fertigungs- und Industrietí¤tigkeiten.",
+                                              "color":  "von Bernstein-400 bis Orange-600"
+                                          },
+                                          {
+                                              "icon":  "Warenkorb",
+                                              "title":  "E-Commerce-Lizenz",
+                                              "description":  "Für digitale und Online-Shops.",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          }
+                                      ]
+                        },
+    "activitiesSection":  {
+                              "badge":  "Geschí¤ftstí¤tigkeit",
+                              "title":  "Wo Ideen ihren Anfang nehmen",
+                              "titleHighlight":  "Abheben",
+                              "subtitle":  "DSO unterstützt ein breites Spektrum zukunftsweisender Branchen. Wenn Sie im Technologiesektor tí¤tig sind, ist DSO der Ort, an dem sich Ihre Wettbewerber, Partner und Kunden bereits aufhalten.",
+                              "items":  [
+                                            {
+                                                "icon":  "Code",
+                                                "label":  "Software- und App-Entwicklung"
+                                            },
+                                            {
+                                                "icon":  "Bot",
+                                                "label":  "KI und maschinelles Lernen"
+                                            },
+                                            {
+                                                "icon":  "CPU",
+                                                "label":  "Robotik \u0026 Automatisierung"
+                                            },
+                                            {
+                                                "icon":  "W-lan",
+                                                "label":  "IoT \u0026 intelligente Gerí¤te"
+                                            },
+                                            {
+                                                "icon":  "ShieldCheck",
+                                                "label":  "Cybersicherheit"
+                                            },
+                                            {
+                                                "icon":  "Schichten",
+                                                "label":  "Blockchain"
+                                            },
+                                            {
+                                                "icon":  "Server",
+                                                "label":  "Rechenzentren"
+                                            },
+                                            {
+                                                "icon":  "CPU",
+                                                "label":  "Elektronikmontage"
+                                            },
+                                            {
+                                                "icon":  "Warenkorb",
+                                                "label":  "E-Commerce"
+                                            },
+                                            {
+                                                "icon":  "LKW",
+                                                "label":  "Logistikplattformen"
+                                            },
+                                            {
+                                                "icon":  "Aufwí¤rtstrend",
+                                                "label":  "Fintech"
+                                            },
+                                            {
+                                                "icon":  "Herz",
+                                                "label":  "Biotechnologie"
+                                            }
+                                        ],
+                              "helperCard":  {
+                                                 "title":  "Brauchen Sie Hilfe bei der Auswahl?",
+                                                 "text":  "Wir helfen Ihnen, Ihre Geschí¤ftstí¤tigkeit zu definieren und sicherzustellen, dass sie in die von DSO genehmigten Kategorien passt "“ und bleiben dabei flexibel für zukünftiges Wachstum."
+                                             }
+                          },
+    "whoShouldSection":  {
+                             "badge":  "Für wen es gedacht ist",
+                             "title":  "Wer sollte sich in DSO niederlassen?",
+                             "titleHighlight":  "DSO?",
+                             "subtitle":  "Perfekt geeignet für diese Branchen und Unternehmenstypen.",
+                             "items":  [
+                                           {
+                                               "icon":  "CPU",
+                                               "title":  "KI \u0026 Robotik",
+                                               "description":  "Unternehmen im Bereich künstliche Intelligenz und Robotik.",
+                                               "image":  "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800\u0026q=80",
+                                               "color":  "von Indigo 400 bis Lila 600"
+                                           },
+                                           {
+                                               "icon":  "Code",
+                                               "title":  "Software \u0026 Apps",
+                                               "description":  "Software-, App- und Plattformentwickler.",
+                                               "image":  "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800\u0026q=80",
+                                               "color":  "von Violett-400 bis Lila-600"
+                                           },
+                                           {
+                                               "icon":  "ShieldCheck",
+                                               "title":  "Cybersicherheit",
+                                               "description":  "Unternehmen aus den Bereichen Cybersicherheit und Blockchain.",
+                                               "image":  "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800\u0026q=80",
+                                               "color":  "von Cyan-400 bis Türkis-600"
+                                           },
+                                           {
+                                               "icon":  "Warenkorb",
+                                               "title":  "E-Commerce",
+                                               "description":  "Online-Unternehmen und digitale Plattformen.",
+                                               "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800\u0026q=80",
+                                               "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                           },
+                                           {
+                                               "icon":  "Fabrik",
+                                               "title":  "Fortschrittliche Fertigung",
+                                               "description":  "Elektronikmontage und Chipdesign.",
+                                               "image":  "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800\u0026q=80",
+                                               "color":  "von Bernstein-400 bis Orange-600"
+                                           },
+                                           {
+                                               "icon":  "LKW",
+                                               "title":  "Logistiktechnik",
+                                               "description":  "Lieferketten- und Logistikplattformen.",
+                                               "image":  "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800\u0026q=80",
+                                               "color":  "von rosa-400 bis rosé-600"
+                                           }
+                                       ]
+                         },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die Dubai Silicon Oasis Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie sich kostenlos von unseren DSO-Spezialisten beraten.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zur Dubai Silicon Oasis Free Zone."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Was ist die Dubai Silicon Oasis Free Zone und wer sollte sich hier ansiedeln?",
+                                          "a":  "DSO ist ein staatlich gefí¶rderter Innovationspark und eine Freihandelszone, die speziell für technologieorientierte Unternehmen, Startups und die fortschrittliche Fertigung konzipiert wurde. Ideal für Unternehmen aus den Bereichen KI, Software, Robotik, E-Commerce, Fintech und IoT."
+                                      },
+                                      {
+                                          "q":  "Welche Lizenzen sind in DSO verfügbar?",
+                                          "a":  "Handelslizenz (Warenkauf/-verkauf), Dienstleistungslizenz (Beratung, Software, Medien), Industrielizenz (Herstellung) und E-Commerce-Lizenz (Online-Shops)."
+                                      },
+                                      {
+                                          "q":  "Kann ein Freiberufler ein Unternehmen bei DSO registrieren?",
+                                          "a":  "Ja. DSO bietet Freiberuflergenehmigungen und kostengünstige Pakete für einzelne Freiberufler an."
+                                      },
+                                      {
+                                          "q":  "Wie lange dauert die Gründung eines DSO-Unternehmens?",
+                                          "a":  "In der Regel 3-5 Werktage, abhí¤ngig von der Dokumentation und der Art der Lizenz."
+                                      },
+                                      {
+                                          "q":  "Welche Dokumente bení¶tige ich?",
+                                          "a":  "Passkopien, digitale Fotos, Antragsformular, Geschí¤ftsplan (für einige Tí¤tigkeiten) und gegebenenfalls eine Unbedenklichkeitsbescheinigung."
+                                      },
+                                      {
+                                          "q":  "Kann ich Visa über meine DSO-Firma beantragen?",
+                                          "a":  "Ja. DSO erlaubt Visaquoten basierend auf Art und Grí¶íŸe des Büros "“ Investoren-, Mitarbeiter- und Angehí¶rigenvisa."
+                                      },
+                                      {
+                                          "q":  "Welche Büroarten stehen zur Verfügung?",
+                                          "a":  "Coworking-Spaces, Executive-Suiten, private Büros, Innovationslabore, Logistikzentren und Rechenzentren."
+                                      },
+                                      {
+                                          "q":  "Wie hoch sind die Einrichtungskosten?",
+                                          "a":  "Ab ca. 15.500 AED, abhí¤ngig von Aktivití¤t, Ablauf und Paket. Kontaktieren Sie uns für ein individuelles Angebot."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienstleistungen, die gut zu Ihrer Freizonenkonfiguration passen.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Erí¶ffnung eines Bankkontos",
+                                                     "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE mit umfassender KYC-Unterstützung.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "von Himmel-400 bis Blau-600"
+                                                 },
+                                                 {
+                                                     "slug":  "web-development",
+                                                     "title":  "Webentwicklung",
+                                                     "description":  "Moderne Websites für Technologieunternehmen.",
+                                                     "image":  "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800\u0026q=80",
+                                                     "gradient":  "von Violett-400 bis Lila-600"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Goldenes Visum",
+                                                     "description":  "10-jí¤hrige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Bernstein-400 bis Gelb-500"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Starten Sie noch heute!",
+                     "title":  "Bereit für den Start in Dubai Silicon Oasis?",
+                     "titleHighlight":  "Dubai Silicon Oase?",
+                     "subtitle":  "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess "“ von der Auswahl der Tí¤tigkeit bis zur Lizenzerteilung und Kontoerí¶ffnung.",
+                     "chips":  [
+                                   "Kostenlose Beratung",
+                                   "Mehr als 5000 Kunden",
+                                   "3-5 Tage Aufbauzeit"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Beratung zur Einrichtung der Dubai Silicon Oasis Free Zone.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über den Aufbau der Dubai Silicon Oasis sprechen."
+                 }
+}

@@ -1,0 +1,279 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "Prestijli Serbest Bölge",
+    "heroTitle":  "Dubai Dünya Ticaret Merkezi Serbest Bölgesi",
+    "heroTitleHighlight":  "Serbest Bölge",
+    "heroSubtitle":  "Dubai\u0027nin en prestijli serbest bölgelerinden biri; küresel sergilere, konferanslara ve iş etkinliklerine ev sahipliği yapıyor. Dubai\u0027nin iş bölgesinin merkezinde kurulmuştur.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "%0 Vergi",
+                      "3-5 Gün Kurulum"
+                  ],
+    "heroCard":  {
+                     "headerTitle":  "DWTC İşletmesi",
+                     "headerStatus":  "Canlı",
+                     "icon":  "Taç",
+                     "zoneLabel":  "Semt",
+                     "zoneValue":  "Ticaret Merkezi 1",
+                     "statusBadge":  "Aktif",
+                     "setupTimeLabel":  "Kurulum Süresi",
+                     "setupTimeValue":  "3-5 Gün",
+                     "taxLabel":  "Vergi Oranı",
+                     "taxValue":  "%0",
+                     "footerText":  "Şimdi Başlat"
+                 },
+    "stats":  [
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-5",
+                      "label":  "Kurulum Günleri",
+                      "color":  "arduvaz-400\u0027den çivit-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "indigo-400\u0027den mor-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Vergi Oranı",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Ödül",
+                      "value":  "Prestijli",
+                      "label":  "İş Bölgesi",
+                      "color":  "from-sky-400 to-cyan-600"
+                  }
+              ],
+    "whyDwtcSection":  {
+                           "badge":  "DWTC neden?",
+                           "title":  "Dubai Dünya Ticaret Merkezi\u0027ni Neden Seçmelisiniz?",
+                           "titleHighlight":  "Dubai Dünya Ticaret Merkezi?",
+                           "subtitle":  "Dünya standartlarında altyapı ve destekleyici bir iş ekosistemiyle olağanüstü avantajlar.",
+                           "smallCards":  [
+                                              {
+                                                  "icon":  "Harita İşareti",
+                                                  "title":  "Mükemmel Konum",
+                                                  "description":  "Dubai\u0027nin iş merkezinin kalbinde, mükemmel ulaşım bağlantılarına sahip bir konumda.",
+                                                  "color":  "arduvaz-400\u0027den çivit-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Kullanıcılar",
+                                                  "title":  "Çeşitli Yetenek Havuzu",
+                                                  "description":  "Çok çeşitli nitelikli profesyonellere ve sektör uzmanlarına erişim.",
+                                                  "color":  "indigo-400\u0027den mor-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Bina 2",
+                                                  "title":  "Dünya Standartlarında Altyapı",
+                                                  "description":  "Son teknolojiye sahip tesisler, modern ofisler ve birinci sınıf olanaklar.",
+                                                  "color":  "from-violet-400 to-purple-600"
+                                              }
+                                          ],
+                           "largeCard":  {
+                                             "icon":  "Taç",
+                                             "title":  "Gelişen İş Dünyası",
+                                             "description":  "Dubai\u0027nin iş ekosisteminin merkezinde, yıl boyunca düzenlenen küresel sergilere, konferanslara ve iş etkinliklerine katılın.",
+                                             "image":  "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200\u0026q=80",
+                                             "color":  "from-slate-700 via-indigo-700 to-violet-700"
+                                         },
+                           "transportCard":  {
+                                                 "icon":  "Uçak",
+                                                 "title":  "Ulaşım Bağlantıları",
+                                                 "description":  "Metro, otoyollar ve havaalanları - hepsi yakın.",
+                                                 "color":  "siyan-500\u0027den mavi-600 üzerinden siyan-700\u0027e"
+                                             }
+                       },
+    "servicesSection":  {
+                            "badge":  "Hizmetlerimiz",
+                            "title":  "DWTC\u0027de İş Kurma Hizmetleri",
+                            "titleHighlight":  "DWTC\u0027de",
+                            "subtitle":  "İşletmenizin kurulumunun her aşaması için uçtan uca eksiksiz destek.",
+                            "items":  [
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "Serbest Bölge Şirketi Kuruluşu",
+                                              "description":  "%100 sahiplik, sıfır kurumlar vergisi ve kÃ¢rların tamamının geri gönderilmesi "“ en uygun serbest bölgede kurulmuş bir şirket.",
+                                              "color":  "arduvaz-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Anakara Şirketi Kuruluşu",
+                                              "description":  "Birleşik Arap Emirlikleri pazarında doğrudan ticaret yapın "” DED evrak işlemleri, yerel sponsorluk düzenlemeleri ve lisanslama.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "DosyaMetni",
+                                              "title":  "Dubai\u0027de Ticaret Lisansı",
+                                              "description":  "Ticari, mesleki veya endüstriyel ticaret lisansı "” hızlı başvuru ve mevzuata uyum.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcı Kontrolü",
+                                              "title":  "Vize İşlemleri ve PRO Hizmetleri",
+                                              "description":  "Yatırımcı, çalışan ve bakmakla yükümlü olunan kişi vizeleri "” sağlık testleri, Emirates Kimliği ve vize damgalama.",
+                                              "color":  "from-sky-400 to-cyan-600"
+                                          },
+                                          {
+                                              "icon":  "Kredi Kartı",
+                                              "title":  "Kurumsal Banka Hesabı Açma",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarında ticari banka hesapları "” belge işlemleri, müşteri kimlik doğrulama (KYC) ve banka tanıtımları.",
+                                              "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Hesap Makinesi",
+                                              "title":  "Muhasebe ve Vergi Hizmetleri",
+                                              "description":  "Birleşik Arap Emirlikleri kurumlar vergisi ve KDV mevzuatına uyumlu kalın "” muhasebe, KDV beyannameleri ve finansal raporlama.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          }
+                                      ]
+                        },
+    "packagesSection":  {
+                            "badge":  "Paketlerimiz",
+                            "title":  "Şeffaf Her Şey Dahil Paketler",
+                            "titleHighlight":  "Her Şey Dahil Paketler",
+                            "subtitle":  "Gizli ücret yok "” şeffaf, önceden belirlenmiş fiyatlandırma.",
+                            "items":  [
+                                          {
+                                              "icon":  "Küre",
+                                              "name":  "Serbest Bölge Lisansı",
+                                              "badge":  null,
+                                              "price":  "5.999",
+                                              "currency":  "AED",
+                                              "description":  "İkamet zorunluluğu yok "” uzaktan çalışan işletmeler ve serbest çalışanlar için ideal.",
+                                              "color":  "arduvaz-400\u0027den çivit-600\u0027e",
+                                              "highlighted":  false
+                                          },
+                                          {
+                                              "icon":  "Taç",
+                                              "name":  "Oturma İzni Olan Serbest Bölge",
+                                              "badge":  "En Popüler",
+                                              "price":  "11.999",
+                                              "currency":  "AED",
+                                              "description":  "Dubai\u0027ye taşınan girişimciler için en iyisi.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e",
+                                              "highlighted":  true
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "name":  "İkametgahlı Anakara",
+                                              "badge":  "En İyi Değer",
+                                              "price":  "16.999",
+                                              "currency":  "AED",
+                                              "description":  "Birleşik Arap Emirlikleri yerel pazarını hedefleyen işletmeler için.",
+                                              "color":  "from-violet-400 to-purple-600",
+                                              "highlighted":  false
+                                          }
+                                      ]
+                        },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Setup Zone Dubai\u0027yi Neden Seçmelisiniz?",
+                               "titleHighlight":  "Dubai\u0027de kurulum bölgesi mi?",
+                               "items":  [
+                                             {
+                                                 "icon":  "Roket",
+                                                 "title":  "Uçtan Uca Destek",
+                                                 "description":  "Lisanslamadan lansmana kadar eksiksiz işletme kurulum desteği."
+                                             },
+                                             {
+                                                 "icon":  "Ödül",
+                                                 "title":  "Uzman Bilgisi",
+                                                 "description":  "Dubai serbest bölgeleri ve ana karadaki düzenlemeler hakkında derinlemesine bilgi."
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "title":  "Şeffaf Fiyatlandırma",
+                                                 "description":  "Gizli ücret yok "” fiyatlandırma her zaman açık ve şeffaftır."
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcı Kontrolü",
+                                                 "title":  "Özel Yönetici",
+                                                 "description":  "Tüm süreç boyunca size özel bir ilişki yöneticisi atanacaktır."
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "title":  "Lisans Sonrası Destek",
+                                                 "description":  "Kurulum sonrasında PRO, muhasebe ve uyumluluk hizmetleri."
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "title":  "Hızlı İşlem",
+                                                 "description":  "Lisans 3-5 iş günü içinde verilir."
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "DWTC hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "DWTC uzmanlarımızla ücretsiz görüşme yapın.",
+                                            "whatsappMessage":  "Merhaba! DWTC Serbest Bölgesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "DWTC\u0027de bir işletme kurmak ne kadar sürer?",
+                                          "a":  "Lisans türüne ve gerekli onaylara bağlı olarak, işletmelerin çoğu 3-5 iş günü içinde tamamen kayıt altına alınır ve faaliyete geçer."
+                                      },
+                                      {
+                                          "q":  "Yabancı uyruklu biri olarak DWTC\u0027de iş kurabilir miyim?",
+                                          "a":  "Evet. Yabancılar, Dubai serbest bölgelerinde %100 sahiplikle işletme kurabilirler. Anakara şirketleri, iş faaliyetine bağlı olarak yerel bir sponsora ihtiyaç duyabilirler."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de fiziksel olarak bulunmam gerekiyor mu?",
+                                          "a":  "Kayıt işleminin büyük bir kısmı uzaktan yapılabilir. Ekibimiz evrak işlerini ve devlet başvurularını sizin adınıza halleder."
+                                      },
+                                      {
+                                          "q":  "DWTC\u0027de ne tür işletmeler kurabilirim?",
+                                          "a":  "Seçtiğiniz lisans türüne bağlı olarak ticari, profesyonel, endüstriyel, e-ticaret ve serbest meslek işletmeleri."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "DWTC kurulumunuzla uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "arduvaz-400\u0027den çivit-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Altın Vize",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "DWTC\u0027de Lansmana Hazır mısınız?",
+                     "titleHighlight":  "DWTC?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Kurulum sürecinin tamamında size rehberlik edeceğiz ve işletmeniz için en uygun yargı bölgesini seçmenize yardımcı olacağız.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "3-5 Gün Kurulum",
+                                   "Gizli Ücret Yok"
+                               ],
+                     "whatsappMessage":  "Merhaba! DWTC kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! DWTC kurulumu hakkında görüşmek istiyorum."
+                 }
+}

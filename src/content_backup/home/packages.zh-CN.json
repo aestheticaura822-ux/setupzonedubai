@@ -1,0 +1,128 @@
+{
+  "badge": "我们的套餐",
+  "heading": {
+    "line1": "透明定价",
+    "highlight": "无隐藏费用"
+  },
+  "subtitle": "选择适合您业务的套餐。所有价格均为全包价——无隐藏费用，绝无隐形支出。",
+  "toggle": {
+    "oneTimeLabel": "一次性付款",
+    "installmentLabel": "分期付款",
+    "installmentSuffix": "或 3 倍"
+  },
+  "packages": [
+    {
+      "id": "freezone",
+      "name": "自由区许可证",
+      "badge": null,
+      "price": "5,999",
+      "currency": "自动体外除颤器",
+      "period": "一度",
+      "tagline": "非常适合自由职业者和远程办公企业",
+      "icon": "Building2",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.3)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "iconBg": "from-sky-400 to-blue-600",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "features": [
+        "5项免费商业活动",
+        "100% 所有权",
+        "0% 个人及所得税",
+        "企业税低",
+        "免费咨询",
+        "最低价格保证"
+      ],
+      "cta": "立即开始",
+      "highlighted": false
+    },
+    {
+      "id": "freezone-residency",
+      "name": "自由区及居留权",
+      "badge": "最受欢迎",
+      "price": "11,999",
+      "currency": "自动体外除颤器",
+      "period": "一度",
+      "tagline": "最适合迁居迪拜的企业家",
+      "icon": "Globe",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "iconBg": "from-violet-400 to-purple-600",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "features": [
+        "全包式自由区许可证",
+        "5项免费商业活动",
+        "100% 所有权",
+        "0% 个人及所得税",
+        "企业税低",
+        "免费咨询",
+        "免费租赁协议",
+        "1. 阿联酋居留/投资签证",
+        "医疗、阿联酋身份证、身份变更"
+      ],
+      "cta": "立即开始",
+      "highlighted": true
+    },
+    {
+      "id": "mainland-residency",
+      "name": "大陆居民",
+      "badge": "性价比最高",
+      "price": "16,999",
+      "currency": "自动体外除颤器",
+      "period": "一度",
+      "tagline": "面向阿联酋本地市场的企业",
+      "icon": "Crown",
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentText": "text-amber-600",
+      "accentBg": "bg-amber-50",
+      "accentBorder": "border-amber-200",
+      "iconBg": "from-amber-400 to-orange-600",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "features": [
+        "大陆牌照",
+        "100% 所有权",
+        "0% 个人及所得税",
+        "企业税低",
+        "免费咨询",
+        "1. 阿联酋居留/投资签证",
+        "医疗、阿联酋身份证、身份变更"
+      ],
+      "cta": "立即开始",
+      "highlighted": false
+    }
+  ],
+  "customPackageCTA": {
+    "title": "需要定制套餐？",
+    "subtitle": "我们将根据您的具体业务需求量身定制方案——无论是在大陆、自由区还是离岸地区。",
+    "primaryCta": "获取定制报价",
+    "secondaryCta": "致电我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我需要一份针对我在阿联酋开展业务的定制方案。",
+    "backgroundImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+  },
+  "trustLine": [
+    {
+      "label": "无隐藏费用",
+      "color": "emerald"
+    },
+    {
+      "label": "透明定价",
+      "color": "sky"
+    },
+    {
+      "label": "符合FTA规定",
+      "color": "violet"
+    },
+    {
+      "label": "免费咨询",
+      "color": "amber"
+    }
+  ]
+}

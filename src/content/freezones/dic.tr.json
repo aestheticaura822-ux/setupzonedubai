@@ -1,0 +1,451 @@
+{
+  "slug": "dic",
+  "hero": {
+    "badge": "İş Dünyası Teknolojiyle Başlar",
+    "title": "Dubai İnternet Şehri",
+    "titleHighlight": "Serbest Bölge",
+    "subtitle": "Birleşik Arap Emirlikleri'nin bilişim, telekomünikasyon, dijital medya ve yazılım geliştirme şirketleri için önde gelen inovasyon merkezi. TECOM Grubu'nun bir parçası olan merkez, birinci sınıf altyapı ve modern teknoloji olanaklarına sahiptir.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80",
+    "breadcrumbParent": "Serbest Bölgeler",
+    "breadcrumbLabel": "DIC",
+    "ctaPrimaryText": "Ücretsiz Danışmanlık Alın",
+    "ctaPrimaryLink": "#temas etmek",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Merhaba! Dubai İnternet Şehri Serbest Bölgesi kurulumuyla ilgileniyorum.",
+    "badges": [
+      "%100 Sahiplik",
+      "%0 Vergi",
+      "TECOM Grubu"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Kurulum Günleri",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Vergi Oranı",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Cpu",
+      "value": "Teknoloji",
+      "label": "İnovasyon Merkezi",
+      "color": "from-sky-400 to-cyan-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "DIC Terminal",
+    "statusLabel": "Lisans Türü",
+    "totalLabel": "Lisans Türü",
+    "totalValue": "Teknoloji ve İnovasyon",
+    "statusBadge": "Aktif",
+    "metrics": [
+      {
+        "label": "Kurulum Süresi",
+        "value": "3-7 Gün",
+        "color": "text-cyan-600"
+      },
+      {
+        "label": "Vergi Oranı",
+        "value": "%0",
+        "color": "text-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Teknoloji için Stratejik Üs",
+    "title": "Dubai İnternet Şehrinde Yerleşim Kurmanın Faydaları",
+    "titleHighlight": "Dubai İnternet Şehri",
+    "subtitle": "Orta Doğu'nun en cazip teknoloji hizmetleri merkezi serbest bölgelerinden biri.",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "description": "Operasyonların, kararların ve karların tam kontrolü sizde; yerel sponsora gerek yok.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "%0 Kurumlar ve Kişisel Vergi",
+        "description": "Kurum kârları ve kişisel gelirler üzerinden sıfır vergi — büyümeye daha fazla yatırım yapın.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Gümrük Vergisi Yok",
+        "description": "İthalat/ihracat vergilerinden tamamen muaf — yazılım, BT donanımı, bulut hizmetleri için mükemmel.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "UserCheck",
+      "title": "Etkin Vize Kotası Tahsisi",
+      "description": "DIC'nin axs platformu, işletme sahipleri, çalışanlar ve bakmakla yükümlü oldukları kişiler için (tek başına çalışanlardan tam ekiplere kadar) sorunsuz onay süreçleri sağlar.",
+      "color": "from-cyan-500 to-indigo-700"
+    },
+    "smallCard2": {
+      "icon": "MapPin",
+      "title": "Stratejik Konum",
+      "description": "Şeyh Zayed Caddesi üzerinde, metro istasyonlarına, havaalanlarına ve ticari bölgelere yakın konumda.",
+      "color": "from-violet-500 to-violet-700"
+    },
+    "smallCard3": {
+      "icon": "Building2",
+      "title": "Güçlü İş Altyapısı",
+      "description": "D/Quarters'ta yüksek teknolojiye sahip ortak çalışma alanları, genişletilebilir özel ofisler, hafif sanayi üniteleri, ticari stüdyolar.",
+      "color": "from-cyan-500 to-teal-600"
+    }
+  },
+  "licensesSection": {
+    "badge": "Lisans Türleri",
+    "title": "Esnek Lisanslar, Küresel Erişim",
+    "titleHighlight": "Küresel Erişim",
+    "subtitle": "Sektörünüze ve iş modelinize uygun DIC lisansını belirlemenize yardımcı oluyoruz.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "DIC Ticari Lisansı",
+        "description": "Standart ticaret (mal) çevrimiçi satış ve e-ticaret işletmeleri.",
+        "code": "COM",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Code",
+        "title": "BT Lisansı",
+        "description": "Yazılım, SaaS, yapay zeka ve bulut bilişim şirketleri.",
+        "code": "BT",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Wifi",
+        "title": "Telekomünikasyon Lisansı",
+        "description": "Bağlantı, uydu veya telekomünikasyon altyapı şirketleri.",
+        "code": "TEL",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Dijital Medya Lisansı",
+        "description": "Medya ajansları, içerik üreticileri ve reklam şirketleri.",
+        "code": "MED",
+        "color": "from-sky-400 to-cyan-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "DIC Serbest Çalışma İzni",
+        "description": "GoFreelance üzerinden bireysel çalışanlar (tek operatör).",
+        "code": "FRL",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Server",
+        "title": "Veri Merkezi Lisansı",
+        "description": "Veri barındırma, depolama ve kurumsal BT işletmeleri.",
+        "code": "DTC",
+        "color": "from-cyan-500 to-teal-600"
+      }
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "Tesisler",
+    "title": "DIC'de Hangi Tesislere Erişebilirsiniz?",
+    "titleHighlight": "DIC'de erişim nasıl sağlanır?",
+    "subtitle": "Tüm kuruluşlar için modern altyapı ve her şeyi kapsayan çalışma alanı seçenekleri.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Hazır Ofis Alanları",
+        "description": "Her büyüklükteki işletme için tam donanımlı, esnek ofis kiralama seçenekleri.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "D/Quarters'ta ortak çalışma alanı",
+        "description": "İş birliği ve yaratıcılık için tak ve çalıştır ofis çözümleri.",
+        "image": "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=800&q=80"
+      },
+      {
+        "icon": "Layers",
+        "title": "Hafif Sanayi Birimleri",
+        "description": "Üretim, test ve lojistik desteği için.",
+        "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80"
+      },
+      {
+        "icon": "Store",
+        "title": "Ticari Perakende Alanları",
+        "description": "Canlı bir teknoloji ekosisteminde müşteriyle doğrudan temas halinde olan satış noktaları.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Nasıl Yardım Ediyoruz?",
+    "title": "Setup Zone Dubai ile DIC'de Hızlı Başlangıç Yapın",
+    "titleHighlight": "Dubai Kurulum Bölgesi",
+    "subtitle": "Aktivite seçiminden banka hesabı açmaya kadar her şeyi biz hallediyoruz.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "İş Faaliyetleri Seçimi",
+        "description": "Teknoloji iş modelinize uygun, DIC onaylı doğru faaliyeti seçmenize yardımcı oluyoruz.",
+        "icon": "Target",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "title": "Şirket Adı Rezervasyonu",
+        "description": "DIC yönetmeliklerine uygun olarak ticari adınızı hızlıca tescil ettirin.",
+        "icon": "FileText",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "title": "Belge Hazırlama",
+        "description": "Tüm belgeleri eksiksiz doldurun: pasaport fotokopileri, iş planı ve gerekli formlar.",
+        "icon": "FileCheck",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "04",
+        "title": "DIC Lisans Onayı",
+        "description": "TECOM ve axs üzerinden doğrudan başvuru, hızlı onay sağlar.",
+        "icon": "BadgeCheck",
+        "color": "from-sky-400 to-cyan-600"
+      },
+      {
+        "step": "05",
+        "title": "Kuruluş Kartı ve Vize Kotası",
+        "description": "DIC kuruluş kartı ve vize kontenjanı başvurularını yapın.",
+        "icon": "Users",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "06",
+        "title": "Banka Hesabı Açma",
+        "description": "Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal banka hesabı açılması.",
+        "icon": "CreditCard",
+        "color": "from-cyan-500 to-teal-600"
+      },
+      {
+        "step": "07",
+        "title": "Lisans Yenileme ve Uyumluluk",
+        "description": "Sürekli yenileme, PRO hizmetleri ve tıbbi kayıt.",
+        "icon": "RefreshCw",
+        "color": "from-blue-500 to-indigo-600"
+      }
+    ],
+    "ctaCard": {
+      "icon": "Rocket",
+      "title": "Lansmana hazır mısınız?",
+      "ctaText": "Şimdi Başla",
+      "whatsappMessage": "Merhaba! DIC işletmemi kurmaya hazırım."
+    }
+  },
+  "digitalScaleSection": {
+    "badge": "Dijital Ölçek",
+    "title": "DIC'de İşletmenizi Dijital Olarak Büyütebilir misiniz?",
+    "titleHighlight": "DIC'de dijital olarak mı?",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80",
+    "imageBadgeTitle": "Büyüme Yolu",
+    "imageBadgeText": "Başlangıç Aşamasından Büyümeye",
+    "intro": "Gerçekten de öyle. Orta Doğu'nun önde gelen teknoloji ekosistemi olarak DIC, işletmenizin büyümesi, gelişmesi ve dijital alanda hakimiyet kurması için eksiksiz bir inovasyon ekosistemi sunmaktadır.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Profesyonel Web Siteleri",
+        "description": "İşletmenize özel olarak tasarlanmış web siteleri ve e-ticaret platformları."
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM ve CMS Entegrasyonu",
+        "description": "İşletmenizin dijital olarak faaliyet göstermesini sağlayan akıllı platformlar."
+      },
+      {
+        "icon": "Search",
+        "title": "SEO Hizmetleri",
+        "description": "DIC işletmeniz için daha fazla Google araması ve organik trafik."
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Sosyal Medya Pazarlaması",
+        "description": "Marka sesinizi ve tonunuzu tüm kanallarda oluşturun."
+      },
+      {
+        "icon": "Palette",
+        "title": "Logo ve Marka Tasarımı",
+        "description": "Yaratıcı marka oluşturma tavsiyeleri ve tasarım materyalleri."
+      },
+      {
+        "icon": "Award",
+        "title": "Ticari Marka Tescili",
+        "description": "Fikri mülkiyetinizi ve markanızı koruyun."
+      }
+    ]
+  },
+  "activitiesCloudSection": {
+    "badge": "İş Faaliyetleri",
+    "title": "Modern İşletmeler İçin Faaliyetler",
+    "titleHighlight": "Modern İşletmeler",
+    "subtitle": "İnovasyon, teknoloji, dijital medya veya telekomünikasyon alanlarında çalışıyor olun, DIC çok çeşitli faaliyetlere olanak tanır.",
+    "items": [
+      {
+        "icon": "Code",
+        "label": "Yazılım Geliştirme ve SaaS"
+      },
+      {
+        "icon": "Smartphone",
+        "label": "Web ve Mobil Uygulama Geliştirme"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Dijital Reklam ve İçerik"
+      },
+      {
+        "icon": "Server",
+        "label": "Veri Merkezi Yönetimi ve Barındırma"
+      },
+      {
+        "icon": "Terminal",
+        "label": "BT Danışmanlığı ve Sistem Entegrasyonu"
+      },
+      {
+        "icon": "Wifi",
+        "label": "Telekomünikasyon ve Ağ Altyapısı"
+      },
+      {
+        "icon": "Camera",
+        "label": "Yaratıcı Medya ve Film Yapımı"
+      },
+      {
+        "icon": "Binary",
+        "label": "Akademik Araştırma ve Ar-Ge"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "E-ticaret ve Teknoloji Perakendeciliği"
+      },
+      {
+        "icon": "Package",
+        "label": "Kurumsal Donanım ve Yazılım"
+      },
+      {
+        "icon": "Bot",
+        "label": "Yapay Zeka ve Makine Öğrenimi"
+      },
+      {
+        "icon": "Cloud",
+        "label": "Bulut Hizmetleri"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Dubai İnternet Şehri hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "items": [
+      {
+        "q": "Dubai İnternet Şehri (DIC) neden teknoloji şirketleri için en cazip serbest bölge?",
+        "a": "DIC, birinci sınıf altyapısı, girişimcilik merkezlerine yakınlığı ve modern ofis olanaklarıyla TECOM Grubu'nun bir parçası olarak, BAE'nin bilişim teknolojileri, telekomünikasyon, dijital medya ve yazılım geliştirme alanlarında önde gelen inovasyon merkezidir."
+      },
+      {
+        "q": "Dubai İnternet Şehri'nde iş kurmanın maliyeti nedir?",
+        "a": "Maliyetler, lisans türüne, ofis büyüklüğüne ve vize gereksinimlerine göre değişiklik gösterir. İşletmenize özel şeffaf bir fiyat dökümü için bizimle iletişime geçin."
+      },
+      {
+        "q": "Dubai İnternet Şehri'nde hangi lisans türleri mevcuttur?",
+        "a": "DIC Ticari, Bilişim, Telekomünikasyon, Dijital Medya, Serbest Çalışma İzni ve Veri Merkezi lisansları."
+      },
+      {
+        "q": "Serbest çalışanlar veya bağımsız profesyoneller DIC'ye kayıt olabilir mi?",
+        "a": "Evet. DIC, GoFreelance aracılığıyla Serbest Çalışma İzni sunuyor; bu da bireysel teknoloji uzmanları için mükemmel bir fırsat."
+      },
+      {
+        "q": "DIC Serbest Bölgesi şirketi olmanın vize açısından avantajları nelerdir?",
+        "a": "DIC, axs platformu aracılığıyla işletme sahipleri, çalışanlar ve bakmakla yükümlü oldukları kişiler için verimli vize kotası tahsisi sağlar."
+      },
+      {
+        "q": "DIC Serbest Bölgesi'nde yeni kurulan şirketler ve KOBİ'ler için yer var mı?",
+        "a": "Evet. D/Quarters'ın ortak çalışma alanları ve esnek ofis seçenekleri, yeni kurulan şirketler ve KOBİ'ler için mükemmeldir."
+      },
+      {
+        "q": "DIC'ye bağlı bir kuruluşta kurumsal banka hesabı açabilir miyim?",
+        "a": "Evet. Tüm belgeleriniz eksiksiz olarak hazır halde, BAE'nin önde gelen bankalarında kurumsal banka hesabı açmanıza yardımcı oluyoruz."
+      },
+      {
+        "q": "Setup Zone Dubai, şirket kurulumundan sonra ne tür ek destek sağlıyor?",
+        "a": "Lisans yenileme, uyumluluk, PRO hizmetleri, tıbbi kayıt ve web sitesi, SEO ve marka oluşturma gibi dijital büyüme hizmetleri sunuyoruz."
+      },
+      {
+        "q": "DIC'de ticari lisans almak ne kadar sürer?",
+        "a": "Tüm belgeler hazır olduğunda genellikle 3-7 iş günü sürer. Uçtan uca koordinasyonumuz sayesinde süreç daha da hızlanır."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "DIC kurulumunuzla uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "web-development",
+        "title": "Web Geliştirme",
+        "description": "Teknoloji şirketleri için modern web siteleri.",
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Dijital Pazarlama",
+        "description": "Sosyal medya, ücretli reklamlar ve içerik stratejisi.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bugün Başlayın",
+    "title": "DIC'de lansmana hazır mısınız?",
+    "titleHighlight": "DIC?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisans seçiminden banka hesabı açmaya kadar kurulum sürecinde size rehberlik edeceğiz.",
+    "primaryCta": "Bize WhatsApp'tan ulaşın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Merhaba! DIC kurulumu için ücretsiz danışmanlık almak istiyorum.",
+    "badges": [
+      "Ücretsiz Danışmanlık",
+      "TECOM Grubu",
+      "3-7 Gün Kurulum"
+    ],
+    "office": {
+      "label": "Dubai Ofisimizi Ziyaret Edin",
+      "line1": "Ofis M08-27, M1 Katı, Crystal Tower",
+      "line2": "Business Bay, Dubai, B.A.E — Posta Kutusu: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Çalışma Saatleri",
+      "monFri": "Sabah 9 - Akşam 6",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Kapalı"
+    }
+  }
+}

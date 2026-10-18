@@ -5,6 +5,8 @@ import { motion, useInView } from 'framer-motion';
 import { Users, Award, UserCheck, Clock } from 'lucide-react';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import trustBarData from '../../content/home/trust-bar.json';
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 
 const iconMap: any = {
   Users, Award, UserCheck, Clock,
@@ -103,8 +105,10 @@ function StatCard({ stat, index }: { stat: any; index: number }) {
 }
 
 export default function TrustBar({ tinaData }: { tinaData?: any }) {
-const data = tinaData?.data?.home?.trustBar || trustBarData;
-  return (
+ const { language } = useLanguage();
+  const trustBarFallback = loadContent('home/trust-bar', language);
+  const data = tinaData?.data?.home?.trustBar || trustBarFallback;
+    return (
     <section className="relative py-14 md:py-20 bg-gradient-to-b from-white via-slate-50/50 to-white overflow-hidden">
       {/* Soft mesh background */}
       <div className="absolute top-0 left-0 w-[600px] h-[600px] rounded-full bg-brand-sky/8 blur-[140px] pointer-events-none" />

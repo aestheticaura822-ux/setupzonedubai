@@ -1,0 +1,473 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Construisez votre avenir avec Setup Zone Dubai",
+  "heroTitle": "Création d'une société continentale à Dubaï",
+  "heroTitleHighlight": "Formation à Dubaï",
+  "heroSubtitle": "Votre accès privilégié à l'économie des Émirats arabes unis. Licence commerciale, assistance pour l'obtention de visa de résidence, soutien bancaire et services post-installation : une prise en charge complète.",
+  "heroChips": [
+    "7 Emirates Access",
+    "Propriété à 100 %",
+    "Contrats gouvernementaux",
+    "Licence de 2 à 5 jours"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "7",
+      "label": "Emirates Access",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Landmark",
+      "value": "Ouvrir",
+      "label": "Contrats gouvernementaux",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-5",
+      "label": "Licence de jour",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "introSection": {
+    "badge": "Votre chemin vers l'économie des Émirats arabes unis",
+    "title": "Accès complet au marché des Émirats arabes unis",
+    "titleHighlight": "Accès au marché des Émirats arabes unis",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Approuvé par le DET",
+    "imageBadgeText": "Licence continentale",
+    "paragraphs": [
+      "La création d'une société sur le continent à Dubaï est votre porte d'entrée vers l'ensemble de l'économie des Émirats arabes unis, vous permettant de faire des affaires à Dubaï, dans les Émirats et à l'international.",
+      "En plus d'être une excellente porte d'entrée pour faire des affaires à Dubaï, le continent vous offre un accès inégalé aux clients, aux investisseurs et aux contrats gouvernementaux.",
+      "Que vous lanciez votre première entreprise ou développiez votre société à l'international, vous implanter à Dubaï est une formidable opportunité d'accéder à l'économie des Émirats arabes unis. Chez Setup Zone Dubai, nous vous accompagnons dans la création de votre société à Dubaï en toute conformité réglementaire : licence commerciale, assistance pour l'obtention du visa de résidence, soutien bancaire et services post-implantation."
+    ],
+    "highlights": [
+      "Accès complet aux Émirats arabes unis",
+      "Accès des investisseurs",
+      "Contrats gouvernementaux",
+      "Soutien bancaire",
+      "Traitement des visas",
+      "Services après installation"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "Options de licence pour le continent",
+    "title": "Quelles licences continentales pouvez-vous obtenir ?",
+    "titleHighlight": "Licences continentales",
+    "subtitle": "Parcourez les 5 types de licences disponibles et choisissez celle qui convient le mieux à votre activité.",
+    "items": [
+      {
+        "id": "trade",
+        "icon": "StoreIcon",
+        "title": "Licence commerciale",
+        "tagline": "Achat, vente et distribution",
+        "description": "Idéal pour les entreprises d'import/export, les grossistes, les commerces de détail et les distributeurs — opérant aux Émirats arabes unis et à l'international.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": [
+          "Import/Export",
+          "De gros",
+          "Magasins de détail",
+          "Distributeurs"
+        ],
+        "bestFor": "Les commerçants"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Licence professionnelle / de service",
+        "tagline": "Expertise et conseil",
+        "description": "Idéal pour les consultants, les sociétés de services informatiques, les agences de marketing, les éducateurs et les professionnels de la santé — avec possibilité d'acquérir 100 % du capital.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "Consultants",
+          "Services informatiques",
+          "Commercialisation",
+          "Soins de santé"
+        ],
+        "bestFor": "Prestataires de services"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Licence industrielle",
+        "tagline": "Fabrication et production",
+        "description": "Pour les entreprises de fabrication, de production et d'assemblage industriel ayant accès à des terrains industriels et au soutien gouvernemental.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "Fabrication",
+          "Production",
+          "Assemblée",
+          "Terrain industriel"
+        ],
+        "bestFor": "Fabricants"
+      },
+      {
+        "id": "tourism",
+        "icon": "Plane",
+        "title": "Licence touristique",
+        "tagline": "Voyages et hôtellerie",
+        "description": "Pour les agences de voyages, les voyagistes et les hôtels fournissant des services aux clients du secteur touristique des Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "Agents de voyages",
+          "Agences de voyages",
+          "Hôtels",
+          "Hospitalité"
+        ],
+        "bestFor": "Entreprises touristiques"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "Licence de commerce électronique",
+        "tagline": "Entreprise axée sur le numérique",
+        "description": "Pour lancer une entreprise privilégiant le numérique avec une présence physique — en combinant les ventes en ligne avec les opérations de showroom ou d'entrepôt.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "Boutique en ligne",
+          "Présence physique",
+          "Entreposage",
+          "À canaux multiples"
+        ],
+        "bestFor": "Marques de commerce électronique"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Ce qui est inclus",
+    "title": "Nos services de formation sur le continent",
+    "titleHighlight": "Services",
+    "subtitle": "Huit services complets — tout est pris en charge.",
+    "items": [
+      {
+        "icon": "Target",
+        "title": "Classification des activités commerciales",
+        "description": "Déterminez votre type de permis avec DET et évitez les amendes.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Réservation du nom de l'entreprise",
+        "description": "Veillez à utiliser un nom unique et à adopter une approche conforme pour obtenir les approbations.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Demande de licence commerciale",
+        "description": "L’inscription auprès du DET comprend l’approbation initiale, le protocole d’accord, le contrat de location et la licence finale.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Conformité après installation",
+        "description": "Conseils pour l'immatriculation à la TVA, la déclaration ESR/UBO et la mise en place de la comptabilité.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Aide à l'espace de bureau",
+        "description": "Assistance pour l'obtention de baux pour des emplacements approuvés sur le territoire continental de Dubaï.",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Handshake",
+        "title": "Agent de service local (si nécessaire)",
+        "description": "Dispositifs d'agence transparents pour les activités nécessitant la participation d'Émiratis.",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Ouverture de compte bancaire",
+        "description": "Faciliter l'ouverture d'un compte professionnel auprès des principales banques des Émirats arabes unis.",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Pourquoi le continent ?",
+    "title": "Avantages de la création d'une entreprise sur le continent",
+    "titleHighlight": "Création d'entreprise sur le continent",
+    "subtitle": "Sept atouts majeurs pour les entreprises en pleine croissance.",
+    "items": [
+      {
+        "icon": "StoreIcon",
+        "label": "Vendez dans tous les Émirats arabes unis et les pays du Golfe.",
+        "desc": "Produits/services bénéficiant d'une totale liberté commerciale",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "label": "Opérer à l'échelle mondiale",
+        "desc": "Aucune limitation géographique",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Wallet",
+        "label": "Rapatrier les bénéfices et le capital",
+        "desc": "liberté financière totale",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Users",
+        "label": "Accès aux clients B2B et B2C",
+        "desc": "la clientèle locale des Émirats arabes unis",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Landmark",
+        "label": "Soumission aux marchés publics",
+        "desc": "Appels d'offres publics et semi-publics",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "Résidence à long terme",
+        "desc": "Éligibilité via le visa d'investisseur",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Impôt sur les sociétés nul",
+        "desc": "Aux seuils actuels",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "Prêt à passer à l'échelle supérieure ?",
+      "text": "Parlez à nos experts",
+      "buttonText": "Commencer",
+      "whatsappMessage": "Salut ! Je suis prêt à développer mon activité sur le continent."
+    }
+  },
+  "whoShouldConsiderSection": {
+    "badge": "À qui cela s'adresse-t-il ?",
+    "title": "Qui devrait envisager de créer une entreprise sur le continent ?",
+    "titleHighlight": "Société continentale ?",
+    "subtitle": "Une licence continentale convient à presque tous les modèles d'entreprise sérieux.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "Marques de commerce électronique",
+        "description": "Recherche d'espaces de bureaux et d'entrepôts flexibles pour des opérations en ligne avec soutien logistique.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Conseils juridiques, médias, technologies et marketing",
+        "description": "Nous souhaitons acquérir la pleine propriété et étendre notre champ d'action opérationnel à l'ensemble des Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "icon": "Utensils",
+        "title": "Restauration, salons de beauté, cliniques, salles de sport",
+        "description": "Besoin d'un accès à l'ensemble des clients locaux dans toute la ville, à travers les Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "StoreIcon",
+        "title": "détaillants et grossistes",
+        "description": "Nous prévoyons d'ouvrir des points de vente physiques, des boutiques et des salles d'exposition.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "icon": "Laptop",
+        "title": "Professionnels et indépendants",
+        "description": "Exerçant son activité sous licence en tant que personne morale, en développant son réseau de clients locaux.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi choisir Setup Zone Dubai ?",
+    "title": "Nous bâtissons des marques, des systèmes et le succès",
+    "titleHighlight": "Marques, systèmes et succès",
+    "subtitle": "Six piliers qui font de nous le partenaire de confiance pour votre installation.",
+    "items": [
+      {
+        "icon": "Target",
+        "label": "Packs d'installation personnalisés",
+        "desc": "Adapté à l'activité et au budget"
+      },
+      {
+        "icon": "Building2",
+        "label": "Soutien au leasing",
+        "desc": "Espaces de bureaux, d'entrepôts et de salles d'exposition"
+      },
+      {
+        "icon": "Bank",
+        "label": "Assistance pour l'ouverture d'un compte bancaire",
+        "desc": "Ouverture de comptes professionnels aux Émirats arabes unis"
+      },
+      {
+        "icon": "Zap",
+        "label": "Licence rapide",
+        "desc": "2 à 5 jours ouvrables"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Services après lancement",
+        "desc": "Marketing numérique, CRM et image de marque"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Expert en réglementation DET",
+        "desc": "Migration en zone franche et structuration offshore"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Des milliers de personnes nous font confiance",
+    "titleHighlight": "Des milliers",
+    "subtitle": "Nos résultats parlent d'eux-mêmes.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Plus de 10 000",
+        "label": "Sociétés créées",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "7",
+        "label": "Emirates Access",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Menant",
+        "label": "Expert en configuration",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Rapide",
+        "label": "Licence",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Conforme",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Préféré",
+        "label": "Partenaire d'installation",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la création d'entreprise en Chine continentale. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes du continent.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant la création d'une société en Chine continentale."
+    },
+    "items": [
+      {
+        "q": "Qu'est-ce qu'une société continentale à Dubaï ?",
+        "a": "Une société continentale à Dubaï est une entreprise agréée par le Département de l'Économie et du Tourisme (DET) et pleinement habilitée à opérer dans l'ensemble des Émirats arabes unis. Contrairement aux sociétés de zone franche, une société continentale peut commercer directement avec le marché local, soumissionner pour des marchés publics et louer des bureaux ou des espaces commerciaux partout à Dubaï."
+      },
+      {
+        "q": "Les expatriés peuvent-ils posséder intégralement une entreprise basée à Dubaï ?",
+        "a": "Oui. Depuis 2021, la plupart des activités commerciales en Chine continentale autorisent la détention à 100 % par des étrangers. Certaines activités stratégiques peuvent toutefois nécessiter un partenaire local. Nous vous accompagnons dans l'analyse de votre situation particulière."
+      },
+      {
+        "q": "Quels sont les avantages de créer une entreprise sur le territoire continental plutôt que dans une zone franche ?",
+        "a": "Les entreprises du continent peuvent commercer directement avec le marché local des Émirats arabes unis, soumissionner pour des contrats gouvernementaux, opérer dans les 7 émirats, embaucher un nombre illimité d'employés en fonction de la surface de bureaux et ne sont soumises à aucune limitation géographique."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir une licence commerciale sur le continent ?",
+        "a": "Il faut généralement compter 2 à 5 jours ouvrables pour la délivrance de la licence, et 2 à 4 semaines pour la mise en place complète (y compris le bail du bureau et le traitement du visa)."
+      },
+      {
+        "q": "Quels types de licences sont nécessaires pour créer une société sur le continent ?",
+        "a": "Licence commerciale, licence professionnelle/de services, licence industrielle, licence touristique et licence de commerce électronique — chacune adaptée à des activités commerciales spécifiques."
+      },
+      {
+        "q": "Ai-je besoin de bureaux pour créer une entreprise sur le continent ?",
+        "a": "Oui. Les entreprises du continent doivent disposer d'un siège social enregistré (Ejari). Nous vous aidons à trouver le bureau, l'entrepôt ou le showroom idéal pour votre activité."
+      },
+      {
+        "q": "Une entreprise du continent peut-elle exercer ses activités et ouvrir des succursales dans tous les émirats ?",
+        "a": "Oui. Une licence continentale vous permet d'opérer librement dans les 7 Émirats et d'ouvrir des succursales partout aux Émirats arabes unis sans restrictions."
+      },
+      {
+        "q": "Les sociétés implantées à Dubaï continentale sont-elles soumises à des implications fiscales en matière d'impôt sur les sociétés ?",
+        "a": "Les entreprises du continent sont soumises à la réglementation fiscale des Émirats arabes unis. Aux seuils actuels, les petites entreprises éligibles peuvent bénéficier d'un taux d'imposition de 0 %. Nous proposons un accompagnement complet en matière de conformité et d'immatriculation à la TVA."
+      },
+      {
+        "q": "Quelle est la procédure de visa pour une entreprise basée en Chine continentale ?",
+        "a": "Nous prenons en charge les visas d'investisseur, de partenaire et de salarié, y compris la carte d'identité émirienne, les examens médicaux et l'ensemble des services de relations publiques. Le nombre de visas autorisés dépend de la superficie de vos bureaux."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour l'enregistrement de mon entreprise sur le continent ?",
+        "a": "Nous offrons un soutien complet : classification des activités, licences, baux de bureaux, traitement des visas, ouverture de compte bancaire et services post-installation incluant la gestion de la relation client (CRM), l'image de marque et le marketing numérique."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Services qui se marient bien avec la création d'une société sur le continent.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Création d'entreprise à Dubaï",
+        "description": "Zone franche, structures continentales et offshore.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "Licence commerciale à Dubaï",
+        "description": "Obtenez votre licence commerciale DET en 2 à 5 jours.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-corporate-sponsor",
+        "title": "Sponsor corporatif local",
+        "description": "Obtenez un contrôle total grâce à un sponsor de confiance.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Prêt à vous installer à Dubaï continental ?",
+    "title": "Emplacement stratégique. Aucune restriction commerciale.",
+    "titleHighlight": "Aucune restriction commerciale.",
+    "subtitle": "Lancez votre entreprise sur le continent avec Setup Zone Dubai — le partenaire de confiance pour un succès commercial à long terme aux Émirats arabes unis.",
+    "chips": [
+      "Consultation gratuite",
+      "Installation en 2 à 5 jours",
+      "Propriété à 100 %"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour la création d'une société en Chine continentale.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais discuter de la création d'une société sur le continent."
+  }
+}

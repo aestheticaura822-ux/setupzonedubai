@@ -1,0 +1,265 @@
+{
+  "heroBadge": "Estimación de costos instantánea",
+  "heroTitle": "Calcula el costo de puesta en marcha de tu negocio.",
+  "heroTitleHighlight": "Costo de establecimiento de un negocio",
+  "heroSubtitle": "Responda a unas pocas preguntas y obtenga un presupuesto instantáneo personalizado.",
+  "steps": [
+    {
+      "id": 1,
+      "label": "Licencia",
+      "icon": "FileText"
+    },
+    {
+      "id": 2,
+      "label": "Actividad",
+      "icon": "Briefcase"
+    },
+    {
+      "id": 3,
+      "label": "Oficina",
+      "icon": "Building2"
+    },
+    {
+      "id": 4,
+      "label": "Extras",
+      "icon": "Package"
+    },
+    {
+      "id": 5,
+      "label": "Contacto",
+      "icon": "Phone"
+    }
+  ],
+  "stepTitles": {
+    "license": {
+      "title": "Elige tu tipo de licencia",
+      "subtitle": "Seleccione la licencia que mejor se adapte a las necesidades de su negocio."
+    },
+    "activity": {
+      "title": "Seleccione su actividad comercial",
+      "subtitle": "Elige el sector que mejor se adapte a tu negocio."
+    },
+    "office": {
+      "title": "Elige tu espacio de oficina",
+      "subtitle": "Seleccione la opción de espacio de trabajo que mejor se adapte a sus operaciones."
+    },
+    "extras": {
+      "title": "Agregar servicios opcionales",
+      "subtitle": "Complementa tu paquete con servicios adicionales (selección míºltiple)."
+    },
+    "contact": {
+      "title": "¿A dónde debemos enviar su presupuesto?",
+      "subtitle": "Introduce tus datos para recibir el desglose completo de costes."
+    }
+  },
+  "licenseTypes": [
+    {
+      "id": "freezone",
+      "icon": "Globe",
+      "title": "Zona Franca",
+      "desc": "Propiedad al 100%, 0% de impuestos.",
+      "basePrice": 5999,
+      "badge": "Popular"
+    },
+    {
+      "id": "mainland",
+      "icon": "Building2",
+      "title": "Continente",
+      "desc": "Comercio en todo Emiratos írabes Unidos, visados ilimitados.",
+      "basePrice": 14999
+    },
+    {
+      "id": "offshore",
+      "icon": "Ship",
+      "title": "Costa afuera",
+      "desc": "Sociedad holding, protección de activos",
+      "basePrice": 12000
+    },
+    {
+      "id": "freelance",
+      "icon": "Laptop",
+      "title": "Independiente",
+      "desc": "Profesionales independientes, creativos",
+      "basePrice": 7500
+    }
+  ],
+  "activities": [
+    {
+      "id": "trading",
+      "icon": "ShoppingCart",
+      "title": "Comercio general",
+      "desc": "Importación, exportación, venta al por mayor",
+      "price": 0,
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "id": "ecommerce",
+      "icon": "Store",
+      "title": "Comercio electrónico",
+      "desc": "Comercio minorista y mercado en lí­nea",
+      "price": 0,
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "id": "it",
+      "icon": "Laptop",
+      "title": "Informática y software",
+      "desc": "Servicios tecnológicos y SaaS",
+      "price": 450,
+      "color": "from-indigo-500 to-violet-700"
+    },
+    {
+      "id": "consulting",
+      "icon": "Briefcase",
+      "title": "Consultante",
+      "desc": "Negocios y gestión",
+      "price": 0,
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "id": "media",
+      "icon": "Camera",
+      "title": "Medios de comunicación y fotografí­a",
+      "desc": "Servicios creativos",
+      "price": 500,
+      "color": "from-pink-500 to-rose-700"
+    },
+    {
+      "id": "tourism",
+      "icon": "Globe",
+      "title": "Viajes y turismo",
+      "desc": "consultorí­a turí­stica",
+      "price": 8500,
+      "color": "from-sky-500 to-blue-700"
+    },
+    {
+      "id": "fitness",
+      "icon": "Heart",
+      "title": "Fitness y estilo de vida",
+      "desc": "Bienestar y deportes",
+      "price": 0,
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "id": "women",
+      "icon": "Sparkles",
+      "title": "Emprendimiento femenino",
+      "desc": "Paquete especial para mujeres fundadoras",
+      "price": 0,
+      "color": "from-fuchsia-500 to-purple-700"
+    }
+  ],
+  "officeOptions": [
+    {
+      "id": "flexi",
+      "icon": "Users",
+      "title": "Escritorio flexible",
+      "desc": "Espacio de trabajo compartido",
+      "price": 0,
+      "badge": "Incluido"
+    },
+    {
+      "id": "dedicated",
+      "icon": "Laptop",
+      "title": "Escritorio dedicado",
+      "desc": "Tu propio escritorio",
+      "price": 3000
+    },
+    {
+      "id": "private",
+      "icon": "Building2",
+      "title": "Oficina privada",
+      "desc": "Oficina para 1-3 personas",
+      "price": 12000
+    },
+    {
+      "id": "virtual",
+      "icon": "Globe",
+      "title": "Oficina virtual",
+      "desc": "Dirección comercial",
+      "price": 1500
+    }
+  ],
+  "extrasList": [
+    {
+      "id": "visa1",
+      "icon": "UserCheck",
+      "title": "1 Visa de Residencia",
+      "desc": "Visa de inversionista con examen médico y documento de identidad de los Emiratos írabes Unidos.",
+      "price": 5000
+    },
+    {
+      "id": "visa2",
+      "icon": "Users",
+      "title": "2.ª Visa",
+      "desc": "Visa de empleo adicional",
+      "price": 4500
+    },
+    {
+      "id": "banking",
+      "icon": "Wallet",
+      "title": "Asistencia para cuentas bancarias",
+      "desc": "Banca corporativa prioritaria",
+      "price": 0,
+      "badge": "Gratis"
+    },
+    {
+      "id": "vat",
+      "icon": "FileText",
+      "title": "Consulta sobre el IVA",
+      "desc": "Configuración y asesoramiento completos sobre el IVA.",
+      "price": 0,
+      "badge": "Gratis"
+    },
+    {
+      "id": "pro",
+      "icon": "ShieldCheck",
+      "title": "Servicios PRO (1 año)",
+      "desc": "Gestión de documentos gubernamentales",
+      "price": 3500
+    },
+    {
+      "id": "accounting",
+      "icon": "DollarSign",
+      "title": "Contabilidad (1 año)",
+      "desc": "Contabilidad e informes",
+      "price": 4000
+    },
+    {
+      "id": "trademark",
+      "icon": "Award",
+      "title": "Registro de marca comercial",
+      "desc": "Proteja su marca",
+      "price": 6500
+    },
+    {
+      "id": "golden",
+      "icon": "Crown",
+      "title": "Actualización de la Visa Dorada",
+      "desc": "Residencia de 10 años en los Emiratos írabes Unidos",
+      "price": 15000
+    }
+  ],
+  "quickAnswers": [
+    {
+      "q": "¿Cuánto cuesta iniciar un negocio en Dubái?",
+      "a": "Establecer un negocio en Dubái tiene un costo inicial de 9500 AED para una licencia básica de zona franca. En el territorio continental de Estados Unidos, el costo inicial es de 14 500 AED."
+    },
+    {
+      "q": "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+      "a": "Sí­, los extranjeros pueden ser propietarios al 100% de las empresas en la mayorí­a de las zonas francas y en muchas actividades en China continental."
+    },
+    {
+      "q": "¿Cuál es la zona franca más barata de Dubái?",
+      "a": "RAK ICC, Ajman FTZ y SRTIP ofrecen los paquetes más económicos a partir de 5.900 AED."
+    },
+    {
+      "q": "¿Cuánto tiempo tarda el proceso de registro de una empresa en Dubái?",
+      "a": "El registro en la zona franca tarda de 3 a 7 dí­as hábiles. En el territorio continental, de 2 a 4 semanas."
+    },
+    {
+      "q": "¿Necesito un socio local en Dubái?",
+      "a": "No en las zonas francas. En China continental, muchas actividades ahora permiten la propiedad extranjera al 100%."
+    }
+  ]
+}

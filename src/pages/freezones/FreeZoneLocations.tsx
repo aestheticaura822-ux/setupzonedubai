@@ -15,7 +15,8 @@ import {
 } from 'lucide-react';
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 // ============ DATA ============
 
 const stats = [

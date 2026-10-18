@@ -1,0 +1,150 @@
+{
+  "areaName": "DIFC (Dubai International Financial Centre)",
+  "areaShort": "DIFC",
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Service Area",
+  "heroTitle": "Business Setup in DIFC",
+  "heroTitleHighlight": "DIFC",
+  "heroSubtitle": "The Dubai International Financial Centre (DIFC) is the leading financial hub in the Middle East, Africa, and South Asia (MEASA) region. Setting up a business in DIFC is ideal for financial services firms, fintech startups, and professional services companies.",
+
+  "stats": [
+    { "icon": "Building2", "value": "4,000+", "label": "Global Companies", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Ownership", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "DollarSign", "value": "AED 25,000", "label": "Starting From", "color": "from-indigo-400 to-violet-600" }
+  ],
+
+  "whyChooseSection": {
+    "badge": "Why Choose DIFC?",
+    "title": "MEASA's Leading Financial Hub",
+    "titleHighlight": "Financial Hub",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Location",
+    "imageBadgeText": "DIFC, Dubai",
+    "paragraph": "DIFC offers exceptional advantages for businesses of all sizes. With world-class infrastructure, strategic location, and a supportive business ecosystem, it is the ideal place to establish your company in Dubai.",
+    "items": [
+      { "icon": "MapPin", "title": "Prime Location", "desc": "Excellent connectivity across Dubai" },
+      { "icon": "Users", "title": "Talent Pool", "desc": "Access to diverse professional talent" },
+      { "icon": "Layers", "title": "Infrastructure", "desc": "World-class amenities & facilities" },
+      { "icon": "Briefcase", "title": "Business Community", "desc": "Thriving ecosystem of global companies" },
+      { "icon": "Zap", "title": "Transport Links", "desc": "Proximity to key metro & highways" }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "Our Services",
+    "title": "Business Setup Services in DIFC",
+    "titleHighlight": "DIFC",
+    "subtitle": "Complete end-to-end solutions for your UAE business.",
+    "items": [
+      { "icon": "Globe", "title": "Free Zone Company Formation", "desc": "Set up in the most suitable free zone — 100% ownership, zero corporate tax, and full profit repatriation.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Building2", "title": "Mainland Company Formation", "desc": "Trade directly in the UAE market with a mainland license. We handle all DED paperwork and licensing.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "FileText", "title": "Trade License in Dubai", "desc": "Get your commercial, professional, or industrial trade license quickly with full regulatory compliance.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Users", "title": "Visa Processing & PRO Services", "desc": "Investor, employee, and dependent visas — we handle medical tests, Emirates ID, and visa stamping.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "DollarSign", "title": "Corporate Bank Account Opening", "desc": "Open a business bank account with leading UAE banks — we handle documentation and KYC.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Calculator", "title": "Accounting & Tax Services", "desc": "Stay compliant with UAE corporate tax and VAT — bookkeeping, VAT returns, and reporting.", "color": "from-purple-400 to-fuchsia-600" }
+    ]
+  },
+
+  "costSection": {
+    "badge": "Cost Guide 2026",
+    "title": "Business Setup in DIFC: Cost & Packages",
+    "titleHighlight": "Cost & Packages",
+    "subtitle": "DIFC is a common-law financial free zone — companies operate under English law with the DIFC Courts and strong investor protection.",
+    "items": [
+      { "type": "Commercial license", "cost": "AED 25,000 – 40,000", "bestFor": "Trading, fintech, professional services", "color": "from-cyan-400 to-sky-600" },
+      { "type": "Tech startup license", "cost": "AED 18,000 – 25,000", "bestFor": "Tech & innovation companies", "color": "from-sky-400 to-blue-600" },
+      { "type": "Branch license", "cost": "AED 20,000 – 30,000", "bestFor": "Existing global firms", "color": "from-blue-400 to-indigo-600" },
+      { "type": "Visa (per person)", "cost": "AED 5,000 – 7,000", "bestFor": "Incl. Emirates ID", "color": "from-indigo-400 to-violet-600" }
+    ],
+    "estimateLabel": "Year 1 Estimate",
+    "estimateValue": "AED 45,000 – 70,000",
+    "estimateNote": "Depending on license type and office. Premium brand index vs other zones reflected in price."
+  },
+
+  "whyDifcSection": {
+    "badge": "Why DIFC",
+    "title": "Why Set Up a Company in DIFC?",
+    "titleHighlight": "DIFC",
+    "items": [
+      { "icon": "Scale", "title": "English Common Law", "desc": "Contracts, courts, and structures familiar to international investors", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Banknote", "title": "Zero Personal Income Tax", "desc": "0% tax on qualifying activities", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Building2", "title": "4,000+ Companies", "desc": "Including major global banks and funds", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "ShieldCheck", "title": "DIFC Courts", "desc": "Independent common-law judiciary with worldwide recognition", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "TrendingUp", "title": "Investor Friendly", "desc": "Top choice for family offices and wealth managers", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "comparisonSection": {
+    "badge": "Comparison",
+    "title": "DIFC vs Mainland vs JAFZA vs DMCC",
+    "titleHighlight": "JAFZA vs DMCC",
+    "headers": ["Factor", "DIFC", "Mainland", "JAFZA", "DMCC"],
+    "rows": [
+      { "factor": "Legal system", "difc": "Common law", "mainland": "Civil law", "jafza": "Free zone regs", "dmcc": "Free zone regs" },
+      { "factor": "Starting cost", "difc": "AED 25,000", "mainland": "AED 8,500", "jafza": "AED 12,000", "dmcc": "AED 15,000" },
+      { "factor": "Trade inside UAE", "difc": "Yes (approved)", "mainland": "Yes", "jafza": "Via distributor", "dmcc": "Via partner" },
+      { "factor": "Best for", "difc": "Finance, funds, law", "mainland": "Local market", "jafza": "Logistics", "dmcc": "Commodities, crypto" }
+    ]
+  },
+
+  "processSection": {
+    "badge": "Process",
+    "title": "DIFC Company Formation Process",
+    "titleHighlight": "Formation Process",
+    "ctaTitle": "Want a DIFC setup without the usual headaches?",
+    "ctaSubtitle": "Talk to our DIFC specialists — we handle incorporation, office, visas, and banking end-to-end.",
+    "ctaButton": "Talk to DIFC Specialist",
+    "ctaMessage": "Hi! I want a DIFC setup consultation.",
+    "steps": [
+      { "num": "01", "title": "Choose Legal Structure", "desc": "Company limited by shares, foreign branch, or investment vehicle", "color": "from-cyan-400 to-sky-600" },
+      { "num": "02", "title": "Reserve Name & Activity", "desc": "Seek DIFC approval for your proposed activity", "color": "from-sky-400 to-blue-600" },
+      { "num": "03", "title": "Execute Documents", "desc": "Incorporate before the DIFC Registrar", "color": "from-blue-400 to-indigo-600" },
+      { "num": "04", "title": "Obtain Trading License", "desc": "After office and fee confirmation", "color": "from-indigo-400 to-violet-600" },
+      { "num": "05", "title": "Apply for Visas", "desc": "Open corporate account at DIFC banks", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "areaFaqsSection": {
+    "badge": "Area FAQs",
+    "title": "Frequently Asked Questions About Business Setup in DIFC",
+    "titleHighlight": "Business Setup in DIFC",
+    "items": [
+      { "q": "How long does it take to set up a business in DIFC?", "a": "Most businesses are fully registered and operational within 3-5 working days, depending on the license type and required approvals." },
+      { "q": "Can I set up a business in DIFC as a foreigner?", "a": "Yes, foreigners can set up businesses in Dubai free zones with 100% ownership. Mainland companies may require a local sponsor depending on the business activity." },
+      { "q": "Do I need to be physically present in Dubai?", "a": "Most of the registration process can be done remotely. Our team handles the paperwork and government submissions on your behalf." },
+      { "q": "What types of businesses can I set up in DIFC?", "a": "You can set up commercial, professional, industrial, e-commerce, and freelance businesses in Dubai depending on your chosen license type." }
+    ]
+  },
+
+  "quickAnswersSection": {
+    "badge": "Quick Answers",
+    "title": "Quick Answers",
+    "titleHighlight": "Answers",
+    "subtitle": "Common questions about business setup in Dubai. Still have questions? We're one message away.",
+    "relatedServicesTitle": "Related Services & Guides",
+    "items": [
+      { "q": "How much does it cost to start a business in Dubai?", "a": "Business setup in Dubai starts from AED 9,500 for a basic free zone license. Mainland setup starts from AED 14,500." },
+      { "q": "Can a foreigner 100% own a company in Dubai?", "a": "Yes, foreigners can 100% own companies in most free zones and many mainland activities." },
+      { "q": "What is the cheapest free zone in Dubai?", "a": "RAK ICC, Ajman FTZ, and SRTIP offer the most affordable packages starting from AED 5,900." },
+      { "q": "How long does company registration take in Dubai?", "a": "Free zone registration takes 3-7 business days. Mainland takes 2-4 weeks." },
+      { "q": "Do I need a local partner in Dubai?", "a": "Not in free zones. In mainland, many activities now allow 100% foreign ownership." }
+    ],
+    "relatedServices": [
+      { "icon": "Building2", "title": "Business Setup in Trade Center", "desc": "Explore setup options in DWTC", "color": "from-cyan-400 to-sky-600", "link": "/service-areas/trade-center" },
+      { "icon": "FileText", "title": "Business Setup in Downtown Dubai", "desc": "Explore setup options in Downtown", "color": "from-sky-400 to-blue-600", "link": "/service-areas/downtown-dubai" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Ready to Start?",
+    "title": "Ready to Start Your Business in DIFC?",
+    "titleHighlight": "DIFC",
+    "subtitle": "Contact our team of business setup experts today for a free consultation. We'll guide you through every step of the DIFC company formation process.",
+    "primaryCta": "Contact Us Now",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I want to setup my business in DIFC."
+  }
+}

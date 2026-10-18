@@ -1,0 +1,179 @@
+{
+  "badge": {
+    "text": "深受阿联酋500多家企业的信赖",
+    "showPulse": true
+  },
+  "heading": {
+    "line1": "启动你的",
+    "line2Highlight": "迪拜商业",
+    "line3": "只需几天，无需几个月。"
+  },
+  "subtext": "从公司注册到签证、银行和税务——我们提供端到端的一站式服务，让您可以专注于在阿联酋蓬勃发展的经济中发展您的业务。",
+  "video": {
+    "src": "/videos/hero-bg.mp4",
+    "poster": "/videos/hero-bg-poster.jpg"
+  },
+  "ctaPrimary": {
+    "text": "获取免费咨询",
+    "link": "#contact"
+  },
+  "ctaSecondary": {
+    "text": "WhatsApp 联系我们",
+    "message": "您好！我想和您探讨一下我在迪拜的商业架构。"
+  },
+  "trustPills": [
+    "100% 所有权",
+    "0% 个人所得税",
+    "快速许可"
+  ],
+  "googleBadge": {
+    "rating": "4.8",
+    "reviewsText": "（34条评论）"
+  },
+  "floatingCards": [
+    {
+      "icon": "Building2",
+      "title": "自由区许可证",
+      "price": "5,999 迪拉姆",
+      "tag": "最受欢迎",
+      "tagColor": "gold",
+      "delay": 0.8,
+      "position": {
+        "right": "0px",
+        "top": "20像素"
+      },
+      "z": 30
+    },
+    {
+      "icon": "Globe",
+      "title": "大陆设置",
+      "price": "16,999 迪拉姆",
+      "tag": "性价比最高",
+      "tagColor": "sky",
+      "delay": 1,
+      "position": {
+        "right": "100像素",
+        "top": "220像素"
+      },
+      "z": 20
+    },
+    {
+      "icon": "CreditCard",
+      "title": "银行账户",
+      "price": "快速审批",
+      "tag": "快的",
+      "tagColor": "violet",
+      "delay": 1.2,
+      "position": {
+        "right": "40像素",
+        "top": "420像素"
+      },
+      "z": 10
+    }
+  ],
+  "reviewsSection": {
+    "badgeText": "Google 评论",
+    "title": "客户评价",
+    "titleHighlight": "客户评价",
+    "rating": "4.8",
+    "reviewsCountText": "· 34 条已验证评论"
+  },
+  "reviews": [
+    {
+      "name": "ZeeShan Butt",
+      "initials": "中部",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "Brightlink的管理团队值得满分100分。Muhammad Bilal Saleem和他的团队非常出色，他们的工作成果也证明了这一点。从头到尾，黄金签证和国籍变更服务在不到36小时内就全部完成。整个过程流畅无压力。这才是真正的VIP服务（超音速团队）。",
+      "color": "from-blue-500 to-blue-700"
+    },
+    {
+      "name": "穆罕默德",
+      "initials": "M",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "与 Brightlink 团队合作办理黄金签证的体验非常棒。他们专业、响应迅速，整个流程处理得非常顺利。两天就拿到了签证。强烈推荐给任何想要快速顺利办理黄金签证的人。",
+      "color": "from-violet-500 to-purple-700"
+    },
+    {
+      "name": "里提克·古普塔",
+      "initials": "RG",
+      "rating": 5,
+      "date": "6个月前",
+      "text": "您好，我通过Brightlink Management Consultancy办理了两年的居留签证，他们非常专业，只用了4个工作日就办好了——而且还是在斋月期间缩短的工作时间里。强烈推荐他们的VIP套餐！",
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "name": "西娜·贝赫法德",
+      "initials": "SB",
+      "rating": 5,
+      "date": "8个月前",
+      "text": "团队工作效率极高，专业且透明。我的申请在另一家公司搁置了好几天，他们迅速接手并给予了大力支持，而且每一步都处理得非常细致周到。",
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "name": "M J",
+      "initials": "迈克尔·杰克逊",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "服务一流，响应迅速，后续跟进到位。我使用他们的服务申请黄金签证，从开始到结束只用了三天时间。",
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "name": "哈坎·特克尔乔格鲁",
+      "initials": "HT",
+      "rating": 5,
+      "date": "2个月前",
+      "text": "我们全家的黄金签证申请过程非常顺利，按时完成，价格也很合理。我绝对会向任何有需要的人推荐这项服务。",
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "name": "胺K",
+      "initials": "AK",
+      "rating": 5,
+      "date": "8个月前",
+      "text": "Brightlink提供的服务简直太棒了！从获取详细信息和报价到最终拿到我的阿联酋身份证，整个过程都非常流畅快捷。感谢Bilal先生、Abbas先生以及整个团队！",
+      "color": "from-fuchsia-500 to-purple-700"
+    },
+    {
+      "name": "陶西夫·艾哈迈德",
+      "initials": "助教",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "服务一流。团队非常诚实且乐于助人。一周内就办完了所有手续，没有任何隐性费用。特别感谢阿巴斯先生。",
+      "color": "from-green-500 to-emerald-700"
+    },
+    {
+      "name": "克莱·穆伦斯",
+      "initials": "厘米",
+      "rating": 5,
+      "date": "10个月前",
+      "text": "Abbas 和 Brightlink 团队太棒了！！从我最初联系他们开始，他们就非常乐于助人，回复也很迅速。他们完全满足了我的需求。我强烈推荐他们给任何需要快速办理黄金签证的人。",
+      "color": "from-indigo-500 to-blue-700"
+    },
+    {
+      "name": "马纳基布·阿什拉夫",
+      "initials": "马萨诸塞州",
+      "rating": 5,
+      "date": "1年前",
+      "text": "我最近通过Brightlink办理了家庭签证，对他们的服务非常满意。整个过程快速高效，专业到位。现在我可以和家人一起在阿联酋生活了。强烈推荐！",
+      "color": "from-red-500 to-rose-700"
+    },
+    {
+      "name": "艾哈迈德·乌拉",
+      "initials": "澳大利亚",
+      "rating": 5,
+      "date": "1年前",
+      "text": "我非常感谢您们在帮我妻子办理签证方面提供的出色支持——而且只用了两天时间！整个过程如此顺利快捷，我深感感激。贵团队的专业精神令人赞叹。",
+      "color": "from-teal-500 to-cyan-700"
+    },
+    {
+      "name": "努曼·沙比尔",
+      "initials": "NS",
+      "rating": 5,
+      "date": "两年前",
+      "text": "整个过程体验非常棒。我们只用了三天就拿到了签证。他们的团队经验丰富，每一步都会及时更新信息。强烈推荐给所有想在迪拜创业或申请黄金签证的人。",
+      "color": "from-yellow-500 to-amber-700"
+    }
+  ]
+}

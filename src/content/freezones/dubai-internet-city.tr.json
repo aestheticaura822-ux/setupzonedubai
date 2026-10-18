@@ -1,0 +1,437 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&q=80",
+    "breadcrumbParent": "Serbest Bölgeler",
+    "breadcrumbLabel": "Dubai İnternet Şehri",
+    "badge": "Orta Doğu'nun En Büyük Teknoloji Merkezi",
+    "title": "Dubai İnternet Şehri",
+    "titleHighlight": "İnternet Şehri",
+    "subtitle": "Ortadoğu'nun en büyük bilgi ve iletişim teknolojileri merkezi; küresel teknoloji devlerine, girişimlere ve dijital yenilikçilere ev sahipliği yapıyor. Teknoloji işletmenizi Google, Microsoft ve Oracle'ın yanında kurun.",
+    "ctaPrimaryText": "Ücretsiz Danışmanlık Alın",
+    "ctaPrimaryLink": "#temas etmek",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Merhaba! Dubai İnternet Şehri Serbest Bölgesi kurulumuyla ilgileniyorum.",
+    "badges": [
+      "%100 Sahiplik",
+      "%0 Vergi",
+      "Teknoloji Ekosistemi",
+      "3-5 Gün Kurulum"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "3.500+",
+      "label": "Teknoloji Şirketleri",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-sky-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Vergi Oranı",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Kurulum Günleri",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "DIC Teknoloji Merkezi",
+    "totalLabel": "Alan",
+    "totalValue": "Dubai, Birleşik Arap Emirlikleri",
+    "statusBadge": "Aktif",
+    "metrics": [
+      {
+        "label": "Kurulum Süresi",
+        "value": "3-5 Gün",
+        "color": "text-cyan-600"
+      },
+      {
+        "label": "Şirketler",
+        "value": "3.5K+",
+        "color": "text-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Neden DIC?",
+    "title": "Dubai İnternet Şehri'ni Neden Seçmelisiniz?",
+    "titleHighlight": "Dubai İnternet Şehri?",
+    "subtitle": "Bölgenin en köklü teknoloji serbest bölgesi, benzersiz ekosistemi ve yetenekleriyle öne çıkıyor.",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "description": "Yerel sponsora gerek kalmadan tam mülkiyet — işletmeniz üzerinde tam kontrol.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "%0 Vergi ve Tam Geri Ödeme",
+        "description": "Kurumlar veya kişisel gelir vergisi yok — kârların ve sermayenin %100'ünü ülkeye geri getirin.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Dünya Standartlarında Yetenek Havuzu",
+        "description": "Dubai'de yetenekli teknoloji uzmanlarına, geliştiricilere ve dijital pazarlamacılara erişim.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "UserCheck",
+      "title": "Küresel Teknoloji Devlerinin Yanında",
+      "description": "Google, Microsoft, Oracle, IBM ve 3.500'den fazla teknoloji şirketinin yanında yer alan bölge, en bağlantılı teknoloji topluluğuna ev sahipliği yapıyor.",
+      "color": "from-cyan-500 via-blue-600 to-indigo-700"
+    },
+    "smallCard2": {
+      "icon": "MapPin",
+      "title": "Mükemmel Konum",
+      "description": "Dubai Marina'ya, Palm Jumeirah'ya ve Dubai'nin iş bölgelerine birkaç dakika mesafede ve metro bağlantısı mevcut.",
+      "color": "from-violet-500 via-purple-600 to-fuchsia-700"
+    }
+  },
+  "licensesSection": {
+    "badge": "Lisans Türleri",
+    "title": "DIC Lisans Türleri",
+    "titleHighlight": "Lisans Türleri",
+    "subtitle": "Teknoloji veya dijital iş faaliyetiniz için doğru lisansı seçin.",
+    "items": [
+      {
+        "icon": "Code",
+        "title": "Yazılım Geliştirme",
+        "description": "Yazılım şirketleri, SaaS platformları ve uygulama geliştirme işletmeleri için.",
+        "code": "SFT",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "BT Hizmetleri",
+        "description": "Bilişim danışmanlığı, yönetilen hizmetler ve teknik destek şirketleri için.",
+        "code": "ONUN",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Dijital Pazarlama",
+        "description": "SEO, SEM, sosyal medya ve dijital reklam ajansları için.",
+        "code": "DMK",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Database",
+        "title": "Veri ve Bulut Hizmetleri",
+        "description": "Veri merkezleri, bulut barındırma ve büyük veri işletmeleri için.",
+        "code": "DCS",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Server",
+        "title": "E-Ticaret ve Platformlar",
+        "description": "Çevrimiçi pazar yerleri, e-ticaret platformları ve web işletmeleri için.",
+        "code": "ECM",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Profesyonel ve Danışmanlık",
+        "description": "Teknoloji danışmanları, işletme danışmanları ve yönetim firmaları için.",
+        "code": "PRO",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "Tesisler",
+    "title": "Dünya Standartlarında Teknoloji Altyapısı",
+    "titleHighlight": "Teknoloji Altyapısı",
+    "subtitle": "Teknoloji işletmenizin verimli bir şekilde çalışması ve büyümesi için ihtiyaç duyduğu her şey.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Esnek Çalışma Masaları ve Ortak Çalışma Alanları",
+        "description": "Yeni kurulan şirketler ve serbest çalışanlar için modern, paylaşımlı çalışma alanları.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Building2",
+        "title": "Yürütme Ofisleri",
+        "description": "Büyüyen teknoloji ekipleri için birinci sınıf donanımlı ofisler.",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80"
+      },
+      {
+        "icon": "Server",
+        "title": "Veri Merkezleri",
+        "description": "7/24 kesintisiz çalışma özelliğine sahip, Tier-III sertifikalı veri merkezleri.",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80"
+      },
+      {
+        "icon": "Wifi",
+        "title": "Yüksek Hızlı Bağlantı",
+        "description": "Fiber optik internet ve yedekli ağ altyapısı.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Nasıl Yardım Ediyoruz?",
+    "title": "DIC Kurulum Ortağınız",
+    "titleHighlight": "Kurulum Ortağı",
+    "subtitle": "Lisans başvurusundan lansmana kadar uçtan uca destek.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "FileText",
+        "title": "İş Faaliyeti Seçimi",
+        "description": "Teknoloji işletmeniz için doğru faaliyet ve lisansı seçmenize yardımcı oluyoruz.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "Ticari İsim Rezervasyonu",
+        "description": "Şirket adınızı DIC'de rezerve edin ve hızlı onaylar alın.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "BadgeCheck",
+        "title": "Lisans Verilmesi",
+        "description": "Başvurunuzu gönderin ve DIC ticaret lisansınızı alın.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "icon": "CreditCard",
+        "title": "Visa ve Banka Hesabı",
+        "description": "Vize işlemlerinin tamamlanması ve şirket banka hesabının açılması.",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "DIC'de lansmana hazır mısınız?",
+      "ctaText": "Bir Uzmanla Konuşun",
+      "whatsappMessage": "Merhaba! DIC kurulumu hakkında görüşmek istiyorum."
+    }
+  },
+  "digitalScaleSection": {
+    "badge": "Dijital Ölçek",
+    "title": "DIC'de Teknoloji İşletmenizi Büyütün",
+    "titleHighlight": "Teknoloji İşletmesi",
+    "intro": "DIC, bölgenin dijital başkenti Dubai'den başarılı bir teknoloji şirketi kurmak, başlatmak ve büyütmek için ihtiyacınız olan her şeyi size sunuyor.",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+    "imageBadgeTitle": "Büyüme Merkezi",
+    "imageBadgeText": "Küresel Ölçekte",
+    "items": [
+      {
+        "icon": "TrendingUp",
+        "title": "Girişim Sermayesi Fonlarına Erişim",
+        "description": "Dubai teknoloji sektörüne aktif olarak yatırım yapan bölgesel ve küresel yatırımcılarla bağlantı kurun."
+      },
+      {
+        "icon": "Globe",
+        "title": "Küresel Pazar Erişimi",
+        "description": "Tek bir noktadan MENA, Afrika ve Asya'daki 2 milyardan fazla tüketiciye ulaşın."
+      },
+      {
+        "icon": "Users",
+        "title": "Ağ Oluşturma Etkinlikleri",
+        "description": "DIC topluluğu için düzenli buluşmalar, hackathon'lar ve teknoloji konferansları."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Girişim Hızlandırıcıları",
+        "description": "Dubai'nin önde gelen girişim kuluçka merkezi in5'e ve diğer programlara erişim."
+      },
+      {
+        "icon": "Award",
+        "title": "Devlet Desteği",
+        "description": "Dubai İnternet Şehri ve Dubai Holding'den teknoloji girişimlerine destek."
+      }
+    ]
+  },
+  "activitiesCloudSection": {
+    "badge": "İzin Verilen Aktiviteler",
+    "title": "DIC'de Hangi Etkinlikleri Düzenleyebilirsiniz?",
+    "titleHighlight": "DIC'de mi çalıştırıyorsunuz?",
+    "subtitle": "Çok çeşitli teknoloji ve dijital iş faaliyetlerine izin verilmektedir.",
+    "items": [
+      {
+        "icon": "Code",
+        "label": "Yazılım Geliştirme"
+      },
+      {
+        "icon": "Smartphone",
+        "label": "Mobil Uygulama Geliştirme"
+      },
+      {
+        "icon": "Cloud",
+        "label": "Bulut Hizmetleri"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Yapay Zeka ve Makine Öğrenimi"
+      },
+      {
+        "icon": "Database",
+        "label": "Veri Analizi"
+      },
+      {
+        "icon": "Server",
+        "label": "BT Altyapısı"
+      },
+      {
+        "icon": "Globe",
+        "label": "Web Geliştirme"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "E-Ticaret"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Dijital Pazarlama"
+      },
+      {
+        "icon": "Palette",
+        "label": "Kullanıcı Arayüzü/Kullanıcı Deneyimi Tasarımı"
+      },
+      {
+        "icon": "Bot",
+        "label": "Robotik ve Otomasyon"
+      },
+      {
+        "icon": "Camera",
+        "label": "İçerik Üretimi"
+      },
+      {
+        "icon": "Terminal",
+        "label": "DevOps"
+      },
+      {
+        "icon": "Binary",
+        "label": "Blok zinciri"
+      },
+      {
+        "icon": "Wifi",
+        "label": "IoT Çözümleri"
+      },
+      {
+        "icon": "Monitor",
+        "label": "Oyun Geliştirme"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Dubai İnternet Şehri Serbest Bölgesi hakkında bilmeniz gereken her şey.",
+    "items": [
+      {
+        "q": "Dubai İnternet Şehri nedir ve kimler içindir?",
+        "a": "Dubai İnternet Şehri (DIC), Google, Microsoft, Oracle ve IBM dahil olmak üzere 3.500'den fazla teknoloji şirketine ev sahipliği yapan Orta Doğu'nun en büyük bilgi ve iletişim teknolojileri serbest bölgesidir. Yazılım, BT hizmetleri, dijital pazarlama, e-ticaret ve teknoloji girişimleri için ideal bir yerdir."
+      },
+      {
+        "q": "DIC'de hangi lisanslar mevcuttur?",
+        "a": "Yazılım Geliştirme, BT Hizmetleri, Dijital Pazarlama, Veri ve Bulut Hizmetleri, E-Ticaret ve Profesyonel/Danışmanlık lisansları."
+      },
+      {
+        "q": "DIC'de şirket kurmak ne kadar sürer?",
+        "a": "Gerekli belgelerin eksiksiz olması koşuluyla, genellikle 3-5 iş günü sürer. Ekibimiz hızlı ve sorunsuz bir süreç sağlar."
+      },
+      {
+        "q": "DIC'de %100 yabancı mülkiyeti elde edebilir miyim?",
+        "a": "Evet. DIC, %100 yabancı mülkiyete izin veriyor; yerel sponsor gerekmiyor."
+      },
+      {
+        "q": "DIC'nin vergi avantajları nelerdir?",
+        "a": "Kurumlar ve kişisel gelir vergilerinde %0 oran ve karların ve sermayenin tam olarak geri gönderilmesi imkanı sunan, BAE'nin en avantajlı vergi rejimlerinden biri."
+      },
+      {
+        "q": "DIC lisansı ile kurumsal banka hesabı açabilir miyim?",
+        "a": "Evet. İşletme profilinize göre, BAE'nin önde gelen bankalarında kurumsal banka hesabı açmanıza yardımcı oluyoruz."
+      },
+      {
+        "q": "DIC'de hangi ofis alanları mevcuttur?",
+        "a": "Esnek çalışma masaları, ortak çalışma alanları, yönetici ofisleri ve birinci sınıf donanımlı ofisler. Veri merkezleri ve sunucu barındırma hizmetleri de mevcuttur."
+      },
+      {
+        "q": "DIC, yeni kurulan şirketler ve serbest çalışanlar için uygun mu?",
+        "a": "Evet. DIC, yeni kurulan şirketler, serbest çalışanlar ve uzaktan çalışma odaklı teknoloji ekipleri için mükemmel, uygun maliyetli esnek çalışma masaları ve sanal ofis seçenekleri sunmaktadır."
+      },
+      {
+        "q": "Setup Zone Dubai ne tür destekler sağlıyor?",
+        "a": "Şirket kaydı, ticari isim onayı, lisans verilmesi, vize işlemleri, banka hesabı açılması, mevzuata uygunluk ve dijital lansman hizmetleri sunuyoruz."
+      },
+      {
+        "q": "DIC lisansı ile aileme sponsor olabilir miyim?",
+        "a": "Evet. DIC, yatırımcı ve çalışma vizelerinin yanı sıra, bakmakla yükümlü olunan kişiler için de aile vizesi sponsorluğunu desteklemektedir."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "DIC kurulumunuzla uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Uyumluluk Hizmetleri",
+        "description": "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Altın Vize",
+        "description": "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bugün Başlatın",
+    "title": "Dubai İnternet Şehrinde Lansman Yapmaya Hazır mısınız?",
+    "titleHighlight": "Dubai İnternet Şehri?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisanslamadan lansmana kadar tüm DIC kurulum sürecinde size rehberlik edeceğiz.",
+    "primaryCta": "Bize WhatsApp'tan ulaşın",
+    "whatsappMessage": "Merhaba! DIC kurulumu için ücretsiz danışmanlık almak istiyorum.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "Ücretsiz Danışmanlık",
+      "3.500'den fazla Müşteri",
+      "3-5 Gün Kurulum"
+    ],
+    "office": {
+      "label": "Dubai Ofisimizi Ziyaret Edin",
+      "line1": "Ofis M08-27, M1 Katı, Crystal Tower",
+      "line2": "Business Bay, Dubai, B.A.E — Posta Kutusu: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Çalışma Saatleri",
+      "monFri": "Sabah 9 - Akşam 6",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Kapalı"
+    }
+  }
+}

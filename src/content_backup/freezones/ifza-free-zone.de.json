@@ -1,0 +1,591 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600\u0026q=80",
+    "heroBadge":  "Internationale Freizonenbehí¶rde",
+    "heroTitle":  "IFZA-Freizone",
+    "heroTitleHighlight":  "Freizone",
+    "heroSubtitle":  "Eine der am schnellsten wachsenden und dynamischsten Freihandelszonen der VAE. 100 % auslí¤ndisches Eigentum, 0 % Steuern, vollstí¤ndig ortsunabhí¤ngige Einrichtung "“ ideal für Startups, KMUs und internationale Unternehmer.",
+    "heroChips":  [
+                      "100% Eigentum",
+                      "0 % Steuer",
+                      "2-3 Tage Aufbauzeit"
+                  ],
+    "heroCards":  {
+                      "primary":  {
+                                      "badge":  "Bestes Preis-Leistungs-Verhí¤ltnis",
+                                      "icon":  "Dollarzeichen",
+                                      "label":  "Lizenz von",
+                                      "value":  "11.500 AED",
+                                      "highlight":  "2-3 Tage",
+                                      "highlightLabel":  "aufstellen",
+                                      "footer":  "Transparente Preise, keine versteckten Gebühren",
+                                      "color":  "von Violett-400 bis Lila-600"
+                                  },
+                      "secondary":  {
+                                        "icon":  "Globus",
+                                        "label":  "Vollstí¤ndig ferngesteuert",
+                                        "value":  "99 % online",
+                                        "title":  "Einrichtung überall",
+                                        "subtext":  "Sie brauchen Dubai nicht zu besuchen.",
+                                        "color":  "von Fuchsia 400 bis Rosa 500"
+                                    }
+                  },
+    "stats":  [
+                  {
+                      "icon":  "Uhr",
+                      "value":  "2-3",
+                      "label":  "Tagesaufbau",
+                      "color":  "von Violett-400 bis Lila-600"
+                  },
+                  {
+                      "icon":  "Globus",
+                      "value":  "100%",
+                      "label":  "Auslí¤ndisches Eigentum",
+                      "color":  "von Lila-400 bis Fuchsia-600"
+                  },
+                  {
+                      "icon":  "Dollarzeichen",
+                      "value":  "0 %",
+                      "label":  "Steuersatz",
+                      "color":  "von Fuchsia-400 bis Rosa-600"
+                  },
+                  {
+                      "icon":  "Benutzer",
+                      "value":  "Mehr als 20.000",
+                      "label":  "Unternehmen",
+                      "color":  "von Indigo-400 bis Violett-600"
+                  }
+              ],
+    "whyIfzaSection":  {
+                           "badge":  "Warum IFZA",
+                           "title":  "Warum die IFZA-Freizone wí¤hlen?",
+                           "titleHighlight":  "IFZA-Freizone?",
+                           "subtitle":  "Eine der am schnellsten wachsenden Freihandelszonen der VAE mit internationalen Standards und flexiblen, kostengünstigen Lí¶sungen.",
+                           "primaryCard":  {
+                                               "icon":  "Zap",
+                                               "title":  "Schnell und kostengünstig",
+                                               "description":  "Anmeldung in nur 2-3 Tagen zu niedrigen, transparenten Preisen und individuellen Paketoptionen.",
+                                               "color":  "von Violett-500 über Lila-600 bis Violett-700"
+                                           },
+                           "secondaryCards":  [
+                                                  {
+                                                      "icon":  "Globus",
+                                                      "title":  "99 % Online-Einrichtung",
+                                                      "description":  "Vollstí¤ndig digitales Portal "“ perfekt für Gründer, die remote arbeiten.",
+                                                      "color":  "von Fuchsia-400 bis Rosa-600"
+                                                  },
+                                                  {
+                                                      "icon":  "Benutzer",
+                                                      "title":  "Globales í–kosystem",
+                                                      "description":  "Mehrsprachiger Support und weltweites Unternehmernetzwerk.",
+                                                      "color":  "von Cyan-400 bis Blau-600"
+                                                  }
+                                              ]
+                       },
+    "benefitsSection":  {
+                            "badge":  "Wichtigste Vorteile",
+                            "title":  "Wichtigste Vorteile der IFZA-Freizone",
+                            "titleHighlight":  "IFZA-Freizone",
+                            "items":  [
+                                          {
+                                              "icon":  "Globus",
+                                              "title":  "100% auslí¤ndisches Eigentum",
+                                              "description":  "Gründen Sie Ihr Unternehmen mit 100% Eigentum und 100%iger Rückführung von Gewinnen und Kapital ohne lokalen Sponsor.",
+                                              "color":  "von Violett-400 bis Lila-600",
+                                              "image":  "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Vollstí¤ndige Ferneinrichtung "“ 99 % online",
+                                              "description":  "Das digitale Portal und die E-Service-Angebote der IFZA ermí¶glichen es Ihnen, Ihr Unternehmen vollstí¤ndig online einzurichten und zu verwalten.",
+                                              "color":  "von Lila-400 bis Fuchsia-600",
+                                              "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Dollarzeichen",
+                                              "title":  "0 % Unternehmens- und Einkommensteuer",
+                                              "description":  "Sie profitieren von 0 % Kí¶rperschaftsteuer und Einkommensteuer "“ was die IFZA zum günstigsten Standort in den VAE macht.",
+                                              "color":  "von Fuchsia-400 bis Rosa-600",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "DateiText",
+                                              "title":  "Mehrere Lizenzoptionen",
+                                              "description":  "Wí¤hlen Sie Ihre bevorzugte IFZA-Lizenz für kommerzielle, professionelle, industrielle, Offshore- oder virtuelle Vermí¶genswerte.",
+                                              "color":  "von Indigo-400 bis Violett-600",
+                                              "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Uhr",
+                                              "title":  "Geschwindigkeit und Kosteneffizienz",
+                                              "description":  "SchlieíŸen Sie Ihre IFZA-Firmenregistrierung in nur 2-3 Tagen zu niedrigen und transparenten Preisen ab.",
+                                              "color":  "von rosa-400 bis rosé-600",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Benutzer",
+                                              "title":  "Premium-Business-í–kosystem",
+                                              "description":  "Ausbau des IFZA-í–kosystems zur Vernetzung internationaler Unternehmer mit Bank-, Beratungs- und PRO-Dienstleistungen.",
+                                              "color":  "von Cyan-400 bis Blau-600",
+                                              "image":  "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200\u0026q=80"
+                                          }
+                                      ]
+                        },
+    "licensesSection":  {
+                            "badge":  "Lizenzarten",
+                            "title":  "7 Lizenzkategorien von IFZA",
+                            "titleHighlight":  "IFZA",
+                            "subtitle":  "Eine umfangreiche Auswahl an Lizenzen für verschiedene Geschí¤ftstí¤tigkeiten.",
+                            "items":  [
+                                          {
+                                              "icon":  "Speichern",
+                                              "title":  "Gewerbelizenz",
+                                              "description":  "Für Import, Export, GroíŸhandel oder Vertrieb.",
+                                              "code":  "TRD",
+                                              "color":  "von Violett-400 bis Lila-600"
+                                          },
+                                          {
+                                              "icon":  "Aktentasche",
+                                              "title":  "Berufslizenz",
+                                              "description":  "Für Berater, Freiberufler und Dienstleister.",
+                                              "code":  "PRO",
+                                              "color":  "von Lila-400 bis Fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "Warenkorb",
+                                              "title":  "Gewerbelizenz",
+                                              "description":  "Für Handelsunternehmen aller Branchen.",
+                                              "code":  "COM",
+                                              "color":  "von Fuchsia-400 bis Rosa-600"
+                                          },
+                                          {
+                                              "icon":  "Fabrik",
+                                              "title":  "Industrielizenz",
+                                              "description":  "Für Fertigung, Verpackung und Produktion.",
+                                              "code":  "IND",
+                                              "color":  "von Indigo-400 bis Violett-600"
+                                          },
+                                          {
+                                              "icon":  "Kompass",
+                                              "title":  "Tourismuslizenz",
+                                              "description":  "Für Reisebüros und Tourismusveranstalter.",
+                                              "code":  "TRS",
+                                              "color":  "von Cyan-400 bis Blau-600"
+                                          },
+                                          {
+                                              "icon":  "Globe2",
+                                              "title":  "Offshore-Lizenz",
+                                              "description":  "Für international tí¤tige Unternehmen ohne Niederlassung in den VAE.",
+                                              "code":  "AUS",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          },
+                                          {
+                                              "icon":  "Blí¶cke",
+                                              "title":  "Metaverse-Dienstlizenz",
+                                              "description":  "Für Unternehmen der virtuellen Wirtschaft und der digitalen Vermí¶genswerte.",
+                                              "code":  "MTV",
+                                              "color":  "von rosa-400 bis rosé-600"
+                                          }
+                                      ]
+                        },
+    "officeOptionsSection":  {
+                                 "badge":  "Bürolí¶sungen",
+                                 "title":  "Skalierbare Infrastrukturoptionen",
+                                 "titleHighlight":  "Infrastrukturoptionen",
+                                 "subtitle":  "MaíŸgeschneidert für Startups, KMUs und multinationale Konzerne.",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Monitor",
+                                                   "title":  "Flexi Desk",
+                                                   "description":  "Preisgünstige Gemeinschaftsarbeitsplí¤tze für Startups und Freiberufler.",
+                                                   "color":  "von Violett-400 bis Lila-600"
+                                               },
+                                               {
+                                                   "icon":  "Aktentasche",
+                                                   "title":  "Intelligente Büros",
+                                                   "description":  "Sofort bezugsfertige Gemeinschaftsbüros mit Flexibilití¤t und Kosteneinsparungen.",
+                                                   "color":  "von Lila-400 bis Fuchsia-600"
+                                               },
+                                               {
+                                                   "icon":  "Gebí¤ude 2",
+                                                   "title":  "Eigenes Büro",
+                                                   "description":  "Komplett ausgestattete Büros für Unternehmen mit Highspeed-Internet und Annehmlichkeiten.",
+                                                   "color":  "von Indigo-400 bis Violett-600"
+                                               },
+                                               {
+                                                   "icon":  "Absolventenmütze",
+                                                   "title":  "IFZA Akademie",
+                                                   "description":  "Branchenspezifische Schulungs- und Weiterbildungsprogramme für Unternehmer.",
+                                                   "color":  "von Cyan-400 bis Blau-600"
+                                               }
+                                           ]
+                             },
+    "complianceSection":  {
+                              "badge":  "Unterstützung in den Bereichen Compliance und regulatorische Angelegenheiten",
+                              "title":  "Vollstí¤ndige Unterstützung bei der Einhaltung der Vorschriften",
+                              "titleHighlight":  "Unterstützung bei der Einhaltung von Vorschriften",
+                              "subtitle":  "Wir kümmern uns um alle rechtlichen und behí¶rdlichen Verpflichtungen für Sie.",
+                              "items":  [
+                                            {
+                                                "icon":  "Benutzerprüfung",
+                                                "title":  "UBO-Compliance",
+                                                "description":  "Meldung der wirtschaftlich Berechtigten zur Gewí¤hrleistung von Rechtstransparenz und Einhaltung der Gesetze der VAE zur Bekí¤mpfung von Finanzkriminalití¤t."
+                                            },
+                                            {
+                                                "icon":  "Skala",
+                                                "title":  "ESR-Konformití¤t",
+                                                "description":  "Beratung und Dokumentation zu den Vorschriften zur wirtschaftlichen Substanz und den entsprechenden Meldepflichten."
+                                            },
+                                            {
+                                                "icon":  "Schildalarm",
+                                                "title":  "Einhaltung der AML-Vorschriften",
+                                                "description":  "Risikobewertungen, Sorgfaltsprüfungen, Transaktionsüberwachung und Mitarbeiterschulungen."
+                                            },
+                                            {
+                                                "icon":  "Quittung",
+                                                "title":  "IFZA-Mehrwertsteuerberatung",
+                                                "description":  "Umsatzsteuerregistrierung, Buchführung und Umsatzsteuererklí¤rung gemí¤íŸ den Bestimmungen der Bundessteuerbehí¶rde der VAE."
+                                            },
+                                            {
+                                                "icon":  "RefreshCw",
+                                                "title":  "Dienstleistungen zur Lizenzverlí¤ngerung",
+                                                "description":  "Schnelle Verlí¤ngerungsprozesse mit automatisiertem Papierkram und elektronischen Erinnerungen."
+                                            },
+                                            {
+                                                "icon":  "Dateiabzeichen",
+                                                "title":  "IFZA PRO Services",
+                                                "description":  "Dokumentenübersetzung, Beglaubigung, Arbeitsgenehmigungen und Einwanderungsgenehmigungen."
+                                            }
+                                        ]
+                          },
+    "whyIdealSection":  {
+                            "badge":  "Globale Unternehmer",
+                            "title":  "Warum IFZA ideal für globale Unternehmer ist",
+                            "titleHighlight":  "Ideal für globale Unternehmer",
+                            "items":  [
+                                          {
+                                              "icon":  "Globus",
+                                              "title":  "IFZA Global Setup",
+                                              "description":  "Ideal für auslí¤ndische Investoren, die Investitionen in den VAE tí¤tigen mí¶chten.",
+                                              "color":  "von Violett-400 bis Lila-600"
+                                          },
+                                          {
+                                              "icon":  "Quittung",
+                                              "title":  "Transparente Preise",
+                                              "description":  "Keine versteckten Gebühren, keine íœberraschungen "“ nur Festpreis-Pakete.",
+                                              "color":  "von Lila-400 bis Fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "Aufwí¤rtstrend",
+                                              "title":  "Geschí¤ftseinblicke \u0026 Neuigkeiten",
+                                              "description":  "Expertenblogs, Marktneuigkeiten und Branchenanalysen.",
+                                              "color":  "von Fuchsia-400 bis Rosa-600"
+                                          },
+                                          {
+                                              "icon":  "Absolventenmütze",
+                                              "title":  "IFZA Akademie \u0026 Ausbildung",
+                                              "description":  "Weltklasse-Schulungsprogramme zur Weiterbildung Ihres Teams.",
+                                              "color":  "von Indigo-400 bis Violett-600"
+                                          }
+                                      ]
+                        },
+    "whoShouldSection":  {
+                             "badge":  "Für wen es gedacht ist",
+                             "title":  "Wer sollte ein Unternehmen in der IFZA gründen?",
+                             "titleHighlight":  "in IFZA?",
+                             "items":  [
+                                           {
+                                               "icon":  "Code",
+                                               "title":  "Startups \u0026 Tech-Unternehmer",
+                                               "description":  "Beschleunigen Sie Ihre Markteinführung mit kostengünstigen Coworking-Spaces.",
+                                               "image":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800\u0026q=80",
+                                               "color":  "von Violett-400 bis Lila-600"
+                                           },
+                                           {
+                                               "icon":  "Palette",
+                                               "title":  "Anbieter digitaler Dienste",
+                                               "description":  "Kreative Profis und Freiberufler mit geringen Fixkosten.",
+                                               "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80",
+                                               "color":  "von Lila-400 bis Fuchsia-600"
+                                           },
+                                           {
+                                               "icon":  "Warenkorb",
+                                               "title":  "E-Commerce \u0026 Handel",
+                                               "description":  "Ideale Lage, logistische Unterstützung und Zollvorteile.",
+                                               "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800\u0026q=80",
+                                               "color":  "von Fuchsia-400 bis Rosa-600"
+                                           },
+                                           {
+                                               "icon":  "Blí¶cke",
+                                               "title":  "Unternehmen für virtuelle Vermí¶genswerte",
+                                               "description":  "Blockchain- und Krypto-Geschí¤ftslizenzen für Metaverse-Dienste.",
+                                               "image":  "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800\u0026q=80",
+                                               "color":  "von Indigo-400 bis Violett-600"
+                                           },
+                                           {
+                                               "icon":  "Aktentasche",
+                                               "title":  "Professionelle Dienstleistungen",
+                                               "description":  "Berater und Dienstleister, die kostengünstige Lizenzen bení¶tigen.",
+                                               "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80",
+                                               "color":  "von Cyan-400 bis Blau-600"
+                                           }
+                                       ]
+                         },
+    "howWeHelpSection":  {
+                             "badge":  "Wie wir helfen",
+                             "title":  "Unser IFZA-Firmengründungsprozess",
+                             "titleHighlight":  "Bildungsprozess",
+                             "steps":  [
+                                           {
+                                               "step":  "01",
+                                               "title":  "Kostenlose Beratung \u0026 Businessplan",
+                                               "description":  "Wir analysieren Ihre Geschí¤ftsziele, Ihre Branche und Ihre langfristigen Ambitionen, um Ihnen die passende Lizenz zu empfehlen.",
+                                               "icon":  "MessageCircle",
+                                               "color":  "von Violett-400 bis Lila-600"
+                                           },
+                                           {
+                                               "step":  "02",
+                                               "title":  "Markenreservierung",
+                                               "description":  "Der gesamte Prozess zur Reservierung eines Handelsnamens "“ Sicherstellung der Verfügbarkeit, Konformití¤t und Registrierung.",
+                                               "icon":  "DateiText",
+                                               "color":  "von Lila-400 bis Fuchsia-600"
+                                           },
+                                           {
+                                               "step":  "03",
+                                               "title":  "Lizenzantrag \u0026 -erteilung",
+                                               "description":  "Direkte Einreichung über das digitale Portal der IFZA "“ Lizenz wird innerhalb weniger Werktage ausgestellt.",
+                                               "icon":  "BadgeCheck",
+                                               "color":  "von Fuchsia-400 bis Rosa-600"
+                                           },
+                                           {
+                                               "step":  "04",
+                                               "title":  "Büro- und Arbeitsplatzauswahl",
+                                               "description":  "Flexi Desk, Smart Office oder ein eigener Arbeitsplatz in der Dubai Silicon Oasis "“ passend zu Ihrem Budget.",
+                                               "icon":  "Gebí¤ude 2",
+                                               "color":  "von Indigo-400 bis Violett-600"
+                                           },
+                                           {
+                                               "step":  "05",
+                                               "title":  "Visadienstleistungen",
+                                               "description":  "Vollstí¤ndiges Visumverfahren: Einreisegenehmigung, Emirates ID, medizinische Tests und Erteilung des Aufenthaltsvisums.",
+                                               "icon":  "Benutzerprüfung",
+                                               "color":  "von Cyan-400 bis Blau-600"
+                                           },
+                                           {
+                                               "step":  "06",
+                                               "title":  "Bankkonto \u0026 Versicherung",
+                                               "description":  "Einrichtung eines Firmenbankkontos bei führenden Banken in den VAE + Beratung zur Krankenversicherung.",
+                                               "icon":  "Kreditkarte",
+                                               "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                           }
+                                       ]
+                         },
+    "costTimelineSection":  {
+                                "badge":  "Kosten \u0026 Zeitplan",
+                                "title":  "Transparente Preisgestaltung (2026)",
+                                "titleHighlight":  "Preisgestaltung (2026)",
+                                "subtitle":  "IFZA ist bekannt für transparente und umfassende Preise. Keine versteckten Gebühren.",
+                                "costBreakdown":  [
+                                                      {
+                                                          "item":  "Lizenz (beginnend)",
+                                                          "cost":  "11.500",
+                                                          "notes":  "Beinhaltet die Registrierung",
+                                                          "color":  "von Violett-400 bis Lila-600"
+                                                      },
+                                                      {
+                                                          "item":  "Flexi-Schreibtisch",
+                                                          "cost":  "7.500 - 9.000",
+                                                          "notes":  "Jí¤hrliche Anforderung",
+                                                          "color":  "von Lila-400 bis Fuchsia-600"
+                                                      },
+                                                      {
+                                                          "item":  "Visum (pro Person)",
+                                                          "cost":  "4.500 - 6.500",
+                                                          "notes":  "Emirates ID inklusive",
+                                                          "color":  "von Fuchsia-400 bis Rosa-600"
+                                                      },
+                                                      {
+                                                          "item":  "Betriebskarte",
+                                                          "cost":  "1.500 - 2.000",
+                                                          "notes":  "Jí¤hrlich",
+                                                          "color":  "von Indigo-400 bis Violett-600"
+                                                      },
+                                                      {
+                                                          "item":  "Umsatzsteuerregistrierung",
+                                                          "cost":  "1.000 - 2.000",
+                                                          "notes":  "Falls erforderlich",
+                                                          "color":  "von Cyan-400 bis Blau-600"
+                                                      }
+                                                  ],
+                                "year1Total":  {
+                                                   "label":  "Typischer Gesamtbetrag im ersten Jahr",
+                                                   "subtext":  "Ein-Personen-Gesellschaft mit einem Visum",
+                                                   "fromLabel":  "Aus",
+                                                   "minValue":  "24.000",
+                                                   "maxValue":  "35.000"
+                                               },
+                                "timelineBadge":  "IFZA-Zeitleiste",
+                                "timelineTitle":  "Was Sie erwartet",
+                                "timeline":  [
+                                                 {
+                                                     "day":  "Tag 1",
+                                                     "title":  "Namensreservierung + Aktivití¤tsauswahl",
+                                                     "description":  "Wir helfen Ihnen, Ihren Handelsnamen zu reservieren und die passende Geschí¤ftstí¤tigkeit auszuwí¤hlen.",
+                                                     "color":  "von Violett-400 bis Lila-600"
+                                                 },
+                                                 {
+                                                     "day":  "Tag 2-3",
+                                                     "title":  "Dokumente geprüft, Lizenz erteilt",
+                                                     "description":  "Ihr Antrag wird geprüft und die Lizenz innerhalb weniger Werktage ausgestellt.",
+                                                     "color":  "von Lila-400 bis Fuchsia-600"
+                                                 },
+                                                 {
+                                                     "day":  "Woche 1-2",
+                                                     "title":  "Visa Medical, Emirates ID, Stempelung",
+                                                     "description":  "Vollstí¤ndige Visabearbeitung inklusive medizinischer Tests und biometrischer Erfassung für den Emirates ID.",
+                                                     "color":  "von Fuchsia-400 bis Rosa-600"
+                                                 },
+                                                 {
+                                                     "day":  "Woche 2-3",
+                                                     "title":  "Firmenbankkonto erí¶ffnet",
+                                                     "description":  "Wir helfen Ihnen bei der Erí¶ffnung Ihres Firmenbankkontos bei führenden Banken in den VAE.",
+                                                     "color":  "von Indigo-400 bis Violett-600"
+                                                 }
+                                             ],
+                                "comparisonTitle":  "IFZA gegen Rakez gegen Meydan",
+                                "comparisonSubtitle":  "Vergleich der kostenlosen Zonen",
+                                "comparisonHeaders":  {
+                                                          "factor":  "Faktor",
+                                                          "ifza":  "IFZA",
+                                                          "rakez":  "Rakez",
+                                                          "meydan":  "Meydan"
+                                                      },
+                                "comparison":  [
+                                                   {
+                                                       "factor":  "Startkosten",
+                                                       "ifza":  "11.500 AED",
+                                                       "rakez":  "6.000 AED",
+                                                       "meydan":  "5.750 AED"
+                                                   },
+                                                   {
+                                                       "factor":  "Visaquote",
+                                                       "ifza":  "Bis zu 15",
+                                                       "rakez":  "Bis zu 10",
+                                                       "meydan":  "Bis zu 6"
+                                                   },
+                                                   {
+                                                       "factor":  "Verarbeitungsgeschwindigkeit",
+                                                       "ifza":  "3 Werktage",
+                                                       "rakez":  "1-3 Tage",
+                                                       "meydan":  "1-2 Tage"
+                                                   },
+                                                   {
+                                                       "factor":  "Standort",
+                                                       "ifza":  "Dubai Silicon Oase",
+                                                       "rakez":  "Ras Al Khaimah",
+                                                       "meydan":  "Dubai (Meydan)"
+                                                   },
+                                                   {
+                                                       "factor":  "Bankenfreundlichkeit",
+                                                       "ifza":  "Exzellent",
+                                                       "rakez":  "Gut",
+                                                       "meydan":  "Gut"
+                                                   }
+                                               ],
+                                "verdictLabel":  "Urteil:",
+                                "verdictText":  "IFZA ist der ideale Anbieter für Handelsunternehmen, die Skaleneffekte bení¶tigen; Rakez und Meydan sind die reinen Kostenkí¶nige."
+                            },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die IFZA-Freizone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie sich kostenlos von unseren IFZA-Spezialisten beraten.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zur IFZA-Freizone."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Was ist IFZA und warum eignet es sich perfekt für Unternehmensgründungen in Dubai?",
+                                          "a":  "Die IFZA zí¤hlt zu den führenden Freihandelszonen in Dubai und ist bekannt für ihre günstigen Konditionen, 100% auslí¤ndische Beteiligung und flexible Lizenzvergabe. Keine Kí¶rperschaft- oder Einkommensteuer "“ ideal für internationale Unternehmer, KMU und Startups."
+                                      },
+                                      {
+                                          "q":  "Wie schnell geht die Unternehmensgründung in IFZA?",
+                                          "a":  "In der Regel dauert es 2-3 Werktage mit professioneller Unterstützung. Bei Bedarf kí¶nnen wir den Prozess beschleunigen."
+                                      },
+                                      {
+                                          "q":  "Welche Lizenzen kann ich mit IFZA erwerben?",
+                                          "a":  "Lizenzen für Gewerbe, freiberufliche Tí¤tigkeiten, industrielle Anwendungen, Offshore-Aktivití¤ten, Tourismus und Metaverse/Virtuelle Assets."
+                                      },
+                                      {
+                                          "q":  "Kann ich mein Unternehmen mit IFZA aus der Ferne führen?",
+                                          "a":  "Ja. Das digitale Portal von IFZA ermí¶glicht eine zu 99 % online erfolgende Einrichtung und Verwaltung "“ perfekt für Gründer, die remote arbeiten."
+                                      },
+                                      {
+                                          "q":  "Lí¤sst die IFZA 100% auslí¤ndisches Eigentum zu?",
+                                          "a":  "Ja. Vollstí¤ndige auslí¤ndische Eigentümerschaft mit 100%iger Rückführung von Gewinnen und Kapital "“ kein lokaler Sponsor erforderlich."
+                                      },
+                                      {
+                                          "q":  "Gibt es in der IFZA eine Kí¶rperschaftsteuer oder eine Einkommensteuer?",
+                                          "a":  "Nr. 0 % Kí¶rperschaftsteuer und 0 % Einkommensteuer "“ die günstigste Steuerklasse in den VAE."
+                                      },
+                                      {
+                                          "q":  "Welche Büroflí¤chenoptionen bietet IFZA an?",
+                                          "a":  "Flexi Desk, Smart Offices, Dedicated Office Spaces und Property Services in Dubai Silicon Oasis."
+                                      },
+                                      {
+                                          "q":  "Kí¶nnen Sie mir helfen, ein Bankkonto für meine IFZA-Firma zu erí¶ffnen?",
+                                          "a":  "Ja. Wir arbeiten mit führenden Banken in den VAE zusammen, um Ihr Firmenkonto mit minimalem Dokumentationsaufwand einzurichten."
+                                      },
+                                      {
+                                          "q":  "Welche Unterstützung bei der Einhaltung von Vorschriften bietet die IFZA an?",
+                                          "a":  "UBO-Compliance, ESR-Compliance, AML-Compliance, Mehrwertsteuerberatung, Lizenzverlí¤ngerung und PRO-Dienstleistungen."
+                                      },
+                                      {
+                                          "q":  "Wie hoch sind die Einrichtungskosten für IFZA?",
+                                          "a":  "Lizenz ab 11.500 AED + Flexi-Desk 7.500-9.000 AED + Visum 4.500-6.500 AED. Typische Gesamtkosten im ersten Jahr: 24.000-35.000 AED."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienstleistungen, die gut zu Ihrer Freizonenkonfiguration passen.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Erí¶ffnung eines Bankkontos",
+                                                     "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE mit umfassender KYC-Unterstützung.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "von Violett-400 bis Lila-600"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Compliance-Dienstleistungen",
+                                                     "description":  "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "von Cyan-400 bis Blau-600"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Goldenes Visum",
+                                                     "description":  "10-jí¤hrige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Bernstein-400 bis Gelb-500"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Starten Sie noch heute!",
+                     "title":  "Bereit für den Start in der IFZA?",
+                     "titleHighlight":  "IFZA?",
+                     "subtitle":  "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess "“ von der Auswahl der Tí¤tigkeit bis zur Lizenzerteilung und Kontoerí¶ffnung.",
+                     "chips":  [
+                                   "Kostenlose Beratung",
+                                   "Mehr als 20.000 Kunden",
+                                   "2-3 Tage Aufbauzeit"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Beratung zur Einrichtung von IFZA.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über die Einrichtung von IFZA sprechen."
+                 }
+}

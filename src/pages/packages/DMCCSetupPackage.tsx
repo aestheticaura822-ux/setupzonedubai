@@ -20,7 +20,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dmccPackageData from '../../content/packages/dmcc-setup-package.json';
 import WhatsAppIcon from '../../components/components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, Target, Crown, Store: StoreIcon, UserCheck,
@@ -35,7 +36,9 @@ const iconMap: any = {
 };
 
 export default function DMCCSetupPackage({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || dmccPackageData;
+  const { language } = useLanguage();
+  const dmccFallback = loadContent('packages/dmcc-setup-package', language);
+  const data = tinaData?.data?.packages || dmccFallback;
 
   return (
     <div className="min-h-screen bg-white">

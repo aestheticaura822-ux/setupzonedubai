@@ -1,0 +1,215 @@
+{
+  "areaName": "Marina de Dubaï",
+  "areaShort": "Marina",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Aire de service",
+  "heroTitle": "Création d'entreprise à Dubai Marina",
+  "heroTitleHighlight": "Marina de Dubaï",
+  "heroSubtitle": "Dubai Marina est l'une des adresses commerciales les plus prisées de la ville : un quartier riverain composé de tours, de restaurants et de professionnels, situé à quelques minutes du complexe Jumeirah Lakes Towers (JLT) du DMCC et de Dubai Media City.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Plus de 300",
+      "label": "Création d'entreprises",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Possession",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "9 500 AED",
+      "label": "À partir de",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "Pourquoi les entreprises choisissent Dubai Marina",
+    "title": "Une adresse commerciale en bord de mer",
+    "titleHighlight": "Adresse commerciale",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&q=80",
+    "imageBadgeTitle": "Emplacement",
+    "imageBadgeText": "Marina de Dubaï, Dubaï",
+    "paragraph": "Les entreprises qui s'installent dans la Marina choisissent généralement une licence de zone franche auprès des autorités JLT voisines, une licence DED du continent ou l'un des quartiers d'affaires de la ville — chacun ayant des coûts et des autorisations différents.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Adresse postale principale",
+        "desc": "Une adresse dans la tour Marina est un gage de prestige pour les clients et les banques."
+      },
+      {
+        "icon": "Users",
+        "title": "Communauté des PME à croissance rapide",
+        "desc": "Des sociétés de conseil, d'immobilier, de marketing et de commerce se regroupent ici."
+      },
+      {
+        "icon": "Zap",
+        "title": "Excellent Transport",
+        "desc": "La route Sheikh Zayed, le métro (stations JLT/Sobha Realty) et le port de Dubaï sont à proximité."
+      },
+      {
+        "icon": "Landmark",
+        "title": "Mode de vie piétonnier",
+        "desc": "Réunions clients, espaces de coworking et options résidentielles à quelques minutes"
+      }
+    ]
+  },
+  "jurisdictionsSection": {
+    "badge": "Meilleures juridictions",
+    "title": "Meilleures juridictions pour une entreprise de marina",
+    "titleHighlight": "Marina Business",
+    "subtitle": "Choisissez le type de licence adapté à vos objectifs commerciaux.",
+    "items": [
+      {
+        "icon": "Globe",
+        "name": "Zone franche DMCC (JLT)",
+        "bestFor": "Entreprises commerciales, de matières premières et internationales",
+        "cost": "à partir de 9 500 AED",
+        "notes": "À deux minutes de la marina ; infrastructure commerciale de classe mondiale.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Layers",
+        "name": "Dubaï Multi Commodities autres zones",
+        "bestFor": "entreprises des médias, de la technologie et de la création",
+        "cost": "à partir de 9 000 AED",
+        "notes": "Située à proximité de la marina, sur la même portion de la route Sheikh Zayed.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Landmark",
+        "name": "Continent (DED)",
+        "bestFor": "Commerce de détail, restaurants, salles de sport et commerce local",
+        "cost": "à partir de 14 500 AED",
+        "notes": "Nécessite un siège social enregistré (Ejari) et permet de commercer partout aux Émirats arabes unis.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "costGuideSection": {
+    "badge": "Guide des coûts 2026",
+    "title": "Coûts typiques d'installation d'une marina",
+    "titleHighlight": "Frais d'installation",
+    "paragraph1": "Une licence de zone franche pour une entreprise de services basée à Marina coûte généralement entre 9 000 et 15 000 AED, incluant la licence commerciale, les frais d’activité et un bureau flexible.",
+    "paragraph2": "L'ajout d'un visa de résidence augmente le total d'environ 5 000 à 8 000 AED (visa, carte d'identité des Émirats, examen médical et saisie de données).",
+    "note": "Les coûts sur le continent sont plus élevés au départ en raison du bail de bureau obligatoire."
+  },
+  "processSection": {
+    "badge": "Processus",
+    "title": "Étapes pour s'inscrire dans la zone de la marina",
+    "titleHighlight": "Zone de la marina",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Choisissez votre activité",
+        "desc": "Vérifiez qu'elle correspond à une licence de zone franche ou de zone continentale.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "num": "02",
+        "title": "Réserver un nom commercial",
+        "desc": "Vérifiez la disponibilité auprès des autorités compétentes.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "num": "03",
+        "title": "Préparer les documents",
+        "desc": "Copies de votre passeport et, pour le continent, votre contrat de location.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "num": "04",
+        "title": "Soumettre une candidature",
+        "desc": "Les zones franches approuvent en 3 à 7 jours, le reste du territoire en 2 à 4 semaines.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "num": "05",
+        "title": "Permis de collecte",
+        "desc": "Faites une demande de visa et ouvrez un compte bancaire professionnel.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "FAQ sur la région",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "q": "Puis-je utiliser une adresse résidentielle de Marina comme adresse commerciale ?",
+        "a": "Les zones franches exigent une adresse enregistrée propre (généralement un espace de travail flexible ou un bureau). Un appartement résidentiel ne peut pas servir d'adresse commerciale autorisée."
+      },
+      {
+        "q": "Dubai Marina se trouve-t-elle en zone franche ?",
+        "a": "Non, la Marina elle-même se trouve sur le continent de Dubaï. Les entreprises utilisent les zones franches environnantes (DMCC JLT, Media City) ou une licence DED du continent."
+      },
+      {
+        "q": "Quel est le moyen le plus rapide d'obtenir une licence commerciale pour une marina ?",
+        "a": "Une licence de zone franche DMCC peut être délivrée en une semaine une fois les documents complets."
+      },
+      {
+        "q": "Dois-je me rendre à Dubaï pour constituer ma société ?",
+        "a": "Non – la plupart des zones franches autorisent la création d'un établissement à distance avec traitement électronique des documents et un représentant sur place."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Réponses rapides",
+    "title": "Réponses rapides",
+    "titleHighlight": "Réponses",
+    "subtitle": "Questions fréquentes sur la création d'entreprise à Dubaï. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "relatedServicesTitle": "Services et guides associés",
+    "items": [
+      {
+        "q": "Combien coûte la création d'une entreprise à Dubaï ?",
+        "a": "La création d'une entreprise à Dubaï débute à 9 500 AED pour une licence de base en zone franche. Sur le continent, les frais commencent à 14 500 AED."
+      },
+      {
+        "q": "Un étranger peut-il posséder à 100 % une entreprise à Dubaï ?",
+        "a": "Oui, les étrangers peuvent posséder à 100 % des entreprises dans la plupart des zones franches et pour de nombreuses activités sur le continent."
+      },
+      {
+        "q": "Quelle est la zone franche la moins chère de Dubaï ?",
+        "a": "RAK ICC, Ajman FTZ et SRTIP proposent les forfaits les plus abordables à partir de 5 900 AED."
+      },
+      {
+        "q": "Combien de temps dure l'enregistrement d'une entreprise à Dubaï ?",
+        "a": "L'enregistrement en zone franche prend de 3 à 7 jours ouvrables. Sur le continent, cela prend de 2 à 4 semaines."
+      },
+      {
+        "q": "Ai-je besoin d'un partenaire local à Dubaï ?",
+        "a": "Pas dans les zones franches. Sur le territoire continental, de nombreuses activités autorisent désormais la détention à 100 % par des étrangers."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "FileText",
+        "title": "Liste de contrôle pour l'enregistrement d'une société à Dubaï",
+        "desc": "Guide PDF téléchargeable gratuitement",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "#"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Prêt à commencer ?",
+    "title": "Prêt à lancer votre entreprise à Dubai Marina ?",
+    "titleHighlight": "Marina de Dubaï",
+    "subtitle": "Contactez dès aujourd'hui notre équipe d'experts en création d'entreprise pour une consultation gratuite. Nous vous accompagnerons à chaque étape du processus de création de votre société.",
+    "primaryCta": "Contactez-nous dès maintenant",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! Je souhaite installer mon entreprise à Dubai Marina."
+  }
+}

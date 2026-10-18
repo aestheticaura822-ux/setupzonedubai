@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import d3Data from '../../content/freezones/d3-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function D3({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || d3Data;
+  const { language } = useLanguage();
+  const d3Fallback = loadContent('freezones/d3-free-zone', language);
+  const data = tinaData?.data?.freeZones || d3Fallback;
 
   const {
     hero,

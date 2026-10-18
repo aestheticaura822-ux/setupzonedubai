@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import kizadData from '../../content/freezones/kizad-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Award, FileText,
@@ -24,7 +25,9 @@ const iconMap: any = {
 };
 
 export default function KIZAD({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || kizadData;
+  const { language } = useLanguage();
+  const kizadFallback = loadContent('freezones/kizad-free-zone', language);
+  const data = tinaData?.data?.freeZones || kizadFallback;
 
   return (
     <div className="min-h-screen bg-white">

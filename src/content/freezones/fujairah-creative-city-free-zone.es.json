@@ -1,0 +1,440 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600&q=80",
+  "heroBadge": "Las ideas florecen en Fujairah.",
+  "heroTitle": "Zona Franca de la Ciudad Creativa de Fujairah",
+  "heroTitleHighlight": "Zona Franca",
+  "heroSubtitle": "Una de las zonas francas más accesibles de los EAU para profesionales de los medios, emprendedores digitales y startups de servicios. Sin auditoría, sin capital desembolsado, sin necesidad de oficina.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "0% de impuestos",
+    "No se requiere oficina"
+  ],
+  "heroCard": {
+    "headerTitle": "Pasaporte creativo",
+    "headerStatus": "FCC",
+    "icon": "Palette",
+    "zoneLabel": "Zona",
+    "zoneValue": "Ciudad Creativa de Fujairah",
+    "statusBadge": "Activo",
+    "setupTimeLabel": "Tiempo de configuración",
+    "setupTimeValue": "3-7 días",
+    "taxLabel": "Tasa impositiva",
+    "taxValue": "0%",
+    "footerText": "Lanza ahora"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Configuración de días",
+      "color": "from-amber-400 to-yellow-500"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad extranjera",
+      "color": "from-yellow-400 to-amber-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Tasa impositiva",
+      "color": "from-orange-400 to-amber-600"
+    },
+    {
+      "icon": "Users",
+      "value": "No hay oficina",
+      "label": "Requerido",
+      "color": "from-amber-500 to-orange-500"
+    }
+  ],
+  "startSection": {
+    "badge": "Inicia tu negocio",
+    "title": "Lanzamiento en Fujairah Creative City",
+    "titleHighlight": "Ciudad Creativa de Fujairah",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+    "imageBadgeTitle": "Perfecto para",
+    "imageBadgeText": "Profesionales independientes y empresas emergentes",
+    "paragraphs": [
+      "Instalarse en la Zona Franca de Fujairah Creative City ofrece a los emprendedores y empresas la plataforma perfecta para establecerse en una de las zonas francas más asequibles y versátiles de los Emiratos írabes Unidos.",
+      "Diseñada para dar soporte a los sectores de medios de comunicación, creatividad, consultoría y servicios profesionales, Creative City se ha convertido rápidamente en un destino preferido para autónomos, empresas emergentes y compañías que buscan flexibilidad sin grandes gastos generales.",
+      "Tanto si eres un profesional independiente que busca una licencia económica, un consultor, una empresa de medios o producción, o un emprendedor digital, Creative City te ofrece una forma sencilla y asequible de establecer tu presencia."
+    ],
+    "highlights": [
+      "No se requiere oficina",
+      "Opciones de visado flexibles",
+      "Económico",
+      "Cumple totalmente"
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Actividades de negocio",
+    "title": "¿Qué actividades comerciales están permitidas en la FCC?",
+    "titleHighlight": "¿Permitido por la FCC?",
+    "subtitle": "Una amplia variedad de actividades creativas, profesionales, educativas y tecnológicas.",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "Producción de cine y televisión",
+        "description": "Empresa de medios para filmación, edición, transmisión y postproducción. La licencia de la FCC protege a los estudios, creadores de animación y productores de cortometrajes.",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-500"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Edición y periodismo",
+        "description": "Plataformas de noticias en línea, redactores de contenido, editores de revistas y periodistas de investigación, ya sean en línea, impresos o multimedia.",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80",
+        "color": "from-orange-500 to-amber-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Diseño gráfico y servicios creativos",
+        "description": "Diseño de logotipos, creación de marcas para campañas publicitarias, publicidad digital, gráficos en movimiento, diseño de empaques y desarrollo de interfaz de usuario/experiencia de usuario (UI/UX).",
+        "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200&q=80",
+        "color": "from-yellow-500 to-amber-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Desarrollo de aplicaciones web y móviles",
+        "description": "Sitios web personalizados, plataformas SaaS, aplicaciones web y móviles, y portales de comercio electrónico bajo una licencia de servicios tecnológicos.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Gestión, Marketing y Consultoría",
+        "description": "Planificación estratégica, desarrollo de marca, consultoría de crecimiento, marketing digital, SEO y asistencia en operaciones comerciales.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "icon": "Scale",
+        "title": "Consultoría en contabilidad, derecho y recursos humanos",
+        "description": "Informes financieros, cumplimiento normativo, pago de impuestos, contratos laborales y procesos de contratación.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Aprendizaje electrónico y formación en línea",
+        "description": "Plataformas de aprendizaje remoto: empresas de formación lingüística, desarrollo de habilidades o certificación corporativa.",
+        "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+        "color": "from-yellow-500 to-amber-500"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Creación de contenido educativo",
+        "description": "Crear, licenciar y distribuir contenido educativo: cuadernos de ejercicios, cursos, programas de estudio o textos académicos.",
+        "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80",
+        "color": "from-orange-500 to-amber-500"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Servicios de soporte para comercio electrónico",
+        "description": "Servicios de back-office: soporte para la gestión de pedidos, mantenimiento de la tienda online, catalogación de productos y diseño de la tienda online.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Trabajo freelance en medios de comunicación, tecnología o creatividad.",
+        "description": "Consultor independiente, nómada digital o empresa de servicios escalable: una vía legalmente válida y con pocas barreras para emprender.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-yellow-400 to-orange-500"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Tipos de licencia",
+    "title": "Licencias que se adaptan a ti",
+    "titleHighlight": "Encaja contigo",
+    "subtitle": "Elige con o sin paquetes de visado: avanza a tu propio ritmo.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "Licencia de autónomo",
+        "description": "Para particulares o autónomos que trabajan de forma independiente.",
+        "code": "FRL",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licencia de servicio",
+        "description": "Para consultores o profesionales: legales, informáticos, de marketing, etc.",
+        "code": "SRV",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Licencia de medios",
+        "description": "Para productores de contenido, agencias digitales o productoras de medios.",
+        "code": "MEDICINA",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Store",
+        "title": "Licencia comercial",
+        "description": "Para empresas que ofrecen varios servicios diferentes.",
+        "code": "COM",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "Users2",
+        "title": "Licencia corporativa",
+        "description": "Ideal para empresas con dos o más socios o accionistas.",
+        "code": "PCR",
+        "color": "from-yellow-500 to-amber-500"
+      }
+    ]
+  },
+  "workspacesSection": {
+    "badge": "Espacios de trabajo",
+    "title": "Infraestructura de oficina y opciones de escritorio flexible",
+    "titleHighlight": "Opciones de escritorio flexible",
+    "subtitle": "Gestiona una operación completa sin alquilar una oficina.",
+    "largeCard": {
+      "icon": "Globe",
+      "title": "Paquete sin oficina",
+      "description": "Opera legalmente como una empresa remota (no virtual), ideal para autónomos y emprendedores digitales que desean cero gastos generales y, al mismo tiempo, cumplir plenamente con la normativa.",
+      "color": "from-amber-500 via-yellow-500 to-orange-600"
+    },
+    "secondaryCards": [
+      {
+        "icon": "Monitor",
+        "title": "Escritorios flexibles",
+        "description": "Utilice los espacios de oficina compartidos según sea necesario.",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Building2",
+        "title": "Oficinas ejecutivas privadas",
+        "description": "Para unidades más grandes o basadas en equipos que necesiten un espacio exclusivo.",
+        "color": "from-yellow-400 to-amber-600"
+      }
+    ],
+    "bottomCards": [
+      {
+        "icon": "Package",
+        "title": "Almacenamiento opcional",
+        "description": "Espacio de almacenamiento bajo demanda.",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Users",
+        "title": "Salas de reuniones",
+        "description": "Instalaciones profesionales para reuniones.",
+        "color": "from-amber-500 to-orange-500"
+      },
+      {
+        "icon": "Send",
+        "title": "Acceso al apartado postal",
+        "description": "Dirección comercial profesional.",
+        "color": "from-yellow-500 to-amber-500"
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "Visados e Inmigración",
+    "title": "Servicios de visado e inmigración",
+    "titleHighlight": "Servicios",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Servicios de visado",
+    "imageBadgeText": "Soporte durante todo el ciclo de vida",
+    "paragraphs": [
+      "Ofrecemos una gama completa de servicios de visado e inmigración para que usted cumpla con la normativa y su equipo pueda trabajar legalmente. Desde solicitudes de visado de inversionista para empresarios hasta solicitudes de visado de empleador para empleados, gestionamos todo el proceso.",
+      "Desde la solicitud del documento de identidad de los Emiratos írabes Unidos, las pruebas médicas y el sellado de visados, hasta los servicios de gestión de trámites y solicitudes gubernamentales.",
+      "Implementaremos un proceso para automatizar y realizar un seguimiento de todos los requisitos, garantizando que recibas una alerta cuando debas renovar, para que nunca te pierdas una fecha importante."
+    ],
+    "features": [
+      "Visa de inversionista",
+      "Visa de empleado",
+      "Documento de identidad de los Emiratos",
+      "Servicios PRO",
+      "Pruebas médicas",
+      "Alertas de renovación"
+    ]
+  },
+  "postSetupSection": {
+    "badge": "Soporte en el que puede confiar",
+    "title": "Servicios de soporte empresarial posteriores a la puesta en marcha",
+    "titleHighlight": "Servicios de apoyo",
+    "subtitle": "Configurar tu licencia es solo el comienzo: nosotros sentamos las bases para el crecimiento a largo plazo.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Configuración de sitios web y comercio electrónico",
+        "description": "Crea una página web profesional o una tienda online.",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Layers",
+        "title": "Integración de CRM y CMS",
+        "description": "Optimice sus operaciones con plataformas personalizadas.",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Contabilidad y registro del IVA",
+        "description": "Registros financieros precisos y declaración del IVA.",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Award",
+        "title": "Perfil de empresa y marca",
+        "description": "Perfiles de empresa y kits de marca listos para inversores.",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Asistencia para cuentas bancarias",
+        "description": "Abra cuentas bancarias corporativas en los Emiratos írabes Unidos con la documentación correcta.",
+        "color": "from-yellow-500 to-amber-500"
+      },
+      {
+        "icon": "Scale",
+        "title": "Estructuración y documentos legales",
+        "description": "Acuerdos de accionistas y registro de marcas.",
+        "color": "from-orange-500 to-red-500"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Herramientas de marketing y digitales",
+        "description": "Redes sociales, SEO, cuentas publicitarias y herramientas de correo electrónico.",
+        "color": "from-amber-400 to-orange-500"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Expertos en constitución de empresas",
+    "title": "¿Por qué elegir Setup Zone Dubai?",
+    "titleHighlight": "¿Zona de instalación en Dubái?",
+    "subtitle": "Un socio de confianza para la creación de empresas, con amplia experiencia en la formación de Fujairah Creative City.",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "Aprobaciones aceleradas",
+        "description": "Tramitación rápida gracias a nuestras relaciones con TECOM."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Cumplimiento total de las normas de la FCC",
+        "description": "Cada paso se ajusta a las regulaciones de la FCC."
+      },
+      {
+        "icon": "Target",
+        "title": "Estructuración empresarial personalizada",
+        "description": "Asesoramiento adaptado a su sector y objetivos."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Paquetes transparentes de precio fijo",
+        "description": "Sin cargos ocultos: precios siempre claros."
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Soporte empresarial continuo",
+        "description": "Renovaciones, cumplimiento normativo y asistencia posterior a la configuración."
+      },
+      {
+        "icon": "Globe",
+        "title": "Asesoramiento multilingüe",
+        "description": "Experiencia como inversor global en diversos idiomas."
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre Fujairah Creative City. ¿Aún tienes preguntas? Contáctanos.",
+    "sidebarCard": {
+      "title": "¿Aún tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas de la FCC.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la Zona Franca de Fujairah Creative City."
+    },
+    "items": [
+      {
+        "q": "¿Es posible establecer un negocio FCC desde fuera de los Emiratos írabes Unidos?",
+        "a": "Sí. La FCC permite que las empresas emergentes operen de forma remota. El proceso se completa principalmente en línea o mediante un poder notarial, lo que le permite gestionar su negocio en su ausencia."
+      },
+      {
+        "q": "¿Cuántas visas puedo obtener con mi licencia de la FCC?",
+        "a": "Las cuotas de visado dependen de su paquete de licencia y del tipo de oficina. Le ayudamos a elegir la combinación adecuada."
+      },
+      {
+        "q": "¿Es esta una opción viable para los trabajadores autónomos?",
+        "a": "Por supuesto. FCC es una de las zonas francas más favorables para los autónomos, con licencias para freelancers a precios asequibles y paquetes sin necesidad de oficina."
+      },
+      {
+        "q": "¿Tengo que alquilar una oficina para obtener la licencia?",
+        "a": "No. La FCC ofrece paquetes sin oficina, por lo que puede operar legalmente de forma remota sin alquilar un espacio físico."
+      },
+      {
+        "q": "¿Puedo actualizar o cambiar mi actividad comercial más adelante?",
+        "a": "Sí. La FCC permite modificaciones y actualizaciones de la actividad. Nosotros nos encargamos del proceso."
+      },
+      {
+        "q": "¿Qué documentación necesito para registrarme?",
+        "a": "Copias del pasaporte, fotos tamaño pasaporte, nombre comercial propuesto y un correo electrónico o número de teléfono activo. Le guiamos en todo el proceso."
+      },
+      {
+        "q": "¿Qué tan rápido es el proceso de configuración?",
+        "a": "Normalmente, entre 3 y 7 días hábiles con toda la documentación lista."
+      },
+      {
+        "q": "¿Es FCC adecuado para el comercio electrónico o los servicios digitales?",
+        "a": "Sí. La FCC ofrece servicios de soporte para comercio electrónico, marketing digital y empresas tecnológicas con licencias flexibles."
+      },
+      {
+        "q": "¿Puedo obtener ayuda con trámites bancarios y del IVA?",
+        "a": "Sí. Ofrecemos asistencia con la apertura de cuentas bancarias y el registro del IVA como parte de nuestro servicio de soporte posterior a la configuración."
+      },
+      {
+        "q": "¿La FCC tiene reconocimiento internacional?",
+        "a": "Sí. FCC es una zona franca respaldada por el gobierno de los EAU y reconocida a nivel mundial."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se adaptan bien a su configuración de la FCC.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos írabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa Dorada",
+        "description": "Residencia de 10 años en los Emiratos írabes Unidos para inversores y profesionales con talento.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-yellow-400 to-amber-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Marketing digital",
+        "description": "Redes sociales, publicidad de pago y estrategia de contenidos.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-orange-400 to-amber-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lanzamiento hoy",
+    "title": "¿Listo para lanzar tu proyecto en Fujairah Creative City?",
+    "titleHighlight": "¿Ciudad creativa de Fujairah?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuración, desde la obtención de la licencia hasta el lanzamiento.",
+    "chips": [
+      "Consulta gratuita",
+      "No se requiere oficina",
+      "Instalación en 3-7 días"
+    ],
+    "whatsappMessage": "¡Hola! Me gustaría una consulta gratuita para la puesta en marcha de Fujairah Creative City.",
+    "whatsappCardMessage": "¡Hola! Me gustaría hablar sobre la configuración de Fujairah Creative City."
+  }
+}

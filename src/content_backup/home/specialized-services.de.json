@@ -1,0 +1,146 @@
+{
+    "badge":  "Spezialisierte Dienstleistungen",
+    "heading":  {
+                    "line1":  "Konzentriert auf Ihre",
+                    "highlight":  "Erfolg"
+                },
+    "subtitle":  "íœber die Unternehmensgründung hinaus bieten wir Ihnen ein umfassendes Angebot an spezialisierten Dienstleistungen, damit Ihr Unternehmen in den VAE wí¤chst und alle Vorschriften einhí¤lt.",
+    "hoverHint":  "â† Bewegen Sie den Mauszeiger über die Karte, um Details anzuzeigen â†’",
+    "services":  [
+                     {
+                         "slug":  "corporate-tax-vat",
+                         "icon":  "Quittung",
+                         "title":  "Kí¶rperschaftsteuer \u0026 Mehrwertsteuer",
+                         "description":  "Expertenberatung in Steuerfragen, Umsatzsteuerregistrierung, Steuererklí¤rungen und Einhaltung der FTA-Vorschriften.",
+                         "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                         "gradient":  "von Smaragdgrün 400 bis Türkis 600",
+                         "points":  [
+                                        "Umsatzsteuerregistrierung und -anmeldung",
+                                        "Kí¶rperschaftsteuererklí¤rungen",
+                                        "FTA-Auditunterstützung",
+                                        "Steuerberatungsleistungen",
+                                        "í„nderungen und Korrekturen"
+                                    ]
+                     },
+                     {
+                         "slug":  "bank-account",
+                         "icon":  "Kreditkarte",
+                         "title":  "Erí¶ffnung eines Bankkontos",
+                         "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE bei erstklassigen Banken. Umfassende KYC-Unterstützung.",
+                         "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                         "gradient":  "von Himmel-400 bis Blau-600",
+                         "points":  [
+                                        "Konten auf dem Festland und in der Freizone",
+                                        "Vorbereitung der KYC-Datei",
+                                        "Terminvereinbarung für Bankgesprí¤che",
+                                        "Mehrwí¤hrungskonfiguration (AED/USD)",
+                                        "Verknüpfung von WPS- und Umsatzsteuerkonten"
+                                    ]
+                     },
+                     {
+                         "slug":  "accounting",
+                         "icon":  "Kalkulator",
+                         "title":  "Buchhaltung",
+                         "description":  "Buchhaltung, Lohnabrechnung, Prüfungen und Kontenabstimmung werden von Experten durchgeführt.",
+                         "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                         "gradient":  "von Violett-400 bis Lila-600",
+                         "points":  [
+                                        "Tí¤gliche Buchhaltung",
+                                        "WPS-Gehaltsabrechnung",
+                                        "Mehrwertsteuerabstimmung",
+                                        "Finanzberichte",
+                                        "Vorbereitung auf die Prüfung"
+                                    ]
+                     },
+                     {
+                         "slug":  "digital-marketing",
+                         "icon":  "Megaphon",
+                         "title":  "Digitales Marketing",
+                         "description":  "MaíŸgeschneiderte Kampagnen, Social Media und Content-Strategie, die konvertieren.",
+                         "image":  "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800\u0026q=80",
+                         "gradient":  "von rosa-400 bis rosé-600",
+                         "points":  [
+                                        "Social-Media-Management",
+                                        "Google \u0026 Meta-Anzeigen",
+                                        "Content-Strategie",
+                                        "E-Mail-Marketing",
+                                        "Analyse und Berichterstattung"
+                                    ]
+                     },
+                     {
+                         "slug":  "web-development",
+                         "icon":  "Code",
+                         "title":  "Webentwicklung",
+                         "description":  "Moderne, responsive Websites "“ von Landingpages bis hin zu kompletten E-Commerce-Lí¶sungen.",
+                         "image":  "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800\u0026q=80",
+                         "gradient":  "von Bernstein-400 bis Orange-600",
+                         "points":  [
+                                        "Individuell gestaltete Unternehmenswebseiten",
+                                        "E-Commerce-Shops",
+                                        "Landingpages mit hoher Konversionsrate",
+                                        "Mobile-responsives Design",
+                                        "Geschwindigkeitsoptimierung"
+                                    ]
+                     },
+                     {
+                         "slug":  "seo",
+                         "icon":  "Suchen",
+                         "title":  "SEO-Dienstleistungen",
+                         "description":  "Onpage- und Offpage-SEO, Keyword-Targeting und Performance-Tracking.",
+                         "image":  "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800\u0026q=80",
+                         "gradient":  "von Limette-400 bis Grün-600",
+                         "points":  [
+                                        "Keyword-Recherche",
+                                        "On-Page-Optimierung",
+                                        "Technische SEO-Prüfung",
+                                        "Hochwertiger Linkaufbau",
+                                        "Lokale Suchmaschinenoptimierung (Google Maps)"
+                                    ]
+                     },
+                     {
+                         "slug":  "compliance",
+                         "icon":  "ShieldCheck",
+                         "title":  "Compliance-Dienstleistungen",
+                         "description":  "UBO-Anmeldungen, ESR-Berichte, Lizenzverlí¤ngerungen und regulatorische Unterstützung.",
+                         "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                         "gradient":  "von Cyan-400 bis Blau-600",
+                         "points":  [
+                                        "UBO-Anmeldungen \u0026 Aktualisierungen",
+                                        "Einreichung von ESR-Berichten",
+                                        "Lizenzverlí¤ngerungen",
+                                        "Einhaltung der AML-Vorschriften",
+                                        "Einreichung der Jahresabschlüsse"
+                                    ]
+                     },
+                     {
+                         "slug":  "golden-visa",
+                         "icon":  "Krone",
+                         "title":  "Unterstützung bei der Goldenen Visa-Visa",
+                         "description":  "Erhalten Sie Ihr 10-jí¤hriges Aufenthaltsvisum für die VAE mit umfassender Unterstützung bei den Formalití¤ten.",
+                         "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                         "gradient":  "von Gelb-400 bis Bernstein-600",
+                         "points":  [
+                                        "Investoren-Golden-Visum",
+                                        "Kategorie des Immobilieneigentümers",
+                                        "Unternehmervisum",
+                                        "Visum für Fachkrí¤fte",
+                                        "Familienpatenschaft"
+                                    ]
+                     },
+                     {
+                         "slug":  "pro-services",
+                         "icon":  "DateiText",
+                         "title":  "PRO-Dienstleistungen",
+                         "description":  "Emirates ID, Arbeitskarten, Visastempelung und Firmenverlí¤ngerungen.",
+                         "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80",
+                         "gradient":  "von Indigo 400 bis Lila 600",
+                         "points":  [
+                                        "Emirates ID-Bearbeitung",
+                                        "Visastempelung \u0026 -verlí¤ngerungen",
+                                        "Arbeitskarten (MOHRE)",
+                                        "Gewerbelizenzverlí¤ngerungen",
+                                        "MOFA-Dokumentenbeglaubigung"
+                                    ]
+                     }
+                 ]
+}

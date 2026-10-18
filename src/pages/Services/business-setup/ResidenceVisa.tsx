@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import residenceVisaData from '../../../content/business-setup/residence-visa.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function ResidenceVisa({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || residenceVisaData;
+  const { language } = useLanguage();
+  const residenceVisaFallback = loadContent('business-setup/residence-visa', language);
+  const data = tinaData?.data?.businessSetup || residenceVisaFallback;
   const [activeVisa, setActiveVisa] = useState(0);
 
   const visaTypes = data.visaTypesSection.items;

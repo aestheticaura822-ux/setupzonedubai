@@ -1,0 +1,564 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "生意始于RAKEZ",
+  "heroTitle": "RAKEZ自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "阿联酋最强大的商业生态系统之一。成本效益高、灵活便捷、地理位置优越——可进入区域和全球市场。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "3-5天安装完成",
+    "超过 18,000 家公司"
+  ],
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "18,000+",
+      "label": "全球公司",
+      "color": "from-rose-400 to-red-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100+",
+      "label": "国家",
+      "color": "from-red-400 to-orange-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-orange-400 to-amber-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-amber-400 to-yellow-600"
+    }
+  ],
+  "introSection": {
+    "badge": "有利于增长的商业区",
+    "title": "开拓全球商机",
+    "titleHighlight": "全球商业机会",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "经济区",
+    "imageBadgeText": "阿联酋拉斯海玛",
+    "paragraphs": [
+      "拉斯海马经济区 (RAKEZ) 是阿联酋最强大的商业生态系统之一，为全球企业家、中小企业、制造商和初创企业提供经济高效、集中灵活的选择。",
+      "无论您是设立贸易公司、科技创业公司、咨询公司还是制造企业，RAKEZ 都能提供基础设施、许可证组合、税收优惠等，助您在阿联酋取得成功。",
+      "作为通往区域和全球市场的门户，RAKEZ 融合了世界一流自由区的强大实力和充满活力的中国大陆经济的优势。它为来自 100 多个国家的 18,000 多家企业提供支持——下一个可能就是您。"
+    ],
+    "highlights": [
+      "100% 外资所有",
+      "零税收环境",
+      "快速审批通道",
+      "全球市场准入",
+      "双许可证选项",
+      "世界一流的基础设施"
+    ]
+  },
+  "whyChooseSection": {
+    "badge": "有利于增长的商业区",
+    "title": "为什么选择 RAKEZ 自由区？",
+    "titleHighlight": "RAKEZ自由区？",
+    "subtitle": "在 RAKEZ 开展业务的六大理由。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "无需阿联酋当地担保人。完全掌控您的业务运营、利润和决策。",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "企业及个人所得税均为 0%。",
+        "description": "不征收企业所得税或个人所得税——最大限度地提高利润，最大限度地降低长期财务负债。",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "资本和利润全部汇回",
+        "description": "将利润汇回您的祖国不受任何限制——这对国际企业和外国投资者来说是一大优势。",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Package",
+        "title": "免税商务区",
+        "description": "在自由区内进行贸易，无需缴纳进出口关税——物流、电子商务、制造业和贸易的成本效益高。",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "直接联系 RAK 物流",
+        "description": "可直接通往拉斯海马海港、阿联酋高速公路和国际机场——加快进出口业务的供应链流动。",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速公司成立",
+        "description": "从许可证审批和签证办理到办公室设立——您的企业只需几天即可开始运营。",
+        "color": "from-lime-400 to-emerald-600"
+      }
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "灵活的许可协议，全球覆盖",
+    "title": "RAKEZ 提供哪些类型的许可证？",
+    "titleHighlight": "RAKEZ有售吗？",
+    "subtitle": "我们会根据您的活动，帮助您确定最合适的 RAKEZ 许可证。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "商业许可",
+        "description": "适用于一般贸易、零售和进出口业务。",
+        "code": "慢性粒细胞白血病",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "用于制造、包装和组装作业。",
+        "code": "IND",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "提供市场营销、法律、物流和专业服务。",
+        "code": "SRV",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "利用完整的电子商务功能，在线向全球销售产品。",
+        "code": "细胞外基质",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "自由职业许可证",
+        "description": "适用于创意专业人士、顾问和独立专家。",
+        "code": "FRL",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "双重许可证",
+        "description": "使用一张许可证即可在拉各斯地区和阿联酋本土开展业务。",
+        "code": "双重的",
+        "color": "from-lime-400 to-emerald-600"
+      }
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "办公及仓储设施",
+    "title": "适用于各种规模企业的可扩展基础设施",
+    "titleHighlight": "适用于各种规模的企业",
+    "subtitle": "从初创企业到大型工业公司——RAKEZ 具有灵活、经济、长期的价值。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "智能办公室",
+        "description": "为初创公司、咨询公司和小企业设计的配备齐全、即插即用的办公室。",
+        "color": "from-rose-400 to-red-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Crown",
+        "title": "行政套房",
+        "description": "位于专用商务大楼内的高标准办公室——非常适合区域总部。",
+        "color": "from-red-400 to-orange-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业用地租赁",
+        "description": "长期租赁大型工业用地，并提供完善的公用设施支持。",
+        "color": "from-orange-500 to-amber-700",
+        "size": "大的"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "仓库",
+        "description": "用于物流、配送、仓储或轻工业制造的成品单元。",
+        "color": "from-amber-400 to-yellow-600",
+        "size": "小的"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "RAK学术与创新集群",
+        "description": "为科技创业公司、研发企业和教育公司打造的独特生态系统。",
+        "color": "from-yellow-400 to-lime-600",
+        "size": "小的"
+      }
+    ]
+  },
+  "visaServicesSection": {
+    "badge": "RAKEZ签证流程简化",
+    "title": "为企业家提供的签证和移民服务",
+    "titleHighlight": "为创业者提供的服务",
+    "subtitle": "从签证盖章到签发移民卡——所有服务都涵盖在内。",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "label": "投资者签证和设立卡"
+      },
+      {
+        "icon": "Users",
+        "label": "员工就业签证"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "家庭签证管理"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "阿联酋身份证和体检"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "签证盖章"
+      },
+      {
+        "icon": "Crown",
+        "label": "阿联酋黄金签证建议"
+      },
+      {
+        "icon": "Shield",
+        "label": "全方位专业服务"
+      }
+    ]
+  },
+  "formationServicesSection": {
+    "badge": "快速、便捷的组建",
+    "title": "我们如何帮助您创办 RAKEZ 公司",
+    "titleHighlight": "创办一家 RAKEZ 公司",
+    "subtitle": "提供从业务选择到合规性的完整端到端业务设立服务。",
+    "items": [
+      {
+        "icon": "Target",
+        "label": "业务活动选择"
+      },
+      {
+        "icon": "FileText",
+        "label": "域名预留"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "label": "RAKEZ公司注册"
+      },
+      {
+        "icon": "Database",
+        "label": "文件起草与申请"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "阿联酋银行账户申请"
+      },
+      {
+        "icon": "Percent",
+        "label": "RAKEZ增值税登记"
+      },
+      {
+        "icon": "Scale",
+        "label": "公司架构"
+      },
+      {
+        "icon": "Shield",
+        "label": "每月合规性监测"
+      }
+    ]
+  },
+  "taxBenefitsSection": {
+    "badge": "RAKEZ 提供完全控制",
+    "title": "RAKEZ的税收和所有权优惠",
+    "titleHighlight": "RAKEZ 的好处",
+    "subtitle": "非常适合寻求最高利润效率的全球投资者和企业家。",
+    "items": [
+      {
+        "icon": "Percent",
+        "label": "0% 个人及企业所得税",
+        "detail": "最大利润保留"
+      },
+      {
+        "icon": "Globe",
+        "label": "完全外资所有制",
+        "detail": "无需当地赞助商"
+      },
+      {
+        "icon": "Wallet",
+        "label": "资本和利润自由汇回",
+        "detail": "无限制"
+      },
+      {
+        "icon": "Package",
+        "label": "无进出口关税",
+        "detail": "免税运营"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "无货币限制",
+        "detail": "全球交易准备就绪"
+      },
+      {
+        "icon": "Shield",
+        "label": "阿联酋税务咨询及增值税注册",
+        "detail": "全面合规支持"
+      }
+    ]
+  },
+  "digitalServicesSection": {
+    "badge": "适用范围广，安装简便。",
+    "title": "在 RAKEZ 实现业务数字化增长",
+    "titleHighlight": "RAKEZ 的数字化",
+    "subtitle": "我们为您提供数字化基础设施和营销工具，助您在市场竞争中脱颖而出。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "网站及电子商务开发",
+        "description": "为您的品牌提供专业的网站和网上商店开发服务。",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Database",
+        "title": "CRM 和 CMS 集成",
+        "description": "强大的集成功能，可优化您的业务管理。",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "RAK 的 SEO 服务",
+        "description": "占据搜索结果主导地位，提升自然流量和信誉度。",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "社交媒体营销",
+        "description": "量身定制的社交媒体、付费搜索和内容策略，以提高用户参与度。",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "品牌与标志设计",
+        "description": "打造一个能够体现您企业愿景的线上店铺。",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "产品注册与商标",
+        "description": "全力支持在阿联酋进行产品注册和商标保护。",
+        "color": "from-lime-400 to-emerald-600"
+      }
+    ],
+    "footerText": "通过迪拜创业孵化器，您不仅仅是在创办一家企业，更是在打造一个可持续发展的品牌，为成长、扩张和成功做好准备。"
+  },
+  "postLicenseSupportSection": {
+    "badge": "许可证后支持",
+    "title": "我们提供的合规服务",
+    "titleHighlight": "我们提供",
+    "subtitle": "我们确保您获得许可后，运营仍能持续进行并符合相关规定。",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "审计就绪的簿记"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "许可证续期支持"
+      },
+      {
+        "icon": "Scale",
+        "label": "法律文书起草与合规"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "支付网关集成"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "银行及KYC文件"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "签证续签及专业服务"
+      }
+    ]
+  },
+  "businessActivitiesSection": {
+    "badge": "商业活动",
+    "title": "RAKEZ允许进行哪些活动？",
+    "titleHighlight": "RAKEZ允许吗？",
+    "subtitle": "我们将您的业务目标与 RAKEZ 认可的类别相匹配。",
+    "items": [
+      {
+        "icon": "Store",
+        "label": "一般贸易、零售和批发",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "媒体、广告和创意机构",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "在线商店、市场和电子商务",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Code",
+        "label": "IT 和 SaaS 服务、云计算",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Microscope",
+        "label": "研究、教育和医疗保健",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Leaf",
+        "label": "可再生能源与先进制造",
+        "color": "from-lime-400 to-emerald-600"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "阿联酋领先的经济特区",
+    "titleHighlight": "阿联酋经济区",
+    "subtitle": "为全球企业家和国际企业快速发展的生态系统。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "18,000+",
+        "label": "全球公司",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "100+",
+        "label": "服务国家",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "经济区",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "生长",
+        "label": "商业经济",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "重要的",
+        "label": "区域影响",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "全球商业",
+        "color": "from-lime-400 to-emerald-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于 RAKEZ 自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的 RAKEZ 专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于RAKEZ自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在RAKEZ注册公司需要多长时间？",
+        "a": "通常情况下，在RAKEZ注册公司需要3-5个工作日，具体时间取决于业务活动、文件和签证要求。我们会加快流程，确保您的公司注册顺利完成。"
+      },
+      {
+        "q": "作为外国人，我可以在RAKEZ拥有公司吗？",
+        "a": "是的。RAKEZ允许100%外资控股，无需阿联酋本地担保人。您可以完全掌控您的业务运营、利润和决策。"
+      },
+      {
+        "q": "我在 RAKEZ 设立办公室需要实体店面吗？",
+        "a": "不一定。RAKEZ 提供灵活的办公选择，包括智能办公室、行政套房和共享办公空间。但是，某些许可证和签证配额可能要求员工实际到岗办公。"
+      },
+      {
+        "q": "在RAKEZ注册公司是否包含签证服务？",
+        "a": "RAKEZ许可证套餐包含签证资格审核。我们办理投资签证、工作签证、家庭签证、阿联酋身份证、体检和签证盖章——提供完整的端到端支持。"
+      },
+      {
+        "q": "我可以在阿联酋的RAKEZ公司开设银行账户吗？",
+        "a": "是的。作为我们设立服务的一部分，我们提供阿联酋企业银行账户开设的全面协助，包括KYC文件和银行联络。"
+      },
+      {
+        "q": "RAKEZ 适合电子商务和在线业务吗？",
+        "a": "当然。RAKEZ 提供专为在线商店、市场、代发货商和数字产品卖家设计的电子商务许可证，并完全支持支付网关集成。"
+      },
+      {
+        "q": "RAKEZ有税收优惠吗？",
+        "a": "是的。RAKEZ 提供 0% 的个人和企业所得税、免进出口关税、资本和利润自由汇回、无货币限制，以及包含增值税注册的阿联酋税务咨询服务。"
+      },
+      {
+        "q": "我能否通过一家注册于RAKEZ的公司，同时在自由区和阿联酋本土开展业务？",
+        "a": "是的。RAKEZ 提供双重许可证选项，将自由区优势与进入阿联酋大陆市场的机会相结合——非常适合希望最大限度拓展市场的企业。"
+      },
+      {
+        "q": "如果我在公司成立后需要帮助怎么办？",
+        "a": "我们提供全面的牌照后支持，包括符合审计要求的簿记、牌照续期、法律文件起草、支付网关集成、银行文件和签证续期，以及完整的专业服务。"
+      },
+      {
+        "q": "为什么我应该选择迪拜Setup Zone进行RAKEZ安装？",
+        "a": "我们提供端到端的支持服务——从业务活动选择和域名预留到公司注册、银行账户、增值税、合规以及数字化增长服务。我们的过往业绩证明了我们的速度、准确性和完全透明度。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务与指南",
+    "titleHighlight": "服务与指南",
+    "subtitle": "与您的 RAKEZ 设置完美搭配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-rose-400 to-red-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在RAKEZ自由区启动项目吗？",
+    "titleHighlight": "RAKEZ自由区？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "3-5天安装完成",
+      "超过 18,000 家公司"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于RAKEZ设置的免费咨询。",
+    "whatsappCardMessage": "您好！我想讨论一下 RAKEZ 的设置。"
+  }
+}

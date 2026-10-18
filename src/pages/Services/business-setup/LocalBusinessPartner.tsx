@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import localPartnerData from '../../../content/business-setup/local-business-partner.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -28,7 +29,9 @@ const iconMap: any = {
 };
 
 export default function LocalBusinessPartner({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || localPartnerData;
+  const { language } = useLanguage();
+  const localPartnerFallback = loadContent('business-setup/local-business-partner', language);
+  const data = tinaData?.data?.businessSetup || localPartnerFallback;
   const [activeType, setActiveType] = useState(0);
 
   const types = data.partnerTypesSection.items;

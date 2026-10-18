@@ -1,0 +1,379 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=80",
+    "breadcrumbParent": "自由区",
+    "breadcrumbLabel": "商业活动",
+    "badge": "找到最适合您的商业活动",
+    "title": "阿联酋自由区的商业活动",
+    "titleHighlight": "阿联酋自由区",
+    "subtitle": "探索迪拜各大自由区超过 2000 项已获批准的商业活动——涵盖电子商务、科技、物流、媒体和咨询等领域。我们助您找到最符合您愿景的商业模式。",
+    "ctaPrimaryText": "探索活动",
+    "ctaPrimaryLink": "＃活动",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我需要帮助选择在阿联酋自由区开展的合适业务活动。",
+    "badges": [
+      "2000多项活动",
+      "30多个自由区",
+      "100% 所有权",
+      "0% 税率"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Target",
+      "value": "2000+",
+      "label": "已批准的活动",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Building2",
+      "value": "30岁以上",
+      "label": "自由区",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "活动查找器",
+    "statusLabel": "居住",
+    "totalLabel": "总活动",
+    "totalValue": "2000+",
+    "statusBadge": "积极的",
+    "metrics": [
+      {
+        "label": "电子商务",
+        "value": "150+",
+        "color": "text-emerald-600"
+      },
+      {
+        "label": "科技与信息技术",
+        "value": "300+",
+        "color": "text-teal-600"
+      }
+    ]
+  },
+  "exploreSection": {
+    "badge": "探索您的选择",
+    "title": "为您的企业找到合适的活动",
+    "titleHighlight": "正确活动",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+    "imageBadgeTitle": "您的企业",
+    "imageBadgeText": "完美匹配",
+    "paragraph1": "所有企业都始于一项业务活动。阿联酋自由区提供超过2000项经批准的业务活动——每项活动都有其自身的许可要求、签证资格和发展潜力。",
+    "paragraph2": "无论您是要创办电子商务商店、软件公司、物流中心还是咨询公司——这里都有专为您设计的自由区和活动。",
+    "paragraph3": "我们的专家帮助您将您的业务目标与合适的活动、许可证类型和自由区相匹配——这样您就可以强势起步并顺利扩展。",
+    "features": [
+      "2000多项活动",
+      "30多个自由区",
+      "专家匹配",
+      "快速许可"
+    ]
+  },
+  "freeZonesSection": {
+    "badge": "顶级自由区",
+    "title": "迪拜领先的自由区",
+    "titleHighlight": "迪拜自由区",
+    "subtitle": "每个自由区都有其独特的行业和活动方向——我们帮助您选择最合适的自由区。",
+    "items": [
+      {
+        "icon": "Cpu",
+        "name": "配电系统",
+        "description": "科技、人工智能、软件和创新驱动型活动。",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "name": "迪拜商业城",
+        "description": "电子商务、物流和数字贸易活动。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Film",
+        "name": "迪拜媒体城",
+        "description": "媒体、创意和制作活动。",
+        "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+        "color": "from-violet-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Truck",
+        "name": "杰贝阿里自由区",
+        "description": "物流、制造和贸易活动。",
+        "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "commonActivitiesSection": {
+    "badge": "热门活动",
+    "title": "最常见的商业活动",
+    "titleHighlight": "商业活动",
+    "subtitle": "以下是阿联酋自由区企业家最常选择的活动。",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务",
+        "description": "在线零售、市场销售和数字店铺。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "title": "软件与IT",
+        "description": "软件开发、SaaS、应用程序和IT咨询。",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "咨询",
+        "description": "商业、管理、人力资源和IT咨询服务。",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "营销",
+        "description": "数字营销、品牌推广、广告和内容。",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "whyRightActivity": {
+    "badge": "明智选择",
+    "title": "为什么您的业务活动至关重要",
+    "titleHighlight": "活动很重要",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "法律合规",
+    "imageBadgeText": "正确的基础",
+    "paragraph1": "您的业务活动决定了您的许可证类型、签证配额、办公场所要求和纳税义务。选择错误可能会限制您的业务发展。",
+    "paragraph2": "某些业务活动需要获得特定批准，例如媒体、医疗保健、教育或金融服务。我们协助您应对合规事宜。",
+    "paragraph3": "我们还会确保您的活动列表足够灵活，能够支持未来的扩展——这样您每次发展壮大时就不需要新的许可证。",
+    "features": [
+      "许可证对齐",
+      "签证资格",
+      "合规支持",
+      "未来可扩展性"
+    ]
+  },
+  "multipleCombosSection": {
+    "badge": "多项活动",
+    "title": "一个许可证即可合并多种活动",
+    "titleHighlight": "单一许可证",
+    "subtitle": "许多自由区允许您在一张许可证下注册多个相关活动，从而节省时间和成本。",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "label": "电子商务+物流",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "label": "软件 + 咨询",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "媒体与营销",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "咨询+培训",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ],
+    "footerNote": "我们帮助您构建许可证结构，使其涵盖您现在和未来的所有收入来源。"
+  },
+  "setupStepsSection": {
+    "badge": "设置过程",
+    "title": "如何注册您的商业活动",
+    "titleHighlight": "您的业务活动",
+    "subtitle": "识别、选择和注册正确活动的简单 4 步流程。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "明确你的目标",
+        "description": "我们了解您的商业模式、目标市场和长远愿景。",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "title": "匹配活动",
+        "description": "我们将您的目标与 30 多个自由区内已批准的活动进行匹配。",
+        "icon": "Search",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "title": "选择许可证",
+        "description": "我们建议您选择合适的许可证类型——商业许可证、服务许可证、工业许可证或电子商务许可证。",
+        "icon": "FileCheck",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "title": "注册并启动",
+        "description": "我们负责注册、审批和设置——您只需几天即可开始运营。",
+        "icon": "Rocket",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "所需文件",
+    "title": "您需要注册的文件",
+    "titleHighlight": "您需要注册",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "护照复印件",
+        "description": "所有股东和管理人员的清晰护照复印件。"
+      },
+      {
+        "icon": "FileBadge",
+        "label": "护照尺寸照片",
+        "description": "用于签证和身份证的近期白底照片。"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "商业计划",
+        "description": "特定受监管活动和行业需要。"
+      },
+      {
+        "icon": "MapPin",
+        "label": "地址证明",
+        "description": "股东的公用事业账单或银行对账单。"
+      }
+    ]
+  },
+  "trendingSection": {
+    "badge": "2025年趋势",
+    "title": "2025年的热门商业活动",
+    "titleHighlight": "2025年",
+    "subtitle": "这些高增长活动正在吸引阿联酋各自由区的企业家。",
+    "items": [
+      {
+        "icon": "Bot",
+        "title": "人工智能与机器学习",
+        "description": "为全球客户构建人工智能工具、机器学习模型和智能自动化系统。",
+        "color": "from-indigo-500 via-purple-600 to-fuchsia-700"
+      },
+      {
+        "icon": "Leaf",
+        "title": "可持续发展与ESG",
+        "description": "绿色科技、可再生能源和碳中和咨询。",
+        "color": "from-emerald-500 via-teal-600 to-cyan-700"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于阿联酋自由区商业活动，您需要了解的一切信息。",
+    "items": [
+      {
+        "q": "我该如何为我的自由区公司选择合适的业务活动？",
+        "a": "我们会根据您的业务模式、收入来源和长期目标，为您匹配30多个自由区内已获批准的业务活动。我们还会审核您的许可证要求、签证资格以及未来的扩展潜力。"
+      },
+      {
+        "q": "我可以在一个许可证下注册多个活动吗？",
+        "a": "是的——许多自由区允许在同一许可证下开展多种相关活动。我们可以帮助您构建许可证结构，使其涵盖您的所有收入来源，而无需新的审批。"
+      },
+      {
+        "q": "所有自由区都允许所有商业活动吗？",
+        "a": "不。每个自由区都有其自身的获批活动清单。例如，迪拜科技园 (DSO) 侧重于科技，迪拜商业城 (Dubai CommerCity) 侧重于电子商务，而迪拜媒体城 (DMC) 侧重于媒体。我们会帮助您选择适合您业务的区域。"
+      },
+      {
+        "q": "我从事受监管活动需要特殊批准吗？",
+        "a": "是的。媒体、医疗保健、教育和金融服务等行业需要获得相关部门的额外批准。我们会为您处理所有审批流程。"
+      },
+      {
+        "q": "我以后可以更改我的业务活动吗？",
+        "a": "是的——大多数自由区都允许对经营活动进行修改和新增。我们会为您处理所有流程，确保您在发展过程中始终保持合规和灵活。"
+      },
+      {
+        "q": "注册一项商业活动需要多长时间？",
+        "a": "通常需要 3-7 个工作日，具体取决于自由区、活动类型以及是否需要监管部门的批准。"
+      },
+      {
+        "q": "注册商业活动需要哪些文件？",
+        "a": "标准文件包括护照复印件、护照尺寸照片、地址证明以及受监管业务的商业计划书。我们将指导您完成所有文件的准备工作。"
+      },
+      {
+        "q": "在自由区注册商业活动需要多少费用？",
+        "a": "费用因自由区、活动类型、许可证和签证要求而异。请联系我们获取个性化报价——我们提供透明定价，绝无任何隐藏费用。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的业务活动设置完美契合的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "开始使用",
+    "title": "准备好注册您的商业活动了吗？",
+    "titleHighlight": "商业活动？",
+    "subtitle": "获取免费咨询。我们将帮助您选择合适的活动、许可证和自由区——然后为您处理所有设置事宜。",
+    "primaryCta": "WhatsApp 联系我们",
+    "whatsappMessage": "您好！我想就阿联酋自由区的商业活动进行免费咨询。",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "免费咨询",
+      "30多个自由区",
+      "3-7天安装完成"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

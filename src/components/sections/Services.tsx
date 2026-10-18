@@ -12,6 +12,8 @@ import {
 } from 'lucide-react';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import servicesData from '../../content/home/services.json';
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 
 const iconMap: any = {
   Building2, Globe, Briefcase,
@@ -126,8 +128,9 @@ function ServiceCard({
 }
 
 export default function Services({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || servicesData;
-
+const { language } = useLanguage();
+const servicesFallback = loadContent('home/services', language);
+const data = tinaData?.data?.home || servicesFallback;
   return (
     <section id="services" className="relative py-14 md:py-20 bg-gradient-to-b from-white via-slate-50/40 to-white overflow-hidden">
       <div className="absolute top-0 left-1/4 w-[700px] h-[700px] rounded-full bg-brand-sky/8 blur-[150px] pointer-events-none" />

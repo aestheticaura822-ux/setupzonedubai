@@ -15,14 +15,17 @@ import {
 } from 'lucide-react';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import introData from '../../content/home/intro.json';
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 
 const iconMap: any = {
   ShieldCheck, Zap, Globe2, TrendingUp,
 };
 
 export default function Intro({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || introData;
-
+const { language } = useLanguage();
+const introFallback = loadContent('home/intro', language);
+const data = tinaData?.data?.home || introFallback;
   return (
     <section className="relative py-14 md:py-20 bg-gradient-to-b from-white via-slate-50/30 to-white overflow-hidden">
       {/* Soft mesh background */}

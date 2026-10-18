@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dafzaData from '../../content/freezones/dafza-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock, Users,
@@ -24,7 +25,9 @@ const iconMap: any = {
 };
 
 export default function DubaiAirportFreeZone({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dafzaData;
+  const { language } = useLanguage();
+  const dafzaFallback = loadContent('freezones/dafza-free-zone', language);
+  const data = tinaData?.data?.freeZones || dafzaFallback;
 
   return (
     <div className="min-h-screen bg-white">

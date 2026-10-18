@@ -1,0 +1,138 @@
+{
+  "badge": "Questions fréquentes",
+  "heading": {
+    "line1": "Ayez un",
+    "highlight": "Question?"
+  },
+  "headingLine3": "Nous avons les réponses.",
+  "description": "Tout ce que vous devez savoir sur la création d'entreprise aux Émirats arabes unis : fiscalité, visas et conformité. Vous ne trouvez pas ce que vous cherchez ? Nos experts sont à votre disposition.",
+  "searchPlaceholder": "Recherchez votre question...",
+  "contactCard": {
+    "icon": "Lightbulb",
+    "title": "Vous avez encore des questions ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite avec nos experts en affaires aux Émirats arabes unis. Nous vous répondons sous 24 heures.",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "Bonjour ! J'ai une question concernant la création d'entreprise aux Émirats arabes unis.",
+    "callText": "Appelez-nous",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "statsResponseLabel": "Réponse",
+    "statsResponseValue": "< 24 h",
+    "statsConsultLabel": "Consultation",
+    "statsConsultValue": "100% gratuit"
+  },
+  "expandAllLabel": "Développer tout",
+  "collapseAllLabel": "Tout réduire",
+  "questionSingular": "Question",
+  "questionPlural": "Questions",
+  "noResultsTitle": "Aucun résultat trouvé",
+  "noResultsSubtitle": "Essayez une autre recherche ou parcourez les catégories.",
+  "resetFiltersText": "Réinitialiser les filtres",
+  "categories": [
+    {
+      "id": "all",
+      "name": "Toutes les questions",
+      "icon": "HelpCircle",
+      "count": 12
+    },
+    {
+      "id": "business",
+      "name": "Création d'entreprise",
+      "icon": "Building2",
+      "count": 4
+    },
+    {
+      "id": "tax",
+      "name": "Taxes et TVA",
+      "icon": "Receipt",
+      "count": 3
+    },
+    {
+      "id": "visa",
+      "name": "Visa et résidence",
+      "icon": "Crown",
+      "count": 3
+    },
+    {
+      "id": "banking",
+      "name": "Bancaire",
+      "icon": "Landmark",
+      "count": 1
+    },
+    {
+      "id": "compliance",
+      "name": "Conformité",
+      "icon": "ShieldCheck",
+      "count": 1
+    }
+  ],
+  "faqs": [
+    {
+      "category": "entreprise",
+      "q": "Combien de temps faut-il pour créer une entreprise à Dubaï ?",
+      "a": "La plupart des entreprises sont entièrement enregistrées et opérationnelles sous 3 à 5 jours ouvrables en zone franche et sous 2 à 4 semaines sur le continent, selon le type de licence et les autorisations requises. Nous garantissons un processus d'installation simple et efficace, vous permettant de démarrer rapidement votre activité."
+    },
+    {
+      "category": "entreprise",
+      "q": "Quelle est la différence entre une entreprise en zone franche et une entreprise du continent ?",
+      "a": "Les sociétés en zone franche offrent une propriété à 100 %, des avantages fiscaux et sont idéales pour le commerce international et le conseil. Les sociétés établies sur le territoire continental peuvent commercer librement sur le marché des Émirats arabes unis, embaucher sans restrictions et sont particulièrement adaptées au commerce de détail local, à la construction, à la restauration et aux agences."
+    },
+    {
+      "category": "entreprise",
+      "q": "Dois-je être physiquement présent aux Émirats arabes unis pour créer mon entreprise ?",
+      "a": "Non. Vous pouvez créer votre entreprise à distance, où que vous soyez dans le monde. Nous prenons en charge l'intégralité du processus (documentation, soumission et approbations) grâce à notre plateforme numérique."
+    },
+    {
+      "category": "entreprise",
+      "q": "Un étranger peut-il posséder à 100 % une entreprise à Dubaï ?",
+      "a": "Oui. Les étrangers peuvent détenir 100 % du capital d'entreprises dans la plupart des zones franches et pour de nombreuses activités sur le territoire continental. Les Émirats arabes unis autorisent la pleine propriété étrangère dans plus de 1 000 secteurs d'activité commerciaux et industriels."
+    },
+    {
+      "category": "impôt",
+      "q": "L'impôt sur les sociétés est-il obligatoire pour les entreprises des Émirats arabes unis ?",
+      "a": "Oui. L'impôt sur les sociétés est obligatoire pour les entreprises des Émirats arabes unis dont le bénéfice net annuel dépasse 375 000 AED. Toutes les entreprises concernées doivent s'enregistrer auprès de l'Autorité fiscale fédérale (FTA) et soumettre une déclaration annuelle."
+    },
+    {
+      "category": "impôt",
+      "q": "Quand une entreprise doit-elle s'enregistrer à la TVA ?",
+      "a": "L'immatriculation à la TVA est obligatoire lorsque le chiffre d'affaires imposable dépasse 375 000 AED par an. L'immatriculation volontaire est possible au-delà de 187 500 AED. La TVA est appliquée à un taux de 5 % sur la plupart des biens et services."
+    },
+    {
+      "category": "impôt",
+      "q": "Quelles sont les sanctions prévues en cas de mauvaise comptabilité à Dubaï ?",
+      "a": "Les amendes varient de 1 000 AED à plus de 50 000 AED selon la gravité de l'infraction. Le non-respect répété de la réglementation peut entraîner la suspension du permis. Nous garantissons le respect intégral de la réglementation afin d'éviter les sanctions."
+    },
+    {
+      "category": "Visa",
+      "q": "Qu’est-ce que le Golden Visa des Émirats arabes unis et comment puis-je y prétendre ?",
+      "a": "Le Golden Visa est un permis de séjour renouvelable de 10 ans destiné aux investisseurs, aux entrepreneurs et aux talents exceptionnels. Il est accessible grâce à un investissement immobilier ou commercial d'au moins 2 millions de dirhams (AED), ou à la reconnaissance d'un talent spécialisé."
+    },
+    {
+      "category": "Visa",
+      "q": "Puis-je parrainer les membres de ma famille dans le cadre d'un visa doré ?",
+      "a": "Oui. Les titulaires d'un Golden Visa peuvent parrainer leur conjoint, leurs enfants, leurs parents et leur personnel de maison. Les membres de la famille bénéficient des mêmes avantages liés à la résidence permanente."
+    },
+    {
+      "category": "Visa",
+      "q": "Ai-je besoin d'un garant local pour faire une demande de visa de résidence aux Émirats arabes unis ?",
+      "a": "Non. Les visas de résidence aux Émirats arabes unis ne requièrent pas de parrain local pour les demandeurs de visas en zone franche, sur le continent ou pour les titulaires d'un visa doré. Vous pouvez vous parrainer vous-même par le biais de votre propre entreprise."
+    },
+    {
+      "category": "bancaire",
+      "q": "Combien de temps faut-il pour ouvrir un compte bancaire professionnel ?",
+      "a": "Le délai est généralement de 5 à 20 jours ouvrables, selon la banque, le profil de l'entreprise et la nationalité des actionnaires. Les banques en ligne comme WIO peuvent ouvrir un compte en 2 à 5 jours."
+    },
+    {
+      "category": "conformité",
+      "q": "Qu’est-ce que le dépôt UBO et est-il obligatoire ?",
+      "a": "L'établissement du statut de bénéficiaire effectif (UBO) est obligatoire pour toutes les entreprises immatriculées aux Émirats arabes unis. Ce document révèle qui contrôle ou bénéficie en dernier ressort de l'entreprise. Le non-respect de cette obligation entraîne des amendes pouvant aller jusqu'à 100 000 AED et l'annulation de la licence."
+    }
+  ],
+  "bottomCTA": {
+    "icon": "HelpCircle",
+    "title": "Vous n'avez pas trouvé votre réponse ?",
+    "subtitle": "Nos experts sont à votre disposition par simple message.",
+    "buttonText": "Demandez à un expert",
+    "whatsappMessage": "Bonjour ! J'ai une question qui ne figure pas dans votre FAQ."
+  }
+}

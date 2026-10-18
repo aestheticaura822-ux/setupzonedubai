@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import companyFormationData from '../../../content/business-setup/company-formation.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp, Phone,
   MessageCircle, HomeIcon, Clock, Users, Award, DollarSign, Zap, Target,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function CompanyFormation({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || companyFormationData;
+  const { language } = useLanguage();
+  const companyFormationFallback = loadContent('business-setup/company-formation', language);
+  const data = tinaData?.data?.businessSetup || companyFormationFallback;
   const [activeJurisdiction, setActiveJurisdiction] = useState(0);
 
   const jurisdictions = data.jurisdictionsSection.items;

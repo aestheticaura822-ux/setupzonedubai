@@ -18,7 +18,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import companyNameData from '../../../content/business-setup/company-name-registration.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Type, Clock, Shield, BadgeCheck, CheckCircle2, Building2, Globe, Layers,
   XCircle, Sparkles, Search, ShieldCheck, FileSignature, ScrollText,
@@ -29,7 +30,9 @@ const iconMap: any = {
 };
 
 export default function CompanyNameRegistration({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || companyNameData;
+  const { language } = useLanguage();
+  const nameRegFallback = loadContent('business-setup/company-name-registration', language);
+  const data = tinaData?.data?.businessSetup || nameRegFallback;
   const [activeTab, setActiveTab] = useState<'allowed' | 'prohibited'>('allowed');
 
   const rules =

@@ -1,0 +1,217 @@
+{
+  "slug": "ajman-free-zone",
+  "hero": {
+    "badge": "Smart Zone for Smart Businesses",
+    "title": "Ajman Free Zone",
+    "titleHighlight": "Free Zone",
+    "subtitle": "One of the cheapest and best-located Free Zones in the UAE — only 30 minutes from Sharjah International Airport and next to Ajman Port. Ideal for trade, logistics, and startups.",
+    "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+    "breadcrumbParent": "Free Zones",
+    "breadcrumbLabel": "Ajman Free Zone",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Ajman Free Zone setup.",
+    "badges": ["100% Ownership", "0% Tax", "2-3 Days Setup"]
+  },
+
+  "stats": [
+    { "icon": "Clock", "value": "2-3", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "Target", "value": "9,000+", "label": "Companies", "color": "from-cyan-400 to-sky-600" }
+  ],
+
+  "dashboardCard": {
+    "title": "AFZ Coastal",
+    "statusLabel": "Live",
+    "zoneLabel": "Zone",
+    "zoneValue": "Ajman, UAE",
+    "statusBadge": "Active",
+    "metrics": [
+      { "label": "Setup Time", "value": "2-3 Days", "color": "text-sky-600" },
+      { "label": "Companies", "value": "9K+", "color": "text-blue-600" }
+    ]
+  },
+
+  "growBusiness": {
+    "badge": "Grow Your Business",
+    "title": "One of the UAE's Most Affordable Free Zones",
+    "titleHighlight": "Affordable Free Zones",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200&q=80",
+    "imageBadgeTitle": "Prime Location",
+    "imageBadgeText": "Near Ajman Port",
+    "paragraph1": "Setting up in Ajman Free Zone (AFZ) provides entrepreneurs, SMEs, and global investors with one of the UAE's most affordable and business-friendly environments. Strategically located near Ajman Port and within easy reach of Dubai and Sharjah.",
+    "paragraph2": "AFZ is especially attractive for start-ups, traders, service providers, e-commerce entrepreneurs, and small manufacturers looking for a cost-effective setup.",
+    "paragraph3": "At Setup Zone Dubai, we make setting up in Ajman Free Zone simple and hassle-free. From choosing the right license to handling visas, approvals, and compliance — we tailor solutions to match your budget and needs.",
+    "features": [
+      "Cost-Effective Setup",
+      "Flexible Office Solutions",
+      "Logistics Support",
+      "Wide Range of Packages"
+    ]
+  },
+
+  "licenseTypes": {
+    "badge": "License Types",
+    "title": "Your Guide to Business License Categories",
+    "titleHighlight": "Business License Categories",
+    "subtitle": "AFZA offers a variety of licenses tailored to different business needs.",
+    "items": [
+      { "icon": "Store", "title": "Trading License", "description": "For import/export, general trading, and wholesaling.", "code": "TRD", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Briefcase", "title": "Service License", "description": "For professional, consultancy, and IT services.", "code": "SRV", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Factory", "title": "Industrial License", "description": "For manufacturers, assembly units, and production lines.", "code": "IND", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "UserCheck", "title": "Freelancer Permit", "description": "For individuals in digital media, content, and tech.", "code": "FRL", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Globe", "title": "Ajman Offshore License", "description": "For international business without a UAE office.", "code": "OFF", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Package", "title": "Company Formation Packages", "description": "Bundled deals for SMEs and entrepreneurs.", "code": "PKG", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "whoShouldConsider": {
+    "badge": "Who It's For",
+    "title": "Who Should Consider Ajman Free Zone?",
+    "titleHighlight": "Ajman Free Zone?",
+    "subtitle": "Unmatched flexibility and global reach for these business types.",
+    "footerNote": "Whether you want an inexpensive company setup in the UAE or a fully serviced warehouse — AFZA has unmatched flexibility.",
+    "items": [
+      { "icon": "Truck", "label": "Import/Export Traders" },
+      { "icon": "Cpu", "label": "Tech Startups & Consultants" },
+      { "icon": "Warehouse", "label": "Warehousing & Supply Chain" },
+      { "icon": "Factory", "label": "Light Manufacturers & Fabricators" },
+      { "icon": "ShoppingCart", "label": "E-commerce Entrepreneurs" },
+      { "icon": "UserCheck", "label": "Freelancers & Creatives" }
+    ]
+  },
+
+  "infrastructure": {
+    "badge": "Infrastructure",
+    "title": "Infrastructure & Office Solutions",
+    "titleHighlight": "Office Solutions",
+    "subtitle": "Smart infrastructure designed for productivity and scalability.",
+    "smallItems": [
+      { "icon": "Briefcase", "title": "Serviced Smart Offices", "description": "Fully furnished offices with modern facilities — plug-and-play for startups and SMEs.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Factory", "title": "Light Industrial Units (LIUs)", "description": "Eco-efficient units for light manufacturing, assembly, and production.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Warehouse", "title": "Warehouses & Industrial Units", "description": "Cargo access and loading docks.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Users", "title": "Business Centers", "description": "Coworking spaces with reception services.", "color": "from-cyan-400 to-sky-600" }
+    ],
+    "largeItem": {
+      "icon": "FileText",
+      "title": "Customizable Leasing",
+      "description": "Flexible lease terms for offices, warehouses, and industrial units."
+    },
+    "violetCard": {
+      "icon": "Percent",
+      "title": "VAT Benefits for Export",
+      "description": "Businesses engaged in exporting and international trade within AFZ may qualify for VAT exemption — reducing global tax burdens."
+    }
+  },
+
+  "whyDifferent": {
+    "badge": "Comparing with Other Zones",
+    "title": "How Is Ajman Free Zone Different?",
+    "titleHighlight": "Different?",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80",
+    "imageBadgeTitle": "Smart Portal",
+    "imageBadgeText": "24/7 Online Access",
+    "paragraph1": "Ajman Free Zone has extensive business support facilities to provide ease and efficiency. Our hassle-free Investor and Employee Visa support means businesses can acquire residency permits without unnecessary delay.",
+    "paragraph2": "Our full provision of PRO services handles all legal documents — clearance, stamping, and submission to government authorities. We also assist with annual trade license renewals.",
+    "paragraph3": "Businesses also benefit from AFZ's innovative smart e-government portal, available 24/7 — licensing, visas, and renewals can be applied online with live approval updates.",
+    "features": [
+      "Visa Support",
+      "PRO Services",
+      "Smart E-Portal 24/7",
+      "Fast Renewals",
+      "Compliance Built-In",
+      "Sustainable Growth"
+    ]
+  },
+
+  "growthStats": {
+    "badge": "Business Growth Outlook",
+    "title": "Smart Zone for Smart Businesses",
+    "titleHighlight": "Smart Businesses",
+    "subtitle": "Rapidly becoming the preferred destination for investors seeking affordable, flexible, fast company formation.",
+    "items": [
+      { "icon": "Building2", "value": "9,000+", "label": "Registered Companies", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Globe", "value": "150+", "label": "Export Countries", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "TrendingUp", "value": "Continuous", "label": "Land Development", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "DollarSign", "value": "Rising", "label": "Foreign Investment", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "BarChart3", "value": "Significant", "label": "Ajman GDP Contribution", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "For UAE Setup", "color": "from-amber-400 to-orange-600" }
+    ]
+  },
+
+  "ourServices": {
+    "badge": "Our Services",
+    "title": "What Services Do We Offer for AFZA Company Setup?",
+    "titleHighlight": "AFZA Company Setup?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "End-to-End",
+    "imageBadgeText": "Full Company Support",
+    "paragraph1": "We provide a complete, end-to-end suite of business formation services for Ajman Free Zone. From step one, we help you reserve your trade name with AFZA, ensuring it's compliant and not similar to any other registered name.",
+    "paragraph2": "Our experts handle the entire license application process — trading, service, industrial, or freelance — as quickly and accurately as possible. We also help you choose the right workspace — smart office, coworking, warehouse, or LIU — based on your budget.",
+    "paragraph3": "We offer visa services (investor, employee, family), compliance support (UBO, VAT, ESR, AML), annual renewals, and PRO services. We also offer web development, branding, and digital marketing to launch your business with a professional identity.",
+    "features": [
+      "Trade Name Reservation",
+      "License Application",
+      "Visa Services",
+      "Compliance Support",
+      "Annual Renewals & PRO",
+      "Web, Branding & Marketing"
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Ajman Free Zone. Still have questions? We're one message away.",
+    "items": [
+      { "q": "How long does it take to set up a business in the Ajman Free Zone?", "a": "Typically 2-3 working days depending on required documents, office type, and license chosen." },
+      { "q": "Can a foreigner own 100% of a company in the Ajman Free Zone?", "a": "Yes. AFZ allows 100% foreign ownership — no local sponsor required." },
+      { "q": "What types of licenses are available in the Ajman Free Zone?", "a": "Trading, Service, Industrial, Freelancer, Offshore licenses, and bundled Company Formation Packages." },
+      { "q": "Is the Ajman Free Zone a good option for e-commerce?", "a": "Absolutely. AFZ offers E-commerce licenses and supports digital business models with flexible office and warehouse solutions." },
+      { "q": "Are there tax incentives in Ajman Free Zone?", "a": "Yes. 0% personal and corporate tax, plus VAT exemption available for international trading and exporting businesses." },
+      { "q": "What types of office and/or warehouse are available?", "a": "Serviced Smart Offices, Light Industrial Units (LIUs), customizable leasing, large warehouses, and business centers." },
+      { "q": "Do I need a physical office to start a company in AFZ?", "a": "Not necessarily. Flexi-desk and coworking options are available for freelancers and remote teams." },
+      { "q": "Can I apply for residency visas through Ajman Free Zone?", "a": "Yes. AFZ provides investor visas, employee visas, and family sponsorship — with full PRO support for medicals, Emirates ID, and visa stamping." },
+      { "q": "How is Ajman Free Zone different from other UAE Free Zones?", "a": "Lower setup costs, prime location near Ajman Port, flexible leasing, 24/7 smart e-government portal, and VAT benefits for exporters." },
+      { "q": "What services does Setup Zone Dubai provide for AFZA company setup?", "a": "End-to-end services — trade name reservation, license application, office/warehouse selection, visa services, compliance (UBO, VAT, ESR, AML), annual renewals, PRO, web development, branding, and marketing." }
+    ]
+  },
+
+  "relatedServices": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your AFZ setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Ajman Free Zone?",
+    "titleHighlight": "Ajman Free Zone?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "primaryCta": "WhatsApp Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like a free consultation for Ajman Free Zone setup.",
+    "badges": ["Free Consultation", "2-3 Days Setup", "Cost-Effective"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

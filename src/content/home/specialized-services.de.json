@@ -1,0 +1,146 @@
+{
+  "badge": "Spezialisierte Dienstleistungen",
+  "heading": {
+    "line1": "Konzentriert auf Ihre",
+    "highlight": "Erfolg"
+  },
+  "subtitle": "Über die Unternehmensgründung hinaus bieten wir Ihnen ein umfassendes Angebot an spezialisierten Dienstleistungen, damit Ihr Unternehmen in den VAE wächst und alle Vorschriften einhält.",
+  "hoverHint": "← Bewegen Sie den Mauszeiger über die Karte, um Details anzuzeigen →",
+  "services": [
+    {
+      "slug": "corporate-tax-vat",
+      "icon": "Receipt",
+      "title": "Körperschaftsteuer & Mehrwertsteuer",
+      "description": "Expertenberatung in Steuerfragen, Umsatzsteuerregistrierung, Steuererklärungen und Einhaltung der FTA-Vorschriften.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+      "gradient": "from-emerald-400 to-teal-600",
+      "points": [
+        "Umsatzsteuerregistrierung und -anmeldung",
+        "Körperschaftsteuererklärungen",
+        "FTA-Auditunterstützung",
+        "Steuerberatungsleistungen",
+        "Änderungen und Korrekturen"
+      ]
+    },
+    {
+      "slug": "bank-account",
+      "icon": "CreditCard",
+      "title": "Eröffnung eines Bankkontos",
+      "description": "Eröffnen Sie Geschäftskonten in den VAE bei erstklassigen Banken. Umfassende KYC-Unterstützung.",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+      "gradient": "from-sky-400 to-blue-600",
+      "points": [
+        "Konten auf dem Festland und in der Freizone",
+        "Vorbereitung der KYC-Datei",
+        "Terminvereinbarung für Bankgespräche",
+        "Mehrwährungskonfiguration (AED/USD)",
+        "Verknüpfung von WPS- und Umsatzsteuerkonten"
+      ]
+    },
+    {
+      "slug": "accounting",
+      "icon": "Calculator",
+      "title": "Buchhaltung",
+      "description": "Buchhaltung, Lohnabrechnung, Prüfungen und Kontenabstimmung werden von Experten durchgeführt.",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+      "gradient": "from-violet-400 to-purple-600",
+      "points": [
+        "Tägliche Buchhaltung",
+        "WPS-Gehaltsabrechnung",
+        "Mehrwertsteuerabstimmung",
+        "Finanzberichte",
+        "Vorbereitung auf die Prüfung"
+      ]
+    },
+    {
+      "slug": "digital-marketing",
+      "icon": "Megaphone",
+      "title": "Digitales Marketing",
+      "description": "Maßgeschneiderte Kampagnen, Social Media und Content-Strategie, die konvertieren.",
+      "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+      "gradient": "from-pink-400 to-rose-600",
+      "points": [
+        "Social-Media-Management",
+        "Google & Meta-Anzeigen",
+        "Content-Strategie",
+        "E-Mail-Marketing",
+        "Analyse und Berichterstattung"
+      ]
+    },
+    {
+      "slug": "web-development",
+      "icon": "Code",
+      "title": "Webentwicklung",
+      "description": "Moderne, responsive Websites – von Landingpages bis hin zu kompletten E-Commerce-Lösungen.",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+      "gradient": "from-amber-400 to-orange-600",
+      "points": [
+        "Individuell gestaltete Unternehmenswebseiten",
+        "E-Commerce-Shops",
+        "Landingpages mit hoher Konversionsrate",
+        "Mobile-responsives Design",
+        "Geschwindigkeitsoptimierung"
+      ]
+    },
+    {
+      "slug": "seo",
+      "icon": "Search",
+      "title": "SEO-Dienstleistungen",
+      "description": "Onpage- und Offpage-SEO, Keyword-Targeting und Performance-Tracking.",
+      "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80",
+      "gradient": "from-lime-400 to-green-600",
+      "points": [
+        "Keyword-Recherche",
+        "On-Page-Optimierung",
+        "Technische SEO-Prüfung",
+        "Hochwertiger Linkaufbau",
+        "Lokale Suchmaschinenoptimierung (Google Maps)"
+      ]
+    },
+    {
+      "slug": "compliance",
+      "icon": "ShieldCheck",
+      "title": "Compliance-Dienstleistungen",
+      "description": "UBO-Anmeldungen, ESR-Berichte, Lizenzverlängerungen und regulatorische Unterstützung.",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+      "gradient": "from-cyan-400 to-blue-600",
+      "points": [
+        "UBO-Anmeldungen & Aktualisierungen",
+        "Einreichung von ESR-Berichten",
+        "Lizenzverlängerungen",
+        "Einhaltung der AML-Vorschriften",
+        "Einreichung der Jahresabschlüsse"
+      ]
+    },
+    {
+      "slug": "golden-visa",
+      "icon": "Crown",
+      "title": "Unterstützung bei der Goldenen Visa-Visa",
+      "description": "Erhalten Sie Ihr 10-jähriges Aufenthaltsvisum für die VAE mit umfassender Unterstützung bei den Formalitäten.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "gradient": "from-yellow-400 to-amber-600",
+      "points": [
+        "Investoren-Golden-Visum",
+        "Kategorie des Immobilieneigentümers",
+        "Unternehmervisum",
+        "Visum für Fachkräfte",
+        "Familienpatenschaft"
+      ]
+    },
+    {
+      "slug": "pro-services",
+      "icon": "FileText",
+      "title": "PRO-Dienstleistungen",
+      "description": "Emirates ID, Arbeitskarten, Visastempelung und Firmenverlängerungen.",
+      "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+      "gradient": "from-indigo-400 to-purple-600",
+      "points": [
+        "Emirates ID-Bearbeitung",
+        "Visastempelung & -verlängerungen",
+        "Arbeitskarten (MOHRE)",
+        "Gewerbelizenzverlängerungen",
+        "MOFA-Dokumentenbeglaubigung"
+      ]
+    }
+  ]
+}

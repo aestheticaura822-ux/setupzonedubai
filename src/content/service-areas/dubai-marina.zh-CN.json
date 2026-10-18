@@ -1,0 +1,215 @@
+{
+  "areaName": "迪拜码头",
+  "areaShort": "码头",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "服务区域",
+  "heroTitle": "在迪拜码头设立公司",
+  "heroTitleHighlight": "迪拜码头",
+  "heroSubtitle": "迪拜码头是该市最令人向往的商业地址之一：这是一个滨水区，高楼林立，餐厅林立，汇聚了众多专业人士，距离 DMCC 的朱美拉湖塔 (JLT) 集群和迪拜媒体城仅几分钟路程。",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "300+",
+      "label": "公司设立",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "所有权",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "9,500 迪拉姆",
+      "label": "从",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "企业为何选择迪拜码头",
+    "title": "滨水商业地址",
+    "titleHighlight": "公司地址",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&q=80",
+    "imageBadgeTitle": "地点",
+    "imageBadgeText": "迪拜码头，迪拜",
+    "paragraph": "在滨海区设立公司的企业通常会选择从附近的 JLT 当局获得自由区许可证、从大陆获得 DED 许可证，或者选择在市内某个商业区设立许可证——每种许可证的费用和许可都不同。",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "主要邮政地址",
+        "desc": "码头大厦的地址对客户和银行来说都具有声望。"
+      },
+      {
+        "icon": "Users",
+        "title": "快速发展的中小企业社区",
+        "desc": "这里聚集了咨询公司、房地产公司、营销公司和贸易公司。"
+      },
+      {
+        "icon": "Zap",
+        "title": "交通便利",
+        "desc": "谢赫扎耶德路、地铁（JLT/Sobha Realty站）和迪拜港附近"
+      },
+      {
+        "icon": "Landmark",
+        "title": "步行生活方式",
+        "desc": "客户会议、联合办公空间和住宅选择均在数分钟内即可到达。"
+      }
+    ]
+  },
+  "jurisdictionsSection": {
+    "badge": "最佳司法管辖区",
+    "title": "最适合码头经营的司法管辖区",
+    "titleHighlight": "码头商业",
+    "subtitle": "选择适合您业务目标的许可证类型。",
+    "items": [
+      {
+        "icon": "Globe",
+        "name": "DMCC自由区（JLT）",
+        "bestFor": "贸易、商品和国际公司",
+        "cost": "9500迪拉姆起",
+        "notes": "距码头仅两分钟路程；世界一流的贸易基础设施。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Layers",
+        "name": "迪拜多种商品交易所其他区域",
+        "bestFor": "媒体、科技和创意企业",
+        "cost": "起价9000迪拉姆",
+        "notes": "与码头相邻，位于谢赫扎耶德路同一条路段上。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Landmark",
+        "name": "大陆（DED）",
+        "bestFor": "零售、餐饮、健身房和本地贸易",
+        "cost": "起价 14,500 迪拉姆",
+        "notes": "需要注册办事处（Ejari），并允许在阿联酋境内任何地方进行交易。",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "costGuideSection": {
+    "badge": "2026年成本指南",
+    "title": "典型的码头建设成本",
+    "titleHighlight": "设置成本",
+    "paragraph1": "码头服务公司的自由区许可证费用通常在 9,000 至 15,000 迪拉姆之间，其中包括营业执照、活动费和灵活办公桌。",
+    "paragraph2": "加上居留签证，总费用大约会增加 5,000 至 8,000 迪拉姆（签证费、阿联酋身份证费、体检费和打字费）。",
+    "note": "由于必须租赁办公场所，内地成本起步较高。"
+  },
+  "processSection": {
+    "badge": "过程",
+    "title": "在码头区注册的步骤",
+    "titleHighlight": "滨海区",
+    "steps": [
+      {
+        "num": "01",
+        "title": "选择您的活动",
+        "desc": "确认是否符合自由区或大陆牌照的要求。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "num": "02",
+        "title": "预留商标名称",
+        "desc": "请向有关部门查询是否有空位。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "num": "03",
+        "title": "准备文件",
+        "desc": "护照复印件，以及（如居住在大陆地区）租房合同。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "num": "04",
+        "title": "提交申请",
+        "desc": "自由区审批需要 3-7 天，大陆地区审批需要 2-4 周。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "num": "05",
+        "title": "收集许可证",
+        "desc": "申请签证并开设公司银行账户。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "区域常见问题解答",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "items": [
+      {
+        "q": "我可以使用滨海区的住宅地址作为我的公司地址吗？",
+        "a": "自由区需要拥有自己的注册地址（通常是灵活办公桌或办公室）。住宅公寓不能用作注册商业地址。"
+      },
+      {
+        "q": "迪拜码头是自由区吗？",
+        "a": "不，码头本身属于迪拜市区。企业需要使用周边自由区（DMCC JLT、媒体城）或迪拜经济发展局（DED）颁发的市区营业执照。"
+      },
+      {
+        "q": "如何最快获得码头营业执照？",
+        "a": "文件齐全后，DMCC自由区许可证可在1周内颁发。"
+      },
+      {
+        "q": "我需要亲自去迪拜注册公司吗？",
+        "a": "不——大多数自由区允许远程设置电子文档处理系统，并允许在当地派驻代表。"
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "快速解答",
+    "title": "快速解答",
+    "titleHighlight": "答案",
+    "subtitle": "关于在迪拜设立公司的常见问题。还有其他疑问？欢迎随时联系我们。",
+    "relatedServicesTitle": "相关服务与指南",
+    "items": [
+      {
+        "q": "在迪拜创业需要多少成本？",
+        "a": "在迪拜设立公司，基本自由区许可证的起价为 9,500 迪拉姆。在阿联酋大陆设立公司的起价为 14,500 迪拉姆。"
+      },
+      {
+        "q": "外国人可以在迪拜拥有100%的公司所有权吗？",
+        "a": "是的，外国人可以在大多数自由区和大陆的许多行业中拥有100%的公司所有权。"
+      },
+      {
+        "q": "迪拜最便宜的自由区是哪个？",
+        "a": "RAK ICC、Ajman FTZ 和 SRTIP 提供最实惠的套餐，起价为 5,900 迪拉姆。"
+      },
+      {
+        "q": "在迪拜注册公司需要多长时间？",
+        "a": "自由贸易区注册需要3-7个工作日，大陆地区注册需要2-4周。"
+      },
+      {
+        "q": "我需要在迪拜寻找当地合作伙伴吗？",
+        "a": "自由区除外。在中国大陆，许多行业现在允许外商100%控股。"
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "FileText",
+        "title": "迪拜公司注册清单",
+        "desc": "免费下载PDF指南",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "#"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "准备开始吗？",
+    "title": "准备在迪拜码头创业了吗？",
+    "titleHighlight": "迪拜码头",
+    "subtitle": "立即联系我们专业的公司设立团队，获取免费咨询。我们将指导您完成公司注册流程的每一步。",
+    "primaryCta": "立即联系我们",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想在迪拜码头区设立我的公司。"
+  }
+}

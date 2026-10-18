@@ -18,6 +18,8 @@ import WhatsAppIcon from '../icons/WhatsAppIcon';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import footerData from '../../content/footer/footer.json';
+import { useLanguage } from '../../i18n/LanguageContext';         // ✅ ADD
+import { loadContent } from '../../lib/loadContent';
 
 const lucideIconMap: any = {
   HomeIcon, Users, Wallet, FileText, MessageCircle,
@@ -30,7 +32,9 @@ const socialIconMap: any = {
 };
 
 export default function Footer({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.footer || footerData;
+  const { language } = useLanguage();                              // ✅ ADD
+
+const data = tinaData?.data?.footer || loadContent('footer/footer', language);  // ✅ CHANGE
   const [showBackToTop, setShowBackToTop] = useState(false);
 
   useEffect(() => {

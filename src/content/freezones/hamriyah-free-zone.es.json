@@ -1,0 +1,439 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+  "heroBadge": "Lanzamiento inteligente en Hamriyah",
+  "heroTitle": "Zona Franca de Hamriyah",
+  "heroTitleHighlight": "Zona Franca",
+  "heroSubtitle": "El principal centro industrial y comercial de Sharjah. Paquetes de instalación a bajo costo, logí­stica sofisticada e infraestructura de primer nivel para startups, pymes y fabricantes.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "0% de impuestos",
+    "Instalación en 3-5 dí­as"
+  ],
+  "heroCard": {
+    "headerTitle": "HFZA Industrial",
+    "headerStatus": "Vivir",
+    "icon": "Warehouse",
+    "zoneLabel": "Zona",
+    "zoneValue": "Sharjah, Emiratos írabes Unidos",
+    "statusBadge": "Activo",
+    "setupTimeLabel": "Tiempo de configuración",
+    "setupTimeValue": "3-5 dí­as",
+    "taxLabel": "Tasa impositiva",
+    "taxValue": "0%",
+    "footerText": "Lanza ahora",
+    "color": "from-slate-500 to-indigo-600"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Configuración de dí­as",
+      "color": "from-slate-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad extranjera",
+      "color": "from-indigo-400 to-blue-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Tasa impositiva",
+      "color": "from-blue-400 to-cyan-600"
+    },
+    {
+      "icon": "Factory",
+      "value": "Industrial",
+      "label": "Centro",
+      "color": "from-slate-400 to-indigo-600"
+    }
+  ],
+  "readySection": {
+    "badge": "Listo para establecer",
+    "title": "Lanza tu negocio en el principal centro de negocios de Sharjah.",
+    "titleHighlight": "El principal centro de negocios de Sharjah",
+    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=1200&q=80",
+    "imageBadgeTitle": "Centro industrial",
+    "imageBadgeText": "La zona principal de Sharjah",
+    "paragraphs": [
+      "Ya sea que esté abriendo una planta industrial, estableciendo un centro logí­stico o iniciando un negocio en lí­nea, la Zona Franca de Hamriyah tiene todo lo que necesita. Cuenta con infraestructura de primer nivel, incentivos fiscales y una ubicación privilegiada en las rutas comerciales globales.",
+      "HFZA es famosa por su actividad manufacturera industrial, ya que ofrece almacenes listos para usar, parcelas de terreno para unidades a medida y acceso a los aeropuertos e instalaciones portuarias de Sharjah.",
+      "En Setup Zone Dubai, nos aseguramos de que su equipo de instalación pueda completar su proceso de puesta en marcha sin complicaciones. Desde licencias y visados hasta espacio de oficinas, almacenes o terrenos, nosotros nos encargamos de todo."
+    ],
+    "highlights": [
+      "Fabricación industrial",
+      "Centro logí­stico",
+      "Comercio electrónico",
+      "Rutas comerciales globales"
+    ]
+  },
+  "formationSection": {
+    "badge": "Licencias flexibles",
+    "title": "Constitución de empresas y tipos de licencias",
+    "titleHighlight": "Tipos de licencia",
+    "subtitle": "Ya sea para crear una empresa emergente o para expandir las operaciones, HFZA ofrece estructuras flexibles.",
+    "structuresTitle": "Estructuras de la empresa",
+    "structures": [
+      {
+        "icon": "UserCheck",
+        "title": "FZE (Establecimiento de Zona Franca)",
+        "description": "Para accionistas individuales que buscan la propiedad y el control totales.",
+        "code": "FZE",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "FZC (Empresa de Zona Franca)",
+        "description": "Para entre 2 y 5 accionistas con propiedad y gestión compartidas.",
+        "code": "FZC",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Rama",
+        "description": "Para extensiones de empresas locales o internacionales en HFZA.",
+        "code": "BRN",
+        "color": "from-blue-400 to-cyan-600"
+      }
+    ],
+    "licensesTitle": "Tipos de licencia",
+    "licenses": [
+      {
+        "icon": "Store",
+        "title": "Licencia comercial",
+        "description": "Compra, vende y distribuye productos a nivel local o internacional.",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licencia de servicio",
+        "description": "Para servicios profesionales y de consultorí­a.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Licencia industrial",
+        "description": "Para operaciones de fabricación o montaje, tanto ligeras como pesadas.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Licencia de comercio electrónico",
+        "description": "Ideal para tiendas online y plataformas transfronterizas.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permiso de autónomo",
+        "description": "Para consultores independientes o proveedores de servicios digitales.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "registerSection": {
+    "badge": "Cómo registrarse",
+    "title": "Registra una empresa en HFZA",
+    "titleHighlight": "en HFZA",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "imageBadgeTitle": "Portal en lí­nea",
+    "imageBadgeText": "Sencillo y con soporte",
+    "paragraphs": [
+      "La Zona Franca de Hamriyah ha simplificado la creación de empresas gracias a su portal en lí­nea y al apoyo y la orientación que ofrece a los fundadores.",
+      "Aunque el papeleo parezca sencillo, muchos emprendedores primerizos se pierden entre detalles como la estructura accionarial, las actividades de la empresa y las obligaciones con la Oficina de Registro de Empresas (PRO, por sus siglas en inglés). Aquí­ es donde les ayudamos.",
+      "Gestionamos todos los formularios, tarifas y plazos para su registro en HFZA. Además, nos comunicamos proactivamente con HFZA para que nunca sufra retrasos en el procesamiento debido a problemas de cumplimiento o documentación."
+    ],
+    "features": [
+      "Formularios y tarifas gestionados",
+      "Seguimiento de la lí­nea de tiempo",
+      "Comunicación de HFZA",
+      "Cumplimiento proactivo"
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "Opciones de instalaciones",
+    "title": "Opciones de oficinas e instalaciones: diseñadas para el crecimiento.",
+    "titleHighlight": "Diseñado para el crecimiento",
+    "subtitle": "Infraestructura flexible que crece con su negocio.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Oficinas ejecutivas",
+        "description": "Espacios totalmente equipados y listos para usar, con recepcionista, salas de reuniones, infraestructura informática y soporte administrativo.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+        "color": "from-slate-600 to-indigo-700"
+      },
+      {
+        "icon": "Monitor",
+        "title": "Escritorios flexibles",
+        "description": "Acceso a puestos de trabajo compartidos a bajo coste, con domicilio social legal en Sharjah y posibilidad de obtener un visado.",
+        "image": "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=1200&q=80",
+        "color": "from-indigo-600 to-blue-700"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "almacenes",
+        "description": "Unidades estándar o personalizables, ideales para logí­stica, almacenamiento en frí­o, montaje y distribución con acceso directo al puerto.",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80",
+        "color": "from-blue-600 to-cyan-700"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Terrenos industriales",
+        "description": "Terreno en propiedad absoluta, ideal para producción a gran escala, fábricas o desarrollo a largo plazo, con fácil acceso a los servicios píºblicos.",
+        "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=1200&q=80",
+        "color": "from-cyan-600 to-teal-700"
+      },
+      {
+        "icon": "Users2",
+        "title": "Alojamiento para trabajadores",
+        "description": "Opciones de alojamiento asequibles en el mismo lugar o en las cercaní­as, que cumplen con la normativa de los EAU, lo que permite ahorrar tiempo y costes de transporte.",
+        "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200&q=80",
+        "color": "from-violet-600 to-purple-700"
+      }
+    ],
+    "helperCard": {
+      "title": "¿Necesitas ayuda?",
+      "text": "Setup Zone Dubai gestiona todo el proceso de bíºsqueda y arrendamiento de locales. Negociamos los términos y nos aseguramos de que los acuerdos cumplan con la normativa de la HFZA."
+    }
+  },
+  "sectorsSection": {
+    "badge": "Sectores y actividades",
+    "title": "Amplia gama de funciones. Fácil instalación.",
+    "titleHighlight": "Fácil instalación.",
+    "subtitle": "HFZA presta apoyo a una amplia gama de sectores industriales.",
+    "items": [
+      {
+        "icon": "Fuel",
+        "label": "Comercio de petróleo y gas"
+      },
+      {
+        "icon": "Anchor",
+        "label": "Logí­stica y transporte marí­timo"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "Comercio electrónico y distribución"
+      },
+      {
+        "icon": "Flame",
+        "label": "Procesamiento de alimentos y almacenamiento en frí­o"
+      },
+      {
+        "icon": "Cog",
+        "label": "Trabajos metalíºrgicos y fabricación de acero"
+      },
+      {
+        "icon": "Cog",
+        "label": "Repuestos y componentes electrónicos para automóviles"
+      },
+      {
+        "icon": "Factory",
+        "label": "Fabricación avanzada"
+      },
+      {
+        "icon": "Sun",
+        "label": "Energí­a renovable"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Servicios y consultorí­a de TI"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Trabajo independiente"
+      }
+    ],
+    "footerText": "Clasificamos sus actividades comerciales segíºn la lista de reconocimiento aprobada por la HFZA para una aprobación rápida y una flexibilidad que le permita escalar segíºn sea necesario."
+  },
+  "visaSection": {
+    "badge": "Visados e Inmigración",
+    "title": "Servicios de visado e inmigración en HFZA",
+    "titleHighlight": "Servicios en HFZA",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Ciclo de vida completo",
+    "imageBadgeText": "Visa y asistencia PRO",
+    "paragraphs": [
+      "HFZA ofrece servicios de inmigración simplificados para inversionistas y empleados. Nos encargamos de todo el proceso de principio a fin.",
+      "Tanto si te encuentras en el paí­s como en el extranjero, nos aseguramos de que tu trámite de visado sea rápido, cumpla con la normativa y sea sencillo."
+    ],
+    "features": [
+      "Visados de inversor y socio",
+      "Visados de trabajo",
+      "Patrocinio familiar",
+      "Documento de identidad y reconocimientos médicos de los Emiratos írabes Unidos",
+      "Sellado de visas",
+      "Servicios PRO y renovaciones"
+    ]
+  },
+  "digitalServicesSection": {
+    "badge": "Servicios digitales",
+    "title": "Soporte digital y empresarial de HFZA",
+    "titleHighlight": "Soporte digital y empresarial",
+    "subtitle": "HFZA se destaca como una de las zonas francas más digitalizadas de los EAU, con seguimiento en tiempo real, firmas electrónicas y portales inteligentes. Mejoramos su experiencia con:",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "Kit de imagen corporativa y logotipo",
+        "description": "Identidad de marca profesional y elementos de diseño.",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "Desarrollo web y SEO",
+        "description": "Sitio web optimizado para SEO con estrategia de contenido.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Integración de CRM/ERP",
+        "description": "Integración de plataformas para optimizar las operaciones.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Registro y contabilidad del IVA",
+        "description": "Cumplimiento de la normativa fiscal y de presentación de informes de los EAU.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Configuración de marketing y presentación a inversores",
+        "description": "Materiales de marketing y presentaciones para inversores.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué trabajar con nosotros?",
+    "title": "¿Qué nos diferencia?",
+    "titleHighlight": "¿Aparte?",
+    "subtitle": "Experiencia integral en la creación de empresas en la Zona Franca de Hamriyah.",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Experiencia integral",
+        "description": "Experiencia integral en la constitución de empresas HFZA."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Registrado y financiable",
+        "description": "Una empresa registrada, visible en lí­nea, respaldada por sistemas y lista para recibir financiación."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Precios transparentes",
+        "description": "Sin cargos ocultos: costes claros y transparentes siempre."
+      },
+      {
+        "icon": "Users",
+        "title": "Asociaciones locales",
+        "description": "Sólidas relaciones con las autoridades de HFZA."
+      },
+      {
+        "icon": "Clock",
+        "title": "Soporte 24/7",
+        "description": "Disponible las 24 horas para su negocio."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Diseñado para escala",
+        "description": "Sostenible y preparada para crecer con su negocio."
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Zona Franca de Hamriyah. ¿Aíºn tienes preguntas? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "¿Aíºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas en HFZA.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la Zona Franca de Hamriyah."
+    },
+    "items": [
+      {
+        "q": "¿Cuál es el plazo tí­pico de registro para una empresa en la Zona Franca de Hamriyah?",
+        "a": "La constitución de una empresa puede completarse en 3 a 5 dí­as hábiles, siempre que toda la documentación esté en regla y su actividad comercial sea clara. Gestionamos la documentación y las aprobaciones con mayor rapidez."
+      },
+      {
+        "q": "¿Pueden los inversores extranjeros tener el 100% de la propiedad de una empresa en HFZA?",
+        "a": "Sí­. La HFZA permite la propiedad extranjera al 100%, sin necesidad de un patrocinador local."
+      },
+      {
+        "q": "¿Qué tipos de licencias están disponibles en la Zona Franca de Hamriyah?",
+        "a": "Licencias comerciales, de servicios, industriales, de comercio electrónico y permisos para autónomos, cada una adaptada a diferentes actividades empresariales."
+      },
+      {
+        "q": "¿Es la Zona Franca de Hamriyah una buena opción para las empresas industriales?",
+        "a": "Por supuesto. HFZA es famosa por su actividad manufacturera industrial, con almacenes listos para usar, parcelas a medida y acceso a los aeropuertos e instalaciones portuarias de Sharjah."
+      },
+      {
+        "q": "¿Qué hace que HFZA sea una mejor opción en comparación con otras zonas francas?",
+        "a": "Bajos costes de instalación, infraestructura logí­stica sofisticada, condiciones comerciales flexibles y ubicación privilegiada en rutas comerciales globales."
+      },
+      {
+        "q": "¿Puedo solicitar visas a través de HFZA para mí­ y mis empleados?",
+        "a": "Sí­. HFZA ofrece un proceso de inmigración simplificado para inversionistas y empleados: visas de inversionista, visas de trabajo y patrocinio familiar."
+      },
+      {
+        "q": "¿Tengo que contratar un espacio de oficina fí­sico en HFZA?",
+        "a": "No. Existen opciones de escritorio flexible, una alternativa de bajo costo con domicilio comercial legal y que permite acceder a visas."
+      },
+      {
+        "q": "¿Qué documentos se requieren para registrarse?",
+        "a": "Copias del pasaporte, fotos tamaño pasaporte, nombres comerciales propuestos y un correo electrónico o níºmero de contacto activo."
+      },
+      {
+        "q": "¿HFZA apoya los modelos de negocio en lí­nea o digitales?",
+        "a": "Sí­. HFZA ofrece soporte para el comercio electrónico, los servicios digitales y los modelos de negocio en lí­nea con la licencia correspondiente."
+      },
+      {
+        "q": "¿Me apoyarás una vez que me expidan la licencia?",
+        "a": "Sí­. Ofrecemos asistencia continua: tramitación de visados, servicios de relaciones píºblicas, renovaciones, cumplimiento normativo y crecimiento digital de negocios."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que combinan bien con tu configuración HFZA.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos írabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-slate-400 to-indigo-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa Dorada",
+        "description": "Residencia de 10 años en los Emiratos írabes Unidos para inversores y profesionales con talento.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Servicios de cumplimiento",
+        "description": "Asesoramiento en materia de UBO, ESR, AML e IVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lanzamiento hoy",
+    "title": "¿Listo para lanzar en Hamriyah?",
+    "titleHighlight": "¿Hamriyah?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuración, desde la obtención de la licencia hasta el lanzamiento.",
+    "chips": [
+      "Consulta gratuita",
+      "Instalación en 3-5 dí­as",
+      "Centro industrial"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarí­a una consulta gratuita para la configuración de la Zona Franca de Hamriyah.",
+    "whatsappCardMessage": "¡Hola! Me gustarí­a hablar sobre la configuración de Hamriyah."
+  }
+}

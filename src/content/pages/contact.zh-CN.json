@@ -1,0 +1,222 @@
+{
+  "heroBadge": "联系我们",
+  "heroTitle": "联系我们",
+  "heroTitleHighlight": "我们",
+  "heroSubtitle": "有任何疑问或需要帮助？我们的团队随时为您提供帮助——请联系我们，我们会尽快回复您。",
+  "contactCards": [
+    {
+      "icon": "Headset",
+      "title": "全天候支持",
+      "lines": [
+        "+971 56 655 6645",
+        "setupzonedubai@gmail.com"
+      ],
+      "color": "from-rose-400 to-pink-600",
+      "actions": [
+        {
+          "label": "立即致电",
+          "link": "tel:+971566556645",
+          "icon": "Phone"
+        },
+        {
+          "label": "电子邮件",
+          "link": "mailto:setupzonedubai@gmail.com",
+          "icon": "Mail"
+        }
+      ]
+    },
+    {
+      "icon": "Building2",
+      "title": "总公司 – 迪拜（总部）",
+      "lines": [
+        "水晶大厦M1层M08-27办公室",
+        "阿联酋迪拜商业湾 — 邮政信箱 554552"
+      ],
+      "color": "from-amber-400 to-orange-600",
+      "actions": [
+        {
+          "label": "称呼",
+          "link": "tel:+971566556645",
+          "icon": "Phone"
+        },
+        {
+          "label": "方向",
+          "link": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+          "icon": "MapPin"
+        }
+      ]
+    },
+    {
+      "icon": "Globe",
+      "title": "工作时间",
+      "lines": [
+        "周一至周五：上午 8 点至下午 6 点",
+        "周六：上午10点至下午5点 • 周日：休息"
+      ],
+      "color": "from-emerald-400 to-teal-600",
+      "actions": [
+        {
+          "label": "WhatsApp",
+          "link": "whatsapp",
+          "icon": "MessageCircle"
+        },
+        {
+          "label": "电子邮件",
+          "link": "mailto:setupzonedubai@gmail.com",
+          "icon": "Mail"
+        }
+      ]
+    }
+  ],
+  "trustBar": {
+    "ratingText": "评分为 4.5 分（满分 5 分）",
+    "scoreLabel": "信任度评分 4.5",
+    "awardText": "最专业的企业设立专家"
+  },
+  "formSection": {
+    "badge": "还有其他问题吗？",
+    "title": "让我们开始对话吧",
+    "titleHighlight": "对话",
+    "subtitle": "从初创企业到大型企业，迪拜各行各业都信赖创新来推动成功。",
+    "submitButton": "发送消息",
+    "secureNote": "您的信息安全可靠。",
+    "successTitle": "谢谢你！",
+    "successText": "我们已收到您的信息。我们的团队将尽快与您联系。",
+    "successWhatsappText": "在 WhatsApp 上聊天",
+    "successWhatsappMessage": "您好！我刚刚提交了联系表格。",
+    "subjects": [
+      "自由区设立",
+      "大陆设置",
+      "签证服务",
+      "银行账户",
+      "黄金签证",
+      "专业服务",
+      "一般性询问"
+    ]
+  },
+  "sidebar": {
+    "instantCard": {
+      "availableBadge": "全天候24小时服务",
+      "title": "立即联系我们",
+      "text": "请通过电话或WhatsApp联系我们的专家。",
+      "callLabel": "致电我们",
+      "callNumber": "+971 56 655 6645",
+      "callHref": "电话：+971566556645",
+      "whatsappLabel": "WhatsApp",
+      "whatsappValue": "立即回复",
+      "whatsappMessage": "您好！我想咨询一下在阿联酋设立公司的相关事宜。"
+    },
+    "officeCard": {
+      "title": "欢迎莅临我办公室",
+      "officeLabel": "迪拜——总部",
+      "addressLine1": "水晶大厦M1层M08-27办公室",
+      "addressLine2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "phone": "+971 56 655 6645",
+      "phoneHref": "tel:+971566556645",
+      "directionsHref": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "emailLabel": "给我们发邮件",
+      "email1": "setupzonedubai@gmail.com",
+      "email1Href": "mailto:setupzonedubai@gmail.com",
+      "email2": "setupzonedubai@gmail.com",
+      "email2Href": "mailto:setupzonedubai@gmail.com",
+      "hoursLabel": "工作时间",
+      "hours": [
+        {
+          "day": "周一至周五",
+          "time": "上午8点至下午6点"
+        },
+        {
+          "day": "周六",
+          "time": "上午10点至下午5点"
+        },
+        {
+          "day": "星期日",
+          "time": "关闭",
+          "closed": true
+        }
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "快速解答",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "在阿联酋开展业务之前，您需要了解的一切信息。还有疑问？欢迎随时联系我们。",
+    "relatedServicesTitle": "相关服务与指南",
+    "items": [
+      {
+        "q": "在迪拜创业需要多少成本？",
+        "a": "在迪拜设立公司，基本自由区许可证的费用起价为 9,500 迪拉姆。在阿联酋大陆设立公司，费用起价为 14,500 迪拉姆。"
+      },
+      {
+        "q": "外国人可以在迪拜拥有100%的公司所有权吗？",
+        "a": "是的，外国人可以在大多数自由区和大陆的许多行业中拥有100%的公司所有权。"
+      },
+      {
+        "q": "迪拜最便宜的自由区是哪个？",
+        "a": "RAK ICC、Ajman FTZ 和 SRTIP 提供最实惠的套餐，起价为 5,900 迪拉姆。"
+      },
+      {
+        "q": "在迪拜注册公司需要多长时间？",
+        "a": "自由贸易区注册需要3-7个工作日，大陆地区注册需要2-4周。"
+      },
+      {
+        "q": "我需要在迪拜寻找当地合作伙伴吗？",
+        "a": "自由区除外。在中国大陆，许多行业现在允许外商100%控股。"
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "FileText",
+        "title": "迪拜公司注册清单",
+        "desc": "免费下载PDF指南",
+        "color": "from-sky-400 to-blue-600",
+        "cta": "免费下载",
+        "link": "#"
+      },
+      {
+        "icon": "Gift",
+        "title": "推荐计划 – 赚取 500 迪拉姆",
+        "desc": "推荐好友即可获得奖励",
+        "color": "from-amber-400 to-orange-600",
+        "cta": "了解更多",
+        "link": "/referral"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "让我们开始吧",
+    "title": "让我们开始吧！",
+    "titleHighlight": "我们",
+    "subtitle": "更多信息及支持团队——只需一个电话，我们就能帮您解决问题。",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "您好！我想咨询一下，可以免费咨询。",
+    "chips": [
+      "超过 10,000 家公司",
+      "15年以上",
+      "100% 所有权"
+    ],
+    "cards": {
+      "call": {
+        "label": "直接致电我们",
+        "value": "+971 56 655 6645",
+        "note": "● 周一至周六：上午 9 点至下午 6 点",
+        "href": "tel:+971566556645"
+      },
+      "email": {
+        "label": "给我们发邮件",
+        "value": "setupzonedubai@gmail.com",
+        "note": "● 24小时内回复",
+        "href": "mailto:setupzonedubai@gmail.com"
+      },
+      "office": {
+        "label": "欢迎莅临我办公室",
+        "line1": "水晶大厦M1层M08-27办公室",
+        "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552"
+      }
+    }
+  },
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+}

@@ -1,0 +1,170 @@
+{
+  "badge": {
+    "text": "Trusted by 500+ businesses across UAE",
+    "showPulse": true
+  },
+  "heading": {
+    "line1": "Launch Your",
+    "line2Highlight": "Dubai Business",
+    "line3": "In Days, Not Months."
+  },
+  "subtext": "From company formation to visas, banking, and tax — we handle everything end-to-end so you can focus on growing your business in the UAE's thriving economy.",
+  "video": {
+    "src": "/videos/hero-bg.mp4",
+    "poster": "/videos/hero-bg-poster.jpg"
+  },
+  "ctaPrimary": {
+    "text": "Get Free Consultation",
+    "link": "#contact"
+  },
+  "ctaSecondary": {
+    "text": "WhatsApp Us",
+    "message": "Hi! I'd like to discuss my Dubai business setup."
+  },
+  "trustPills": [
+    "100% Ownership",
+    "0% Personal Tax",
+    "Fast Licensing"
+  ],
+  "googleBadge": {
+    "rating": "4.8",
+    "reviewsText": "(34 reviews)"
+  },
+  "floatingCards": [
+    {
+      "icon": "Building2",
+      "title": "Free Zone License",
+      "price": "AED 5,999",
+      "tag": "Most Popular",
+      "tagColor": "gold",
+      "delay": 0.8,
+      "position": { "right": "0px", "top": "20px" },
+      "z": 30
+    },
+    {
+      "icon": "Globe",
+      "title": "Mainland Setup",
+      "price": "AED 16,999",
+      "tag": "Best Value",
+      "tagColor": "sky",
+      "delay": 1.0,
+      "position": { "right": "100px", "top": "220px" },
+      "z": 20
+    },
+    {
+      "icon": "CreditCard",
+      "title": "Bank Account",
+      "price": "Fast Approval",
+      "tag": "Quick",
+      "tagColor": "violet",
+      "delay": 1.2,
+      "position": { "right": "40px", "top": "420px" },
+      "z": 10
+    }
+  ],
+  "reviewsSection": {
+    "badgeText": "Google Reviews",
+    "title": "What Our Clients Say",
+    "titleHighlight": "Clients Say",
+    "rating": "4.8",
+    "reviewsCountText": "· 34 Verified Reviews"
+  },
+  "reviews": [
+    {
+      "name": "ZeeShan Butt",
+      "initials": "ZB",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Brightlink management deserved 100/100. Muhammad Bilal Saleem & his team is amazing, and they prove with work. Golden Visa and nationality change service A 2 Z completed in less than 36 hours. Entire process was smooth and stress-free. It's really VIP service (Super Sonic Team).",
+      "color": "from-blue-500 to-blue-700"
+    },
+    {
+      "name": "Muhammad",
+      "initials": "M",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Great experience working with Brightlink Team for my Golden Visa. They were professional, responsive, and handled the entire process smoothly. Got the visa within 2 days. Highly recommended for anyone looking for fast and smooth golden visa process.",
+      "color": "from-violet-500 to-purple-700"
+    },
+    {
+      "name": "Ritik Gupta",
+      "initials": "RG",
+      "rating": 5,
+      "date": "6 months ago",
+      "text": "Hi, I got my 2 year residency visa done through Brightlink Management Consultancy and they were thoroughly professional and got it done in 4 business days — that too during Ramadan with shortened working hours. Highly recommend their VIP package!",
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "name": "Sina Behfard",
+      "initials": "SB",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "The team is working very efficiently, professionally, and transparently. They were very supportive to quickly takeover my application which had got stuck for days with another company and took care of each step with great care.",
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "name": "M J",
+      "initials": "MJ",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Excellent service with prompt response and follow-up action. Used their service for Golden Visa which took three days to process from start to finish.",
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "name": "Hakan TEKERCIOGLU",
+      "initials": "HT",
+      "rating": 5,
+      "date": "2 months ago",
+      "text": "Our family's Golden Visa application process was completed smoothly, on time, and at reasonable prices. I would definitely recommend this service to anyone who needs it.",
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "name": "Amin K",
+      "initials": "AK",
+      "rating": 5,
+      "date": "8 months ago",
+      "text": "The service provided by Brightlink was nothing but excellent! From getting details and a price quote to fulfillment of my Emirates ID in hand was a seamless and expeditious process. Thank you Mr. Bilal, Mr. Abbas and the entire team!",
+      "color": "from-fuchsia-500 to-purple-700"
+    },
+    {
+      "name": "Tausif Ahmad",
+      "initials": "TA",
+      "rating": 5,
+      "date": "3 months ago",
+      "text": "Excellent service. Very honest and helpful team. Got all paperwork done in a week with no hidden charges. Especially thanks to Mr. Abbas.",
+      "color": "from-green-500 to-emerald-700"
+    },
+    {
+      "name": "Clay Mullens",
+      "initials": "CM",
+      "rating": 5,
+      "date": "10 months ago",
+      "text": "Abbas and the Brightlink team were amazing!! From my initial contact they were extremely helpful and responded swiftly. They delivered exactly what I was after. I highly recommend them to anyone looking for fast golden visa service.",
+      "color": "from-indigo-500 to-blue-700"
+    },
+    {
+      "name": "Manaqib Ashraf",
+      "initials": "MA",
+      "rating": 5,
+      "date": "1 year ago",
+      "text": "I recently processed my family visa through Brightlink, and I couldn't be happier with the service. The entire process was handled very quickly and professionally. Now I can live with my family here in the UAE. Highly recommended!",
+      "color": "from-red-500 to-rose-700"
+    },
+    {
+      "name": "Ahmed Ullah",
+      "initials": "AU",
+      "rating": 5,
+      "date": "1 year ago",
+      "text": "Just wanted to say a big thank you for the amazing support in getting my wife's visa done — and that too in just 2 days! I really appreciate how smoothly and quickly everything was handled. Your team's professionalism is truly exceptional.",
+      "color": "from-teal-500 to-cyan-700"
+    },
+    {
+      "name": "Numan Shabbir",
+      "initials": "NS",
+      "rating": 5,
+      "date": "2 years ago",
+      "text": "Loved the whole experience. Got our visas in just 3 days. Their whole team is very experienced and provide updates at all steps. Would recommend to anyone looking to setup business in Dubai or get Golden Visas.",
+      "color": "from-yellow-500 to-amber-700"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "office-space-solutions",
+  "hero": {
+    "badge": "Office Spaces for All",
+    "title": "UAE Office Space Solutions in Dubai",
+    "titleHighlight": "Solutions in Dubai",
+    "subtitle": "Flexible, premium & affordable office spaces for every business type. From hot desks to full corporate headquarters.",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=80",
+    "breadcrumbLabel": "Office Space Solutions",
+    "breadcrumbParent": "Mainland",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Office Space Solutions in Dubai.",
+    "badges": ["500+ Options", "8+ Locations", "Flexible Terms", "Full Compliance"]
+  },
+
+  "stats": [
+    { "icon": "Building2", "value": "500+", "label": "Office Options", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "MapPin", "value": "8+", "label": "Prime Locations", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "Users", "value": "10,000+", "label": "Businesses Served", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "Clock", "value": "48hrs", "label": "Avg Setup Time", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "intro": {
+    "badge": "Why Essential",
+    "title": "Why Is Office Space Essential for Business Setup?",
+    "titleHighlight": "Essential for Business Setup?",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Establishes Presence",
+    "imageBadgeText": "& Credibility",
+    "paragraph1": "The modern business centers of Dubai and the UAE rank among the most vibrant in the world! Beyond licenses and visas, having a professional office space is the cornerstone of business presence.",
+    "paragraph2": "For most trade and professional licenses, a registered office address is legally required — and it enhances your company's credibility. When clients, investors, and authorities look at your business, a proper office reinforces your stability and professionalism.",
+    "paragraph3": "Whether it's a flexi desk, a serviced office, or a corporate HQ — the choice of office solution has a direct link to your efficiency, costs, and long-term success.",
+    "features": [
+      "Legal Requirement",
+      "Client Trust",
+      "Investor Confidence",
+      "Professional Image",
+      "Business Efficiency",
+      "Cost Optimization"
+    ]
+  },
+
+  "officeTypesSection": {
+    "badge": "Various Office Options",
+    "title": "What Types of Office Spaces Are Available?",
+    "titleHighlight": "Office Spaces",
+    "subtitle": "Swipe through 6 premium office solutions — from affordable desks to full corporate HQ.",
+    "items": [
+      {
+        "id": "flexi",
+        "icon": "Laptop",
+        "title": "Flexi Desk (Hot Desk)",
+        "short": "Affordable Shared Workspace",
+        "description": "A flexi desk is the most affordable office option in Dubai, ideal for startups, freelancers, and solo entrepreneurs. It provides a shared workstation, trade license, business address, and access to reception, common areas, and meeting rooms — without the high costs of a full office.",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": ["Shared Workstation", "Trade License Support", "Business Address", "Meeting Room Access", "Cost-Effective"],
+        "price": "Lowest Cost"
+      },
+      {
+        "id": "dedicated",
+        "icon": "Armchair",
+        "title": "Dedicated Desk",
+        "short": "Permanent Private Workspace",
+        "description": "A dedicated desk offers a permanent, private workspace in a shared office — ideal for those needing consistency and privacy. Unlike hot desks, it's your personal setup to organize as you like. Includes mail handling, utilities, and office amenities.",
+        "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": ["Permanent Desk", "Mail Handling", "Utilities Included", "Private Setup", "Office Amenities"],
+        "price": "Great Value"
+      },
+      {
+        "id": "private",
+        "icon": "DoorOpen",
+        "title": "Private Offices",
+        "short": "Enclosed Fully Furnished",
+        "description": "A private office offers SMEs and growing businesses a fully enclosed, furnished space with full privacy and control. Ideal for branding, client meetings, and professional operations with an upscale address in premium business towers.",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": ["Fully Enclosed", "Fully Furnished", "Complete Privacy", "Branding Freedom", "Upscale Address"],
+        "price": "Most Popular"
+      },
+      {
+        "id": "serviced",
+        "icon": "Crown",
+        "title": "Serviced Offices",
+        "short": "Fully Equipped Ready-to-Use",
+        "description": "Serviced offices are fully equipped, ready-to-use workspaces that cover all your business needs — from reception and high-speed internet to meeting rooms, cleaning, and utilities. Save time and setup costs while focusing on growth.",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": ["Reception Services", "High-Speed Internet", "Meeting Rooms", "Cleaning & Utilities", "Plug & Play"],
+        "price": "Premium"
+      },
+      {
+        "id": "coworking",
+        "icon": "UsersRound",
+        "title": "Coworking Areas",
+        "short": "Collaborative Modern Space",
+        "description": "Coworking areas are vibrant, modern spaces designed for collaboration, networking, and innovation. Ideal for freelancers, startups, and digital entrepreneurs, offering flexible memberships, quality infrastructure, and a creative environment.",
+        "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": ["Flexible Memberships", "Networking Access", "Creative Environment", "Modern Infrastructure", "Community Events"],
+        "price": "Flexible"
+      },
+      {
+        "id": "commercial",
+        "icon": "Building2",
+        "title": "Commercial Leased Offices",
+        "short": "Long-Term Prime Location Space",
+        "description": "Commercially leased offices are ideal for corporates and multinationals seeking long-term space in prime areas like Business Bay, DIFC, Sheikh Zayed Road, and JLT. Fully customizable with branding and layout options.",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": ["Long-Term Lease", "Full Customization", "Prime Locations", "Branding Freedom", "Regional HQ Ready"],
+        "price": "Corporate"
+      }
+    ]
+  },
+
+  "benefits": {
+    "badge": "Right Office Boosts Success",
+    "title": "Benefits of Having an Office in Dubai",
+    "titleHighlight": "Office in Dubai",
+    "subtitle": "Six powerful reasons to secure the right office space for your business.",
+    "items": [
+      { "icon": "Shield", "title": "Legal Compliance Made Simple", "description": "Every business license in Dubai requires an official registered address or Ejari. The right office keeps your company fully compliant.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Award", "title": "Professional Brand Image & Credibility", "description": "A visible office in a prestigious location builds client trust and strengthens your company image in competitive markets.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Network", "title": "Fantastic Networking Opportunity", "description": "Shared offices, coworking spaces, and business centers naturally connect you to like-minded entrepreneurs and partners.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "TrendingUp", "title": "Scalability for Growth", "description": "Start with a flexi desk, then easily upgrade to private or commercial offices as you grow your business.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Zap", "title": "Operational Efficiency & Cost Savings", "description": "Serviced offices give you ready-to-use infrastructure, reception, and utilities — saving time and costs.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "MapPin", "title": "Strategic Business Locations", "description": "Business Bay, Downtown, Dubai Marina, JLT, and Free Zones — be in the center of the UAE's booming commercial sectors.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "simplifySection": {
+    "badge": "How We Simplify",
+    "title": "How Does Setup Zone Dubai Simplify Office Setup?",
+    "titleHighlight": "Simplify Office Setup?",
+    "subtitle": "Three simple steps to your perfect office space.",
+    "steps": [
+      { "step": "01", "icon": "ClipboardCheck", "title": "Manage All Documentation & Compliance", "description": "We handle the entire process — Ejari registration, tenancy contracts, authority approvals, and all documentation linked to your license.", "color": "from-cyan-400 to-blue-600" },
+      { "step": "02", "icon": "Layers", "title": "Provide Flexible & Scalable Office Solutions", "description": "Start with a flexi desk or dedicated desk, then move to private office space — seamless upgrading as your company grows.", "color": "from-blue-400 to-indigo-600" },
+      { "step": "03", "icon": "Target", "title": "Carry Out In-Depth Business Needs Assessment", "description": "We invest time understanding your company's activities, size, and future intentions before recommending the best office type.", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "locationsSection": {
+    "badge": "Most In-Demand Locations",
+    "title": "Where Can You Rent an Office in Dubai & UAE?",
+    "titleHighlight": "Rent an Office",
+    "subtitle": "Swipe through our 7 prime locations — each with unique advantages.",
+    "items": [
+      { "id": "business-bay", "name": "Business Bay", "tagline": "Dubai's Central Business District", "description": "Known for ultra-modern office towers and world-class amenities. Close to DIFC and major financial institutions. Suits everyone from startups to multinationals.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80", "color": "from-cyan-500 to-blue-700", "icon": "Building2", "features": ["Central Hub", "Iconic Towers", "Near DIFC", "Premium Amenities"] },
+      { "id": "downtown", "name": "Downtown Dubai", "tagline": "Exclusive Corporate Venues", "description": "Prestigious, high-end office spaces with iconic views near Burj Khalifa and Dubai Mall. The go-to address for businesses seeking credibility, luxury, and high-profile presence.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80", "color": "from-blue-500 to-indigo-700", "icon": "Crown", "features": ["Burj Khalifa Views", "Luxury Offices", "High Profile", "Prime Address"] },
+      { "id": "jlt", "name": "Jumeirah Lake Towers (JLT)", "tagline": "Affordable Offices & Metro Access", "description": "Perfect mix of affordability and convenience — ideal for startups, SMEs, freelancers, and contractors. Strong road and metro links with a vibrant business community.", "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&q=80", "color": "from-indigo-500 to-violet-700", "icon": "TrendingUp", "features": ["Affordable", "Metro Connected", "SME Focused", "Vibrant Community"] },
+      { "id": "sheikh-zayed", "name": "Sheikh Zayed Road", "tagline": "Iconic Business Lane", "description": "One of Dubai's most prestigious business districts, known for iconic skyscrapers and prime location. Offers high visibility, easy accessibility, and strong credibility.", "image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1200&q=80", "color": "from-violet-500 to-purple-700", "icon": "Building", "features": ["Iconic Address", "High Visibility", "Global Brands", "Prime Location"] },
+      { "id": "marina", "name": "Dubai Marina", "tagline": "Waterfront Creative Hub", "description": "Stylish office spaces in a vibrant waterfront setting. Popular with creative industries, tech startups, and service providers — with top-tier retail, dining, and residential nearby.", "image": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=1200&q=80", "color": "from-purple-500 to-fuchsia-700", "icon": "Palette", "features": ["Waterfront", "Creative Hub", "Tech Startups", "Lifestyle Amenities"] },
+      { "id": "free-zones", "name": "Dubai Free Zones", "tagline": "Office Facilities Linked to Licenses", "description": "DMCC, IFZA, DAFZA, RAKEZ, Meydan, and Shams offer cost-effective office spaces with trade licenses, 100% foreign ownership, tax benefits, and industry ecosystems.", "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80", "color": "from-fuchsia-500 to-pink-700", "icon": "Factory", "features": ["Trade License Included", "100% Ownership", "Tax Benefits", "Industry Ecosystems"] },
+      { "id": "abu-dhabi-sharjah", "name": "Abu Dhabi & Sharjah", "tagline": "Affordable Regional Operations", "description": "Budget-friendly office space with solid infrastructure and strategic locations near trade hubs — ideal for expanding or setting up branch offices outside Dubai.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80", "color": "from-pink-500 to-rose-700", "icon": "Landmark", "features": ["Budget Friendly", "Trade Hub Access", "Branch Setup", "Regional Ops"] }
+    ]
+  },
+
+  "whyChooseUsSimple": {
+    "badge": "Reliable Office Setup Partner",
+    "title": "Why Choose Setup Zone Dubai for Office Space?",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "Direct stakeholder access, transparent pricing, and end-to-end support.",
+    "footer": "We service entrepreneurs, investors, and international firms who want a convenient, affordable, and professional solution to office space in Dubai and UAE.",
+    "items": [
+      { "icon": "DollarSign", "label": "Transparent Pricing", "desc": "No hidden fees" },
+      { "icon": "Users", "label": "Direct Stakeholder Access", "desc": "Free zones & business centres" },
+      { "icon": "FileSignature", "label": "Contract Drafting", "desc": "All legal documents" },
+      { "icon": "ClipboardCheck", "label": "Ejari Registration", "desc": "Full compliance" },
+      { "icon": "RefreshCw", "label": "Renewals & Approvals", "desc": "Ongoing support" },
+      { "icon": "TrendingUp", "label": "Scalable Packages", "desc": "Start small, grow big" }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Office Space Solutions. Still have questions? We're one message away.",
+    "items": [
+      { "q": "What type of office space is offered in Dubai and the UAE?", "a": "Depending on your business size, budget, and license requirements, you can select from flexi desks, dedicated desks, private offices, serviced offices, coworking spaces, or long-term commercial leased office space." },
+      { "q": "Do I need an office to obtain a business license in Dubai?", "a": "Yes. Every business license in Dubai requires an official registered address or Ejari. Free zone licenses have the option of flexi-desk packages that provide a business address without a physical office." },
+      { "q": "What is the difference between a flexi desk and a dedicated desk?", "a": "A flexi desk (hot desk) is a shared workstation you use as available, best for freelancers. A dedicated desk is your own permanent desk in a shared office, offering consistency and privacy." },
+      { "q": "Can I upgrade my office space as my company grows?", "a": "Absolutely. We offer scalable solutions — start with a flexi desk or coworking membership, then seamlessly upgrade to a private office or commercial space as your business grows." },
+      { "q": "Are utilities and internet included in office packages?", "a": "Yes. Most of our serviced office and coworking packages include utilities, high-speed internet, reception, cleaning, and access to meeting rooms — all in one monthly fee." },
+      { "q": "What locations are best suited for renting an office in Dubai?", "a": "It depends on your business type. Business Bay and DIFC for corporate, Downtown for prestige, JLT for affordability, Dubai Marina for creative/tech, and Free Zones for trade and international businesses." },
+      { "q": "How much does office space in Dubai cost?", "a": "Costs range from affordable flexi desks (starting around AED 5,000/year) to premium private offices and commercial spaces. We match you with options that fit your budget." },
+      { "q": "Can I share offices with another company?", "a": "Yes. Coworking spaces and shared offices allow you to share common areas with other businesses, while keeping your own dedicated workspace and address." },
+      { "q": "What is the usual time taken to set up an office space in Dubai?", "a": "Typically 2-5 working days for flexi desks and serviced offices. Commercial leased offices and custom fit-outs may take longer depending on requirements." },
+      { "q": "What are the benefits of using Setup Zone Dubai for my office space needs?", "a": "We offer transparent pricing, direct stakeholder access, end-to-end contract drafting, Ejari registration, ongoing renewals and authority approvals, and scalable packages tailored to your business." }
+    ]
+  },
+
+  "relatedServices": {
+    "badge": "Related Services",
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Office Space needs.",
+    "items": [
+      { "slug": "mainland-activities", "title": "Mainland Activities", "description": "2,000+ DED-approved activities across Dubai & UAE.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "hiring-employee-management", "title": "Hiring in UAE", "description": "Recruitment & employee management solutions.", "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80", "gradient": "from-blue-400 to-indigo-600" },
+      { "slug": "mainland-visa", "title": "Mainland UAE Visa Services", "description": "Investor, employment, and family visas.", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80", "gradient": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Find Your Perfect Office",
+    "title": "Ready to Find the Perfect Office Space?",
+    "titleHighlight": "Perfect Office Space?",
+    "subtitle": "Your business deserves more than just a desk — it needs a space that fuels growth, credibility, and success.",
+    "primaryCta": "WhatsApp Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like a free consultation for office space in Dubai.",
+    "badges": ["Free Consultation", "500+ Options", "Full Compliance"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

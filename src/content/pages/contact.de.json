@@ -1,0 +1,222 @@
+{
+  "heroBadge": "Nehmen Sie Kontakt auf",
+  "heroTitle": "Kontaktieren Sie uns",
+  "heroTitleHighlight": "Uns",
+  "heroSubtitle": "Haben Sie Fragen oder benötigen Sie Unterstützung? Unser Team hilft Ihnen gerne – kontaktieren Sie uns einfach, und wir melden uns umgehend bei Ihnen.",
+  "contactCards": [
+    {
+      "icon": "Headset",
+      "title": "24/7-Support",
+      "lines": [
+        "+971 56 655 6645",
+        "setupzonedubai@gmail.com"
+      ],
+      "color": "from-rose-400 to-pink-600",
+      "actions": [
+        {
+          "label": "Jetzt anrufen",
+          "link": "tel:+971566556645",
+          "icon": "Phone"
+        },
+        {
+          "label": "E-Mail",
+          "link": "mailto:setupzonedubai@gmail.com",
+          "icon": "Mail"
+        }
+      ]
+    },
+    {
+      "icon": "Building2",
+      "title": "Hauptsitz – Dubai (Hauptsitz)",
+      "lines": [
+        "Büro M08-27, M1-Etage, Crystal Tower",
+        "Business Bay, Dubai, VAE — Postfach 554552"
+      ],
+      "color": "from-amber-400 to-orange-600",
+      "actions": [
+        {
+          "label": "Anruf",
+          "link": "tel:+971566556645",
+          "icon": "Phone"
+        },
+        {
+          "label": "Wegbeschreibung",
+          "link": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+          "icon": "MapPin"
+        }
+      ]
+    },
+    {
+      "icon": "Globe",
+      "title": "Arbeitszeit",
+      "lines": [
+        "Montag – Freitag: 8:00 – 18:00 Uhr",
+        "Sa: 10:00 – 17:00 Uhr • So: Geschlossen"
+      ],
+      "color": "from-emerald-400 to-teal-600",
+      "actions": [
+        {
+          "label": "WhatsApp",
+          "link": "whatsapp",
+          "icon": "MessageCircle"
+        },
+        {
+          "label": "E-Mail",
+          "link": "mailto:setupzonedubai@gmail.com",
+          "icon": "Mail"
+        }
+      ]
+    }
+  ],
+  "trustBar": {
+    "ratingText": "Bewertung: 4,5 von 5 Sternen",
+    "scoreLabel": "Vertrauensbewertung 4,5",
+    "awardText": "Hochqualifizierte Experten für Unternehmensgründung"
+  },
+  "formSection": {
+    "badge": "Haben Sie Fragen?",
+    "title": "Lasst uns das Gespräch beginnen.",
+    "titleHighlight": "Gespräch",
+    "subtitle": "Von Startups bis hin zu etablierten Unternehmen – die Unternehmen in Dubai setzen auf Innovation, um Erfolg zu erzielen.",
+    "submitButton": "Nachricht senden",
+    "secureNote": "Ihre Daten sind sicher und geschützt.",
+    "successTitle": "Danke schön!",
+    "successText": "Wir haben Ihre Nachricht erhalten. Unser Team wird sich in Kürze mit Ihnen in Verbindung setzen.",
+    "successWhatsappText": "Chatte auf WhatsApp",
+    "successWhatsappMessage": "Hallo! Ich habe gerade das Kontaktformular abgeschickt.",
+    "subjects": [
+      "Einrichtung der Freizone",
+      "Einrichtung auf dem Festland",
+      "Visadienstleistungen",
+      "Bankkonto",
+      "Goldenes Visum",
+      "PRO-Dienstleistungen",
+      "Allgemeine Anfrage"
+    ]
+  },
+  "sidebar": {
+    "instantCard": {
+      "availableBadge": "Rund um die Uhr verfügbar",
+      "title": "Nehmen Sie sofort Kontakt auf",
+      "text": "Sprechen Sie mit unseren Experten per Telefon oder WhatsApp.",
+      "callLabel": "Rufen Sie uns an",
+      "callNumber": "+971 56 655 6645",
+      "callHref": "Tel.: +971566556645",
+      "whatsappLabel": "WhatsApp",
+      "whatsappValue": "Sofortige Antwort",
+      "whatsappMessage": "Hallo! Ich würde gerne über die Gründung eines Unternehmens in den VAE sprechen."
+    },
+    "officeCard": {
+      "title": "Besuchen Sie unser Büro",
+      "officeLabel": "Dubai – Hauptsitz",
+      "addressLine1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "addressLine2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "phone": "+971 56 655 6645",
+      "phoneHref": "tel:+971566556645",
+      "directionsHref": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "emailLabel": "Schreiben Sie uns eine E-Mail",
+      "email1": "setupzonedubai@gmail.com",
+      "email1Href": "mailto:setupzonedubai@gmail.com",
+      "email2": "setupzonedubai@gmail.com",
+      "email2Href": "mailto:setupzonedubai@gmail.com",
+      "hoursLabel": "Arbeitszeit",
+      "hours": [
+        {
+          "day": "Mo. – Fr.",
+          "time": "8:00 – 18:00 Uhr"
+        },
+        {
+          "day": "Samstag",
+          "time": "10:00 – 17:00 Uhr"
+        },
+        {
+          "day": "Sonntag",
+          "time": "Geschlossen",
+          "closed": true
+        }
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "Kurzantworten",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie vor der Gründung Ihres Unternehmens in den VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "relatedServicesTitle": "Verwandte Dienstleistungen & Leitfäden",
+    "items": [
+      {
+        "q": "Wie viel kostet die Gründung eines Unternehmens in Dubai?",
+        "a": "Die Gründung eines Unternehmens in Dubai beginnt bei 9.500 AED für eine Basislizenz für eine Freizone. Auf dem Festland beginnen die Kosten bei 14.500 AED."
+      },
+      {
+        "q": "Kann ein Ausländer in Dubai ein Unternehmen zu 100 % besitzen?",
+        "a": "Ja, Ausländer können in den meisten Freizonen und bei vielen Aktivitäten auf dem Festland Unternehmen zu 100 % besitzen."
+      },
+      {
+        "q": "Welche ist die günstigste Freihandelszone in Dubai?",
+        "a": "RAK ICC, Ajman FTZ und SRTIP bieten die günstigsten Pakete ab 5.900 AED an."
+      },
+      {
+        "q": "Wie lange dauert die Unternehmensregistrierung in Dubai?",
+        "a": "Die Registrierung in der Freihandelszone dauert 3-7 Werktage. Auf dem Festland dauert es 2-4 Wochen."
+      },
+      {
+        "q": "Benötige ich einen lokalen Partner in Dubai?",
+        "a": "Nicht in Freihandelszonen. Auf dem Festland erlauben viele Aktivitäten mittlerweile 100% ausländisches Eigentum."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "FileText",
+        "title": "Checkliste für die Unternehmensregistrierung in Dubai",
+        "desc": "Kostenloser PDF-Leitfaden zum Herunterladen",
+        "color": "from-sky-400 to-blue-600",
+        "cta": "Kostenloser Download",
+        "link": "#"
+      },
+      {
+        "icon": "Gift",
+        "title": "Empfehlungsprogramm – Verdienen Sie 500 AED",
+        "desc": "Empfehle einen Freund weiter und erhalte eine Belohnung!",
+        "color": "from-amber-400 to-orange-600",
+        "cta": "Mehr erfahren",
+        "link": "/referral"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Los geht's!",
+    "title": "Lasst uns mit uns loslegen.",
+    "titleHighlight": "Uns",
+    "subtitle": "Weitere Informationen und unser Support-Team – ein Anruf genügt, und wir kümmern uns darum.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung.",
+    "chips": [
+      "Mehr als 10.000 Unternehmen",
+      "15+ Jahre",
+      "100% Eigentum"
+    ],
+    "cards": {
+      "call": {
+        "label": "Rufen Sie uns direkt an.",
+        "value": "+971 56 655 6645",
+        "note": "● Mo.–Sa.: 9:00–18:00 Uhr",
+        "href": "tel:+971566556645"
+      },
+      "email": {
+        "label": "Schreiben Sie uns eine E-Mail",
+        "value": "setupzonedubai@gmail.com",
+        "note": "● Antwort innerhalb von 24 Stunden",
+        "href": "mailto:setupzonedubai@gmail.com"
+      },
+      "office": {
+        "label": "Besuchen Sie unser Büro",
+        "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+        "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552"
+      }
+    }
+  },
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+}

@@ -12,7 +12,8 @@ import {
 import { getWhatsAppLink } from '../lib/whatsapp';
 import privacyData from '../content/pages/privacy-policy.json';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 // Icon map — JSON me string hoti hai, yahan actual icon
 const iconMap: any = {
   Lock, Server, ShieldCheck, CheckCircle2, FileText, Share2, Eye,
@@ -21,7 +22,9 @@ const iconMap: any = {
 };
 
 export default function PrivacyPolicy({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.pages || privacyData;
+  const { language } = useLanguage();
+  const privacyFallback = loadContent('pages/privacy-policy', language);
+  const data = tinaData?.data?.pages || privacyFallback;
 
   return (
     <div className="min-h-screen bg-white">

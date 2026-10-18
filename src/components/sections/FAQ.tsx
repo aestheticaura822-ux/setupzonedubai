@@ -26,14 +26,17 @@ import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import WhatsAppIcon from '../icons/WhatsAppIcon';
 import faqData from '../../content/home/faq.json';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   HelpCircle, Building2, Receipt, Crown, Landmark, ShieldCheck, Lightbulb,
 };
 
 export default function FAQ({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || faqData;
-  const [activeCategory, setActiveCategory] = useState('all');
+const { language } = useLanguage();
+const faqFallback = loadContent('home/faq', language);
+const data = tinaData?.data?.home || faqFallback;  
+const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [openId, setOpenId] = useState<number | null>(0);
   const [expandAll, setExpandAll] = useState(false);

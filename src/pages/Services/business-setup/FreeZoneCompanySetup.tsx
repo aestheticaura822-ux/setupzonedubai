@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import freeZoneData from '../../../content/business-setup/free-zone-company-setup.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function FreeZoneCompanySetup({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || freeZoneData;
+  const { language } = useLanguage();
+  const freeZoneSetupFallback = loadContent('business-setup/free-zone-company-setup', language);
+  const data = tinaData?.data?.businessSetup || freeZoneSetupFallback;
   const [activeLicense, setActiveLicense] = useState(0);
 
   const licenses = data.licenseTypesSection.items;

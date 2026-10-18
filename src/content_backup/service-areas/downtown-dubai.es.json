@@ -1,0 +1,233 @@
+{
+  "areaName": "Centro de Dubái",
+  "areaShort": "Centro",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "VÁ­a de ServÁ­cio",
+  "heroTitle": "Establecimiento de negocios en el centro de la ciudad",
+  "heroTitleHighlight": "Centro",
+  "heroSubtitle": "El centro de Dubái es el corazÁ³n emblemático de la ciudad, hogar del Burj Khalifa, el Dubai Mall y una prÁ³spera comunidad empresarial. Establecer un negocio en el centro de Dubái le brinda una visibilidad, prestigio y acceso a una audiencia global sin igual.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Más de 350",
+      "label": "ConstituciÁ³n de empresas",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "ConfiguraciÁ³n de dÁ­as",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "A partir de",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "¿Por qué elegir el centro de la ciudad?",
+    "title": "El corazÁ³n emblemático de Dubái",
+    "titleHighlight": "CorazÁ³n icÁ³nico",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "UbicaciÁ³n",
+    "imageBadgeText": "Centro de Dubái",
+    "paragraph": "El centro de Dubái ofrece ventajas excepcionales para empresas de todos los tamaños. Con una infraestructura de primer nivel, una ubicaciÁ³n estratégica y un ecosistema empresarial favorable, es el lugar ideal para establecer su empresa en Dubái.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "UbicaciÁ³n privilegiada",
+        "desc": "Excelente conectividad en todo Dubái."
+      },
+      {
+        "icon": "Users",
+        "title": "Grupo de talentos",
+        "desc": "Acceso a talento profesional diverso"
+      },
+      {
+        "icon": "Layers",
+        "title": "Infraestructura",
+        "desc": "Servicios e instalaciones de primera clase"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Comunidad de negocios",
+        "desc": "Un prÁ³spero ecosistema de empresas globales"
+      },
+      {
+        "icon": "Zap",
+        "title": "Enlaces de transporte",
+        "desc": "Proximidad a las principales lÁ­neas de metro y autopistas."
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Nuestros servicios",
+    "title": "Servicios de creaciÁ³n de empresas en el centro de la ciudad",
+    "titleHighlight": "Centro",
+    "subtitle": "Soluciones integrales de principio a fin para su negocio en los Emiratos Árabes Unidos.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "ConstituciÁ³n de empresas en zonas francas",
+        "desc": "Ubicada en la zona franca más adecuada: propiedad al 100%, cero impuestos corporativos y repatriaciÁ³n total de beneficios.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "ConstituciÁ³n de una empresa en el territorio continental",
+        "desc": "Opere directamente en el mercado de los EAU con una licencia del territorio continental de EE. UU. Nos encargamos de toda la documentaciÁ³n y las licencias del Departamento de Desarrollo EconÁ³mico (DED).",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Licencia comercial en Dubái",
+        "desc": "Obtenga su licencia comercial, profesional o industrial rápidamente y cumpliendo plenamente con la normativa vigente.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Servicios de tramitaciÁ³n de visados y servicios de gestiÁ³n de trámites",
+        "desc": "Visados para inversores, empleados y dependientes: nos encargamos de las pruebas médicas, el documento de identidad de los Emiratos Árabes Unidos y el sellado de los visados.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Apertura de cuenta bancaria corporativa",
+        "desc": "Abra una cuenta bancaria empresarial en los principales bancos de los EAU; nosotros nos encargamos de la documentaciÁ³n y del proceso KYC (Conozca a su cliente).",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Servicios de contabilidad e impuestos",
+        "desc": "Cumpla con las obligaciones fiscales y del IVA de las empresas en los EAU: contabilidad, declaraciones de IVA e informes.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "Precios",
+    "title": "Nuestros paquetes de creaciÁ³n de empresas",
+    "titleHighlight": "Paquetes",
+    "subtitle": "Paquetes transparentes y todo incluido para la creaciÁ³n de empresas a partir de:",
+    "items": [
+      {
+        "name": "Licencia de Zona Franca",
+        "price": "5.999 AED",
+        "note": "Sin residencia",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "name": "Licencia de Zona Franca + Residencia",
+        "price": "11.999 AED",
+        "note": "Con residencia en los Emiratos Árabes Unidos",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "name": "Licencia de conducir y residencia en el territorio continental de EE. UU.",
+        "price": "16.999 AED",
+        "note": "Continente + Residencia",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "¿Por qué elegir SetupZoneDubai?",
+    "titleHighlight": "SetupZoneDubai",
+    "items": [
+      "Soporte integral para la configuraciÁ³n de su negocio",
+      "Conocimiento experto de las zonas francas de Dubái y de la normativa del territorio continental.",
+      "Precios transparentes sin cargos ocultos.",
+      "Gestor de relaciones dedicado",
+      "Soporte posterior a la obtenciÁ³n de la licencia: PRO, contabilidad y cumplimiento normativo.",
+      "TramitaciÁ³n rápida: licencia en 3-5 dÁ­as laborables."
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "Preguntas frecuentes de la zona",
+    "title": "Preguntas frecuentes sobre la creaciÁ³n de una empresa en el centro de la ciudad.",
+    "titleHighlight": "Establecimiento de negocios en el centro de la ciudad",
+    "items": [
+      {
+        "q": "¿Cuánto tiempo se tarda en establecer un negocio en el centro de Dubái?",
+        "a": "La mayorÁ­a de las empresas se registran y entran en funcionamiento en un plazo de 3 a 5 dÁ­as hábiles, dependiendo del tipo de licencia y las aprobaciones requeridas."
+      },
+      {
+        "q": "¿Puedo establecer un negocio en el centro de Dubái siendo extranjero?",
+        "a": "SÁ­, los extranjeros pueden establecer negocios en las zonas francas de Dubái con el 100% de la propiedad. Las empresas del territorio continental de Estados Unidos pueden requerir un patrocinador local, dependiendo de la actividad comercial."
+      },
+      {
+        "q": "¿Necesito estar fÁ­sicamente presente en Dubái?",
+        "a": "La mayor parte del proceso de registro se puede realizar de forma remota. Nuestro equipo se encarga del papeleo y de las gestiones gubernamentales en su nombre."
+      },
+      {
+        "q": "¿Qué tipo de negocios puedo establecer en el centro de Dubái?",
+        "a": "En Dubái, segÁºn el tipo de licencia que elijas, puedes establecer negocios comerciales, profesionales, industriales, de comercio electrÁ³nico o de autÁ³nomo."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Respuestas rápidas",
+    "title": "Respuestas rápidas",
+    "titleHighlight": "Respuestas",
+    "subtitle": "Preguntas frecuentes sobre la creaciÁ³n de una empresa en Dubái. ¿AÁºn tienes dudas? Contáctanos.",
+    "relatedServicesTitle": "Servicios y guÁ­as relacionados",
+    "items": [
+      {
+        "q": "¿Cuánto cuesta iniciar un negocio en Dubái?",
+        "a": "Establecer un negocio en Dubái tiene un costo inicial de 9500 AED para una licencia básica de zona franca. En el territorio continental de Estados Unidos, el costo inicial es de 14 500 AED."
+      },
+      {
+        "q": "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+        "a": "SÁ­, los extranjeros pueden ser propietarios al 100% de las empresas en la mayorÁ­a de las zonas francas y en muchas actividades en China continental."
+      },
+      {
+        "q": "¿Cuál es la zona franca más barata de Dubái?",
+        "a": "RAK ICC, Ajman FTZ y SRTIP ofrecen los paquetes más econÁ³micos a partir de 5.900 AED."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda el proceso de registro de una empresa en Dubái?",
+        "a": "El registro en la zona franca tarda de 3 a 7 dÁ­as hábiles. En el territorio continental, de 2 a 4 semanas."
+      },
+      {
+        "q": "¿Necesito un socio local en Dubái?",
+        "a": "No en las zonas francas. En China continental, muchas actividades ahora permiten la propiedad extranjera al 100%."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "FileText",
+        "title": "Lista de verificaciÁ³n para el registro de empresas en Dubái",
+        "desc": "GuÁ­a en PDF descargable gratuitamente",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "#"
+      },
+      {
+        "icon": "Building2",
+        "title": "Establecimiento de negocios en DIFC",
+        "desc": "Explore las opciones de configuraciÁ³n en DIFC.",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/difc"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "¿Listo para empezar?",
+    "title": "¿Listo para iniciar tu negocio en el centro de la ciudad?",
+    "titleHighlight": "Centro",
+    "subtitle": "Contacte hoy mismo con nuestro equipo de expertos en constituciÁ³n de empresas para una consulta gratuita. Le guiaremos en cada paso del proceso y le ayudaremos a elegir la jurisdicciÁ³n más adecuada para su negocio.",
+    "primaryCta": "Contáctanos ahora",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Quiero establecer mi negocio en el centro de la ciudad."
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "slug": "ifza-setup-package",
+  "hero": {
+    "badge": "经济实惠的IFZA设立套餐",
+    "title": "IFZA 安装包",
+    "titleHighlight": "安装包",
+    "subtitle": "迪拜公司设立流程简便快捷。IFZA 套餐价格实惠，仅需 5,999 迪拉姆起——包含牌照、签证、银行账户等服务。",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+    "breadcrumbLabel": "IFZA 安装包",
+    "ctaPrimaryText": "查看套餐",
+    "ctaPrimaryLink": "#包裹",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对IFZA安装包很感兴趣。",
+    "badges": [
+      "5,999 迪拉姆起",
+      "11个包裹",
+      "3-7天安装完成",
+      "100% 所有权"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5,999 迪拉姆",
+      "label": "从",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "包裹",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "所有权",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "intro": {
+    "badge": "我们随时为您提供帮助！",
+    "title": "为您的阿联酋企业提供价格实惠的IFZA设立套餐",
+    "titleHighlight": "为您的阿联酋业务",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "IFZA自由区",
+    "imageBadgeText": "阿联酋迪拜",
+    "paragraph1": "您是否希望在蓬勃发展的阿联酋市场建立您的企业？我们的专家团队专注于帮助企业家在超过65个司法管辖区成功设立公司。",
+    "paragraph2": "无论您偏爱自由区的灵活性，还是大陆贸易许可证的声望，我们都能提供迪拜最佳的商业设立方案，以满足您的业务目标。",
+    "paragraph3": "所有套餐均可为您的创业之旅提供起点，并可根据您的需求进行定制。",
+    "features": [
+      "65个以上司法管辖区",
+      "自由区及大陆",
+      "可定制套餐",
+      "5,999 迪拉姆起",
+      "快速安装，3-7天即可完成。",
+      "全力支持"
+    ]
+  },
+  "packages": {
+    "badge": "迪拜经济实惠的安装套餐",
+    "title": "我们的IFZA设立方案",
+    "titleHighlight": "IFZA 安装包",
+    "subtitle": "11款高级套餐，专为各类企业家设计。所有套餐均可根据您的需求进行定制。",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "旅游咨询",
+        "price": "14,499 迪拉姆",
+        "tagline": "持有居留签证",
+        "category": "优质的",
+        "color": "from-sky-500 to-blue-700",
+        "badge": "受欢迎的",
+        "badgeColor": "从天空-500到蓝色-600",
+        "includes": [
+          "自由区许可证",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "活动管理",
+        "price": "14,499 迪拉姆",
+        "tagline": "持有居留签证",
+        "category": "优质的",
+        "color": "from-orange-500 to-red-700",
+        "badge": "优质的",
+        "badgeColor": "从橙色 500 到红色 600",
+        "includes": [
+          "自由区许可证",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "一般贸易",
+        "price": "15,999 迪拉姆",
+        "tagline": "持有居留签证",
+        "category": "优质的",
+        "color": "from-emerald-500 to-teal-700",
+        "badge": "性价比最高",
+        "badgeColor": "从翡翠绿 500 到青色 600",
+        "includes": [
+          "自由区许可证",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "时装设计",
+        "price": "5,999 迪拉姆",
+        "tagline": "最多 5 项活动",
+        "category": "经济",
+        "color": "from-pink-500 to-rose-700",
+        "badge": "价格实惠",
+        "badgeColor": "从粉色500到玫瑰色600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "健身与生活方式",
+        "price": "5,999 迪拉姆",
+        "tagline": "最多 5 项活动",
+        "category": "经济",
+        "color": "from-violet-500 to-purple-700",
+        "badge": "价格实惠",
+        "badgeColor": "从紫罗兰色-500 到紫罗兰色-600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "电子商务",
+        "price": "5,999 迪拉姆",
+        "tagline": "在线业务准备就绪",
+        "category": "经济",
+        "color": "from-cyan-500 to-blue-700",
+        "badge": "受欢迎的",
+        "badgeColor": "从青色 500 到蓝色 600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "IT服务",
+        "price": "6,449 迪拉姆",
+        "tagline": "最多 5 项活动",
+        "category": "专业的",
+        "color": "from-indigo-500 to-violet-700",
+        "badge": "科技",
+        "badgeColor": "从靛蓝500到紫罗兰600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "一般贸易",
+        "price": "7,999 迪拉姆",
+        "tagline": "入门级交易",
+        "category": "标准",
+        "color": "from-amber-500 to-orange-700",
+        "badge": "畅销书",
+        "badgeColor": "从琥珀色 500 到橙色 600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "自由区许可证及终身阿联酋居留权",
+        "price": "11,999 迪拉姆",
+        "tagline": "终身居住权",
+        "category": "优质的",
+        "color": "from-fuchsia-500 to-purple-700",
+        "badge": "独家的",
+        "badgeColor": "从紫红色-500到紫色-600",
+        "includes": [
+          "自由区许可证",
+          "终身免费阿联酋居留/投资签证",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "迪拜大陆驾照及阿联酋居留权",
+        "price": "16,999 迪拉姆",
+        "tagline": "大陆 + 居住地",
+        "category": "大陆",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "大陆",
+        "badgeColor": "从石板600到石板700",
+        "includes": [
+          "大陆牌照",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费银行账户开户协助",
+          "免费增值税咨询"
+        ],
+        "exampleActivities": [
+          "项目管理",
+          "管理咨询",
+          "商业经纪人",
+          "设施管理",
+          "清洁服务",
+          "楼宇维护"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "女性创业",
+        "price": "5,999 迪拉姆",
+        "tagline": "专为女性创始人设计",
+        "category": "特别的",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "特别的",
+        "badgeColor": "从玫瑰色 500 到粉色 600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "迪拜高级地址及共享邮政信箱",
+          "免费增值税咨询"
+        ],
+        "exampleActivities": [
+          "生活方式指导",
+          "数字营销",
+          "时尚与服装设计",
+          "活动管理",
+          "咨询服务"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "需要定制套餐？",
+    "subtitle": "告诉我们您的目标，我们将为您量身定制最合适的方案。",
+    "buttonText": "定制报价",
+    "whatsappMessage": "您好！我需要一个定制的IFZA安装包。"
+  },
+  "benefits": {
+    "badge": "为什么选择IFZA",
+    "title": "IFZA设立的优势",
+    "titleHighlight": "IFZA设置",
+    "subtitle": "在IFZA自由区设立机构的六大优势。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 所有权",
+        "desc": "完全外资所有",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 税率",
+        "desc": "免税环境",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速设置",
+        "desc": "3-7天内即可获得执照",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "低成本",
+        "desc": "起价 5,999 迪拉姆",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "增值税支持",
+        "desc": "免费咨询",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "六步流程",
+    "title": "如何入门",
+    "titleHighlight": "开始使用",
+    "subtitle": "从套餐选择到银行账户——我们全权负责。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "选择您的套餐",
+        "description": "从我们预先设计好的套餐中选择。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "提交文件",
+        "description": "护照复印件和照片。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "许可证申请",
+        "description": "我们向IFZA当局提交申请。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "领取您的许可证",
+        "description": "3-7天内即可获得许可证。",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "为什么选择我们",
+    "title": "您值得信赖的IFZA设立合作伙伴",
+    "titleHighlight": "IFZA设立合作伙伴",
+    "subtitle": "数千名企业家信赖我们的八大理由。",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "绝无任何隐藏费用"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速安装，3-7天即可完成。",
+        "desc": "快速发放许可证"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "100% 合规",
+        "desc": "已获政府全面批准"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "专属顾问",
+        "desc": "私人顾问"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语、乌尔都语"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "增值税咨询",
+        "desc": "包含免费"
+      },
+      {
+        "icon": "Award",
+        "label": "超过 10,000 家公司",
+        "desc": "成功启动"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于IFZA安装包，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "items": [
+      {
+        "q": "什么是IFZA自由区？",
+        "a": "IFZA（国际自由区管理局）是迪拜最灵活、最经济实惠的自由区之一，以低成本设立、100% 外资所有权和快速许可（通常在 3-7 个工作日内）而闻名。"
+      },
+      {
+        "q": "IFZA 安装包包含哪些内容？",
+        "a": "根据套餐的不同，您将获得自由区许可证、居留签证、医疗和阿联酋身份证、租赁协议、银行账户协助、迪拜高级地址和免费增值税咨询。"
+      },
+      {
+        "q": "IFZA套餐价格是多少？",
+        "a": "我们的IFZA套餐价格从5,999迪拉姆（经济型）起，最高可达16,999迪拉姆（大陆+居留权）。包含签证的高级套餐价格从14,499迪拉姆起。"
+      },
+      {
+        "q": "安装需要多长时间？",
+        "a": "通常情况下，驾照发放需要 3-7 个工作日，签证办理和银行账户开立还需要 1-2 周时间。"
+      },
+      {
+        "q": "我可以定制我的套餐吗？",
+        "a": "是的。所有套餐均为起始方案，可根据您的业务活动、签证需求和预算进行定制。"
+      },
+      {
+        "q": "我能获得阿联酋居留签证吗？",
+        "a": "是的，部分套餐包含阿联酋投资者/居留签证（含体检）、阿联酋身份证和身份变更。自由区许可证及终身阿联酋居留权甚至提供终身居留权。"
+      },
+      {
+        "q": "包含银行账户开户吗？",
+        "a": "是的。所有套餐均包含在阿联酋顶级银行免费开设公司银行账户的协助服务。"
+      },
+      {
+        "q": "我可以开展哪些商业活动？",
+        "a": "IFZA支持超过1000种商业活动，涵盖贸易、专业服务、电子商务、IT、媒体、教育等领域。大多数经济型套餐最多可选择5项活动。"
+      },
+      {
+        "q": "我需要亲自到场吗？",
+        "a": "大部分步骤都可以远程完成，但体检和阿联酋身份证生物识别需要短暂访问阿联酋。"
+      },
+      {
+        "q": "为什么选择 Setup Zone Dubai 进行 IFZA 设立？",
+        "a": "我们提供透明的定价、快速的办理流程、专属顾问和全程支持——从驾照、签证到银行账户，一应俱全。我们已成功完成超过10000个项目的设置。"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "立即开启您的阿联酋事业",
+    "title": "准备好使用 IFZA 套餐启动项目了吗？",
+    "titleHighlight": "IFZA 套餐？",
+    "subtitle": "获取免费咨询。我们将帮助您选择合适的套餐，让您的业务在几天内顺利启动。",
+    "primaryCta": "WhatsApp 联系我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想咨询一下IFZA设立方案的免费咨询服务。",
+    "badges": [
+      "5,999 迪拉姆起",
+      "3-7天安装完成",
+      "100% 所有权"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "badge": "Notre bilan",
+  "heading": {
+    "line1": "Approuvé par",
+    "line2Highlight": "Plus de 500 entreprises"
+  },
+  "subtitle": "Des chiffres qui parlent d'eux-mêmes : 15 ans d'excellence, plus de 500 lancements réussis et une équipe qui ne dort jamais.",
+  "stats": [
+    {
+      "icon": "Users",
+      "value": 10000,
+      "suffix": "+",
+      "label": "Clients satisfaits",
+      "description": "Des entreprises ont été lancées dans tous les Émirats arabes unis.",
+      "gradient": "from-sky-400 to-blue-600",
+      "glowColor": "rgba(14,165,233,0,4)"
+    },
+    {
+      "icon": "Award",
+      "value": 15,
+      "suffix": "+",
+      "label": "Années d'expérience",
+      "description": "Expertise reconnue en matière d'installation aux Émirats arabes unis",
+      "gradient": "from-violet-400 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)"
+    },
+    {
+      "icon": "UserCheck",
+      "value": 25,
+      "suffix": "+",
+      "label": "Consultants experts",
+      "description": "Une équipe dédiée pour chaque client",
+      "gradient": "from-amber-400 to-orange-500",
+      "glowColor": "rgba(245,158,11,0,4)"
+    },
+    {
+      "icon": "Clock",
+      "value": 24,
+      "suffix": "/7",
+      "label": "Service client",
+      "description": "Toujours disponible pour vous aider",
+      "gradient": "from-emerald-400 to-green-600",
+      "glowColor": "rgba(16,185,129,0,4)"
+    }
+  ],
+  "bottomTrust": [
+    {
+      "label": "Autorisé et réglementé",
+      "color": "bg-brand-green"
+    },
+    {
+      "label": "Approuvé par l'économie de Dubaï",
+      "color": "bg-brand-sky"
+    },
+    {
+      "label": "Expertise multijuridictionnelle",
+      "color": "bg-brand-violet"
+    }
+  ]
+}

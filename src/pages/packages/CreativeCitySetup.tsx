@@ -13,14 +13,17 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import creativeCityData from '../../content/packages/creative-city.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 // Icon map — JSON me string hota hai, yahan actual icon
 const iconMap: any = {
   Plane, Camera, ShoppingCart, Palette, Dumbbell, Laptop, Crown, Landmark, Heart, StoreIcon,
 };
 
 export default function CreativeCitySetup({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || creativeCityData;
+  const { language } = useLanguage();
+  const creativeCityFallback = loadContent('packages/creative-city', language);
+  const data = tinaData?.data?.packages || creativeCityFallback;
 
   return (
     <div className="min-h-screen bg-white">

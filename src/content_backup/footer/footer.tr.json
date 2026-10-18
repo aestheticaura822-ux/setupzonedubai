@@ -1,0 +1,202 @@
+{
+    "brand":  {
+                  "name":  "Dubai Kurulum Bölgesi",
+                  "shortName":  "SZ",
+                  "operatedBy":  "Brightlink tarafından işletilmektedir.",
+                  "description":  "İş kurma, oturum izni ve profesyonel hizmetler konusunda güvenilir BAE ortağınız; her adımda net rehberlik ve sorunsuz destek sunuyoruz.",
+                  "badges":  [
+                                 {
+                                     "icon":  "Kalkan Kontrolü",
+                                     "label":  "Lisanslı"
+                                 },
+                                 {
+                                     "icon":  "Yıldız",
+                                     "label":  "4,9 Puan"
+                                 },
+                                 {
+                                     "icon":  "Bina 2",
+                                     "label":  "DET Onaylı"
+                                 }
+                             ],
+                  "socialsTitle":  "Bizimle İletişime Geçin"
+              },
+    "ctaBanner":  {
+                      "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600\u0026q=80",
+                      "badge":  "500\u0027den fazla işletme tarafından güvenilen bir marka.",
+                      "title":  "Dubai\u0027deki İşinize Bugün Başlayın",
+                      "titleHighlight":  "Bugün",
+                      "subtitle":  "Uzmanlarımızdan ücretsiz danışmanlık hizmeti alın. Şirket kuruluşundan vize işlemlerine, bankacılıktan mevzuata kadar her şeyi biz hallediyoruz.",
+                      "primaryCta":  "Ücretsiz Danışmanlık Alın",
+                      "secondaryCta":  "Şimdi Ara",
+                      "stats":  [
+                                    {
+                                        "value":  "10000+",
+                                        "label":  "Mutlu Müşteriler"
+                                    },
+                                    {
+                                        "value":  "15+",
+                                        "label":  "Yılların Deneyimi"
+                                    },
+                                    {
+                                        "value":  "25+",
+                                        "label":  "Uzman Danışmanlar"
+                                    },
+                                    {
+                                        "value":  "7/24",
+                                        "label":  "Müşteri Hizmetleri"
+                                    }
+                                ]
+                  },
+    "quickLinksTitle":  "Hızlı Bağlantılar",
+    "quickLinks":  [
+                       {
+                           "name":  "Ev",
+                           "href":  "/",
+                           "icon":  "Ana SayfaSimgesi"
+                       },
+                       {
+                           "name":  "Hakkımızda",
+                           "href":  "/about",
+                           "icon":  "Kullanıcılar"
+                       },
+                       {
+                           "name":  "Paketlerimiz",
+                           "href":  "/#packages",
+                           "icon":  "Cüzdan"
+                       },
+                       {
+                           "name":  "Kaynaklar",
+                           "href":  "/resources",
+                           "icon":  "DosyaMetni"
+                       },
+                       {
+                           "name":  "Bize Ulaşın",
+                           "href":  "/contact",
+                           "icon":  "Mesaj Çemberi"
+                       }
+                   ],
+    "servicesTitle":  "Hizmetlerimiz",
+    "serviceLinks":  [
+                         {
+                             "name":  "Serbest Bölge Kurulumu",
+                             "slug":  "freezone"
+                         },
+                         {
+                             "name":  "Anakara Kurulumu",
+                             "slug":  "mainland"
+                         },
+                         {
+                             "name":  "Kurumlar Vergisi ve KDV",
+                             "slug":  "corporate-tax-vat"
+                         },
+                         {
+                             "name":  "Banka Hesabı Açma",
+                             "slug":  "bank-account"
+                         },
+                         {
+                             "name":  "Altın Vize",
+                             "slug":  "golden-visa"
+                         },
+                         {
+                             "name":  "PRO Hizmetleri",
+                             "slug":  "pro-services"
+                         },
+                         {
+                             "name":  "Uyumluluk Hizmetleri",
+                             "slug":  "compliance"
+                         }
+                     ],
+    "contactTitle":  "İletişime Geçin",
+    "contact":  {
+                    "phone":  {
+                                  "label":  "Bizi Arayın",
+                                  "value":  "+971 56 655 6645",
+                                  "hours":  "Pazartesi-Cumartesi: 09:00 - 18:00",
+                                  "href":  "tel:+971566556645"
+                              },
+                    "email":  {
+                                  "label":  "Bize e-posta gönderin",
+                                  "value":  "setupzonedubai@gmail.com",
+                                  "href":  "mailto:setupzonedubai@gmail.com"
+                              },
+                    "address":  {
+                                    "label":  "Bizi Ziyaret Edin",
+                                    "line1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                    "line2":  "Business Bay, Dubai, BAE "” Posta Kutusu 554552",
+                                    "href":  "https://maps.app.goo.gl/LNRyUy4djwMDFsQ46"
+                                },
+                    "whatsapp":  {
+                                     "label":  "Bize WhatsApp\u0027tan ulaşın",
+                                     "message":  "Merhaba! Hizmetleriniz hakkında daha fazla bilgi edinmek istiyorum."
+                                 }
+                },
+    "socials":  [
+                    {
+                        "name":  "Facebook",
+                        "icon":  "Facebook",
+                        "href":  "https://www.facebook.com/brightlinkconsulting.uae/",
+                        "color":  "mavi-500\u0027den mavi-700\u0027e"
+                    },
+                    {
+                        "name":  "Instagram",
+                        "icon":  "FaInstagram",
+                        "href":  "https://www.instagram.com/brightlink.consulting/",
+                        "color":  "pembe-500\u0027den fuşya-600\u0027e"
+                    },
+                    {
+                        "name":  "TikTok",
+                        "icon":  "FaTiktok",
+                        "href":  "https://www.tiktok.com/@brightlink.consulting",
+                        "color":  "arduvazdan-800\u0027e"
+                    },
+                    {
+                        "name":  "YouTube",
+                        "icon":  "FaYoutube",
+                        "href":  "https://www.youtube.com/@brightlinkconsulting",
+                        "color":  "kırmızı-500\u0027den kırmızı-700\u0027e"
+                    },
+                    {
+                        "name":  "LinkedIn",
+                        "icon":  "FaLinkedinIn",
+                        "href":  "https://www.linkedin.com/company/brightlink-management-consultancy/",
+                        "color":  "gökyüzünden-500\u0027den maviye-700\u0027e"
+                    },
+                    {
+                        "name":  "X (Twitter)",
+                        "icon":  "FaXTwitter",
+                        "href":  "https://x.com/BRIGHTLINKCONS1",
+                        "color":  "arduvazdan-700\u0027e"
+                    },
+                    {
+                        "name":  "Telgraf",
+                        "icon":  "FaTelegramPlane",
+                        "href":  "https://t.me/brightlinkgroup",
+                        "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                    },
+                    {
+                        "name":  "Pinterest",
+                        "icon":  "FaPinterestP",
+                        "href":  "https://www.pinterest.com/brightlinkconsulting/",
+                        "color":  "kırmızı-500\u0027den kırmızı-700\u0027e"
+                    }
+                ],
+    "reviews":  {
+                    "rating":  "4.9",
+                    "outOf":  "/ 5.0",
+                    "reviewCount":  "75\u0027ten fazla Doğrulanmış Yorum",
+                    "googleLabel":  "Google Yorumları",
+                    "ctaText":  "Bir yorum yazın",
+                    "ctaHref":  "https://g.page/r/CdQ9UxY-AOkxEAE/review"
+                },
+    "bottomBar":  {
+                      "copyright":  "Â© 2026 Setup Zone Dubai "” Brightlink tarafından işletilmektedir.",
+                      "rightsText":  "Her hakkı saklıdır.",
+                      "madeWithText":  "Dubai\u0027de sevgiyle yapıldı â¤ï¸"
+                  },
+    "disclaimer":  {
+                       "title":  "Yasal Uyarı:",
+                       "text":  "Setupzonedubai.ae, Dubai\u0027de lisanslı özel bir üçüncü taraf hizmet sağlayıcısı olan Brightlink Management Consultancy LLC tarafından işletilmektedir. Biz bir devlet kurumu değiliz ve BAE Hükümeti veya herhangi bir departmanıyla hiçbir bağlantımız veya onayımız bulunmamaktadır. Müşterilerimize işletme kurulumu, vize ile ilgili yazım, belgeleme, başvuru doldurma ve ilgili resmi kanallar (DET, GDRFA Dubai, ICP, MOFA) aracılığıyla sunma konularında, müşterinin adına ve rızasıyla hareket ederek yardımcı oluyoruz. Devlet ücretleri yetkililer tarafından belirlenir ve onlara ödenir; hizmet ücretimiz ayrı olarak tahsil edilir ve herhangi bir taahhütte bulunmadan önce açıklanır. Başvuru sahipleri aynı başvuruları doğrudan resmi portallar aracılığıyla tamamlayabilirler: icp.gov.ae, gdrfad.gov.ae, u.ae. Gösterilen tahminler yalnızca bilgilendirme amaçlıdır ve yasal tavsiye niteliği taşımaz.",
+                       "lastReviewed":  "İçerik en son 01-09-2026 tarihinde gözden geçirildi.",
+                       "verifiedText":  "Doğrulanmış İşletme"
+                   }
+}

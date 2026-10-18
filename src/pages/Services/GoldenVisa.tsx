@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import goldenVisaData from '../../content/services/golden-visa.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Crown, Clock, Wallet, DollarSign, Users, Trophy, Rocket, Gem,
   Home2, Briefcase, Palette, BookOpen, Plane, Landmark, Globe,
@@ -23,8 +24,9 @@ const iconMap: any = {
 };
 
 export default function GoldenVisa({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || goldenVisaData;
-
+  const { language } = useLanguage();
+  const goldenVisaFallback = loadContent('services/golden-visa', language);
+  const data = tinaData?.data?.services || goldenVisaFallback;
   return (
     <div className="min-h-screen bg-white">
       {/* === 1. HERO === */}

@@ -1,0 +1,575 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1600&q=80",
+  "heroBadge": "在线业务设置",
+  "heroTitle": "迪拜电子商务许可证",
+  "heroTitleHighlight": "在迪拜",
+  "heroSubtitle": "在迪拜开启您的线上事业，拥有100%所有权，零税率，并可全面进入阿联酋及全球市场。最快1-5天即可上线。",
+  "heroChips": [
+    "7,500 迪拉姆起",
+    "1-5天安装完成",
+    "100% 所有权",
+    "0% 税率"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "1-5",
+      "label": "设置天数",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "7,500 迪拉姆",
+      "label": "起始成本",
+      "color": "from-pink-400 to-rose-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-rose-400 to-red-600"
+    },
+    {
+      "icon": "Percent",
+      "value": "0%",
+      "label": "企业所得税",
+      "color": "from-red-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "在阿联酋开展电子商务",
+    "title": "迪拜的电子商务许可证是什么？",
+    "titleHighlight": "电子商务许可证",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+    "imageBadgeTitle": "在线商店",
+    "imageBadgeText": "让你的企业合法化",
+    "paragraphs": [
+      "电子商务营业执照是由迪拜经济发展部 (DED) 或相关自由区管理机构颁发的法律许可证，允许您在线设立和运营业务。",
+      "它允许企业通过移动应用程序或电商平台在线宣传、销售和交付产品或服务。电子商务许可证允许您在阿联酋境内或全球范围内开展贸易，具体取决于您所在司法管辖区的规定。",
+      "对于电子商务许可证而言，最佳自由区选择包括 IFZA、Shams、Dubai CommerCity 和 RAKEZ——它们提供低成本的创业环境、100% 的外资所有权以及最少的限制。"
+    ],
+    "highlights": [
+      "100% 所有权",
+      "0% 税率",
+      "1-5天安装完成",
+      "阿联酋 + 全球市场",
+      "支付网关",
+      "物流合作伙伴"
+    ]
+  },
+  "whoNeedsItSection": {
+    "badge": "谁需要这种许可证？",
+    "title": "迪拜的在线卖家",
+    "titleHighlight": "迪拜在线",
+    "subtitle": "在阿联酋，没有有效许可证进行在线推广或交易是违法的——将面临巨额罚款或禁令。",
+    "items": [
+      {
+        "icon": "Package",
+        "label": "代发货商店店主",
+        "desc": "无需库存管理即可销售",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ShoppingBag",
+        "label": "亚马逊FBA和Noon卖家",
+        "desc": "在市场合法销售",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "提供服务的自由职业者",
+        "desc": "在线打包和销售服务",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Camera",
+        "label": "社交媒体影响者",
+        "desc": "通过社交平台销售产品",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "数字顾问和教练",
+        "desc": "销售咨询或辅导课程",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Boxes",
+        "label": "订阅盒服务",
+        "desc": "循环产品交付模式",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Code",
+        "label": "数字产品和软件",
+        "desc": "销售课程、下载内容、SaaS",
+        "color": "from-yellow-400 to-lime-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "不确定你是否需要？",
+      "text": "与我们的专家交流",
+      "buttonText": "专家解答",
+      "whatsappMessage": "您好！我想知道在迪拜是否需要电子商务许可证。"
+    }
+  },
+  "benefitsSection": {
+    "badge": "让您的网上商店合法化",
+    "title": "电子商务许可证的好处",
+    "titleHighlight": "电子商务许可证",
+    "subtitle": "在迪拜开展线上业务的九大优势。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "无需当地担保人，即可完全掌控您的业务。拥有完全的决策权，并可100%保留利润。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 个人所得税和企业所得税",
+        "description": "在符合条件的自由区内，电子商务企业可享受0%的个人所得税和0%的企业所得税。企业可将盈利再投资于自身发展。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速建立",
+        "description": "根据所在司法管辖区的不同，许可证办理时间为 1-5 天。我们负责处理活动选择、文件准备、名称预留和审批事宜。",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "进入阿联酋及世界市场",
+        "description": "业务遍及阿联酋，并拓展至中东、非洲、欧洲和亚洲。充分利用迪拜的港口和自由贸易环境。",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "经济实惠的安装和续费",
+        "description": "这是最经济实惠的营业执照选择之一——非常适合自由职业者、个体经营者和小企业。",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "在线支付网关访问",
+        "description": "与 PayTabs、Telr、Stripe 和 Network International 集成——接受银行卡、数字钱包和银行转账。",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "物流一体化",
+        "description": "与 Aramex、Fetchr、DHL、阿联酋邮政合作，进行运输、跟踪、仓储和物流配送。",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "数字化办公和灵活办公桌选项",
+        "description": "无需实体办公地点或仓库。可在灵活办公桌和共享办公空间办公。",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "我们简化您的创业之路",
+    "title": "如何获得电子商务许可证",
+    "titleHighlight": "电子商务许可证",
+    "subtitle": "从构思到发布，只需 10 个简单步骤。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "定义您的活动",
+        "description": "选择具体的电子商务活动（在线交易、门户网站、在线服务）。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "02",
+        "icon": "MapPin",
+        "title": "选择管辖区",
+        "description": "根据目标市场和预算，决定选择大陆市场还是自由贸易区。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "03",
+        "icon": "FileSignature",
+        "title": "注册商标",
+        "description": "为您的在线业务选择一个独特且易于品牌化的名称。",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "04",
+        "icon": "FileCheck",
+        "title": "提交申请",
+        "description": "准备护照复印件、签证、商业计划书（如有需要）和照片。",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "step": "05",
+        "icon": "Building2",
+        "title": "租赁数字办公室",
+        "description": "颁发许可证的必要条件。灵活办公桌或共享办公空间。",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "step": "06",
+        "icon": "ScrollText",
+        "title": "获取您的驾照",
+        "description": "根据司法管辖区不同，签发时间为1-5天。",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "step": "09",
+        "icon": "CreditCard",
+        "title": "连接支付网关",
+        "description": "Stripe、Telr、PayTabs 或您选择的支付处理商。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "10",
+        "icon": "Rocket",
+        "title": "开设您的商店",
+        "description": "开始销售！提供全面的平台集成支持。",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "jurisdictionsSection": {
+    "badge": "比较、选择、明智起步",
+    "title": "大陆地区还是自由区？",
+    "titleHighlight": "自由区？",
+    "subtitle": "滑动屏幕比较不同司法管辖区，选择最适合您业务的管辖区。",
+    "items": [
+      {
+        "id": "freezone",
+        "icon": "Factory",
+        "title": "自由区",
+        "tagline": "适用于国际和B2B业务",
+        "description": "提供100%所有权，免税，成本更低。非常适合国际销售或B2B业务。热门自由区：IFZA、SHAMS、CommerCity、SPC。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "100% 外资所有",
+          "无企业所得税",
+          "更低的设置成本",
+          "IFZA · SHAMS · 商业城 · SPC"
+        ],
+        "bestFor": "国际卖家"
+      },
+      {
+        "id": "mainland",
+        "icon": "Building",
+        "title": "大陆",
+        "tagline": "本地B2C销售所需",
+        "description": "如果您想直接面向阿联酋境内的客户销售产品（B2C），则必须这样做。现在，在大多数行业中，您无需当地合作伙伴即可拥有100%的业务所有权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "本地直销 B2C",
+          "100% 所有权（大多数行业）",
+          "阿联酋市场准入",
+          "政府合同"
+        ],
+        "bestFor": "阿联酋本地卖家"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "你需要准备什么",
+    "title": "所需文件",
+    "titleHighlight": "文件",
+    "subtitle": "我们会代表您处理所有文书工作和审批事宜。",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "签证或入境章",
+        "desc": "如适用"
+      },
+      {
+        "icon": "Camera",
+        "label": "护照尺寸照片",
+        "desc": "近期，白色背景"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "三个拟定商标名称",
+        "desc": "独特且易于打造品牌。"
+      },
+      {
+        "icon": "Home",
+        "label": "办公室租赁协议",
+        "desc": "对于某些自由区或大陆地区"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "NOC证书",
+        "desc": "适用于持有有效签证的阿联酋居民"
+      }
+    ]
+  },
+  "platformsSection": {
+    "badge": "随时随地销售",
+    "title": "在任何平台上销售",
+    "titleHighlight": "任何平台",
+    "subtitle": "在各大电商平台和社交平台上注册、销售和推广。",
+    "items": [
+      {
+        "name": "Amazon.ae",
+        "icon": "ShoppingBag",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "name": "Noon.com",
+        "icon": "Store",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "name": "Shopify",
+        "icon": "ShoppingCart",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "name": "WooCommerce",
+        "icon": "Laptop",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "name": "Wix商店",
+        "icon": "Globe",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "name": "AliExpress代发货",
+        "icon": "Package",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "integrationsSection": {
+    "title": "支付网关和物流合作伙伴",
+    "paymentGateways": [
+      {
+        "name": "条纹",
+        "icon": "CreditCard",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "name": "工资表",
+        "icon": "CreditCard",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "name": "特尔",
+        "icon": "CreditCard",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "name": "国际网络",
+        "icon": "CreditCard",
+        "color": "from-red-400 to-orange-600"
+      }
+    ],
+    "logisticsPartners": [
+      {
+        "name": "阿拉麦斯",
+        "icon": "Truck",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "name": "费奇尔",
+        "icon": "Truck",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "name": "DHL",
+        "icon": "Truck",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "name": "阿联酋邮政",
+        "icon": "Truck",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "企业启动专家",
+    "titleHighlight": "专家",
+    "subtitle": "企业家信赖我们为其搭建电子商务平台的八大理由。",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "label": "企业启动专家",
+        "desc": "训练有素的人员将全程指导您。"
+      },
+      {
+        "icon": "Rocket",
+        "label": "快速许可证审批",
+        "desc": "采用我们成熟的流程，只需 2-5 天即可完成。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "政府全面协调",
+        "desc": "申请准确，审批顺利"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "安全支付网关",
+        "desc": "第一天就完成了设置"
+      },
+      {
+        "icon": "Laptop",
+        "label": "平台培训",
+        "desc": "Shopify、亚马逊、Noon 指南"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "专属客户经理",
+        "desc": "私人关系经理"
+      },
+      {
+        "icon": "Palette",
+        "label": "品牌、客户关系管理和网站",
+        "desc": "完整的数字化设置"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "开启你的梦想事业",
+    "titleHighlight": "梦想事业",
+    "subtitle": "您的在线业务交给专家打理。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10,000+",
+        "label": "公司成立",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "全球的",
+        "label": "卖家覆盖范围",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "电子商务中心",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "7.5千迪拉姆",
+        "label": "起始成本",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "1-5",
+        "label": "设置天数",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "销售合作伙伴",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜电子商务许可证，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的电子商务专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜电子商务许可证的问题。"
+    },
+    "items": [
+      {
+        "q": "我可以在迪拜以外的地方经营我的电子商务业务吗？",
+        "a": "是的。许多自由区允许您远程办公。如果您是阿联酋居民并想开设银行账户，您可能需要暂时前往迪拜进行KYC（了解您的客户）流程。"
+      },
+      {
+        "q": "申请电子商务许可证需要仓库吗？",
+        "a": "不。大多数电子商务许可证只需要灵活办公桌或共享办公空间。仓库是可选的，如果您需要实体存储空间，可以稍后添加。"
+      },
+      {
+        "q": "我可以使用同一许可证销售产品和服务吗？",
+        "a": "是的。电子商务许可证涵盖实体产品和数字服务，包括在线交易、门户网站和可下载产品。"
+      },
+      {
+        "q": "我可以使用哪些支付网关？",
+        "a": "您可以集成 Stripe、PayTabs、Telr、Network International 以及其他区域性和国际支付处理商。我们将协助您完成设置和集成。"
+      },
+      {
+        "q": "我在阿联酋需要开立银行账户吗？",
+        "a": "强烈推荐。阿联酋企业银行账户可让您接收本地付款、对接支付网关并高效管理财务。"
+      },
+      {
+        "q": "我可以雇用持有此许可证的员工吗？",
+        "a": "是的。电子商务许可证允许您根据签证配额，为员工申请工作签证，为家庭成员申请家属签证。"
+      },
+      {
+        "q": "我凭这张驾照能拿到签证吗？",
+        "a": "是的。您可以申请投资者签证（作为所有者）以及团队成员的员工签证。我们负责办理所有签证手续，包括体检和阿联酋身份证。"
+      },
+      {
+        "q": "我的企业在迪拜需要缴税吗？",
+        "a": "在符合条件的自由区内，电子商务企业可享受0%的个人所得税和0%的企业所得税。我们提供全面的税务咨询和增值税注册指导。"
+      },
+      {
+        "q": "获得许可证需要多长时间？",
+        "a": "通常需要 1-5 个工作日，具体时间取决于您所在的司法管辖区以及您提供文件的速度。我们会加快整个流程。"
+      },
+      {
+        "q": "我以后可以升级或扩展许可证吗？",
+        "a": "是的。随着业务的增长，您可以增加新的业务活动、升级办公空间、增加签证配额或扩展到多个司法管辖区。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的电子商务许可证完美搭配的服务。",
+    "items": [
+      {
+        "slug": "company-registration",
+        "title": "在迪拜注册公司",
+        "description": "快速便捷的注册服务，价格低至 5,750 迪拉姆。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "slug": "residence-visa",
+        "title": "阿联酋居留签证",
+        "description": "为创业者提供2-10年的驻留计划。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-pink-400 to-rose-600"
+      },
+      {
+        "slug": "free-zone-company-setup",
+        "title": "自由区公司设立",
+        "description": "在免税区拥有100%所有权。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-rose-400 to-red-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "让您的网上商店合法化",
+    "title": "准备好启动您的电子商务业务了吗？",
+    "titleHighlight": "电子商务业务？",
+    "subtitle": "轻松在迪拜拥有您的企业。从许可证和签证到支付网关和银行账户——我们统统包办。",
+    "chips": [
+      "免费咨询",
+      "7,500 迪拉姆起",
+      "1-5天安装完成"
+    ],
+    "whatsappMessage": "您好！我想咨询一下电子商务许可证的相关事宜，可以免费咨询一下。",
+    "whatsappCardMessage": "您好！我想咨询一下电子商务许可证的相关事宜。"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "badge": "Our Track Record",
+  "heading": {
+    "line1": "Trusted by",
+    "line2Highlight": "500+ Businesses"
+  },
+  "subtitle": "Numbers that speak for themselves — 15 years of excellence, 500+ successful launches, and a team that never sleeps.",
+  "stats": [
+    {
+      "icon": "Users",
+      "value": 10000,
+      "suffix": "+",
+      "label": "Happy Clients",
+      "description": "Businesses launched across UAE",
+      "gradient": "from-sky-400 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)"
+    },
+    {
+      "icon": "Award",
+      "value": 15,
+      "suffix": "+",
+      "label": "Years Experience",
+      "description": "Trusted expertise in UAE setup",
+      "gradient": "from-violet-400 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)"
+    },
+    {
+      "icon": "UserCheck",
+      "value": 25,
+      "suffix": "+",
+      "label": "Expert Consultants",
+      "description": "Dedicated team for every client",
+      "gradient": "from-amber-400 to-orange-500",
+      "glowColor": "rgba(245,158,11,0.4)"
+    },
+    {
+      "icon": "Clock",
+      "value": 24,
+      "suffix": "/7",
+      "label": "Customer Care",
+      "description": "Always available for support",
+      "gradient": "from-emerald-400 to-green-600",
+      "glowColor": "rgba(16,185,129,0.4)"
+    }
+  ],
+  "bottomTrust": [
+    { "label": "Licensed & Regulated", "color": "bg-brand-green" },
+    { "label": "Dubai Economy Approved", "color": "bg-brand-sky" },
+    { "label": "Multi-Jurisdiction Expertise", "color": "bg-brand-violet" }
+  ]
+}

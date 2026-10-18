@@ -1,0 +1,146 @@
+{
+  "badge": "专业服务",
+  "heading": {
+    "line1": "专注于您",
+    "highlight": "成功"
+  },
+  "subtitle": "除了公司注册之外，我们还提供全套专业服务，以确保您的阿联酋业务持续增长并合规运营。",
+  "hoverHint": "← 将鼠标悬停在卡片上查看详情 →",
+  "services": [
+    {
+      "slug": "corporate-tax-vat",
+      "icon": "Receipt",
+      "title": "企业所得税和增值税",
+      "description": "专业的税务咨询、增值税登记、申报和联邦税务局合规服务。",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+      "gradient": "from-emerald-400 to-teal-600",
+      "points": [
+        "增值税登记和申报",
+        "公司所得税申报表",
+        "FTA审计支持",
+        "税务咨询服务",
+        "修订与更正"
+      ]
+    },
+    {
+      "slug": "bank-account",
+      "icon": "CreditCard",
+      "title": "银行账户开立",
+      "description": "在阿联酋顶级银行开设企业银行账户。提供全面的KYC支持。",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+      "gradient": "from-sky-400 to-blue-600",
+      "points": [
+        "大陆及自由区账户",
+        "KYC文件准备",
+        "银行面试安排",
+        "多币种设置（阿联酋迪拉姆/美元）",
+        "WPS 和增值税账户关联"
+      ]
+    },
+    {
+      "slug": "accounting",
+      "icon": "Calculator",
+      "title": "会计",
+      "description": "记账、工资、审计和对账均由专家处理。",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+      "gradient": "from-violet-400 to-purple-600",
+      "points": [
+        "日常记账",
+        "WPS工资处理",
+        "增值税对账",
+        "财务报表",
+        "审计准备"
+      ]
+    },
+    {
+      "slug": "digital-marketing",
+      "icon": "Megaphone",
+      "title": "数字营销",
+      "description": "定制营销活动、社交媒体和内容策略，以实现转化。",
+      "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+      "gradient": "from-pink-400 to-rose-600",
+      "points": [
+        "社交媒体管理",
+        "Google 和 Meta Ads",
+        "内容策略",
+        "电子邮件营销",
+        "分析与报告"
+      ]
+    },
+    {
+      "slug": "web-development",
+      "icon": "Code",
+      "title": "网站开发",
+      "description": "现代、响应式网站——从落地页到完整的电子商务网站。",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+      "gradient": "from-amber-400 to-orange-600",
+      "points": [
+        "定制企业网站",
+        "电子商务商店",
+        "高转化率着陆页",
+        "移动响应式设计",
+        "速度优化"
+      ]
+    },
+    {
+      "slug": "seo",
+      "icon": "Search",
+      "title": "搜索引擎优化服务",
+      "description": "站内和站外SEO、关键词定位和效果跟踪。",
+      "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80",
+      "gradient": "from-lime-400 to-green-600",
+      "points": [
+        "关键词研究",
+        "页面优化",
+        "技术SEO审核",
+        "高质量链接建设",
+        "本地搜索引擎优化（谷歌地图）"
+      ]
+    },
+    {
+      "slug": "compliance",
+      "icon": "ShieldCheck",
+      "title": "合规服务",
+      "description": "UBO 备案、ESR 报告、许可证续期和监管支持。",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+      "gradient": "from-cyan-400 to-blue-600",
+      "points": [
+        "UBO备案及更新",
+        "ESR报告提交",
+        "许可证续期",
+        "反洗钱合规",
+        "年度申报"
+      ]
+    },
+    {
+      "slug": "golden-visa",
+      "icon": "Crown",
+      "title": "黄金签证协助",
+      "description": "获得阿联酋10年居留签证，并提供全程文件办理支持。",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "gradient": "from-yellow-400 to-amber-600",
+      "points": [
+        "投资者黄金签证",
+        "业主类别",
+        "企业家签证",
+        "专业人才签证",
+        "家庭赞助"
+      ]
+    },
+    {
+      "slug": "pro-services",
+      "icon": "FileText",
+      "title": "专业服务",
+      "description": "阿联酋身份证、劳工卡、签证盖章和公司续期。",
+      "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+      "gradient": "from-indigo-400 to-purple-600",
+      "points": [
+        "阿联酋身份证处理",
+        "签证盖章和续签",
+        "劳动卡（MOHRE）",
+        "营业执照续期",
+        "外交部文件认证"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+    "heroBadge":  "İletişime Geçin",
+    "heroTitle":  "Bize Ulaşın",
+    "heroTitleHighlight":  "Biz",
+    "heroSubtitle":  "Sorularınız mı var veya desteğe mi ihtiyacınız var? Ekibimiz size yardımcı olmak için burada; bize ulaşın, en kısa sürede size geri döneceğiz.",
+    "contactCards":  [
+                         {
+                             "icon":  "Kulaklık",
+                             "title":  "7/24 Destek",
+                             "lines":  [
+                                           "+971 56 655 6645",
+                                           "setupzonedubai@gmail.com"
+                                       ],
+                             "color":  "gül-400\u0027den-pembe-600\u0027e",
+                             "actions":  [
+                                             {
+                                                 "label":  "Şimdi Ara",
+                                                 "link":  "tel:+971566556645",
+                                                 "icon":  "Telefon"
+                                             },
+                                             {
+                                                 "label":  "E-posta",
+                                                 "link":  "mailto:setupzonedubai@gmail.com",
+                                                 "icon":  "Posta"
+                                             }
+                                         ]
+                         },
+                         {
+                             "icon":  "Bina 2",
+                             "title":  "Ana Ofis "“ Dubai (Genel Merkez)",
+                             "lines":  [
+                                           "Ofis M08-27, M1 Katı, Crystal Tower",
+                                           "Business Bay, Dubai, BAE "” Posta Kutusu 554552"
+                                       ],
+                             "color":  "from-amber-400 to-orange-600",
+                             "actions":  [
+                                             {
+                                                 "label":  "Arama",
+                                                 "link":  "tel:+971566556645",
+                                                 "icon":  "Telefon"
+                                             },
+                                             {
+                                                 "label":  "Yol Tarifi",
+                                                 "link":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+                                                 "icon":  "Harita İşareti"
+                                             }
+                                         ]
+                         },
+                         {
+                             "icon":  "Küre",
+                             "title":  "Çalışma Saatleri",
+                             "lines":  [
+                                           "Pazartesi "“ Cuma: 08:00 "“ 18:00",
+                                           "Cumartesi: 10:00 - 17:00 "¢ Pazar: Kapalı"
+                                       ],
+                             "color":  "from-emerald-400 to-teal-600",
+                             "actions":  [
+                                             {
+                                                 "label":  "WhatsApp",
+                                                 "link":  "whatsapp",
+                                                 "icon":  "Mesaj Çemberi"
+                                             },
+                                             {
+                                                 "label":  "E-posta",
+                                                 "link":  "mailto:setupzonedubai@gmail.com",
+                                                 "icon":  "Posta"
+                                             }
+                                         ]
+                         }
+                     ],
+    "trustBar":  {
+                     "ratingText":  "5 üzerinden 4,5 yıldız",
+                     "scoreLabel":  "Güven Puanı 4,5",
+                     "awardText":  "En İyi Yetenekli İş Kurma Uzmanları"
+                 },
+    "formSection":  {
+                        "badge":  "Sorularınız mı var?",
+                        "title":  "Hadi sohbete başlayalım.",
+                        "titleHighlight":  "Konuşma",
+                        "subtitle":  "Yeni kurulan şirketlerden büyük işletmelere kadar Dubai\u0027deki işletmeler, başarıyı yakalamak için inovasyona güveniyor.",
+                        "submitButton":  "Mesaj Gönder",
+                        "secureNote":  "Bilgileriniz güvende ve korunmaktadır.",
+                        "successTitle":  "Teşekkür ederim!",
+                        "successText":  "Mesajınızı aldık. Ekibimiz kısa süre içinde sizinle iletişime geçecektir.",
+                        "successWhatsappText":  "WhatsApp\u0027ta sohbet edin",
+                        "successWhatsappMessage":  "Merhaba! İletişim formunu az önce gönderdim.",
+                        "subjects":  [
+                                         "Serbest Bölge Kurulumu",
+                                         "Anakara Kurulumu",
+                                         "Vize Hizmetleri",
+                                         "Banka Hesabı",
+                                         "Altın Vize",
+                                         "PRO Hizmetleri",
+                                         "Genel Soruşturma"
+                                     ]
+                    },
+    "sidebar":  {
+                    "instantCard":  {
+                                        "availableBadge":  "7/24 Hizmetinizde",
+                                        "title":  "Hemen İletişime Geçin",
+                                        "text":  "Uzmanlarımızla telefon veya WhatsApp üzerinden iletişime geçin.",
+                                        "callLabel":  "Bizi Arayın",
+                                        "callNumber":  "+971 56 655 6645",
+                                        "callHref":  "tel:+971566556645",
+                                        "whatsappLabel":  "WhatsApp",
+                                        "whatsappValue":  "Anında Yanıt",
+                                        "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027nde iş kurma konusunu görüşmek istiyorum."
+                                    },
+                    "officeCard":  {
+                                       "title":  "Ofisimizi Ziyaret Edin",
+                                       "officeLabel":  "Dubai "” Genel Merkez",
+                                       "addressLine1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                       "addressLine2":  "Business Bay, Dubai, B.A.E "” Posta Kutusu: 554552",
+                                       "phone":  "+971 56 655 6645",
+                                       "phoneHref":  "tel:+971566556645",
+                                       "directionsHref":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+                                       "emailLabel":  "Bize e-posta gönderin",
+                                       "email1":  "setupzonedubai@gmail.com",
+                                       "email1Href":  "mailto:setupzonedubai@gmail.com",
+                                       "email2":  "setupzonedubai@gmail.com",
+                                       "email2Href":  "mailto:setupzonedubai@gmail.com",
+                                       "hoursLabel":  "Çalışma Saatleri",
+                                       "hours":  [
+                                                     {
+                                                         "day":  "Pazartesi "“ Cuma",
+                                                         "time":  "Sabah 8 - Akşam 6"
+                                                     },
+                                                     {
+                                                         "day":  "Cumartesi",
+                                                         "time":  "10:00 - 17:00"
+                                                     },
+                                                     {
+                                                         "day":  "Pazar",
+                                                         "time":  "Kapalı",
+                                                         "closed":  true
+                                                     }
+                                                 ]
+                                   }
+                },
+    "faqs":  {
+                 "badge":  "Hızlı Cevaplar",
+                 "title":  "Sıkça Sorulan Sorular",
+                 "titleHighlight":  "Sorular",
+                 "subtitle":  "Birleşik Arap Emirlikleri\u0027nde iş kurmadan önce bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                 "relatedServicesTitle":  "İlgili Hizmetler ve Kılavuzlar",
+                 "items":  [
+                               {
+                                   "q":  "Dubai\u0027de iş kurmanın maliyeti ne kadar?",
+                                   "a":  "Dubai\u0027de iş kurmanın başlangıç maliyeti, temel serbest bölge lisansı için 9.500 AED\u0027den başlıyor. Ana karada ise bu maliyet 14.500 AED\u0027den başlıyor."
+                               },
+                               {
+                                   "q":  "Bir yabancı Dubai\u0027de bir şirketin %100\u0027üne sahip olabilir mi?",
+                                   "a":  "Evet, yabancılar çoğu serbest bölgede ve anakara Çin\u0027deki birçok faaliyette şirketlerin %100\u0027üne sahip olabilirler."
+                               },
+                               {
+                                   "q":  "Dubai\u0027deki en ucuz serbest bölge hangisidir?",
+                                   "a":  "RAK ICC, Ajman FTZ ve SRTIP, 5.900 AED\u0027den başlayan en uygun fiyatlı paketleri sunmaktadır."
+                               },
+                               {
+                                   "q":  "Dubai\u0027de şirket kaydı ne kadar sürer?",
+                                   "a":  "Serbest bölgeye kayıt işlemi 3-7 iş günü sürer. Anakara için bu süre 2-4 haftadır."
+                               },
+                               {
+                                   "q":  "Dubai\u0027de yerel bir ortağa ihtiyacım var mı?",
+                                   "a":  "Serbest bölgelerde durum böyle değil. Anakara\u0027da ise birçok faaliyet artık %100 yabancı mülkiyetine izin veriyor."
+                               }
+                           ],
+                 "relatedServices":  [
+                                         {
+                                             "icon":  "DosyaMetni",
+                                             "title":  "Dubai Şirket Kayıt Kontrol Listesi",
+                                             "desc":  "Ücretsiz indirilebilir PDF kılavuzu",
+                                             "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                             "cta":  "Ücretsiz İndir",
+                                             "link":  "#"
+                                         },
+                                         {
+                                             "icon":  "Hediye",
+                                             "title":  "Referans Programı "“ 500 AED Kazanın",
+                                             "desc":  "Arkadaşını tavsiye et ve ödül kazan",
+                                             "color":  "from-amber-400 to-orange-600",
+                                             "cta":  "Daha fazla bilgi edin",
+                                             "link":  "/referral"
+                                         }
+                                     ]
+             },
+    "finalCTA":  {
+                     "badge":  "Hadi başlayalım",
+                     "title":  "Hadi bizimle başlayalım!",
+                     "titleHighlight":  "Biz",
+                     "subtitle":  "Daha fazla bilgi ve destek ekibi "” tek bir telefonla işlemleri başlatabiliriz.",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappText":  "WhatsApp",
+                     "whatsappMessage":  "Merhaba! Ücretsiz bir danışmanlık görüşmesi almak istiyorum.",
+                     "chips":  [
+                                   "10.000\u0027den fazla Şirket",
+                                   "15+ Yıl",
+                                   "%100 Sahiplik"
+                               ],
+                     "cards":  {
+                                   "call":  {
+                                                "label":  "Bizi doğrudan arayın",
+                                                "value":  "+971 56 655 6645",
+                                                "note":  "â— Pazartesi-Cumartesi: 09:00 - 18:00",
+                                                "href":  "tel:+971566556645"
+                                            },
+                                   "email":  {
+                                                 "label":  "Bize e-posta gönderin",
+                                                 "value":  "setupzonedubai@gmail.com",
+                                                 "note":  "â— 24 saat içinde yanıt verilecektir.",
+                                                 "href":  "mailto:setupzonedubai@gmail.com"
+                                             },
+                                   "office":  {
+                                                  "label":  "Ofisimizi Ziyaret Edin",
+                                                  "line1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                                  "line2":  "Business Bay, Dubai, B.A.E "” Posta Kutusu: 554552"
+                                              }
+                               }
+                 },
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80"
+}

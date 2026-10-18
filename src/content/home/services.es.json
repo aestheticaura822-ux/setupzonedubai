@@ -1,0 +1,75 @@
+{
+  "badge": "Nuestros servicios principales",
+  "heading": {
+    "line1": "Configuración integral de negocios en",
+    "highlight": "Dubái y Emiratos írabes Unidos"
+  },
+  "subtitle": "Zona Franca, territorio continental y apoyo empresarial integral: todo lo que necesita para lanzar su negocio y crecer en los EAU, todo en un mismo lugar.",
+  "services": [
+    {
+      "id": "freezone",
+      "icon": "Building2",
+      "title": "Configuración de zona franca",
+      "tagline": "Para empresas internacionales y remotas",
+      "description": "Propiedad al 100%, cero impuestos, posibilidad de trabajar a distancia: te ponemos en contacto con la mejor zona franca que se ajuste a tu actividad y presupuesto.",
+      "image": "https://images.pexels.com/photos/36260007/pexels-photo-36260007.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "Propiedad 100% extranjera",
+        "0% de impuestos personales y corporativos",
+        "5 actividades empresariales gratuitas",
+        "Configuración compatible con el control remoto"
+      ],
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)",
+      "accentColor": "texto-cielo-600",
+      "bgAccent": "bg-sky-50",
+      "borderAccent": "border-sky-200",
+      "number": "01"
+    },
+    {
+      "id": "mainland",
+      "icon": "Globe",
+      "title": "Configuración continental",
+      "tagline": "Para operaciones en el mercado local de los EAU",
+      "description": "Comercie en todo Emiratos írabes Unidos, contrate personal libremente y expanda su presencia. Nos encargamos de toda la documentación, licencias y apoyo administrativo del Departamento de Desarrollo Económico (DED).",
+      "image": "https://images.pexels.com/photos/32761488/pexels-photo-32761488.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "Acceso total al mercado de los EAU",
+        "Sin restricciones comerciales",
+        "Contratar empleados libremente",
+        "Licitaciones gubernamentales elegibles"
+      ],
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentColor": "texto-violeta-600",
+      "bgAccent": "bg-violet-50",
+      "borderAccent": "border-violet-200",
+      "number": "02"
+    },
+    {
+      "id": "support",
+      "icon": "Briefcase",
+      "title": "Soporte empresarial",
+      "tagline": "Para empresas activas en los Emiratos írabes Unidos",
+      "description": "¿Diriges una empresa? Nosotros nos encargamos de la parte administrativa: IVA, banca, renovaciones, nóminas, visados, documentación legal y mucho más.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+      "features": [
+        "Declaración del IVA y del impuesto de sociedades",
+        "Gestión de cuentas bancarias",
+        "Renovación de licencias y visas",
+        "Nómina y contabilidad"
+      ],
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentColor": "texto-ámbar-600",
+      "bgAccent": "bg-amber-50",
+      "borderAccent": "border-amber-200",
+      "number": "03"
+    }
+  ],
+  "bottomCTA": {
+    "question": "¿No estás seguro de cuál es el adecuado para ti?",
+    "buttonText": "Hable con un experto",
+    "buttonLink": "#contacto"
+  }
+}

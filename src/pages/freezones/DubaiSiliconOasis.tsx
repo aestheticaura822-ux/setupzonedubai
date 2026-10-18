@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dsoData from '../../content/freezones/dubai-silicon-oasis-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock,
@@ -23,9 +24,10 @@ const iconMap: any = {
   Factory, Heart, Cpu, Bot, Wifi, Server, ShoppingCart, Truck,
   GraduationCap, Home2,
 };
-
 export default function DubaiSiliconOasis({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dsoData;
+  const { language } = useLanguage();
+  const dsoFallback = loadContent('freezones/dubai-silicon-oasis-free-zone', language);
+  const data = tinaData?.data?.freeZones || dsoFallback;
 
   return (
     <div className="min-h-screen bg-white">

@@ -1,0 +1,532 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "Tam İkamet Avantajlarından Yararlanın",
+    "heroTitle":  "BAE Oturma Vizesi Hizmetleri",
+    "heroTitleHighlight":  "Vize Hizmetleri",
+    "heroSubtitle":  "Birleşik Arap Emirlikleri oturum vizenizi, uygunluk şartları, belgeler, sağlık kontrolleri, Emirates Kimliği ve aile sponsorluğu konularında uzman rehberliğiyle halledin. Tamamen yasalara uygun, retsiz bir süreç.",
+    "heroChips":  [
+                      "5 Vize Türü",
+                      "2-10 Yıl Geçerlilik",
+                      "Aile Sponsorluğu",
+                      "Vergisiz"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Saat",
+                      "value":  "2-10",
+                      "label":  "Geçerlilik Süresi",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "5",
+                      "label":  "Vize Kategorileri",
+                      "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "180+",
+                      "label":  "Hizmet Verilen Milliyetler",
+                      "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                  },
+                  {
+                      "icon":  "Zap",
+                      "value":  "Hızlı",
+                      "label":  "İşleme",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Neden Önemli?",
+                          "title":  "Birleşik Arap Emirlikleri Oturma Vizesi Nedir?",
+                          "titleHighlight":  "BAE Oturma Vizesi?",
+                          "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Yasal İkamet",
+                          "imageBadgeText":  "2-10 Yaş",
+                          "paragraphs":  [
+                                             "Birleşik Arap Emirlikleri oturma vizesi, yabancı uyruklu kişilerin Birleşik Arap Emirlikleri\u0027nde 2 ila 10 yıl arasında geçerli bir süreyle ikamet etmelerine izin veren bir devlet belgesidir.",
+                                             "Turist vizesinden farklı olarak, ikamet vizesi size Dubai\u0027de ve diğer tüm emirliklerde yasal olarak yaşama, çalışma, mülk sahibi olma, kamu sağlık hizmetlerinden yararlanma ve bakmakla yükümlü olduğunuz kişilere sponsor olma imkanı tanır. İş, çalışma, aile, yatırım veya emeklilik gibi nedenlerle BAE\u0027de uzun süreli ikamet etmek isteyen herkes için bu vize zorunludur.",
+                                             "Setup Zone Dubai\u0027de bireylere, yatırımcılara, ailelere ve işletme sahiplerine kişiselleştirilmiş, mevzuata uygun ve zaman tasarrufu sağlayan oturum vizesi çözümleri sunuyoruz."
+                                         ],
+                          "highlights":  [
+                                             "Yasal Uzun Süreli Oturma İzni",
+                                             "Çalışma Hakları",
+                                             "Mülkiyet Sahipliği",
+                                             "Bankacılık Erişimi",
+                                             "Aile Sponsorluğu",
+                                             "Sağlık Hizmetlerine Erişim"
+                                         ]
+                      },
+    "benefitsSection":  {
+                            "badge":  "BAE Vizesi ile Daha İyi Bir Yaşam",
+                            "title":  "Birleşik Arap Emirlikleri Oturma Vizesinin Faydaları",
+                            "titleHighlight":  "BAE Oturma Vizesi",
+                            "subtitle":  "Birleşik Arap Emirlikleri\u0027nde yaşamanın, çalışmanın ve başarılı olmanın dokuz güçlü avantajı.",
+                            "items":  [
+                                          {
+                                              "icon":  "Saat",
+                                              "title":  "Uzun Süreli İkamet",
+                                              "description":  "Dubai\u0027de veya diğer Emirlikler\u0027de 2 ila 10 yıl arasında kesintisiz yasal ikamet izninin keyfini çıkarın, süresi dolduğunda yenilenebilir.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "İş ve Yatırım Özgürlüğü",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027nde iş kurun, mülk sahibi olun ve yatırım yapın; tam yasal mülkiyet ve büyüme özgürlüğüyle.",
+                                              "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "Ailenize Sponsor Olun",
+                                              "description":  "Eşinizi, çocuklarınızı, ebeveynlerinizi veya ev hizmetlilerinizi tam sponsorluk desteğiyle BAE\u0027ye getirin.",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Banka",
+                                              "title":  "Bankacılık Erişimi",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027nde banka hesapları açın, kredi imkanlarından yararlanın ve mali durumunuzu tam bir özgürlükle yönetin.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Stetoskop",
+                                              "title":  "Sağlık ve Eğitim",
+                                              "description":  "Siz ve aileniz için dünya standartlarında sağlık hizmetlerine ve üst düzey eğitime erişin.",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Uçak",
+                                              "title":  "Vizesiz Seyahat Avantajları",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027ne giriş ve çıkış kolaylığı, Körfez İşbirliği Konseyi ülkelerine ve dünya genelindeki vizesiz seyahat noktalarına erişim imkanı.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Madeni paralar",
+                                              "title":  "Vergisiz Gelir",
+                                              "description":  "%0 kişisel gelir vergisi avantajından yararlanın "” kazançlarınızın %100\u0027ünü elinizde tutun ve servetinizi en üst düzeye çıkarın.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Araba",
+                                              "title":  "Sürücü Belgesi ve SIM Kart",
+                                              "description":  "Oturma vizenizle BAE sürücü ehliyetinizi, mobil SIM kartınızı ve fatura bağlantılarınızı alın.",
+                                              "color":  "from-purple-400 to-fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "Kimlik Kartı",
+                                              "title":  "Emirates Kimliği",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027ndeki tüm kamu ve özel hizmetlere erişimin anahtarı olan resmi Emirates Kimlik Kartınızı edinin.",
+                                              "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "visaTypesSection":  {
+                             "badge":  "Size Uygun Vizeyi Seçin",
+                             "title":  "Birleşik Arap Emirlikleri Oturma Vizesi Türleri",
+                             "titleHighlight":  "BAE Oturma Vizeleri",
+                             "subtitle":  "6 kategori arasından seçim yapın ve hedeflerinize uygun olanı bulun.",
+                             "items":  [
+                                           {
+                                               "id":  "yatırımcı",
+                                               "icon":  "Trend Yükseliyor",
+                                               "title":  "Yatırımcı Vizesi",
+                                               "tagline":  "Mülk veya İşletme",
+                                               "description":  "Birleşik Arap Emirlikleri\u0027nde gayrimenkule (750.000 AED - 2 milyon AED) veya şirket hisselerine yatırım yapmak isteyenler için idealdir. 2-10 yıl oturma izni, aile sponsorluğu ve kalıcı oturma iznine giden bir yol sağlar.",
+                                               "image":  "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200\u0026q=80",
+                                               "color":  "zümrüt-500\u0027den turkuaz-700\u0027e",
+                                               "features":  [
+                                                                "Gayrimenkulün fiyatı 750.000 AED ile 2 milyon AED arasında değişmektedir.",
+                                                                "Şirket Hisseleri",
+                                                                "2-10 Yıl İkamet Süresi",
+                                                                "Aile Sponsorluğu"
+                                                            ],
+                                               "bestFor":  "Yatırımcılar"
+                                           },
+                                           {
+                                               "id":  "serbest çalışan",
+                                               "icon":  "Dizüstü bilgisayar",
+                                               "title":  "Serbest Çalışan / Uzaktan Çalışan",
+                                               "tagline":  "Dijital Göçebeler",
+                                               "description":  "Serbest çalışanlar, uzaktan çalışanlar ve dijital göçebeler için mükemmel. Seçenekler arasında Serbest Bölge serbest çalışma vizesi, oturma izni veya Sanal Çalışma Programı yer alıyor.",
+                                               "image":  "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200\u0026q=80",
+                                               "color":  "turkuaz-500\u0027den camgöbeği-700\u0027e",
+                                               "features":  [
+                                                                "Serbest Bölge Serbest Çalışan Vizesi",
+                                                                "Sanal Çalışma Programı",
+                                                                "Portföy Doğrulama",
+                                                                "Yasal Çalışma Hakları"
+                                                            ],
+                                               "bestFor":  "Serbest Çalışanlar ve Göçebeler"
+                                           },
+                                           {
+                                               "id":  "istihdam",
+                                               "icon":  "Evrak çantası",
+                                               "title":  "Çalışma Vizesi",
+                                               "tagline":  "En Yaygın",
+                                               "description":  "En yaygın vize türü olup, işveren sponsorluğunda sağlanır ve 2 yıl (anakara) veya 3 yıl (serbest bölge) geçerlidir. Emirates kimlik kartı, banka hesabı, sigorta ve bakmakla yükümlü olunan kişilerin sponsorluğunu içerir.",
+                                               "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                               "color":  "siyan-500\u0027den-mavi-700\u0027e",
+                                               "features":  [
+                                                                "İşveren Destekli",
+                                                                "2-3 Yıl Geçerlilik",
+                                                                "Emirates Kimliği",
+                                                                "Sigorta Dahil"
+                                                            ],
+                                               "bestFor":  "Çalışanlar"
+                                           },
+                                           {
+                                               "id":  "aile",
+                                               "icon":  "KalpElSıkışması",
+                                               "title":  "Aile Vizesi",
+                                               "tagline":  "Bağımlı İstihdam",
+                                               "description":  "Çalışma veya yatırımcı vizesi sahiplerinin eşlerini, çocuklarını, ebeveynlerini veya ev hizmetlilerini sponsor etmelerine olanak tanır. Asgari ücret, konut ve sigorta şartı aranır.",
+                                               "image":  "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200\u0026q=80",
+                                               "color":  "mavi-500\u0027den çivit-700\u0027e",
+                                               "features":  [
+                                                                "Eş Sponsorluğu",
+                                                                "Çocuklar ve Ebeveynler",
+                                                                "Ev Hizmetlileri",
+                                                                "Aileye Tam Destek"
+                                                            ],
+                                               "bestFor":  "Aileler"
+                                           },
+                                           {
+                                               "id":  "emekli",
+                                               "icon":  "Ev",
+                                               "title":  "BAE Emekli Vizesi",
+                                               "tagline":  "55 Yaş ve Üzeri Yabancılar İçin",
+                                               "description":  "55 yaş üstü gurbetçiler için geçerlidir. Yenileme seçenekleriyle 5 yıl geçerlidir. 1 milyon AED değerinde gayrimenkul, 1 milyon AED tasarruf veya aylık 20.000 AED gelir gerektirir. Bakmakla yükümlü olunan kişiler ve sağlık hizmetleri de kapsam dahilindedir.",
+                                               "image":  "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200\u0026q=80",
+                                               "color":  "indigo-500\u0027den mor-700\u0027e",
+                                               "features":  [
+                                                                "55 yaş üstü yabancılar",
+                                                                "5 Yıl Geçerlilik",
+                                                                "Mülk/Tasarruf/Gelir",
+                                                                "Bakmakla yükümlü olunan kişileri kapsar."
+                                                            ],
+                                               "bestFor":  "Emekliler"
+                                           },
+                                           {
+                                               "id":  "altın",
+                                               "icon":  "Taç",
+                                               "title":  "Altın Vize",
+                                               "tagline":  "10 Yıllık İkamet",
+                                               "description":  "Birleşik Arap Emirlikleri\u0027nin yatırımcılar, girişimciler, bilim insanları, akademisyenler ve yetenekli kişiler için sunduğu en üst düzey oturum izni seçeneği. %100 şirket sahipliği, uzun süreli oturum izni, aile sponsorluğu ve çoklu giriş imkanı sunmaktadır.",
+                                               "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                                               "color":  "from-violet-500 to-purple-700",
+                                               "features":  [
+                                                                "10 Yıllık İkamet",
+                                                                "%100 Şirket Sahipliği",
+                                                                "Aile Sponsorluğu",
+                                                                "Çoklu Girişler"
+                                                            ],
+                                               "bestFor":  "Yüksek Net Varlık ve Yetenek"
+                                           }
+                                       ]
+                         },
+    "whoNeedsSection":  {
+                            "badge":  "Bu Kimin İçin?",
+                            "title":  "Birleşik Arap Emirlikleri\u0027nde oturma vizesine kimler ihtiyaç duyar?",
+                            "titleHighlight":  "BAE Oturma Vizesi?",
+                            "subtitle":  "7 kategori "“ hangisi sizi tanımlıyorsa, bizde bir çözüm var.",
+                            "items":  [
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "label":  "Yatırımcılar",
+                                              "desc":  "Gayrimenkul, girişimler veya ticari işletmeler",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "label":  "Yabancılar",
+                                              "desc":  "İş için yer değiştiren profesyoneller",
+                                              "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Dizüstü bilgisayar",
+                                              "label":  "Dijital Göçebeler",
+                                              "desc":  "Dubai\u0027den uzaktan çalışan serbest çalışanlar",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "label":  "İşletme Sahipleri",
+                                              "desc":  "Anakarada veya serbest bölgede şirket kuran girişimciler",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar2",
+                                              "label":  "Aileler",
+                                              "desc":  "Eşler, çocuklar ve yaşlı bakıma muhtaç kişiler",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Ev",
+                                              "label":  "Emekliler",
+                                              "desc":  "Emeklilik sonrası rahat bir yaşam sürmeyi hedefleyen bireyler",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Taç",
+                                              "label":  "Altın Vize Başvuru Sahipleri",
+                                              "desc":  "Yüksek gelirli bireyler ve yetenek odaklı başvuru sahipleri",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          }
+                                      ],
+                            "ctaCard":  {
+                                            "title":  "Hangi vizeyi seçeceğinizden emin değil misiniz?",
+                                            "text":  "Uzmanlarımızla görüşün "” ücretsiz değerlendirme.",
+                                            "buttonText":  "Uzmana Sor",
+                                            "whatsappMessage":  "Merhaba! Doğru BAE oturum vizesini seçme konusunda yardıma ihtiyacım var."
+                                        }
+                        },
+    "packageInclusionsSection":  {
+                                     "badge":  "Neler Dahil?",
+                                     "title":  "Vize Paketimiz Şunları İçermektedir:",
+                                     "titleHighlight":  "Paket İçeriği",
+                                     "subtitle":  "Vize sürecinin tamamını kapsayan eksiksiz uçtan uca hizmet.",
+                                     "items":  [
+                                                   {
+                                                       "icon":  "Hedef",
+                                                       "title":  "Uygunluk Değerlendirmesi",
+                                                       "description":  "Geçmişiniz ve kategoriniz doğrultusunda kapsamlı değerlendirme.",
+                                                       "color":  "from-emerald-400 to-teal-600"
+                                                   },
+                                                   {
+                                                       "icon":  "Bina 2",
+                                                       "title":  "İşletme / Gayrimenkul Kurulumu",
+                                                       "description":  "Vizeniz için temel gereksinimleri karşılamanıza yardımcı olma",
+                                                       "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                                   },
+                                                   {
+                                                       "icon":  "DosyaMetni",
+                                                       "title":  "Belge Koleksiyonu",
+                                                       "description":  "Tüm belgelerin hazırlanması ve sunulması",
+                                                       "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                                   },
+                                                   {
+                                                       "icon":  "Kaydırma Metni",
+                                                       "title":  "Ticaret Lisansı Verilmesi",
+                                                       "description":  "Yatırımcı ve serbest çalışan vize kategorileri için",
+                                                       "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                   },
+                                                   {
+                                                       "icon":  "Göndermek",
+                                                       "title":  "ICA / GDRFA Başvurusu",
+                                                       "description":  "Başvuru sürecinin tamamını biz yönetiyoruz.",
+                                                       "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                                   },
+                                                   {
+                                                       "icon":  "Stetoskop",
+                                                       "title":  "Tıbbi Muayeneler",
+                                                       "description":  "Vize başvurusu için gerekli olan tıbbi testlerinizi yönetmek",
+                                                       "color":  "indigo-400\u0027den mor-600\u0027e"
+                                                   },
+                                                   {
+                                                       "icon":  "Parmak izi",
+                                                       "title":  "Biyometrik Veriler ve Emirates Kimliği",
+                                                       "description":  "Biyometrik tarama ve Emirates Kimlik Kartı işlemleri",
+                                                       "color":  "from-violet-400 to-purple-600"
+                                                   },
+                                                   {
+                                                       "icon":  "KalpElSıkışması",
+                                                       "title":  "Aile Sponsorluğu",
+                                                       "description":  "Bakmakla yükümlü olunan kişilere ait vize başvurularında yardım.",
+                                                       "color":  "from-purple-400 to-fuchsia-600"
+                                                   },
+                                                   {
+                                                       "icon":  "Banka",
+                                                       "title":  "Ticari Banka Hesabı",
+                                                       "description":  "Kurumsal bankacılık ihtiyaçlarınız için kurulum desteği.",
+                                                       "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                                   },
+                                                   {
+                                                       "icon":  "RefreshCw",
+                                                       "title":  "Yenileme ve İptal",
+                                                       "description":  "Devam eden yenileme, iptal ve yeniden düzenleme hizmetleri",
+                                                       "color":  "pembe-400\u0027den gül-600\u0027e"
+                                                   }
+                                               ]
+                                 },
+    "whyChooseUsSection":  {
+                               "badge":  "Güvenebileceğiniz Vize Hizmetleri",
+                               "title":  "Setup Zone Dubai\u0027yi Neden Seçmelisiniz?",
+                               "titleHighlight":  "Dubai\u0027de kurulum bölgesi mi?",
+                               "subtitle":  "Müşterilerimizin BAE oturum izinleri konusunda bize güvenmelerinin altı nedeni.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "title":  "%100 Şeffaflık",
+                                                 "description":  "Gizli maliyetler içermeyen şeffaf fiyatlandırma yapıları. Tüm ücretler önceden açıklanmaktadır.",
+                                                 "color":  "from-emerald-400 to-teal-600"
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcı Kontrolü",
+                                                 "title":  "Özel Vize Danışmanı",
+                                                 "description":  "Devletle ilgili tüm işlemlerden sorumlu, alanında uzman ve halkla ilişkiler sorumlusu.",
+                                                 "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "title":  "Hızlı İşleme",
+                                                 "description":  "Başvurular ve sağlık kontrolleri için hızlı işlem süreleri sunan öncelikli devlet portalları.",
+                                                 "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan",
+                                                 "title":  "GDPRFA ve ICA Uyumlu",
+                                                 "description":  "Birleşik Arap Emirlikleri\u0027nin tüm vize, oturum ve göçmenlik düzenlemelerine titizlikle uyulmaktadır.",
+                                                 "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "title":  "Çok Dilli Destek",
+                                                 "description":  "İngilizce, Arapça, Hintçe, Urduca "” ekibimiz sizin dilinizi konuşuyor.",
+                                                 "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Katmanlar",
+                                                 "title":  "Vize, Lisans ve Bankacılık",
+                                                 "description":  "İhtiyacınız olan her şey tek bir yerde "” ajanslar arasında koşuşturmanıza gerek yok.",
+                                                 "color":  "indigo-400\u0027den mor-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "İşletme Büyüme Beklentisi",
+                               "title":  "Binlerce kişi tarafından güvenilen",
+                               "titleHighlight":  "Binlerce",
+                               "subtitle":  "İkametiniz uzman ellerde.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Kullanıcılar",
+                                                 "value":  "10.000+",
+                                                 "label":  "Vize İşlemleri Tamamlandı",
+                                                 "color":  "from-emerald-400 to-teal-600"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "value":  "180+",
+                                                 "label":  "Milliyetler",
+                                                 "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Trend Yükseliyor",
+                                                 "value":  "Önde gelen",
+                                                 "label":  "Vize Uzmanı",
+                                                 "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "Hızlı",
+                                                 "label":  "İşleme",
+                                                 "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "value":  "%100",
+                                                 "label":  "Uyumlu",
+                                                 "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "value":  "Tercih edilen",
+                                                 "label":  "Vize Ortağı",
+                                                 "color":  "indigo-400\u0027den mor-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Birleşik Arap Emirlikleri Oturma Vizesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Vize uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+                                            "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri oturum vizesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri oturma vizesi ne kadar süreyle geçerlidir?",
+                                          "a":  "Süre, vize türüne bağlıdır. Çalışma veya aile vizeleri genellikle 2-3 yıldır. Yatırımcı veya emeklilik vizeleri 5 veya 10 yıldır. Altın Vize 10 yıldır ve sonrasında yenilenebilir. Hedeflerinize uygun doğru süreyi belirlemenize yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri oturma vizesi bana Birleşik Arap Emirlikleri\u0027nde çalışma izni veriyor mu?",
+                                          "a":  "Evet. Oturma vizesi, BAE\u0027de yasal olarak yaşamanıza ve çalışmanıza olanak tanır. Çalışma türü, vize kategorinize bağlıdır (istihdam, yatırımcı, serbest çalışan vb.)."
+                                      },
+                                      {
+                                          "q":  "Turist vizesi ile oturma izni vizesi arasındaki fark nedir?",
+                                          "a":  "Turist vizesi, çalışma hakkı olmaksızın kısa süreli ziyaretlere (genellikle 30-90 gün) izin verir. Oturma vizesi ise uzun süreli yasal ikamet, çalışma hakkı, bankacılık hizmetleri, mülk sahipliği, aile sponsorluğu ve sağlık hizmetlerine erişim sağlar."
+                                      },
+                                      {
+                                          "q":  "Oturma iznim varsa aile üyelerime sponsor olabilir miyim?",
+                                          "a":  "Evet. Çalışma ve yatırımcı vizesi sahipleri eşlerini, çocuklarını ve bazı durumlarda ebeveynlerini ve ev çalışanlarını sponsor edebilirler. Aile sponsorluğu sürecinin tamamını biz yürütüyoruz."
+                                      },
+                                      {
+                                          "q":  "Aileme sponsor olmak için gereken maaş şartları nelerdir?",
+                                          "a":  "Gereksinimler değişiklik gösterir. Genellikle aylık minimum bir maaşa (tipik olarak 4.000-5.000 AED ve üzeri) ek olarak yeterli konut ve sigortaya ihtiyacınız vardır. Sizin özel durumunuzu değerlendirip size tavsiyede bulunuyoruz."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde oturum vizesi için tıbbi test gerekli mi?",
+                                          "a":  "Evet. Tüm oturum vizeleri için sağlık kontrolleri (kan testi + akciğer röntgeni) zorunludur. Tüm sağlık sürecini sizin için koordine ediyoruz."
+                                      },
+                                      {
+                                          "q":  "Serbest çalışanlar veya dijital göçebeler BAE\u0027de oturum iznine başvurabilir mi?",
+                                          "a":  "Evet. Seçenekler arasında Serbest Bölge serbest çalışan vizesi, serbest çalışan oturma izni veya Sanal Çalışma Programı bulunmaktadır. Portföyünüzü ve gelir belgenizi doğrulamanıza yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Vizemi iptal etmem veya yenilemem gerekirse ne olacak?",
+                                          "a":  "Yenileme, iptal ve yeniden düzenleme işlemlerinin tamamını baştan sona biz hallediyoruz; böylece BAE\u0027deki konaklamanızın yasal ve sorunsuz geçmesini sağlıyoruz."
+                                      },
+                                      {
+                                          "q":  "Başvuru yapmak için fiziksel olarak Dubai\u0027de bulunmam gerekiyor mu?",
+                                          "a":  "İşlemlerin çoğu uzaktan başlatılabilir, ancak tıbbi testler ve Emirates Kimlik biyometrik işlemleri için fiziksel olarak orada bulunmanız gerekmektedir. Ziyaretinizin hızlı ve verimli geçmesi için her şeyi koordine ediyoruz."
+                                      },
+                                      {
+                                          "q":  "Setup Zone Dubai, BAE oturum vizesi almamda bana nasıl yardımcı olabilir?",
+                                          "a":  "Uygunluk değerlendirmesi, belge hazırlama, başvuru dosyalama, sağlık kontrolleri, Emirates Kimlik Kartı, aile sponsorluğu ve sürekli yenilemeler dahil olmak üzere uçtan uca vize hizmetleri sunuyoruz. Size özel bir danışman tüm süreç boyunca rehberlik edecektir."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Birleşik Arap Emirlikleri oturum vizenizle uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "golden-visa-services",
+                                                     "title":  "Altın Vize Hizmetleri",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "dependent-visa",
+                                                     "title":  "BAE Bağımlı Kişi Oturma Vizesi",
+                                                     "description":  "Aile sponsorluğu artık çok kolay.",
+                                                     "image":  "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Dubai\u0027de Şirket Kurulumu",
+                                                     "description":  "Serbest Bölge, Anakara ve Açık Deniz.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "Birleşik Arap Emirlikleri\u0027nde oturma vizesi almak için hazır mısınız?",
+                     "titleHighlight":  "BAE Oturma Vizesi?",
+                     "subtitle":  "Bugün bizimle iletişime geçin ve uzmanlarımızın size tam yasal şeffaflık, sabit ücretler ve gizli maliyetler olmadan rehberlik etmesine izin verin.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "Sabit Ücretler",
+                                   "Gizli Maliyet Yok"
+                               ],
+                     "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri oturum vizesi için ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Birleşik Arap Emirlikleri oturma vizesi hakkında görüşmek istiyorum."
+                 }
+}

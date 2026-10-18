@@ -1,0 +1,311 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Fast & Affordable",
+  "heroTitle": "Company Registration in Dubai",
+  "heroTitleHighlight": "in Dubai",
+  "heroSubtitle": "Register your company in 2-5 days from AED 5,750. Full support for licensing, banking, visas, and compliance across Free Zone, Mainland, and Offshore.",
+  "heroChips": ["100% Ownership", "0% Tax", "2-5 Days", "AED 5,750 Start"],
+
+  "stats": [
+    { "icon": "Zap", "value": "2-5", "label": "Days Licensing", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "DollarSign", "value": "AED 5,750", "label": "Starting Cost", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "Globe", "value": "45+", "label": "Free Zones", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "Building2", "value": "2,500+", "label": "Business Activities", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "Zero Tax & Global Access",
+    "title": "What Is Company Registration in Dubai?",
+    "titleHighlight": "Company Registration in Dubai?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Global Hub",
+    "imageBadgeText": "Europe · Asia · Africa",
+    "paragraphs": [
+      "Registering your company in Dubai means legally registering a business in the UAE mainland, free zone, or offshore jurisdictions.",
+      "At Setup Zone Dubai, we assist in the full legal, administrative, and compliance processes of company registration — delivering your trade license, visa, and business bank account setup as quickly as possible.",
+      "Dubai offers everything your business needs to grow in a hyper-competitive world, with zero personal and corporate tax, world-class infrastructure, and easy registration. Positioned at the intersection of Europe, Asia, and Africa — the best location for logistics, trade, e-commerce, and consultancy services."
+    ],
+    "highlights": ["100% Ownership", "0% Tax", "2-5 Days", "45+ Free Zones", "2,500+ Activities", "Global Access"]
+  },
+
+  "benefitsSection": {
+    "badge": "Why Register in Dubai",
+    "title": "Benefits of Company Registration",
+    "titleHighlight": "Company Registration",
+    "subtitle": "Eight powerful advantages that make Dubai the top choice for global businesses.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Own your Dubai-based company 100% with full control — no local UAE sponsor or partner required. Keep all profits and run your business independently.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "DollarSign", "title": "100% Tax Exemption", "description": "Zero corporate income tax, zero personal income tax, zero capital gains tax — legally maximize profits and reinvest in growth.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Wallet", "title": "Total Profit Freedom", "description": "No currency control restrictions. Repatriate all your profit and capital back to your home country without any financial limitations.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Compass", "title": "Global Business Hub", "description": "Located at the intersection of Europe, Asia, and Africa — ideal time zone, extensive aviation networks, world-class logistics infrastructure.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Award", "title": "Globally Trusted Brand", "description": "A Dubai company opens doors internationally with high credibility — building trust with clients, suppliers, banks, and investors.", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "Zap", "title": "Speedy Setup Process", "description": "Free Zone and Mainland companies licensed in 2-5 business days with proper documentation — quick, easy, and fully compliant.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Building2", "title": "High-End Workspaces", "description": "Premium infrastructure — modern offices, co-working spaces, warehouses, logistics hubs, and smart business parks to suit any business model.", "color": "from-rose-400 to-red-600" }
+    ]
+  },
+
+  "processSection": {
+    "badge": "8-Step Process",
+    "title": "What Is the Registration Process?",
+    "titleHighlight": "Registration Process?",
+    "subtitle": "Eight simple steps from activity to bank account.",
+    "steps": [
+      { "step": "01", "icon": "Target", "title": "Identify a Business Activity", "description": "Choose from over 2,500 activities — trading, consulting, e-commerce, IT, media, healthcare, and finance. Defines your license type and jurisdiction.", "color": "from-cyan-400 to-blue-600" },
+      { "step": "02", "icon": "FileSignature", "title": "Reserve a Trade Name", "description": "Select a unique business name compliant with UAE rules. We check availability and officially reserve it with DED or Free Zone.", "color": "from-blue-400 to-indigo-600" },
+      { "step": "03", "icon": "Scale", "title": "Choose Legal Structure", "description": "Select from Sole Proprietorship, LLC, Civil Company, or Free Zone Establishment (FZE). Determines ownership, liability, and visa quotas.", "color": "from-indigo-400 to-violet-600" },
+      { "step": "04", "icon": "FileCheck", "title": "Compile & Submit Paperwork", "description": "Prepare and submit passport copies, visa stamps, proof of address, shareholder details, and business plan. We handle all translations and notifications.", "color": "from-violet-400 to-purple-600" },
+      { "step": "05", "icon": "Building2", "title": "Find Office Space", "description": "Choose a physical office (Mainland) or flexi-desk (Free Zone). We help you find affordable options and issue all tenancy documentation.", "color": "from-purple-400 to-fuchsia-600" },
+      { "step": "06", "icon": "ScrollText", "title": "Get Your Business License", "description": "Following approval and payment you receive your business license — commercial, professional, or industrial.", "color": "from-fuchsia-400 to-pink-600" },
+      { "step": "08", "icon": "Bank", "title": "Introduce Corporate Bank Account", "description": "Set up your corporate account with Emirates NBD, Mashreq, ADCB, RAKBANK. We assist with KYC and expedite the process.", "color": "from-rose-400 to-red-600" }
+    ]
+  },
+
+  "documentsSection": {
+    "badge": "Prepare, Submit, Get Approved",
+    "title": "What Documents Do You Need?",
+    "titleHighlight": "Documents",
+    "subtitle": "We manage translations, notarizations, and submissions.",
+    "items": [
+      { "icon": "IdCard", "label": "Visa Copy or Entry Stamp", "desc": "If applicable" },
+      { "icon": "Home", "label": "Proof of Address", "desc": "Utility bill or bank statement" },
+      { "icon": "ClipboardCheck", "label": "Business Plan", "desc": "For some Free Zones" },
+      { "icon": "FileSignature", "label": "NOC from Sponsor", "desc": "If on existing visa" },
+      { "icon": "Fingerprint", "label": "Emirates ID & Medical", "desc": "For Residency Visa" }
+    ]
+  },
+
+  "activitiesSection": {
+    "badge": "Finance Innovation Made Easy",
+    "title": "Which Business Activities Can You Register?",
+    "titleHighlight": "Business Activities",
+    "subtitle": "Swipe through 8 high-demand activities — find your fit.",
+    "items": [
+      {
+        "id": "general-trading",
+        "icon": "StoreIcon",
+        "title": "General Trading & E-commerce",
+        "tagline": "Global Trade & Digital Commerce",
+        "description": "Start your General Trading or E-commerce business in Dubai — a global nexus of international trade and digital commerce. Import/export products or start an online business with world-class infrastructure.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": ["Import/Export", "E-commerce", "Dropshipping", "Worldwide Sales"],
+        "bestFor": "Traders & Retailers"
+      },
+      {
+        "id": "digital-marketing",
+        "icon": "Megaphone",
+        "title": "Digital Marketing & IT Services",
+        "tagline": "MENA Region Demand",
+        "description": "Start a Digital Marketing or IT Services business in Dubai — SEO agencies, app developers, cybersecurity consultants, cloud providers. Benefit from business-friendly regulation and MENA region growth.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": ["SEO Agencies", "App Development", "Cybersecurity", "Cloud Services"],
+        "bestFor": "Tech & Marketing Firms"
+      },
+      {
+        "id": "consulting",
+        "icon": "Briefcase",
+        "title": "Consulting & Management Services",
+        "tagline": "Strategic Advisory",
+        "description": "Start your Consulting or Business Management business in Dubai — advise startups, SMEs, or corporates on strategy, HR, finance, and operations. Choose between Free Zone or Mainland license.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": ["Strategy Consulting", "HR Advisory", "Finance Consulting", "Operations"],
+        "bestFor": "Consultants"
+      },
+      {
+        "id": "logistics",
+        "icon": "Truck",
+        "title": "Logistics, Import & Export",
+        "tagline": "Global Trade Routes",
+        "description": "Launch a Logistics, Import and Export business in the UAE — connect globally through air, sea, and land routes. World-class ports make Dubai the ideal transit hub.",
+        "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": ["Freight Forwarding", "Warehousing", "Customs Codes", "Re-Export"],
+        "bestFor": "Logistics Firms"
+      },
+      {
+        "id": "fintech",
+        "icon": "Coins",
+        "title": "FinTech & Crypto Firms",
+        "tagline": "Emerging Financial Hub",
+        "description": "Dubai is a leading location for FinTech and Cryptocurrency startups with clear regulations. Launch digital payments, online banking, crypto exchanges, or blockchain solutions.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": ["Digital Payments", "Crypto Exchanges", "Blockchain", "DIFC/ADGM/DMCC"],
+        "bestFor": "FinTech Startups"
+      },
+      {
+        "id": "web-ai-saas",
+        "icon": "Cpu",
+        "title": "Web, AI & SaaS Companies",
+        "tagline": "Next Wave of Innovation",
+        "description": "Start a Web3, AI, or SaaS company in Dubai. Develop decentralized platforms, AI software, or SaaS B2B products with government-backed tech clusters and 100% ownership.",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": ["Web3 Platforms", "AI Software", "SaaS Products", "IP Repurposing"],
+        "bestFor": "Tech Innovators"
+      },
+      {
+        "id": "healthcare",
+        "icon": "HeartPulse",
+        "title": "Healthcare & Wellness Services",
+        "tagline": "Medical Tourism Hub",
+        "description": "Launch your Healthcare or Wellness business in Dubai — clinics, telemedicine, wellness retreats. UAE is heavily investing in healthcare infrastructure and medical tourism.",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": ["Clinics", "Telemedicine", "Wellness Centers", "Medical Consulting"],
+        "bestFor": "Healthcare Providers"
+      },
+      {
+        "id": "education",
+        "icon": "GraduationCap",
+        "title": "Educational & Recruitment Services",
+        "tagline": "Talent & Learning",
+        "description": "Establish your education or recruitment agency in the UAE. Online courses, K-12 education, tutoring, or manpower recruitment — Dubai Knowledge Park and mainland licensing.",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-rose-500 to-red-700",
+        "features": ["Online Courses", "K-12 Education", "Tutoring", "Manpower Services"],
+        "bestFor": "Education & HR"
+      }
+    ]
+  },
+
+  "complianceSection": {
+    "badge": "Global Compliance",
+    "title": "Is Your Company Fully Compliant?",
+    "titleHighlight": "Fully Compliant?",
+    "items": [
+      { "icon": "Eye", "label": "Beneficial Ownership Disclosure (UBO)", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Layers", "label": "Economic Substance Regulations (ESR)", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Shield", "label": "Anti-Money Laundering (AML) Laws", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Globe2", "label": "OECD CRS Reporting Standards", "color": "from-violet-400 to-purple-600" }
+    ],
+    "footerText": "Setup Zone Dubai ensures full compliance — while maintaining business confidentiality and privacy."
+  },
+
+  "bankingSection": {
+    "badge": "Corporate Banking",
+    "title": "Can You Open a Business Bank Account?",
+    "titleHighlight": "Business Bank Account?",
+    "items": [
+      { "name": "Emirates NBD", "icon": "Bank", "color": "from-cyan-400 to-blue-600" },
+      { "name": "Mashreq Bank", "icon": "Bank", "color": "from-blue-400 to-indigo-600" },
+      { "name": "ADCB", "icon": "Bank", "color": "from-indigo-400 to-violet-600" },
+      { "name": "RAKBANK", "icon": "Bank", "color": "from-violet-400 to-purple-600" },
+      { "name": "International Banks", "icon": "Globe", "color": "from-purple-400 to-fuchsia-600" }
+    ],
+    "footerText": "We support with KYC preparation, document collection, and account activation — including IBAN and multi-currency support."
+  },
+
+  "costComparisonSection": {
+    "badge": "2026 Cost Guide",
+    "title": "Company Registration Cost Comparison",
+    "titleHighlight": "Cost Comparison",
+    "subtitle": "Compare routes and pick the best fit for your business.",
+    "items": [
+      { "route": "Free Zone LLC", "cost": "AED 5,750", "ownership": "100% Foreign", "timeline": "3-5 Days", "bestFor": "Online & Export", "color": "from-cyan-400 to-blue-600" },
+      { "route": "Mainland LLC", "cost": "AED 8,500", "ownership": "100% Foreign", "timeline": "5-7 Days", "bestFor": "Local Market", "color": "from-blue-400 to-indigo-600" },
+      { "route": "Offshore", "cost": "AED 4,500", "ownership": "100% Foreign", "timeline": "3-5 Days", "bestFor": "Holding & Assets", "color": "from-indigo-400 to-violet-600" },
+      { "route": "DIFC", "cost": "AED 25,000", "ownership": "100% Foreign", "timeline": "7-10 Days", "bestFor": "Finance & Law", "color": "from-violet-400 to-purple-600" }
+    ],
+    "footerNote": "All prices are starting figures; final cost depends on activity, office package, and visa allocation."
+  },
+
+  "mistakesSection": {
+    "badge": "Avoid These Mistakes",
+    "title": "5 Mistakes That Delay Your Registration",
+    "titleHighlight": "Delay Your Registration",
+    "subtitle": "Learn from others' mistakes — save weeks of delays.",
+    "items": [
+      { "icon": "XCircle", "label": "Picking the wrong legal structure", "desc": "Free zone vs mainland vs offshore changes tax and trading rights.", "color": "from-red-500 to-rose-700" },
+      { "icon": "AlertCircle", "label": "Unclear business activity", "desc": "Authorities reject vague activity descriptions.", "color": "from-rose-500 to-pink-700" },
+      { "icon": "XCircle", "label": "Ignoring name-approval rules", "desc": "Some names are restricted or need NOC.", "color": "from-pink-500 to-fuchsia-700" },
+      { "icon": "AlertCircle", "label": "No bank-account plan", "desc": "Incorporate in a jurisdiction the banks actually accept.", "color": "from-fuchsia-500 to-purple-700" },
+      { "icon": "XCircle", "label": "DIY processing", "desc": "One wrong document can add weeks. Our team files it first time.", "color": "from-purple-500 to-violet-700" }
+    ],
+    "ctaCard": {
+      "title": "Fast-Track Your Registration",
+      "text": "Get a free consultation and register your Dubai company in as little as 3 days from AED 5,999.",
+      "buttonText": "Start Now",
+      "whatsappMessage": "Hi! I'd like to fast-track my company registration."
+    }
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Not Just Service Providers — Long-Term Partners",
+    "titleHighlight": "Long-Term Partners",
+    "subtitle": "Eight reasons why entrepreneurs trust us.",
+    "items": [
+      { "icon": "Target", "label": "Personalized Packages", "desc": "Tailored to your industry, vision & budget" },
+      { "icon": "Zap", "label": "Fast 2-5 Day Licensing", "desc": "Proven process for quick launch" },
+      { "icon": "Scale", "label": "Legal & Tax Advisory", "desc": "Throughout your business setup" },
+      { "icon": "UserCheck", "label": "Dedicated Manager", "desc": "Personal relationship manager" },
+      { "icon": "Bank", "label": "Corporate Bank Account", "desc": "Opening with major UAE banks" },
+      { "icon": "Palette", "label": "CRM, Website & Branding", "desc": "Digital presence development" },
+      { "icon": "ShieldCheck", "label": "End-to-End Compliance", "desc": "Visa, immigration & PRO services" },
+      { "icon": "Globe", "label": "Multilingual Support", "desc": "English, Hindi & Urdu" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Your registration, in expert hands.",
+    "items": [
+      { "icon": "Building2", "value": "10,000+", "label": "Companies Formed", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Globe", "value": "Global", "label": "Client Reach", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Setup Expert", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Zap", "value": "2-5", "label": "Days Licensing", "color": "from-violet-400 to-purple-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Setup Partner", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Company Registration in Dubai. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our registration specialists.",
+      "whatsappMessage": "Hi! I have a question about Company Registration in Dubai."
+    },
+    "items": [
+      { "q": "What is the estimated cost to register a company in Dubai?", "a": "Costs vary based on business activity, jurisdiction (Free Zone or Mainland), number of visas, and office space. Free Zone registration starts from AED 5,750. We offer transparent pricing with no hidden fees." },
+      { "q": "Do I need a local sponsor to set up a company in Dubai?", "a": "No. Recent UAE reforms allow 100% foreign ownership in most Free Zones and many Mainland activities. Only specific strategic activities may still require a local partner." },
+      { "q": "What is the difference between Free Zone and Mainland company setup?", "a": "Free Zone companies operate within the zone and internationally with 100% foreign ownership. Mainland companies can trade directly in the UAE market, bid for government contracts, and operate across all 7 Emirates." },
+      { "q": "Am I able to register a company in Dubai if I am not physically present?", "a": "Yes. Most of the process can be completed remotely. Only medical tests and Emirates ID biometrics require physical presence — we coordinate everything for a quick visit." },
+      { "q": "How many visas can I apply for under my company license?", "a": "Visa quota depends on your license type and office space. Free Zones typically allow 1-6 visas per license. Mainland allows unlimited visas based on office size." },
+      { "q": "What are the best business activities to register in Dubai that can be very profitable?", "a": "Popular profitable activities include General Trading, E-commerce, Digital Marketing, IT Services, Consulting, Logistics, FinTech, Web3/AI/SaaS, Healthcare, and Education." },
+      { "q": "Can my company issue me a residence visa for the UAE?", "a": "Yes. Your company can sponsor your investor or employment visa, and then sponsor your family members as dependents. We handle the entire visa process." },
+      { "q": "Is Dubai a tax-free jurisdiction?", "a": "Dubai offers 0% personal income tax, 0% capital gains tax, and no currency restrictions. Corporate tax applies at current thresholds with qualifying small businesses potentially benefiting from 0% tax." },
+      { "q": "Can I open a corporate bank account in the UAE?", "a": "Yes. We assist with opening corporate bank accounts at Emirates NBD, Mashreq, ADCB, RAKBANK, and international banks. Full support with KYC, documents, and activation." },
+      { "q": "How long does it take to get my business license in Dubai?", "a": "Free Zone licenses typically in 2-5 working days. Mainland licenses take 5-7 days for license, with complete setup (including visas and office) taking 2-4 weeks." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with Company Registration.",
+    "items": [
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore structures.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "mainland-company-formation", "title": "Mainland Company Formation", "description": "Full UAE market access with DET license.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-blue-400 to-indigo-600" },
+      { "slug": "trade-license", "title": "Trade License in Dubai", "description": "Get your DET trade license in 2-5 days.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Your Company in Dubai",
+    "title": "Ready to Register Your Company?",
+    "titleHighlight": "Register Your Company?",
+    "subtitle": "Fast business licensing in 2-5 days, full support for banking, visas, and compliance. Everything under one roof.",
+    "chips": ["Free Consultation", "AED 5,750 Start", "100% Ownership"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Company Registration.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Company Registration."
+  }
+}

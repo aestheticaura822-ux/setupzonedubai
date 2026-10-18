@@ -1,0 +1,98 @@
+{
+  "badge": "Pourquoi configurer une zone Dubaï",
+  "heading": {
+    "line1": "Dubaï offre tout ce qu'un",
+    "highlight": "Entrepreneur",
+    "line3": "Peut demander."
+  },
+  "paragraph1": "Dubaï est devenue la destination de choix pour les créateurs d'entreprise : absence d'impôt sur le revenu, possibilité pour les étrangers de détenir 100 % du capital et infrastructures de pointe. Cependant, gérer seul le processus de création d'entreprise peut s'avérer complexe, entre les différentes juridictions, les réglementations en constante évolution et les coûts cachés.",
+  "paragraph2BoldPart": "Zone d'installation Dubaï",
+  "paragraph2Rest": "Nous nous occupons de tout : vous pouvez ainsi vous concentrer sur le développement de votre activité, et non sur les formalités administratives. Que vous soyez indépendant ou multinationale, nous rendons votre installation aux Émirats arabes unis rapide, transparente et sans stress.",
+  "highlights": [
+    "Des travailleurs indépendants aux multinationales, bienvenue",
+    "Un accompagnement personnalisé dès le premier jour",
+    "Assistance complète en matière de conformité",
+    "Tarification transparente, sans frais cachés"
+  ],
+  "ctaPrimary": {
+    "text": "Commencez votre voyage",
+    "link": "#contact"
+  },
+  "ctaSecondary": {
+    "text": "Explorer les services",
+    "link": "#services"
+  },
+  "dashboardCard": {
+    "brandLabel": "Zone d'installation Dubaï",
+    "brandTitle": "Lancement d'entreprise",
+    "statusLabel": "Actif",
+    "awardBadge": {
+      "label": "Prix",
+      "value": "Meilleures notes 2026"
+    },
+    "expertsBadge": {
+      "label": "Actif",
+      "value": "Plus de 25 experts"
+    },
+    "steps": [
+      {
+        "label": "Consultation et planification",
+        "status": "fait",
+        "week": "Semaine 1"
+      },
+      {
+        "label": "Préparation des documents",
+        "status": "fait",
+        "week": "Semaine 1"
+      },
+      {
+        "label": "Immatriculation de société",
+        "status": "actif",
+        "week": "Semaine 2"
+      },
+      {
+        "label": "Visa et carte d'identité des Émirats arabes unis",
+        "status": "en attente",
+        "week": "Semaine 3"
+      },
+      {
+        "label": "Ouverture de compte bancaire",
+        "status": "en attente",
+        "week": "Semaine 3"
+      }
+    ],
+    "progressLabel": "Progrès globaux",
+    "progressValue": "60%",
+    "progressPercent": 60
+  },
+  "bottomSectionTitle": {
+    "line1": "Dubaï",
+    "highlight": "Des offres pour vous"
+  },
+  "benefits": [
+    {
+      "icon": "ShieldCheck",
+      "title": "Propriété À  100 %",
+      "description": "Contrôle total dans les zones franches et certains secteurs du continent.",
+      "gradient": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Zap",
+      "title": "Impôt sur le revenu des personnes physiques À  0 %",
+      "description": "Impôt zéro sur les sociétés et les particuliers dans de nombreuses zones franches",
+      "gradient": "from-amber-400 to-orange-500"
+    },
+    {
+      "icon": "Globe2",
+      "title": "Licence rapide",
+      "description": "Accès rapide au permis de conduire, au visa et au compte bancaire",
+      "gradient": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "TrendingUp",
+      "title": "Style de vie global",
+      "description": "Infrastructures valorisées par les fondateurs du monde entier",
+      "gradient": "from-emerald-400 to-green-600"
+    }
+  ]
+}

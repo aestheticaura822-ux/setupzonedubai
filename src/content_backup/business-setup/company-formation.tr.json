@@ -1,0 +1,432 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "Birleşik Arap Emirlikleri\u0027nde İşinize Başlayın",
+    "heroTitle":  "Dubai\u0027de Şirket Kurulumu",
+    "heroTitleHighlight":  "Dubai\u0027de",
+    "heroSubtitle":  "Serbest Bölge, Anakara ve Açık Deniz yapıları. Birleşik Arap Emirlikleri genelinde hızlı, uyumlu ve uygun maliyetli işletme kurulumu "” ilk sorgulamadan operasyonel lansmana kadar.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "%0 Vergi",
+                      "2-5 Gün Kurulum",
+                      "Serbest Bölge + Anakara"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Bina 2",
+                      "value":  "10.000+",
+                      "label":  "Kurulan Şirketler",
+                      "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "mavi-400\u0027den çivit-600\u0027e"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "2-5",
+                      "label":  "Kurulum Günleri",
+                      "color":  "indigo-400\u0027den mor-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Kurumlar Vergisi",
+                      "color":  "from-violet-400 to-purple-600"
+                  }
+              ],
+    "whyDubaiSection":  {
+                            "badge":  "Fırsatlar Burada Başlıyor",
+                            "title":  "Dubai\u0027de İş Kurmanın Nedenleri?",
+                            "titleHighlight":  "Dubai\u0027de mi?",
+                            "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                            "imageBadgeTitle":  "Küresel Merkez",
+                            "imageBadgeText":  "Doğu Batıyla Buluşuyor",
+                            "paragraphs":  [
+                                               "Dubai, cazip iş ortamı, vergisiz statüsü ve Doğu\u0027yu Batı\u0027ya bağlayan stratejik konumu sayesinde küresel bir iş merkezi haline geldi.",
+                                               "Tamamen yabancı mülkiyet, sıfır kurumlar vergisi, hızlandırılmış vize ve lisans onayları ve tüm bu avantajlarla her ay binlerce yeni şirket tescil ediliyor.",
+                                               "Şehir, benzersiz altyapısı, dünya standartlarında Serbest Bölgeleri, güvenilir ve verimli bir hükümeti ve güçlü bir hukuk devleti anlayışıyla kurulumu kolay ve verimli hale getiriyor. Sermaye ve kÃ¢rlar serbestçe geri gönderilebiliyor ve dijital hükümet portalları başvuru sürecini kolaylaştırıyor."
+                                           ],
+                            "highlights":  [
+                                               "Küresel İş Merkezi",
+                                               "Vergiden Muafiyet Durumu",
+                                               "%100 Yabancı Mülkiyeti",
+                                               "Stratejik Konum",
+                                               "Modern Altyapı",
+                                               "Güçlü Hukuk Devleti"
+                                           ]
+                        },
+    "benefitsSection":  {
+                            "badge":  "Göz Ardı Edemeyeceğiniz Avantajlar",
+                            "title":  "Dubai\u0027de Şirket Kurmanın Faydaları",
+                            "titleHighlight":  "Dubai\u0027de bir şirket",
+                            "subtitle":  "Girişimcilerin ve çokuluslu şirketlerin Dubai\u0027yi tercih etmesinin altı güçlü nedeni.",
+                            "items":  [
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "%100 Yabancı Mülkiyeti",
+                                              "description":  "Yerel sponsora gerek duyulmayan, yatırımcı dostu Serbest Bölgelerde tam mülkiyet hakkı "” işletmeniz üzerinde tam kontrol.",
+                                              "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Dolar İşareti",
+                                              "title":  "Sıfır Kurumlar Vergisi",
+                                              "description":  "Kurumlar vergisi veya kişisel gelir vergisi ödemeden vergi muafiyeti "” kÃ¢rınızın %100\u0027ünü elinizde tutun.",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Hızlı Lisans ve Vize İşlemleri",
+                                              "description":  "Dijital devlet portallarının basitleştirilmesiyle onay süreçleri hızlandırıldı "” aylar değil, günler içinde faaliyete geçin.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Dünya Standartlarında Altyapı",
+                                              "description":  "Benzersiz Serbest Bölgeler, modern iş merkezleri ve sorunsuz kurulum için güvenilir devlet desteği.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Cüzdan",
+                                              "title":  "Sermaye ve Kar Geri Dönüşü",
+                                              "description":  "Sermayeyi ve karları geri gönderme konusunda tam özgürlük "” küresel yatırımcılar ve uluslararası işletmeler için ideal.",
+                                              "color":  "from-purple-400 to-fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "Çokkültürlü Yetenek Havuzu",
+                                              "description":  "Dünyanın dört bir yanından yetenekli profesyonellere erişim sağlayın "” küresel bir iş merkezinde hayalinizdeki ekibi kurun.",
+                                              "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "jurisdictionsSection":  {
+                                 "badge":  "Dubai\u0027de İş Kurma Seçenekleri",
+                                 "title":  "Yargı Bölgenizi Seçin",
+                                 "titleHighlight":  "Yargı yetkisi",
+                                 "subtitle":  "3 kurulum seçeneği arasından işletme modelinize en uygun olanı seçin.",
+                                 "items":  [
+                                               {
+                                                   "id":  "anakara",
+                                                   "icon":  "Bina",
+                                                   "title":  "Dubai Anakara Kurulumu",
+                                                   "tagline":  "Birleşik Arap Emirlikleri Pazarına Tam Erişim",
+                                                   "description":  "BAE pazarının tamamına, mekan kısıtlaması olmaksızın tam erişim. Perakende, restoran, lojistik ve hizmet tabanlı işletmeler için idealdir; sınırsız vize başvurusunda bulunma imkanı sunar.",
+                                                   "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                                   "color":  "zümrüt-500\u0027den turkuaz-700\u0027e",
+                                                   "features":  [
+                                                                    "Birleşik Arap Emirlikleri pazarının tamamına tam erişim",
+                                                                    "Tesisle ilgili herhangi bir kısıtlama yok.",
+                                                                    "Perakende, restoran ve lojistik sektörleri için idealdir.",
+                                                                    "Sınırsız Vize (Ofise Bağlı Olarak)",
+                                                                    "Bazı Lisanslar LSA Gerektirir"
+                                                                ],
+                                                   "bestFor":  "Perakende, Yiyecek ve İçecek, Lojistik"
+                                               },
+                                               {
+                                                   "id":  "serbest bölge",
+                                                   "icon":  "Fabrika",
+                                                   "title":  "Dubai Serbest Bölge Kurulumu",
+                                                   "tagline":  "%100 Yabancı Mülkiyeti",
+                                                   "description":  "IFZA, DMCC, DIFC, JAFZA gibi vergisiz bölgeler, %100 yabancı mülkiyete olanak tanır. Çeşitli lisans seçenekleriyle e-ticaret, danışmanlık, medya ve teknoloji şirketleri için idealdir.",
+                                                   "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200\u0026q=80",
+                                                   "color":  "mavi-500\u0027den çivit-700\u0027e",
+                                                   "features":  [
+                                                                    "%100 Yabancı Mülkiyeti",
+                                                                    "Vergisiz Bölgeler",
+                                                                    "IFZA, DMCC, DIFC, JAFZA",
+                                                                    "Ticaret, Hizmet, Sanayi Lisansları",
+                                                                    "Hızlı Kurulum"
+                                                                ],
+                                                   "bestFor":  "E-Ticaret, Danışmanlık, Teknoloji"
+                                               },
+                                               {
+                                                   "id":  "açık deniz",
+                                                   "icon":  "Çapa",
+                                                   "title":  "Dubai Açık Denizi",
+                                                   "tagline":  "Uluslararası Holding Yapısı",
+                                                   "description":  "Vergisiz ve fiziksel işyeri zorunluluğu olmayan uluslararası ve holding şirketleri için idealdir. Prestijli yargı bölgelerinde yabancı bankacılık ve varlık koruma hizmeti sunar.",
+                                                   "image":  "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200\u0026q=80",
+                                                   "color":  "from-violet-500 to-purple-700",
+                                                   "features":  [
+                                                                    "Holding şirketleri için idealdir.",
+                                                                    "Sıfır Vergi",
+                                                                    "Fiziksel bir mekana gerek yok.",
+                                                                    "Yabancı Bankacılık ve Varlık Koruma",
+                                                                    "RAK ICC, JAFZA Açık Deniz"
+                                                                ],
+                                                   "bestFor":  "Holding ve Uluslararası"
+                                               }
+                                           ]
+                             },
+    "servicesSection":  {
+                            "badge":  "Dubai\u0027de İş Kurma Hizmetlerinin Tamamı",
+                            "title":  "Her aşamayı biz hallediyoruz.",
+                            "titleHighlight":  "Her Adım",
+                            "subtitle":  "İşletmenizi büyütmeye odaklanabilmeniz için sekiz uçtan uca hizmet.",
+                            "items":  [
+                                          {
+                                              "icon":  "Dosyaİmzası",
+                                              "title":  "Şirket Adı Rezervasyonu ve Belgeleme",
+                                              "description":  "Uygun ve marka değeri taşıyan bir şirket adı seçilmesine yardımcı olmak ve belgeleri ilgili Dubai lisanslama makamına sunmak.",
+                                              "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Pano Kontrolü",
+                                              "title":  "İş Planı ve Yasal Onaylar",
+                                              "description":  "Gerektiğinde (özellikle Serbest Bölgelerde) kara para aklama, kurumsal sosyal sorumluluk ve nihai faydalanıcı politikalarına ilişkin mevzuata uygunluğu sağlayacak şekilde iş planı taslağı hazırlayın.",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kaydırma Metni",
+                                              "title":  "Lisanslama ve Kayıt",
+                                              "description":  "Şeffaf fiyatlandırma ve gizli ücretler olmadan, 2-5 iş günü içinde Dubai\u0027de şirket kaydı işlemini tamamlayın.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Banknot",
+                                              "title":  "Kurumsal Banka Hesabı Açma",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarıyla destek "” hızlı onaylar için belge hazırlama, randevu alma ve takip işlemleri.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Ofis Kurulumu ve Kiralama",
+                                              "description":  "Dubai Serbest Bölgesi\u0027nde veya Dubai anakarasında yer alan esnek çalışma masası, özel ofis veya ortak çalışma alanı bulun.",
+                                              "color":  "from-purple-400 to-fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "Fiş",
+                                              "title":  "Kurumsal Uyumluluk ve Vergi Kaydı",
+                                              "description":  "Dubai KDV kaydı, defter tutma ve muhasebe hizmetleri "” işletmenizin tüm mevzuata uygun kalmasını sağlar.",
+                                              "color":  "pembe-400\u0027den gül-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Palet",
+                                              "title":  "Dijital Yapı ve Marka Desteği",
+                                              "description":  "Yeni şirketiniz için CRM yapısı, e-posta entegrasyonu ve işletme profili kurulumu içeren web sitesi geliştirme.",
+                                              "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "audienceSection":  {
+                            "badge":  "Yenilikçiler ve Yatırımcılar İçin Mükemmel",
+                            "title":  "Setup Zone Dubai ile Hayallerinizi Gerçekleştirin",
+                            "titleHighlight":  "Dubai Kurulum Bölgesi ile",
+                            "subtitle":  "İster yeni kurulan bir şirket, ister serbest çalışan, ister küresel bir yatırımcı olun, size destek olmaya hazırız.",
+                            "items":  [
+                                          {
+                                              "icon":  "Roket",
+                                              "title":  "Girişimciler ve Şirket Kurucuları",
+                                              "description":  "Kuluçka merkezleri, yatırımcılar ve vergi muafiyeti avantajlarıyla heyecan verici iş modelleri geliştirmek için en iyisi.",
+                                              "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80",
+                                              "color":  "siyan-500\u0027den-mavi-700\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Alışveriş Sepeti",
+                                              "title":  "E-Ticaret ve Dijital Hizmet Sağlayıcıları",
+                                              "description":  "Hızlı lisanslama ve tam mülkiyet isteyen çevrimiçi mağazalar, SaaS şirketleri ve BT hizmet sağlayıcıları için en uygunudur.",
+                                              "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800\u0026q=80",
+                                              "color":  "mavi-500\u0027den çivit-700\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Dizüstü bilgisayar",
+                                              "title":  "Serbest Çalışanlar ve Danışmanlar",
+                                              "description":  "IFZA ve SHAMS gibi Serbest Bölgelerde medya, pazarlama, hukuk veya eğitim hizmetleri için profesyonel lisanslar edinin.",
+                                              "image":  "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800\u0026q=80",
+                                              "color":  "indigo-500\u0027den mor-700\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Konteyner",
+                                              "title":  "Uluslararası Ticaret Şirketleri",
+                                              "description":  "Dubai limanlarına ve transit lojistiğe erişim imkanıyla, Serbest Bölgelerde ve Anakara\u0027da genel ticaret lisanslarıyla faaliyet göstermek.",
+                                              "image":  "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800\u0026q=80",
+                                              "color":  "from-violet-500 to-purple-700"
+                                          },
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "Yatırımcılar KOBİ Yapılarına Giriyor",
+                                              "description":  "Büyüyen, kurumsal kullanıma hazır BAE KOBİ ekosistemine erişim ve kolaylaştırılmış uyumluluk süreçleriyle ölçeklenebilir işletmeler kurun.",
+                                              "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80",
+                                              "color":  "mor-500\u0027den fuşya-700\u0027e"
+                                          }
+                                      ]
+                        },
+    "whyChooseUsSection":  {
+                               "badge":  "Hızlı, Güvenilir, Sizin İçin Tasarlandı",
+                               "title":  "Setup Zone Dubai\u0027yi Neden Seçmelisiniz?",
+                               "titleHighlight":  "Dubai\u0027de kurulum bölgesi mi?",
+                               "subtitle":  "İşletme kurulum hizmetlerinde hızı, hassasiyeti ve profesyonelliği bir araya getirerek benzersiz çözümler sunuyoruz.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Hedef",
+                                                 "label":  "Kişiye Özel Paketler",
+                                                 "desc":  "Bütçenize ve faaliyetlerinize bağlı olarak"
+                                             },
+                                             {
+                                                 "icon":  "Anahtar",
+                                                 "label":  "Anahtar Teslim Hizmetler",
+                                                 "desc":  "Lisanslamadan marka oluşturmaya"
+                                             },
+                                             {
+                                                 "icon":  "Globe2",
+                                                 "label":  "Serbest Bölge ve Anakara Uzmanları",
+                                                 "desc":  "Ayrıca Açık Deniz yapıları"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "label":  "Çok Dilli Danışmanlık",
+                                                 "desc":  "Sizin dilinizi konuşan ekip"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan",
+                                                 "label":  "Tam Şeffaflık",
+                                                 "desc":  "Gizli ücret yok, asla."
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Hızlı Kurulum",
+                                                 "desc":  "2-5 gün içinde lisans verilir."
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "İşletme Büyüme Beklentisi",
+                               "title":  "Binlerce kişi tarafından güvenilen",
+                               "titleHighlight":  "Binlerce",
+                               "subtitle":  "Başarı geçmişimiz kendisini zaten kanıtlıyor.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bina 2",
+                                                 "value":  "10.000+",
+                                                 "label":  "Kurulan Şirketler",
+                                                 "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "value":  "Küresel",
+                                                 "label":  "Müşteri Erişimi",
+                                                 "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Trend Yükseliyor",
+                                                 "value":  "Önde gelen",
+                                                 "label":  "Formasyon Uzmanı",
+                                                 "color":  "indigo-400\u0027den mor-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "value":  "Büyüyor",
+                                                 "label":  "Başarı Hikayeleri",
+                                                 "color":  "from-violet-400 to-purple-600"
+                                             },
+                                             {
+                                                 "icon":  "ÇubukGrafik3",
+                                                 "value":  "Önemli",
+                                                 "label":  "Bölgesel Etki",
+                                                 "color":  "from-purple-400 to-fuchsia-600"
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "value":  "Tercih edilen",
+                                                 "label":  "Kurulum Ortağı",
+                                                 "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Dubai\u0027de şirket kurma hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Eğitim uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+                                            "whatsappMessage":  "Merhaba! Dubai\u0027de şirket kurma hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Dubai\u0027de iş kurmanın maliyeti nedir?",
+                                          "a":  "Maliyetler, yetki alanına (Serbest Bölge, Anakara, Açık Deniz), lisans türüne ve iş faaliyetlerine göre değişiklik gösterir. Serbest bölge kuruluşu genellikle 5.750 AED\u0027den başlar. Anakara işletmeleri daha yüksek devlet ve yerel sponsor ücretlerine tabidir. Bütçenize ve hedeflerinize uygun şeffaf, her şey dahil paketler sunuyoruz."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de ticaret lisansı almak ne kadar sürer?",
+                                          "a":  "Serbest Bölge lisansları genellikle 2-5 iş günü içinde verilir. Anakara lisansları ise onaylara bağlı olarak 2-4 hafta sürer. Müşterilerimiz için süreci hızlandırıyoruz."
+                                      },
+                                      {
+                                          "q":  "Yabancılar Dubai\u0027de bir şirketin %100 sahibi olabilir mi?",
+                                          "a":  "Evet. Birleşik Arap Emirlikleri\u0027ndeki son reformlar kapsamında, çoğu Serbest Bölge ve birçok Anakara faaliyeti artık yerel bir ortağa gerek kalmadan %100 yabancı mülkiyete izin veriyor."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027deki işletmem için ne tür bir lisansa ihtiyacım var?",
+                                          "a":  "Faaliyet alanınıza bağlıdır. Ticari (alışveriş), profesyonel (hizmetler), endüstriyel (imalat) veya e-ticaret lisansları başlıca türlerdir. Doğru olanı seçmenize yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de iş kurmak için ofis alanına ihtiyacım var mı?",
+                                          "a":  "Çoğu lisans kayıtlı bir adres gerektirir. Serbest Bölgeler esnek masa paketleri sunar. Anakara işletmelerinin fiziksel bir ofise (Ejari) ihtiyacı vardır. Doğru alanı bulmanıza yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Şirket kurduktan sonra Dubai\u0027de kurumsal banka hesabı açabilir miyim?",
+                                          "a":  "Evet. Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarında kurumsal banka hesabı açma konusunda tam destek sağlıyoruz: Belgelerin hazırlanması, randevuların alınması ve hızlı onaylar için takip işlemleri."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027deki şirketimle kaç vize başvurusunda bulunabilirim?",
+                                          "a":  "Vize kotası, lisans türünüze ve ofis alanınıza bağlıdır. Serbest Bölgeler genellikle lisans başına 1-6 vizeye izin verirken, Ana Kara ofis büyüklüğüne bağlı olarak sınırsız vizeye izin verir."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de şirket kurmanın vergi açısından bana ne gibi avantajları olur?",
+                                          "a":  "Dubai, serbest bölgelerde %0 kişisel ve kurumlar vergisi, anakarada ise çok düşük kurumlar vergisi uygulamaktadır. Ayrıca kÃ¢r ve sermayenin %100\u0027ünü geri gönderebilirsiniz."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de çevrimiçi iş kurabilir miyim?",
+                                          "a":  "Evet. Serbest Bölgelerde (IFZA, SHAMS, Dubai CommerCity gibi) e-ticaret lisansları, %100 yabancı sermayeli çevrimiçi işletmeler yürütmenize olanak tanır."
+                                      },
+                                      {
+                                          "q":  "Kurulum sonrasında hangi sürekli uyumluluk gereklilikleri bulunmaktadır?",
+                                          "a":  "Yıllık lisans yenileme, KDV kaydı (ciro 375.000 AED\u0027yi aşarsa), ESR/UBO bildirimleri ve muhasebe işlemleri. Sürekli uyumluluk desteği sağlıyoruz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Şirket kuruluşunuza uygun hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "mainland-company-formation",
+                                                     "title":  "Anakara Şirketi Kuruluşu",
+                                                     "description":  "DED lisansı ile BAE pazarına tam erişim.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "free-zone-company-setup",
+                                                     "title":  "Serbest Bölge Şirketi Kurulumu",
+                                                     "description":  "Vergisiz bölgelerde %100 yabancı mülkiyeti.",
+                                                     "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "trade-license",
+                                                     "title":  "Dubai\u0027de Ticaret Lisansı",
+                                                     "description":  "Ticaret, hizmet veya sanayi lisansınızı alın.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "mavi-400\u0027den çivit-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Dubai\u0027de mi açılıyor?",
+                     "title":  "Hızlı Lisanslama. Vergi Yok. Tam Destek.",
+                     "titleHighlight":  "Tam destek.",
+                     "subtitle":  "E-ticaret markanızı, teknoloji girişiminizi, danışmanlık şirketinizi veya ticaret işletmenizi Setup Zone Dubai\u0027yi tek elden çözüm ortağınız olarak seçerek hayata geçirin.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "2-5 Gün Kurulum",
+                                   "Sıfır Vergi"
+                               ],
+                     "whatsappMessage":  "Merhaba! Dubai\u0027de şirket kuruluşu konusunda ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Dubai\u0027de şirket kuruluşu hakkında görüşmek istiyorum."
+                 }
+}

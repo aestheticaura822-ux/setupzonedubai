@@ -1,0 +1,66 @@
+{
+  "heroBadge": "Instant Cost Estimate",
+  "heroTitle": "Calculate Your Business Setup Cost",
+  "heroTitleHighlight": "Business Setup Cost",
+  "heroSubtitle": "Answer a few questions and get an instant estimate tailored to you.",
+
+  "steps": [
+    { "id": 1, "label": "License", "icon": "FileText" },
+    { "id": 2, "label": "Activity", "icon": "Briefcase" },
+    { "id": 3, "label": "Office", "icon": "Building2" },
+    { "id": 4, "label": "Extras", "icon": "Package" },
+    { "id": 5, "label": "Contact", "icon": "Phone" }
+  ],
+
+  "stepTitles": {
+    "license": { "title": "Choose your license type", "subtitle": "Select the license that best fits your business needs" },
+    "activity": { "title": "Select your business activity", "subtitle": "Choose the industry that matches your business" },
+    "office": { "title": "Choose your office space", "subtitle": "Select the workspace option that suits your operations" },
+    "extras": { "title": "Add optional services", "subtitle": "Enhance your package with additional services (multi-select)" },
+    "contact": { "title": "Where should we send your estimate?", "subtitle": "Enter your details to receive the full cost breakdown" }
+  },
+
+  "licenseTypes": [
+    { "id": "freezone", "icon": "Globe", "title": "Free Zone", "desc": "100% ownership, 0% tax", "basePrice": 5999, "badge": "Popular" },
+    { "id": "mainland", "icon": "Building2", "title": "Mainland", "desc": "Trade across UAE, unlimited visas", "basePrice": 14999 },
+    { "id": "offshore", "icon": "Ship", "title": "Offshore", "desc": "Holding company, asset protection", "basePrice": 12000 },
+    { "id": "freelance", "icon": "Laptop", "title": "Freelance", "desc": "Solo professionals, creatives", "basePrice": 7500 }
+  ],
+
+  "activities": [
+    { "id": "trading", "icon": "ShoppingCart", "title": "General Trading", "desc": "Import, export, wholesale", "price": 0, "color": "from-amber-500 to-orange-700" },
+    { "id": "ecommerce", "icon": "Store", "title": "E-Commerce", "desc": "Online retail & marketplace", "price": 0, "color": "from-cyan-500 to-blue-700" },
+    { "id": "it", "icon": "Laptop", "title": "IT & Software", "desc": "Tech services & SaaS", "price": 450, "color": "from-indigo-500 to-violet-700" },
+    { "id": "consulting", "icon": "Briefcase", "title": "Consulting", "desc": "Business & management", "price": 0, "color": "from-emerald-500 to-teal-700" },
+    { "id": "media", "icon": "Camera", "title": "Media & Photography", "desc": "Creative services", "price": 500, "color": "from-pink-500 to-rose-700" },
+    { "id": "tourism", "icon": "Globe", "title": "Travel & Tourism", "desc": "Tourism consultancy", "price": 8500, "color": "from-sky-500 to-blue-700" },
+    { "id": "fitness", "icon": "Heart", "title": "Fitness & Lifestyle", "desc": "Wellness & sports", "price": 0, "color": "from-rose-500 to-pink-700" },
+    { "id": "women", "icon": "Sparkles", "title": "Women Entrepreneurship", "desc": "Special women founder package", "price": 0, "color": "from-fuchsia-500 to-purple-700" }
+  ],
+
+  "officeOptions": [
+    { "id": "flexi", "icon": "Users", "title": "Flexi Desk", "desc": "Shared workspace", "price": 0, "badge": "Included" },
+    { "id": "dedicated", "icon": "Laptop", "title": "Dedicated Desk", "desc": "Your own desk", "price": 3000 },
+    { "id": "private", "icon": "Building2", "title": "Private Office", "desc": "1-3 pax office", "price": 12000 },
+    { "id": "virtual", "icon": "Globe", "title": "Virtual Office", "desc": "Business address", "price": 1500 }
+  ],
+
+  "extrasList": [
+    { "id": "visa1", "icon": "UserCheck", "title": "1 Residency Visa", "desc": "Investor visa with medical & Emirates ID", "price": 5000 },
+    { "id": "visa2", "icon": "Users", "title": "2nd Visa", "desc": "Additional employment visa", "price": 4500 },
+    { "id": "banking", "icon": "Wallet", "title": "Bank Account Assistance", "desc": "Priority corporate banking", "price": 0, "badge": "Free" },
+    { "id": "vat", "icon": "FileText", "title": "VAT Consultation", "desc": "Full VAT setup & guidance", "price": 0, "badge": "Free" },
+    { "id": "pro", "icon": "ShieldCheck", "title": "PRO Services (1 Year)", "desc": "Government document handling", "price": 3500 },
+    { "id": "accounting", "icon": "DollarSign", "title": "Accounting (1 Year)", "desc": "Bookkeeping & reports", "price": 4000 },
+    { "id": "trademark", "icon": "Award", "title": "Trademark Registration", "desc": "Protect your brand", "price": 6500 },
+    { "id": "golden", "icon": "Crown", "title": "Golden Visa Upgrade", "desc": "10-year UAE residency", "price": 15000 }
+  ],
+
+  "quickAnswers": [
+    { "q": "How much does it cost to start a business in Dubai?", "a": "Business setup in Dubai starts from AED 9,500 for a basic free zone license. Mainland setup starts from AED 14,500." },
+    { "q": "Can a foreigner 100% own a company in Dubai?", "a": "Yes, foreigners can 100% own companies in most free zones and many mainland activities." },
+    { "q": "What is the cheapest free zone in Dubai?", "a": "RAK ICC, Ajman FTZ, and SRTIP offer the most affordable packages starting from AED 5,900." },
+    { "q": "How long does company registration take in Dubai?", "a": "Free zone registration takes 3-7 business days. Mainland takes 2-4 weeks." },
+    { "q": "Do I need a local partner in Dubai?", "a": "Not in free zones. In mainland, many activities now allow 100% foreign ownership." }
+  ]
+}

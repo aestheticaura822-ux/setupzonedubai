@@ -1,0 +1,370 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1600&q=80",
+  "heroBadge": "Libros precisos, siempre",
+  "heroTitle": "Servicios de contabilidad en Dubái",
+  "heroTitleHighlight": "Dubái",
+  "heroSubtitle": "Soluciones contables precisas, conformes a la normativa y orientadas al crecimiento para empresas de los EAU: desde la contabilidad diaria hasta la previsiÁ³n financiera estratégica. Siempre en cumplimiento con la normativa de libre comercio.",
+  "heroChips": [
+    "Cumple con la FTA",
+    "Normas NIIF",
+    "Paneles de control en tiempo real"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "5",
+      "label": "Años de retenciÁ³n de registros",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "24 horas",
+      "label": "Informe de cambio",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Award",
+      "value": "100%",
+      "label": "Cumple con la FTA",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Más de 500",
+      "label": "Empresas a las que prestamos servicio",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "whyEssentialSection": {
+    "badge": "Cumpla con la ley, manténgase a la vanguardia.",
+    "title": "¿Por qué son esenciales los servicios de contabilidad en Dubái?",
+    "titleHighlight": "¿Imprescindible en Dubái?",
+    "subtitle": "En Dubái, mantener registros financieros adecuados no es solo una buena práctica, sino un requisito legal segÁºn la Ley de Sociedades Comerciales de los EAU y las regulaciones de la FTA.",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Requisito legal",
+    "imageBadgeText": "ConservaciÁ³n de registros durante 5 años",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "title": "Cumpla con las leyes fiscales y de auditorÁ­a.",
+        "description": "Mantener registros precisos garantiza que su empresa cumpla con las obligaciones del IVA, el impuesto de sociedades y los requisitos de auditorÁ­a, evitando asÁ­ fuertes sanciones."
+      },
+      {
+        "icon": "Wallet",
+        "title": "Gestionar el flujo de caja y la rentabilidad",
+        "description": "Sepa exactamente de dÁ³nde proviene su dinero y a dÁ³nde va. Controle los costos, mantenga reservas y planifique el crecimiento con confianza."
+      },
+      {
+        "icon": "Target",
+        "title": "Toma mejores decisiones empresariales",
+        "description": "Los datos financieros precisos le ayudan a evaluar el rendimiento, proyectar el crecimiento futuro y tomar decisiones informadas sobre inversiones y contrataciÁ³n."
+      },
+      {
+        "icon": "Users",
+        "title": "Generar confianza entre inversores y partes interesadas.",
+        "description": "Los estados financieros presentados a tiempo brindan a los inversionistas, bancos y socios la confianza necesaria para financiar, asociarse o expandir su negocio."
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Reduzca los riesgos de sanciones",
+        "description": "Los errores en la presentaciÁ³n de informes conllevan multas costosas. La contabilidad profesional garantiza la exactitud de sus declaraciones y el cumplimiento de los plazos."
+      },
+      {
+        "icon": "Eye",
+        "title": "Garantizar la total transparencia",
+        "description": "Unos registros limpios y bien organizados demuestran credibilidad, algo fundamental para obtener financiaciÁ³n, establecer alianzas y lograr una escalabilidad a largo plazo."
+      }
+    ]
+  },
+  "businessTypesSection": {
+    "badge": "Para todo tipo de negocios",
+    "title": "¿Qué empresas necesitan servicios de contabilidad?",
+    "titleHighlight": "¿Servicios de contabilidad?",
+    "subtitle": "Desde empresas emergentes hasta multinacionales, una contabilidad precisa es esencial para cualquier negocio en los Emiratos Árabes Unidos.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Empresas emergentes y pymes",
+        "description": "Si eres una startup en una zona franca (IFZA, DMCC) o en China continental, te configuramos el plan de cuentas, el seguimiento de gastos y las devoluciones desde el primer dÁ­a.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Proveedores de comercio electrÁ³nico",
+        "description": "MÁºltiples transacciones diarias, pagos internacionales y reembolsos: automatizamos el seguimiento y la conciliaciÁ³n del IVA.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Consultores y autÁ³nomos",
+        "description": "Profesionales independientes: seguimiento estructurado de ingresos y gastos, declaraciÁ³n de impuestos e informes mensuales para la obtenciÁ³n de financiaciÁ³n.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Grandes empresas con mÁºltiples entidades",
+        "description": "MÁºltiples sucursales o entidades legales: contabilidad consolidada, conciliaciÁ³n entre empresas e informes a nivel de junta directiva.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Multinacionales con filiales en los Emiratos Árabes Unidos",
+        "description": "Contabilidad dual (GAAP + IFRS), localizaciÁ³n de las polÁ­ticas contables y asesoramiento fiscal transfronterizo.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Empresas que se preparan para la auditorÁ­a de la FTA",
+        "description": "Siempre listos para la auditorÁ­a: revisamos libros contables, facturas y registros para garantizar el cumplimiento total.",
+        "color": "from-cyan-400 to-teal-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Su pilar financiero",
+    "titleHighlight": "Columna vertebral",
+    "subtitle": "Nuestras soluciones contables van más allá de la contabilidad rutinaria. Somos su pilar financiero, garantizando transparencia, cumplimiento normativo e informaciÁ³n clave para impulsar el crecimiento de su negocio.",
+    "ctaText": "Hable con un contador.",
+    "ctaMessage": "¡Hola! Me gustarÁ­a saber más sobre sus servicios de contabilidad.",
+    "features": [
+      {
+        "icon": "Award",
+        "label": "Contadores pÁºblicos certificados y asesores fiscales"
+      },
+      {
+        "icon": "Globe",
+        "label": "Experiencia en zonas francas, territorio continental y en alta mar."
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Precios transparentes: cero costes ocultos."
+      },
+      {
+        "icon": "BarChart3",
+        "label": "Informes mensuales y paneles de control en tiempo real"
+      },
+      {
+        "icon": "Users",
+        "label": "Planes flexibles para empresas de cualquier tamaño."
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Procesos que cumplen con los acuerdos de libre comercio"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Todo incluido",
+    "title": "¿Qué incluyen nuestros servicios de contabilidad?",
+    "titleHighlight": "¿Incluir?",
+    "subtitle": "Contabilidad, IVA, nÁ³minas y auditorÁ­as: todo gestionado con precisiÁ³n y cumpliendo con la normativa.",
+    "items": [
+      {
+        "icon": "Receipt",
+        "title": "PreparaciÁ³n de estados financieros",
+        "description": "Informes mensuales, trimestrales y anuales de pérdidas y ganancias, balance general y flujo de efectivo.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+      },
+      {
+        "icon": "Calculator",
+        "title": "Servicios de contabilidad",
+        "description": "Registro diario de todas las transacciones en formato que cumpla con las normativas.",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "Registro y presentaciÁ³n del IVA",
+        "description": "Registro completo del IVA, presentaciÁ³n trimestral y conciliaciÁ³n.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "icon": "Receipt",
+        "title": "Declaraciones de impuestos corporativos",
+        "description": "Declaraciones de impuestos anuales precisas con toda la documentaciÁ³n y cumplimiento de las normas.",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "Procesamiento de nÁ³minas (WPS)",
+        "description": "Procesamiento de salarios, nÁ³minas y vinculaciÁ³n con el Ministerio de Recursos Humanos y EmiratizaciÁ³n (MOHRE) conformes con el Sistema de ClasificaciÁ³n de Pagos (WPS).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "PreparaciÁ³n de auditorÁ­as",
+        "description": "DocumentaciÁ³n completa, revisiÁ³n de libros contables y representaciÁ³n ante la FTA.",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Informes y paneles de control del sistema de informaciÁ³n gerencial (SIG)",
+        "description": "Informes mensuales del sistema de informaciÁ³n gerencial (SIG) y paneles de control en tiempo real para la toma de decisiones.",
+        "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=800&q=80"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "PlanificaciÁ³n y asesoramiento fiscal",
+        "description": "Asesoramiento estratégico para minimizar legalmente la carga fiscal y planificar el crecimiento.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      }
+    ]
+  },
+  "penaltiesSection": {
+    "badge": "No dejes que los errores te cuesten caro.",
+    "title": "Sanciones por mala contabilidad",
+    "titleHighlight": "Mala contabilidad",
+    "subtitle": "Las empresas que descuidan su contabilidad en los Emiratos Árabes Unidos se enfrentan a graves consecuencias.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&q=80",
+    "items": [
+      {
+        "icon": "Receipt",
+        "title": "Multas de la FTA",
+        "amount": "Más de 10.000 AED",
+        "description": "Se aplicarán sanciones importantes por registros contables incompletos o desorganizados."
+      },
+      {
+        "icon": "FileCheck",
+        "title": "IVA y sanciones fiscales",
+        "amount": "1.000-5.000 AED",
+        "description": "La presentaciÁ³n tardÁ­a o incorrecta de las declaraciones del IVA/Impuesto de Sociedades conlleva multas cada vez mayores."
+      },
+      {
+        "icon": "Clock",
+        "title": "Retrasos en la renovaciÁ³n de licencias",
+        "amount": "Semanas de retraso",
+        "description": "Los departamentos gubernamentales rechazan los expedientes incompletos, lo que provoca retrasos en las operaciones."
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "SuspensiÁ³n de licencia",
+        "amount": "Cierre de negocios",
+        "description": "Los errores reiterados pueden conllevar la suspensiÁ³n o la revocaciÁ³n de su licencia comercial."
+      }
+    ]
+  },
+  "auditSection": {
+    "badge": "Apoyo a las auditorÁ­as de la FTA",
+    "title": "CÁ³mo ayudamos durante las auditorÁ­as de los TLC",
+    "titleHighlight": "AuditorÁ­as de la FTA",
+    "subtitle": "Si su empresa es seleccionada para una auditorÁ­a de la FTA, nosotros nos encargamos de todo, para que usted pueda concentrarse en dirigir su negocio.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "imageBadgeTitle": "Listo para la auditorÁ­a",
+    "imageBadgeText": "Cero penalizaciones garantizadas",
+    "ctaText": "Obtenga asistencia para auditorÁ­as",
+    "ctaMessage": "¡Hola! Necesito ayuda para prepararme para una auditorÁ­a de la FTA.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "RecopilaciÁ³n de documentos",
+        "description": "Recopilamos facturas, extractos bancarios, libros de contabilidad y declaraciones de IVA."
+      },
+      {
+        "step": "02",
+        "title": "VerificaciÁ³n",
+        "description": "Cada registro se coteja con sus transacciones y declaraciones reales."
+      },
+      {
+        "step": "03",
+        "title": "ReparaciÁ³n de huecos",
+        "description": "Detectamos y solucionamos cualquier problema antes de que lleguen los auditores."
+      },
+      {
+        "step": "04",
+        "title": "ComunicaciÁ³n del auditor",
+        "description": "Nos comunicamos con la FTA y los auditores en su nombre, sin ningÁºn tipo de estrés."
+      },
+      {
+        "step": "05",
+        "title": "Cierre limpio",
+        "description": "La auditorÁ­a concluye sin sanciones, multas ni problemas de cumplimiento."
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre servicios de contabilidad en los Emiratos Árabes Unidos. ¿No encuentras lo que buscas? Contáctanos.",
+    "sidebarCard": {
+      "title": "¿AÁºn tienes preguntas?",
+      "text": "Obtén una consulta gratuita con nuestros contadores certificados.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre los servicios de contabilidad en los Emiratos Árabes Unidos."
+    },
+    "items": [
+      {
+        "q": "¿Es obligatoria la contabilidad para todas las empresas en los Emiratos Árabes Unidos?",
+        "a": "SÁ­. SegÁºn la Ley de Sociedades Comerciales de los EAU y la normativa de la FTA, todas las empresas registradas deben mantener registros contables precisos durante al menos 5 años."
+      },
+      {
+        "q": "¿Qué norma contable se aplica en los Emiratos Árabes Unidos?",
+        "a": "Las NIIF (Normas Internacionales de InformaciÁ³n Financiera) son la norma principal. Para las multinacionales, a menudo se requiere la presentaciÁ³n de informes duales segÁºn los PCGA (Principios de Contabilidad Generalmente Aceptados) y las NIIF (Normas Internacionales de InformaciÁ³n Financiera)."
+      },
+      {
+        "q": "¿Con qué frecuencia debo presentar las declaraciones del IVA en los Emiratos Árabes Unidos?",
+        "a": "Las declaraciones del IVA se presentan trimestralmente (o mensualmente para las empresas más grandes) ante la Autoridad Tributaria Federal (FTA)."
+      },
+      {
+        "q": "¿Qué sanciones existen en Dubái por mala contabilidad?",
+        "a": "Las multas oscilan entre 1.000 y más de 50.000 AED, dependiendo de la gravedad, y pueden conllevar la suspensiÁ³n de la licencia en caso de incumplimiento reiterado."
+      },
+      {
+        "q": "¿Puede ayudarme con la contabilidad del IVA y del Impuesto de Sociedades?",
+        "a": "SÁ­. Nos encargamos del registro del IVA, la presentaciÁ³n trimestral de declaraciones, las declaraciones de impuestos corporativos y el cumplimiento total de la normativa del TLC."
+      },
+      {
+        "q": "¿Qué incluye su servicio de contabilidad?",
+        "a": "Registro diario de transacciones, conciliaciÁ³n bancaria, conciliaciÁ³n del IVA, estado de resultados mensual, balance general y estados de flujo de efectivo."
+      },
+      {
+        "q": "¿Ofrecen apoyo en la preparaciÁ³n de auditorÁ­as?",
+        "a": "SÁ­. Recopilamos todos los documentos necesarios con antelaciÁ³n, revisamos los libros contables, corregimos las deficiencias y le representamos durante las auditorÁ­as de la FTA."
+      },
+      {
+        "q": "¿Qué software de contabilidad utilizas?",
+        "a": "Trabajamos con QuickBooks, Xero, Zoho Books, Tally y sistemas ERP personalizados segÁºn las necesidades de su negocio."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que combinan bien con la contabilidad profesional.",
+    "items": [
+      {
+        "slug": "corporate-tax-vat",
+        "title": "Impuesto de sociedades e IVA",
+        "description": "Asesoramiento fiscal especializado, registro ante la FTA y cumplimiento de la normativa.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos Árabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Servicios de cumplimiento",
+        "description": "PresentaciÁ³n de documentos UBO, informes ESR y apoyo regulatorio.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Ponte en contacto",
+    "title": "¿Listo para organizar tus finanzas?",
+    "titleHighlight": "¿Finanzas?",
+    "subtitle": "Obtén una consulta gratuita con nuestros contadores certificados. Organizaremos tu contabilidad, garantizaremos el cumplimiento normativo y te brindaremos informaciÁ³n valiosa para el crecimiento de tu negocio.",
+    "chips": [
+      "Cumple con la FTA",
+      "Más de 500 empresas",
+      "Contadores pÁºblicos certificados"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarÁ­a una consulta gratuita sobre servicios de contabilidad.",
+    "whatsappCardMessage": "¡Hola! Necesito servicios de contabilidad para mi negocio en los Emiratos Árabes Unidos."
+  }
+}

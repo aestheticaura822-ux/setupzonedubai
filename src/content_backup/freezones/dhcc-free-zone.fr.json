@@ -1,0 +1,428 @@
+{
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Zones franches",
+                 "breadcrumbLabel":  "Cité de la santé de Dubaï",
+                 "badge":  "Cité de la santé de Dubaï",
+                 "title":  "Cité de la santé de Dubaï",
+                 "titleHighlight":  "Ville de la santé",
+                 "subtitle":  "La plus grande zone franche au monde dédiée À  la santé et au bien-être. Lancez votre entreprise médicale, pharmaceutique ou de bien-être au cÅ“ur du pôle santé phare de Dubaï.",
+                 "ctaPrimaryText":  "Obtenez une consultation gratuite",
+                 "ctaPrimaryLink":  "#contact",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Bonjour ! Je suis intéressé par la création d\u0027une zone franche À  Dubai Healthcare City.",
+                 "badges":  [
+                                "Propriété À  100 %",
+                                "Taxe de 0 %",
+                                "Centre médical",
+                                "Installation en 3 À  5 jours"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Bâtiment 2",
+                      "value":  "Plus de 500",
+                      "label":  "Partenaires en soins de santé",
+                      "color":  "de turquoise 400 À  cyan 600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "100%",
+                      "label":  "Propriété étrangère",
+                      "color":  "de cyan-400 À  ciel-600"
+                  },
+                  {
+                      "icon":  "Signe du dollar",
+                      "value":  "0%",
+                      "label":  "Taux d\u0027imposition",
+                      "color":  "de-émeraude-400 À -turquoise-600"
+                  },
+                  {
+                      "icon":  "Horloge",
+                      "value":  "3-5",
+                      "label":  "Installation des jours",
+                      "color":  "du ciel 400 au bleu 600"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "Centre médical DHCC",
+                          "totalLabel":  "Zone",
+                          "totalValue":  "Dubaï, Émirats arabes unis",
+                          "statusBadge":  "Actif",
+                          "metrics":  [
+                                          {
+                                              "label":  "Temps de préparation",
+                                              "value":  "3 À  5 jours",
+                                              "color":  "texte-turquoise-600"
+                                          },
+                                          {
+                                              "label":  "Partenaires",
+                                              "value":  "Plus de 500",
+                                              "color":  "texte-cyan-600"
+                                          }
+                                      ]
+                      },
+    "whyDhcc":  {
+                    "badge":  "Pourquoi DHCC",
+                    "title":  "Pourquoi choisir Dubai Healthcare City ?",
+                    "titleHighlight":  "Cité de la santé de Dubaï ?",
+                    "subtitle":  "La seule zone franche de la région exclusivement dédiée aux soins de santé, au bien-être et À  la formation médicale.",
+                    "smallCards":  [
+                                       {
+                                           "icon":  "Globe",
+                                           "title":  "Propriété étrangère À  100 %",
+                                           "description":  "Propriété exclusive sans sponsor local requis "” contrôle total de votre cabinet médical.",
+                                           "color":  "de turquoise 400 À  cyan 600"
+                                       },
+                                       {
+                                           "icon":  "Signe du dollar",
+                                           "title":  "Environnement fiscal À  0 %",
+                                           "description":  "Pas d\u0027impôt sur les sociétés ni sur le revenu des particuliers "” maximisez la rentabilité de votre entreprise du secteur de la santé.",
+                                           "color":  "de-émeraude-400 À -turquoise-600"
+                                       },
+                                       {
+                                           "icon":  "Vérification du bouclier",
+                                           "title":  "Soutien réglementaire de la DHA",
+                                           "description":  "Accès direct au cadre réglementaire et d\u0027autorisation de l\u0027Autorité de santé de Dubaï.",
+                                           "color":  "de cyan-400 À  ciel-600"
+                                       }
+                                   ],
+                    "largeCard":  {
+                                      "icon":  "Pouls cardiaque",
+                                      "title":  "La plus grande zone franche du secteur de la santé au monde",
+                                      "description":  "Elle abrite plus de 500 partenaires du secteur de la santé, des hôpitaux, des cliniques et des établissements d\u0027enseignement médical de renommée mondiale, avec un système de licences et une infrastructure intégrés.",
+                                      "image":  "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200\u0026q=80"
+                                  },
+                    "smallCard2":  {
+                                       "icon":  "Bâtiment 2",
+                                       "title":  "Écosystème médical intégré",
+                                       "description":  "Hôpitaux, cliniques, pharmacies, laboratoires et centres de recherche, tous réunis dans un seul quartier spécialement conÀ§u À  cet effet.",
+                                       "color":  "de turquoise 500 À  turquoise 700 en passant par cyan"
+                                   }
+                },
+    "whoCanOpenSection":  {
+                              "badge":  "Qui peut ouvrir",
+                              "title":  "Qui peut ouvrir une entreprise À  DHCC ?",
+                              "titleHighlight":  "Faire des affaires À  DHCC ?",
+                              "subtitle":  "Un large éventail de professionnels de la santé et du secteur médical peuvent y établir leur cabinet.",
+                              "items":  [
+                                            {
+                                                "icon":  "Stéthoscope",
+                                                "label":  "Médecins et chirurgiens"
+                                            },
+                                            {
+                                                "icon":  "Pilule",
+                                                "label":  "Pharmacies et pharmaciens"
+                                            },
+                                            {
+                                                "icon":  "Activité",
+                                                "label":  "Laboratoires de diagnostic"
+                                            },
+                                            {
+                                                "icon":  "Cerveau",
+                                                "label":  "Santé mentale et thérapie"
+                                            },
+                                            {
+                                                "icon":  "Pouls cardiaque",
+                                                "label":  "Cliniques spécialisées"
+                                            },
+                                            {
+                                                "icon":  "Sourire",
+                                                "label":  "Cabinets dentaires"
+                                            },
+                                            {
+                                                "icon":  "Ambulance",
+                                                "label":  "Services d\u0027urgence"
+                                            },
+                                            {
+                                                "icon":  "ADN",
+                                                "label":  "Recherche et biotechnologie"
+                                            },
+                                            {
+                                                "icon":  "Vérification de l\u0027utilisateur",
+                                                "label":  "Soins infirmiers et À  domicile"
+                                            },
+                                            {
+                                                "icon":  "Moniteur",
+                                                "label":  "Technologies de la santé et télémédecine"
+                                            },
+                                            {
+                                                "icon":  "FileBadge",
+                                                "label":  "Éducation médicale"
+                                            },
+                                            {
+                                                "icon":  "Emballer",
+                                                "label":  "Commerce de matériel médical"
+                                            }
+                                        ]
+                          },
+    "licensesSection":  {
+                            "badge":  "Types de licences",
+                            "title":  "Types de licences DHCC",
+                            "titleHighlight":  "Types de licences",
+                            "items":  [
+                                          {
+                                              "icon":  "Stéthoscope",
+                                              "title":  "Licence médicale",
+                                              "description":  "À€ l\u0027attention des médecins, cliniques, hôpitaux et centres médicaux spécialisés.",
+                                              "code":  "MED",
+                                              "color":  "de turquoise 400 À  cyan 600"
+                                          },
+                                          {
+                                              "icon":  "Pilule",
+                                              "title":  "Licence pharmaceutique",
+                                              "description":  "Pour les pharmacies, les entreprises de négoce pharmaceutique et de distribution de matériel médical.",
+                                              "code":  "PHR",
+                                              "color":  "de cyan-400 À  ciel-600"
+                                          },
+                                          {
+                                              "icon":  "Activité",
+                                              "title":  "Licence de diagnostic et de laboratoire",
+                                              "description":  "Pour les centres de diagnostic, les laboratoires d\u0027anatomopathologie et les services d\u0027imagerie.",
+                                              "code":  "LABORATOIRE",
+                                              "color":  "du ciel 400 au bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Mallette",
+                                              "title":  "Licence professionnelle",
+                                              "description":  "Pour les consultants médicaux, les conseillers en santé et les coachs de bien-être.",
+                                              "code":  "PRO",
+                                              "color":  "de-émeraude-400 À -turquoise-600"
+                                          },
+                                          {
+                                              "icon":  "Moniteur",
+                                              "title":  "Licence HealthTech",
+                                              "description":  "Pour la télémédecine, la santé numérique et les plateformes SaaS médicales.",
+                                              "code":  "HTC",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          },
+                                          {
+                                              "icon":  "FileBadge",
+                                              "title":  "Licence d\u0027enseignement",
+                                              "description":  "Pour les centres de formation médicale, les écoles d\u0027infirmières et les organismes de formation médicale continue.",
+                                              "code":  "Éducation",
+                                              "color":  "de rose 400 À  rose 600"
+                                          }
+                                      ]
+                        },
+    "documentsSectionDhcc":  {
+                                 "badge":  "Documents requis",
+                                 "title":  "Documents requis pour la configuration DHCP",
+                                 "titleHighlight":  "Configuration DHCP",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Texte du fichier",
+                                                   "label":  "Copies de passeport",
+                                                   "description":  "Copies valides des passeports de tous les actionnaires et dirigeants."
+                                               },
+                                               {
+                                                   "icon":  "Vérification de fichiers",
+                                                   "label":  "Plan d\u0027affaires",
+                                                   "description":  "Plan d\u0027affaires détaillé incluant les services et le marché cible."
+                                               },
+                                               {
+                                                   "icon":  "Vérification des badges",
+                                                   "label":  "Qualifications professionnelles",
+                                                   "description":  "Diplômes de médecine, licences et admissibilité À  la DHA pour les professionnels de la santé."
+                                               },
+                                               {
+                                                   "icon":  "FileBadge",
+                                                   "label":  "Réservation de nom commercial",
+                                                   "description":  "Certificat d\u0027agrément de nom commercial délivré par l\u0027autorité DHCC."
+                                               },
+                                               {
+                                                   "icon":  "Épingle de carte",
+                                                   "label":  "Justificatif de domicile",
+                                                   "description":  "Justificatif de domicile et coordonnées des actionnaires."
+                                               },
+                                               {
+                                                   "icon":  "Carte de crédit",
+                                                   "label":  "Photo et signature",
+                                                   "description":  "Photos d\u0027identité et spécimens de signatures."
+                                               }
+                                           ]
+                             },
+    "setupProcessSectionDhcc":  {
+                                    "badge":  "Processus de configuration",
+                                    "title":  "Configuration DHCP en 5 étapes",
+                                    "titleHighlight":  "en 5 étapes",
+                                    "subtitle":  "Lancez votre entreprise de soins de santé À  Dubaï grâce À  notre processus guidé.",
+                                    "steps":  [
+                                                  {
+                                                      "step":  "01",
+                                                      "icon":  "Cible",
+                                                      "title":  "Choisir une activité et une licence",
+                                                      "description":  "Choisissez le type d\u0027activité et de licence adapté À  votre entreprise dans le secteur de la santé.",
+                                                      "color":  "de turquoise 400 À  cyan 600",
+                                                      "image":  "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "02",
+                                                      "icon":  "Texte du fichier",
+                                                      "title":  "Nom commercial réservé",
+                                                      "description":  "Réservez le nom de votre entreprise médicale auprès de DHCC et payez les frais de réservation.",
+                                                      "color":  "de cyan-400 À  ciel-600",
+                                                      "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "03",
+                                                      "icon":  "Vérification de fichiers",
+                                                      "title":  "Soumettre des documents",
+                                                      "description":  "Préparer et soumettre tous les documents requis, y compris les qualifications médicales.",
+                                                      "color":  "du ciel 400 au bleu 600",
+                                                      "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "04",
+                                                      "icon":  "Vérification des badges",
+                                                      "title":  "Délivrance de licence",
+                                                      "description":  "Obtenez votre licence de soins de santé DHCC et l\u0027approbation DHA.",
+                                                      "color":  "de-émeraude-400 À -turquoise-600",
+                                                      "image":  "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "05",
+                                                      "icon":  "Carte de crédit",
+                                                      "title":  "Visa et compte bancaire",
+                                                      "description":  "Finalisez les démarches de visa et ouvrez votre compte bancaire professionnel.",
+                                                      "color":  "de violet 400 À  pourpre 600",
+                                                      "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                                                  }
+                                              ]
+                                },
+    "whyTrustUsSection":  {
+                              "badge":  "Pourquoi nous faire confiance ?",
+                              "title":  "Pourquoi faire confiance À  la zone de mise en place de DHCC À  Dubaï ?",
+                              "titleHighlight":  "pour DHCC ?",
+                              "items":  [
+                                            {
+                                                "icon":  "Prix",
+                                                "title":  "Plus de 10 ans d\u0027expérience",
+                                                "description":  "Plus de dix ans d\u0027expérience dans la création et l\u0027obtention de licences pour des entreprises du secteur de la santé aux Émirats arabes unis."
+                                            },
+                                            {
+                                                "icon":  "Utilisateurs",
+                                                "title":  "Consultants en soins de santé dévoués",
+                                                "description":  "Équipe spécialisée possédant une connaissance approfondie des réglementations de la DHA et des exigences du DHCC."
+                                            },
+                                            {
+                                                "icon":  "Vérification du bouclier",
+                                                "title":  "Assistance de bout en bout",
+                                                "description":  "De la demande de licence aux approbations de la DHA, en passant par les visas et l\u0027ouverture de compte bancaire."
+                                            },
+                                            {
+                                                "icon":  "Zap",
+                                                "title":  "Délai d\u0027exécution rapide",
+                                                "description":  "Processus simplifié avec soumissions prioritaires pour des approbations plus rapides."
+                                            },
+                                            {
+                                                "icon":  "Signe du dollar",
+                                                "title":  "Tarification transparente",
+                                                "description":  "Pas de frais cachés "” des forfaits clairs et tout compris pour chaque type d\u0027entreprise."
+                                            }
+                                        ]
+                          },
+    "faqs":  {
+                 "badge":  "Questions fréquentes",
+                 "title":  "Foire aux questions",
+                 "titleHighlight":  "Questions",
+                 "subtitle":  "Tout ce que vous devez savoir sur la zone franche de Dubai Healthcare City.",
+                 "items":  [
+                               {
+                                   "q":  "Qu\u0027est-ce que Dubai Healthcare City (DHCC) ?",
+                                   "a":  "DHCC est la plus grande zone franche au monde dédiée À  la santé et au bien-être, située À  Dubaï. Elle abrite plus de 500 partenaires du secteur de la santé, dont des hôpitaux, des cliniques, des pharmacies, des laboratoires et des établissements d\u0027enseignement médical."
+                               },
+                               {
+                                   "q":  "Qui peut ouvrir une entreprise À  DHCC ?",
+                                   "a":  "Les médecins, chirurgiens, pharmaciens, laboratoires de diagnostic, professionnels de la santé mentale, cabinets dentaires, chercheurs médicaux, services infirmiers, entreprises de technologies de la santé et formateurs médicaux peuvent s\u0027installer au DHCC."
+                               },
+                               {
+                                   "q":  "Quelles licences sont disponibles au DHCC ?",
+                                   "a":  "Licence médicale, licence pharmaceutique, licence de diagnostic et de laboratoire, licence professionnelle, licence en technologies de la santé et licence d\u0027enseignement."
+                               },
+                               {
+                                   "q":  "Ai-je besoin de l\u0027approbation de la DHA pour exercer mon activité au sein du DHCC ?",
+                                   "a":  "Oui. Les professionnels et les établissements de santé doivent obtenir une licence et une autorisation réglementaire de la Dubai Health Authority (DHA), que nous vous aidons À  obtenir."
+                               },
+                               {
+                                   "q":  "Combien de temps faut-il pour configurer un compte DHCP ?",
+                                   "a":  "Comptez généralement 3 À  5 jours ouvrables pour la création de l\u0027entreprise et 4 À  8 semaines pour l\u0027obtention de la licence complète DHA dans le secteur de la santé, selon l\u0027activité."
+                               },
+                               {
+                                   "q":  "Puis-je obtenir une participation étrangère À  100 % dans DHCC ?",
+                                   "a":  "Oui. DHCC autorise la propriété étrangère À  100 % "” aucun sponsor local n\u0027est requis."
+                               },
+                               {
+                                   "q":  "Quels sont les avantages fiscaux de DHCC ?",
+                                   "a":  "Impôt À  0 % sur les sociétés et les revenus personnels avec rapatriement intégral des bénéfices et du capital."
+                               },
+                               {
+                                   "q":  "Quel type de support Setup Zone Dubai propose-t-il pour le DHCC ?",
+                                   "a":  "Nous prenons en charge les demandes de licence, l\u0027approbation de la DHA, la réservation de noms commerciaux, la préparation des documents, les visas, l\u0027ouverture de comptes bancaires et la conformité continue."
+                               },
+                               {
+                                   "q":  "Ai-je besoin de qualifications médicales pour ouvrir une entreprise de soins de santé À  DHCC ?",
+                                   "a":  "Oui, pour les activités cliniques, un diplôme de médecine, une licence et l\u0027admissibilité À  la DHA sont requis. Les activités non cliniques peuvent avoir des exigences différentes."
+                               },
+                               {
+                                   "q":  "Quelles sont les options de bureaux disponibles À  DHCC ?",
+                                   "a":  "Des bureaux flexibles, des bureaux de direction, des cliniques, des laboratoires et des installations médicales spécialement conÀ§ues, selon votre type d\u0027activité."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "Services connexes",
+                            "titleHighlight":  "Services",
+                            "subtitle":  "Des services parfaitement compatibles avec votre configuration DHCP.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Ouverture de compte bancaire",
+                                              "description":  "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "de turquoise 400 À  cyan 600"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Services de conformité",
+                                              "description":  "Conseils en matière d\u0027UBO, d\u0027ESR, de LBC et de TVA.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "de cyan 400 À  bleu 600"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Visa d\u0027or",
+                                              "description":  "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "de l\u0027ambre 400 au jaune 500"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Lancement aujourd\u0027hui",
+                     "title":  "Prêt À  lancer votre activité au DHCC ?",
+                     "titleHighlight":  "DHCC ?",
+                     "subtitle":  "Bénéficiez d\u0027une consultation gratuite. Nous vous accompagnerons tout au long du processus de mise en place de votre DHCC, de l\u0027obtention de la licence À  l\u0027approbation de la DHA et au lancement.",
+                     "primaryCta":  "Contactez-nous sur WhatsApp",
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite pour la configuration DHCP.",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tél. : +971566556645",
+                     "badges":  [
+                                    "Consultation gratuite",
+                                    "Plus de 500 clients",
+                                    "Installation en 3 À  5 jours"
+                                ],
+                     "office":  {
+                                    "label":  "Visitez notre bureau de Dubaï",
+                                    "line1":  "Bureau M08-27, 1er étage, Crystal Tower",
+                                    "line2":  "Business Bay, Dubaï, Émirats arabes unis "” Boîte postale : 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Heures de travail",
+                                   "monFri":  "9h00 "“ 18h00",
+                                   "saturday":  "10h00 "“ 17h00",
+                                   "sunday":  "Fermé"
+                               }
+                 }
+}

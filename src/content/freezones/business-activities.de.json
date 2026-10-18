@@ -1,0 +1,379 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=80",
+    "breadcrumbParent": "Freizonen",
+    "breadcrumbLabel": "Geschäftstätigkeit",
+    "badge": "Finde deine perfekte Geschäftsaktivität",
+    "title": "Geschäftsaktivitäten in den Freizonen der VAE",
+    "titleHighlight": "Freizonen der VAE",
+    "subtitle": "Entdecken Sie über 2.000 genehmigte Geschäftsaktivitäten in Dubais führenden Freizonen – von E-Commerce und Technologie bis hin zu Logistik, Medien und Beratung. Wir helfen Ihnen, die passende Lösung für Ihre Vision zu finden.",
+    "ctaPrimaryText": "Aktivitäten erkunden",
+    "ctaPrimaryLink": "#Aktivitäten",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich benötige Hilfe bei der Auswahl der richtigen Geschäftstätigkeit in einer Freihandelszone der VAE.",
+    "badges": [
+      "Mehr als 2.000 Aktivitäten",
+      "Über 30 Freizonen",
+      "100% Eigentum",
+      "0 % Steuer"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Target",
+      "value": "Mehr als 2.000",
+      "label": "Genehmigte Aktivitäten",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Building2",
+      "value": "30+",
+      "label": "Freizonen",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Tagesaufbau",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "Aktivitätsfinder",
+    "statusLabel": "Live",
+    "totalLabel": "Gesamtaktivitäten",
+    "totalValue": "Mehr als 2.000",
+    "statusBadge": "Aktiv",
+    "metrics": [
+      {
+        "label": "E-Commerce",
+        "value": "150+",
+        "color": "text-emerald-600"
+      },
+      {
+        "label": "Technologie & IT",
+        "value": "Mehr als 300",
+        "color": "text-teal-600"
+      }
+    ]
+  },
+  "exploreSection": {
+    "badge": "Erkunden Sie Ihre Möglichkeiten",
+    "title": "Finden Sie die passende Aktivität für Ihr Unternehmen",
+    "titleHighlight": "Richtige Aktivität",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+    "imageBadgeTitle": "Ihr Unternehmen",
+    "imageBadgeText": "Perfekte Übereinstimmung",
+    "paragraph1": "Jedes Unternehmen beginnt mit einer Aktivität. Die Freizonen der VAE bieten über 2.000 genehmigte Aktivitäten – jede mit eigenen Lizenzanforderungen, Visabestimmungen und Wachstumspotenzial.",
+    "paragraph2": "Egal, ob Sie einen E-Commerce-Shop, ein Softwareunternehmen, ein Logistikzentrum oder eine Unternehmensberatung gründen – es gibt eine Freizone und eine Aktivität, die genau auf Sie zugeschnitten ist.",
+    "paragraph3": "Unsere Spezialisten helfen Ihnen dabei, Ihre Geschäftsziele mit der richtigen Aktivität, dem passenden Lizenztyp und der richtigen Freizone in Einklang zu bringen – damit Sie stark starten und reibungslos wachsen können.",
+    "features": [
+      "Mehr als 2.000 Aktivitäten",
+      "Über 30 Freizonen",
+      "Experten-Matching",
+      "Schnelle Lizenzierung"
+    ]
+  },
+  "freeZonesSection": {
+    "badge": "Top-Freizonen",
+    "title": "Führende Freihandelszonen in Dubai",
+    "titleHighlight": "Freizonen in Dubai",
+    "subtitle": "Jede Freihandelszone ist auf unterschiedliche Branchen und Aktivitäten spezialisiert – wir helfen Ihnen, die beste auszuwählen.",
+    "items": [
+      {
+        "icon": "Cpu",
+        "name": "DSO",
+        "description": "Technologie, KI, Software und innovationsgetriebene Aktivitäten.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "name": "Dubai Commercial City",
+        "description": "E-Commerce, Logistik und digitale Handelsaktivitäten.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Film",
+        "name": "Dubai Media City",
+        "description": "Medien-, Kreativ- und Produktionsaktivitäten.",
+        "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+        "color": "from-violet-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Truck",
+        "name": "JAFZA",
+        "description": "Logistik-, Produktions- und Handelsaktivitäten.",
+        "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "commonActivitiesSection": {
+    "badge": "Beliebte Aktivitäten",
+    "title": "Häufigste Geschäftsaktivitäten",
+    "titleHighlight": "Geschäftstätigkeit",
+    "subtitle": "Dies sind die beliebtesten Aktivitäten, die Unternehmer in den Freizonen der VAE wählen.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce",
+        "description": "Online-Handel, Marktplatzverkauf und digitale Schaufenster.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Software & IT",
+        "description": "Softwareentwicklung, SaaS, Apps und IT-Beratung.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Beratung",
+        "description": "Unternehmensberatung, Managementberatung, Personalberatung und IT-Beratungsdienstleistungen.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Marketing",
+        "description": "Digitales Marketing, Branding, Werbung und Content.",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "whyRightActivity": {
+    "badge": "Wähle weise",
+    "title": "Warum Ihre Geschäftstätigkeit wichtig ist",
+    "titleHighlight": "Aktivität zählt",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Einhaltung gesetzlicher Bestimmungen",
+    "imageBadgeText": "Right Foundation",
+    "paragraph1": "Ihre Geschäftstätigkeit bestimmt die Art Ihrer Lizenz, Ihr Visakontingent, Ihre Büroanforderungen und Ihre Steuerpflichten. Die falsche Wahl kann Ihr Wachstum einschränken.",
+    "paragraph2": "Für einige Tätigkeiten sind spezielle Genehmigungen erforderlich – beispielsweise in den Bereichen Medien, Gesundheitswesen, Bildung oder Finanzdienstleistungen. Wir unterstützen Sie bei der Einhaltung der Vorschriften.",
+    "paragraph3": "Wir stellen außerdem sicher, dass Ihre Aktivitätenliste flexibel genug ist, um zukünftige Erweiterungen zu unterstützen – sodass Sie nicht jedes Mal neue Lizenzen benötigen, wenn Sie wachsen.",
+    "features": [
+      "Lizenzausrichtung",
+      "Visaberechtigung",
+      "Unterstützung bei der Einhaltung von Vorschriften",
+      "Zukünftige Skalierbarkeit"
+    ]
+  },
+  "multipleCombosSection": {
+    "badge": "Mehrere Aktivitäten",
+    "title": "Mehrere Aktivitäten in einer Lizenz kombinieren",
+    "titleHighlight": "Eine Lizenz",
+    "subtitle": "Viele Freihandelszonen ermöglichen es, mehrere zusammenhängende Aktivitäten unter einer einzigen Lizenz zu registrieren – das spart Zeit und Kosten.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "label": "E-Commerce + Logistik",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "label": "Software + Beratung",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Medien + Marketing",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Beratung + Schulung",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ],
+    "footerNote": "Wir helfen Ihnen dabei, Ihre Lizenz so zu strukturieren, dass sie alle Ihre Einnahmequellen abdeckt – heute und in Zukunft."
+  },
+  "setupStepsSection": {
+    "badge": "Einrichtungsprozess",
+    "title": "Wie Sie Ihre Geschäftstätigkeit anmelden",
+    "titleHighlight": "Ihre Geschäftstätigkeit",
+    "subtitle": "Ein einfacher 4-stufiger Prozess zur Identifizierung, Auswahl und Registrierung der richtigen Aktivität.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Identifizieren Sie Ihre Ziele",
+        "description": "Wir verstehen Ihr Geschäftsmodell, Ihre Zielgruppe und Ihre langfristige Vision.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "title": "Spielaktivität",
+        "description": "Wir ordnen Ihre Ziele genehmigten Aktivitäten in über 30 Freizonen zu.",
+        "icon": "Search",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "title": "Lizenz auswählen",
+        "description": "Wir empfehlen Ihnen die passende Lizenzart – Gewerbe-, Dienstleistungs-, Industrie- oder E-Commerce-Lizenz.",
+        "icon": "FileCheck",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "title": "Registrieren & Starten",
+        "description": "Wir kümmern uns um Registrierung, Genehmigungen und Einrichtung – Sie können innerhalb weniger Tage loslegen.",
+        "icon": "Rocket",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Erforderliche Dokumente",
+    "title": "Dokumente, die Sie zur Registrierung benötigen",
+    "titleHighlight": "Sie müssen sich registrieren",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "Passkopien",
+        "description": "Klare Passkopien aller Aktionäre und Geschäftsführer."
+      },
+      {
+        "icon": "FileBadge",
+        "label": "Passfotos",
+        "description": "Aktuelle Fotos mit weißem Hintergrund für Visum und Personalausweis."
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Geschäftsplan",
+        "description": "Erforderlich für bestimmte regulierte Tätigkeiten und Branchen."
+      },
+      {
+        "icon": "MapPin",
+        "label": "Adressnachweis",
+        "description": "Strom-, Gas- oder Wasserrechnung oder Kontoauszug des Aktionärs."
+      }
+    ]
+  },
+  "trendingSection": {
+    "badge": "Trends 2025",
+    "title": "Trendige Geschäftsaktivitäten im Jahr 2025",
+    "titleHighlight": "im Jahr 2025",
+    "subtitle": "Diese wachstumsstarken Aktivitäten ziehen Unternehmer in den Freizonen der VAE an.",
+    "items": [
+      {
+        "icon": "Bot",
+        "title": "KI und maschinelles Lernen",
+        "description": "Entwicklung von KI-Tools, ML-Modellen und intelligenter Automatisierung für globale Kunden.",
+        "color": "from-indigo-500 via-purple-600 to-fuchsia-700"
+      },
+      {
+        "icon": "Leaf",
+        "title": "Nachhaltigkeit & ESG",
+        "description": "Grüne Technologien, erneuerbare Energien und klimaneutrale Beratung.",
+        "color": "from-emerald-500 via-teal-600 to-cyan-700"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über Geschäftsaktivitäten in den Freizonen der VAE wissen müssen.",
+    "items": [
+      {
+        "q": "Wie wähle ich die richtige Geschäftstätigkeit für mein Unternehmen in der Freizone aus?",
+        "a": "Wir gleichen Ihr Geschäftsmodell, Ihre Einnahmequellen und Ihre langfristigen Ziele mit genehmigten Aktivitäten in über 30 Freizonen ab. Wir prüfen außerdem Lizenzanforderungen, Visabestimmungen und zukünftige Skalierbarkeit."
+      },
+      {
+        "q": "Kann ich mehrere Aktivitäten unter einer Lizenz anmelden?",
+        "a": "Ja – viele Freihandelszonen erlauben mehrere zusammenhängende Aktivitäten unter einer einzigen Lizenz. Wir helfen Ihnen, Ihre Lizenz so zu strukturieren, dass sie alle Ihre Einnahmequellen abdeckt, ohne dass neue Genehmigungen erforderlich sind."
+      },
+      {
+        "q": "Sind alle Geschäftsaktivitäten in jeder Freizone erlaubt?",
+        "a": "Nein. Jede Freizone hat ihre eigene Liste genehmigter Aktivitäten. Beispielsweise ist DSO auf Technologie, Dubai CommerCity auf E-Commerce und DMC auf Medien spezialisiert. Wir helfen Ihnen, die passende Zone für Ihre Aktivität zu finden."
+      },
+      {
+        "q": "Benötige ich spezielle Genehmigungen für regulierte Tätigkeiten?",
+        "a": "Ja. Branchen wie Medien, Gesundheitswesen, Bildung und Finanzdienstleistungen erfordern zusätzliche Genehmigungen von den zuständigen Behörden. Wir übernehmen den gesamten Genehmigungsprozess für Sie."
+      },
+      {
+        "q": "Kann ich meine Geschäftstätigkeit später ändern?",
+        "a": "Ja – in den meisten Freihandelszonen sind Änderungen und Erweiterungen der Aktivitäten möglich. Wir übernehmen den gesamten Prozess für Sie, damit Sie die Vorschriften einhalten und flexibel bleiben, während Sie wachsen."
+      },
+      {
+        "q": "Wie lange dauert die Anmeldung einer Geschäftstätigkeit?",
+        "a": "In der Regel 3-7 Werktage, abhängig von der Freizone, der Art der Tätigkeit und davon, ob behördliche Genehmigungen erforderlich sind."
+      },
+      {
+        "q": "Welche Dokumente benötige ich, um eine Geschäftstätigkeit anzumelden?",
+        "a": "Zu den Standarddokumenten gehören Passkopien, Passfotos, ein Adressnachweis und ein Geschäftsplan für regulierte Tätigkeiten. Wir begleiten Sie durch alle Dokumente."
+      },
+      {
+        "q": "Wie viel kostet die Anmeldung einer Geschäftstätigkeit in einer Freizone?",
+        "a": "Die Kosten variieren je nach Freizone, Art der Aktivität, Lizenz und Visabestimmungen. Kontaktieren Sie uns für ein individuelles Angebot – wir bieten transparente Preise ohne versteckte Gebühren."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrer Geschäftstätigkeit passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Los geht's",
+    "title": "Sind Sie bereit, Ihre Geschäftstätigkeit zu registrieren?",
+    "titleHighlight": "Geschäftstätigkeit?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir helfen Ihnen bei der Auswahl der passenden Aktivität, Lizenz und Freizone – und übernehmen anschließend die gesamte Einrichtung für Sie.",
+    "primaryCta": "WhatsApp uns",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zu Geschäftsaktivitäten in den Freizonen der VAE.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "Kostenlose Beratung",
+      "Über 30 Freizonen",
+      "3-7 Tage Einrichtungszeit"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1600&q=80",
+  "heroBadge": "无需排队",
+  "heroTitle": "迪拜专业服务",
+  "heroTitleHighlight": "迪拜",
+  "heroSubtitle": "我们为您的阿联酋业务提供全方位的政府联络服务——签证、许可证、阿联酋身份证、劳工审批和合规事宜。我们负责处理所有表格、排队和截止日期，让您可以专注于业务增长。",
+  "heroChips": [
+    "大陆 + 自由区",
+    "快速处理",
+    "完全合规"
+  ],
+  "stats": [
+    {
+      "icon": "Zap",
+      "value": "2-5",
+      "label": "天周转时间",
+      "color": "from-indigo-400 to-purple-600"
+    },
+    {
+      "icon": "FileText",
+      "value": "50岁以上",
+      "label": "服务范围",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "服务对象",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "Award",
+      "value": "100%",
+      "label": "合规率",
+      "color": "from-fuchsia-400 to-pink-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "什么是专业服务？",
+    "title": "为什么专业服务在迪拜至关重要？",
+    "titleHighlight": "在迪拜至关重要吗？",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80",
+    "imageBadgeTitle": "您的单点",
+    "imageBadgeText": "政府联络",
+    "paragraphs": [
+      "公共关系专员 (PRO) 服务负责处理在阿联酋开展和运营业务所需的所有政府相关文件和手续。从签证申请到营业执照续期、劳工许可和阿联酋身份证注册——我们统统都能搞定。",
+      "由于政府政策和法律要求经常变化，PRO 服务可确保您的企业保持合规、正常运营和高效运作，从而节省您的时间并避免处罚。"
+    ],
+    "highlights": [
+      "全面政府联络",
+      "签证和阿联酋身份证",
+      "许可证续期",
+      "合规管理"
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "迪拜专家级专业服务",
+    "titleHighlight": "在迪拜",
+    "subtitle": "为您的商业模式（初创公司、中小企业或跨国公司）提供战略性专业支持。",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "快速法律和移民",
+        "description": "审批、签证、阿联酋身份证和劳工许可证办理零延误。",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "透明的文档和合规性",
+        "description": "每份文件都有清晰的跟踪记录，完全符合阿联酋法规，随时准备接受审计。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "AlertCircle",
+        "title": "法律及续约提醒",
+        "description": "主动提醒您有关法律变更、续期和流程更新的信息。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "所有区域的专业套餐",
+        "description": "专为自由区、大陆和离岸地区量身定制——经济高效且合规。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "文件取送",
+        "description": "我们提供文件收集、提交、跟踪和返还服务——全程管理。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Clock",
+        "title": "绝不错过截止日期",
+        "description": "所有续约和法律要求均由我们为您跟踪和管理。",
+        "color": "from-rose-400 to-red-600"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "我们提供的服务",
+    "title": "综合专业服务",
+    "titleHighlight": "专业服务",
+    "subtitle": "提供涵盖政府、移民和合规方面的全方位支持。",
+    "items": [
+      {
+        "icon": "Plane",
+        "title": "签证及移民处理",
+        "description": "工作签证、家属/家庭签证、投资签证、体检和阿联酋身份证。",
+        "items": [
+          "工作签证申请及取消",
+          "家属/家庭签证",
+          "投资者签证安排",
+          "签证体检协调",
+          "阿联酋身份证协助"
+        ],
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "许可证和文件处理",
+        "description": "营业执照续期、修改、认证、翻译和公证。",
+        "items": [
+          "营业执照续期",
+          "许可证修订",
+          "外交部认证",
+          "法律翻译",
+          "公证服务"
+        ],
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "劳工和移民服务",
+        "description": "人力资源和酋长国化部劳工审批、WPS合规、劳工卡和移民协调。",
+        "items": [
+          "人力资源和酋长国化部劳工审批",
+          "WPS薪资合规性",
+          "劳动卡发放",
+          "GDRFA协调",
+          "移民档案管理"
+        ],
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "企业合规",
+        "description": "UBO、ESR、公司税务申报和监管合规管理。",
+        "items": [
+          "UBO文件",
+          "ESR报告",
+          "企业税务合规",
+          "增值税登记",
+          "年收益"
+        ],
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      }
+    ]
+  },
+  "whoNeedsSection": {
+    "badge": "谁需要它",
+    "title": "谁需要专业服务？",
+    "titleHighlight": "专业服务？",
+    "subtitle": "阿联酋所有企业——从个体经营者到跨国公司。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "设立新业务",
+        "description": "大陆或自由区——完成所有政府手续，全面落实。",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Users",
+        "title": "招聘员工/担保家属",
+        "description": "办理员工签证、家属签证和家属担保事宜。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "更新驾照或签证",
+        "description": "及时办理营业执照和签证续期，免除罚款。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "扩大运营",
+        "description": "借助专业支持，助您在阿联酋各司法管辖区拓展业务。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "个体经营者",
+        "description": "自由职业者和个体经营者也需要专业支持。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "跨国公司",
+        "description": "复杂的公司结构和跨司法管辖区的合规性。",
+        "color": "from-rose-400 to-red-600"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "title": "大陆与自由区",
+    "titleHighlight": "自由区",
+    "subtitle": "两者都需要 PRO，但范围和流程不同。",
+    "zones": [
+      {
+        "icon": "Building2",
+        "title": "大陆公司",
+        "items": [
+          "与荷兰经济发展部 (DED)、荷兰人力资源和酋长国 (MOHRE)、荷兰移民和难民总局 (GDRFA) 合作",
+          "多部门审批",
+          "更复杂的文档",
+          "更广泛的运营范围"
+        ],
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "自由区公司",
+        "items": [
+          "与自由区管理局互动",
+          "直接签证和驾照支持",
+          "简化流程",
+          "区域特定规定"
+        ],
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "outsourceSection": {
+    "badge": "外包 vs. 内部开发",
+    "title": "为什么要将专业服务外包？",
+    "titleHighlight": "专业服务？",
+    "subtitle": "维持一支全职的专业团队成本高昂。外包给我们，您就能以极低的成本获得一支完整的专家团队——我们拥有强大的政府关系网络、合规专业知识和可扩展的支持。",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=80",
+    "benefits": [
+      {
+        "icon": "Award",
+        "title": "与当地有联系的专家",
+        "description": "与阿联酋政府和自由区管理部门保持牢固的关系，以加快审批速度。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "降低运营成本",
+        "description": "节省内部薪资和运营成本——聘请一支完整的专家团队。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "预防法律风险",
+        "description": "准确提交意味着不会受到罚款、延误或拒绝。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "可扩展支持",
+        "description": "从初创到扩张——我们的专业团队会随着您的业务规模而扩展。"
+      },
+      {
+        "icon": "FileSearch",
+        "title": "当前政府知识",
+        "description": "随时掌握阿联酋商业法、移民法和劳动法规的最新信息。"
+      }
+    ],
+    "costComparison": {
+      "title": "成本比较——年度",
+      "inHouseLabel": "内部专业",
+      "inHouseValue": "180,000 迪拉姆以上",
+      "inHouseNote": "薪资 + 签证 + 福利 + 管理费用",
+      "outsourceLabel": "外包给我们",
+      "outsourceValue": "节省70%",
+      "outsourceNote": "完整的专家团队，无额外开销",
+      "benefitsList": [
+        "无需招聘费用",
+        "无需培训",
+        "政府关系包括",
+        "可随您的业务规模扩展"
+      ]
+    }
+  },
+  "stepsSection": {
+    "badge": "开始使用",
+    "title": "如何开始使用专业服务",
+    "titleHighlight": "专业服务",
+    "subtitle": "与我们合作，一切都变得简单。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "免费咨询",
+        "description": "联系我们的专家，讨论您的需求。",
+        "icon": "MessageCircle",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "title": "分享您的需求",
+        "description": "请告诉我们您的业务活动和服务需求。",
+        "icon": "FileText",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "03",
+        "title": "个性化计划",
+        "description": "获取定制的专业版方案和透明的费用估算。",
+        "icon": "ClipboardCheck",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "04",
+        "title": "我们包办一切",
+        "description": "我们的团队负责处理文件和政府事务。",
+        "icon": "Settings",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "05",
+        "title": "配送及更新",
+        "description": "审批结果将直接送达您家门口或邮箱。",
+        "icon": "CheckCircle2",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜专业服务，您需要了解的一切。",
+    "sidebarCard": {
+      "title": "免费咨询",
+      "text": "请联系我们的专业顾问，洽谈您的业务需求。",
+      "whatsappMessage": "您好！我想获得一次免费的专业服务咨询。"
+    },
+    "items": [
+      {
+        "q": "迪拜的公共关系服务（PRO服务）是什么？为什么需要这些服务？",
+        "a": "PRO 服务负责管理所有政府文件、法律文件、公司设立、签证、劳工批准、阿联酋身份证和合规义务——确保您的业务合法运营，不受干扰。"
+      },
+      {
+        "q": "哪些人在迪拜需要公共关系服务？",
+        "a": "在阿联酋，从初创企业和自由职业者到大型跨国公司，所有企业都需要 PRO 提供签证、许可证和合规方面的支持。"
+      },
+      {
+        "q": "自由区公司是否必须使用公共关系服务？",
+        "a": "虽然并非强制性要求，但强烈建议这样做。自由区公司仍然需要办理签证、续签许可证和获得合规支持。"
+      },
+      {
+        "q": "内部专业服务与外包专业服务有何区别？",
+        "a": "内部专业团队意味着需要雇佣全职员工，支付工资和运营成本。而外包则能以更低的成本为您提供一支完整的专家团队。"
+      },
+      {
+        "q": "在迪拜，PRO服务的费用是多少？",
+        "a": "费用根据所需服务而定。我们为初创企业、中小企业和大型企业提供灵活的套餐。请联系我们获取定制报价。"
+      },
+      {
+        "q": "PRO服务处理哪些文件？",
+        "a": "贸易许可证、签证、阿联酋身份证、劳工卡、证明文件、外交部文件、公司备案文件等等。"
+      },
+      {
+        "q": "PRO服务是否协助办理投资者和合伙人签证？",
+        "a": "是的。我们为所有商业结构办理投资签证、合伙人签证和工作签证。"
+      },
+      {
+        "q": "我需要办理员工签证注销的专业服务吗？",
+        "a": "是的。签证取消、离境文件办理和最终结算都需要公共关系部门与阿联酋人力资源和酋长国移民局协调。"
+      },
+      {
+        "q": "为什么选择 Setup Zone Dubai 获取专业服务？",
+        "a": "我们结合了专业的 PRO 代理、透明的定价、实时跟踪和完全合规性——以及强大的政府关系，以实现快速处理。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与专业版支持服务完美搭配的服务。",
+    "items": [
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO 申报、ESR 报告和监管支持。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并完成完整的KYC认证。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "专注于增长",
+    "title": "准备好绕过官僚机构了吗？",
+    "titleHighlight": "官僚？",
+    "subtitle": "获取免费咨询。我们的专业团队负责签证、许可证、合规事宜以及所有政府部门的沟通协调——让您可以专注于业务增长。",
+    "chips": [
+      "免费咨询",
+      "500+ 客户",
+      "完全合规"
+    ],
+    "whatsappMessage": "您好！我想获得一次免费的专业服务咨询。",
+    "whatsappCardMessage": "您好！我想咨询一下贵公司需要的专业服务。"
+  }
+}

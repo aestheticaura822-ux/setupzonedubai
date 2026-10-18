@@ -1,0 +1,228 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Business Begins with RAKEZ",
+  "heroTitle": "RAKEZ Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "One of the most powerful business ecosystems in the UAE. Cost-effective, flexible, and central — with access to regional and global markets.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-5 Days Setup", "18,000+ Companies"],
+
+  "stats": [
+    { "icon": "Building2", "value": "18,000+", "label": "Global Companies", "color": "from-rose-400 to-red-600" },
+    { "icon": "Globe", "value": "100+", "label": "Countries", "color": "from-red-400 to-orange-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-orange-400 to-amber-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-amber-400 to-yellow-600" }
+  ],
+
+  "introSection": {
+    "badge": "Growth-Friendly Business Zone",
+    "title": "Open Up Global Business Opportunities",
+    "titleHighlight": "Global Business Opportunities",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Economic Zone",
+    "imageBadgeText": "Ras Al Khaimah, UAE",
+    "paragraphs": [
+      "RAKEZ (Ras Al Khaimah Economic Zone) is one of the most powerful business ecosystems in the UAE — providing a cost-effective, central, and flexible option for global entrepreneurs, SMEs, manufacturers, and startups.",
+      "Whether you're setting up a trading company, tech startup, consultancy, or manufacturing — RAKEZ provides the infrastructure, license combinations, tax incentives, and more to enable a successful UAE experience.",
+      "As a gateway to regional and global markets, RAKEZ combines the power of a world-class free zone with the benefits of a dynamic mainland economy. It supports over 18,000 companies from 100+ countries — and you could be next."
+    ],
+    "highlights": ["100% Foreign Ownership", "Zero Tax Environment", "Fast-Track Licensing", "Global Market Access", "Dual License Options", "World-Class Infrastructure"]
+  },
+
+  "whyChooseSection": {
+    "badge": "Growth-Friendly Business Zone",
+    "title": "Why Choose RAKEZ Free Zone?",
+    "titleHighlight": "RAKEZ Free Zone?",
+    "subtitle": "Six powerful reasons to launch your business in RAKEZ.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "No local Emirati sponsor required. Complete control over your business operations, profits, and decision-making.", "color": "from-rose-400 to-red-600" },
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Tax", "description": "No corporate income tax or personal income tax — maximize profits and minimize long-term financial liabilities.", "color": "from-red-400 to-orange-600" },
+      { "icon": "Wallet", "title": "Full Repatriation of Capital & Profits", "description": "Transfer your profits back to your home country without restrictions — a big bonus for international businesses and foreign investors.", "color": "from-orange-400 to-amber-600" },
+      { "icon": "Package", "title": "Duty-Free Business Zone", "description": "Trade in the Free Zone without import and export customs duties — cost-effective operations for logistics, e-commerce, manufacturing, and trade.", "color": "from-amber-400 to-yellow-600" },
+      { "icon": "Truck", "title": "Direct Access to RAK Logistics", "description": "Immediate access to RAK seaports, UAE highways, and international airports — faster supply chain movement for import-export operations.", "color": "from-yellow-400 to-lime-600" },
+      { "icon": "Zap", "title": "Rapid Company Formation", "description": "From license approval and visa processing to office setup — your business can be up and running in just a few days.", "color": "from-lime-400 to-emerald-600" }
+    ]
+  },
+
+  "licenseTypesSection": {
+    "badge": "Flexible Licenses, Global Reach",
+    "title": "What License Types Are Available in RAKEZ?",
+    "titleHighlight": "Available in RAKEZ?",
+    "subtitle": "We help you determine the best RAKEZ license considering your activity.",
+    "items": [
+      { "icon": "Store", "title": "Commercial License", "description": "For general trading, retail, and import-export businesses.", "code": "CML", "color": "from-rose-400 to-red-600" },
+      { "icon": "Factory", "title": "Industrial License", "description": "For manufacturing, packaging, and assembling operations.", "code": "IND", "color": "from-red-400 to-orange-600" },
+      { "icon": "Briefcase", "title": "Service License", "description": "For marketing, legal, logistics, and professional services.", "code": "SRV", "color": "from-orange-400 to-amber-600" },
+      { "icon": "ShoppingCart", "title": "E-Commerce License", "description": "Sell products online worldwide with full e-commerce capabilities.", "code": "ECM", "color": "from-amber-400 to-yellow-600" },
+      { "icon": "UserCheck", "title": "Freelance Permit", "description": "For creative professionals, consultants, and independent specialists.", "code": "FRL", "color": "from-yellow-400 to-lime-600" },
+      { "icon": "Layers", "title": "Dual License", "description": "Conduct business in RAKEZ and the UAE mainland under one license.", "code": "DUAL", "color": "from-lime-400 to-emerald-600" }
+    ]
+  },
+
+  "facilitiesSection": {
+    "badge": "Office & Warehouse Facilities",
+    "title": "Scalable Infrastructure for Every Business Size",
+    "titleHighlight": "for Every Business Size",
+    "subtitle": "From startups to large industrial companies — RAKEZ has flexible, economical, long-term value.",
+    "items": [
+      { "icon": "Building2", "title": "Smart Offices", "description": "Furnished, plug-and-play offices designed for startups, consultants, and small businesses.", "color": "from-rose-400 to-red-600", "size": "small" },
+      { "icon": "Crown", "title": "Executive Suites", "description": "High-standard offices in a dedicated business building — perfect for regional head offices.", "color": "from-red-400 to-orange-600", "size": "small" },
+      { "icon": "Factory", "title": "Industrial Land Lease", "description": "Long-term leases of large industrial land plots with complete utility support.", "color": "from-orange-500 to-amber-700", "size": "large" },
+      { "icon": "Warehouse", "title": "Warehouses", "description": "Finished product units for logistics, distribution, storage, or light manufacturing.", "color": "from-amber-400 to-yellow-600", "size": "small" },
+      { "icon": "GraduationCap", "title": "RAK Academic & Innovation Cluster", "description": "Unique ecosystem for tech startups, R&D, and education companies.", "color": "from-yellow-400 to-lime-600", "size": "small" }
+    ]
+  },
+
+  "visaServicesSection": {
+    "badge": "RAKEZ Visa Process Simplified",
+    "title": "Visa & Immigration Services for Entrepreneurs",
+    "titleHighlight": "Services for Entrepreneurs",
+    "subtitle": "From visa stamping to issuing immigration cards — everything is covered.",
+    "items": [
+      { "icon": "UserCheck", "label": "Investor Visas & Establishment Card" },
+      { "icon": "Users", "label": "Employment Visas for Staff" },
+      { "icon": "HeartHandshake", "label": "Family Visa Management" },
+      { "icon": "CreditCard", "label": "Emirates ID & Medical Test" },
+      { "icon": "BadgeCheck", "label": "Visa Stamping" },
+      { "icon": "Crown", "label": "Golden Visa UAE Advice" },
+      { "icon": "Shield", "label": "Full PRO Services" }
+    ]
+  },
+
+  "formationServicesSection": {
+    "badge": "Fast, Hassle-Free Formation",
+    "title": "How We Help You Start a RAKEZ Company",
+    "titleHighlight": "Start a RAKEZ Company",
+    "subtitle": "Complete end-to-end business setup services — from activity selection to compliance.",
+    "items": [
+      { "icon": "Target", "label": "Business Activity Selection" },
+      { "icon": "FileText", "label": "Domain Name Reservation" },
+      { "icon": "ClipboardCheck", "label": "RAKEZ Company Registration" },
+      { "icon": "Database", "label": "Document Drafting & Application" },
+      { "icon": "DollarSign", "label": "UAE Bank Account Application" },
+      { "icon": "Percent", "label": "RAKEZ VAT Registration" },
+      { "icon": "Scale", "label": "Corporate Structuring" },
+      { "icon": "Shield", "label": "Monthly Compliance Monitoring" }
+    ]
+  },
+
+  "taxBenefitsSection": {
+    "badge": "RAKEZ Offers Full Control",
+    "title": "Tax & Ownership Benefits of RAKEZ",
+    "titleHighlight": "Benefits of RAKEZ",
+    "subtitle": "Perfect for global investors and entrepreneurs seeking maximum profit efficiency.",
+    "items": [
+      { "icon": "Percent", "label": "0% Personal & Corporate Income Tax", "detail": "Maximum profit retention" },
+      { "icon": "Globe", "label": "Full Foreign Ownership", "detail": "No local sponsor needed" },
+      { "icon": "Wallet", "label": "Free Repatriation of Capital & Profits", "detail": "No restrictions" },
+      { "icon": "Package", "label": "No Import/Export Duties", "detail": "Duty-free operations" },
+      { "icon": "DollarSign", "label": "No Currency Restrictions", "detail": "Global transactions ready" },
+      { "icon": "Shield", "label": "UAE Tax Advisory & VAT Registration", "detail": "Full compliance support" }
+    ]
+  },
+
+  "digitalServicesSection": {
+    "badge": "Wide Range. Easy Setup.",
+    "title": "Grow Your Business Digitally in RAKEZ",
+    "titleHighlight": "Digitally in RAKEZ",
+    "subtitle": "We equip you with digital infrastructure and marketing tools to compete in the marketplace.",
+    "items": [
+      { "icon": "Globe", "title": "Website & E-Commerce Development", "description": "Professional website and online store development for your brand.", "color": "from-rose-400 to-red-600" },
+      { "icon": "Database", "title": "CRM & CMS Integration", "description": "Powerful integrations to optimize your business administration.", "color": "from-red-400 to-orange-600" },
+      { "icon": "TrendingUp", "title": "SEO Services in RAK", "description": "Dominate search results and build organic traffic and credibility.", "color": "from-orange-400 to-amber-600" },
+      { "icon": "Megaphone", "title": "Social Media Marketing", "description": "Tailored social media, PPC, and content strategies for engagement.", "color": "from-amber-400 to-yellow-600" },
+      { "icon": "Palette", "title": "Branding & Logo Design", "description": "Create a digital storefront that reflects your business vision.", "color": "from-yellow-400 to-lime-600" },
+      { "icon": "BadgeCheck", "title": "Product Registration & Trademarks", "description": "Full support for product registration and trademark protection in the UAE.", "color": "from-lime-400 to-emerald-600" }
+    ],
+    "footerText": "With Setup Zone Dubai, you're not just starting a business — you're developing a sustainable brand that's ready to grow, scale, and succeed."
+  },
+
+  "postLicenseSupportSection": {
+    "badge": "Post-License Support",
+    "title": "Compliance Services We Provide",
+    "titleHighlight": "We Provide",
+    "subtitle": "We ensure operational continuity and compliance — long after you're licensed.",
+    "items": [
+      { "icon": "FileText", "label": "Audit-Ready Bookkeeping" },
+      { "icon": "RefreshCw", "label": "License Renewal Support" },
+      { "icon": "Scale", "label": "Legal Drafting & Compliance" },
+      { "icon": "CreditCard", "label": "Payment Gateway Integration" },
+      { "icon": "DollarSign", "label": "Banking & KYC Documentation" },
+      { "icon": "UserCheck", "label": "Visa Renewals & PRO Services" }
+    ]
+  },
+
+  "businessActivitiesSection": {
+    "badge": "Business Activities",
+    "title": "What Activities Are Allowed in RAKEZ?",
+    "titleHighlight": "Allowed in RAKEZ?",
+    "subtitle": "We align your business goals with RAKEZ's approved categories.",
+    "items": [
+      { "icon": "Store", "label": "General Trading, Retail & Wholesale", "color": "from-rose-400 to-red-600" },
+      { "icon": "Megaphone", "label": "Media, Advertising & Creative Agencies", "color": "from-red-400 to-orange-600" },
+      { "icon": "ShoppingCart", "label": "Online Stores, Marketplaces & E-Commerce", "color": "from-orange-400 to-amber-600" },
+      { "icon": "Code", "label": "IT & SaaS Services, Cloud Computing", "color": "from-amber-400 to-yellow-600" },
+      { "icon": "Microscope", "label": "Research, Education & Healthcare", "color": "from-yellow-400 to-lime-600" },
+      { "icon": "Leaf", "label": "Renewable Energy & Advanced Manufacturing", "color": "from-lime-400 to-emerald-600" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "A Leading Economic Zone in the UAE",
+    "titleHighlight": "Economic Zone in the UAE",
+    "subtitle": "Rapidly growing ecosystem for global entrepreneurs and international businesses.",
+    "items": [
+      { "icon": "Building2", "value": "18,000+", "label": "Global Companies", "color": "from-rose-400 to-red-600" },
+      { "icon": "Globe", "value": "100+", "label": "Countries Served", "color": "from-red-400 to-orange-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Economic Zone", "color": "from-orange-400 to-amber-600" },
+      { "icon": "DollarSign", "value": "Growing", "label": "Business Economy", "color": "from-amber-400 to-yellow-600" },
+      { "icon": "BarChart3", "value": "Significant", "label": "Regional Impact", "color": "from-yellow-400 to-lime-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "For Global Business", "color": "from-lime-400 to-emerald-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about RAKEZ Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our RAKEZ specialists.",
+      "whatsappMessage": "Hi! I have a question about RAKEZ Free Zone."
+    },
+    "items": [
+      { "q": "How long does it take to register a company in RAKEZ?", "a": "It usually takes approximately 3-5 working days to register a company with RAKEZ, subject to business activity, documentation, and visa requirements. We fast-track the process to get your company registered without hiccups." },
+      { "q": "Can I own a company in RAKEZ as a foreigner?", "a": "Yes. RAKEZ allows 100% foreign ownership with no local Emirati sponsor required. You have complete control over your business operations, profits, and decision-making." },
+      { "q": "Do I need a physical office to set up in RAKEZ?", "a": "Not necessarily. RAKEZ offers flexible options including Smart Offices, Executive Suites, and shared workspaces. However, certain licenses and visa quotas may require a physical presence." },
+      { "q": "Is there a visa included in the company formation at RAKEZ?", "a": "RAKEZ license packages include visa eligibility. We handle investor visas, employment visas, family visas, Emirates ID, medical tests, and visa stamping — complete end-to-end support." },
+      { "q": "Can I open a bank account with a RAKEZ company in the UAE?", "a": "Yes. We provide complete assistance with UAE corporate bank account opening — including KYC documentation and bank liaison — as part of our setup services." },
+      { "q": "Is RAKEZ good for e-commerce and online businesses?", "a": "Absolutely. RAKEZ offers an E-Commerce License specifically designed for online stores, marketplaces, dropshipping, and digital product sellers — with full payment gateway integration support." },
+      { "q": "Is there a tax benefit in RAKEZ?", "a": "Yes. RAKEZ offers 0% personal and corporate income tax, no import/export duties, free repatriation of capital and profits, no currency restrictions, and UAE tax advisory with VAT registration." },
+      { "q": "Can I operate in both Free Zone and UAE Mainland with an RAKEZ company?", "a": "Yes. RAKEZ offers a Dual License option that combines Free Zone benefits with access to the UAE mainland — perfect for businesses wanting maximum market reach." },
+      { "q": "What if I need help post company set up?", "a": "We provide extensive post-license support including audit-ready bookkeeping, license renewal, legal drafting, payment gateway integration, banking documentation, and visa renewals with full PRO services." },
+      { "q": "Why should I choose Setup Zone Dubai for RAKEZ setup?", "a": "We provide end-to-end support — from business activity selection and domain name reservation to company registration, bank account, VAT, compliance, and digital growth services. Our track record speaks for speed, accuracy, and full transparency." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services & Guides",
+    "titleHighlight": "Services & Guides",
+    "subtitle": "Services that pair well with your RAKEZ setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-rose-400 to-red-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-orange-400 to-red-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in RAKEZ Free Zone?",
+    "titleHighlight": "RAKEZ Free Zone?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "3-5 Days Setup", "18,000+ Companies"],
+    "whatsappMessage": "Hi! I'd like a free consultation for RAKEZ setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss RAKEZ setup."
+  }
+}

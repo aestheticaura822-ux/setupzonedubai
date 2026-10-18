@@ -1,0 +1,179 @@
+{
+  "badge": {
+    "text": "Birleşik Arap Emirlikleri genelinde 500'den fazla işletme tarafından güvenilen bir marka.",
+    "showPulse": true
+  },
+  "heading": {
+    "line1": "Başlatın",
+    "line2Highlight": "Dubai İş Dünyası",
+    "line3": "Aylar değil, günler içinde."
+  },
+  "subtext": "Şirket kuruluşundan vize işlemlerine, bankacılıktan vergilendirmeye kadar her şeyi baştan sona biz hallediyoruz, böylece siz de BAE'nin gelişen ekonomisinde işinizi büyütmeye odaklanabilirsiniz.",
+  "video": {
+    "src": "/videos/hero-bg.mp4",
+    "poster": "/videos/hero-bg-poster.jpg"
+  },
+  "ctaPrimary": {
+    "text": "Ücretsiz Danışmanlık Alın",
+    "link": "#contact"
+  },
+  "ctaSecondary": {
+    "text": "Bize WhatsApp'tan ulaşın",
+    "message": "Merhaba! Dubai'deki iş kurulumum hakkında görüşmek istiyorum."
+  },
+  "trustPills": [
+    "%100 Sahiplik",
+    "%0 Kişisel Vergi",
+    "Hızlı Lisanslama"
+  ],
+  "googleBadge": {
+    "rating": "4.8",
+    "reviewsText": "(34 değerlendirme)"
+  },
+  "floatingCards": [
+    {
+      "icon": "Building2",
+      "title": "Serbest Bölge Lisansı",
+      "price": "5.999 AED",
+      "tag": "En Popüler",
+      "tagColor": "gold",
+      "delay": 0.8,
+      "position": {
+        "right": "0 piksel",
+        "top": "20 piksel"
+      },
+      "z": 30
+    },
+    {
+      "icon": "Globe",
+      "title": "Anakara Kurulumu",
+      "price": "16.999 AED",
+      "tag": "En İyi Değer",
+      "tagColor": "sky",
+      "delay": 1,
+      "position": {
+        "right": "100 piksel",
+        "top": "220 piksel"
+      },
+      "z": 20
+    },
+    {
+      "icon": "CreditCard",
+      "title": "Banka Hesabı",
+      "price": "Hızlı Onay",
+      "tag": "Hızlı",
+      "tagColor": "violet",
+      "delay": 1.2,
+      "position": {
+        "right": "40 piksel",
+        "top": "420 piksel"
+      },
+      "z": 10
+    }
+  ],
+  "reviewsSection": {
+    "badgeText": "Google Yorumları",
+    "title": "Müşterilerimiz Ne Diyor?",
+    "titleHighlight": "Müşteriler diyor ki:",
+    "rating": "4.8",
+    "reviewsCountText": "· 34 Doğrulanmış Yorum"
+  },
+  "reviews": [
+    {
+      "name": "ZeeShan Butt",
+      "initials": "ZB",
+      "rating": 5,
+      "date": "3 ay önce",
+      "text": "Brightlink yönetimi 100/100'ü hak ediyor. Muhammed Bilal Saleem ve ekibi muhteşem ve bunu yaptıkları işlerle kanıtlıyorlar. Altın Vize ve vatandaşlık değiştirme hizmeti A'dan Z'ye 36 saatten kısa sürede tamamlandı. Tüm süreç sorunsuz ve stressiz geçti. Gerçekten VIP hizmeti (Süper Hızlı Ekip).",
+      "color": "from-blue-500 to-blue-700"
+    },
+    {
+      "name": "Muhammed",
+      "initials": "M",
+      "rating": 5,
+      "date": "3 ay önce",
+      "text": "Altın Vize başvurum için Brightlink Ekibi ile çalışmak harika bir deneyimdi. Profesyonel, hızlı yanıt veren ve tüm süreci sorunsuz bir şekilde yöneten bir ekipti. Vizeyi 2 gün içinde aldım. Hızlı ve sorunsuz bir altın vize süreci arayan herkese şiddetle tavsiye ederim.",
+      "color": "from-violet-500 to-purple-700"
+    },
+    {
+      "name": "Ritik Gupta",
+      "initials": "RG",
+      "rating": 5,
+      "date": "6 ay önce",
+      "text": "Merhaba, 2 yıllık oturum vizemi Brightlink Management Consultancy aracılığıyla aldım ve son derece profesyonellerdi, 4 iş günü içinde, üstelik Ramazan ayında kısaltılmış çalışma saatlerinde bile, işlemi tamamladılar. VIP paketlerini şiddetle tavsiye ederim!",
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "name": "Sina Behfard",
+      "initials": "SB",
+      "rating": 5,
+      "date": "8 ay önce",
+      "text": "Ekip çok verimli, profesyonel ve şeffaf bir şekilde çalışıyor. Başka bir şirkette günlerce takılı kalan başvurumu hızla devralmaları konusunda çok destekleyici oldular ve her adımı büyük bir özenle hallettiler.",
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "name": "M J",
+      "initials": "MJ",
+      "rating": 5,
+      "date": "3 ay önce",
+      "text": "Hızlı yanıt ve takip işlemleriyle mükemmel hizmet. Altın Vize başvurum için hizmetlerini kullandım ve işlem baştan sona üç gün sürdü.",
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "name": "Hakan TEKERCIOGLU",
+      "initials": "HT",
+      "rating": 5,
+      "date": "2 ay önce",
+      "text": "Ailemizin Altın Vize başvuru süreci sorunsuz, zamanında ve uygun fiyatlarla tamamlandı. Bu hizmeti ihtiyacı olan herkese kesinlikle tavsiye ederim.",
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "name": "Amin K",
+      "initials": "AK",
+      "rating": 5,
+      "date": "8 ay önce",
+      "text": "Brightlink'in sunduğu hizmet mükemmeldi! Detayları ve fiyat teklifini almaktan Emirates Kimliğimi elime teslim etmeye kadar her şey sorunsuz ve hızlı bir şekilde gerçekleşti. Sayın Bilal'e, Sayın Abbas'a ve tüm ekibe teşekkür ederim!",
+      "color": "from-fuchsia-500 to-purple-700"
+    },
+    {
+      "name": "Tausif Ahmad",
+      "initials": "TA",
+      "rating": 5,
+      "date": "3 ay önce",
+      "text": "Mükemmel hizmet. Çok dürüst ve yardımsever bir ekip. Tüm evrak işleri bir hafta içinde ve hiçbir gizli ücret olmadan tamamlandı. Özellikle Abbas Bey'e teşekkürler.",
+      "color": "from-green-500 to-emerald-700"
+    },
+    {
+      "name": "Clay Mullens",
+      "initials": "SANTİMETRE",
+      "rating": 5,
+      "date": "10 ay önce",
+      "text": "Abbas ve Brightlink ekibi muhteşemdi!! İlk iletişimimden itibaren son derece yardımcı oldular ve hızlı bir şekilde yanıt verdiler. Tam olarak istediğim şeyi sağladılar. Hızlı altın vize hizmeti arayan herkese onları şiddetle tavsiye ederim.",
+      "color": "from-indigo-500 to-blue-700"
+    },
+    {
+      "name": "Manaqib Ashraf",
+      "initials": "MA",
+      "rating": 5,
+      "date": "1 yıl önce",
+      "text": "Geçtiğimiz günlerde Brightlink aracılığıyla aile vizesi işlemlerimi tamamladım ve hizmetten son derece memnun kaldım. Tüm süreç çok hızlı ve profesyonel bir şekilde yürütüldü. Artık ailemle birlikte BAE'de yaşayabiliyorum. Şiddetle tavsiye ederim!",
+      "color": "from-red-500 to-rose-700"
+    },
+    {
+      "name": "Ahmed Ullah",
+      "initials": "AU",
+      "rating": 5,
+      "date": "1 yıl önce",
+      "text": "Eşimin vizesinin sadece 2 gün içinde halledilmesindeki inanılmaz desteğiniz için çok teşekkür etmek istedim! Her şeyin bu kadar sorunsuz ve hızlı bir şekilde halledilmesinden gerçekten çok memnunum. Ekibinizin profesyonelliği gerçekten olağanüstü.",
+      "color": "from-teal-500 to-cyan-700"
+    },
+    {
+      "name": "Numan Shabbir",
+      "initials": "NS",
+      "rating": 5,
+      "date": "2 yıl önce",
+      "text": "Tüm deneyimden çok memnun kaldım. Vizelerimizi sadece 3 günde aldık. Tüm ekip çok deneyimli ve her aşamada bilgilendirme sağlıyor. Dubai'de iş kurmak veya Altın Vize almak isteyen herkese tavsiye ederim.",
+      "color": "from-yellow-500 to-amber-700"
+    }
+  ]
+}

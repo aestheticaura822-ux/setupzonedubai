@@ -1,0 +1,315 @@
+{
+  "badge": {
+    "text": "深受阿联酋500多家企业的信赖",
+    "showPulse": true
+  },
+  "heading": {
+    "line1": "启动你的",
+    "line2Highlight": "迪拜商业",
+    "line3": "只需几天，无需几个月。",
+    "highlight": "自由区还是大陆？"
+  },
+  "subtext": "从公司注册到签证、银行和税务——我们提供端到端的一站式服务，让您可以专注于在阿联酋蓬勃发展的经济中发展您的业务。",
+  "video": {
+    "src": "/videos/hero-bg.mp4",
+    "poster": "/videos/hero-bg-poster.jpg"
+  },
+  "ctaPrimary": {
+    "text": "获取免费咨询",
+    "link": "＃接触"
+  },
+  "ctaSecondary": {
+    "text": "WhatsApp 联系我们",
+    "message": "您好！我想和您探讨一下我在迪拜的商业架构。"
+  },
+  "trustPills": [
+    "100% 所有权",
+    "0% 个人所得税",
+    "快速许可"
+  ],
+  "googleBadge": {
+    "rating": "4.8",
+    "reviewsText": "（34条评论）"
+  },
+  "floatingCards": [
+    {
+      "icon": "2 号楼",
+      "title": "自由区许可证",
+      "price": "5,999 迪拉姆",
+      "tag": "最受欢迎",
+      "tagColor": "金子",
+      "delay": 0.8,
+      "position": {
+        "right": "0px",
+        "top": "20像素"
+      },
+      "z": 30
+    },
+    {
+      "icon": "地球",
+      "title": "大陆设置",
+      "price": "16,999 迪拉姆",
+      "tag": "性价比最高",
+      "tagColor": "天空",
+      "delay": 1,
+      "position": {
+        "right": "100像素",
+        "top": "220像素"
+      },
+      "z": 20
+    },
+    {
+      "icon": "信用卡",
+      "title": "银行账户",
+      "price": "快速审批",
+      "tag": "快的",
+      "tagColor": "紫色",
+      "delay": 1.2,
+      "position": {
+        "right": "40像素",
+        "top": "420像素"
+      },
+      "z": 10
+    }
+  ],
+  "reviewsSection": {
+    "badgeText": "Google 评论",
+    "title": "客户评价",
+    "titleHighlight": "客户评价",
+    "rating": "4.8",
+    "reviewsCountText": "· 34 条已验证评论"
+  },
+  "reviews": [
+    {
+      "name": "ZeeShan Butt",
+      "initials": "中部",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "Brightlink的管理团队值得满分100分。Muhammad Bilal Saleem和他的团队非常出色，他们的工作成果也证明了这一点。从头到尾，黄金签证和国籍变更服务在不到36小时内就全部完成。整个过程流畅无压力。这才是真正的VIP服务（超音速团队）。",
+      "color": "从蓝色500到蓝色700"
+    },
+    {
+      "name": "穆罕默德",
+      "initials": "M",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "与 Brightlink 团队合作办理黄金签证的体验非常棒。他们专业、响应迅速，整个流程处理得非常顺利。两天就拿到了签证。强烈推荐给任何想要快速顺利办理黄金签证的人。",
+      "color": "从紫罗兰色-500到紫罗兰色-700"
+    },
+    {
+      "name": "里提克·古普塔",
+      "initials": "RG",
+      "rating": 5,
+      "date": "6个月前",
+      "text": "您好，我通过Brightlink Management Consultancy办理了两年的居留签证，他们非常专业，只用了4个工作日就办好了——而且还是在斋月期间缩短的工作时间里。强烈推荐他们的VIP套餐！",
+      "color": "从翡翠绿 500 到青色 700"
+    },
+    {
+      "name": "西娜·贝赫法德",
+      "initials": "SB",
+      "rating": 5,
+      "date": "8个月前",
+      "text": "团队工作效率极高，专业且透明。我的申请在另一家公司搁置了好几天，他们迅速接手并给予了大力支持，而且每一步都处理得非常细致周到。",
+      "color": "从琥珀色 500 到橙色 700"
+    },
+    {
+      "name": "M J",
+      "initials": "迈克尔·杰克逊",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "服务一流，响应迅速，后续跟进到位。我使用他们的服务申请黄金签证，从开始到结束只用了三天时间。",
+      "color": "从玫瑰色 500 到粉色 700"
+    },
+    {
+      "name": "哈坎·特克尔乔格鲁",
+      "initials": "HT",
+      "rating": 5,
+      "date": "2个月前",
+      "text": "我们全家的黄金签证申请过程非常顺利，按时完成，价格也很合理。我绝对会向任何有需要的人推荐这项服务。",
+      "color": "从青色 500 到蓝色 700"
+    },
+    {
+      "name": "胺K",
+      "initials": "AK",
+      "rating": 5,
+      "date": "8个月前",
+      "text": "Brightlink提供的服务简直太棒了！从获取详细信息和报价到最终拿到我的阿联酋身份证，整个过程都非常流畅快捷。感谢Bilal先生、Abbas先生以及整个团队！",
+      "color": "从紫红色-500到紫色-700"
+    },
+    {
+      "name": "陶西夫·艾哈迈德",
+      "initials": "助教",
+      "rating": 5,
+      "date": "3个月前",
+      "text": "服务一流。团队非常诚实且乐于助人。一周内就办完了所有手续，没有任何隐性费用。特别感谢阿巴斯先生。",
+      "color": "从绿色 500 到翡翠绿 700"
+    },
+    {
+      "name": "克莱·穆伦斯",
+      "initials": "厘米",
+      "rating": 5,
+      "date": "10个月前",
+      "text": "Abbas 和 Brightlink 团队太棒了！！从我最初联系他们开始，他们就非常乐于助人，回复也很迅速。他们完全满足了我的需求。我强烈推荐他们给任何需要快速办理黄金签证的人。",
+      "color": "从靛蓝500到蓝色700"
+    },
+    {
+      "name": "马纳基布·阿什拉夫",
+      "initials": "马萨诸塞州",
+      "rating": 5,
+      "date": "1年前",
+      "text": "我最近通过Brightlink办理了家庭签证，对他们的服务非常满意。整个过程快速高效，专业到位。现在我可以和家人一起在阿联酋生活了。强烈推荐！",
+      "color": "从红色 500 到玫瑰色 700"
+    },
+    {
+      "name": "艾哈迈德·乌拉",
+      "initials": "澳大利亚",
+      "rating": 5,
+      "date": "1年前",
+      "text": "我只想对你们给予我妻子签证办理的鼎力支持表示衷心的感谢——而且仅仅用了两天时间就办好了！我非常感激你们如此高效快捷地处理一切。你们团队的专业精神真是令人赞叹。",
+      "color": "从青色-500 到青色-700"
+    },
+    {
+      "name": "努曼·沙比尔",
+      "initials": "NS",
+      "rating": 5,
+      "date": "两年前",
+      "text": "整个过程体验非常棒。我们只用了三天就拿到了签证。他们的团队经验丰富，每一步都会及时更新信息。强烈推荐给所有想在迪拜创业或申请黄金签证的人。",
+      "color": "从黄色 500 到琥珀色 700"
+    }
+  ],
+  "subtitle": "合适的公司结构取决于您的运营地点、所需签证数量以及预算。以下是简要概述。",
+  "vsLabel": "VS",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "自由区",
+      "short": "FZ",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "国际的",
+      "tagline": "最适合全球企业",
+      "bestFor": "国际贸易、在线服务、咨询",
+      "highlight": "100% 所有权，享受税收优惠，免关税",
+      "limitation": "签证名额有限，根据办公室规模而定。",
+      "ctaText": "探索自由区设置",
+      "whatsappMessage": "您好！我对在迪拜设立一家自由区公司很感兴趣。",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "大陆",
+      "short": "机器学习",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "当地市场",
+      "tagline": "最适合本地发展",
+      "bestFor": "当地零售、建筑、餐饮、机构",
+      "highlight": "完全进入阿联酋市场，无任何贸易限制",
+      "limitation": "签证资格越高，需要的办公空间就越多",
+      "ctaText": "探索大陆设置",
+      "whatsappMessage": "您好！我对在迪拜设立一家中国大陆公司很感兴趣。",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "最适合",
+  "tableHeaders": {
+    "features": "特征",
+    "freezone": "自由区",
+    "mainland": "大陆"
+  },
+  "features": [
+    {
+      "icon": "Wallet",
+      "label": "所有权",
+      "freezone": {
+        "value": "100%",
+        "score": 100
+      },
+      "mainland": {
+        "value": "100%",
+        "score": 100
+      }
+    },
+    {
+      "icon": "TrendingUp",
+      "label": "税收优惠",
+      "freezone": {
+        "value": "0% - 9%",
+        "score": 90
+      },
+      "mainland": {
+        "value": "0% - 9%",
+        "score": 85
+      }
+    },
+    {
+      "icon": "Target",
+      "label": "阿联酋市场准入",
+      "freezone": {
+        "value": "有限的",
+        "score": 40
+      },
+      "mainland": {
+        "value": "满的",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Users",
+      "label": "签证资格",
+      "freezone": {
+        "value": "有限的",
+        "score": 60
+      },
+      "mainland": {
+        "value": "高的",
+        "score": 90
+      }
+    },
+    {
+      "icon": "Landmark",
+      "label": "本地贸易",
+      "freezone": {
+        "value": "受限制的",
+        "score": 30
+      },
+      "mainland": {
+        "value": "无限",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Zap",
+      "label": "设置速度",
+      "freezone": {
+        "value": "3-7天",
+        "score": 95
+      },
+      "mainland": {
+        "value": "2-4周",
+        "score": 50
+      }
+    }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "还在犹豫选哪个？",
+    "subtitle": "获取免费咨询。我们将分析您的业务活动，并为您推荐最佳架构。",
+    "primaryCta": "与专家交流",
+    "secondaryCta": "致电我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我需要在自由区和大陆之间做出选择，请问我们可以讨论一下吗？",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

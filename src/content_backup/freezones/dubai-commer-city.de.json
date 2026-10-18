@@ -1,0 +1,553 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1600\u0026q=80",
+    "heroBadge":  "Online wachsen. Global agieren.",
+    "heroTitle":  "Dubai Commercial City",
+    "heroTitleHighlight":  "CommerCity",
+    "heroSubtitle":  "Die erste E-Commerce-Freizone der VAE. Direkt neben dem internationalen Flughafen Dubai "“ der perfekte Ausgangspunkt für digital ausgerichtete Unternehmen, Technologie-Startups und den globalen Handel.",
+    "heroChips":  [
+                      "100% Eigentum",
+                      "0 % Steuer",
+                      "3-5 Tage Aufbauzeit",
+                      "E-Commerce-í–kosystem"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Gebí¤ude 2",
+                      "value":  "500+",
+                      "label":  "E-Commerce-Marken",
+                      "color":  "von Orange-400 bis Rot-600"
+                  },
+                  {
+                      "icon":  "Globus",
+                      "value":  "100%",
+                      "label":  "Auslí¤ndisches Eigentum",
+                      "color":  "von Rot-400 bis Rosé-600"
+                  },
+                  {
+                      "icon":  "Dollarzeichen",
+                      "value":  "0 %",
+                      "label":  "Steuersatz",
+                      "color":  "von 400 bis 600 Rosa"
+                  },
+                  {
+                      "icon":  "Uhr",
+                      "value":  "3-5",
+                      "label":  "Tagesaufbau",
+                      "color":  "von Rosa 400 bis Fuchsia 600"
+                  }
+              ],
+    "launchSection":  {
+                          "badge":  "Starten Sie Ihr Unternehmen",
+                          "title":  "Die erste E-Commerce-Freizone der Region",
+                          "titleHighlight":  "E-Commerce-Freizone",
+                          "image":  "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "E-Commerce-Hub",
+                          "imageBadgeText":  "Direkt neben dem Flughafen Dubai (DXB)",
+                          "paragraphs":  [
+                                             "Die Ansiedlung in der Dubai CommerCity (DCC) Freihandelszone bedeutet den Eintritt in die erste und einzige Freihandelszone der Region, die sich ausschlieíŸlich dem E-Commerce widmet. Strategisch günstig neben dem internationalen Flughafen Dubai gelegen, ist CommerCity darauf ausgelegt, Online-Hí¤ndler, Logistikdienstleister, digitale Plattformen und technologieorientierte Unternehmen zu unterstützen.",
+                                             "Ob Sie ein Online-Handels-Start-up, eine etablierte E-Commerce-Marke mit Expansionsplí¤nen in den Nahen Osten, ein Logistik- und Fulfillment-Anbieter oder ein digitales Dienstleistungsunternehmen sind "“ DCC bietet Ihnen alles, was Sie für Ihr Wachstum bení¶tigen. Von hochmodernen Lagern bis hin zu optimierten Zoll- und Logistikanlagen verschafft DCC Unternehmen den Vorteil von Schnelligkeit, Effizienz und globaler Vernetzung.",
+                                             "Bei Setup Zone Dubai gestalten wir Ihre CommerCity-Gründung einfach und stressfrei. Unser Team kümmert sich um den gesamten Prozess "“ von der Firmengründung und Lizenzwahl über Visa und Compliance bis hin zur operativen Einrichtung."
+                                         ],
+                          "highlights":  [
+                                             "Digital-First-í–kosystem",
+                                             "Zolllager",
+                                             "Intelligente Bürorí¤ume",
+                                             "Zollabfertigung",
+                                             "Logistikintegration",
+                                             "Globale Vernetzung"
+                                         ]
+                      },
+    "benefitsSection":  {
+                            "badge":  "Online wachsen. Global agieren.",
+                            "title":  "Vorteile der Ansiedlung in Dubai CommerCity",
+                            "titleHighlight":  "Dubai Commercial City",
+                            "subtitle":  "Alles, was Sie für den Start, die Skalierung und den Erfolg im E-Commerce bení¶tigen.",
+                            "items":  [
+                                          {
+                                              "icon":  "Globus",
+                                              "title":  "100% auslí¤ndisches Eigentum",
+                                              "description":  "GenieíŸen Sie die volle Kontrolle über Ihr Unternehmen, ohne dass ein lokaler emiratischer Sponsor erforderlich ist. So sichern Sie sich die uneingeschrí¤nkte Autorití¤t über Betriebsablí¤ufe, Gewinne und Entscheidungsfindung.",
+                                              "color":  "von Orange-400 bis Rot-600"
+                                          },
+                                          {
+                                              "icon":  "Dollarzeichen",
+                                              "title":  "0 % Kí¶rperschafts- und Einkommensteuer",
+                                              "description":  "Maximale Rentabilití¤t durch steuerfreie Gewinne sowohl auf Unternehmens- als auch auf Privateinkommen "“ ein bedeutender Vorteil für Startups und globale E-Commerce-Marken.",
+                                              "color":  "von Rot-400 bis Rosé-600"
+                                          },
+                                          {
+                                              "icon":  "Paket",
+                                              "title":  "Freihandelszone ohne Zollgebühren",
+                                              "description":  "Sparen Sie bei zollfreien Importen und Exporten innerhalb der Freihandelszone "“ ideal für Logistik-, Einzelhandels- und globale Lieferkettenunternehmen.",
+                                              "color":  "von 400 bis 600 Rosa"
+                                          },
+                                          {
+                                              "icon":  "Flugzeug",
+                                              "title":  "In unmittelbarer Ní¤he zum Flughafen Dubai (DXB).",
+                                              "description":  "Das DCC befindet sich direkt neben dem internationalen Flughafen Dubai "“ ideal für die Abfertigung von Luftfracht, die Logistik auf der letzten Meile und den regionalen Handel.",
+                                              "color":  "von Rosa 400 bis Fuchsia 600"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Beschleunigtes Lizenzierungs- und Registrierungsverfahren",
+                                              "description":  "Erhalten Sie Ihre FZCO- oder PLC-Lizenz in nur wenigen Tagen! Minimaler Papieraufwand und vollstí¤ndig digitale Abwicklung über das leistungsstarke Online-System von DCC.",
+                                              "color":  "von Fuchsia-400 bis Lila-600"
+                                          },
+                                          {
+                                              "icon":  "CPU",
+                                              "title":  "Integriertes digitales í–kosystem",
+                                              "description":  "DCC bietet ein technologisch fortschrittliches í–kosystem mit integrierten CRM-, ERP-, KI- und CMS-Tools sowie E-Commerce-Integrationen.",
+                                              "color":  "von Lila-400 bis Violett-600"
+                                          },
+                                          {
+                                              "icon":  "Uhr",
+                                              "title":  "Zollabfertigung rund um die Uhr",
+                                              "description":  "Unterstützung bei der Zollabfertigung durch das hauseigene Zollteam und den 24/7-Service im DCC. Ideal für Unternehmen mit hohem Zollaufkommen.",
+                                              "color":  "von Violett-400 bis Indigo-600"
+                                          },
+                                          {
+                                              "icon":  "Blatt",
+                                              "title":  "Zertifizierung für nachhaltiges Bauen",
+                                              "description":  "Umweltfreundliche, nachhaltige Gebí¤ude, die intelligente Energie mit modernem Design verbinden "“ bringen Sie Ihre Marke mit ESG-Zielen in Einklang.",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          }
+                                      ]
+                        },
+    "licensesSection":  {
+                            "badge":  "Unzí¤hlige kreative Geschí¤ftsmí¶glichkeiten",
+                            "title":  "Welche Lizenztypen sind in DCC verfügbar?",
+                            "titleHighlight":  "Verfügbar in DCC?",
+                            "subtitle":  "Wir unterstützen Sie bei der Auswahl der für Ihr Geschí¤ftsmodell effektivsten Lizenz.",
+                            "items":  [
+                                          {
+                                              "icon":  "Warenkorb",
+                                              "title":  "E-Commerce-Lizenz",
+                                              "description":  "Ideal geeignet für Unternehmen, die Waren oder Dienstleistungen online über Websites oder Marktplattformen verkaufen. B2B- und B2C-Modelle mit Anbindung an Zahlungsportale.",
+                                              "code":  "ECM",
+                                              "color":  "von Orange-400 bis Rot-600"
+                                          },
+                                          {
+                                              "icon":  "LKW",
+                                              "title":  "Gewerbelizenz",
+                                              "description":  "Ideal für Import-/Exportunternehmen und GroíŸhí¤ndler, die mit physischen Gütern in den VAE und auf internationalen Mí¤rkten über das Logistiknetzwerk von DCC handeln.",
+                                              "code":  "TRD",
+                                              "color":  "von Rot-400 bis Rosé-600"
+                                          },
+                                          {
+                                              "icon":  "Aktentasche",
+                                              "title":  "Dienstleistungslizenz",
+                                              "description":  "Für professionelle Dienstleistungen wie digitales Marketing, Medienproduktion, IT-Beratung und Unternehmensberatung "“ lokal oder global.",
+                                              "code":  "SRV",
+                                              "color":  "von 400 bis 600 Rosa"
+                                          },
+                                          {
+                                              "icon":  "Kisten",
+                                              "title":  "Allgemeine Handelslizenz",
+                                              "description":  "Mehr Flexibilití¤t beim Handel mit mehreren, voneinander unabhí¤ngigen Produktkategorien unter einer einzigen Lizenz "“ separate Handelslizenzen sind nicht erforderlich.",
+                                              "code":  "GTL",
+                                              "color":  "von Rosa 400 bis Fuchsia 600"
+                                          },
+                                          {
+                                              "icon":  "Benutzerprüfung",
+                                              "title":  "Freiberuflerlizenz",
+                                              "description":  "Für freiberufliche Fachkrí¤fte in den Bereichen Content-Erstellung, Design, Softwareentwicklung, digitales Marketing und Beratung.",
+                                              "code":  "FRL",
+                                              "color":  "von Fuchsia-400 bis Lila-600"
+                                          },
+                                          {
+                                              "icon":  "Gebí¤ude 2",
+                                              "title":  "Zweigniederlassungsgründung",
+                                              "description":  "Für Unternehmen mit Sitz im Ausland oder auf dem Festland der VAE, die ohne neue juristische Person eine Niederlassung im DCC erí¶ffnen mí¶chten.",
+                                              "code":  "BRN",
+                                              "color":  "von Lila-400 bis Violett-600"
+                                          }
+                                      ]
+                        },
+    "officeSection":  {
+                          "badge":  "Zukunftsfí¤hige Bürolí¶sungen",
+                          "title":  "Weltklasse-Infrastruktur und Geschí¤ftseinrichtungen",
+                          "titleHighlight":  "Geschí¤ftseinrichtungen",
+                          "subtitle":  "Vielfí¤ltiges Angebot an skalierbaren und modernen Einrichtungen, die für den digitalen Handel konzipiert wurden.",
+                          "items":  [
+                                        {
+                                            "icon":  "Gebí¤ude 2",
+                                            "title":  "Premium-Büroausstattung",
+                                            "description":  "Moderne Büros, die speziell für Unternehmen aus den Bereichen digitaler Handel und Technologie konzipiert wurden.",
+                                            "color":  "von Orange-400 bis Rot-600",
+                                            "size":  "klein"
+                                        },
+                                        {
+                                            "icon":  "Layout",
+                                            "title":  "Hüllen- und Kernrí¤ume",
+                                            "description":  "Individuell anpassbare Rí¤umlichkeiten, die auf Ihre Teamgrí¶íŸe und Ihre Markenanforderungen zugeschnitten sind.",
+                                            "color":  "von Rot-400 bis Rosé-600",
+                                            "size":  "klein"
+                                        },
+                                        {
+                                            "icon":  "Lager",
+                                            "title":  "Eigene Lager und 3PL-Anbieter",
+                                            "description":  "Speziell errichtete Fulfillment-Center und Logistikunterstützung durch Drittanbieter.",
+                                            "color":  "von 500 bis 600 Rosa",
+                                            "size":  "groíŸ"
+                                        },
+                                        {
+                                            "icon":  "Benutzer",
+                                            "title":  "Intelligente Schreibtische \u0026 Coworking",
+                                            "description":  "Flexible, kostengünstige Optionen für Freelancer und schlanke digitale Teams.",
+                                            "color":  "von Rosa 400 bis Fuchsia 600",
+                                            "size":  "klein"
+                                        },
+                                        {
+                                            "icon":  "Speichern",
+                                            "title":  "Einzelhandel, Markthallen und Kioske",
+                                            "description":  "Veranstaltungsorte, Besprechungsrí¤ume und Pop-up-Kiosk-Aufbauten für Marken.",
+                                            "color":  "von Fuchsia-400 bis Lila-600",
+                                            "size":  "klein"
+                                        }
+                                    ]
+                      },
+    "digitalSupportSection":  {
+                                  "badge":  "Kontinuierliche Unterstützung für digitale Unternehmen",
+                                  "title":  "Technischer und digitaler Wachstumssupport nach der Einrichtung",
+                                  "titleHighlight":  "Nach der Einrichtung",
+                                  "subtitle":  "Wir bauen nicht nur Ihr DCC-Unternehmen "“ wir helfen Ihnen auch beim Wachstum.",
+                                  "items":  [
+                                                {
+                                                    "icon":  "Globus",
+                                                    "label":  "Website- und E-Commerce-Seitenentwicklung"
+                                                },
+                                                {
+                                                    "icon":  "Datenbank",
+                                                    "label":  "CRM-, ERP- und CMS-Integration"
+                                                },
+                                                {
+                                                    "icon":  "Aufwí¤rtstrend",
+                                                    "label":  "SEO- und Digital-Marketing-Dienstleistungen"
+                                                },
+                                                {
+                                                    "icon":  "Speichern",
+                                                    "label":  "Marktplatz-Eintrí¤ge \u0026 Inhaltsoptimierung"
+                                                },
+                                                {
+                                                    "icon":  "CPU",
+                                                    "label":  "KI-Lí¶sungen und Blockchain-Integration"
+                                                },
+                                                {
+                                                    "icon":  "Kreditkarte",
+                                                    "label":  "Einrichtung des Zahlungsgateways"
+                                                },
+                                                {
+                                                    "icon":  "BadgeCheck",
+                                                    "label":  "Markenanmeldung \u0026 Branding"
+                                                }
+                                            ]
+                              },
+    "logisticsSection":  {
+                             "badge":  "Für Erweiterung ausgelegt",
+                             "title":  "Logistik, Lagerhaltung und Auftragsabwicklung im DCC",
+                             "titleHighlight":  "Erfüllung in DCC",
+                             "subtitle":  "DCC arbeitet rund um die Uhr mit einem Zollteam vor Ort "“ unübertroffene Effizienz bei der Verwaltung Ihrer Lieferkette.",
+                             "items":  [
+                                           {
+                                               "icon":  "Paket",
+                                               "title":  "Zolllager",
+                                               "description":  "Waren kí¶nnen in vollstí¤ndig gesicherten Zolllagern gelagert werden, ohne dass Einfuhr-/Ausfuhrzí¶lle anfallen.",
+                                               "color":  "von Orange-400 bis Rot-600"
+                                           },
+                                           {
+                                               "icon":  "LKW",
+                                               "title":  "Grenzüberschreitendes Liefermanagement",
+                                               "description":  "Nahtlose Koordination internationaler Lager für eine termingerechte weltweite Lieferung.",
+                                               "color":  "von Rot-400 bis Rosé-600"
+                                           },
+                                           {
+                                               "icon":  "Balkendiagramm 3",
+                                               "title":  "Bestandsverwaltungszentren",
+                                               "description":  "Hochmoderne Systeme zur Kontrolle und íœberwachung der Lagerbestí¤nde in Echtzeit.",
+                                               "color":  "von 400 bis 600 Rosa"
+                                           },
+                                           {
+                                               "icon":  "Route",
+                                               "title":  "Logistiklí¶sungen für die letzte Meile",
+                                               "description":  "Umfassende Zustellnetzwerke für die letzte Meile, um eine schnellere Auftragsabwicklung in den VAE und der MENA-Region zu gewí¤hrleisten.",
+                                               "color":  "von Rosa 400 bis Fuchsia 600"
+                                           },
+                                           {
+                                               "icon":  "QR-Code",
+                                               "title":  "DCCWay Digital Clearance",
+                                               "description":  "Vollstí¤ndig digitale Zollplattform für schnelle und transparente Import-/Exportgenehmigungen.",
+                                               "color":  "von Fuchsia-400 bis Lila-600"
+                                           },
+                                           {
+                                               "icon":  "Link2",
+                                               "title":  "Logiflow Blockchain-Integration",
+                                               "description":  "Innovatives Blockchain-Logistiktool für Echtzeit-Transparenz und Compliance in der Lieferkette.",
+                                               "color":  "von Lila-400 bis Violett-600"
+                                           }
+                                       ]
+                         },
+    "activitiesSection":  {
+                              "badge":  "Lizenzen für moderne Unternehmen",
+                              "title":  "Dubai Commercial City "“ Aktivití¤ten erlaubt",
+                              "titleHighlight":  "Erlaubte Aktivití¤ten",
+                              "subtitle":  "Ein breites Spektrum an Geschí¤ftsaktivití¤ten für digital ausgerichtete Branchen und den globalen Handel.",
+                              "items":  [
+                                            {
+                                                "icon":  "Warenkorb",
+                                                "title":  "E-Commerce \u0026 Digitale Marktplí¤tze",
+                                                "description":  "Starten Sie B2B- oder B2C-Onlineshops, Marktplatzplattformen oder Dropshipping-Unternehmen mit schneller Lizenzgenehmigung.",
+                                                "color":  "von Orange-400 bis Rot-600"
+                                            },
+                                            {
+                                                "icon":  "Code",
+                                                "title":  "Software-, CRM-, ERP- und KI-Lí¶sungen",
+                                                "description":  "Entwicklung und Bereitstellung von SaaS-Lí¶sungen, Unternehmenssystemen, CRM-Plattformen und KI-gestützten Tools aus Dubais Technologiezentrum.",
+                                                "color":  "von Rot-400 bis Rosé-600"
+                                            },
+                                            {
+                                                "icon":  "Megaphon",
+                                                "title":  "Marketing- und Werbeagenturen",
+                                                "description":  "Gründung von Digitalmarketing-Firmen, Content-Studios, SEO-Agenturen und Ad-Tech-Plattformen.",
+                                                "color":  "von 400 bis 600 Rosa"
+                                            },
+                                            {
+                                                "icon":  "LKW",
+                                                "title":  "Logistik, Lagerhaltung \u0026 Fracht",
+                                                "description":  "Betreiben Sie Logistikzentren, Speditionsdienstleistungen, Drittanbieter-Lagerhaltung oder Zustelldienste auf der letzten Meile.",
+                                                "color":  "von Rosa 400 bis Fuchsia 600"
+                                            },
+                                            {
+                                                "icon":  "Speichern",
+                                                "title":  "Einzel- und GroíŸhandel",
+                                                "description":  "Import, Export, Vertrieb oder Verkauf physischer Güter über Zolllager mit globaler Reichweite.",
+                                                "color":  "von Fuchsia-400 bis Lila-600"
+                                            },
+                                            {
+                                                "icon":  "Video",
+                                                "title":  "Digitale Medienproduktion",
+                                                "description":  "Registrieren Sie Ihr Medienunternehmen für Videoproduktion, Nachbearbeitung, Animation, Podcasting und Live-Streaming.",
+                                                "color":  "von Lila-400 bis Violett-600"
+                                            },
+                                            {
+                                                "icon":  "Aktentasche",
+                                                "title":  "Unternehmensberatung, FinTech \u0026 EdTech",
+                                                "description":  "Wir bieten Unternehmensberatung, Finanztechnologie, Bildungsplattformen, Personalwesen und IT-Beratungsdienstleistungen an.",
+                                                "color":  "von Violett-400 bis Indigo-600"
+                                            }
+                                        ]
+                          },
+    "ecoSection":  {
+                       "badge":  "Grüne Innovation vom Feinsten",
+                       "title":  "Das optimale umweltfreundliche Geschí¤ftszentrum",
+                       "titleHighlight":  "Umweltfreundliches Geschí¤ftszentrum",
+                       "image":  "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1200\u0026q=80",
+                       "imageBadgeTitle":  "Grüne Innovation",
+                       "imageBadgeText":  "100 % LEED-zertifiziert",
+                       "paragraphs":  [
+                                          "Dubai Commercial City (DCC) setzt neue MaíŸstí¤be für nachhaltige Geschí¤ftsinfrastruktur. Als erste E-Commerce-Freizone der Region, die von Anfang an auf nachhaltiges Wachstum ausgerichtet ist, verfügt DCC über 100 % LEED-zertifizierte Gebí¤ude, die den globalen Standards für Energieeffizienz und Umweltqualití¤t entsprechen.",
+                                          "Von hochmodernen, energieeffizienten Logistikzentren bis hin zu intelligent gestalteten Annehmlichkeiten, die Strom, Beleuchtung und Kühlung sparen, ist jedes Detail darauf ausgelegt, nachhaltigen Erfolg zu fí¶rdern.",
+                                          "Ob Start-up oder multinationaler Konzern "“ Dubai CommerCity ermí¶glicht Ihnen nachhaltiges und profitables Wachstum."
+                                      ],
+                       "highlights":  [
+                                          {
+                                              "icon":  "Blatt",
+                                              "label":  "100 % LEED-zertifizierte Gebí¤ude"
+                                          },
+                                          {
+                                              "icon":  "Sonne",
+                                              "label":  "Energieeffiziente Logistikzentren"
+                                          },
+                                          {
+                                              "icon":  "Wind",
+                                              "label":  "Intelligente Design-Ausstattung"
+                                          },
+                                          {
+                                              "icon":  "Recyceln",
+                                              "label":  "Spezielle Abfallentsorgung und Recycling"
+                                          },
+                                          {
+                                              "icon":  "Globe2",
+                                              "label":  "Dubais Vision für eine grüne Wirtschaft"
+                                          },
+                                          {
+                                              "icon":  "BaumKiefer",
+                                              "label":  "Reduzierter í¶kologischer FuíŸabdruck"
+                                          }
+                                      ]
+                   },
+    "partnerSection":  {
+                           "badge":  "Starten Sie selbstbewusst mit Experten",
+                           "title":  "Warum eine Partnerschaft mit Setup Zone Dubai eingehen?",
+                           "titleHighlight":  "Setup Zone Dubai?",
+                           "subtitle":  "Mit über zehn Jahren Erfahrung optimieren wir Ihre DCC Free Zone-Einrichtung.",
+                           "items":  [
+                                         {
+                                             "icon":  "DateiText",
+                                             "label":  "Firmenregistrierung \u0026 Genehmigung des Handelsnamens"
+                                         },
+                                         {
+                                             "icon":  "Kreditkarte",
+                                             "label":  "Investoren- und Arbeitsvisa"
+                                         },
+                                         {
+                                             "icon":  "Gebí¤ude 2",
+                                             "label":  "Büro-/Lagerzuweisung"
+                                         },
+                                         {
+                                             "icon":  "Dollarzeichen",
+                                             "label":  "Unterstützung bei der Kontoerí¶ffnung"
+                                         },
+                                         {
+                                             "icon":  "Schild",
+                                             "label":  "ESR-, AML- und UBO-Compliance"
+                                         },
+                                         {
+                                             "icon":  "RefreshCw",
+                                             "label":  "DCC-Lizenzverlí¤ngerungen"
+                                         },
+                                         {
+                                             "icon":  "Rakete",
+                                             "label":  "Digitaler Launch \u0026 Branding"
+                                         }
+                                     ],
+                           "footerText":  "Wir kümmern uns um alles, damit Sie sich auf Ihr Kerngeschí¤ft konzentrieren kí¶nnen."
+                       },
+    "growthStatsSection":  {
+                               "badge":  "Geschí¤ftswachstumsaussichten",
+                               "title":  "Dubais führendes E-Commerce-Zentrum",
+                               "titleHighlight":  "E-Commerce-Hub",
+                               "subtitle":  "Schnell wachsendes í–kosystem für E-Commerce-, Technologie- und Logistikunternehmen.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Gebí¤ude 2",
+                                                 "value":  "500+",
+                                                 "label":  "E-Commerce-Marken",
+                                                 "color":  "von Orange-400 bis Rot-600"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "value":  "Global",
+                                                 "label":  "Digitale Reichweite",
+                                                 "color":  "von Rot-400 bis Rosé-600"
+                                             },
+                                             {
+                                                 "icon":  "Aufwí¤rtstrend",
+                                                 "value":  "Führend",
+                                                 "label":  "E-Commerce-Hub",
+                                                 "color":  "von 400 bis 600 Rosa"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "value":  "Anbau",
+                                                 "label":  "Digitale Wirtschaft",
+                                                 "color":  "von Rosa 400 bis Fuchsia 600"
+                                             },
+                                             {
+                                                 "icon":  "Balkendiagramm 3",
+                                                 "value":  "Bedeutsam",
+                                                 "label":  "Regionale Auswirkungen",
+                                                 "color":  "von Fuchsia-400 bis Lila-600"
+                                             },
+                                             {
+                                                 "icon":  "Krone",
+                                                 "value":  "Bevorzugt",
+                                                 "label":  "Für den E-Commerce",
+                                                 "color":  "von Lila-400 bis Violett-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die Dubai Commercial Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie sich kostenlos von unseren DCC-Spezialisten beraten.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zur Dubai Commercial Free Zone."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Wie lange dauert die Gründung eines Unternehmens in Dubai Commercial City?",
+                                          "a":  "Dank des beschleunigten Lizenzantragsverfahrens und des vollstí¤ndig digitalen Prozesses von DCC kí¶nnen Sie Ihr Unternehmen mit unserer fachkundigen Beratung und Unterstützung in 3-5 Werktagen gründen."
+                                      },
+                                      {
+                                          "q":  "Welche Arten von Unternehmen kann ich im DCC registrieren?",
+                                          "a":  "DCC unterstützt E-Commerce-Marken, digitale Marktplí¤tze, Software- und SaaS-Unternehmen, KI- und Technologieanbieter, Logistik- und Fulfillment-Unternehmen, Digitalmarketing-Agenturen, Medienproduktionsfirmen und Unternehmensberatungen."
+                                      },
+                                      {
+                                          "q":  "Kann ich 100%iges Eigentum an meinem Unternehmen in Dubai Commercial City besitzen?",
+                                          "a":  "Ja. DCC erlaubt 100% auslí¤ndisches Eigentum ohne die Notwendigkeit eines lokalen emiratischen Sponsors "“ Sie haben die volle Kontrolle über Betrieb, Gewinne und Entscheidungsfindung."
+                                      },
+                                      {
+                                          "q":  "Ist DCC nur für E-Commerce-Unternehmen geeignet?",
+                                          "a":  "DCC ist zwar die erste eigens für E-Commerce eingerichtete Freihandelszone in den VAE, unterstützt aber auch Technologie-Startups, Logistikdienstleister, Digitalagenturen, Medienproduktionsfirmen und Beratungsunternehmen."
+                                      },
+                                      {
+                                          "q":  "Gibt es in DCC Steuern?",
+                                          "a":  "Nein. DCC bietet 0 % Kí¶rperschafts- und Einkommensteuer "“ ein erheblicher Vorteil für Startups und globale E-Commerce-Marken, die den Nahen Osten und darüber hinaus bedienen mí¶chten."
+                                      },
+                                      {
+                                          "q":  "Welche Art von Arbeitsbereich kann ich in DCC erhalten?",
+                                          "a":  "DCC bietet Premium-Büros mit Komplettausstattung, Rohbauflí¤chen, Smart Desks, Coworking-Spaces, eigene Lagerhallen, 3PL-Unterstützung, Veranstaltungsrí¤ume, Food Halls, Einzelhandelsflí¤chen und individuell anpassbare Fulfillment-Center."
+                                      },
+                                      {
+                                          "q":  "Wie funktionieren Lagerhaltung und Logistik in DCC?",
+                                          "a":  "DCC arbeitet rund um die Uhr mit einem eigenen Zollteam. Sie erhalten Zugang zu Zolllagern, grenzüberschreitendem Liefermanagement, Bestandsverwaltungszentren, Logistiklí¶sungen für die letzte Meile, digitaler Zollabfertigung über DCCWay und Blockchain-Integration über Logiflow."
+                                      },
+                                      {
+                                          "q":  "Kann ich bei Dubai Commercial City ein Arbeitsvisum beantragen?",
+                                          "a":  "Ja. Wir kümmern uns um Investorenvisa, Arbeitsvisa für Ihr Team und Familiennachzug "“ umfassende Unterstützung bei Visa- und Einwanderungsbestimmungen durch DCC."
+                                      },
+                                      {
+                                          "q":  "Ist DCC eine grüne/nachhaltigkeitsfreie Zone?",
+                                          "a":  "Absolut. DCC verfügt über 100% LEED-zertifizierte Gebí¤ude, energieeffiziente Logistikzentren, intelligente Ausstattungsmerkmale und spezielle Abfallrecyclinganlagen, die mit Dubais Vision einer grünen Wirtschaft im Einklang stehen."
+                                      },
+                                      {
+                                          "q":  "Warum sollte ich Setup Zone Dubai für die Gründung meines DCC-Unternehmens in Betracht ziehen?",
+                                          "a":  "Mit über einem Jahrzehnt Erfahrung übernehmen wir die Unternehmensregistrierung, die Genehmigung von Handelsnamen, Visa, die Zuweisung von Büro-/Lagerflí¤chen, Unterstützung bei der Kontoerí¶ffnung, Compliance (ESR, AML, UBO), Lizenzverlí¤ngerungen sowie digitale Markteinführung und Markenbildung."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienste, die gut zu Ihrem DCC-System passen.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Erí¶ffnung eines Bankkontos",
+                                                     "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE mit umfassender KYC-Unterstützung.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "von Orange-400 bis Rot-600"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Goldenes Visum",
+                                                     "description":  "10-jí¤hrige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Bernstein-400 bis Gelb-500"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Compliance-Dienstleistungen",
+                                                     "description":  "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "von 400 bis 600 Rosa"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Heute starten",
+                     "title":  "Bereit für den Start in Dubai Commercial City?",
+                     "titleHighlight":  "Dubai Commercial City?",
+                     "subtitle":  "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess "“ von der Lizenzierung bis zum Launch.",
+                     "chips":  [
+                                   "Kostenlose Beratung",
+                                   "3-5 Tage Aufbauzeit",
+                                   "E-Commerce-í–kosystem"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Beratung zur Einrichtung von Dubai CommerCity.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über die Einrichtung von Dubai CommerCity sprechen."
+                 }
+}

@@ -1,0 +1,493 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "10 Yıllık Premium İkamet İzni",
+    "heroTitle":  "Altın Vize Hizmetleri",
+    "heroTitleHighlight":  "Hizmetler",
+    "heroSubtitle":  "Yatırımcılar, girişimciler, olağanüstü yetenekler, bilim insanları ve üst düzey profesyoneller için 10 yıllık güvenli BAE oturum izni. Tam mülkiyet, aile sponsorluğu ve istikrar.",
+    "heroChips":  [
+                      "10 Yıl Geçerlilik",
+                      "Aile Sponsorluğu",
+                      "%100 Sahiplik",
+                      "Yenilenebilir"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Takvim",
+                      "value":  "10",
+                      "label":  "Geçerlilik Süresi",
+                      "color":  "amber-400\u0027den sarı-600\u0027e"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "Aile",
+                      "label":  "Sponsorluk",
+                      "color":  "sarı-400\u0027den limon-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Şirket Sahipliği",
+                      "color":  "from-lime-400 to-emerald-600"
+                  },
+                  {
+                      "icon":  "RefreshCw",
+                      "value":  "Yenilenebilir",
+                      "label":  "Uzun Vadeli",
+                      "color":  "from-emerald-400 to-teal-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Nedir?",
+                          "title":  "Birleşik Arap Emirlikleri Altın Vizesi Nedir?",
+                          "titleHighlight":  "Birleşik Arap Emirlikleri Altın Vizesi?",
+                          "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Premium Visa",
+                          "imageBadgeText":  "10 Yıllık İkamet",
+                          "paragraphs":  [
+                                             "Birleşik Arap Emirlikleri Altın Vizesi, yatırımcılar, girişimciler, uzman yetenekler, araştırmacılar, üstün öğrenciler ve profesyoneller için 10 yıl süreyle yenilenebilir uzun vadeli bir oturum vizesidir.",
+                                             "Küresel yetenek ve yatırımı çekmek amacıyla sunulan bu program, yerel bir sponsora veya ortağa ihtiyaç duymadan %100 işletme sahipliği, aile sponsorluğu ve benzersiz bir istikrar sunmaktadır.",
+                                             "Altın Vize sahipleri, 10 yıl boyunca BAE\u0027de yaşayabilir, çalışabilir ve eğitim görebilir, aynı süre boyunca aile üyelerine sponsor olabilir ve BAE\u0027nin sağlık, eğitim ve iş fırsatlarından tam olarak yararlanabilirler."
+                                         ],
+                          "highlights":  [
+                                             "10 Yıllık İkamet",
+                                             "Süresiz Yenilenebilir",
+                                             "Aile Sponsorluğu",
+                                             "%100 İşletme Sahipliği",
+                                             "Çoklu Giriş",
+                                             "Yurtdışında Yaşa ve Geri Dön"
+                                         ]
+                      },
+    "categoriesSection":  {
+                              "badge":  "Uygunluk Kategorileri",
+                              "title":  "Altın Vizeye Kimler Başvurabilir?",
+                              "titleHighlight":  "Nitelikli",
+                              "subtitle":  "Altı farklı üst düzey kategori "” 10 yıllık oturma iznine giden yolunuzu bulun.",
+                              "items":  [
+                                            {
+                                                "id":  "yatırımcılar",
+                                                "icon":  "Trend Yükseliyor",
+                                                "title":  "Yatırımcılar",
+                                                "tagline":  "Gayrimenkul veya İşletme Yatırımı",
+                                                "description":  "Gayrimenkul, işletme veya yatırım fonlarına en az 2 milyon AED tutarında halka açık yatırım yapmış yatırımcılar için. Size ve ailenize tam mülkiyet ve uzun vadeli istikrar.",
+                                                "image":  "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200\u0026q=80",
+                                                "color":  "amber-500\u0027den sarı-700\u0027e",
+                                                "features":  [
+                                                                 "2 milyon AED\u0027nin üzerinde gayrimenkul",
+                                                                 "İşletme Yatırımı",
+                                                                 "Yatırım Fonları",
+                                                                 "%100 Sahiplik"
+                                                             ],
+                                                "bestFor":  "Gayrimenkul ve İşletme Yatırımcıları"
+                                            },
+                                            {
+                                                "id":  "girişimciler",
+                                                "icon":  "Roket",
+                                                "title":  "Girişimciler",
+                                                "tagline":  "İşletme Sahipleri ve Kurucular",
+                                                "description":  "Yıllık geliri 1 milyon AED veya daha fazla olan KOBİ sahibi girişimciler için. Ayrıca, akredite bir kuluçka merkezi tarafından onaylanmış, değeri en az 500.000 AED olan bir projesi olan kurucular için.",
+                                                "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                                "color":  "turuncu-500\u0027den kırmızı-700\u0027e",
+                                                "features":  [
+                                                                 "KOBİ Geliri 1 Milyon AED ve Üzeri",
+                                                                 "Onaylı Kuluçka Makinesi",
+                                                                 "Proje Değeri 500.000 AED+",
+                                                                 "İşletme Sahipliği"
+                                                             ],
+                                                "bestFor":  "İşletme Sahipleri"
+                                            },
+                                            {
+                                                "id":  "yetenekler",
+                                                "icon":  "Palet",
+                                                "title":  "Olağanüstü Yetenekler",
+                                                "tagline":  "Yaratıcı ve Kültürel Liderler",
+                                                "description":  "Kültür, sanat, spor, medya ve yaratıcı sektörlerdeki olağanüstü yetenekler için, BAE kültür otoriteleri tarafından onaylanmış ödüller. Etkileyiciler, sanatçılar, oyuncular ve dünya çapında sporcuları kapsar.",
+                                                "image":  "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200\u0026q=80",
+                                                "color":  "kırmızı-500\u0027den gül-700\u0027e",
+                                                "features":  [
+                                                                 "Kültür ve Sanatlar",
+                                                                 "Spor Başarıları",
+                                                                 "Medya ve İçerik",
+                                                                 "Yaratıcı Endüstriler"
+                                                             ],
+                                                "bestFor":  "Sanatçılar ve Sporcular"
+                                            },
+                                            {
+                                                "id":  "bilim insanları",
+                                                "icon":  "Mikroskop",
+                                                "title":  "Bilim İnsanları ve Araştırmacılar",
+                                                "tagline":  "Akademik Mükemmellik",
+                                                "description":  "Alanlarında olağanüstü başarılar elde etmiş bilim insanları, araştırmacılar ve önde gelen akademisyenler için "” Birleşik Arap Emirlikleri Bilim İnsanları Konseyi tarafından onaylanmıştır.",
+                                                "image":  "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200\u0026q=80",
+                                                "color":  "gül-500\u0027den-pembe-700\u0027e",
+                                                "features":  [
+                                                                 "En İyi Araştırmacı",
+                                                                 "Doktora + Yayınlar",
+                                                                 "Konsey Onayı",
+                                                                 "Akademik Mükemmellik"
+                                                             ],
+                                                "bestFor":  "Bilim İnsanları ve Akademisyenler"
+                                            },
+                                            {
+                                                "id":  "profesyoneller",
+                                                "icon":  "Stetoskop",
+                                                "title":  "Nitelikli Profesyoneller",
+                                                "tagline":  "Doktorlar, Mühendisler ve Yöneticiler",
+                                                "description":  "Doktorlar, mühendisler, bilişim uzmanları ve üst düzey yöneticiler gibi olağanüstü deneyim ve niteliklere sahip, yüksek vasıflı profesyoneller için - aylık 30.000 AED ve üzeri maaşlarla.",
+                                                "image":  "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200\u0026q=80",
+                                                "color":  "from-pink-500 to-fuchsia-700",
+                                                "features":  [
+                                                                 "Doktorlar ve Mühendisler",
+                                                                 "BT Uzmanları",
+                                                                 "Üst Düzey Yöneticiler",
+                                                                 "30.000 AED ve üzeri maaş"
+                                                             ],
+                                                "bestFor":  "En İyi Profesyoneller"
+                                            },
+                                            {
+                                                "id":  "öğrenciler",
+                                                "icon":  "Mezuniyet Şapkası",
+                                                "title":  "Üstün Öğrenciler",
+                                                "tagline":  "En Başarılı Akademik Öğrenciler",
+                                                "description":  "Birleşik Arap Emirlikleri\u0027ndeki liselerden veya üniversitelerden olağanüstü akademik başarıya sahip, en başarılı öğrenciler için, geleceklerini Birleşik Arap Emirlikleri\u0027nde kurmaları için 10 yıllık Altın Vize.",
+                                                "image":  "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200\u0026q=80",
+                                                "color":  "fuşya-500\u0027den mor-700\u0027e",
+                                                "features":  [
+                                                                 "Lise Mezunları",
+                                                                 "Üniversite Onur Ödülleri",
+                                                                 "Akademik Başarı Sahipleri",
+                                                                 "Gençlik Mükemmelliği"
+                                                             ],
+                                                "bestFor":  "Üstün Öğrenciler"
+                                            }
+                                        ]
+                          },
+    "benefitsSection":  {
+                            "badge":  "Altın Vize Neden Gerekli?",
+                            "title":  "Birleşik Arap Emirlikleri Altın Vizesinin Faydaları",
+                            "titleHighlight":  "BAE Altın Vizesi",
+                            "subtitle":  "Birleşik Arap Emirlikleri\u0027nin üst düzey oturum izni programının sekiz güçlü avantajı.",
+                            "items":  [
+                                          {
+                                              "icon":  "Takvim",
+                                              "title":  "10 Yıllık İkamet",
+                                              "description":  "Siz ve aileniz için 10 yıl süreyle yenilenebilir uzun vadeli oturum vizesi "” sık sık yenilemeye gerek yok.",
+                                              "color":  "amber-400\u0027den sarı-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "Aile Sponsorluğu",
+                                              "description":  "Altın Vizenizin geçerlilik süresiyle aynı süre için eşinizi, çocuklarınızı ve bakmakla yükümlü olduğunuz ebeveynlerinizi sponsor edin.",
+                                              "color":  "sarı-400\u0027den limon-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "%100 Şirket Sahipliği",
+                                              "description":  "Yerel bir sponsora veya BAE vatandaşı ortağa ihtiyaç duymadan, BAE\u0027deki işletmenizin tam mülkiyetine sahip olun.",
+                                              "color":  "from-lime-400 to-emerald-600"
+                                          },
+                                          {
+                                              "icon":  "Ev",
+                                              "title":  "Birleşik Arap Emirlikleri dışında yaşayın",
+                                              "description":  "Altın Vize, standart vizelerin aksine, BAE dışında uzun süre kalsanız bile geçerliliğini korur.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Banka",
+                                              "title":  "Bankacılık ve Finansal Özgürlük",
+                                              "description":  "Altın Vizenizle üst düzey bankacılık, kredi olanakları ve varlık yönetimi hizmetlerine kolayca erişin.",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kalkan",
+                                              "title":  "Vatandaşlığa Giden Yol",
+                                              "description":  "İstisnai durumlarda BAE yetkilileri tarafından onaylanması koşuluyla, uzun süreli oturma izni BAE vatandaşlığına yol açabilir.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "KalpElSıkışması",
+                                              "title":  "Birleşik Arap Emirlikleri\u0027nin sunduğu tüm avantajlar",
+                                              "description":  "Sağlık hizmetlerine, eğitime, iş fırsatlarına ve tüm BAE devlet hizmetlerine erişim.",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "processSection":  {
+                           "badge":  "6 Adımlı Süreç",
+                           "title":  "Altın Vize Nasıl Alınır?",
+                           "titleHighlight":  "Altın Vize",
+                           "subtitle":  "Birleşik Arap Emirlikleri\u0027nde 10 yıllık oturma izni için altı basit adım.",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Hedef",
+                                             "title":  "Uygunluk Değerlendirmesi",
+                                             "description":  "Profilinizi Altın Vize kriterlerine göre değerlendirerek sizin için en uygun kategoriyi belirliyoruz.",
+                                             "color":  "amber-400\u0027den sarı-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "Dosya Kontrolü",
+                                             "title":  "Belge Hazırlama",
+                                             "description":  "Yatırım kanıtı, yeterlilik belgeleri ve referanslar da dahil olmak üzere gerekli tüm belgeleri topluyor ve hazırlıyoruz.",
+                                             "color":  "sarı-400\u0027den limon-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Göndermek",
+                                             "title":  "Başvuru Gönderimi",
+                                             "description":  "Başvurunuz, öncelikli devlet ağımız aracılığıyla ilgili BAE yetkili makamına iletilmektedir.",
+                                             "color":  "from-lime-400 to-emerald-600"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "Rozet Kontrolü",
+                                             "title":  "Onay ve Tıbbi",
+                                             "description":  "Onaylandıktan sonra, sağlık uygunluk testlerini, biyometrik verileri ve Emirates Kimlik kartı işlemlerini koordine ediyoruz.",
+                                             "color":  "from-emerald-400 to-teal-600"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "Damga vurmak",
+                                             "title":  "Vize Damgalama",
+                                             "description":  "10 yıllık Altın Vizeniz pasaportunuza damgalandı; artık resmen Altın Vize sahibi oldunuz.",
+                                             "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "06",
+                                             "icon":  "Kullanıcılar",
+                                             "title":  "Aile Sponsorluğu",
+                                             "description":  "Sponsorluğunuz altındaki eşiniz, çocuklarınız ve bakmakla yükümlü olduğunuz kişiler için Altın Vize işlemlerini gerçekleştiriyoruz.",
+                                             "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                         }
+                                     ]
+                       },
+    "documentsSection":  {
+                             "badge":  "İhtiyacınız Olanlar",
+                             "title":  "Gerekli Belgeler",
+                             "titleHighlight":  "Belgeler",
+                             "subtitle":  "Tüm evrak işlemlerini ve onayları sizin adınıza biz hallediyoruz.",
+                             "items":  [
+                                           {
+                                               "icon":  "Kamera",
+                                               "label":  "Pasaport Fotoğrafları",
+                                               "desc":  "Beyaz arka plan"
+                                           },
+                                           {
+                                               "icon":  "DosyaMetni",
+                                               "label":  "Yatırım Kanıtı",
+                                               "desc":  "Yatırımcılar için"
+                                           },
+                                           {
+                                               "icon":  "Ödül",
+                                               "label":  "Onay Mektubu",
+                                               "desc":  "Yetenekler ve araştırmacılar için"
+                                           },
+                                           {
+                                               "icon":  "BookOpen",
+                                               "label":  "Akademik Sertifikalar",
+                                               "desc":  "Profesyoneller ve bilim insanları için"
+                                           },
+                                           {
+                                               "icon":  "Banka",
+                                               "label":  "Finansal Tablolar",
+                                               "desc":  "Banka hesap özetleri ve kanıtları"
+                                           },
+                                           {
+                                               "icon":  "Kimlik Kartı",
+                                               "label":  "Geçerli BAE kimlik kartı",
+                                               "desc":  "Uygulanabilirse"
+                                           },
+                                           {
+                                               "icon":  "Dosyaİmzası",
+                                               "label":  "NOC Sertifikası",
+                                               "desc":  "Mevcut vize sahipleri için"
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Güvenilir Altın Vize Ortağınız",
+                               "titleHighlight":  "Altın Vize Ortağı",
+                               "subtitle":  "Üstün yeteneklerin bize güvenmesinin sekiz nedeni.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "label":  "Doğrudan Yetki Erişimi",
+                                                 "desc":  "Öncelikli hükümet ağı"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Hızlı İşleme",
+                                                 "desc":  "Hızlandırılmış onaylar"
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcı Kontrolü",
+                                                 "label":  "Alanında Uzman Kişi",
+                                                 "desc":  "Kişisel Altın Vize uzmanı"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "label":  "Şeffaf Fiyatlandırma",
+                                                 "desc":  "Gizli ücret yok"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "label":  "Çok Dilli Ekip",
+                                                 "desc":  "İngilizce, Arapça, Hintçe, Urduca"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Yenileme Desteği",
+                                                 "desc":  "Devam eden vize yönetimi"
+                                             },
+                                             {
+                                                 "icon":  "KalpElSıkışması",
+                                                 "label":  "Aile Bütünleşmesi",
+                                                 "desc":  "Ailenin tam desteği"
+                                             },
+                                             {
+                                                 "icon":  "Ödül",
+                                                 "label":  "Kanıtlanmış Başarı Geçmişi",
+                                                 "desc":  "Binlerce onay"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "İşletme Büyüme Beklentisi",
+                               "title":  "Binlerce kişi tarafından güvenilen",
+                               "titleHighlight":  "Binlerce",
+                               "subtitle":  "Başarı geçmişimiz kendisini zaten kanıtlıyor.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Takvim",
+                                                 "value":  "10",
+                                                 "label":  "Geçerlilik Süresi",
+                                                 "color":  "amber-400\u0027den sarı-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcılar",
+                                                 "value":  "5",
+                                                 "label":  "Kategoriler",
+                                                 "color":  "sarı-400\u0027den limon-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Bina 2",
+                                                 "value":  "1000+",
+                                                 "label":  "Onaylı",
+                                                 "color":  "from-lime-400 to-emerald-600"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "Hızlı",
+                                                 "label":  "İşleme",
+                                                 "color":  "from-emerald-400 to-teal-600"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "value":  "%100",
+                                                 "label":  "Uyumlu",
+                                                 "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "value":  "Premium",
+                                                 "label":  "Vize Seviyesi",
+                                                 "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Birleşik Arap Emirlikleri Altın Vizesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Altın Vize uzmanlarımızla ücretsiz uygunluk değerlendirmesi yaptırın.",
+                                            "whatsappMessage":  "Merhaba! Altın Vize Hizmetleri hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri Altın Vizesi nedir?",
+                                          "a":  "Birleşik Arap Emirlikleri Altın Vizesi, yatırımcılar, girişimciler, uzman yetenekler, araştırmacılar, üstün öğrenciler ve profesyoneller için 10 yıl süreyle yenilenebilir uzun vadeli bir oturum vizesidir ve tam mülkiyet, aile sponsorluğu ve istikrar sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "Altın Vizeye kimler başvurabilir?",
+                                          "a":  "Yatırımcılar (2 milyon AED ve üzeri), girişimciler (1 milyon AED ve üzeri gelire sahip KOBİ\u0027ler), istisnai yetenekler, bilim insanları ve araştırmacılar, vasıflı profesyoneller (30 bin AED ve üzeri maaş) ve üstün öğrenciler."
+                                      },
+                                      {
+                                          "q":  "Altın Vize ne kadar süreyle geçerlidir?",
+                                          "a":  "Altın Vize 10 yıl geçerlidir ve uygunluk kriterlerini karşılamaya devam ettiğiniz sürece süresiz olarak yenilenebilir."
+                                      },
+                                      {
+                                          "q":  "Ailemi Altın Vize ile sponsor edebilir miyim?",
+                                          "a":  "Evet. Eşinizi, çocuklarınızı ve bakmakla yükümlü olduğunuz ebeveynlerinizi Altın Vizenizin geçerli olduğu 10 yıllık süre boyunca sponsor edebilirsiniz."
+                                      },
+                                      {
+                                          "q":  "Altın Vize ile Birleşik Arap Emirlikleri\u0027ndeki bir işletmenin %100\u0027üne sahip olabilir miyim?",
+                                          "a":  "Evet. Altın Vize sahipleri, yerel bir sponsora veya BAE vatandaşı bir ortağa ihtiyaç duymadan BAE\u0027deki işletmelerinin %100\u0027üne sahip olabilirler."
+                                      },
+                                      {
+                                          "q":  "Altın vizemi korumak için BAE\u0027de kalmam gerekiyor mu?",
+                                          "a":  "Hayır. Standart oturum vizelerinin aksine, Altın Vize, BAE dışında uzun süre geçirseniz bile geçerliliğini korur."
+                                      },
+                                      {
+                                          "q":  "Altın Vize başvurusu ne kadar sürer?",
+                                          "a":  "Süre, kategoriye ve belgelere bağlı olarak genellikle 4-8 haftadır. Öncelikli devlet ağımız aracılığıyla süreci hızlandırıyoruz."
+                                      },
+                                      {
+                                          "q":  "Altın Vize için hangi belgeler gereklidir?",
+                                          "a":  "Geçerli pasaport, pasaport fotoğrafları, yatırım belgesi veya referans mektubu, akademik veya mesleki sertifikalar, banka hesap özetleri ve (varsa) güncel BAE kimlik kartı."
+                                      },
+                                      {
+                                          "q":  "Altın vize ile Birleşik Arap Emirlikleri\u0027nde çalışabilir miyim?",
+                                          "a":  "Evet. Altın Vize size tam çalışma hakkı verir ve çalışanlarınızı ve bakmakla yükümlü olduğunuz kişileri sponsor etmenize olanak tanır."
+                                      },
+                                      {
+                                          "q":  "Altın Vize hizmetleri için neden Setup Zone Dubai\u0027yi tercih etmelisiniz?",
+                                          "a":  "Uygunluk değerlendirmesi, belge hazırlama, başvuru gönderimi, tıbbi koordinasyon, vize damgalama ve aile sponsorluğu dahil olmak üzere uçtan uca destek sağlıyoruz. Kanıtlanmış başarı geçmişimiz ve doğrudan yetkili erişimimiz sayesinde hızlı ve mevzuata uygun işlem süreçleri garanti ediyoruz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Altın Vizenizle uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "residence-visa",
+                                                     "title":  "BAE Oturma Vizesi",
+                                                     "description":  "2-10 yıllık uzmanlık eğitimi seçenekleri.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Dubai\u0027de Şirket Kurulumu",
+                                                     "description":  "Serbest Bölge, Anakara ve Açık Deniz.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "dependent-visa",
+                                                     "title":  "BAE Bağımlı Kişi Vizesi",
+                                                     "description":  "Aile ve bakmakla yükümlü olunan kişilerin sponsorluğu.",
+                                                     "image":  "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Uygunluğunuzu Kontrol Edin",
+                     "title":  "10 Yıllık Altın Vizeye Hazır mısınız?",
+                     "titleHighlight":  "10 Yıllık Altın Vize mi?",
+                     "subtitle":  "Ücretsiz uygunluk değerlendirmesi yaptırın. Uzmanlarımız profilinizi değerlendirecek ve tüm süreç boyunca size rehberlik edecektir.",
+                     "chips":  [
+                                   "Ücretsiz Değerlendirme",
+                                   "10 Yıl Geçerlilik",
+                                   "Aile Dahil"
+                               ],
+                     "whatsappMessage":  "Merhaba! Altın Vize için ücretsiz uygunluk değerlendirmesi almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Altın Vize hakkında görüşmek istiyorum."
+                 }
+}

@@ -1,0 +1,326 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=80",
+  "heroBadge": "Bleiben Sie regelkonform und straffrei.",
+  "heroTitle": "Unternehmenssteuer- und Mehrwertsteuerdienstleistungen in den VAE",
+  "heroTitleHighlight": "VAE",
+  "heroSubtitle": "Kompetente Steuerberatung, FTA-Registrierung und Compliance-Services, damit Ihr Unternehmen in den VAE keine Strafen erhält. Von der Umsatzsteuererklärung bis zur Körperschaftsteuererklärung – wir kümmern uns um alles.",
+  "heroChips": [
+    "FTA-registriert",
+    "Mehr als 15 Jahre Erfahrung",
+    "Mehr als 500 Kunden"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "9%",
+      "label": "Körperschaftsteuersatz",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Receipt",
+      "value": "5%",
+      "label": "Mehrwertsteuersatz",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "TrendingUp",
+      "value": "375.000",
+      "label": "AED-Schwelle",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "Einreichungen erledigt",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Die Grundlagen verstehen",
+    "title": "Was sind Körperschaftsteuer und Mehrwertsteuer in den VAE?",
+    "titleHighlight": "VAE?",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+    "imageBadgeTitle": "Verwaltet von",
+    "imageBadgeText": "Bundessteuerbehörde (FTA)",
+    "paragraphs": [
+      "In den VAE gelten für Unternehmen zwei Steuerarten: die Körperschaftsteuer und die Mehrwertsteuer (MwSt.). Die Körperschaftsteuer beträgt 9 % für Unternehmen mit einem Jahresnettogewinn von über 375.000 AED. Die MwSt. wird auf die meisten Waren und Dienstleistungen mit 5 % erhoben.",
+      "Beide Steuern werden von der Federal Tax Authority (FTA) verwaltet. Obwohl die FTA für beide zuständig ist, erfordern sie eine separate Registrierung, korrekte Steuererklärungen und ordnungsgemäße Buchführung. Versäumte Fristen führen zu Strafen, daher ist eine sorgfältige Dokumentation unerlässlich."
+    ],
+    "highlights": [
+      "Bei der FTA registriert",
+      "Straffreie Einhaltung",
+      "Experten-Steuerberatung",
+      "Expertise im Bereich Freizonen"
+    ]
+  },
+  "whoNeedsSection": {
+    "badge": "Unverzichtbar für Unternehmen in den VAE",
+    "title": "Wer benötigt Dienstleistungen im Bereich Unternehmenssteuern und Umsatzsteuer?",
+    "titleHighlight": "Mehrwertsteuerdienstleistungen?",
+    "subtitle": "Wenn Ihr Unternehmen in eine dieser Kategorien fällt, sind professionelle Steuerberatungsleistungen unerlässlich.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Steuerpflichtige Unternehmen in den VAE",
+        "description": "Alle Unternehmen auf dem Festland und in den Freizonen müssen sich registrieren, Steuererklärungen einreichen und die Körperschaftsteuer- und Mehrwertsteuergesetze der VAE einhalten.",
+        "badge": "Primär",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+        "gradient": "from-emerald-600/95 via-teal-600/85 to-transparent"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Unternehmen über 375.000 AED",
+        "description": "Übersteigt Ihr Nettogewinn jährlich 375.000 AED, unterliegen Sie der Körperschaftsteuer und müssen 9 % auf den entsprechenden Gewinn zahlen.",
+        "miniStat": "AED 375.000+",
+        "miniStatLabel": "Jährliche Gewinnschwelle"
+      },
+      {
+        "icon": "Receipt",
+        "title": "Mehrwertsteuer über 375.000 AED",
+        "description": "Übersteigen Ihre steuerpflichtigen Lieferungen innerhalb von 12 Monaten 375.000 AED, ist eine Umsatzsteuerregistrierung mit vierteljährlichen oder monatlichen Meldungen obligatorisch.",
+        "miniStat": "Vierteljährlich",
+        "miniStatLabel": "Umsatzsteuererklärungspflicht"
+      },
+      {
+        "icon": "Globe",
+        "title": "Globale Expansionsfirmen",
+        "description": "Unternehmen, die expandieren, umstrukturieren oder Steuergruppen bilden, benötigen fachkundige Beratung zu Compliance und Finanzberichterstattung.",
+        "badge": "Global",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "gradient": "from-violet-600/95 via-purple-600/85 to-transparent"
+      }
+    ],
+    "indicators": [
+      {
+        "icon": "ShieldCheck",
+        "label": "FTA-registriert"
+      },
+      {
+        "icon": "Award",
+        "label": "Zertifizierte Experten"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Prüfungsbereite Aufzeichnungen"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Umfassende Steuerberatung",
+    "title": "Was beinhalten unsere Dienstleistungen?",
+    "titleHighlight": "Enthalten?",
+    "subtitle": "Komplette Steuerlösungen – von der Registrierung bis zur Unterstützung bei Betriebsprüfungen.",
+    "items": [
+      {
+        "icon": "FileCheck",
+        "title": "Steuerregistrierung & Steuererklärung",
+        "description": "Registrieren Sie sich bei der FTA, ermitteln Sie den steuerpflichtigen Gewinn und reichen Sie korrekte Steuererklärungen fristgerecht ein."
+      },
+      {
+        "icon": "Receipt",
+        "title": "Einrichtung und Aktualisierungen der Umsatzsteuer",
+        "description": "Vollständige Umsatzsteuerregistrierung, Änderungen und Stornierungen, falls erforderlich."
+      },
+      {
+        "icon": "Calculator",
+        "title": "Umsatzsteuererklärung",
+        "description": "Erstellen und übermitteln Sie vierteljährliche oder monatliche Umsatzsteuererklärungen korrekt an die FTA."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Umsatzsteuerverfolgung & -abstimmung",
+        "description": "Umsatzsteuer-Ein- und -Ausgangssteuer erfassen, abgleichen und für korrekte Gutschriften dokumentieren."
+      },
+      {
+        "icon": "Award",
+        "title": "Steuerrückerstattungen & Compliance",
+        "description": "Verwaltung von Erstattungsanträgen bei Überschreitung der Umsatzsteuer oder für neu gegründete Unternehmen."
+      },
+      {
+        "icon": "FileText",
+        "title": "Buchhaltung & Beratung",
+        "description": "Strukturierte Buchhaltung und Aufzeichnungspflichten zur Erfüllung der FTA-Anforderungen."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "FTA-Auditunterstützung",
+        "description": "Vollständige Dokumentation, Jahresabschlüsse und Vertretung bei Prüfungen."
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Steuerberatung & Strukturierung",
+        "description": "Steuerplanung, Konzernstrukturen und vierteljährliche Updates zur Gesetzgebung."
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Vertrauenswürdige Steuerexperten in den VAE",
+    "titleHighlight": "Experten",
+    "subtitle": "Wir verfügen über umfassende Kenntnisse des Körperschaftsteuer- und Mehrwertsteuerrechts der VAE und gewährleisten so, dass Ihr Unternehmen jederzeit alle Vorschriften einhält und für Audits bereit ist. Unsere zertifizierten Wirtschaftsprüfer, Rechtsberater und Compliance-Spezialisten kümmern sich um alle Details Ihrer FTA-Registrierung und Steuererklärung.",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1200&q=80",
+    "features": [
+      "Zertifizierte Buchhalter und Steuerspezialisten",
+      "Transparente Preisgestaltung – keine versteckten Gebühren",
+      "Echtzeit-Tracking & Benachrichtigungen über Fristen",
+      "Expertise in Freizonen, Festland und Offshore-Gebieten",
+      "Für Sie werden revisionssichere Aufzeichnungen geführt."
+    ],
+    "floatingCards": {
+      "experience": {
+        "label": "Erfahrung",
+        "value": "15+ Jahre"
+      },
+      "clients": {
+        "label": "Kunden",
+        "value": "Mehr als 500 Gäste bedient"
+      }
+    }
+  },
+  "penaltiesSection": {
+    "badge": "Warnung – Fristen nicht ignorieren",
+    "title": "Strafen bei Nichteinhaltung",
+    "titleHighlight": "Nichteinhaltung",
+    "subtitle": "Die FTA verhängt erhebliche Geldstrafen für verspätete Registrierungen, versäumte Einreichungen und ungenaue Steuererklärungen.",
+    "items": [
+      {
+        "icon": "Clock",
+        "title": "Späte Anmeldung",
+        "amount": "10.000 AED",
+        "description": "Feste Strafe für die verspätete Anmeldung zur Körperschaftsteuer."
+      },
+      {
+        "icon": "FileText",
+        "title": "Verspätete Umsatzsteuererklärung",
+        "amount": "500–1000 AED/Monat",
+        "description": "Monatliche Strafe für jede verspätete Abgabe der Umsatzsteuererklärung."
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Falsche Rücksendungen",
+        "amount": "1.000-5.000 AED",
+        "description": "Strafe für unrichtige Angaben oder zu niedrig deklarierte Steuerbeträge."
+      }
+    ]
+  },
+  "freeZoneSection": {
+    "badge": "Sonderregeln für Freizonen",
+    "title": "Müssen Unternehmen in Freizonen Körperschaftsteuer zahlen?",
+    "titleHighlight": "Unternehmenssteuer?",
+    "subtitle": "Die Steuerregeln für Freizonen sind komplex – hier erfahren Sie, was Sie wissen müssen.",
+    "items": [
+      {
+        "icon": "CheckCircle2",
+        "title": "Steuerbefreiung für Freizonen",
+        "description": "Bestimmte Unternehmen in Freizonen können unter bestimmten, vom Finanzministerium der VAE festgelegten Bedingungen von einer Körperschaftsteuer von 0 % profitieren.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Steuerpflichtiges externes Einkommen",
+        "description": "Einkünfte aus Transaktionen auf dem chinesischen Festland oder aus nicht qualifizierten Quellen (passive Einkünfte, Zinsen) können mit dem Standardsteuersatz von 9 % besteuert werden.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Prüfung und Beratung zu Ausnahmeregelungen",
+        "description": "Wir analysieren Ihr Geschäftsmodell, Ihre Einkommensquellen und Ihre Struktur, um die Voraussetzungen für eine Befreiung und Umstrukturierungsoptionen zu ermitteln.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles Wissenswerte zu Körperschaftsteuer und Mehrwertsteuer in den VAE. Sie finden nicht, was Sie suchen? Unsere Experten sind nur eine Nachricht entfernt.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Unsere Steuerexperten helfen Ihnen gerne. Vereinbaren Sie noch heute ein kostenloses Beratungsgespräch."
+    },
+    "miniStats": [
+      {
+        "value": "24 Stunden",
+        "label": "Ansprechzeit"
+      },
+      {
+        "value": "100%",
+        "label": "Kostenlose Beratung"
+      }
+    ],
+    "items": [
+      {
+        "q": "Ist die Körperschaftsteuer für Unternehmen in Dubai verpflichtend?",
+        "a": "Ja. Die Körperschaftsteuer ist für Unternehmen in den VAE mit einem jährlichen Nettogewinn von über 375.000 AED verpflichtend. Alle betroffenen Unternehmen müssen sich bei der FTA registrieren und Steuererklärungen einreichen."
+      },
+      {
+        "q": "Wann muss sich ein Unternehmen in den VAE für die Mehrwertsteuer registrieren?",
+        "a": "Die Umsatzsteuerregistrierung ist obligatorisch, wenn die steuerpflichtigen Lieferungen 375.000 AED pro Jahr übersteigen. Eine freiwillige Registrierung ist ab einem Umsatz von 187.500 AED möglich."
+      },
+      {
+        "q": "Welche Dokumente benötige ich für die Registrierung zur Körperschaftsteuer und Umsatzsteuer?",
+        "a": "Gewerbeschein, Gesellschaftsvertrag, Passkopien, Emirates ID, Finanzberichte und Bankdaten. Wir bereiten alle Dokumente für Sie vor und prüfen sie."
+      },
+      {
+        "q": "Gilt die Körperschaftsteuer auch für Unternehmen in Freizonen?",
+        "a": "Ja, aber unter bestimmten Bedingungen. Unternehmen in qualifizierten Freizonen erhalten einen Steuersatz von 0 % auf qualifizierte Einkünfte. Nicht qualifizierte Einkünfte werden mit 9 % besteuert."
+      },
+      {
+        "q": "Welche Strafe droht bei Versäumnis der Frist zur Abgabe der Umsatzsteuererklärung?",
+        "a": "Die Strafen für verspätete Einreichung reichen von 500 AED bis 1.000 AED pro Monat, zuzüglich weiterer Geldstrafen bei wiederholten Verstößen."
+      },
+      {
+        "q": "Kann ich in den VAE Mehrwertsteuererstattungen beantragen?",
+        "a": "Ja. Wenn Ihre Vorsteuer die Umsatzsteuer übersteigt, können Sie eine Rückerstattung beantragen. Wir übernehmen den gesamten Rückerstattungsprozess."
+      },
+      {
+        "q": "Welche Unterstützung bietet Setup Zone Dubai bei einem FTA-Audit?",
+        "a": "Wir erstellen sämtliche Unterlagen, koordinieren uns mit den FTA-Beamten und vertreten Sie während des gesamten Prüfprozesses."
+      },
+      {
+        "q": "Welche Kosten sind mit Dienstleistungen im Bereich Körperschaftsteuer und Mehrwertsteuer verbunden?",
+        "a": "Unsere Preise sind transparent und richten sich nach der Größe und Komplexität Ihres Unternehmens. Kontaktieren Sie uns für ein individuelles Angebot ohne versteckte Kosten."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die sich gut mit der Einhaltung der Unternehmenssteuer- und Mehrwertsteuerbestimmungen kombinieren lassen.",
+    "items": [
+      {
+        "slug": "accounting",
+        "title": "Buchhaltung",
+        "description": "Buchhaltung, Lohnabrechnung und Finanzberichterstattung.",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "UBO-Anmeldungen, ESR-Berichte und regulatorische Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Nehmen Sie Kontakt auf",
+    "title": "Bereit, alle Steuervorschriften einzuhalten?",
+    "titleHighlight": "Steuerkonform?",
+    "subtitle": "Lassen Sie sich kostenlos von unseren Steuerexperten beraten und machen Sie sich nie wieder Sorgen um FTA-Fristen. Besuchen Sie uns in unserem Büro in Business Bay oder kontaktieren Sie uns online – wir kümmern uns um alles.",
+    "chips": [
+      "Mehr als 15 Jahre Erfahrung",
+      "Mehr als 500 zufriedene Kunden",
+      "FTA-registriert"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zu Unternehmenssteuer- und Umsatzsteuerdienstleistungen."
+  }
+}

@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dkpData from '../../content/freezones/dubai-knowledge-park.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award, FileText,
@@ -25,7 +26,9 @@ const iconMap: any = {
 };
 
 export default function DubaiKnowledgePark({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dkpData;
+  const { language } = useLanguage();
+  const dkpFallback = loadContent('freezones/dubai-knowledge-park', language);
+  const data = tinaData?.data?.freeZones || dkpFallback;
 
   return (
     <div className="min-h-screen bg-white">

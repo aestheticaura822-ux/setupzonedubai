@@ -1,0 +1,564 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600\u0026q=80",
+    "heroBadge":  "Geschí¤ft beginnt mit RAKEZ",
+    "heroTitle":  "RAKEZ Freizone",
+    "heroTitleHighlight":  "Freizone",
+    "heroSubtitle":  "Eines der leistungsstí¤rksten Geschí¤ftsí¶kosysteme in den VAE. Kosteneffizient, flexibel und zentral gelegen "“ mit Zugang zu regionalen und globalen Mí¤rkten.",
+    "heroChips":  [
+                      "100% Eigentum",
+                      "0 % Steuer",
+                      "3-5 Tage Aufbauzeit",
+                      "Mehr als 18.000 Unternehmen"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Gebí¤ude 2",
+                      "value":  "Mehr als 18.000",
+                      "label":  "Globale Unternehmen",
+                      "color":  "von Rosé 400 bis Rot 600"
+                  },
+                  {
+                      "icon":  "Globus",
+                      "value":  "100+",
+                      "label":  "Lí¤nder",
+                      "color":  "von Rot-400 bis Orange-600"
+                  },
+                  {
+                      "icon":  "Dollarzeichen",
+                      "value":  "0 %",
+                      "label":  "Steuersatz",
+                      "color":  "von Orange-400 bis Bernstein-600"
+                  },
+                  {
+                      "icon":  "Uhr",
+                      "value":  "3-5",
+                      "label":  "Tagesaufbau",
+                      "color":  "von Bernstein-400 bis Gelb-600"
+                  }
+              ],
+    "introSection":  {
+                         "badge":  "Wachstumsfreundliches Gewerbegebiet",
+                         "title":  "ErschlieíŸen Sie globale Geschí¤ftsmí¶glichkeiten",
+                         "titleHighlight":  "Globale Geschí¤ftsmí¶glichkeiten",
+                         "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                         "imageBadgeTitle":  "Wirtschaftszone",
+                         "imageBadgeText":  "Ras Al Khaimah, Vereinigte Arabische Emirate",
+                         "paragraphs":  [
+                                            "Die RAKEZ (Ras Al Khaimah Economic Zone) ist eines der leistungsstí¤rksten Geschí¤ftsí¶kosysteme in den VAE und bietet eine kostengünstige, zentrale und flexible Option für globale Unternehmer, KMU, Hersteller und Startups.",
+                                            "Egal ob Sie ein Handelsunternehmen, ein Technologie-Startup, eine Unternehmensberatung oder ein Produktionsunternehmen gründen "“ RAKEZ bietet die Infrastruktur, Lizenzkombinationen, Steueranreize und vieles mehr, um ein erfolgreiches Erlebnis in den VAE zu ermí¶glichen.",
+                                            "Als Tor zu regionalen und globalen Mí¤rkten vereint RAKEZ die Vorteile einer erstklassigen Freihandelszone mit den Vorzügen einer dynamischen Wirtschaft auf dem chinesischen Festland. íœber 18.000 Unternehmen aus mehr als 100 Lí¤ndern profitieren von RAKEZ "“ vielleicht sind Sie der/die Ní¤chste."
+                                        ],
+                         "highlights":  [
+                                            "100% auslí¤ndisches Eigentum",
+                                            "Steuerfreies Umfeld",
+                                            "Schnelllizenzierung",
+                                            "Zugang zum globalen Markt",
+                                            "Optionen für Doppellizenzen",
+                                            "Weltklasse-Infrastruktur"
+                                        ]
+                     },
+    "whyChooseSection":  {
+                             "badge":  "Wachstumsfreundliches Gewerbegebiet",
+                             "title":  "Warum sollten Sie sich für die RAKEZ Free Zone entscheiden?",
+                             "titleHighlight":  "RAKEZ Freizone?",
+                             "subtitle":  "Sechs überzeugende Gründe, warum Sie Ihr Unternehmen in RAKEZ gründen sollten.",
+                             "items":  [
+                                           {
+                                               "icon":  "Globus",
+                                               "title":  "100% auslí¤ndisches Eigentum",
+                                               "description":  "Kein lokaler emiratischer Sponsor erforderlich. Volle Kontrolle über Ihre Geschí¤ftsablí¤ufe, Gewinne und Entscheidungen.",
+                                               "color":  "von Rosé 400 bis Rot 600"
+                                           },
+                                           {
+                                               "icon":  "Dollarzeichen",
+                                               "title":  "0 % Unternehmens- und Einkommensteuer",
+                                               "description":  "Keine Kí¶rperschaftsteuer oder Einkommensteuer "“ Gewinne maximieren und langfristige finanzielle Verbindlichkeiten minimieren.",
+                                               "color":  "von Rot-400 bis Orange-600"
+                                           },
+                                           {
+                                               "icon":  "Geldbí¶rse",
+                                               "title":  "Vollstí¤ndige Rückführung von Kapital und Gewinnen",
+                                               "description":  "íœberweisen Sie Ihre Gewinne ohne Einschrí¤nkungen zurück in Ihr Heimatland "“ ein groíŸer Vorteil für international tí¤tige Unternehmen und auslí¤ndische Investoren.",
+                                               "color":  "von Orange-400 bis Bernstein-600"
+                                           },
+                                           {
+                                               "icon":  "Paket",
+                                               "title":  "Zollfreie Geschí¤ftszone",
+                                               "description":  "Handel in der Freizone ohne Import- und Exportzí¶lle "“ kosteneffiziente Ablí¤ufe für Logistik, E-Commerce, Produktion und Handel.",
+                                               "color":  "von Bernstein-400 bis Gelb-600"
+                                           },
+                                           {
+                                               "icon":  "LKW",
+                                               "title":  "Direkter Zugang zu RAK Logistics",
+                                               "description":  "Unmittelbarer Zugang zu den Seehí¤fen von Ras Al Khaimah, den Autobahnen der VAE und den internationalen Flughí¤fen "“ schnellere Lieferkettenablí¤ufe für Import-Export-Geschí¤fte.",
+                                               "color":  "von Gelb-400 bis Limette-600"
+                                           },
+                                           {
+                                               "icon":  "Zap",
+                                               "title":  "Schnelle Firmengründung",
+                                               "description":  "Von der Lizenzgenehmigung und Visabearbeitung bis zur Büroeinrichtung "“ Ihr Unternehmen kann in nur wenigen Tagen betriebsbereit sein.",
+                                               "color":  "von Limette-400 bis Smaragd-600"
+                                           }
+                                       ]
+                         },
+    "licenseTypesSection":  {
+                                "badge":  "Flexible Lizenzen, globale Reichweite",
+                                "title":  "Welche Lizenztypen sind in RAKEZ verfügbar?",
+                                "titleHighlight":  "In RAKEZ verfügbar?",
+                                "subtitle":  "Wir helfen Ihnen, die für Ihre Tí¤tigkeit optimale RAKEZ-Lizenz zu ermitteln.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Speichern",
+                                                  "title":  "Gewerbelizenz",
+                                                  "description":  "Für allgemeine Handels-, Einzelhandels- und Import-Export-Unternehmen.",
+                                                  "code":  "CML",
+                                                  "color":  "von Rosé 400 bis Rot 600"
+                                              },
+                                              {
+                                                  "icon":  "Fabrik",
+                                                  "title":  "Industrielizenz",
+                                                  "description":  "Für Fertigungs-, Verpackungs- und Montagevorgí¤nge.",
+                                                  "code":  "IND",
+                                                  "color":  "von Rot-400 bis Orange-600"
+                                              },
+                                              {
+                                                  "icon":  "Aktentasche",
+                                                  "title":  "Dienstleistungslizenz",
+                                                  "description":  "Für Marketing, Rechtsberatung, Logistik und sonstige professionelle Dienstleistungen.",
+                                                  "code":  "SRV",
+                                                  "color":  "von Orange-400 bis Bernstein-600"
+                                              },
+                                              {
+                                                  "icon":  "Warenkorb",
+                                                  "title":  "E-Commerce-Lizenz",
+                                                  "description":  "Verkaufen Sie Produkte weltweit online mit umfassenden E-Commerce-Funktionen.",
+                                                  "code":  "ECM",
+                                                  "color":  "von Bernstein-400 bis Gelb-600"
+                                              },
+                                              {
+                                                  "icon":  "Benutzerprüfung",
+                                                  "title":  "Freiberuflerlizenz",
+                                                  "description":  "Für Kreativprofis, Berater und freiberufliche Spezialisten.",
+                                                  "code":  "FRL",
+                                                  "color":  "von Gelb-400 bis Limette-600"
+                                              },
+                                              {
+                                                  "icon":  "Schichten",
+                                                  "title":  "Doppellizenz",
+                                                  "description":  "Geschí¤fte in RAKEZ und auf dem Festland der VAE mit einer einzigen Lizenz tí¤tigen.",
+                                                  "code":  "DUAL",
+                                                  "color":  "von Limette-400 bis Smaragd-600"
+                                              }
+                                          ]
+                            },
+    "facilitiesSection":  {
+                              "badge":  "Büro- und Lagerflí¤chen",
+                              "title":  "Skalierbare Infrastruktur für Unternehmen jeder Grí¶íŸe",
+                              "titleHighlight":  "für jede Unternehmensgrí¶íŸe",
+                              "subtitle":  "Von Startups bis hin zu groíŸen Industrieunternehmen "“ RAKEZ bietet flexiblen, wirtschaftlichen und langfristigen Mehrwert.",
+                              "items":  [
+                                            {
+                                                "icon":  "Gebí¤ude 2",
+                                                "title":  "Intelligente Büros",
+                                                "description":  "Mí¶blierte, sofort einsatzbereite Büros, konzipiert für Startups, Berater und kleine Unternehmen.",
+                                                "color":  "von Rosé 400 bis Rot 600",
+                                                "size":  "klein"
+                                            },
+                                            {
+                                                "icon":  "Krone",
+                                                "title":  "Executive-Suiten",
+                                                "description":  "Hochwertige Büros in einem eigens dafür errichteten Geschí¤ftsgebí¤ude "“ ideal für regionale Hauptsitze.",
+                                                "color":  "von Rot-400 bis Orange-600",
+                                                "size":  "klein"
+                                            },
+                                            {
+                                                "icon":  "Fabrik",
+                                                "title":  "Industriegrundstückspacht",
+                                                "description":  "Langfristige Pachtvertrí¤ge für groíŸe Industriegrundstücke mit vollstí¤ndiger ErschlieíŸung.",
+                                                "color":  "von Orange-500 bis Bernstein-700",
+                                                "size":  "groíŸ"
+                                            },
+                                            {
+                                                "icon":  "Lager",
+                                                "title":  "Lagerhallen",
+                                                "description":  "Fertigprodukteinheiten für Logistik, Vertrieb, Lagerung oder leichte Fertigung.",
+                                                "color":  "von Bernstein-400 bis Gelb-600",
+                                                "size":  "klein"
+                                            },
+                                            {
+                                                "icon":  "Absolventenmütze",
+                                                "title":  "RAK Akademischer \u0026 Innovationscluster",
+                                                "description":  "Einzigartiges í–kosystem für Technologie-Startups, Forschungs- und Entwicklungsunternehmen sowie Bildungsunternehmen.",
+                                                "color":  "von Gelb-400 bis Limette-600",
+                                                "size":  "klein"
+                                            }
+                                        ]
+                          },
+    "visaServicesSection":  {
+                                "badge":  "Vereinfachtes RAKEZ-Visumverfahren",
+                                "title":  "Visa- und Einwanderungsdienste für Unternehmer",
+                                "titleHighlight":  "Dienstleistungen für Unternehmer",
+                                "subtitle":  "Von der Visaerteilung bis zur Ausstellung von Einwanderungskarten "“ alles wird abgedeckt.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Benutzerprüfung",
+                                                  "label":  "Investorenvisum \u0026 Niederlassungskarte"
+                                              },
+                                              {
+                                                  "icon":  "Benutzer",
+                                                  "label":  "Arbeitsvisa für Mitarbeiter"
+                                              },
+                                              {
+                                                  "icon":  "Herz-Handschlag",
+                                                  "label":  "Familienvisumverwaltung"
+                                              },
+                                              {
+                                                  "icon":  "Kreditkarte",
+                                                  "label":  "Emirates ID \u0026 Medizinischer Test"
+                                              },
+                                              {
+                                                  "icon":  "BadgeCheck",
+                                                  "label":  "Visumstempelung"
+                                              },
+                                              {
+                                                  "icon":  "Krone",
+                                                  "label":  "Tipps zum Goldenen Visum für die VAE"
+                                              },
+                                              {
+                                                  "icon":  "Schild",
+                                                  "label":  "Komplette PRO-Dienstleistungen"
+                                              }
+                                          ]
+                            },
+    "formationServicesSection":  {
+                                     "badge":  "Schnelle, problemlose Formation",
+                                     "title":  "Wie wir Ihnen bei der Gründung eines RAKEZ-Unternehmens helfen",
+                                     "titleHighlight":  "Gründen Sie ein RAKEZ-Unternehmen",
+                                     "subtitle":  "Komplette Dienstleistungen für die Unternehmensgründung "“ von der Auswahl der Geschí¤ftstí¤tigkeit bis hin zur Einhaltung gesetzlicher Bestimmungen.",
+                                     "items":  [
+                                                   {
+                                                       "icon":  "Ziel",
+                                                       "label":  "Auswahl der Geschí¤ftstí¤tigkeit"
+                                                   },
+                                                   {
+                                                       "icon":  "DateiText",
+                                                       "label":  "Domainnamenreservierung"
+                                                   },
+                                                   {
+                                                       "icon":  "Zwischenablage prüfen",
+                                                       "label":  "RAKEZ Firmenregistrierung"
+                                                   },
+                                                   {
+                                                       "icon":  "Datenbank",
+                                                       "label":  "Dokumentenerstellung \u0026 -anwendung"
+                                                   },
+                                                   {
+                                                       "icon":  "Dollarzeichen",
+                                                       "label":  "Antrag auf ein Bankkonto in den VAE"
+                                                   },
+                                                   {
+                                                       "icon":  "Prozent",
+                                                       "label":  "RAKEZ Umsatzsteuerregistrierung"
+                                                   },
+                                                   {
+                                                       "icon":  "Skala",
+                                                       "label":  "Unternehmensstrukturierung"
+                                                   },
+                                                   {
+                                                       "icon":  "Schild",
+                                                       "label":  "Monatliche Compliance-íœberwachung"
+                                                   }
+                                               ]
+                                 },
+    "taxBenefitsSection":  {
+                               "badge":  "RAKEZ bietet volle Kontrolle",
+                               "title":  "Steuerliche und Eigentumsvorteile von RAKEZ",
+                               "titleHighlight":  "Vorteile von RAKEZ",
+                               "subtitle":  "Perfekt für globale Investoren und Unternehmer, die maximale Gewinnmaximierung anstreben.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Prozent",
+                                                 "label":  "0 % Einkommensteuer für Privatpersonen und Unternehmen",
+                                                 "detail":  "Maximale Gewinnrückbehaltung"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "label":  "Vollstí¤ndiges auslí¤ndisches Eigentum",
+                                                 "detail":  "Kein lokaler Sponsor erforderlich"
+                                             },
+                                             {
+                                                 "icon":  "Geldbí¶rse",
+                                                 "label":  "Kostenlose Rückführung von Kapital und Gewinnen",
+                                                 "detail":  "Keine Einschrí¤nkungen"
+                                             },
+                                             {
+                                                 "icon":  "Paket",
+                                                 "label":  "Keine Ein-/Ausfuhrzí¶lle",
+                                                 "detail":  "Duty-free-Betriebe"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "label":  "Keine Wí¤hrungsbeschrí¤nkungen",
+                                                 "detail":  "Globale Transaktionen bereit"
+                                             },
+                                             {
+                                                 "icon":  "Schild",
+                                                 "label":  "Steuerberatung und Mehrwertsteuerregistrierung in den VAE",
+                                                 "detail":  "Vollstí¤ndige Unterstützung bei der Einhaltung der Vorschriften"
+                                             }
+                                         ]
+                           },
+    "digitalServicesSection":  {
+                                   "badge":  "GroíŸe Reichweite. Einfache Einrichtung.",
+                                   "title":  "Lassen Sie Ihr Unternehmen digital wachsen "“ mit RAKEZ",
+                                   "titleHighlight":  "Digital in RAKEZ",
+                                   "subtitle":  "Wir statten Sie mit digitaler Infrastruktur und Marketinginstrumenten aus, damit Sie auf dem Markt wettbewerbsfí¤hig sind.",
+                                   "items":  [
+                                                 {
+                                                     "icon":  "Globus",
+                                                     "title":  "Website- und E-Commerce-Entwicklung",
+                                                     "description":  "Professionelle Webseiten- und Online-Shop-Entwicklung für Ihre Marke.",
+                                                     "color":  "von Rosé 400 bis Rot 600"
+                                                 },
+                                                 {
+                                                     "icon":  "Datenbank",
+                                                     "title":  "CRM- und CMS-Integration",
+                                                     "description":  "Leistungsstarke Integrationen zur Optimierung Ihrer Unternehmensverwaltung.",
+                                                     "color":  "von Rot-400 bis Orange-600"
+                                                 },
+                                                 {
+                                                     "icon":  "Aufwí¤rtstrend",
+                                                     "title":  "SEO-Dienstleistungen in RAK",
+                                                     "description":  "Dominieren Sie die Suchergebnisse und bauen Sie organischen Traffic und Glaubwürdigkeit auf.",
+                                                     "color":  "von Orange-400 bis Bernstein-600"
+                                                 },
+                                                 {
+                                                     "icon":  "Megaphon",
+                                                     "title":  "Social-Media-Marketing",
+                                                     "description":  "MaíŸgeschneiderte Social-Media-, PPC- und Content-Strategien zur Steigerung des Engagements.",
+                                                     "color":  "von Bernstein-400 bis Gelb-600"
+                                                 },
+                                                 {
+                                                     "icon":  "Palette",
+                                                     "title":  "Markenbildung \u0026 Logo-Design",
+                                                     "description":  "Gestalten Sie einen digitalen Schaufenster, der Ihre Geschí¤ftsvision widerspiegelt.",
+                                                     "color":  "von Gelb-400 bis Limette-600"
+                                                 },
+                                                 {
+                                                     "icon":  "BadgeCheck",
+                                                     "title":  "Produktregistrierung \u0026 Marken",
+                                                     "description":  "Volle Unterstützung bei der Produktregistrierung und dem Markenschutz in den VAE.",
+                                                     "color":  "von Limette-400 bis Smaragd-600"
+                                                 }
+                                             ],
+                                   "footerText":  "Mit Setup Zone Dubai gründen Sie nicht nur ein Unternehmen "“ Sie entwickeln eine nachhaltige Marke, die bereit ist zu wachsen, zu skalieren und erfolgreich zu sein."
+                               },
+    "postLicenseSupportSection":  {
+                                      "badge":  "Unterstützung nach der Lizenzierung",
+                                      "title":  "Von uns angebotene Dienstleistungen im Bereich Compliance",
+                                      "titleHighlight":  "Wir bieten",
+                                      "subtitle":  "Wir gewí¤hrleisten die Kontinuití¤t des Betriebs und die Einhaltung der Vorschriften "“ auch lange nach der Lizenzerteilung.",
+                                      "items":  [
+                                                    {
+                                                        "icon":  "DateiText",
+                                                        "label":  "Prüfungsfí¤hige Buchhaltung"
+                                                    },
+                                                    {
+                                                        "icon":  "RefreshCw",
+                                                        "label":  "Unterstützung bei der Lizenzverlí¤ngerung"
+                                                    },
+                                                    {
+                                                        "icon":  "Skala",
+                                                        "label":  "Rechtsformulierung \u0026 Compliance"
+                                                    },
+                                                    {
+                                                        "icon":  "Kreditkarte",
+                                                        "label":  "Integration von Zahlungsportalen"
+                                                    },
+                                                    {
+                                                        "icon":  "Dollarzeichen",
+                                                        "label":  "Bank- und KYC-Dokumentation"
+                                                    },
+                                                    {
+                                                        "icon":  "Benutzerprüfung",
+                                                        "label":  "Visaverlí¤ngerungen \u0026 PRO-Dienstleistungen"
+                                                    }
+                                                ]
+                                  },
+    "businessActivitiesSection":  {
+                                      "badge":  "Geschí¤ftstí¤tigkeit",
+                                      "title":  "Welche Aktivití¤ten sind in RAKEZ erlaubt?",
+                                      "titleHighlight":  "In RAKEZ erlaubt?",
+                                      "subtitle":  "Wir bringen Ihre Geschí¤ftsziele mit den von RAKEZ genehmigten Kategorien in Einklang.",
+                                      "items":  [
+                                                    {
+                                                        "icon":  "Speichern",
+                                                        "label":  "Allgemeiner Handel, Einzel- und GroíŸhandel",
+                                                        "color":  "von Rosé 400 bis Rot 600"
+                                                    },
+                                                    {
+                                                        "icon":  "Megaphon",
+                                                        "label":  "Medien-, Werbe- und Kreativagenturen",
+                                                        "color":  "von Rot-400 bis Orange-600"
+                                                    },
+                                                    {
+                                                        "icon":  "Warenkorb",
+                                                        "label":  "Online-Shops, Marktplí¤tze \u0026 E-Commerce",
+                                                        "color":  "von Orange-400 bis Bernstein-600"
+                                                    },
+                                                    {
+                                                        "icon":  "Code",
+                                                        "label":  "IT- und SaaS-Dienstleistungen, Cloud Computing",
+                                                        "color":  "von Bernstein-400 bis Gelb-600"
+                                                    },
+                                                    {
+                                                        "icon":  "Mikroskop",
+                                                        "label":  "Forschung, Bildung und Gesundheitswesen",
+                                                        "color":  "von Gelb-400 bis Limette-600"
+                                                    },
+                                                    {
+                                                        "icon":  "Blatt",
+                                                        "label":  "Erneuerbare Energien und fortschrittliche Fertigung",
+                                                        "color":  "von Limette-400 bis Smaragd-600"
+                                                    }
+                                                ]
+                                  },
+    "growthStatsSection":  {
+                               "badge":  "Geschí¤ftswachstumsaussichten",
+                               "title":  "Eine führende Wirtschaftszone in den VAE",
+                               "titleHighlight":  "Wirtschaftszone in den VAE",
+                               "subtitle":  "Schnell wachsendes í–kosystem für globale Unternehmer und internationale Unternehmen.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Gebí¤ude 2",
+                                                 "value":  "Mehr als 18.000",
+                                                 "label":  "Globale Unternehmen",
+                                                 "color":  "von Rosé 400 bis Rot 600"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "value":  "100+",
+                                                 "label":  "Bediente Lí¤nder",
+                                                 "color":  "von Rot-400 bis Orange-600"
+                                             },
+                                             {
+                                                 "icon":  "Aufwí¤rtstrend",
+                                                 "value":  "Führend",
+                                                 "label":  "Wirtschaftszone",
+                                                 "color":  "von Orange-400 bis Bernstein-600"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "value":  "Anbau",
+                                                 "label":  "Wirtschaft",
+                                                 "color":  "von Bernstein-400 bis Gelb-600"
+                                             },
+                                             {
+                                                 "icon":  "Balkendiagramm 3",
+                                                 "value":  "Bedeutsam",
+                                                 "label":  "Regionale Auswirkungen",
+                                                 "color":  "von Gelb-400 bis Limette-600"
+                                             },
+                                             {
+                                                 "icon":  "Krone",
+                                                 "value":  "Bevorzugt",
+                                                 "label":  "Für globale Unternehmen",
+                                                 "color":  "von Limette-400 bis Smaragd-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die RAKEZ Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie sich kostenlos von unseren RAKEZ-Spezialisten beraten.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zur RAKEZ Free Zone."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Wie lange dauert die Registrierung eines Unternehmens in RAKEZ?",
+                                          "a":  "Die Registrierung eines Unternehmens bei RAKEZ dauert in der Regel 3"“5 Werktage, abhí¤ngig von der Geschí¤ftstí¤tigkeit, den erforderlichen Unterlagen und den Visabestimmungen. Wir beschleunigen den Prozess, damit Ihre Unternehmensregistrierung reibungslos verlí¤uft."
+                                      },
+                                      {
+                                          "q":  "Kann ich als Auslí¤nder in RAKEZ ein Unternehmen besitzen?",
+                                          "a":  "Ja. RAKEZ ermí¶glicht 100% auslí¤ndisches Eigentum ohne die Notwendigkeit eines lokalen emiratischen Sponsors. Sie haben die volle Kontrolle über Ihre Geschí¤ftstí¤tigkeit, Ihre Gewinne und Ihre Entscheidungsfindung."
+                                      },
+                                      {
+                                          "q":  "Bení¶tige ich ein physisches Büro, um mich bei RAKEZ einzurichten?",
+                                          "a":  "Nicht unbedingt. RAKEZ bietet flexible Optionen wie Smart Offices, Executive Suites und Gemeinschaftsarbeitsplí¤tze. Für bestimmte Lizenzen und Visakontingente kann jedoch eine physische Anwesenheit erforderlich sein."
+                                      },
+                                      {
+                                          "q":  "Ist bei der Firmengründung bei RAKEZ ein Visum inbegriffen?",
+                                          "a":  "Die Lizenzpakete von RAKEZ beinhalten die Visa-Berechtigung. Wir kümmern uns um Investorenvisa, Arbeitsvisa, Familienvisa, Emirates ID, medizinische Tests und die Visa-Beantragung "“ umfassende Unterstützung aus einer Hand."
+                                      },
+                                      {
+                                          "q":  "Kann ich bei einem RAKEZ-Unternehmen in den VAE ein Bankkonto erí¶ffnen?",
+                                          "a":  "Ja. Wir bieten im Rahmen unserer Einrichtungsdienstleistungen umfassende Unterstützung bei der Erí¶ffnung eines Firmenbankkontos in den VAE "“ einschlieíŸlich KYC-Dokumentation und Bankverbindung."
+                                      },
+                                      {
+                                          "q":  "Ist RAKEZ gut für E-Commerce und Online-Unternehmen?",
+                                          "a":  "Absolut. RAKEZ bietet eine E-Commerce-Lizenz speziell für Online-Shops, Marktplí¤tze, Dropshipping und Verkí¤ufer digitaler Produkte an "“ mit vollstí¤ndiger Unterstützung für die Integration von Zahlungs-Gateways."
+                                      },
+                                      {
+                                          "q":  "Gibt es bei RAKEZ Steuervorteile?",
+                                          "a":  "Ja. RAKEZ bietet 0 % Einkommensteuer für Privatpersonen und Unternehmen, keine Import-/Exportzí¶lle, kostenlose Rückführung von Kapital und Gewinnen, keine Wí¤hrungsbeschrí¤nkungen und Steuerberatung in den VAE inklusive Mehrwertsteuerregistrierung."
+                                      },
+                                      {
+                                          "q":  "Kann ich mit einem RAKEZ-Unternehmen sowohl in der Freizone als auch auf dem Festland der VAE tí¤tig sein?",
+                                          "a":  "Ja. RAKEZ bietet eine Dual-Lizenz-Option an, die die Vorteile einer Freihandelszone mit dem Zugang zum Festland der VAE kombiniert "“ perfekt für Unternehmen, die eine maximale Marktreichweite anstreben."
+                                      },
+                                      {
+                                          "q":  "Was ist, wenn ich nach der Unternehmensgründung Hilfe bení¶tige?",
+                                          "a":  "Wir bieten umfassende Unterstützung nach der Lizenzerteilung, einschlieíŸlich revisionssicherer Buchhaltung, Lizenzverlí¤ngerung, Erstellung von Rechtsdokumenten, Integration von Zahlungsportalen, Bankdokumentation und Visaverlí¤ngerung mit vollstí¤ndigen PRO-Dienstleistungen."
+                                      },
+                                      {
+                                          "q":  "Warum sollte ich Setup Zone Dubai für die RAKEZ-Einrichtung wí¤hlen?",
+                                          "a":  "Wir bieten umfassende Unterstützung "“ von der Auswahl der Geschí¤ftstí¤tigkeit und der Domainregistrierung bis hin zur Unternehmensregistrierung, Kontoerí¶ffnung, Umsatzsteuerabwicklung, Einhaltung gesetzlicher Bestimmungen und Dienstleistungen für digitales Wachstum. Unsere Erfolgsbilanz spricht für Schnelligkeit, Genauigkeit und volle Transparenz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen \u0026 Leitfí¤den",
+                                   "titleHighlight":  "Dienstleistungen \u0026 Reiseführer",
+                                   "subtitle":  "Dienste, die gut zu Ihrem RAKEZ-Setup passen.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Erí¶ffnung eines Bankkontos",
+                                                     "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE mit umfassender KYC-Unterstützung.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "von Rosé 400 bis Rot 600"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Goldenes Visum",
+                                                     "description":  "10-jí¤hrige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Bernstein-400 bis Gelb-500"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Compliance-Dienstleistungen",
+                                                     "description":  "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "von Orange-400 bis Rot-600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Heute starten",
+                     "title":  "Bereit für den Start in der RAKEZ-Freizone?",
+                     "titleHighlight":  "RAKEZ Freizone?",
+                     "subtitle":  "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess "“ von der Lizenzierung bis zum Launch.",
+                     "chips":  [
+                                   "Kostenlose Beratung",
+                                   "3-5 Tage Aufbauzeit",
+                                   "Mehr als 18.000 Unternehmen"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Beratung zur Einrichtung von RAKEZ.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über die Einrichtung von RAKEZ sprechen."
+                 }
+}

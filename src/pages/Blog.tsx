@@ -1,5 +1,4 @@
 // File: src/pages/Blog.tsx
-
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -12,21 +11,43 @@ import {
 import { getWhatsAppLink } from '../lib/whatsapp';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
 import blogData from '../content/pages/blog.json';
-import postsData from '../content/blog/posts.json';
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
+
 export default function Blog({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.pages || blogData;
+  const { language } = useLanguage();
+  const blogFallback = loadContent('pages/blog', language);
+  const postsFallback = loadContent('blog/posts', language) || {};
+  const tagContentFallback = loadContent('blog/tagContent', language) || {};
+  
+  const data = tinaData?.data?.pages || blogFallback;
+  const posts = tinaData?.data?.blogPosts?.posts || postsFallback.posts || [];
+  const tagContents = tinaData?.data?.tagContent?.tagContents || tagContentFallback.tagContents || [];
+
   const [searchQuery, setSearchQuery] = useState('');
 
-  const filteredPosts = postsData.posts.filter((post: any) =>
-  post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
-  post.category.toLowerCase().includes(searchQuery.toLowerCase())
-);
+  const filteredPosts = posts.filter((post: any) =>
+    post.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    post.category.toLowerCase().includes(searchQuery.toLowerCase())
+  );
+
+  const slugifyTag = (s: string) =>
+    s
+      .replace(/İ/g, 'i').replace(/I/g, 'i').replace(/ı/g, 'i')
+      .replace(/Ş/g, 's').replace(/ş/g, 's')
+      .replace(/Ğ/g, 'g').replace(/ğ/g, 'g')
+      .replace(/Ç/g, 'c').replace(/ç/g, 'c')
+      .replace(/Ü/g, 'u').replace(/ü/g, 'u')
+      .replace(/Ö/g, 'o').replace(/ö/g, 'o')
+      .replace(/Â/g, 'a').replace(/â/g, 'a')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
 
   const slugify = (str: string) => str.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 
   return (
     <div className="min-h-screen bg-white">
-
       {/* ============ 1. HERO ============ */}
       <section className="relative pt-32 pb-16 md:pt-40 md:pb-20 overflow-hidden bg-gradient-to-br from-slate-950 via-violet-950 to-purple-950">
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
@@ -67,7 +88,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                 <div>
                   <h2 className="text-2xl font-black text-[#0A0F1F] mb-1" data-tina-field={tinaField(data, 'latestArticlesTitle')}>{data.latestArticlesTitle}</h2>
                   <p className="text-sm text-slate-500 font-medium">
-                    {searchQuery ? `${filteredPosts.length} results for "${searchQuery}"` : `Showing ${data.blogPosts.length} articles`}
+                    {searchQuery ? `${filteredPosts.length} results for "${searchQuery}"` : `Showing ${posts.length} articles`}
                   </p>
                 </div>
                 <div className="flex items-center gap-2 px-3 py-1.5 rounded-full bg-violet-50 border border-violet-200">
@@ -111,7 +132,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                           {post.excerpt}
                         </p>
 
-                        <Link to={`/blog/${slugify(post.title)}`} className="group/btn inline-flex items-center gap-2 text-xs font-black text-violet-700 hover:text-violet-900 uppercase tracking-widest transition-colors">
+                        <Link to={`/blog/${post.slug}`} className="group/btn inline-flex items-center gap-2 text-xs font-black text-violet-700 hover:text-violet-900 uppercase tracking-widest transition-colors">
                           <span data-tina-field={tinaField(data, 'readMoreLabel')}>{data.readMoreLabel}</span>
                           <ArrowUpRight size={14} className="group-hover/btn:translate-x-0.5 group-hover/btn:-translate-y-0.5 transition-transform" strokeWidth={2.5} />
                         </Link>
@@ -160,8 +181,8 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                   <span data-tina-field={tinaField(data.sidebar, 'recentPostsTitle')}>{data.sidebar.recentPostsTitle}</span>
                 </h3>
                 <div className="space-y-3">
-                  {postsData.posts.slice(0, 5).map((post: any, i: number) => (
-                    <Link key={i} to={`/blog/${slugify(post.title)}`} className="group flex items-start gap-3 p-2 rounded-xl hover:bg-violet-50 transition-colors">
+                  {posts.slice(0, 5).map((post: any, i: number) => (
+                    <Link key={post.slug || i} to={`/blog/${post.slug}`} className="group flex items-start gap-3 p-2 rounded-xl hover:bg-violet-50 transition-colors">
                       <div className="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0">
                         <img src={post.image} alt={post.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform" />
                       </div>
@@ -185,14 +206,14 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                   <span data-tina-field={tinaField(data.sidebar, 'archivesTitle')}>{data.sidebar.archivesTitle}</span>
                 </h3>
                 <div className="space-y-1.5 max-h-64 overflow-y-auto pr-1">
-                  {data.archives.map((month: string, i: number) => (
-                    <Link key={i} to={`/blog/archive/${slugify(month)}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-violet-700 hover:bg-violet-50 transition-colors">
-                      <span className="flex items-center gap-2">
-                        <ChevronRight size={11} className="text-violet-500 group-hover:translate-x-0.5 transition-transform" strokeWidth={3} />
-                        {month}
-                      </span>
-                    </Link>
-                  ))}
+                  {data.archives.map((arch: any, i: number) => (
+  <Link key={i} to={`/blog/archive/${arch.monthKey || slugifyTag(arch.name)}`} className="...">
+    <span className="flex items-center gap-2">
+      <ChevronRight size={11} className="text-violet-500 group-hover:translate-x-0.5 transition-transform" strokeWidth={3} />
+      {arch.name}
+    </span>
+  </Link>
+))}
                 </div>
               </div>
 
@@ -202,14 +223,15 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                   <Folder size={14} className="text-violet-600" />
                   <span data-tina-field={tinaField(data.sidebar, 'categoriesTitle')}>{data.sidebar.categoriesTitle}</span>
                 </h3>
-                <div className="space-y-1.5 max-h-64 overflow-y-auto pr-1">
+                <div className="space-y-1.5 max-h-64 overflow-y-auto pr-2">
                   {data.categories.map((cat: any, i: number) => (
-                    <Link key={i} to={`/blog/category/${slugify(cat.name)}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-violet-700 hover:bg-violet-50 transition-colors">
-                      <span className="flex items-center gap-2 truncate">
+                    // ✅ Seedha cat.slug use kiya, fallback mein slugifyTag
+                    <Link key={i} to={`/blog/category/${cat.slug || slugifyTag(cat.name)}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-violet-700 hover:bg-violet-50 transition-colors">
+                      <span className="flex items-center gap-2 min-w-0">
                         <Tag size={11} className="text-violet-500 flex-shrink-0" />
                         <span className="truncate" data-tina-field={tinaField(cat, 'name')}>{cat.name}</span>
                       </span>
-                      <span className="text-[10px] font-black text-violet-600 bg-violet-100 px-2 py-0.5 rounded-full flex-shrink-0" data-tina-field={tinaField(cat, 'count')}>
+                      <span className="text-[10px] font-black text-violet-600 bg-violet-100 px-2 py-0.5 rounded-full flex-shrink-0 ml-2" data-tina-field={tinaField(cat, 'count')}>
                         {cat.count}
                       </span>
                     </Link>
@@ -224,11 +246,21 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                   <span data-tina-field={tinaField(data.sidebar, 'tagsTitle')}>{data.sidebar.tagsTitle}</span>
                 </h3>
                 <div className="flex flex-wrap gap-2">
-                  {data.popularTags.map((tag: string, i: number) => (
-                    <Link key={i} to={`/blog/tag/${slugify(tag)}`} className="px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 text-[11px] font-bold text-slate-600 hover:bg-violet-50 hover:border-violet-300 hover:text-violet-700 transition-all">
-                      {tag}
-                    </Link>
-                  ))}
+                  {data.popularTags.map((tag: string, i: number) => {
+                    const matchedTag = tagContents.find((tc: any) => 
+                      tc.name === tag || slugifyTag(tc.name) === slugifyTag(tag)
+                    );
+                    const tSlug = matchedTag?.slug || slugifyTag(tag);
+                    return (
+                      <Link 
+                        key={i} 
+                        to={`/blog/tag/${tSlug}`}
+                        className="px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 text-[11px] font-bold text-slate-600 hover:bg-violet-50 hover:border-violet-300 hover:text-violet-700 transition-all"
+                      >
+                        {tag}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
 
@@ -240,12 +272,12 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                 </motion.div>
                 <div className="relative">
                   <div className="w-12 h-12 rounded-2xl bg-white/20 backdrop-blur-xl border border-white/30 flex items-center justify-center mb-4">
-<WhatsAppIcon size={22} className="text-emerald-600" />
+                    <WhatsAppIcon size={22} className="text-emerald-600" />
                   </div>
                   <h3 className="text-lg font-black text-white leading-tight mb-2" data-tina-field={tinaField(data.sidebar.ctaCard, 'title')}>{data.sidebar.ctaCard.title}</h3>
                   <p className="text-sm text-white/90 font-medium leading-relaxed mb-4" data-tina-field={tinaField(data.sidebar.ctaCard, 'text')}>{data.sidebar.ctaCard.text}</p>
                   <a href={getWhatsAppLink(data.sidebar.ctaCard.whatsappMessage)} target="_blank" rel="noreferrer" className="inline-flex items-center justify-center gap-2 w-full px-4 py-2.5 rounded-xl bg-white text-violet-700 font-black text-xs uppercase tracking-widest shadow-lg hover:scale-105 transition-transform">
-<WhatsAppIcon size={14} className="text-emerald-600" />
+                    <WhatsAppIcon size={14} className="text-emerald-600" />
                     <span data-tina-field={tinaField(data.sidebar.ctaCard, 'buttonText')}>{data.sidebar.ctaCard.buttonText}</span>
                   </a>
                 </div>
@@ -263,7 +295,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
           <div className="grid lg:grid-cols-12 gap-10 lg:gap-14 items-start">
             <motion.div initial={{ opacity: 0, x: -40 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="lg:col-span-5 lg:sticky lg:top-32">
               <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-slate-200 shadow-sm mb-6">
-<WhatsAppIcon size={14} className="text-emerald-600" />
+                <WhatsAppIcon size={14} className="text-emerald-600" />
                 <span className="text-xs font-bold tracking-wider uppercase text-slate-500" data-tina-field={tinaField(data.faqs, 'badge')}>{data.faqs.badge}</span>
               </div>
 
@@ -283,7 +315,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                 </motion.div>
                 <div className="relative">
                   <div className="w-12 h-12 rounded-2xl bg-white/20 backdrop-blur-xl border border-white/30 flex items-center justify-center mb-4">
-<WhatsAppIcon size={22} className="text-emerald-600" />
+                    <WhatsAppIcon size={22} className="text-emerald-600" />
                   </div>
                   <h3 className="text-xl font-black text-white leading-tight tracking-tight mb-2" data-tina-field={tinaField(data.faqs.contactCard, 'title')}>{data.faqs.contactCard.title}</h3>
                   <p className="text-sm text-white/90 font-medium leading-relaxed mb-4" data-tina-field={tinaField(data.faqs.contactCard, 'text')}>{data.faqs.contactCard.text}</p>
@@ -302,7 +334,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                       <span className="text-sm font-bold break-all" data-tina-field={tinaField(data.faqs.contactCard, 'email')}>{data.faqs.contactCard.email}</span>
                     </a>
                     <a href={getWhatsAppLink(data.faqs.contactCard.whatsappMessage)} target="_blank" rel="noreferrer" className="inline-flex items-center justify-center gap-2 w-full px-4 py-2.5 rounded-xl bg-white text-violet-700 font-bold text-xs shadow-lg hover:scale-105 transition-transform">
-<WhatsAppIcon size={14} className="text-emerald-600" />
+                      <WhatsAppIcon size={14} className="text-emerald-600" />
                       <span data-tina-field={tinaField(data.faqs.contactCard, 'whatsappText')}>{data.faqs.contactCard.whatsappText}</span>
                     </a>
                   </div>
@@ -368,7 +400,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
 
                   <div className="flex flex-wrap gap-4">
                     <a href={getWhatsAppLink("Hi! I'd like a free consultation.")} target="_blank" rel="noreferrer" className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-violet-700 font-bold text-sm shadow-xl hover:scale-105 transition-all duration-300">
-<WhatsAppIcon size={16} className="text-emerald-600" />
+                      <WhatsAppIcon size={16} className="text-emerald-600" />
                       <span data-tina-field={tinaField(data.finalCTA.buttons, 'primary')}>{data.finalCTA.buttons.primary}</span>
                       <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                     </a>

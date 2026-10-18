@@ -1,0 +1,372 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600\u0026q=80",
+    "heroBadge":  "Rechtssicher bleiben",
+    "heroTitle":  "Compliance-Dienstleistungen in den VAE",
+    "heroTitleHighlight":  "VAE",
+    "heroSubtitle":  "Umfassende regulatorische Unterstützung für Festland-, Freizonen- und Offshore-Jurisdiktionen. ESR, UBO, Kí¶rperschaftsteuer, Mehrwertsteuer, Geldwí¤schebekí¤mpfung und WPS "“ alles von Experten betreut.",
+    "heroChips":  [
+                      "UBO-Anmeldung",
+                      "ESR-Berichte",
+                      "Null Strafen"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Verbot",
+                      "value":  "1 Million AED",
+                      "label":  "Hí¶chststrafen",
+                      "color":  "von Rot-400 bis Rosé-600"
+                  },
+                  {
+                      "icon":  "ShieldCheck",
+                      "value":  "100%",
+                      "label":  "Einhaltungsrate",
+                      "color":  "von Cyan-400 bis Blau-600"
+                  },
+                  {
+                      "icon":  "DateiText",
+                      "value":  "5+",
+                      "label":  "Ablagearten",
+                      "color":  "von Violett-400 bis Lila-600"
+                  },
+                  {
+                      "icon":  "Benutzer",
+                      "value":  "500+",
+                      "label":  "Bediente Unternehmen",
+                      "color":  "von Smaragdgrün 400 bis Türkis 600"
+                  }
+              ],
+    "uboSection":  {
+                       "badge":  "UBO-Anmeldung",
+                       "title":  "Was ist UBO und warum ist es verpflichtend?",
+                       "titleHighlight":  "Obligatorisch?",
+                       "subtitle":  "Die UBO-Vorschriften verpflichten Unternehmen in den VAE zur Offenlegung derjenigen, die letztendlich die Kontrolle über das Unternehmen ausüben oder von ihm profitieren "“ selbst wenn diese Personen über andere juristische Personen oder Strohmí¤nner agieren.",
+                       "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                       "imageBadgeTitle":  "Obligatorisch",
+                       "imageBadgeText":  "Für jedes Unternehmen in den VAE",
+                       "warningCard":  {
+                                           "label":  "Versí¤umnis der Einreichung",
+                                           "bigNumber":  "Bis zu 100.000 AED",
+                                           "text":  "in BuíŸgeldern + Führerscheinentzug + behí¶rdlichen Ermittlungen",
+                                           "ctaText":  "UBO jetzt einreichen",
+                                           "ctaMessage":  "Hallo! Ich bení¶tige Hilfe bei der UBO-Registrierung für mein Unternehmen in den VAE."
+                                       },
+                       "checklist":  [
+                                         "Identifizieren Sie die wahren wirtschaftlichen Eigentümer.",
+                                         "Struktur Aktioní¤rsinformationen",
+                                         "Einreichung über das MOE-Portal",
+                                         "Vermeiden Sie Verwaltungsstrafen"
+                                     ]
+                   },
+    "servicesSection":  {
+                            "badge":  "Unser Angebot",
+                            "title":  "Umfassende Compliance-Dienstleistungen",
+                            "titleHighlight":  "Dienstleistungen",
+                            "subtitle":  "Wir kümmern uns um alle behí¶rdlichen Meldungen und Verpflichtungen für Sie.",
+                            "items":  [
+                                          {
+                                              "icon":  "Skala",
+                                              "title":  "ESR-Konformití¤t und -Einreichung",
+                                              "description":  "ESR-Anwendbarkeit prüfen, Stoffdeklarationen erstellen, lokale Stoffdaten verwalten und Berichte beim Finanzministerium einreichen.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Quittung",
+                                              "title":  "Unternehmenssteuer und Freihandelsabkommen",
+                                              "description":  "Kí¶rperschaftsteuerregistrierung bei der FTA, Strukturberatung und Berichtspflichten gemí¤íŸ den Vorschriften von 2024.",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Gebí¤ude 2",
+                                              "title":  "Verwaltung der Freizone",
+                                              "description":  "Beschlüsse des Verwaltungsrats, Informationen für Aktioní¤re, Lizenzverlí¤ngerungen und behí¶rdliche Meldungen für DMCC, IFZA, RAKEZ, DAFZA.",
+                                              "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Fingerabdruck",
+                                              "title":  "UBO-Erklí¤rungen",
+                                              "description":  "Ermitteln Sie die wirtschaftlich Berechtigten, strukturieren Sie die Aktioní¤rsinformationen und reichen Sie die UBO-Offenlegungen über das MOE-Portal ein.",
+                                              "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Benutzerprüfung",
+                                              "title":  "Arbeits- und Visabestimmungen",
+                                              "description":  "Prüfung von Mitarbeitervertrí¤gen, Einhaltung der MoHRE-Vorschriften, íœberprüfung des Visastatus, Einstellungs-/Kündigungsverfahren.",
+                                              "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Zwischenablage prüfen",
+                                              "title":  "Umsatzsteuerregistrierung \u0026 -anmeldung",
+                                              "description":  "Umsatzsteuerregistrierung, monatliche/vierteljí¤hrliche Umsatzsteuervoranmeldungen und Vorbereitung auf die FTA-Prüfung "“ vollstí¤ndig auf Ihre Geschí¤ftstí¤tigkeit abgestimmt.",
+                                              "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800\u0026q=80"
+                                          }
+                                      ]
+                        },
+    "esrSection":  {
+                       "badge":  "ESR-Konformití¤t",
+                       "title":  "Was ist ESR und warum ist es wichtig?",
+                       "titleHighlight":  "Warum ist das wichtig?",
+                       "subtitle":  "Die Vorschriften zur wirtschaftlichen Substanz gelten für Unternehmen in den VAE, die entsprechende Tí¤tigkeiten ausüben "“ Beratung, Holding, Schifffahrt, Finanzierung und geistiges Eigentum. Die Einreichung muss fristgerecht und korrekt erfolgen, um Strafen zu vermeiden.",
+                       "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200\u0026q=80",
+                       "ctaText":  "ESR-Unterstützung anfordern",
+                       "ctaMessage":  "Hallo! Ich bení¶tige Hilfe bei der Einhaltung der ESR-Vorschriften und der Einreichung.",
+                       "infoTable":  [
+                                         {
+                                             "label":  "Anwendbare Aktivití¤ten",
+                                             "value":  "Beratung, Holding, Schifffahrt, geistiges Eigentum"
+                                         },
+                                         {
+                                             "label":  "Einreichungsportal",
+                                             "value":  "Finanzministerium"
+                                         },
+                                         {
+                                             "label":  "Einreichungshí¤ufigkeit",
+                                             "value":  "Jí¤hrliche Mitteilung + Bericht"
+                                         },
+                                         {
+                                             "label":  "Strafen",
+                                             "value":  "Bis zu 500.000 AED + Führerscheinentzug"
+                                         }
+                                     ],
+                       "imageBadgeTitle":  "Eingereicht",
+                       "imageBadgeText":  "ESR-Bericht 2025",
+                       "deadlineLabel":  "Ní¤chster Abgabetermin",
+                       "deadlineValue":  "2. Quartal 2026",
+                       "deadlineDays":  "Noch 128 Tage"
+                   },
+    "whoNeedsSection":  {
+                            "badge":  "Wer braucht es?",
+                            "title":  "Wer bení¶tigt Compliance-Dienstleistungen?",
+                            "titleHighlight":  "Compliance-Dienstleistungen?",
+                            "subtitle":  "Jedes Unternehmen in den VAE "“ unabhí¤ngig von Grí¶íŸe oder Zustí¤ndigkeit.",
+                            "items":  [
+                                          {
+                                              "icon":  "Gebí¤ude 2",
+                                              "title":  "Multinationale Unternehmen auf dem Festland",
+                                              "description":  "Mainland LLCs und Niederlassungen, die über verschiedene Gerichtsbarkeiten hinweg tí¤tig sind, müssen die ESR-Vorschriften, die Unternehmenssteuervorschriften und die Vorschriften des MoHRE einhalten.",
+                                              "color":  "von Cyan-400 bis Blau-600"
+                                          },
+                                          {
+                                              "icon":  "Skala",
+                                              "title":  "DNFBPs",
+                                              "description":  "Immobilien, Rechtsberatung, Buchhaltung, Goldhandel "“ müssen sich bei goAML registrieren und einen Compliance-Beauftragten ernennen.",
+                                              "color":  "von Violett-400 bis Lila-600"
+                                          },
+                                          {
+                                              "icon":  "Benutzer",
+                                              "title":  "WPS \u0026 Einhaltung der Arbeitsgesetze",
+                                              "description":  "Unternehmen, die auslí¤ndische Arbeitskrí¤fte einstellen, müssen sicherstellen, dass die Vertrí¤ge dem Arbeitsrecht der VAE und den WPS-Standards entsprechen.",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          },
+                                          {
+                                              "icon":  "Dateisuche",
+                                              "title":  "Unternehmen unter Prüfung",
+                                              "description":  "Unternehmen, die einer Mehrwertsteuer-, Steuer- oder MoHRE-Prüfung unterliegen, bení¶tigen ordnungsgemí¤íŸe Finanz-, Steuer-, Lohn- und Arbeitsdokumentation.",
+                                              "color":  "von Bernstein-400 bis Orange-600"
+                                          },
+                                          {
+                                              "icon":  "Aufwí¤rtstrend",
+                                              "title":  "Unternehmen in Freizonen expandieren",
+                                              "description":  "Unternehmen der DMCC, IFZA, RAKEZ und DAFZA, die expandieren oder umstrukturieren, bení¶tigen eine Compliance-Prüfung.",
+                                              "color":  "von rosa-400 bis rosé-600"
+                                          },
+                                          {
+                                              "icon":  "Globus",
+                                              "title":  "Offshore-Unternehmen",
+                                              "description":  "RAK ICC, JAFZA Offshore "” müssen die wirtschaftlich Berechtigten offenlegen, ESR-Berichte einreichen und die jí¤hrliche Einhaltung der Vorschriften gewí¤hrleisten.",
+                                              "color":  "von Himmel-400 bis Blau-600"
+                                          }
+                                      ]
+                        },
+    "risksSection":  {
+                         "badge":  "Warnung "“ Risiken bei Nichteinhaltung",
+                         "title":  "Was passiert, wenn Sie sich nicht daran halten?",
+                         "titleHighlight":  "Nicht befolgen",
+                         "subtitle":  "Wer sich nicht daran hí¤lt, muss mit Strafen, Lizenzproblemen und Reputationsschí¤den rechnen.",
+                         "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600\u0026q=80",
+                         "items":  [
+                                       {
+                                           "icon":  "Verbot",
+                                           "title":  "Führerscheinentzug oder -annullierung",
+                                           "description":  "Die Nichtabgabe der ESR-, UBO- oder Kí¶rperschaftsteuererklí¤rung kann zur Aussetzung oder zum Entzug Ihrer Gewerbeerlaubnis führen.",
+                                           "color":  "von Rot-400 bis Rosé-600"
+                                       },
+                                       {
+                                           "icon":  "Dollarzeichen",
+                                           "title":  "Geldstrafen bis zu 500.000 AED",
+                                           "description":  "Die FTA, das MoHRE oder die Freizonen verhí¤ngen Geldstrafen "“ von 10.000 AED für kleinere Verstí¶íŸe bis zu 500.000 AED für schwerwiegende.",
+                                           "color":  "von Orange-400 bis Rot-600"
+                                       },
+                                       {
+                                           "icon":  "XCircle",
+                                           "title":  "Visumablehnungen",
+                                           "description":  "Das Ministerium für Humanressourcen und Emiratisierung (MoHRE) und die Einwanderungsbehí¶rde verlangen aktualisierte Arbeitsvertrí¤ge, WPS-Dokumente und sonstige Unterlagen "“ Fehler führen zur Ablehnung von Visa.",
+                                           "color":  "von 400 bis 600 Rosa"
+                                       },
+                                       {
+                                           "icon":  "Abwí¤rtstrend",
+                                           "title":  "Bankverzí¶gerungen",
+                                           "description":  "Unvollstí¤ndige ESR/UBO-Erklí¤rungen oder Steuerprobleme verzí¶gern oder verweigern die Erí¶ffnung von Bankkonten und die Gewí¤hrung von Kreditlinien.",
+                                           "color":  "von Bernstein-400 bis Orange-600"
+                                       },
+                                       {
+                                           "icon":  "Schildalarm",
+                                           "title":  "Persí¶nliche Haftung",
+                                           "description":  "Geschí¤ftsführern und Aktioní¤ren drohen persí¶nliche Geldstrafen, der Ausschluss von der Geschí¤ftsführung oder sogar strafrechtliche Verfolgung.",
+                                           "color":  "von Rot-500 bis Rot-700"
+                                       }
+                                   ]
+                     },
+    "whyChooseUsSection":  {
+                               "badge":  "Warum Sie sich für uns entscheiden sollten",
+                               "title":  "Bleiben Sie zu 100 % regelkonform. Keine Strafen.",
+                               "titleHighlight":  "Keine Strafen.",
+                               "subtitle":  "Wir überwachen jeden Abgabetermin, reichen jeden Bericht ein und stellen sicher, dass Ihr Unternehmen in allen Bereichen "“ vom Festland über die Freizonen bis hin zu den Offshore-Jurisdiktionen "“ vollstí¤ndig mit den Gesetzen der VAE übereinstimmt.",
+                               "ctaText":  "Sprechen Sie mit einem Compliance-Experten",
+                               "ctaMessage":  "Hallo! Ich mí¶chte gerne mehr über Ihre Compliance-Dienstleistungen erfahren.",
+                               "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600\u0026q=80",
+                               "features":  [
+                                                {
+                                                    "icon":  "Vergeben",
+                                                    "label":  "Umfassende Expertise im Regulierungsbereich der VAE"
+                                                },
+                                                {
+                                                    "icon":  "Globus",
+                                                    "label":  "Festland, Freizone \u0026 Offshore"
+                                                },
+                                                {
+                                                    "icon":  "Uhr",
+                                                    "label":  "Echtzeit-Fristenüberwachung"
+                                                },
+                                                {
+                                                    "icon":  "ShieldCheck",
+                                                    "label":  "MOF-, FTA- und MoHRE-Konformití¤t"
+                                                },
+                                                {
+                                                    "icon":  "Auge",
+                                                    "label":  "Vollstí¤ndig transparente Preisgestaltung"
+                                                },
+                                                {
+                                                    "icon":  "Sperren",
+                                                    "label":  "Lokale und globale Standards"
+                                                }
+                                            ],
+                               "dashboard":  {
+                                                 "complianceScore":  "100%",
+                                                 "complianceScoreLabel":  "âœ“ Vollstí¤ndig konform",
+                                                 "filingsPending":  "0",
+                                                 "filingsPendingLabel":  "Alle eingereichten",
+                                                 "checklist":  [
+                                                                   {
+                                                                       "label":  "UBO-Anmeldung",
+                                                                       "status":  "Eingereicht"
+                                                                   },
+                                                                   {
+                                                                       "label":  "ESR-Bericht",
+                                                                       "status":  "Eingereicht"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Kí¶rperschaftsteuer",
+                                                                       "status":  "Eingetragen"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Mehrwertsteuererstattung",
+                                                                       "status":  "Aktuell"
+                                                                   },
+                                                                   {
+                                                                       "label":  "WPS-Gehaltsabrechnung",
+                                                                       "status":  "Konform"
+                                                                   }
+                                                               ]
+                                             }
+                           },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die Einhaltung der Vorschriften in den VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Kostenlose Compliance-Prüfung anfordern",
+                                            "text":  "Wir werden Ihr Unternehmen überprüfen und etwaige Compliance-Lücken aufzeigen.",
+                                            "whatsappMessage":  "Hallo! Ich hí¤tte gerne ein kostenloses Compliance-Audit für mein Unternehmen."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Was versteht man unter Corporate Compliance in den VAE und warum ist sie wichtig?",
+                                          "a":  "Die Einhaltung gesetzlicher Bestimmungen in den VAE bedeutet die Erfüllung aller regulatorischen Anforderungen "“ ESR, UBO, Kí¶rperschaftsteuer, Mehrwertsteuer, AML/CFT und Arbeitsrecht. Sie gewí¤hrleistet, dass Ihr Unternehmen weiterhin lizenziert, bankfí¤hig und rechtlich abgesichert ist."
+                                      },
+                                      {
+                                          "q":  "Wer muss in den VAE die Vorschriften zur wirtschaftlichen Substanz (Economic Substance Regulations, ESR) einreichen?",
+                                          "a":  "Die ESR-Regelung gilt für Unternehmen, die entsprechende Tí¤tigkeiten ausüben "“ Beratung, Holding, Schifffahrt, Finanzierung und geistiges Eigentum. Sie müssen Meldungen und ESR-Berichte beim Finanzministerium einreichen."
+                                      },
+                                      {
+                                          "q":  "Was passiert, wenn ich meine UBO-Meldefristen verpasse?",
+                                          "a":  "Es drohen Geldstrafen von bis zu 100.000 AED, Lizenzentzug und Untersuchungen durch die Freihandelszone oder die Wirtschaftsprüfungsbehí¶rde (DED). Wir helfen Ihnen, dies durch korrekte und fristgerechte Einreichung der Unterlagen zu vermeiden."
+                                      },
+                                      {
+                                          "q":  "Ist die Kí¶rperschaftsteuer für Unternehmen in Freizonen verpflichtend?",
+                                          "a":  "Ja. Unternehmen in Freizonen müssen sich für die Kí¶rperschaftsteuer registrieren. Qualifizierte Einkünfte werden mit 0 % besteuert; nicht qualifizierte Einkünfte werden mit 9 % besteuert."
+                                      },
+                                      {
+                                          "q":  "Bení¶tigen Kleinunternehmen in den VAE Compliance-Dienstleistungen?",
+                                          "a":  "Absolut. Die Verpflichtungen gemí¤íŸ ESR, UBO, Mehrwertsteuer und WPS gelten für alle registrierten Unternehmen "“ unabhí¤ngig von ihrer Grí¶íŸe."
+                                      },
+                                      {
+                                          "q":  "Was versteht man unter AML/CFT-Compliance und wer muss diese einhalten?",
+                                          "a":  "Geldwí¤schebekí¤mpfung / Bekí¤mpfung der Terrorismusfinanzierung. Nichtfinanzielle Unternehmen (Immobilien, Rechtsberatung, Buchhaltung, Goldhandel) müssen sich bei goAML registrieren und einen Compliance-Beauftragten ernennen."
+                                      },
+                                      {
+                                          "q":  "Was ist WPS und wie kann ich die Bestimmungen einhalten?",
+                                          "a":  "Lohnsicherungssystem. Arbeitgeber müssen Gehí¤lter über mit dem Lohnsicherungssystem verknüpfte Bankkonten auszahlen und Aufzeichnungen führen, die den Vorgaben des Ministeriums für Humanressourcen und Emiratisierung (MoHRE) entsprechen."
+                                      },
+                                      {
+                                          "q":  "Werden Sie bei einer staatlichen Prüfung mitwirken?",
+                                          "a":  "Ja. Wir bereiten alle Unterlagen vor, vertreten Sie gegenüber dem Finanzministerium/FTA/MEHRE und sorgen für einen reibungslosen Abschluss des Audits."
+                                      },
+                                      {
+                                          "q":  "Welche Strafen drohen bei Nichteinhaltung?",
+                                          "a":  "Geldstrafen von bis zu 500.000 AED und mehr, Lizenzentzug, Visumablehnungen, Verzí¶gerungen bei Bankgeschí¤ften und persí¶nliche Haftung der Geschí¤ftsführer."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienstleistungen, die sich gut mit Compliance vereinbaren lassen.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "corporate-tax-vat",
+                                                     "title":  "Kí¶rperschaftsteuer \u0026 Mehrwertsteuer",
+                                                     "description":  "Kompetente Steuerberatung, FTA-Registrierung und Compliance.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                                                     "gradient":  "von Smaragdgrün 400 bis Türkis 600"
+                                                 },
+                                                 {
+                                                     "slug":  "accounting",
+                                                     "title":  "Buchhaltung",
+                                                     "description":  "Buchhaltung, Umsatzsteuer und Finanzberichterstattung.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                                                     "gradient":  "von Violett-400 bis Lila-600"
+                                                 },
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Erí¶ffnung eines Bankkontos",
+                                                     "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE mit umfassender KYC-Unterstützung.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "von Himmel-400 bis Blau-600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Einhaltung der Vorschriften",
+                     "title":  "Bereit, die Vorschriften vollstí¤ndig einzuhalten?",
+                     "titleHighlight":  "Vollstí¤ndig konform?",
+                     "subtitle":  "Lassen Sie sich kostenlos über die Einhaltung der Vorschriften informieren. Wir decken Schwachstellen auf, beheben sie schnell und schützen Ihr Unternehmen vor Strafen.",
+                     "chips":  [
+                                   "Kostenlose Prüfung",
+                                   "Null Strafen",
+                                   "Vollstí¤ndige Einhaltung"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne ein kostenloses Compliance-Audit für mein Unternehmen.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über die Einhaltung der Vorschriften für mein Unternehmen sprechen."
+                 }
+}

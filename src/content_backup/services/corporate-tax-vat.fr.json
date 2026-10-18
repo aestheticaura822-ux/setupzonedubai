@@ -1,0 +1,326 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600\u0026q=80",
+    "heroBadge":  "Restez en conformité et évitez les pénalités.",
+    "heroTitle":  "Services fiscaux et de TVA pour les entreprises aux Émirats arabes unis",
+    "heroTitleHighlight":  "Émirats arabes unis",
+    "heroSubtitle":  "Conseils fiscaux d\u0027experts, inscription À  l\u0027ALE et services de conformité pour garantir l\u0027absence de pénalités pour votre entreprise aux Émirats arabes unis. Déclarations de TVA, déclarations d\u0027impôt sur les sociétés : nous prenons tout en charge.",
+    "heroChips":  [
+                      "Enregistré auprès de la FTA",
+                      "Plus de 15 ans d\u0027expérience",
+                      "Plus de 500 clients"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Pour cent",
+                      "value":  "9%",
+                      "label":  "Taux d\u0027imposition des sociétés",
+                      "color":  "de-émeraude-400 À -turquoise-600"
+                  },
+                  {
+                      "icon":  "ReÀ§u",
+                      "value":  "5%",
+                      "label":  "Taux de TVA",
+                      "color":  "du ciel 400 au bleu 600"
+                  },
+                  {
+                      "icon":  "Tendances À  la hausse",
+                      "value":  "375K",
+                      "label":  "Seuil de l\u0027AED",
+                      "color":  "de violet 400 À  pourpre 600"
+                  },
+                  {
+                      "icon":  "Utilisateurs",
+                      "value":  "Plus de 500",
+                      "label":  "Dépôts effectués",
+                      "color":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Comprendre les bases",
+                          "title":  "Que sont l\u0027impôt sur les sociétés et la TVA aux Émirats arabes unis ?",
+                          "titleHighlight":  "ÉMIRATS ARABES UNIS?",
+                          "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Administré par",
+                          "imageBadgeText":  "Autorité fiscale fédérale (FTA)",
+                          "paragraphs":  [
+                                             "Aux Émirats arabes unis, les entreprises sont soumises À  deux régimes fiscaux : l"™impôt sur les sociétés et la taxe sur la valeur ajoutée (TVA). L"™impôt sur les sociétés est fixé À  9 % pour les entreprises dont le bénéfice net annuel dépasse 375 000 AED. La TVA est appliquée À  la plupart des biens et services au taux de 5 %.",
+                                             "Ces deux taxes sont administrées par l\u0027Administration fiscale fédérale (FTA). Bien que la FTA les gère toutes deux, elles requièrent une inscription distincte, des déclarations exactes et une tenue de registres rigoureuse. Le non-respect des échéances entraîne des pénalités ; il est donc essentiel de gérer soigneusement la documentation."
+                                         ],
+                          "highlights":  [
+                                             "Enregistré auprès de l\u0027FTA",
+                                             "Conformité sans pénalité",
+                                             "Conseils fiscaux d\u0027experts",
+                                             "Expertise en zone franche"
+                                         ]
+                      },
+    "whoNeedsSection":  {
+                            "badge":  "Indispensable pour les entreprises des Émirats arabes unis",
+                            "title":  "Qui a besoin de services en matière de fiscalité des entreprises et de TVA ?",
+                            "titleHighlight":  "Services de TVA ?",
+                            "subtitle":  "Si votre entreprise entre dans l\u0027une de ces catégories, des services fiscaux professionnels sont essentiels.",
+                            "items":  [
+                                          {
+                                              "icon":  "Bâtiment 2",
+                                              "title":  "Entreprises imposables aux Émirats arabes unis",
+                                              "description":  "Toutes les sociétés du territoire continental et des zones franches doivent s\u0027enregistrer, déposer des déclarations et se conformer aux lois des Émirats arabes unis en matière d\u0027impôt sur les sociétés et de TVA.",
+                                              "badge":  "Primaire",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200\u0026q=80",
+                                              "gradient":  "de-émeraude-600/95 via-turquoise-600/85 vers-transparent"
+                                          },
+                                          {
+                                              "icon":  "Tendances À  la hausse",
+                                              "title":  "Entreprises dont le chiffre d\u0027affaires dépasse 375 000 AED",
+                                              "description":  "Si votre bénéfice net annuel dépasse 375 000 AED, vous êtes soumis au régime de l"™impôt sur les sociétés et devez payer 9 % sur les bénéfices applicables.",
+                                              "miniStat":  "375 000 AED+",
+                                              "miniStatLabel":  "seuil de profit annuel"
+                                          },
+                                          {
+                                              "icon":  "ReÀ§u",
+                                              "title":  "TVA supérieure À  375 000 AED",
+                                              "description":  "Si vos fournitures imposables dépassent 375 000 AED sur 12 mois, l"™enregistrement À  la TVA est obligatoire avec des déclarations trimestrielles ou mensuelles.",
+                                              "miniStat":  "Trimestriel",
+                                              "miniStatLabel":  "Obligation de déclaration de TVA"
+                                          },
+                                          {
+                                              "icon":  "Globe",
+                                              "title":  "Entreprises d\u0027expansion mondiale",
+                                              "description":  "Les entreprises qui se développent, se restructurent ou créent des groupes fiscaux ont besoin de conseils d\u0027experts en matière de conformité et de rapports financiers.",
+                                              "badge":  "Mondial",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                                              "gradient":  "de violet 600/95 via pourpre 600/85 À  transparent"
+                                          }
+                                      ],
+                            "indicators":  [
+                                               {
+                                                   "icon":  "Vérification du bouclier",
+                                                   "label":  "Enregistré auprès de la FTA"
+                                               },
+                                               {
+                                                   "icon":  "Prix",
+                                                   "label":  "Experts certifiés"
+                                               },
+                                               {
+                                                   "icon":  "Vérification de fichiers",
+                                                   "label":  "Documents prêts pour l\u0027audit"
+                                               }
+                                           ]
+                        },
+    "servicesSection":  {
+                            "badge":  "Soutien fiscal complet",
+                            "title":  "Que comprennent nos services ?",
+                            "titleHighlight":  "Inclure?",
+                            "subtitle":  "Solutions fiscales complètes "” de l\u0027immatriculation À  l\u0027assistance en cas de contrôle fiscal.",
+                            "items":  [
+                                          {
+                                              "icon":  "Vérification de fichiers",
+                                              "title":  "Inscription et déclaration fiscales",
+                                              "description":  "Inscrivez-vous auprès de la FTA, déterminez vos bénéfices imposables et soumettez des déclarations exactes dans les délais impartis."
+                                          },
+                                          {
+                                              "icon":  "ReÀ§u",
+                                              "title":  "Configuration et mises À  jour de la TVA",
+                                              "description":  "Effectuer l\u0027enregistrement complet À  la TVA, les modifications et l\u0027annulation le cas échéant."
+                                          },
+                                          {
+                                              "icon":  "Calculatrice",
+                                              "title":  "Déclaration de TVA",
+                                              "description":  "Préparer et soumettre avec précision les déclarations de TVA trimestrielles ou mensuelles À  l\u0027Autorité fiscale fédérale (FTA)."
+                                          },
+                                          {
+                                              "icon":  "Tendances À  la hausse",
+                                              "title":  "Suivi et rapprochement de la TVA",
+                                              "description":  "Suivre la TVA en amont et en aval, effectuer le rapprochement et documenter les crédits nécessaires."
+                                          },
+                                          {
+                                              "icon":  "Prix",
+                                              "title":  "Remboursements d\u0027impôt et conformité",
+                                              "description":  "Gérer les demandes de remboursement lorsque la TVA déductible excède la TVA collectée ou pour les nouvelles entreprises."
+                                          },
+                                          {
+                                              "icon":  "Texte du fichier",
+                                              "title":  "Comptabilité et conseil",
+                                              "description":  "Tenue de livres et de registres structurée pour répondre aux exigences de la FTA."
+                                          },
+                                          {
+                                              "icon":  "Vérification du bouclier",
+                                              "title":  "Soutien À  l\u0027audit de la FTA",
+                                              "description":  "Documentation complète, états financiers et représentation lors des audits."
+                                          },
+                                          {
+                                              "icon":  "Mallette",
+                                              "title":  "Conseils et structuration fiscale",
+                                              "description":  "Planification fiscale, structures de groupe et mises À  jour trimestrielles sur la législation."
+                                          }
+                                      ]
+                        },
+    "whyChooseUsSection":  {
+                               "badge":  "Pourquoi nous choisir ?",
+                               "title":  "Experts fiscaux de confiance aux Émirats arabes unis",
+                               "titleHighlight":  "Experts",
+                               "subtitle":  "Nous possédons une connaissance approfondie du droit fiscal des sociétés et de la TVA aux Émirats arabes unis, garantissant ainsi la conformité de votre entreprise et sa préparation aux audits. Nos experts-comptables, conseillers juridiques et spécialistes de la conformité agréés gèrent l\u0027intégralité de vos démarches d\u0027enregistrement auprès de l\u0027Autorité fiscale fédérale (FTA) et de déclaration fiscale.",
+                               "image":  "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1200\u0026q=80",
+                               "features":  [
+                                                "Experts-comptables et fiscalistes agréés",
+                                                "Tarification transparente "” sans frais cachés",
+                                                "Suivi en temps réel et notifications d\u0027échéance",
+                                                "Expertise en zones franches, sur le continent et en mer",
+                                                "Des registres prêts À  être audités, conservés pour vous"
+                                            ],
+                               "floatingCards":  {
+                                                     "experience":  {
+                                                                        "label":  "Expérience",
+                                                                        "value":  "Plus de 15 ans"
+                                                                    },
+                                                     "clients":  {
+                                                                     "label":  "Clients",
+                                                                     "value":  "Plus de 500 personnes servies"
+                                                                 }
+                                                 }
+                           },
+    "penaltiesSection":  {
+                             "badge":  "Avertissement "” Ne négligez pas les échéances",
+                             "title":  "Sanctions en cas de non-respect",
+                             "titleHighlight":  "Non-conformité",
+                             "subtitle":  "L\u0027Autorité fiscale fédérale (FTA) impose des amendes importantes en cas d\u0027inscription tardive, de dépôts manquants et de déclarations inexactes.",
+                             "items":  [
+                                           {
+                                               "icon":  "Horloge",
+                                               "title":  "Inscription tardive",
+                                               "amount":  "10 000 AED",
+                                               "description":  "Amende forfaitaire pour défaut d\u0027inscription À  l\u0027impôt sur les sociétés dans les délais impartis."
+                                           },
+                                           {
+                                               "icon":  "Texte du fichier",
+                                               "title":  "Déclaration tardive de TVA",
+                                               "amount":  "500 À  1 000 AED/mois",
+                                               "description":  "Pénalité mensuelle pour chaque déclaration de TVA soumise en retard."
+                                           },
+                                           {
+                                               "icon":  "AlertTriangle",
+                                               "title":  "Retours incorrects",
+                                               "amount":  "1 000 À  5 000 AED",
+                                               "description":  "Pénalité pour déclarations inexactes ou sous-déclaration des impôts."
+                                           }
+                                       ]
+                         },
+    "freeZoneSection":  {
+                            "badge":  "Règles spéciales pour les zones franches",
+                            "title":  "Les entreprises des zones franches paient-elles l\u0027impôt sur les sociétés ?",
+                            "titleHighlight":  "Impôt sur les sociétés ?",
+                            "subtitle":  "La réglementation fiscale des zones franches est complexe "” voici ce que vous devez savoir.",
+                            "items":  [
+                                          {
+                                              "icon":  "CheckCircle2",
+                                              "title":  "Exonération fiscale en zone franche",
+                                              "description":  "Certaines entités de zones franches peuvent bénéficier d\u0027un taux d\u0027imposition sur les sociétés de 0 %, sous réserve des conditions fixées par le ministère des Finances des Émirats arabes unis.",
+                                              "color":  "de-émeraude-400 À -turquoise-600"
+                                          },
+                                          {
+                                              "icon":  "AlertTriangle",
+                                              "title":  "Revenus extérieurs imposables",
+                                              "description":  "Les revenus provenant de transactions sur le continent ou de sources non admissibles (revenus passifs, intérêts) peuvent être imposés au taux standard de 9 %.",
+                                              "color":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                                          },
+                                          {
+                                              "icon":  "Vérification du bouclier",
+                                              "title":  "Vérification et conseils en matière d\u0027exemption",
+                                              "description":  "Nous évaluons votre modèle d\u0027entreprise, vos sources de revenus et votre structure afin de déterminer votre admissibilité aux exemptions et les options de restructuration.",
+                                              "color":  "du ciel 400 au bleu 600"
+                                          }
+                                      ]
+                        },
+    "faqsSection":  {
+                        "badge":  "Questions fréquentes",
+                        "title":  "Foire aux questions",
+                        "titleHighlight":  "Questions",
+                        "subtitle":  "Tout ce que vous devez savoir sur l\u0027impôt sur les sociétés et la TVA aux Émirats arabes unis. Vous ne trouvez pas ce que vous cherchez ? Nos experts sont À  votre disposition.",
+                        "sidebarCard":  {
+                                            "title":  "Vous avez encore des questions ?",
+                                            "text":  "Nos experts fiscaux sont À  votre disposition. Obtenez une consultation gratuite dès aujourd\u0027hui."
+                                        },
+                        "miniStats":  [
+                                          {
+                                              "value":  "24h",
+                                              "label":  "Temps de réponse"
+                                          },
+                                          {
+                                              "value":  "100%",
+                                              "label":  "Consultation gratuite"
+                                          }
+                                      ],
+                        "items":  [
+                                      {
+                                          "q":  "L\u0027impôt sur les sociétés est-il obligatoire pour les entreprises À  Dubaï ?",
+                                          "a":  "Oui. L\u0027impôt sur les sociétés est obligatoire pour les entreprises des Émirats arabes unis dont le bénéfice net annuel dépasse 375 000 AED. Toutes les entreprises concernées doivent s\u0027enregistrer auprès de l\u0027Autorité fiscale fédérale (FTA) et soumettre leurs déclarations."
+                                      },
+                                      {
+                                          "q":  "Quand une entreprise doit-elle s\u0027enregistrer À  la TVA aux Émirats arabes unis ?",
+                                          "a":  "L\u0027immatriculation À  la TVA est obligatoire lorsque le chiffre d\u0027affaires imposable dépasse 375 000 AED par an. L\u0027immatriculation volontaire est possible au-delÀ  de 187 500 AED."
+                                      },
+                                      {
+                                          "q":  "Quels documents sont nécessaires pour l\u0027immatriculation À  l\u0027impôt sur les sociétés et À  la TVA ?",
+                                          "a":  "Licence commerciale, statuts, copies de passeport, carte d\u0027identité émirienne, états financiers et coordonnées bancaires : nous préparons et vérifions tous les documents pour vous."
+                                      },
+                                      {
+                                          "q":  "L\u0027impôt sur les sociétés s\u0027applique-t-il aux entreprises situées en zone franche ?",
+                                          "a":  "Oui, mais sous conditions. Les entités éligibles situées en zone franche peuvent bénéficier d\u0027un taux d\u0027imposition de 0 % sur leurs revenus éligibles. Les revenus non éligibles sont imposés À  9 %."
+                                      },
+                                      {
+                                          "q":  "Quelle est la pénalité en cas de non-respect de la date limite de déclaration de TVA ?",
+                                          "a":  "Les pénalités varient de 500 À  1 000 AED par mois pour un dépôt tardif, auxquelles s\u0027ajoutent des amendes en cas de violations répétées."
+                                      },
+                                      {
+                                          "q":  "Puis-je demander le remboursement de la TVA aux Émirats arabes unis ?",
+                                          "a":  "Oui. Si votre TVA déductible est supérieure À  votre TVA collectée, vous pouvez demander un remboursement. Nous nous chargeons de l\u0027intégralité du processus de remboursement."
+                                      },
+                                      {
+                                          "q":  "Comment Setup Zone Dubai peut-il vous aider lors d\u0027un audit de la FTA ?",
+                                          "a":  "Nous préparons toute la documentation, assurons la coordination avec les représentants de la FTA et vous représentons tout au long du processus d\u0027audit."
+                                      },
+                                      {
+                                          "q":  "Quels sont les coûts associés aux services de déclaration d\u0027impôt sur les sociétés et de TVA ?",
+                                          "a":  "Nos tarifs sont transparents et adaptés À  la taille et À  la complexité de votre entreprise. Contactez-nous pour un devis personnalisé sans frais cachés."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Services connexes",
+                                   "titleHighlight":  "Services",
+                                   "subtitle":  "Des services parfaitement adaptés À  la conformité en matière d\u0027impôt sur les sociétés et de TVA.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "accounting",
+                                                     "title":  "Comptabilité",
+                                                     "description":  "Comptabilité, paie et rapports financiers.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                                                     "gradient":  "de violet 400 À  pourpre 600"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Services de conformité",
+                                                     "description":  "Déclarations UBO, rapports ESR et soutien réglementaire.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "de cyan 400 À  bleu 600"
+                                                 },
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Ouverture de compte bancaire",
+                                                     "description":  "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "du ciel 400 au bleu 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Entrer en contact",
+                     "title":  "Prêt À  rester en conformité avec la législation fiscale ?",
+                     "titleHighlight":  "Conforme aux exigences fiscales ?",
+                     "subtitle":  "Obtenez une consultation gratuite avec nos experts fiscaux et ne vous souciez plus jamais des échéances fiscales. Rendez-vous À  notre bureau de Business Bay ou contactez-nous en ligne : nous nous occupons de tout.",
+                     "chips":  [
+                                   "Plus de 15 ans d\u0027expérience",
+                                   "Plus de 500 clients satisfaits",
+                                   "Enregistré auprès de la FTA"
+                               ],
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite concernant les services de fiscalité des entreprises et de TVA."
+                 }
+}

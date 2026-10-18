@@ -1,0 +1,571 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "45个以上的自由区。100%所有权。",
+  "heroTitle": "阿联酋自由区公司设立",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "在阿联酋45多个自由区之一设立您的公司。100%外资所有权，0%税收，利润全额汇回——所有这一切只需3-7天即可完成。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "3-7天安装完成",
+    "45+自由区"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "45岁以上",
+      "label": "自由区",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "企业所得税",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "它是什么？",
+    "title": "什么是自由区公司？",
+    "titleHighlight": "自由区公司？",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "免税区",
+    "imageBadgeText": "100% 所有权",
+    "paragraphs": [
+      "阿联酋自由区公司是指获得迪拜、阿布扎比、沙迦及其他酋长国45多个自由区之一颁发的营业执照的企业。它提供免税环境，并允许100%外资所有权。",
+      "自由区公司可以在自由区内、阿联酋境内（通过分销商）以及国际范围内自由贸易。但它们不能直接在阿联酋本土市场进行贸易。",
+      "热门自由区包括IFZA、DMCC、迈丹、DAFZA、JAFZA、RAKEZ、SHAMS和迪拜商业城——每个自由区都针对不同的商业活动提供独特的优惠政策。在迪拜创业中心，我们会根据您的目标，帮助您选择最合适的自由区。"
+    ],
+    "highlights": [
+      "100% 外资所有",
+      "0% 企业所得税",
+      "利润汇回",
+      "免税优惠",
+      "快速设置",
+      "45+ 个区域可供选择"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "许可选项",
+    "title": "您可以获得哪些自由区许可证？",
+    "titleHighlight": "自由区许可证",
+    "subtitle": "滑动浏览 6 种许可证类型——选择适合您企业的许可证类型。",
+    "items": [
+      {
+        "id": "commercial",
+        "icon": "StoreIcon",
+        "title": "商业许可",
+        "tagline": "买卖和交易",
+        "description": "适用于贸易公司、进出口企业、批发商、零售商和分销商。可在自由区内、阿联酋境内以及国际范围内自由贸易。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": [
+          "进出口",
+          "批发与零售",
+          "一般贸易",
+          "全球销售"
+        ],
+        "bestFor": "交易员"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "专业/服务许可证",
+        "tagline": "专业技术与咨询",
+        "description": "适用于拥有 100% 所有权的顾问、IT 服务、营销机构、教育工作者、教练和专业服务提供商。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": [
+          "顾问",
+          "IT服务",
+          "营销",
+          "教育"
+        ],
+        "bestFor": "顾问"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "工业许可证",
+        "tagline": "制造与生产",
+        "description": "用于在指定自由区内进行制造、生产、组装和工业运营，并可使用工业用地和基础设施。",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "制造业",
+          "生产",
+          "集会",
+          "工业用地"
+        ],
+        "bestFor": "制造商"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "tagline": "数字化优先型企业",
+        "description": "适用于拥有 100% 所有权、低成本和免税环境的在线商店、数字市场、代发货和电子商务平台。",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "在线商店",
+          "数字市场",
+          "代发货",
+          "全球影响力"
+        ],
+        "bestFor": "电子商务卖家"
+      },
+      {
+        "id": "freelancer",
+        "icon": "Laptop",
+        "title": "自由职业者许可证",
+        "tagline": "个人专业人士",
+        "description": "适用于自由职业者、顾问、设计师、开发人员、作家和数字游民。非常适合希望获得法律认可、开具发票和签证资格的独立专业人士。",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "个人专业人士",
+          "法律发票",
+          "符合签证资格",
+          "低成本"
+        ],
+        "bestFor": "自由职业者"
+      },
+      {
+        "id": "holding",
+        "icon": "Crown",
+        "title": "持有许可证",
+        "tagline": "公司架构",
+        "description": "适用于控股公司、投资机构和资产管理公司。管理子公司、房地产、知识产权和投资，但不从事商业活动。",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "控股公司",
+          "投资工具",
+          "资产管理",
+          "财富结构"
+        ],
+        "bestFor": "投资者和高净值人士"
+      }
+    ]
+  },
+  "topFreeZonesSection": {
+    "badge": "45+自由区",
+    "title": "我们服务的顶级自由区",
+    "titleHighlight": "自由区",
+    "subtitle": "从IFZA到迪拜商业城——我们拥有覆盖阿联酋所有自由区的专业知识。",
+    "items": [
+      {
+        "name": "IFZA",
+        "tagline": "灵活且价格实惠",
+        "color": "from-emerald-500 to-teal-700"
+      },
+      {
+        "name": "DMCC",
+        "tagline": "商品与贸易",
+        "color": "from-teal-500 to-cyan-700"
+      },
+      {
+        "name": "迈丹",
+        "tagline": "低成本设置",
+        "color": "from-cyan-500 to-sky-700"
+      },
+      {
+        "name": "迪拜机场自由区",
+        "tagline": "航空与物流",
+        "color": "from-sky-500 to-blue-700"
+      },
+      {
+        "name": "杰贝阿里自由区",
+        "tagline": "工业与贸易",
+        "color": "from-blue-500 to-indigo-700"
+      },
+      {
+        "name": "拉凯兹",
+        "tagline": "低成本多部门",
+        "color": "from-indigo-500 to-violet-700"
+      },
+      {
+        "name": "沙姆斯",
+        "tagline": "自由职业者和中小企业",
+        "color": "from-violet-500 to-purple-700"
+      },
+      {
+        "name": "迪拜商业城",
+        "tagline": "电子商务中心",
+        "color": "from-purple-500 to-fuchsia-700"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "自由区优势",
+    "title": "自由区设立的优势",
+    "titleHighlight": "自由区设立",
+    "subtitle": "阿联酋自由区公司的八大优势。",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "100% 外资所有",
+        "description": "完全拥有您在阿联酋的企业——无需当地阿联酋担保人或阿联酋国民合作伙伴。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "企业及个人所得税均为 0%。",
+        "description": "免税环境，企业所得税为0%，个人所得税为0%，利润全部留存。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "全额利润汇回",
+        "description": "您可以不受任何货币限制地将100%的资本和利润汇回国内。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Package",
+        "title": "免税优惠",
+        "description": "自由区内免征进出口关税——非常适合贸易、电子商务和物流。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速安装",
+        "description": "3-7天内即可获得许可证，文件流程简化，并可远程注册。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "灵活办公解决方案",
+        "description": "您可以选择灵活办公桌、联合办公空间、私人办公室或仓库——所有空间均可立即使用。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "公司银行账户",
+        "description": "在阿联酋顶级银行开设企业银行账户——提供KYC和文件方面的全面支持。",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "六步流程",
+    "title": "如何获得自由区许可证",
+    "titleHighlight": "自由区许可证",
+    "subtitle": "六个简单步骤，助您轻松创办自由区公司。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "选择您的自由区",
+        "description": "我们会根据您的业务活动、预算和长期目标，帮助您选择最佳的自由区。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "预留商标",
+        "description": "向自由区管理机构预留您的公司名称——通常几个小时内即可获得批准。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "许可证申请",
+        "description": "请提交申请，并附上护照复印件、商业计划书和所需文件。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "icon": "Building2",
+        "title": "选择办公空间",
+        "description": "根据您的许可证，选择灵活办公桌、联合办公空间、私人办公室或仓库。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "05",
+        "icon": "ScrollText",
+        "title": "领取您的许可证",
+        "description": "获取您的自由区贸易许可证——通常在 3-7 个工作日内签发。",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "自由区与大陆",
+    "title": "比较您的选项",
+    "titleHighlight": "比较",
+    "subtitle": "一眼就能看出区别，做出正确的选择。",
+    "items": [
+      {
+        "factor": "所有权",
+        "freezone": "100% 外资",
+        "mainland": "100%（大多数）",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "factor": "设置时间",
+        "freezone": "3-7天",
+        "mainland": "2-4周",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "factor": "成本",
+        "freezone": "降低",
+        "mainland": "更高",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "factor": "税",
+        "freezone": "0% 企业",
+        "mainland": "0-9% 公司",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "factor": "阿联酋市场",
+        "freezone": "有限的",
+        "mainland": "完全访问权限",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "factor": "政府合同",
+        "freezone": "不",
+        "mainland": "是的",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "所需文件",
+    "title": "你需要提交的内容",
+    "titleHighlight": "需要提交",
+    "items": [
+      {
+        "icon": "Camera",
+        "label": "护照照片",
+        "desc": "白色背景"
+      },
+      {
+        "icon": "FileText",
+        "label": "商业计划",
+        "desc": "某些自由区"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "3 个拟定名称",
+        "desc": "按优先顺序"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "商业活动",
+        "desc": "来自已批准名单"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "地址证明",
+        "desc": "水电费账单/银行对账单"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "NOC证书",
+        "desc": "适用于阿联酋居民"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "简历/职业简介",
+        "desc": "用于专业活动"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "您值得信赖的自由区合作伙伴",
+    "titleHighlight": "自由区合作伙伴",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "45+个自由区专业知识",
+        "desc": "对阿联酋所有自由区有深入了解"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速安装，3-7天即可完成。",
+        "desc": "简化流程，快速启动"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "绝无任何隐藏费用"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "专属顾问",
+        "desc": "全程私人顾问"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语、乌尔都语"
+      },
+      {
+        "icon": "Bank",
+        "label": "企业银行支持",
+        "desc": "阿联酋顶级银行网络"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "持续合规",
+        "desc": "续订、专业版和更新"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千用户信赖",
+    "titleHighlight": "数千",
+    "subtitle": "您的自由贸易区搭建，由专家团队为您服务。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10,000+",
+        "label": "公司成立",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "45岁以上",
+        "label": "自由区",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "设置专家",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "3-7",
+        "label": "设置天数",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "合规",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "设置合作伙伴",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于阿联酋自由区公司设立，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的自由贸易区专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于阿联酋自由区公司设立的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是阿联酋自由区公司？",
+        "a": "自由区公司是指获得阿联酋45个以上自由区之一颁发的营业执照的企业。它允许100%外资所有权、0%的企业所得税以及全部利润汇回——但通常不能直接在阿联酋本土市场进行贸易。"
+      },
+      {
+        "q": "哪个自由区最适合我的业务？",
+        "a": "这取决于您的业务类型、预算和目标。IFZA 和 Meydan 非常适合初创企业和中小企业。DMCC 适合大宗商品贸易。DAFZA 适合航空和物流行业。我们会根据您的商业模式，帮助您选择最合适的园区。"
+      },
+      {
+        "q": "设立一家自由区公司需要多少费用？",
+        "a": "在自由区设立公司，基本许可证套餐起价约为 5,750 迪拉姆。最终费用取决于自由区、许可证类型、办公空间和签证配额。我们提供透明的全包价格。"
+      },
+      {
+        "q": "获得自由贸易区许可证需要多长时间？",
+        "a": "通常情况下，只要文件齐全，即可在 3-7 个工作日内办理完毕。部分自由区可通过我们的优先网络提供当日或次日办理许可证的服务。"
+      },
+      {
+        "q": "我可以拥有自由区公司100%的股份吗？",
+        "a": "是的。阿联酋所有自由区都允许100%外资所有权——无需当地担保人或阿联酋籍合伙人。"
+      },
+      {
+        "q": "我可以通过我在自由区的公司担保我的家人吗？",
+        "a": "是的。根据自由区的规定和您的签证配额，您可以为自己申请投资者签证，为员工申请雇员签证，为家庭成员申请家属签证。"
+      },
+      {
+        "q": "自由区公司可以在阿联酋本土进行贸易吗？",
+        "a": "不。自由区公司不能直接在阿联酋大陆市场进行贸易。但是，它们可以通过当地分销商或代理商开展业务，而且一些自由区提供双重牌照选项。"
+      },
+      {
+        "q": "自由区有哪些办公空间可供选择？",
+        "a": "自由区提供灵活办公桌、联合办公空间、私人办公室、行政套房、仓库和工业单元——具体取决于您的业务活动和许可证类型。"
+      },
+      {
+        "q": "我可以用自由区牌照开设公司银行账户吗？",
+        "a": "是的。我们提供在阿联酋顶级银行开设公司银行账户的全程协助——包括KYC准备、文件准备和后续跟进。"
+      },
+      {
+        "q": "为什么选择迪拜Setup Zone进行自由区设立？",
+        "a": "我们在阿联酋 45 多个自由区拥有丰富的专业知识，提供透明的定价，提供端到端的支持（许可证、签证、银行、PRO、合规），并拥有超过 10,000 个成功案例的良好记录。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与自由区公司设立配套的服务。",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸结构。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "free-zone-locations",
+        "title": "自由区位置指南",
+        "description": "比较阿联酋全部45个以上的自由区。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "ecommerce-license",
+        "title": "迪拜电子商务许可证",
+        "description": "在迪拜建立您的在线业务。",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "预计3-7天内发布",
+    "title": "准备好设立您的自由区公司了吗？",
+    "titleHighlight": "自由区公司？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个流程——从选择合适的自由区到许可证发放和银行账户开设。",
+    "chips": [
+      "免费咨询",
+      "3-7天安装完成",
+      "100% 所有权"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于在阿联酋自由区设立公司的相关事宜，希望获得免费咨询。",
+    "whatsappCardMessage": "您好！我想咨询一下阿联酋自由区公司设立的相关事宜。"
+  }
+}

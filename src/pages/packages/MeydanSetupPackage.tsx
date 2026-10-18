@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import meydanPackageData from '../../content/packages/meydan-setup-package.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, Target, Crown, Store: StoreIcon, UserCheck,
@@ -30,8 +31,9 @@ const iconMap: any = {
 };
 
 export default function MeydanSetupPackage({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || meydanPackageData;
-
+  const { language } = useLanguage();
+  const meydanFallback = loadContent('packages/meydan-setup-package', language);
+  const data = tinaData?.data?.packages || meydanFallback;
   return (
     <div className="min-h-screen bg-white">
 

@@ -1,0 +1,428 @@
+{
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Serbest Bölgeler",
+                 "breadcrumbLabel":  "Dubai Sağlık Şehri",
+                 "badge":  "Dubai Sağlık Şehri",
+                 "title":  "Dubai Sağlık Şehri",
+                 "titleHighlight":  "Sağlık Şehri",
+                 "subtitle":  "Dünyanın en büyük sağlık ve sağlıklı yaşam serbest bölgesi. Dubai\u0027nin önde gelen sağlık merkezinde tıbbi, ilaç veya sağlıklı yaşam işletmenizi kurun.",
+                 "ctaPrimaryText":  "Ücretsiz Danışmanlık Alın",
+                 "ctaPrimaryLink":  "#temas etmek",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Merhaba! Dubai Sağlık Şehri Serbest Bölgesi\u0027nin kurulmasıyla ilgileniyorum.",
+                 "badges":  [
+                                "%100 Sahiplik",
+                                "%0 Vergi",
+                                "Tıp Merkezi",
+                                "3-5 Gün Kurulum"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Bina 2",
+                      "value":  "500+",
+                      "label":  "Sağlık Ortakları",
+                      "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Vergi Oranı",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-5",
+                      "label":  "Kurulum Günleri",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "DHCC Tıp Merkezi",
+                          "totalLabel":  "Alan",
+                          "totalValue":  "Dubai, Birleşik Arap Emirlikleri",
+                          "statusBadge":  "Aktif",
+                          "metrics":  [
+                                          {
+                                              "label":  "Kurulum Süresi",
+                                              "value":  "3-5 Gün",
+                                              "color":  "metin-turkuaz-600"
+                                          },
+                                          {
+                                              "label":  "Ortaklar",
+                                              "value":  "500+",
+                                              "color":  "metin-camgöbeği-600"
+                                          }
+                                      ]
+                      },
+    "whyDhcc":  {
+                    "badge":  "Neden DHCC?",
+                    "title":  "Dubai Sağlık Şehri\u0027ni Neden Seçmelisiniz?",
+                    "titleHighlight":  "Dubai Sağlık Şehri?",
+                    "subtitle":  "Bölgenin yalnızca sağlık hizmetleri, sağlıklı yaşam ve tıp eğitimine adanmış tek serbest bölgesi.",
+                    "smallCards":  [
+                                       {
+                                           "icon":  "Küre",
+                                           "title":  "%100 Yabancı Mülkiyeti",
+                                           "description":  "Yerel sponsora gerek kalmadan tam mülkiyet "” tıbbi uygulamanız üzerinde tam kontrol.",
+                                           "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Dolar İşareti",
+                                           "title":  "%0 Vergi Ortamı",
+                                           "description":  "Kurumlar veya kişisel gelir vergisi yok "” sağlık hizmetleri işletmenizin karlılığını en üst düzeye çıkarın.",
+                                           "color":  "from-emerald-400 to-teal-600"
+                                       },
+                                       {
+                                           "icon":  "Kalkan Kontrolü",
+                                           "title":  "DHA Düzenleyici Desteği",
+                                           "description":  "Dubai Sağlık Otoritesi\u0027nin lisanslama ve düzenleme çerçevesine doğrudan erişim.",
+                                           "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                       }
+                                   ],
+                    "largeCard":  {
+                                      "icon":  "Kalp Atışı",
+                                      "title":  "Dünyanın En Büyük Sağlık Hizmetinden Arındırılmış Bölgesi",
+                                      "description":  "500\u0027den fazla sağlık hizmeti ortağına, dünya standartlarında hastanelere, kliniklere ve tıp eğitim kurumlarına ev sahipliği yapıyor; üstelik entegre lisanslama ve altyapıya sahip.",
+                                      "image":  "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200\u0026q=80"
+                                  },
+                    "smallCard2":  {
+                                       "icon":  "Bina 2",
+                                       "title":  "Entegre Tıbbi Ekosistem",
+                                       "description":  "Hastaneler, klinikler, eczaneler, laboratuvarlar ve araştırma merkezlerinin tamamı, özel olarak inşa edilmiş tek bir bölgede yer alıyor.",
+                                       "color":  "from-teal-500 via-cyan-600 to-teal-700"
+                                   }
+                },
+    "whoCanOpenSection":  {
+                              "badge":  "Kimler Açabilir?",
+                              "title":  "DHCC\u0027de Kimler İş Kurabilir?",
+                              "titleHighlight":  "DHCC\u0027de iş mi yapıyorsunuz?",
+                              "subtitle":  "Çok çeşitli sağlık ve tıp uzmanları kendi muayenehanelerini kurabilirler.",
+                              "items":  [
+                                            {
+                                                "icon":  "Stetoskop",
+                                                "label":  "Hekimler ve Cerrahlar"
+                                            },
+                                            {
+                                                "icon":  "Hap",
+                                                "label":  "Eczaneler ve Eczacılar"
+                                            },
+                                            {
+                                                "icon":  "Aktivite",
+                                                "label":  "Teşhis Laboratuvarları"
+                                            },
+                                            {
+                                                "icon":  "Beyin",
+                                                "label":  "Ruh Sağlığı ve Terapi"
+                                            },
+                                            {
+                                                "icon":  "Kalp Atışı",
+                                                "label":  "Uzmanlık Klinikleri"
+                                            },
+                                            {
+                                                "icon":  "Gülümsemek",
+                                                "label":  "Diş Hekimliği Uygulamaları"
+                                            },
+                                            {
+                                                "icon":  "Ambulans",
+                                                "label":  "Acil Servisler"
+                                            },
+                                            {
+                                                "icon":  "DNA",
+                                                "label":  "Araştırma ve Biyoteknoloji"
+                                            },
+                                            {
+                                                "icon":  "Kullanıcı Kontrolü",
+                                                "label":  "Hemşirelik ve Evde Bakım"
+                                            },
+                                            {
+                                                "icon":  "Monitör",
+                                                "label":  "Sağlık Teknolojisi ve Teletıp"
+                                            },
+                                            {
+                                                "icon":  "Dosya Rozeti",
+                                                "label":  "Tıp Eğitimi"
+                                            },
+                                            {
+                                                "icon":  "Paket",
+                                                "label":  "Tıbbi Ekipman Ticareti"
+                                            }
+                                        ]
+                          },
+    "licensesSection":  {
+                            "badge":  "Lisans Türleri",
+                            "title":  "DHCC Lisans Türleri",
+                            "titleHighlight":  "Lisans Türleri",
+                            "items":  [
+                                          {
+                                              "icon":  "Stetoskop",
+                                              "title":  "Tıp Lisansı",
+                                              "description":  "Hekimler, klinikler, hastaneler ve uzmanlık tıp merkezleri için.",
+                                              "code":  "MED",
+                                              "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Hap",
+                                              "title":  "İlaç Lisansı",
+                                              "description":  "Eczaneler, ilaç ticareti ve tıbbi malzeme dağıtım işletmeleri için.",
+                                              "code":  "PHR",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Aktivite",
+                                              "title":  "Teşhis ve Laboratuvar Lisansı",
+                                              "description":  "Teşhis merkezleri, patoloji laboratuvarları ve görüntüleme tesisleri için.",
+                                              "code":  "LABORATUVAR",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "title":  "Profesyonel Lisans",
+                                              "description":  "Tıp danışmanları, sağlık danışmanları ve sağlıklı yaşam koçları için.",
+                                              "code":  "PRO",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Monitör",
+                                              "title":  "Sağlık Teknolojisi Lisansı",
+                                              "description":  "Teletıp, dijital sağlık ve tıbbi SaaS platformları için.",
+                                              "code":  "HTC",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Dosya Rozeti",
+                                              "title":  "Eğitim Lisansı",
+                                              "description":  "Tıp eğitim merkezleri, hemşirelik okulları ve sürekli tıp eğitimi sağlayıcıları için.",
+                                              "code":  "EĞİTİM",
+                                              "color":  "pembe-400\u0027den gül-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "documentsSectionDhcc":  {
+                                 "badge":  "Gerekli Belgeler",
+                                 "title":  "DHCC Kurulumu İçin Gerekli Belgeler",
+                                 "titleHighlight":  "DHCC Kurulumu",
+                                 "items":  [
+                                               {
+                                                   "icon":  "DosyaMetni",
+                                                   "label":  "Pasaport Fotokopileri",
+                                                   "description":  "Tüm hissedarların ve yöneticilerin geçerli pasaport fotokopileri."
+                                               },
+                                               {
+                                                   "icon":  "Dosya Kontrolü",
+                                                   "label":  "İş Planı",
+                                                   "description":  "Hizmetler ve hedef pazar da dahil olmak üzere detaylı iş planı."
+                                               },
+                                               {
+                                                   "icon":  "Rozet Kontrolü",
+                                                   "label":  "Mesleki Nitelikler",
+                                                   "description":  "Sağlık çalışanları için tıp diploması, lisans ve DHA (Delhi Sağlık Otoritesi) uygunluk şartları."
+                                               },
+                                               {
+                                                   "icon":  "Dosya Rozeti",
+                                                   "label":  "Ticari İsim Rezervasyonu",
+                                                   "description":  "DHCC yetkili makamından onaylı ticari isim belgesi."
+                                               },
+                                               {
+                                                   "icon":  "Harita İşareti",
+                                                   "label":  "Adres Kanıtı",
+                                                   "description":  "Hissedarların adres ve iletişim bilgilerinin kanıtı."
+                                               },
+                                               {
+                                                   "icon":  "Kredi Kartı",
+                                                   "label":  "Fotoğraf ve İmza",
+                                                   "description":  "Pasaport boyutunda fotoğraflar ve örnek imzalar."
+                                               }
+                                           ]
+                             },
+    "setupProcessSectionDhcc":  {
+                                    "badge":  "Kurulum Süreci",
+                                    "title":  "DHCC Kurulumu 5 Adımda",
+                                    "titleHighlight":  "5 Adımda",
+                                    "subtitle":  "Dubai\u0027de sağlık hizmetleri işletmenizi, rehberli sürecimizle hayata geçirin.",
+                                    "steps":  [
+                                                  {
+                                                      "step":  "01",
+                                                      "icon":  "Hedef",
+                                                      "title":  "Aktivite ve Lisans Seçin",
+                                                      "description":  "İşletmeniz için doğru sağlık hizmeti faaliyetini ve lisans türünü seçin.",
+                                                      "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e",
+                                                      "image":  "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "02",
+                                                      "icon":  "DosyaMetni",
+                                                      "title":  "Rezerv Ticari Adı",
+                                                      "description":  "DHCC\u0027den tıbbi işletme adınızı ayırtın ve rezervasyon ücretini ödeyin.",
+                                                      "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                                      "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "03",
+                                                      "icon":  "Dosya Kontrolü",
+                                                      "title":  "Belgeleri Gönder",
+                                                      "description":  "Sağlık raporu da dahil olmak üzere gerekli tüm belgeleri hazırlayıp gönderin.",
+                                                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                                      "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "04",
+                                                      "icon":  "Rozet Kontrolü",
+                                                      "title":  "Lisans Verilmesi",
+                                                      "description":  "DHCC sağlık hizmetleri lisansınızı ve DHA onayınızı alın.",
+                                                      "color":  "from-emerald-400 to-teal-600",
+                                                      "image":  "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800\u0026q=80"
+                                                  },
+                                                  {
+                                                      "step":  "05",
+                                                      "icon":  "Kredi Kartı",
+                                                      "title":  "Visa ve Banka Hesabı",
+                                                      "description":  "Vize işlemlerinizi tamamlayın ve şirket banka hesabınızı açın.",
+                                                      "color":  "from-violet-400 to-purple-600",
+                                                      "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                                                  }
+                                              ]
+                                },
+    "whyTrustUsSection":  {
+                              "badge":  "Neden Bize Güvenmelisiniz?",
+                              "title":  "DHCC için Setup Zone Dubai\u0027ye neden güvenmelisiniz?",
+                              "titleHighlight":  "DHCC için mi?",
+                              "items":  [
+                                            {
+                                                "icon":  "Ödül",
+                                                "title":  "10+ Yıllık Deneyim",
+                                                "description":  "Birleşik Arap Emirlikleri\u0027nde sağlık sektöründe işletme kurulumu ve lisanslama konusunda on yılı aşkın deneyim."
+                                            },
+                                            {
+                                                "icon":  "Kullanıcılar",
+                                                "title":  "Alanında Uzman Sağlık Danışmanları",
+                                                "description":  "DHA yönetmelikleri ve DHCC gereksinimleri konusunda derin bilgiye sahip uzman ekip."
+                                            },
+                                            {
+                                                "icon":  "Kalkan Kontrolü",
+                                                "title":  "Uçtan Uca Destek",
+                                                "description":  "Lisans başvurusundan DHA onaylarına, vize işlemlerine ve banka hesabı açılmasına kadar."
+                                            },
+                                            {
+                                                "icon":  "Zap",
+                                                "title":  "Hızlı Teslimat",
+                                                "description":  "Öncelikli başvurularla daha hızlı onaylar sağlayan, basitleştirilmiş süreç."
+                                            },
+                                            {
+                                                "icon":  "Dolar İşareti",
+                                                "title":  "Şeffaf Fiyatlandırma",
+                                                "description":  "Gizli ücret yok "” her işletme türü için açık, her şey dahil paketler."
+                                            }
+                                        ]
+                          },
+    "faqs":  {
+                 "badge":  "Sıkça Sorulan Sorular",
+                 "title":  "Sıkça Sorulan Sorular",
+                 "titleHighlight":  "Sorular",
+                 "subtitle":  "Dubai Sağlık Şehri Serbest Bölgesi hakkında bilmeniz gereken her şey.",
+                 "items":  [
+                               {
+                                   "q":  "Dubai Sağlık Şehri (DHCC) nedir?",
+                                   "a":  "DHCC, Dubai\u0027de bulunan ve sağlık ve esenliğe adanmış dünyanın en büyük serbest bölgesidir. Hastaneler, klinikler, eczaneler, laboratuvarlar ve tıp eğitim kurumları da dahil olmak üzere 500\u0027den fazla sağlık ortağına ev sahipliği yapmaktadır."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de kimler iş yeri açabilir?",
+                                   "a":  "DHCC\u0027de hekimler, cerrahlar, eczacılar, tanı laboratuvarları, ruh sağlığı uzmanları, diş hekimliği uygulamaları, tıp araştırmacıları, hemşirelik hizmetleri, sağlık teknolojisi şirketleri ve tıp eğitimcileri yerleşebilir."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de hangi lisanslar mevcuttur?",
+                                   "a":  "Tıp Lisansı, Eczacılık Lisansı, Tanı ve Laboratuvar Lisansı, Meslek Lisansı, Sağlık Teknolojisi Lisansı ve Eğitim Lisansı."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de faaliyet göstermek için DHA onayına ihtiyacım var mı?",
+                                   "a":  "Evet. Sağlık çalışanları ve tesislerinin Dubai Sağlık Otoritesi\u0027nden (DHA) lisans ve düzenleyici onay alması gerekmektedir ve biz bu konuda size yardımcı oluyoruz."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de kayıt işlemi ne kadar sürüyor?",
+                                   "a":  "Şirket kurulumu genellikle 3-5 iş günü, faaliyet alanına bağlı olarak DHA sağlık hizmetleri lisansının tamamlanması ise 4-8 hafta sürer."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de %100 yabancı mülkiyeti elde edebilir miyim?",
+                                   "a":  "Evet. DHCC, %100 yabancı mülkiyete izin veriyor; yerel sponsor gerekmiyor."
+                               },
+                               {
+                                   "q":  "DHCC\u0027nin vergi avantajları nelerdir?",
+                                   "a":  "Kurumlar ve kişisel gelir vergisi %0 olup, kar ve sermayenin tamamı geri gönderilebilir."
+                               },
+                               {
+                                   "q":  "Setup Zone Dubai, DHCC\u0027ye ne tür destekler sağlıyor?",
+                                   "a":  "Lisans başvurusu, DHA onayı, ticari isim tescili, belge hazırlama, vize işlemleri, banka hesabı açma ve sürekli uyumluluk konularında hizmet veriyoruz."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de sağlık hizmetleri işletmesi açmak için tıbbi yeterliliğe ihtiyacım var mı?",
+                                   "a":  "Evet, klinik faaliyetler için tıp diploması, lisans ve DHA (Disiplin Kuruluna Bağlı Sağlık Otoritesi) üyeliği gereklidir. Klinik dışı faaliyetler için farklı şartlar geçerli olabilir."
+                               },
+                               {
+                                   "q":  "DHCC\u0027de hangi ofis seçenekleri mevcuttur?",
+                                   "a":  "İşletme türünüze bağlı olarak esnek çalışma masaları, yönetici ofisleri, klinikler, laboratuvarlar ve özel olarak tasarlanmış tıbbi tesisler."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "İlgili Hizmetler",
+                            "titleHighlight":  "Hizmetler",
+                            "subtitle":  "DHCC kurulumunuzla uyumlu hizmetler.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Banka Hesabı Açma",
+                                              "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Uyumluluk Hizmetleri",
+                                              "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Altın Vize",
+                                              "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlatın",
+                     "title":  "DHCC\u0027de Lansmana Hazır mısınız?",
+                     "titleHighlight":  "DHCC?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisans alımından DHA onayına ve faaliyete geçişe kadar tüm DHCC kurulum sürecinde size rehberlik edeceğiz.",
+                     "primaryCta":  "Bize WhatsApp\u0027tan ulaşın",
+                     "whatsappMessage":  "Merhaba! DHCC kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "badges":  [
+                                    "Ücretsiz Danışmanlık",
+                                    "500\u0027den fazla Müşteri",
+                                    "3-5 Gün Kurulum"
+                                ],
+                     "office":  {
+                                    "label":  "Dubai Ofisimizi Ziyaret Edin",
+                                    "line1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                    "line2":  "Business Bay, Dubai, B.A.E "” Posta Kutusu: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Çalışma Saatleri",
+                                   "monFri":  "Sabah 9 - Akşam 6",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Kapalı"
+                               }
+                 }
+}

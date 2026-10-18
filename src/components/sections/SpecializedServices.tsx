@@ -18,6 +18,8 @@ import {
 } from 'lucide-react';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import specializedData from '../../content/home/specialized-services.json';
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 
 const iconMap: Record<string, any> = {
   Receipt,
@@ -161,8 +163,9 @@ function FlipCard({ service, index }: { service: any; index: number }) {
 }
 
 export default function SpecializedServices({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || specializedData;
-
+const { language } = useLanguage();
+const specializedFallback = loadContent('home/specialized-services', language);
+const data = tinaData?.data?.home || specializedFallback;
   return (
     <section className="relative py-14 md:py-20 bg-gradient-to-b from-white via-slate-50/40 to-white overflow-hidden">
       <div className="absolute top-1/4 left-0 w-[600px] h-[600px] rounded-full bg-brand-sky/8 blur-[140px] pointer-events-none" />

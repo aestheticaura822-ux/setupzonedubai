@@ -1,0 +1,379 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=80",
+    "breadcrumbParent": "Serbest Bölgeler",
+    "breadcrumbLabel": "İş Faaliyetleri",
+    "badge": "Mükemmel İş Faaliyetinizi Bulun",
+    "title": "Birleşik Arap Emirlikleri Serbest Bölgelerindeki İş Faaliyetleri",
+    "titleHighlight": "BAE Serbest Bölgeleri",
+    "subtitle": "Dubai'nin önde gelen serbest bölgelerinde e-ticaret ve teknolojiden lojistik, medya ve danışmanlığa kadar 2.000'den fazla onaylı iş faaliyetini keşfedin. Vizyonunuza en uygun olanı bulmanıza yardımcı oluyoruz.",
+    "ctaPrimaryText": "Etkinlikleri Keşfedin",
+    "ctaPrimaryLink": "#aktiviteler",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Merhaba! Birleşik Arap Emirlikleri'ndeki bir serbest bölgede doğru iş faaliyetini seçme konusunda yardıma ihtiyacım var.",
+    "badges": [
+      "2.000'den fazla etkinlik",
+      "30+ Ücretsiz Bölge",
+      "%100 Sahiplik",
+      "%0 Vergi"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Target",
+      "value": "2.000+",
+      "label": "Onaylanmış Faaliyetler",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Building2",
+      "value": "30+",
+      "label": "Serbest Bölgeler",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Vergi Oranı",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Kurulum Günleri",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "Aktivite Bulucu",
+    "statusLabel": "Canlı",
+    "totalLabel": "Toplam Faaliyetler",
+    "totalValue": "2.000+",
+    "statusBadge": "Aktif",
+    "metrics": [
+      {
+        "label": "E-Ticaret",
+        "value": "150+",
+        "color": "text-emerald-600"
+      },
+      {
+        "label": "Teknoloji ve Bilişim",
+        "value": "300+",
+        "color": "text-teal-600"
+      }
+    ]
+  },
+  "exploreSection": {
+    "badge": "Seçeneklerinizi Keşfedin",
+    "title": "İşletmeniz İçin Doğru Aktiviteyi Bulun",
+    "titleHighlight": "Doğru Aktivite",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+    "imageBadgeTitle": "İşletmeniz",
+    "imageBadgeText": "Mükemmel Eşleşme",
+    "paragraph1": "Her işletme bir faaliyetle başlar. Birleşik Arap Emirlikleri serbest bölgeleri, her biri kendi lisanslama gereksinimlerine, vize uygunluğuna ve büyüme potansiyeline sahip 2.000'den fazla onaylı faaliyet sunmaktadır.",
+    "paragraph2": "İster bir e-ticaret sitesi, ister bir yazılım şirketi, ister bir lojistik merkezi veya bir danışmanlık firması kuruyor olun, size uygun bir serbest bölge ve etkinlik mutlaka vardır.",
+    "paragraph3": "Uzmanlarımız, iş hedeflerinize uygun faaliyet, lisans türü ve serbest bölgeyi seçmenize yardımcı olarak, güçlü bir başlangıç yapmanızı ve sorunsuz bir şekilde büyümenizi sağlar.",
+    "features": [
+      "2.000'den fazla etkinlik",
+      "30+ Ücretsiz Bölge",
+      "Uzman Eşleştirme",
+      "Hızlı Lisanslama"
+    ]
+  },
+  "freeZonesSection": {
+    "badge": "En İyi Ücretsiz Bölgeler",
+    "title": "Dubai'deki Önde Gelen Serbest Bölgeler",
+    "titleHighlight": "Dubai'deki Serbest Bölgeler",
+    "subtitle": "Her serbest bölge farklı sektör ve faaliyetlerde uzmanlaşmıştır; biz de size en uygun olanı seçmenize yardımcı oluyoruz.",
+    "items": [
+      {
+        "icon": "Cpu",
+        "name": "DSO",
+        "description": "Teknoloji, yapay zeka, yazılım ve inovasyon odaklı faaliyetler.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "name": "Dubai Ticaret Şehri",
+        "description": "E-ticaret, lojistik ve dijital ticaret faaliyetleri.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Film",
+        "name": "Dubai Medya Şehri",
+        "description": "Medya, yaratıcı ve prodüksiyon faaliyetleri.",
+        "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+        "color": "from-violet-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Truck",
+        "name": "JAFZA",
+        "description": "Lojistik, üretim ve ticaret faaliyetleri.",
+        "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "commonActivitiesSection": {
+    "badge": "Popüler Aktiviteler",
+    "title": "En Yaygın İş Faaliyetleri",
+    "titleHighlight": "İş Faaliyetleri",
+    "subtitle": "Bunlar, BAE serbest bölgelerinde girişimcilerin en çok tercih ettiği faaliyetlerdir.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Ticaret",
+        "description": "Çevrimiçi perakende, pazar yeri satışı ve dijital mağazalar.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Yazılım ve BT",
+        "description": "Yazılım geliştirme, SaaS, uygulamalar ve BT danışmanlığı.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Danışmanlık",
+        "description": "İşletme, yönetim, insan kaynakları ve bilişim teknolojileri danışmanlık hizmetleri.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Pazarlama",
+        "description": "Dijital pazarlama, marka oluşturma, reklamcılık ve içerik.",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "whyRightActivity": {
+    "badge": "Akıllıca Seçin",
+    "title": "İş Faaliyetleriniz Neden Önemli?",
+    "titleHighlight": "Aktivite Önemlidir",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Yasal Uyumluluk",
+    "imageBadgeText": "Doğru Temel",
+    "paragraph1": "İş faaliyetiniz, lisans türünüzü, vize kotanızı, ofis gereksinimlerinizi ve vergi yükümlülüklerinizi belirler. Yanlış olanı seçmek büyümenizi sınırlayabilir.",
+    "paragraph2": "Bazı faaliyetler, medya, sağlık, eğitim veya finansal hizmetler gibi, özel onaylar gerektirir. Biz de bu uyumluluk sürecinde size yardımcı oluyoruz.",
+    "paragraph3": "Ayrıca, faaliyet listenizin gelecekteki genişlemeyi destekleyecek kadar esnek olmasını sağlıyoruz; böylece her büyümede yeni lisanslara ihtiyacınız kalmıyor.",
+    "features": [
+      "Lisans Uyumu",
+      "Vize Uygunluğu",
+      "Uyumluluk Desteği",
+      "Gelecekteki Ölçeklenebilirlik"
+    ]
+  },
+  "multipleCombosSection": {
+    "badge": "Çoklu Aktiviteler",
+    "title": "Birden fazla faaliyeti tek bir lisans altında birleştirme",
+    "titleHighlight": "Tek Lisans",
+    "subtitle": "Birçok serbest bölge, birden fazla ilgili faaliyeti tek bir lisans altında kaydetmenize olanak tanıyarak zamandan ve maliyetten tasarruf etmenizi sağlar.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "label": "E-Ticaret + Lojistik",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "label": "Yazılım + Danışmanlık",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Medya + Pazarlama",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Danışmanlık + Eğitim",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ],
+    "footerNote": "Lisansınızın hem bugünkü hem de yarınki tüm gelir kaynaklarınızı kapsayacak şekilde yapılandırılmasına yardımcı oluyoruz."
+  },
+  "setupStepsSection": {
+    "badge": "Kurulum Süreci",
+    "title": "İşletme Faaliyetinizi Nasıl Kaydedersiniz?",
+    "titleHighlight": "İşletme Faaliyetleriniz",
+    "subtitle": "Doğru etkinliği belirlemek, seçmek ve kaydetmek için basit 4 adımlı bir süreç.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Hedeflerinizi Belirleyin",
+        "description": "İş modelinizi, hedef pazarınızı ve uzun vadeli vizyonunuzu anlıyoruz.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "title": "Maç Etkinliği",
+        "description": "Hedeflerinizi 30'dan fazla ücretsiz bölgedeki onaylanmış etkinliklerle eşleştiriyoruz.",
+        "icon": "Search",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "title": "Lisans Seçin",
+        "description": "Doğru lisans türünü seçmenizi öneririz: ticari, hizmet, endüstriyel veya e-ticaret.",
+        "icon": "FileCheck",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "title": "Kaydol ve Başlat",
+        "description": "Kayıt, onay ve kurulum işlemlerini biz hallediyoruz; siz de birkaç gün içinde faaliyete başlayabilirsiniz.",
+        "icon": "Rocket",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Gerekli Belgeler",
+    "title": "Kayıt İçin Gerekli Belgeler",
+    "titleHighlight": "Kayıt Olmanız Gerekiyor",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "Pasaport Fotokopileri",
+        "description": "Tüm hissedarların ve yöneticilerin pasaportlarının vesikalık fotokopileri."
+      },
+      {
+        "icon": "FileBadge",
+        "label": "Pasaport Boyutunda Fotoğraflar",
+        "description": "Vize ve kimlik için beyaz arka planlı yeni fotoğraflar."
+      },
+      {
+        "icon": "FileCheck",
+        "label": "İş Planı",
+        "description": "Belirli düzenlemeye tabi faaliyetler ve sektörler için gereklidir."
+      },
+      {
+        "icon": "MapPin",
+        "label": "Adres Kanıtı",
+        "description": "Hissedarın faturası veya banka ekstresi."
+      }
+    ]
+  },
+  "trendingSection": {
+    "badge": "2025'te Trend Olanlar",
+    "title": "2025 Yılında Öne Çıkan İş Alanları",
+    "titleHighlight": "2025'te",
+    "subtitle": "Bu yüksek büyüme potansiyeli taşıyan faaliyetler, BAE'deki serbest bölgelerde girişimcileri cezbetmektedir.",
+    "items": [
+      {
+        "icon": "Bot",
+        "title": "Yapay Zeka ve Makine Öğrenimi",
+        "description": "Küresel müşteriler için yapay zeka araçları, makine öğrenimi modelleri ve akıllı otomasyon sistemleri geliştirin.",
+        "color": "from-indigo-500 via-purple-600 to-fuchsia-700"
+      },
+      {
+        "icon": "Leaf",
+        "title": "Sürdürülebilirlik ve ESG",
+        "description": "Yeşil teknoloji, yenilenebilir enerji ve karbon nötr danışmanlık.",
+        "color": "from-emerald-500 via-teal-600 to-cyan-700"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Birleşik Arap Emirlikleri serbest bölgelerindeki ticari faaliyetler hakkında bilmeniz gereken her şey.",
+    "items": [
+      {
+        "q": "Serbest bölge şirketim için doğru iş faaliyetini nasıl seçerim?",
+        "a": "İş modelinizi, gelir akışlarınızı ve uzun vadeli hedeflerinizi 30'dan fazla serbest bölgedeki onaylanmış faaliyetlerle eşleştiriyoruz. Ayrıca lisans gereksinimlerini, vize uygunluğunu ve gelecekteki ölçeklenebilirliği de kontrol ediyoruz."
+      },
+      {
+        "q": "Tek bir lisans altında birden fazla faaliyet kaydı yaptırabilir miyim?",
+        "a": "Evet, birçok serbest bölge tek bir lisans altında birden fazla ilgili faaliyete izin veriyor. Yeni onaylara ihtiyaç duymadan tüm gelir kaynaklarınızı kapsayacak şekilde lisansınızı yapılandırmanıza yardımcı oluyoruz."
+      },
+      {
+        "q": "Her serbest bölgede tüm ticari faaliyetlere izin veriliyor mu?",
+        "a": "Hayır. Her serbest bölgenin kendi onaylı faaliyet listesi vardır. Örneğin, DSO teknoloji odaklı, Dubai CommerCity e-ticaret odaklı ve DMC medya odaklıdır. Faaliyetiniz için doğru bölgeyi seçmenize yardımcı oluyoruz."
+      },
+      {
+        "q": "Düzenlemeye tabi faaliyetler için özel onaylara ihtiyacım var mı?",
+        "a": "Evet. Medya, sağlık, eğitim ve finansal hizmetler gibi faaliyetler, ilgili mercilerden ek onaylar gerektirir. Tüm onay sürecini sizin için biz hallediyoruz."
+      },
+      {
+        "q": "İş faaliyetimi daha sonra değiştirebilir miyim?",
+        "a": "Evet, çoğu serbest bölge faaliyet değişikliklerine ve eklemelerine izin verir. Biz sizin için süreci yönetiyoruz, böylece siz büyürken mevzuata uygun ve esnek kalıyorsunuz."
+      },
+      {
+        "q": "Bir işletme faaliyetini kaydetmek ne kadar sürer?",
+        "a": "Genellikle serbest bölgeye, faaliyet türüne ve düzenleyici onayların gerekip gerekmediğine bağlı olarak 3-7 iş günü sürer."
+      },
+      {
+        "q": "Ticari faaliyet kaydı için hangi belgelere ihtiyacım var?",
+        "a": "Standart belgeler arasında pasaport fotokopileri, pasaport boyutunda fotoğraflar, adres kanıtı ve düzenlemeye tabi faaliyetler için iş planı yer almaktadır. Her belge konusunda size rehberlik ediyoruz."
+      },
+      {
+        "q": "Serbest bölgede ticari faaliyet kaydı yaptırmanın maliyeti ne kadar?",
+        "a": "Ücretler, serbest bölgeye, faaliyet türüne, lisansa ve vize gereksinimlerine göre değişiklik gösterir. Kişiselleştirilmiş bir fiyat teklifi için bizimle iletişime geçin; gizli ücretler olmadan şeffaf fiyatlandırma sunuyoruz."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "İşletme faaliyet yapınıza uygun hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Altın Vize",
+        "description": "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Uyumluluk Hizmetleri",
+        "description": "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Başlayın",
+    "title": "İşletme faaliyetlerinizi kaydetmeye hazır mısınız?",
+    "titleHighlight": "Ticari Faaliyet mi?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Doğru faaliyeti, lisansı ve serbest bölgeyi seçmenize yardımcı olacağız ve tüm kurulum işlemlerini sizin için halledeceğiz.",
+    "primaryCta": "Bize WhatsApp'tan ulaşın",
+    "whatsappMessage": "Merhaba! Birleşik Arap Emirlikleri serbest bölgelerindeki ticari faaliyetler hakkında ücretsiz danışmanlık almak istiyorum.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "Ücretsiz Danışmanlık",
+      "30+ Ücretsiz Bölge",
+      "3-7 Gün Kurulum"
+    ],
+    "office": {
+      "label": "Dubai Ofisimizi Ziyaret Edin",
+      "line1": "Ofis M08-27, M1 Katı, Crystal Tower",
+      "line2": "Business Bay, Dubai, B.A.E — Posta Kutusu: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Çalışma Saatleri",
+      "monFri": "Sabah 9 - Akşam 6",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Kapalı"
+    }
+  }
+}

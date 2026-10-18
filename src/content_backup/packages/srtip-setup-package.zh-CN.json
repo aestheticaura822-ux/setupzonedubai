@@ -1,0 +1,551 @@
+{
+  "slug": "srtip-setup-package",
+  "hero": {
+    "badge": "创新优先自由区",
+    "title": "SRTIP 安装包",
+    "titleHighlight": "包裹",
+    "subtitle": "沙迦研究技术与创新园是专为科技和研发专业人士打造的自由区。价格实惠的套餐，起价仅为 5,999 迪拉姆——包括驾照、签证、银行账户等。",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=80",
+    "breadcrumbLabel": "SRTIP 安装包",
+    "ctaPrimaryText": "查看套餐",
+    "ctaPrimaryLink": "#包裹",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对SRTIP安装包很感兴趣。",
+    "badges": [
+      "5,999 迪拉姆起",
+      "11个包裹",
+      "3-7天安装完成",
+      "100% 所有权"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5,999 迪拉姆",
+      "label": "从",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "包裹",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "所有权",
+      "color": "from-blue-400 to-indigo-600"
+    }
+  ],
+  "intro": {
+    "badge": "我们随时为您提供帮助！",
+    "title": "为您的阿联酋企业提供价格实惠的SRTIP设立套餐",
+    "titleHighlight": "为您的阿联酋业务",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&q=80",
+    "imageBadgeTitle": "SRTIP自由区",
+    "imageBadgeText": "阿联酋沙迦",
+    "paragraph1": "您是否希望在蓬勃发展的阿联酋市场建立您的企业？我们的专家团队专注于帮助企业家在超过65个司法管辖区成功设立公司。",
+    "paragraph2": "无论您偏爱自由区的灵活性还是大陆贸易许可证的声望，我们都能提供沙迦最好的商业设立方案，以满足您在科技和创新领域的业务目标。",
+    "paragraph3": "所有套餐均可为您的创业之旅提供起点，并可根据您的需求进行定制。",
+    "features": [
+      "65个以上司法管辖区",
+      "创新优先区",
+      "可定制套餐",
+      "5,999 迪拉姆起",
+      "快速安装，3-7天即可完成。",
+      "全力支持"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "创新优先的生态系统",
+    "title": "专为科技与创新而打造",
+    "titleHighlight": "科技与创新",
+    "subtitle": "SRTIP自由区蓬勃发展的六大创新领域。",
+    "items": [
+      {
+        "icon": "FlaskConical",
+        "title": "研发",
+        "desc": "科学研究、实验室测试、产品研发",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "技术与创新",
+        "desc": "软件、人工智能、物联网、硬件开发",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Microscope",
+        "title": "生命科学",
+        "desc": "生物技术、制药、医学研究",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "可再生能源",
+        "desc": "太阳能、清洁能源、可持续发展技术",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Atom",
+        "title": "先进材料",
+        "desc": "纳米技术、复合材料、材料科学",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Binary",
+        "title": "数字解决方案",
+        "desc": "区块链、数据科学、网络安全",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "沙迦经济实惠的安装套餐",
+    "title": "我们的 SRTIP 设置套餐",
+    "titleHighlight": "SRTIP 安装包",
+    "subtitle": "11款专为科技和创新专业人士设计的优质套餐，全部可定制。",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "旅游咨询",
+        "price": "14,499 迪拉姆",
+        "tagline": "持有居留签证",
+        "category": "优质的",
+        "color": "from-teal-500 to-cyan-700",
+        "badge": "受欢迎的",
+        "badgeColor": "从青色-500 到青色-600",
+        "includes": [
+          "自由区许可证",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "活动管理",
+        "price": "14,499 迪拉姆",
+        "tagline": "持有居留签证",
+        "category": "优质的",
+        "color": "from-cyan-500 to-sky-700",
+        "badge": "优质的",
+        "badgeColor": "从青色 500 到天空色 600",
+        "includes": [
+          "自由区许可证",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "一般贸易",
+        "price": "15,999 迪拉姆",
+        "tagline": "持有居留签证",
+        "category": "优质的",
+        "color": "from-sky-500 to-blue-700",
+        "badge": "性价比最高",
+        "badgeColor": "从天空-500到蓝色-600",
+        "includes": [
+          "自由区许可证",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "时装设计",
+        "price": "5,999 迪拉姆",
+        "tagline": "最多 5 项活动",
+        "category": "经济",
+        "color": "from-blue-500 to-indigo-700",
+        "badge": "有创造力的",
+        "badgeColor": "从蓝色500到靛蓝色600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "健身与生活方式",
+        "price": "5,999 迪拉姆",
+        "tagline": "最多 5 项活动",
+        "category": "经济",
+        "color": "from-indigo-500 to-violet-700",
+        "badge": "价格实惠",
+        "badgeColor": "从靛蓝500到紫罗兰600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "电子商务",
+        "price": "5,999 迪拉姆",
+        "tagline": "在线业务准备就绪",
+        "category": "经济",
+        "color": "from-violet-500 to-purple-700",
+        "badge": "受欢迎的",
+        "badgeColor": "从紫罗兰色-500 到紫罗兰色-600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "IT服务",
+        "price": "6,449 迪拉姆",
+        "tagline": "最多 5 项活动",
+        "category": "专业的",
+        "color": "from-purple-500 to-fuchsia-700",
+        "badge": "科技",
+        "badgeColor": "从紫色 500 到紫红色 600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "一般贸易",
+        "price": "7,999 迪拉姆",
+        "tagline": "入门级交易",
+        "category": "标准",
+        "color": "from-fuchsia-500 to-pink-700",
+        "badge": "畅销书",
+        "badgeColor": "从紫红色-500到粉红色-600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "自由区许可证及终身阿联酋居留权",
+        "price": "11,999 迪拉姆",
+        "tagline": "终身居住权",
+        "category": "优质的",
+        "color": "from-pink-500 to-rose-700",
+        "badge": "独家的",
+        "badgeColor": "从粉色500到玫瑰色600",
+        "includes": [
+          "自由区许可证",
+          "终身免费阿联酋居留/投资签证",
+          "免费租赁协议",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "持有阿联酋居留权的大陆驾照",
+        "price": "16,999 迪拉姆",
+        "tagline": "大陆 + 居住地",
+        "category": "大陆",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "大陆",
+        "badgeColor": "从石板600到石板700",
+        "includes": [
+          "大陆牌照",
+          "1. 阿联酋居留/投资签证",
+          "医疗、阿联酋身份证和身份变更",
+          "免费银行账户开户协助",
+          "免费增值税咨询"
+        ],
+        "exampleActivities": [
+          "项目管理",
+          "管理咨询",
+          "商业经纪人",
+          "设施管理",
+          "清洁服务",
+          "楼宇维护"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "女性创业",
+        "price": "5,999 迪拉姆",
+        "tagline": "专为女性创始人设计",
+        "category": "特别的",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "特别的",
+        "badgeColor": "从玫瑰色 500 到粉色 600",
+        "includes": [
+          "自由区许可证",
+          "免费租赁协议",
+          "最多 5 项商业活动",
+          "免费银行账户开户协助",
+          "高级地址和共享邮政信箱",
+          "免费增值税咨询"
+        ],
+        "exampleActivities": [
+          "生活方式指导",
+          "数字营销",
+          "时尚与服装设计",
+          "活动管理",
+          "咨询服务"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "需要定制技术方案？",
+    "subtitle": "告诉我们您的创新愿景，我们将为您打造完美的解决方案。",
+    "buttonText": "定制报价",
+    "whatsappMessage": "您好！我需要一个定制的SRTIP安装包。"
+  },
+  "benefits": {
+    "badge": "为什么选择 SRTIP",
+    "title": "SRTIP设置的优势",
+    "titleHighlight": "SRTIP 设置",
+    "subtitle": "科技和创新专业人士的六大优势。",
+    "items": [
+      {
+        "icon": "Rocket",
+        "title": "创新优先的生态系统",
+        "desc": "专为科技研发而打造",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "低成本设置",
+        "desc": "起价 5,999 迪拉姆",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "desc": "完全外资所有",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速安装，3-7天即可完成。",
+        "desc": "快速发放许可证",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "0% 税收环境",
+        "desc": "免税福利",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "政府支持",
+        "desc": "沙迦政府倡议",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "六步流程",
+    "title": "如何入门",
+    "titleHighlight": "开始使用",
+    "subtitle": "从套餐选择到银行账户——我们全权负责。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "选择您的套餐",
+        "description": "从我们以创新为重点的套餐中选择。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "提交文件",
+        "description": "护照复印件、商业计划书和照片。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "许可证申请",
+        "description": "我们向SRTIP机构提交申请。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "领取您的许可证",
+        "description": "3-7天内即可获得许可证。",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "为什么选择我们",
+    "title": "您值得信赖的 SRIP 设置合作伙伴",
+    "titleHighlight": "SRTIP 设置合作伙伴",
+    "subtitle": "科技专业人士信赖我们的八大理由。",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "绝无任何隐藏费用"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速安装，3-7天即可完成。",
+        "desc": "快速发放许可证"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "100% 合规",
+        "desc": "已获政府全面批准"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "专属顾问",
+        "desc": "私人顾问"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语、乌尔都语"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "增值税咨询",
+        "desc": "包含免费"
+      },
+      {
+        "icon": "Award",
+        "label": "超过 10,000 家公司",
+        "desc": "成功启动"
+      },
+      {
+        "icon": "Handshake",
+        "label": "端到端支持",
+        "desc": "银行账户许可证"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于SRTIP自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "items": [
+      {
+        "q": "什么是SRTIP自由区？",
+        "a": "沙迦研究技术与创新园 (SRTIP) 是一个专为技术、研究和创新驱动型企业而建的自由区。它提供低成本的设立、100% 外资所有权以及 3-7 个工作日内快速获得许可等服务。"
+      },
+      {
+        "q": "SRTIP位于哪里？",
+        "a": "SRTIP位于阿联酋沙迦，毗邻沙迦美国大学。它交通便利，可轻松前往迪拜和其他酋长国，并可便捷地连接主要高速公路和机场。"
+      },
+      {
+        "q": "SRTIP 安装包中包含哪些内容？",
+        "a": "根据套餐的不同，您将获得自由区许可证、居留签证、医疗和阿联酋身份证、租赁协议、银行账户协助、高级地址和免费增值税咨询。"
+      },
+      {
+        "q": "SRIT套餐费用是多少？",
+        "a": "我们的SRTIP套餐价格从5,999迪拉姆（经济型）起，最高可达16,999迪拉姆（大陆+居留权）。包含签证的高级套餐价格从14,499迪拉姆起。"
+      },
+      {
+        "q": "安装需要多长时间？",
+        "a": "通常情况下，驾照发放需要 3-7 个工作日，签证办理和银行账户开立还需要 1-2 周时间。"
+      },
+      {
+        "q": "我可以定制我的套餐吗？",
+        "a": "是的。所有套餐均为起始方案，可以根据您的科技业务、签证需求和预算进行定制。"
+      },
+      {
+        "q": "我能获得阿联酋居留签证吗？",
+        "a": "是的，部分套餐包含阿联酋投资者/居留签证（含体检）、阿联酋身份证和身份变更。自由区许可证及终身阿联酋居留权甚至提供终身居留权。"
+      },
+      {
+        "q": "包含银行账户开户吗？",
+        "a": "是的。所有套餐均包含在阿联酋顶级银行免费开设公司银行账户的协助服务。"
+      },
+      {
+        "q": "我可以进行哪些科技活动？",
+        "a": "SRTIP 支持研发、技术与创新、生命科学、可再生能源、先进材料、数字解决方案和其他创新驱动型产业——大多数经济套餐最多可包含 5 项活动。"
+      },
+      {
+        "q": "为什么选择迪拜Setup Zone进行SRTIP设置？",
+        "a": "我们提供透明的定价、专业的科技行业知识、专属顾问和端到端的支持——从许可证、签证到银行账户，一应俱全。我们已成功完成超过10000个项目。"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始你的科技事业吧！",
+    "title": "准备在沙迦SRTIP园区启动？",
+    "titleHighlight": "SRTIP 沙迦？",
+    "subtitle": "获取免费咨询。我们将帮助您选择合适的套餐，让您的科技业务在几天内顺利启动。",
+    "primaryCta": "WhatsApp 联系我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想咨询一下SRTIP设置套餐的免费咨询服务。",
+    "badges": [
+      "5,999 迪拉姆起",
+      "3-7天安装完成",
+      "100% 所有权"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午8点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

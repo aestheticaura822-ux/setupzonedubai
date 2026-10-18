@@ -1,0 +1,142 @@
+{
+  "badge": "İşletmenizi Akıllıca Yapılandırın",
+  "heading": {
+    "line1": "Sizin İçin Hangisi Daha İyi?",
+    "highlight": "Serbest Bölge mi, Anakara mı?"
+  },
+  "subtitle": "Doğru şirket yapısı, faaliyet göstermeyi planladığınız yere, ihtiyacınız olan vize sayısına ve bütçenize bağlıdır. İşte kısa bir özet.",
+  "vsLabel": "VS",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "Serbest Bölge",
+      "short": "FZ",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "Uluslararası",
+      "tagline": "Küresel İşletmeler İçin En İyisi",
+      "bestFor": "Uluslararası ticaret, çevrimiçi hizmetler, danışmanlık",
+      "highlight": "%100 mülkiyet, vergi avantajları, gümrük vergisi yok.",
+      "limitation": "Ofis büyüklüğüne bağlı olarak sınırlı sayıda vize",
+      "ctaText": "Serbest Bölge Kurulumunu Keşfedin",
+      "whatsappMessage": "Merhaba! Dubai'de bir Serbest Bölge şirketi kurmakla ilgileniyorum.",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "Anakara",
+      "short": "ML",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "Yerel Pazar",
+      "tagline": "Yerel Kalkınma İçin En İyisi",
+      "bestFor": "Yerel perakende, inşaat, restoranlar, acenteler",
+      "highlight": "Birleşik Arap Emirlikleri pazarına tam erişim, ticaret kısıtlaması yok.",
+      "limitation": "Daha yüksek vize uygunluk kriterleri daha fazla ofis alanı gerektiriyor.",
+      "ctaText": "Anakara Kurulumunu Keşfedin",
+      "whatsappMessage": "Merhaba! Dubai'de bir Çin anakara şirketi kurmakla ilgileniyorum.",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "En İyisi İçin",
+  "tableHeaders": {
+    "features": "Özellikler",
+    "freezone": "Serbest Bölge",
+    "mainland": "Anakara"
+  },
+  "features": [
+    {
+      "icon": "Wallet",
+      "label": "Mülkiyet",
+      "freezone": {
+        "value": "%100",
+        "score": 100
+      },
+      "mainland": {
+        "value": "%100",
+        "score": 100
+      }
+    },
+    {
+      "icon": "TrendingUp",
+      "label": "Vergi Avantajları",
+      "freezone": {
+        "value": "%0 - %9",
+        "score": 90
+      },
+      "mainland": {
+        "value": "%0 - %9",
+        "score": 85
+      }
+    },
+    {
+      "icon": "Target",
+      "label": "BAE Pazarına Erişim",
+      "freezone": {
+        "value": "Sınırlı",
+        "score": 40
+      },
+      "mainland": {
+        "value": "Tam dolu",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Users",
+      "label": "Vize Uygunluğu",
+      "freezone": {
+        "value": "Sınırlı",
+        "score": 60
+      },
+      "mainland": {
+        "value": "Yüksek",
+        "score": 90
+      }
+    },
+    {
+      "icon": "Landmark",
+      "label": "Yerel Ticaret",
+      "freezone": {
+        "value": "Sınırlı",
+        "score": 30
+      },
+      "mainland": {
+        "value": "Sınırsız",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Zap",
+      "label": "Kurulum Hızı",
+      "freezone": {
+        "value": "3-7 Gün",
+        "score": 95
+      },
+      "mainland": {
+        "value": "2-4 Hafta",
+        "score": 50
+      }
+    }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "Hâlâ hangisini seçeceğinizden emin değil misiniz?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. İşletmenizin faaliyetlerini analiz edip size en uygun yapıyı önereceğiz.",
+    "primaryCta": "Bir Uzmanla Konuşun",
+    "secondaryCta": "Bizi Arayın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Merhaba! Serbest Bölge ve Anakara arasında karar vermekte zorlanıyorum. Konuşabilir miyiz?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

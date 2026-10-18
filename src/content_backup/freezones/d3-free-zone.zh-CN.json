@@ -1,0 +1,406 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80",
+    "breadcrumbParent": "自由区",
+    "breadcrumbLabel": "迪拜设计区",
+    "badge": "迪拜设计区",
+    "title": "迪拜设计区",
+    "titleHighlight": "设计区",
+    "subtitle": "中东首个专注于设计、时尚、艺术和文化的创意自由区。在迪拜的旗舰设计中心开启您的创意事业。",
+    "ctaPrimaryText": "获取免费咨询",
+    "ctaPrimaryLink": "＃接触",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对迪拜设计区自由区的设立很感兴趣。",
+    "badges": [
+      "100% 所有权",
+      "0% 税率",
+      "创意中心",
+      "3-5天安装完成"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "创意品牌",
+      "color": "from-rose-400 to-pink-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-pink-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-fuchsia-400 to-purple-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "D3创意中心",
+    "totalLabel": "区",
+    "totalValue": "阿联酋迪拜",
+    "statusBadge": "积极的",
+    "metrics": [
+      {
+        "label": "设置时间",
+        "value": "3-5天",
+        "color": "text-rose-600"
+      },
+      {
+        "label": "品牌",
+        "value": "500+",
+        "color": "text-pink-600"
+      }
+    ]
+  },
+  "startInStyle": {
+    "badge": "以时尚之姿开启您的职业生涯",
+    "title": "在迪拜设计区开启您的时尚之旅",
+    "titleHighlight": "迪拜设计区",
+    "subtitle": "该地区的创意之都，汇聚了设计师、艺术家和时尚企业家。",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全拥有所有权，无需当地赞助商——完全掌控您的创意品牌。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 税收环境",
+        "description": "无需缴纳公司所得税或个人所得税——最大限度地提高您的创意业务利润。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "创意社区",
+        "description": "加入一个由来自世界各地的设计师、艺术家和创意企业家组成的蓬勃发展的生态系统。",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ],
+    "largeCard": {
+      "title": "设计与商业的交汇",
+      "description": "D3是该地区的创意中心，汇集了众多时装公司、设计工作室、艺术画廊和创意机构。这是一个专为创意经济而打造的区域。",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80"
+    }
+  },
+  "activitiesSection": {
+    "badge": "商业活动",
+    "title": "D3 中的创意活动",
+    "titleHighlight": "在D3",
+    "subtitle": "允许开展各种创意和设计类商业活动。",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "设计与品牌",
+        "description": "平面设计、品牌推广和创意机构。",
+        "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Shirt",
+        "title": "时尚与纺织品",
+        "description": "时装公司、纺织品设计和服装品牌。",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Camera",
+        "title": "视觉艺术与摄影",
+        "description": "摄影工作室、视觉艺术和创意内容。",
+        "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&q=80",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "workspacesSection": {
+    "badge": "工作区",
+    "title": "D3 中的工作区",
+    "titleHighlight": "在D3",
+    "subtitle": "为贵公司各个发展阶段量身打造的创意工作空间。",
+    "items": [
+      {
+        "icon": "Sparkles",
+        "title": "共享办公桌",
+        "description": "为自由职业者提供灵活的联合办公空间。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "工作室",
+        "description": "设计和时尚创意工作室。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "配备齐全的办公室",
+        "description": "为创意团队提供即刻入住的办公室。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Store",
+        "title": "零售空间",
+        "description": "时尚品牌精品零售店。",
+        "color": "from-purple-400 to-violet-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "壳与芯",
+        "description": "可定制的空间，满足创意需求。",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "visaServicesSection": {
+    "badge": "签证服务",
+    "title": "D3签证服务",
+    "titleHighlight": "在D3",
+    "subtitle": "我们将为您和您的创意团队提供全面的签证支持。",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "投资者签证",
+        "description": "适用于企业主和股东。",
+        "stampColor": "从玫瑰色 500 到粉色 600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "工作签证",
+        "description": "适用于创意人员和团队成员。",
+        "stampColor": "从粉色 500 到紫红色 600"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "自由职业者签证",
+        "description": "面向独立创意人士和顾问。",
+        "stampColor": "从紫红色-500到紫色-600"
+      },
+      {
+        "icon": "Users",
+        "title": "家庭签证",
+        "description": "适用于配偶、子女和受抚养人。",
+        "stampColor": "从紫色500到紫罗兰色600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "签证续签",
+        "description": "全程签证管理。",
+        "stampColor": "从紫罗兰色 500 到靛蓝色 600"
+      },
+      {
+        "icon": "Send",
+        "title": "签证取消",
+        "description": "符合规定的签证注销服务。",
+        "stampColor": "从靛蓝500到蓝色600"
+      }
+    ]
+  },
+  "growthSupportSection": {
+    "badge": "增长支持",
+    "title": "发展您的创意业务",
+    "titleHighlight": "创意商业",
+    "subtitle": "除了前期准备工作，我们还通过战略服务帮助您的创意品牌实现规模化发展。",
+    "items": [
+      {
+        "icon": "Megaphone",
+        "title": "市场营销与公关",
+        "description": "为创意品牌提供品牌营销和公关支持。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "业务拓展",
+        "description": "增长战略和合作机会。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "市场调研",
+        "description": "对区域创意产业的洞察。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "数字化转型",
+        "description": "为创意品牌提供电子商务、网站和技术解决方案。",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "strategicSection": {
+    "badge": "战略位置",
+    "title": "位于迪拜市中心",
+    "titleHighlight": "迪拜之心",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "地点",
+    "imageBadgeText": "迪拜市中心",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "黄金地段",
+        "description": "毗邻哈利法塔、迪拜购物中心和迪拜运河。"
+      },
+      {
+        "icon": "Plane",
+        "title": "20分钟即可到达迪拜",
+        "description": "可快速抵达迪拜国际机场。"
+      },
+      {
+        "icon": "Building2",
+        "title": "互联社区",
+        "description": "步行即可到达的区域，遍布画廊、咖啡馆和设计中心。"
+      },
+      {
+        "icon": "Globe",
+        "title": "全球影响力",
+        "description": "直接进入区域和国际市场。"
+      },
+      {
+        "icon": "Heart",
+        "title": "创意生活方式",
+        "description": "在充满活力的创意社区生活、工作和娱乐。"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "您的 D3 设置合作伙伴",
+    "titleHighlight": "设置合作伙伴",
+    "subtitle": "深受迪拜数百家创意企业的信赖。",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "创意产业专业知识",
+        "description": "我们了解设计师、艺术家和时尚品牌的独特需求。",
+        "color": "from-rose-400 to-pink-600",
+        "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速周转",
+        "description": "优先处理，3-5天内即可完成设置。",
+        "color": "from-pink-400 to-fuchsia-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "icon": "Compass",
+        "title": "战略指导",
+        "description": "专家提供关于活动选择、许可和创意企业设立方面的建议。",
+        "color": "from-fuchsia-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜设计区自由区，您需要了解的一切。",
+    "items": [
+      {
+        "q": "什么是迪拜设计区（D3）？",
+        "a": "D3是中东首个专注于设计、时尚、艺术和文化的创意自由区，汇聚了来自世界各地的500多家创意企业。"
+      },
+      {
+        "q": "我可以在D3中运行哪些活动？",
+        "a": "设计与品牌推广、时尚与纺织、视觉艺术与摄影、创意机构、建筑和数字媒体都是允许的活动。"
+      },
+      {
+        "q": "D3的安装需要多长时间？",
+        "a": "通常情况下，只要文件齐全，3-5个工作日即可完成。我们的团队会确保流程顺畅。"
+      },
+      {
+        "q": "我可以在D3中获得100%的外资所有权吗？",
+        "a": "是的。D3允许100%外资控股——无需本地担保人。"
+      },
+      {
+        "q": "D3有哪些税收优惠？",
+        "a": "企业所得税和个人所得税均为0%，利润和资本可全额汇回。"
+      },
+      {
+        "q": "D3区有哪些办公空间可供出租？",
+        "a": "共享办公桌、创意工作室、精装修办公室、零售空间以及毛坯房等多种选择。"
+      },
+      {
+        "q": "我可以用D3许可证开银行账户吗？",
+        "a": "是的。我们会根据您的企业情况，协助您在阿联酋顶级银行开设企业银行账户。"
+      },
+      {
+        "q": "D3适合自由职业者吗？",
+        "a": "是的。D3 提供自由职业许可证和共享办公桌，专为独立创意人士设计。"
+      },
+      {
+        "q": "我可以用D3驾照担保我的家人吗？",
+        "a": "是的。D3支持家庭签证担保，以及投资签证和工作签证担保。"
+      },
+      {
+        "q": "Setup Zone Dubai提供哪些支持？",
+        "a": "我们负责公司注册、许可证发放、签证、银行账户以及持续的商业咨询。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的 D3 设置完美搭配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-rose-400 to-pink-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备好在D3中发布了吗？",
+    "titleHighlight": "D3？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个D3设置流程——从许可证申请到系统上线。",
+    "primaryCta": "WhatsApp 联系我们",
+    "whatsappMessage": "您好！我想咨询一下D3的设置，需要免费咨询。",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "免费咨询",
+      "500+ 客户",
+      "3-5天安装完成"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

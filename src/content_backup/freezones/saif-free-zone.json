@@ -1,0 +1,150 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1600&q=80",
+  "heroBadge": "Sharjah Airport International Free Zone",
+  "heroTitle": "SAIF Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "One of the UAE's most strategically situated Free Zones — next to Sharjah International Airport, with direct access to major highways and seaports. Perfect for logistics, manufacturing, and international trade.",
+  "heroChips": ["Same-Day Setup", "0% Tax", "Airport Adjacent"],
+
+  "stats": [
+    { "icon": "Clock", "value": "Same Day", "label": "Registration", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax & Customs", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Plane", "value": "Airport", "label": "Adjacent Zone", "color": "from-sky-400 to-blue-600" }
+  ],
+
+  "whySaifSection": {
+    "badge": "Why SAIF Zone",
+    "title": "Benefits of Forming in SAIF Free Zone",
+    "titleHighlight": "SAIF Free Zone",
+    "subtitle": "One of the UAE's most strategically situated Free Zones.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full control of decisions, profit, and operations.", "color": "from-emerald-400 to-teal-600", "size": "small" },
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Tax", "description": "No income tax, no company tax — take home more and reinvest more.", "color": "from-teal-400 to-cyan-600", "size": "small" },
+      { "icon": "Package", "title": "No Import/Export Duty", "description": "Exempt from all customs duty on imports and exports within the zone.", "color": "from-cyan-400 to-sky-600", "size": "small" },
+      { "icon": "Plane", "title": "Prime Location Next to Sharjah Airport", "description": "Direct access to major UAE highways and seaports — ideal for logistics, distribution, freight forwarding, and international trade.", "color": "from-sky-400 to-blue-600", "size": "large" },
+      { "icon": "Zap", "title": "Quick Setup Time", "description": "Same-day registration with instant license approval and full digital documentation.", "color": "from-emerald-400 to-teal-600", "size": "small" },
+      { "icon": "Building2", "title": "Wide Variety of Facilities", "description": "Ready-to-use offices, light industrial units, warehousing, and customizable land area.", "color": "from-teal-400 to-cyan-600", "size": "small" }
+    ]
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "Choose the Right SAIF License",
+    "titleHighlight": "SAIF License",
+    "subtitle": "Fast, easy, and accurate — we help you select based on your business activity.",
+    "items": [
+      { "icon": "Store", "title": "Commercial License", "description": "For general trading, import/export, and wholesale.", "code": "COM", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Briefcase", "title": "Service License", "description": "For consultancies, legal, HR, and logistics services.", "code": "SRV", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Factory", "title": "Industrial License", "description": "For manufacturing, processing, and assembly operations.", "code": "IND", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "ShoppingCart", "title": "E-Commerce License", "description": "For online businesses and digital trade platforms.", "code": "ECM", "color": "from-sky-400 to-blue-600" },
+      { "icon": "UserCheck", "title": "Freelance & Startup Permits", "description": "Specialized licenses for individual professionals and startup owners.", "code": "FRL", "color": "from-emerald-500 to-green-600" }
+    ]
+  },
+
+  "howWeHelpSection": {
+    "badge": "How We Help",
+    "title": "From Start to Scale — Every Step Handled",
+    "titleHighlight": "Every Step Handled",
+    "subtitle": "Your complete SAIF Free Zone setup, end to end.",
+    "steps": [
+      { "step": "01", "title": "Activity Selection & Name Reservation", "description": "We help you select the most suitable SAIF business activity and reserve a unique company name per SAIF regulations.", "icon": "Target", "color": "from-emerald-400 to-teal-600", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" },
+      { "step": "02", "title": "Company Formation & License Application", "description": "Our team files all documents and forms to obtain your SAIF trade license — commercial, industrial, or service.", "icon": "FileText", "color": "from-teal-400 to-cyan-600", "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80" },
+      { "step": "03", "title": "Visa Process & Establishment Card", "description": "We make it easy to apply for investor or employee visas and the SAIF establishment card.", "icon": "UserCheck", "color": "from-cyan-400 to-sky-600", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80" },
+      { "step": "04", "title": "Office or Warehouse Selection", "description": "We provide a list of office spaces, light industrial units, or warehouse options that match your plan and budget.", "icon": "Warehouse", "color": "from-sky-400 to-blue-600", "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80" },
+      { "step": "05", "title": "Bank Account & Document Attestation", "description": "We open your corporate bank account and notarize/attest documents if required.", "icon": "CreditCard", "color": "from-emerald-400 to-teal-600", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80" },
+      { "step": "06", "title": "PRO Services & Medical Registration", "description": "We handle medicals, Emirates ID, visa stamping, labor approvals, and renewals with one point of contact.", "icon": "ClipboardCheck", "color": "from-teal-400 to-cyan-600", "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80" },
+      { "step": "07", "title": "License Renewal & Compliance", "description": "Our compliance team ensures your business is active and audit-ready with on-time renewals.", "icon": "RefreshCw", "color": "from-cyan-400 to-sky-600", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80" },
+      { "step": "08", "title": "Legal Support for UBO, ESR & AML", "description": "Advisory and filing support for UBO, ESR, and AML compliance in accordance with UAE law.", "icon": "ShieldCheck", "color": "from-sky-400 to-blue-600", "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80" }
+    ]
+  },
+
+  "digitalGrowthSection": {
+    "badge": "Digital Growth",
+    "title": "Can You Grow Digitally in SAIF?",
+    "titleHighlight": "Digitally in SAIF?",
+    "subtitle": "Absolutely! Your journey doesn't end at licensing — we build a future-proof digital presence.",
+    "items": [
+      { "icon": "Monitor", "title": "Website & E-Commerce Development", "description": "Modern, responsive websites and online stores.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Layers", "title": "CRM & CMS Integration", "description": "Streamlined operations for SAIF businesses.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Search", "title": "SEO Services in Sharjah & UAE", "description": "Rank higher on Google and drive organic traffic.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "CreditCard", "title": "Payment Gateway Setup", "description": "Integrate secure payment solutions.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Megaphone", "title": "Social Media & PPC Ads", "description": "Targeted campaigns that convert.", "color": "from-emerald-500 to-green-600" },
+      { "icon": "Award", "title": "Trademark Registration & Brand", "description": "Protect and build your brand identity.", "color": "from-teal-500 to-cyan-600" }
+    ]
+  },
+
+  "liquidationSection": {
+    "badge": "Liquidation & Compliance",
+    "title": "Business Exit Made Easy",
+    "titleHighlight": "Made Easy",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "100% Legal",
+    "imageBadgeText": "Compliant Exit",
+    "paragraphs": [
+      "If you're ready to close or exit your business in SAIF, we make the entire liquidation process easy, legal, and painless.",
+      "We clear outstanding bills, cancel employee visas, follow all offboarding procedures, and deactivate your business license with SAIF authorities.",
+      "We also handle asset transfers, final audits, and obtaining all necessary No Objection Certificates (NOCs) — so you can exit your business with full confidence."
+    ],
+    "highlights": ["Bill Clearance", "Visa Cancellation", "License Deactivation", "Asset Transfer", "Final Audit", "NOC Assistance"]
+  },
+
+  "activitiesSection": {
+    "badge": "Allowed Activities",
+    "title": "What Activities Are Allowed in SAIF Free Zone?",
+    "titleHighlight": "SAIF Free Zone?",
+    "subtitle": "One of the most varied and versatile lists of business activities of any UAE free zone.",
+    "items": [
+      { "icon": "Store", "title": "Trading & Import/Export", "description": "Wholesale distribution with fast-track licensing.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Truck", "title": "Warehousing & Logistics", "description": "Near Sharjah Airport and major seaports.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Factory", "title": "Manufacturing & Assembly", "description": "Light assembly, packaging, electronics, and printing.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Cpu", "title": "Technology & IT Services", "description": "Software development and digital services.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Megaphone", "title": "Marketing & Media", "description": "Consulting, media, and content creation firms.", "color": "from-emerald-500 to-green-600" },
+      { "icon": "Plane", "title": "Aviation Services", "description": "Airport-adjacent businesses and freight forwarding.", "color": "from-teal-500 to-cyan-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about SAIF Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our SAIF specialists.",
+      "whatsappMessage": "Hi! I have a question about SAIF Free Zone."
+    },
+    "items": [
+      { "q": "What is the procedure to register a new company in SAIF Free Zone?", "a": "Select a license (commercial, service, industrial, or e-commerce), choose your business activity, reserve a company name, submit documents, secure your visa and establishment card, and lease an office or warehouse. We handle all these steps for you." },
+      { "q": "How long does registering a company in SAIF Zone take?", "a": "SAIF Free Zone offers same-day registration with instant license approval. Typically, the full setup completes in 2-5 business days." },
+      { "q": "What types of Business Licenses are available in SAIF Zone?", "a": "Commercial, Service, Industrial, E-Commerce licenses, plus Freelance & Startup permits — each tailored to different business activities." },
+      { "q": "Can I legally have 100% ownership of my SAIF company as a foreigner?", "a": "Yes. SAIF Free Zone allows 100% foreign ownership — no local sponsor required." },
+      { "q": "Which tax advantages can you experience within SAIF Free Zone?", "a": "Zero personal and corporate income tax, no customs duty on imports and exports, and full repatriation of profits." },
+      { "q": "What type of facilities are offered in the SAIF Free Zone?", "a": "Ready-to-use office spaces, light industrial units, warehousing, and customizable industrial land plots." },
+      { "q": "Is SAIF Free Zone a good option for logistics and/or manufacturing companies?", "a": "Absolutely. SAIF is next to Sharjah International Airport with direct access to major highways and seaports — ideal for logistics, distribution, freight forwarding, manufacturing, and assembly." },
+      { "q": "Is it possible to get help with SAIF visa services?", "a": "Yes. We handle investor visas, employee visas, family sponsorship, Emirates ID, medicals, and renewals." },
+      { "q": "What compliance services do SAIF companies require?", "a": "UBO reporting, ESR filings, AML compliance, license renewals, and ongoing regulatory monitoring." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your SAIF Free Zone setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "pro-services", "title": "PRO Services", "description": "Emirates ID, labor cards, visa stamping, and renewals.", "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80", "gradient": "from-teal-400 to-cyan-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Today",
+    "title": "Ready to Launch in SAIF?",
+    "titleHighlight": "SAIF?",
+    "subtitle": "Get a free consultation. We'll guide you through the setup process — from license to launch.",
+    "chips": ["Free Consultation", "Same-Day Setup", "0% Tax"],
+    "whatsappMessage": "Hi! I'd like a free consultation for SAIF setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss SAIF setup."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "badge": "Estructura tu negocio de forma inteligente.",
+  "heading": {
+    "line1": "¿Qué es mejor para ti?",
+    "highlight": "¿Zona franca o territorio continental?"
+  },
+  "subtitle": "La estructura empresarial adecuada depende de dónde planeas operar, cuántas visas necesitas y tu presupuesto. Aquí­ tienes un breve resumen.",
+  "vsLabel": "VS",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "Zona Franca",
+      "short": "FZ",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "Internacional",
+      "tagline": "Ideal para empresas globales",
+      "bestFor": "Comercio internacional, servicios en lí­nea, consultorí­a",
+      "highlight": "Propiedad al 100%, ventajas fiscales, sin aranceles aduaneros.",
+      "limitation": "Visados limitados en función del tamaño de la oficina.",
+      "ctaText": "Explorar la configuración de la zona libre",
+      "whatsappMessage": "¡Hola! Estoy interesado en establecer una empresa en una zona franca en Dubái.",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "Continente",
+      "short": "ML",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "Mercado local",
+      "tagline": "Ideal para el crecimiento local",
+      "bestFor": "Comercio minorista local, construcción, restaurantes, agencias",
+      "highlight": "Acceso total al mercado de los EAU, sin restricciones comerciales.",
+      "limitation": "Un mayor nivel de elegibilidad para visas requiere más espacio de oficina.",
+      "ctaText": "Explorar la configuración continental",
+      "whatsappMessage": "¡Hola! Estoy interesado en establecer una empresa continental en Dubái.",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "Lo mejor para",
+  "tableHeaders": {
+    "features": "Caracterí­sticas",
+    "freezone": "Zona Franca",
+    "mainland": "Continente"
+  },
+  "features": [
+    {
+      "icon": "Wallet",
+      "label": "Propiedad",
+      "freezone": {
+        "value": "100%",
+        "score": 100
+      },
+      "mainland": {
+        "value": "100%",
+        "score": 100
+      }
+    },
+    {
+      "icon": "TrendingUp",
+      "label": "Beneficios fiscales",
+      "freezone": {
+        "value": "0% - 9%",
+        "score": 90
+      },
+      "mainland": {
+        "value": "0% - 9%",
+        "score": 85
+      }
+    },
+    {
+      "icon": "Target",
+      "label": "Acceso al mercado de los EAU",
+      "freezone": {
+        "value": "Limitado",
+        "score": 40
+      },
+      "mainland": {
+        "value": "Lleno",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Users",
+      "label": "Requisitos para obtener la visa",
+      "freezone": {
+        "value": "Limitado",
+        "score": 60
+      },
+      "mainland": {
+        "value": "Alto",
+        "score": 90
+      }
+    },
+    {
+      "icon": "Landmark",
+      "label": "Comercio local",
+      "freezone": {
+        "value": "Restringido",
+        "score": 30
+      },
+      "mainland": {
+        "value": "Ilimitado",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Zap",
+      "label": "Velocidad de configuración",
+      "freezone": {
+        "value": "3-7 dí­as",
+        "score": 95
+      },
+      "mainland": {
+        "value": "2-4 semanas",
+        "score": 50
+      }
+    }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "¿Aíºn no sabes cuál elegir?",
+    "subtitle": "Solicita una consulta gratuita. Analizaremos la actividad de tu negocio y te recomendaremos la estructura más adecuada.",
+    "primaryCta": "Hable con un experto",
+    "secondaryCta": "Llámenos",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Necesito ayuda para decidir entre la Zona Franca y el territorio continental. ¿Podemos hablarlo?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

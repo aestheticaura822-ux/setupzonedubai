@@ -1,0 +1,221 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Build Your Future with Setup Zone Dubai",
+  "heroTitle": "Mainland Company Formation in Dubai",
+  "heroTitleHighlight": "Formation in Dubai",
+  "heroSubtitle": "Your pathway to the complete UAE economy. Business license, residency visa assistance, banking support, and post-setup services — end to end.",
+  "heroChips": ["7 Emirates Access", "100% Ownership", "Govt Contracts", "2-5 Days License"],
+
+  "stats": [
+    { "icon": "Globe", "value": "7", "label": "Emirates Access", "color": "from-amber-400 to-orange-600" },
+    { "icon": "Globe2", "value": "100%", "label": "Foreign Ownership", "color": "from-orange-400 to-red-600" },
+    { "icon": "Landmark", "value": "Open", "label": "Government Contracts", "color": "from-red-400 to-rose-600" },
+    { "icon": "Clock", "value": "2-5", "label": "Days Licensing", "color": "from-rose-400 to-pink-600" }
+  ],
+
+  "introSection": {
+    "badge": "Your Pathway to UAE Economy",
+    "title": "Complete UAE Market Access",
+    "titleHighlight": "UAE Market Access",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "DET Approved",
+    "imageBadgeText": "Mainland License",
+    "paragraphs": [
+      "Dubai Mainland Company Formation is your pathway to the complete UAE economy, allowing you to do business across Dubai, the Emirates, and internationally.",
+      "In addition to being a great gateway to doing business in Dubai, the Mainland gives you unparalleled access to customers, investors, and government contracts.",
+      "Whether you are starting your first business or expanding your global company's reach, setting up on Dubai Mainland is an amazing opportunity to gain access to the UAE economy. At Setup Zone Dubai, we help you set up your mainland company with complete compliance — business license, residency visa assistance, banking support, and post-setup services."
+    ],
+    "highlights": ["Full UAE Access", "Investor Access", "Government Contracts", "Banking Support", "Visa Processing", "Post-Setup Services"]
+  },
+
+  "licenseTypesSection": {
+    "badge": "Mainland License Options",
+    "title": "What Mainland Licenses Can You Obtain?",
+    "titleHighlight": "Mainland Licenses",
+    "subtitle": "Swipe through 5 license types — pick the right one for your activity.",
+    "items": [
+      {
+        "id": "trade",
+        "icon": "StoreIcon",
+        "title": "Trade License",
+        "tagline": "Buy, Sell & Distribute",
+        "description": "Suitable for import/export businesses, wholesalers, retail shops, and distributors — trading across the UAE and internationally.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": ["Import/Export", "Wholesale", "Retail Shops", "Distributors"],
+        "bestFor": "Traders"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Professional / Service License",
+        "tagline": "Expertise & Consulting",
+        "description": "Best suited to consultants, IT services, marketing agencies, educators, and healthcare professionals — with 100% ownership options.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": ["Consultants", "IT Services", "Marketing", "Healthcare"],
+        "bestFor": "Service Providers"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Industrial License",
+        "tagline": "Manufacture & Produce",
+        "description": "For manufacturing, production, and industrial assembly businesses with access to industrial land and government support.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": ["Manufacturing", "Production", "Assembly", "Industrial Land"],
+        "bestFor": "Manufacturers"
+      },
+      {
+        "id": "tourism",
+        "icon": "Plane",
+        "title": "Tourism License",
+        "tagline": "Travel & Hospitality",
+        "description": "For travel agents, tour companies, and hotels providing services to customers across the UAE tourism sector.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": ["Travel Agents", "Tour Companies", "Hotels", "Hospitality"],
+        "bestFor": "Tourism Businesses"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "E-commerce License",
+        "tagline": "Digital-First Business",
+        "description": "For launching a digital-first business with a physical presence — combining online sales with showroom or warehouse operations.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": ["Online Store", "Physical Presence", "Warehousing", "Multi-Channel"],
+        "bestFor": "E-commerce Brands"
+      }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "What's Included",
+    "title": "Our Mainland Formation Services",
+    "titleHighlight": "Services",
+    "subtitle": "Eight end-to-end services — everything taken care of.",
+    "items": [
+      { "icon": "Target", "title": "Business Activity Classification", "description": "Determine your license type with DET and avoid fines.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "FileSignature", "title": "Company Name Reservation", "description": "Ensure a unique name and compliant approach to obtaining approvals.", "color": "from-orange-400 to-red-600" },
+      { "icon": "ScrollText", "title": "Trade License Application", "description": "Registering with DET including initial approval, MoA, tenancy agreement, and final license.", "color": "from-red-400 to-rose-600" },
+      { "icon": "ShieldCheck", "title": "Post-Setup Compliance", "description": "VAT registration, ESR/UBO reporting, and accounting setup guidance.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Building2", "title": "Office Space Assistance", "description": "Assistance with obtaining lease for approved Dubai mainland locations.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Handshake", "title": "Local Service Agent (if required)", "description": "Transparent agency arrangements for activities requiring Emirati participation.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Bank", "title": "Bank Account Opening", "description": "Facilitate opening of a corporate account with top UAE banks.", "color": "from-violet-400 to-indigo-600" }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Why Mainland?",
+    "title": "Benefits of Mainland Business Setup",
+    "titleHighlight": "Mainland Business Setup",
+    "subtitle": "Seven powerful advantages for scalable businesses.",
+    "items": [
+      { "icon": "StoreIcon", "label": "Sell Across UAE & GCC", "desc": "Products/services with full commercial freedom", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Globe", "label": "Operate Globally", "desc": "No geographical limitations", "color": "from-orange-400 to-red-600" },
+      { "icon": "Wallet", "label": "Repatriate Profits & Capital", "desc": "Complete financial freedom", "color": "from-red-400 to-rose-600" },
+      { "icon": "Users", "label": "Access B2B & B2C Customers", "desc": "UAE's local customer base", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Landmark", "label": "Bid for Government Contracts", "desc": "Public & semi-government tenders", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "BadgeCheck", "label": "Long-Term Residency", "desc": "Via investor visa eligibility", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "DollarSign", "label": "Zero Corporate Tax", "desc": "At current thresholds", "color": "from-purple-400 to-violet-600" }
+    ],
+    "ctaCard": {
+      "title": "Ready to Scale?",
+      "text": "Talk to our experts",
+      "buttonText": "Get Started",
+      "whatsappMessage": "Hi! I'm ready to scale my mainland business."
+    }
+  },
+
+  "whoShouldConsiderSection": {
+    "badge": "Who Is This For?",
+    "title": "Who Should Consider a Mainland Company?",
+    "titleHighlight": "Mainland Company?",
+    "subtitle": "A mainland license suits almost every serious business model.",
+    "items": [
+      { "icon": "ShoppingCart", "title": "E-commerce Brands", "description": "Seeking flexible office & warehouse space for online operations with logistics support.", "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80", "color": "from-amber-500 to-orange-700" },
+      { "icon": "Briefcase", "title": "Legal, Media, Tech & Marketing Consultancies", "description": "Wanting full ownership and operational reach across the UAE.", "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80", "color": "from-orange-500 to-red-700" },
+      { "icon": "Utensils", "title": "Food & Beverage, Salons, Clinics, Gyms", "description": "Needing UAE-wide access to local customers across the city.", "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80", "color": "from-red-500 to-rose-700" },
+      { "icon": "StoreIcon", "title": "Retailers & Wholesalers", "description": "Planning to open physical outlets, shops, and showrooms.", "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80", "color": "from-rose-500 to-pink-700" },
+      { "icon": "Laptop", "title": "Professionals & Freelancers", "description": "Operating under a license as a legal person, networking with local clients.", "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80", "color": "from-fuchsia-500 to-purple-700" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Setup Zone Dubai",
+    "title": "We Build Brands, Systems & Success",
+    "titleHighlight": "Brands, Systems & Success",
+    "subtitle": "Six pillars that make us the trusted setup partner.",
+    "items": [
+      { "icon": "Target", "label": "Custom Setup Packages", "desc": "Tailored to activity and budget" },
+      { "icon": "Building2", "label": "Leasing Support", "desc": "Office, warehouse & showroom space" },
+      { "icon": "Bank", "label": "Bank Account Assistance", "desc": "Opening UAE business accounts" },
+      { "icon": "Zap", "label": "Fast Licensing", "desc": "2-5 working days" },
+      { "icon": "Megaphone", "label": "Post-Launch Services", "desc": "Digital marketing, CRM & branding" },
+      { "icon": "ShieldCheck", "label": "DET Regulations Expert", "desc": "Free Zone migration & offshore structuring" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Our track record speaks for itself.",
+    "items": [
+      { "icon": "Building2", "value": "10,000+", "label": "Companies Formed", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Globe", "value": "7", "label": "Emirates Access", "color": "from-orange-400 to-red-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Setup Expert", "color": "from-red-400 to-rose-600" },
+      { "icon": "Zap", "value": "Fast", "label": "Licensing", "color": "from-rose-400 to-pink-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Setup Partner", "color": "from-fuchsia-400 to-purple-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Mainland Company Formation. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our mainland specialists.",
+      "whatsappMessage": "Hi! I have a question about Mainland Company Formation."
+    },
+    "items": [
+      { "q": "What is a mainland company in Dubai?", "a": "A mainland company in Dubai is a business licensed by the Department of Economy & Tourism (DET) with the full capability of operating in all parts of the UAE. Unlike Free Zone companies, a mainland company can trade with the local market directly, bid for government contracts, and lease office or retail space anywhere in Dubai." },
+      { "q": "Can expatriates fully own a mainland company in Dubai?", "a": "Yes. Since 2021, most mainland business activities allow 100% foreign ownership. Certain strategic activities may still require a local partner. We help you determine your specific case." },
+      { "q": "What are the benefits of setting up a mainland company rather than a Free Zone?", "a": "Mainland companies can trade directly with the UAE local market, bid for government contracts, operate across all 7 Emirates, hire unlimited employees based on office space, and have no geographical limitations." },
+      { "q": "How long does it take to get a mainland business license?", "a": "Typically 2-5 working days for license issuance, with the complete setup (including office lease and visa processing) taking 2-4 weeks." },
+      { "q": "What kind of licenses are available to form a mainland company?", "a": "Trade License, Professional/Service License, Industrial License, Tourism License, and E-commerce License — each suited to specific business activities." },
+      { "q": "Do I need office space to form a mainland company?", "a": "Yes. Mainland companies require a registered physical office (Ejari). We assist with finding the right office, warehouse, or showroom space for your business." },
+      { "q": "Can a mainland company do business and open branches in all emirates?", "a": "Yes. A mainland license allows you to operate freely across all 7 Emirates and open branches anywhere in the UAE without restrictions." },
+      { "q": "Do Dubai mainland companies have corporate tax implications?", "a": "Mainland companies are subject to UAE corporate tax regulations. At current thresholds, qualifying small businesses may benefit from 0% tax. We provide full compliance and VAT registration guidance." },
+      { "q": "What is the visa process for a mainland company?", "a": "We handle investor visas, partner visas, and employee visas — including Emirates ID, medical testing, and full PRO services. Visa quota depends on your office space size." },
+      { "q": "Why should I pick Setup Zone Dubai for mainland company registration?", "a": "We provide end-to-end support — activity classification, licensing, office lease, visa processing, bank account opening, and post-setup services including CRM, branding, and digital marketing." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with Mainland Company Formation.",
+    "items": [
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore structures.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-orange-600" },
+      { "slug": "trade-license", "title": "Trade License in Dubai", "description": "Get your DET trade license in 2-5 days.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-orange-400 to-red-600" },
+      { "slug": "local-corporate-sponsor", "title": "Local Corporate Sponsor", "description": "Secure 100% control with a trusted sponsor.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-red-400 to-rose-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Ready to Set Up in Dubai Mainland?",
+    "title": "Strategic Location. No Restrictions on Trade.",
+    "titleHighlight": "No Restrictions on Trade.",
+    "subtitle": "Launch your mainland business with Setup Zone Dubai — the trusted partner for long-term business success in the UAE.",
+    "chips": ["Free Consultation", "2-5 Days Setup", "100% Ownership"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Mainland Company Formation.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Mainland Company Formation."
+  }
+}

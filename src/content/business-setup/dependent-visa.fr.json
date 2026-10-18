@@ -1,0 +1,504 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&q=80",
+  "heroBadge": "Réunissez votre famille",
+  "heroTitle": "Visa de résidence pour personne à charge aux Émirats arabes unis",
+  "heroTitleHighlight": "Visa de résidence",
+  "heroSubtitle": "Parrainez votre conjoint, vos enfants, vos parents et votre personnel de maison pour qu'ils vivent avec vous aux Émirats arabes unis. Parrainage familial complet avec tous les avantages liés à la résidence.",
+  "heroChips": [
+    "4 types dépendants",
+    "Valable 2 à 3 ans",
+    "Famille ensemble",
+    "Avantages sociaux complets"
+  ],
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "4",
+      "label": "Types dépendants",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Années de validité",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "Rapide",
+      "label": "Traitement",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "Conforme",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Qu'est-ce que c'est?",
+    "title": "Qu’est-ce qu’un visa de personne à charge aux Émirats arabes unis ?",
+    "titleHighlight": "Visa de personne à charge pour les Émirats arabes unis ?",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+    "imageBadgeTitle": "Famille ensemble",
+    "imageBadgeText": "Résidence complète",
+    "paragraphs": [
+      "Un visa de résidence pour personnes à charge aux Émirats arabes unis permet aux titulaires d'un visa de résidence aux Émirats arabes unis de parrainer les membres de leur famille — conjoint, enfants, parents et employés de maison — pour qu'ils vivent avec eux aux Émirats arabes unis.",
+      "Si vous êtes titulaire d'un visa de travail ou d'investisseur et que votre salaire minimum est de 4 000 AED, vous pouvez parrainer votre conjoint et vos enfants sous votre statut de résident. Pour les parents, le montant requis est de 20 000 AED ou plus, et des documents supplémentaires sont nécessaires.",
+      "Les titulaires de visas de personne à charge bénéficient de tous les droits de résidence : permis de travail, accès aux services bancaires, aux soins de santé, à l’éducation et carte d’identité émirienne. Chez Setup Zone Dubai, nous prenons en charge l’intégralité du processus de parrainage familial, de la constitution du dossier à l’obtention du visa."
+    ],
+    "highlights": [
+      "L'unité familiale",
+      "Admissible au permis de travail",
+      "Accès aux services bancaires",
+      "Accès aux soins de santé",
+      "Accès à l'éducation",
+      "Carte d'identité des Émirats"
+    ]
+  },
+  "dependentTypesSection": {
+    "badge": "Qui pouvez-vous parrainer ?",
+    "title": "Types de visas pour personnes à charge",
+    "titleHighlight": "Visas de personnes à charge",
+    "subtitle": "Parcourez 4 catégories de personnes à charge et amenez vos proches aux Émirats arabes unis.",
+    "items": [
+      {
+        "id": "spouse",
+        "icon": "Heart",
+        "title": "Visa de conjoint",
+        "tagline": "Mari ou femme",
+        "description": "Parrainez votre conjoint(e) pour qu'il/elle vienne vivre avec vous aux Émirats arabes unis. Il/Elle bénéficiera de tous les droits de résidence, y compris l'éligibilité à un permis de travail, l'accès aux services bancaires et aux soins de santé.",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Mari/Femme",
+          "Admissible au permis de travail",
+          "Accès aux services bancaires",
+          "Accès aux soins de santé"
+        ],
+        "bestFor": "Couples mariés"
+      },
+      {
+        "id": "children",
+        "icon": "Baby",
+        "title": "Visa pour enfants",
+        "tagline": "Fils et filles",
+        "description": "Parrainez vos fils jusqu'à 25 ans (étudiants) et vos filles sans limite d'âge (célibataires). Accès complet à l'éducation, aux soins de santé et au mode de vie des Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "Fils jusqu'à 25 ans",
+          "Filles de tout âge",
+          "Accès à l'école",
+          "Soins de santé"
+        ],
+        "bestFor": "Parents"
+      },
+      {
+        "id": "parents",
+        "icon": "UsersRound",
+        "title": "Visa pour parents",
+        "tagline": "Père et mère",
+        "description": "Parrainez vos parents (60 ans et plus) pour qu'ils vivent avec vous aux Émirats arabes unis. Cela nécessite un salaire minimum, un logement et une assurance maladie.",
+        "image": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "Parents de 60 ans et plus",
+          "Assurance maladie",
+          "Logements adéquats",
+          "Résidence complète"
+        ],
+        "bestFor": "Enfants adultes"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "Visa de travailleur domestique",
+        "tagline": "Personnel de maison",
+        "description": "Nous proposons nos services de recrutement pour le personnel domestique (femmes de ménage, cuisiniers, chauffeurs, nounous, jardiniers, etc.). Notre politique est entièrement conforme à la législation du travail des Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "Femmes de ménage",
+          "Cuisiniers et chauffeurs",
+          "Nounous et jardiniers",
+          "Conforme au droit du travail"
+        ],
+        "bestFor": "Familles"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Prestations familiales",
+    "title": "Avantages du visa de personne à charge",
+    "titleHighlight": "Visa de personne à charge",
+    "subtitle": "Huit atouts majeurs pour votre famille aux Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "L'unité familiale",
+        "description": "Vivez ensemble avec vos proches aux Émirats arabes unis — fini les relations à distance.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Accès à l'éducation",
+        "description": "Les enfants peuvent fréquenter les meilleures écoles, universités et programmes d'études internationaux des Émirats arabes unis.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Accès aux soins de santé",
+        "description": "Accès complet aux infrastructures de santé de classe mondiale des Émirats arabes unis et à l'assurance médicale.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Accès aux services bancaires",
+        "description": "Les personnes à charge peuvent ouvrir des comptes bancaires aux Émirats arabes unis et accéder à des services financiers.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Voyage sans visa",
+        "description": "Les personnes à charge bénéficient de la possibilité de voyager facilement à l'intérieur et à l'extérieur des Émirats arabes unis grâce aux visas à entrées multiples.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Admissible au permis de travail",
+        "description": "Les conjoints peuvent demander un permis de travail avec leur visa de personne à charge.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "IdCard",
+        "title": "Carte d'identité des Émirats",
+        "description": "Les personnes à charge obtiennent leur propre carte d'identité émirienne pour avoir accès à l'ensemble des services des Émirats arabes unis.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Car",
+        "title": "Le permis de conduire",
+        "description": "Les personnes à charge peuvent obtenir un permis de conduire des Émirats arabes unis et posséder des véhicules.",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "Exigences de parrainage",
+    "title": "Ce dont vous avez besoin pour parrainer",
+    "titleHighlight": "Besoin de sponsor",
+    "subtitle": "Quatre conditions essentielles pour parrainer votre famille.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Exigence salariale minimale",
+        "description": "Le garant doit percevoir un salaire mensuel minimum de 4 000 AED (ou 3 000 AED + logement) pour son conjoint et ses enfants. Pour les parents, le salaire doit être supérieur ou égal à 20 000 AED.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Logements adéquats",
+        "description": "Le sponsor doit fournir un logement adéquat (Ejari ou contrat de location) de taille appropriée pour la famille.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Assurance maladie",
+        "description": "Une assurance maladie valide aux Émirats arabes unis est requise pour tous les membres de la famille dans le cadre de la demande de visa.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Documents certifiés",
+        "description": "Les certificats de mariage et de naissance doivent être légalisés par l'ambassade des Émirats arabes unis et le ministère des Affaires étrangères.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Processus en 6 étapes",
+    "title": "Comment obtenir un visa de personne à charge",
+    "titleHighlight": "Visa de personne à charge",
+    "subtitle": "Six étapes simples pour faire venir votre famille aux Émirats arabes unis.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Vérification d'admissibilité",
+        "description": "Nous confirmons votre admissibilité — statut de parrain, salaire minimum, logement et assurance.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "Collection de documents",
+        "description": "Actes de mariage, actes de naissance, copies de passeport et photos certifiés conformes.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "Soumission de la candidature",
+        "description": "Nous soumettons la demande à l'ICA ou à la GDRFA par l'intermédiaire de notre réseau prioritaire.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Approbation et permis d'entrée",
+        "description": "Autorisation d'entrée délivrée pour vos personnes à charge leur permettant d'entrer aux Émirats arabes unis.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stethoscope",
+        "title": "Carte médicale et carte d'identité des Émirats",
+        "description": "Les personnes à charge doivent passer des tests d'aptitude médicale et fournir leurs données biométriques pour obtenir leur carte d'identité émirienne.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "06",
+        "icon": "Stamp",
+        "title": "Estampillage de visa",
+        "description": "Visa de résidence définitif apposé sur les passeports — votre famille réside désormais officiellement aux Émirats arabes unis.",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Ce dont vous aurez besoin",
+    "title": "Documents requis",
+    "titleHighlight": "Documents",
+    "subtitle": "Nous nous occupons de toutes les formalités administratives et des autorisations en votre nom.",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "Sponsor Emirates ID",
+        "desc": "recto et verso"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "Certificat de mariage légalisé",
+        "desc": "Pour un visa de conjoint"
+      },
+      {
+        "icon": "Baby",
+        "label": "Actes de naissance certifiés",
+        "desc": "Visa pour enfants"
+      },
+      {
+        "icon": "Camera",
+        "label": "Photos de passeport",
+        "desc": "Fond blanc"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Certificat de salaire",
+        "desc": "De la part de l'employeur"
+      },
+      {
+        "icon": "Home",
+        "label": "Contrat de location Ejari",
+        "desc": "Preuve de logement"
+      },
+      {
+        "icon": "Stethoscope",
+        "label": "Assurance maladie",
+        "desc": "Pour les personnes à charge"
+      },
+      {
+        "icon": "FileText",
+        "label": "Certificat d'aptitude médicale",
+        "desc": "Pour la résidence"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Votre partenaire de confiance pour les visas familiaux",
+    "titleHighlight": "Partenaire de visa familial",
+    "subtitle": "Huit raisons pour lesquelles les familles nous font confiance.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Accès direct à l'autorité",
+        "desc": "Réseau prioritaire ICA et GDRFA"
+      },
+      {
+        "icon": "Zap",
+        "label": "Traitement rapide",
+        "desc": "Approbations accélérées"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Expert dévoué",
+        "desc": "spécialiste des visas familiaux personnels"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Tarification transparente",
+        "desc": "Aucuns frais cachés"
+      },
+      {
+        "icon": "Globe",
+        "label": "Équipe multilingue",
+        "desc": "Anglais, arabe, hindi, ourdou"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Soutien au renouvellement",
+        "desc": "Gestion continue des visas"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "Intégration familiale",
+        "desc": "Soutien familial complet"
+      },
+      {
+        "icon": "Award",
+        "label": "Expérience avérée",
+        "desc": "Des milliers d'approbations"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Approuvé par des milliers de familles",
+    "titleHighlight": "Des milliers de familles",
+    "subtitle": "La résidence de votre famille, entre des mains expertes.",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "Plus de 5 000",
+        "label": "Visas familiaux",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "180+",
+        "label": "Nationalités",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Menant",
+        "label": "Expert familial",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Rapide",
+        "label": "Traitement",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Conforme",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Préféré",
+        "label": "Partenaire familial",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur les visas pour personnes à charge aux Émirats arabes unis. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes en visas familiaux.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant le visa de personne à charge pour les Émirats arabes unis."
+    },
+    "items": [
+      {
+        "q": "Qui peut parrainer des personnes à charge aux Émirats arabes unis ?",
+        "a": "Tout titulaire d'un visa de résidence aux Émirats arabes unis, possédant un visa de travail ou d'investisseur valide, peut parrainer des personnes à charge. Les conditions requises incluent un salaire minimum (4 000 AED ou 3 000 AED + logement), un logement convenable et une assurance maladie."
+      },
+      {
+        "q": "Quel est le salaire minimum pour parrainer une famille ?",
+        "a": "Pour le conjoint et les enfants : 4 000 AED par mois (ou 3 000 AED + logement). Pour les parents : généralement 20 000 AED de salaire mensuel, logement et assurance compris."
+      },
+      {
+        "q": "Mon conjoint peut-il travailler aux Émirats arabes unis avec un visa de personne à charge ?",
+        "a": "Oui. Votre conjoint peut demander un permis de travail après avoir obtenu le visa de personne à charge. De nombreux employeurs prennent en charge cette démarche."
+      },
+      {
+        "q": "Quelle est la durée de validité d'un visa de personne à charge ?",
+        "a": "Les visas de personne à charge sont généralement valables de 2 à 3 ans, soit la même durée que le visa du titulaire. Ils doivent être renouvelés en même temps que celui du titulaire."
+      },
+      {
+        "q": "Puis-je parrainer mes parents aux Émirats arabes unis ?",
+        "a": "Oui. Vous pouvez parrainer vos parents (âgés de plus de 60 ans) si vous remplissez les conditions de salaire minimum (plus de 20 000 AED par mois), si vous leur fournissez un logement adéquat et une assurance maladie valide."
+      },
+      {
+        "q": "Quels documents doivent être attestés ?",
+        "a": "Le certificat de mariage (pour le conjoint), les certificats de naissance (pour les enfants) et les certificats scolaires doivent être légalisés par l'ambassade des Émirats arabes unis dans votre pays d'origine et par le ministère des Affaires étrangères des Émirats arabes unis."
+      },
+      {
+        "q": "Puis-je parrainer mon employé de maison ?",
+        "a": "Oui. Vous pouvez parrainer des travailleurs domestiques, notamment des femmes de ménage, des cuisiniers, des chauffeurs, des nounous et des jardiniers, dans le cadre de la catégorie de visa de travailleur domestique."
+      },
+      {
+        "q": "Combien de temps dure la procédure de visa de personne à charge ?",
+        "a": "Généralement de 2 à 4 semaines, selon la disponibilité des documents et les délais de traitement. Nous accélérons le processus grâce à notre réseau prioritaire au sein des administrations."
+      },
+      {
+        "q": "Les enfants peuvent-ils étudier aux Émirats arabes unis avec un visa de personne à charge ?",
+        "a": "Oui. Les enfants titulaires d'un visa de personne à charge peuvent s'inscrire dans les écoles et universités des Émirats arabes unis. Ils doivent présenter leur carte d'identité émirienne et les documents spécifiques à l'établissement scolaire."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour vos services de visa de personne à charge ?",
+        "a": "Nous offrons un accompagnement complet : évaluation d’éligibilité, documentation, dépôt de la demande, examens médicaux, carte d’identité émirienne et obtention du visa. Forts d’une expérience éprouvée et d’un accès direct aux autorités compétentes, nous garantissons un traitement rapide et conforme à la réglementation."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Services qui correspondent bien à votre visa de personne à charge.",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "Visa de résidence aux Émirats arabes unis",
+        "description": "Options de résidence de 2 à 10 ans.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa-services",
+        "title": "Services de visa doré",
+        "description": "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "Création d'entreprise à Dubaï",
+        "description": "Zone franche, continentale et offshore.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Réunissez votre famille",
+    "title": "Prêt à parrainer votre famille aux Émirats arabes unis ?",
+    "titleHighlight": "De la famille aux Émirats arabes unis ?",
+    "subtitle": "Contactez-nous dès aujourd'hui et laissez nos experts vous guider tout au long du processus de parrainage familial, de la constitution du dossier à l'obtention du visa.",
+    "chips": [
+      "Consultation gratuite",
+      "Traitement rapide",
+      "Soutien complet"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite concernant un visa de personne à charge pour les Émirats arabes unis.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais discuter du visa de personne à charge pour les Émirats arabes unis."
+  }
+}

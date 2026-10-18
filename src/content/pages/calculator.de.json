@@ -1,0 +1,265 @@
+{
+  "heroBadge": "Sofortige Kostenschí¤tzung",
+  "heroTitle": "Berechnen Sie Ihre Kosten für die Unternehmensgründung",
+  "heroTitleHighlight": "Kosten für die Unternehmensgründung",
+  "heroSubtitle": "Beantworten Sie ein paar Fragen und erhalten Sie sofort ein auf Sie zugeschnittenes Angebot.",
+  "steps": [
+    {
+      "id": 1,
+      "label": "Lizenz",
+      "icon": "FileText"
+    },
+    {
+      "id": 2,
+      "label": "Aktivití¤t",
+      "icon": "Briefcase"
+    },
+    {
+      "id": 3,
+      "label": "Büro",
+      "icon": "Building2"
+    },
+    {
+      "id": 4,
+      "label": "Extras",
+      "icon": "Package"
+    },
+    {
+      "id": 5,
+      "label": "Kontakt",
+      "icon": "Phone"
+    }
+  ],
+  "stepTitles": {
+    "license": {
+      "title": "Wí¤hlen Sie Ihren Lizenztyp.",
+      "subtitle": "Wí¤hlen Sie die Lizenz, die am besten zu Ihren Geschí¤ftsanforderungen passt."
+    },
+    "activity": {
+      "title": "Wí¤hlen Sie Ihre Geschí¤ftstí¤tigkeit aus",
+      "subtitle": "Wí¤hlen Sie die Branche, die zu Ihrem Unternehmen passt."
+    },
+    "office": {
+      "title": "Wí¤hlen Sie Ihre Büroflí¤che",
+      "subtitle": "Wí¤hlen Sie die Arbeitsbereichsoption, die am besten zu Ihren Arbeitsablí¤ufen passt."
+    },
+    "extras": {
+      "title": "Optionale Dienste hinzufügen",
+      "subtitle": "Erweitern Sie Ihr Paket mit zusí¤tzlichen Services (Mehrfachauswahl)."
+    },
+    "contact": {
+      "title": "Wohin sollen wir Ihren Kostenvoranschlag senden?",
+      "subtitle": "Geben Sie Ihre Daten ein, um die vollstí¤ndige Kostenaufstellung zu erhalten."
+    }
+  },
+  "licenseTypes": [
+    {
+      "id": "freezone",
+      "icon": "Globe",
+      "title": "Freizone",
+      "desc": "100 % Eigentum, 0 % Steuern",
+      "basePrice": 5999,
+      "badge": "Beliebt"
+    },
+    {
+      "id": "mainland",
+      "icon": "Building2",
+      "title": "Festland",
+      "desc": "Handel in den gesamten VAE, unbegrenzte Visa",
+      "basePrice": 14999
+    },
+    {
+      "id": "offshore",
+      "icon": "Ship",
+      "title": "Off-Shore",
+      "desc": "Holdinggesellschaft, Vermí¶gensschutz",
+      "basePrice": 12000
+    },
+    {
+      "id": "freelance",
+      "icon": "Laptop",
+      "title": "Freiberuflich",
+      "desc": "Freiberufler, Kreative",
+      "basePrice": 7500
+    }
+  ],
+  "activities": [
+    {
+      "id": "trading",
+      "icon": "ShoppingCart",
+      "title": "Allgemeiner Handel",
+      "desc": "Import, Export, GroíŸhandel",
+      "price": 0,
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "id": "ecommerce",
+      "icon": "Store",
+      "title": "E-Commerce",
+      "desc": "Online-Handel & Marktplatz",
+      "price": 0,
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "id": "it",
+      "icon": "Laptop",
+      "title": "IT & Software",
+      "desc": "Technologiedienstleistungen & SaaS",
+      "price": 450,
+      "color": "from-indigo-500 to-violet-700"
+    },
+    {
+      "id": "consulting",
+      "icon": "Briefcase",
+      "title": "Beratung",
+      "desc": "Wirtschaft & Management",
+      "price": 0,
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "id": "media",
+      "icon": "Camera",
+      "title": "Medien & Fotografie",
+      "desc": "Kreativdienstleistungen",
+      "price": 500,
+      "color": "from-pink-500 to-rose-700"
+    },
+    {
+      "id": "tourism",
+      "icon": "Globe",
+      "title": "Reisen & Tourismus",
+      "desc": "Tourismusberatung",
+      "price": 8500,
+      "color": "from-sky-500 to-blue-700"
+    },
+    {
+      "id": "fitness",
+      "icon": "Heart",
+      "title": "Fitness & Lifestyle",
+      "desc": "Wellness & Sport",
+      "price": 0,
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "id": "women",
+      "icon": "Sparkles",
+      "title": "Unternehmerinnen",
+      "desc": "Spezielles Gründerinnen-Paket",
+      "price": 0,
+      "color": "from-fuchsia-500 to-purple-700"
+    }
+  ],
+  "officeOptions": [
+    {
+      "id": "flexi",
+      "icon": "Users",
+      "title": "Flexi Desk",
+      "desc": "Gemeinsamer Arbeitsbereich",
+      "price": 0,
+      "badge": "Inklusive"
+    },
+    {
+      "id": "dedicated",
+      "icon": "Laptop",
+      "title": "Fester Schreibtisch",
+      "desc": "Ihr eigener Schreibtisch",
+      "price": 3000
+    },
+    {
+      "id": "private",
+      "icon": "Building2",
+      "title": "Privatbüro",
+      "desc": "Büro für 1-3 Personen",
+      "price": 12000
+    },
+    {
+      "id": "virtual",
+      "icon": "Globe",
+      "title": "Virtuelles Büro",
+      "desc": "Geschí¤ftsadresse",
+      "price": 1500
+    }
+  ],
+  "extrasList": [
+    {
+      "id": "visa1",
+      "icon": "UserCheck",
+      "title": "1. Aufenthaltsvisum",
+      "desc": "Investorenvisum mit medizinischer Untersuchung und Emirates ID",
+      "price": 5000
+    },
+    {
+      "id": "visa2",
+      "icon": "Users",
+      "title": "2. Visum",
+      "desc": "Zusí¤tzliches Arbeitsvisum",
+      "price": 4500
+    },
+    {
+      "id": "banking",
+      "icon": "Wallet",
+      "title": "Unterstützung bei der Kontoerí¶ffnung",
+      "desc": "Priorití¤res Firmenkundengeschí¤ft",
+      "price": 0,
+      "badge": "Frei"
+    },
+    {
+      "id": "vat",
+      "icon": "FileText",
+      "title": "Mehrwertsteuerberatung",
+      "desc": "Vollstí¤ndige Einrichtung und Beratung zur Umsatzsteuer",
+      "price": 0,
+      "badge": "Frei"
+    },
+    {
+      "id": "pro",
+      "icon": "ShieldCheck",
+      "title": "PRO-Services (1 Jahr)",
+      "desc": "Bearbeitung von Regierungsdokumenten",
+      "price": 3500
+    },
+    {
+      "id": "accounting",
+      "icon": "DollarSign",
+      "title": "Buchhaltung (1 Jahr)",
+      "desc": "Buchhaltung & Berichte",
+      "price": 4000
+    },
+    {
+      "id": "trademark",
+      "icon": "Award",
+      "title": "Markenanmeldung",
+      "desc": "Schützen Sie Ihre Marke",
+      "price": 6500
+    },
+    {
+      "id": "golden",
+      "icon": "Crown",
+      "title": "Golden Visa Upgrade",
+      "desc": "10-jí¤hrige Aufenthaltsgenehmigung in den VAE",
+      "price": 15000
+    }
+  ],
+  "quickAnswers": [
+    {
+      "q": "Wie viel kostet die Gründung eines Unternehmens in Dubai?",
+      "a": "Die Gründung eines Unternehmens in Dubai beginnt bei 9.500 AED für eine Basislizenz für eine Freizone. Auf dem Festland beginnen die Kosten bei 14.500 AED."
+    },
+    {
+      "q": "Kann ein Auslí¤nder in Dubai ein Unternehmen zu 100 % besitzen?",
+      "a": "Ja, Auslí¤nder kí¶nnen in den meisten Freizonen und bei vielen Aktivití¤ten auf dem Festland Unternehmen zu 100 % besitzen."
+    },
+    {
+      "q": "Welche ist die günstigste Freihandelszone in Dubai?",
+      "a": "RAK ICC, Ajman FTZ und SRTIP bieten die günstigsten Pakete ab 5.900 AED an."
+    },
+    {
+      "q": "Wie lange dauert die Unternehmensregistrierung in Dubai?",
+      "a": "Die Registrierung in der Freihandelszone dauert 3-7 Werktage. Auf dem Festland dauert es 2-4 Wochen."
+    },
+    {
+      "q": "Bení¶tige ich einen lokalen Partner in Dubai?",
+      "a": "Nicht in Freihandelszonen. Auf dem Festland erlauben viele Aktivití¤ten mittlerweile 100% auslí¤ndisches Eigentum."
+    }
+  ]
+}

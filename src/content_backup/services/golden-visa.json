@@ -1,0 +1,207 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "10-Year UAE Residency",
+  "heroTitle": "Golden Visa Services in Dubai",
+  "heroTitleHighlight": "Dubai",
+  "heroSubtitle": "Secure long-term UAE residency tailored for investors, entrepreneurs, and exceptional talents. 5 or 10 years, no local sponsor, full family sponsorship.",
+  "heroChips": ["10-Year Renewable", "Family Sponsorship", "0% Income Tax"],
+
+  "stats": [
+    { "icon": "Clock", "value": "10 Yrs", "label": "Visa Validity", "color": "from-amber-400 to-yellow-500" },
+    { "icon": "Wallet", "value": "AED 2M", "label": "Min. Investment", "color": "from-yellow-400 to-amber-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Personal Income Tax", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Users", "value": "500+", "label": "Visas Approved", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "What Is It",
+    "title": "What Is the Golden Visa in Dubai?",
+    "titleHighlight": "Dubai?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Premium Status",
+    "imageBadgeText": "Like UAE Nationals",
+    "paragraphs": [
+      "The Golden Visa is a long-term UAE residence permit valid for 5 or 10 years, depending on your eligibility. It offers high-level residency benefits similar to Emirati nationals.",
+      "Golden Visa holders can sponsor family, access UAE's healthcare and education services, and enjoy long-term stability without frequent renewals. Unlike regular visas, it ensures flexibility, independence, and long-term residency."
+    ],
+    "highlights": [
+      "No Local Sponsor Needed",
+      "100% Business Ownership",
+      "Family Sponsorship",
+      "Visa-Free Travel to Selected Countries"
+    ]
+  },
+
+  "pillarsSection": {
+    "badge": "Global Talent Magnet",
+    "title": "Why the UAE Wants You",
+    "titleHighlight": "Wants You",
+    "subtitle": "The Golden Visa is part of a national movement to attract world-class talent, visionary entrepreneurs, and impactful investors — driving UAE's innovation and global competitiveness.",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&q=80",
+    "items": [
+      { "icon": "Trophy", "title": "Global Talent Magnet", "description": "The UAE actively invites world-class talent in tech, science, arts, and finance to build their future here.", "color": "from-amber-400 to-yellow-500", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80" },
+      { "icon": "Rocket", "title": "Business Freedom", "description": "Own 100% of your business, no local sponsor needed, and operate with complete independence.", "color": "from-yellow-400 to-amber-600", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" },
+      { "icon": "Gem", "title": "Premium Lifestyle", "description": "Access world-class healthcare, education, safety, and infrastructure — with zero income tax.", "color": "from-orange-400 to-amber-600", "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800&q=80" }
+    ]
+  },
+
+  "categoriesSection": {
+    "badge": "Eligibility Categories",
+    "title": "Who Qualifies for the Golden Visa?",
+    "titleHighlight": "Golden Visa?",
+    "subtitle": "We help you identify eligibility across all major Golden Visa categories.",
+    "items": [
+      {
+        "icon": "Home2",
+        "title": "Real Estate Investors",
+        "subtitle": "AED 2 Million+ Property",
+        "description": "Invest AED 2 million or more in UAE property (off-plan or ready) and qualify for a 5 or 10-year Golden Visa. Property must be held for 3+ years.",
+        "color": "from-amber-400 to-yellow-500",
+        "highlights": ["Off-plan eligible", "Ready properties", "Mortgage qualified"]
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Business Investors",
+        "subtitle": "AED 500K+ Annual Revenue",
+        "description": "Entrepreneurs and business owners with minimum capital investment or annual revenue qualify. Business must be active, compliant, and economically valuable.",
+        "color": "from-yellow-400 to-amber-600",
+        "highlights": ["Active businesses", "Registered with DED", "Revenue verified"]
+      },
+      {
+        "icon": "Palette",
+        "title": "Exceptional Talents",
+        "subtitle": "Artists, Athletes, Creatives",
+        "description": "Outstanding artists, athletes, inventors, authors, and creatives recognized by UAE government bodies or industry associations.",
+        "color": "from-orange-400 to-amber-600",
+        "highlights": ["No degree required", "Excellence proven", "Gov. recognized"]
+      }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Premium Benefits",
+    "title": "What Are the Benefits?",
+    "titleHighlight": "Benefits?",
+    "subtitle": "Golden Visa brings unparalleled advantages for you and your family.",
+    "items": [
+      { "icon": "Clock", "title": "Long-Term Residency", "description": "5 or 10-year renewable residency with no frequent renewals.", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Users", "title": "Family Sponsorship", "description": "Sponsor spouse, children, parents, and domestic staff.", "color": "from-yellow-400 to-amber-600" },
+      { "icon": "Briefcase", "title": "Business Freedom", "description": "Operate businesses without employment or operating sponsor.", "color": "from-orange-400 to-amber-600" },
+      { "icon": "DollarSign", "title": "0% Personal Tax", "description": "Optimize wealth with zero personal income tax.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "BookOpen", "title": "UAE Infrastructure", "description": "Access world-class education, healthcare, and financial services.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Plane", "title": "Visa-Free Travel", "description": "Entry to UAE without repeated visa applications.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Landmark", "title": "Preferred Banking", "description": "Priority access to UAE banking, loans, and investments.", "color": "from-cyan-400 to-teal-600" },
+      { "icon": "Globe", "title": "Strategic Location", "description": "Base in a global hub with top-tier infrastructure.", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "applicationSection": {
+    "badge": "Application Process",
+    "title": "How Do You Apply?",
+    "titleHighlight": "Apply?",
+    "subtitle": "A structured 5-step process from eligibility check to visa issuance.",
+    "steps": [
+      { "step": "01", "title": "Eligibility Assessment", "description": "We review your investment, business, credentials, or achievements.", "icon": "Target", "color": "from-amber-400 to-yellow-500" },
+      { "step": "02", "title": "Document Collection", "description": "We gather, translate, notarize, and authenticate all documents.", "icon": "FileText", "color": "from-yellow-400 to-amber-600" },
+      { "step": "03", "title": "Application Submission", "description": "Online submission through ICA or GDRFA portals with full tracking.", "icon": "Scroll", "color": "from-orange-400 to-amber-600" },
+      { "step": "04", "title": "Medical & Emirates ID", "description": "We schedule medical tests and Emirates ID biometrics.", "icon": "Stethoscope", "color": "from-emerald-400 to-teal-600" },
+      { "step": "05", "title": "Visa Issuance", "description": "Receive your 5 or 10-year Golden Visa with full support.", "icon": "CheckCircle2", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "documentsSection": {
+    "badge": "Required Documents",
+    "title": "What Documents Will You Need?",
+    "titleHighlight": "You Need?",
+    "subtitle": "We handle document collection, processing, translation, notarization, and authentication — ensuring a complete and error-free application.",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Ready",
+    "imageBadgeText": "Full Package",
+    "attestationLabel": "Attestation",
+    "attestationValue": "MOFA + Embassy",
+    "items": [
+      "Passport copy (min. 6 months validity)",
+      "UAE entry stamp or current residence visa",
+      "Title deed(s) for property investment",
+      "Business license / trade license",
+      "Medical fitness certificate & health insurance",
+      "Criminal record clearance certificate",
+      "Professional / academic certificates",
+      "Financial statements, proof of capital, or patents"
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Experts in UAE Immigration",
+    "titleHighlight": "Immigration",
+    "subtitle": "We take your application further — customizing every step based on your strengths, profile, and long-term goals. Fast, legally compliant, and fully supported.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "ctaText": "Free Eligibility Check",
+    "ctaMessage": "Hi! I'd like a free eligibility check for the UAE Golden Visa.",
+    "features": [
+      { "icon": "Award", "label": "Experts in UAE Immigration Policies" },
+      { "icon": "FileCheck", "label": "Full Document Handling & Attestation" },
+      { "icon": "Target", "label": "Customized to Your Profile" },
+      { "icon": "Zap", "label": "Fast-Tracked Application Process" },
+      { "icon": "Eye", "label": "Transparent Pricing — No Hidden Fees" },
+      { "icon": "ShieldCheck", "label": "Legally Compliant — 100% Success Focus" }
+    ],
+    "dashboard": {
+      "title": "Golden Visa Application Status",
+      "statusLabel": "Application",
+      "statusValue": "In Progress",
+      "progressText": "70% Complete — Medical test scheduled",
+      "steps": [
+        { "label": "Eligibility Verified", "status": "done" },
+        { "label": "Documents Submitted", "status": "done" },
+        { "label": "Application Filed", "status": "done" },
+        { "label": "Medical & Emirates ID", "status": "active" },
+        { "label": "Visa Issuance", "status": "pending" }
+      ]
+    }
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about the UAE Golden Visa. Can't find what you need? We're one message away.",
+    "sidebarCard": {
+      "title": "Free Eligibility Check",
+      "text": "Get a personalized assessment in 24 hours.",
+      "whatsappMessage": "Hi! I'd like to check my Golden Visa eligibility."
+    },
+    "items": [
+      { "q": "Can I apply for a Golden Visa if I am not living in the UAE?", "a": "Yes. Golden Visa applications can be made from anywhere in the world through UAE embassies or portals like ICA or GDRFA. Our team assists you remotely." },
+      { "q": "What is the minimum investment for a real estate Golden Visa?", "a": "AED 2 million or more in UAE property (off-plan or ready). Property must be held for at least 3 years and registered in your name." },
+      { "q": "Can I sponsor my family members?", "a": "Yes. Golden Visa holders can sponsor spouse, children (including adults up to a certain age), parents, and domestic staff." },
+      { "q": "How long is the Golden Visa valid?", "a": "5 or 10 years, depending on your eligibility category. It is renewable without a local sponsor." },
+      { "q": "Do I need a local sponsor?", "a": "No. The Golden Visa eliminates the need for a local sponsor, giving you full independence in business and life in the UAE." },
+      { "q": "Is a Golden Visa linked to a specific employer?", "a": "No. It is completely independent of any employer or company — you can work, own businesses, or be self-employed freely." },
+      { "q": "Can freelancers apply for a Golden Visa?", "a": "Yes, if you qualify under the entrepreneur, talent, or specialized professional categories." },
+      { "q": "What happens if I sell my property after getting the visa?", "a": "You must maintain the AED 2M investment to keep the visa. Selling requires reinvestment to remain compliant." },
+      { "q": "Will I get an Emirates ID and UAE services?", "a": "Yes. You receive an Emirates ID, access to UAE healthcare, education, banking, and all residential services." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Golden Visa journey.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO filings, ESR reports, and regulatory support.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "pro-services", "title": "PRO Services", "description": "Emirates ID, labor cards, visa stamping, and renewals.", "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80", "gradient": "from-indigo-400 to-purple-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Secure Your Future",
+    "title": "Ready to Secure Your Golden Visa?",
+    "titleHighlight": "Golden Visa?",
+    "subtitle": "Get a free eligibility check today. Our immigration experts will guide you through every step — from assessment to visa issuance.",
+    "chips": ["Free Eligibility Check", "500+ Visas Approved", "Expert Team"],
+    "whatsappMessage": "Hi! I'd like a free Golden Visa eligibility check."
+  }
+}

@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import officeData from '../../content/mainland/office-space-solutions.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, TrendingUp, Users, Award, DollarSign, Zap, Target, Crown,
   Factory, MapPin, Building, Layers, Shield, Star, Palette, Landmark,
@@ -28,7 +29,9 @@ const iconMap: any = {
 };
 
 export default function OfficeSpaceSolutions({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.mainland || officeData;
+  const { language } = useLanguage();
+  const officeFallback = loadContent('mainland/office-space-solutions', language);
+  const data = tinaData?.data?.mainland || officeFallback;
   const [activeOffice, setActiveOffice] = useState(0);
   const [activeLocation, setActiveLocation] = useState(0);
 

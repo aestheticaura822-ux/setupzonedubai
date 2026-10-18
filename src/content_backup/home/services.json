@@ -1,0 +1,75 @@
+{
+  "badge": "Our Core Services",
+  "heading": {
+    "line1": "Comprehensive Business Setup in",
+    "highlight": "Dubai & UAE"
+  },
+  "subtitle": "Free Zone, Mainland, and Full Business Support — everything you need to launch and grow in the UAE, all in one place.",
+  "services": [
+    {
+      "id": "freezone",
+      "icon": "Building2",
+      "title": "Free Zone Setup",
+      "tagline": "For international & remote businesses",
+      "description": "100% ownership, zero tax, remote-friendly — we match you with the best free zone for your activity and budget.",
+      "image": "https://images.pexels.com/photos/36260007/pexels-photo-36260007.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "100% foreign ownership",
+        "0% personal & corporate tax",
+        "5 free business activities",
+        "Remote-friendly setup"
+      ],
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)",
+      "accentColor": "text-sky-600",
+      "bgAccent": "bg-sky-50",
+      "borderAccent": "border-sky-200",
+      "number": "01"
+    },
+    {
+      "id": "mainland",
+      "icon": "Globe",
+      "title": "Mainland Setup",
+      "tagline": "For local UAE market operations",
+      "description": "Trade across the UAE, hire freely, and expand your footprint. We handle all DED paperwork, licensing, and office support.",
+      "image": "https://images.pexels.com/photos/32761488/pexels-photo-32761488.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "Full UAE market access",
+        "No trading restrictions",
+        "Hire employees freely",
+        "Government tenders eligible"
+      ],
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentColor": "text-violet-600",
+      "bgAccent": "bg-violet-50",
+      "borderAccent": "border-violet-200",
+      "number": "02"
+    },
+    {
+      "id": "support",
+      "icon": "Briefcase",
+      "title": "Business Support",
+      "tagline": "For active companies in UAE",
+      "description": "Running a company? We take care of the backend: VAT, banking, renewals, payroll, visas, legal docs & more.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+      "features": [
+        "VAT & corporate tax filing",
+        "Bank account management",
+        "License & visa renewals",
+        "Payroll & accounting"
+      ],
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentColor": "text-amber-600",
+      "bgAccent": "bg-amber-50",
+      "borderAccent": "border-amber-200",
+      "number": "03"
+    }
+  ],
+  "bottomCTA": {
+    "question": "Not sure which is right for you?",
+    "buttonText": "Talk to an Expert",
+    "buttonLink": "#contact"
+  }
+}

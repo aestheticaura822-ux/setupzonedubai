@@ -1,0 +1,540 @@
+{
+    "slug":  "shams-setup-package",
+    "hero":  {
+                 "badge":  "Medya Odaklı Serbest Bölge",
+                 "title":  "SHAMS Kurulum Paketi",
+                 "titleHighlight":  "Paket",
+                 "subtitle":  "Şarjah Medya Şehri, medya profesyonelleri için özel olarak inşa edilmiş serbest bölge. Sadece 5.999 AED\u0027den başlayan uygun fiyatlı paketler "” lisans, vize, banka hesabı ve daha fazlası.",
+                 "image":  "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "SHAMS Kurulum Paketi",
+                 "ctaPrimaryText":  "Paketleri Görüntüle",
+                 "ctaPrimaryLink":  "#paketler",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Merhaba! SHAMS Kurulum Paketi ile ilgileniyorum.",
+                 "badges":  [
+                                "5.999 AED\u0027den itibaren",
+                                "11 Paket",
+                                "3-7 Gün Kurulum",
+                                "%100 Sahiplik"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "5.999 AED",
+                      "label":  "Başlangıç Noktası",
+                      "color":  "turuncu-400\u0027den kırmızı-600\u0027e"
+                  },
+                  {
+                      "icon":  "Paket",
+                      "value":  "11",
+                      "label":  "Paketler",
+                      "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-7",
+                      "label":  "Kurulum Günleri",
+                      "color":  "gül-400\u0027den-pembe-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Mülkiyet",
+                      "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "Yardımcı olmak için buradayız!",
+                  "title":  "Birleşik Arap Emirlikleri\u0027ndeki İşletmeniz İçin Uygun Fiyatlı SHAMS Kurulum Paketleri",
+                  "titleHighlight":  "Birleşik Arap Emirlikleri\u0027ndeki İşletmeniz İçin",
+                  "image":  "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "SHAMS Serbest Bölgesi",
+                  "imageBadgeText":  "Şarjah, Birleşik Arap Emirlikleri",
+                  "paragraph1":  "Gelişen BAE pazarında işletmenizi kurmayı mı düşünüyorsunuz? Uzman ekibimiz, 65\u0027ten fazla yargı bölgesinde girişimcilerin başarılı şirketler kurmasına yardımcı olma konusunda uzmanlaşmıştır.",
+                  "paragraph2":  "İster Serbest Bölgenin esnekliğini, ister Anakara ticaret lisansının prestijini tercih edin, medya işletmenizin hedeflerine uygun en iyi Şarjah iş kurma paketlerini sunuyoruz.",
+                  "paragraph3":  "Tüm paketler, iş yolculuğunuz için bir başlangıç noktası sunar ve ihtiyaçlarınıza göre özelleştirilebilir.",
+                  "features":  [
+                                   "65+ Yargı Bölgesi",
+                                   "Medya Odaklı Bölge",
+                                   "Özelleştirilebilir Paketler",
+                                   "5.999 AED\u0027den itibaren",
+                                   "3-7 Günde Hızlı Kurulum",
+                                   "Tam Destek"
+                               ]
+              },
+    "businessIndustries":  {
+                               "badge":  "Medya Odaklı Ekosistem",
+                               "title":  "Medya Endüstrileri için Tasarlandı",
+                               "titleHighlight":  "Medya Endüstrileri",
+                               "subtitle":  "SHAMS Serbest Bölgesi\u0027nde gelişen altı medya sektörü.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Film",
+                                                 "title":  "Film ve Video Prodüksiyonu",
+                                                 "desc":  "Sinematografi, kurgu, post-prodüksiyon, animasyon",
+                                                 "color":  "turuncu-400\u0027den kırmızı-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Kamera",
+                                                 "title":  "Fotoğrafçılık",
+                                                 "desc":  "Ticari, portre, ürün fotoğrafçılığı",
+                                                 "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Megafon",
+                                                 "title":  "Reklam ve Halkla İlişkiler",
+                                                 "desc":  "Markalaşma, kampanyalar, medya ilişkileri",
+                                                 "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Palet",
+                                                 "title":  "Tasarım ve Yaratıcılık",
+                                                 "desc":  "Grafik tasarım, UI/UX, illüstrasyon",
+                                                 "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Müzik",
+                                                 "title":  "Müzik ve Ses",
+                                                 "desc":  "Prodüksiyon, ses mühendisliği, podcast yayıncılığı",
+                                                 "color":  "from-fuchsia-400 to-purple-600"
+                                             },
+                                             {
+                                                 "icon":  "Kalem Aracı",
+                                                 "title":  "İçerik Oluşturma",
+                                                 "desc":  "Metin yazarlığı, blog yazarlığı, sosyal medya içeriği",
+                                                 "color":  "mor-400\u0027den mor-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "packages":  {
+                     "badge":  "Şarjah Uygun Fiyatlı Kurulum Paketleri",
+                     "title":  "SHAMS Kurulum Paketlerimiz",
+                     "titleHighlight":  "SHAMS Kurulum Paketleri",
+                     "subtitle":  "Medya profesyonelleri için tasarlanmış 11 adet premium paket. Hepsi özelleştirilebilir.",
+                     "items":  [
+                                   {
+                                       "id":  1,
+                                       "icon":  "Uçak",
+                                       "title":  "Seyahat ve Turizm Danışmanlığı",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Oturma İzniyle",
+                                       "category":  "Premium",
+                                       "color":  "turuncu-500\u0027den kırmızı-700\u0027e",
+                                       "badge":  "Popüler",
+                                       "badgeColor":  "turuncu-500\u0027den kırmızı-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+                                                        "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  2,
+                                       "icon":  "Kamera",
+                                       "title":  "Etkinlik Yönetimi",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Oturma İzniyle",
+                                       "category":  "Premium",
+                                       "color":  "kırmızı-500\u0027den gül-700\u0027e",
+                                       "badge":  "Premium",
+                                       "badgeColor":  "kırmızı-500\u0027den gül-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+                                                        "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  3,
+                                       "icon":  "Alışveriş Sepeti",
+                                       "title":  "Genel Ticaret",
+                                       "price":  "15.999 AED",
+                                       "tagline":  "Oturma İzniyle",
+                                       "category":  "Premium",
+                                       "color":  "gül-500\u0027den-pembe-700\u0027e",
+                                       "badge":  "En İyi Değer",
+                                       "badgeColor":  "gül-500\u0027den-pembe-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "1. Birleşik Arap Emirlikleri Oturma İzni / Yatırımcı Vizesi",
+                                                        "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  4,
+                                       "icon":  "Palet",
+                                       "title":  "Moda Tasarımı",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "En fazla 5 aktivite",
+                                       "category":  "Ekonomi",
+                                       "color":  "from-pink-500 to-fuchsia-700",
+                                       "badge":  "Yaratıcı",
+                                       "badgeColor":  "pembe-500\u0027den fuşya-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "En fazla 5 ticari faaliyet",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  5,
+                                       "icon":  "Dambıl",
+                                       "title":  "Fitness ve Yaşam Tarzı",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "En fazla 5 aktivite",
+                                       "category":  "Ekonomi",
+                                       "color":  "fuşya-500\u0027den mor-700\u0027e",
+                                       "badge":  "Ekonomik",
+                                       "badgeColor":  "fuşya-500\u0027den mor-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "En fazla 5 ticari faaliyet",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  6,
+                                       "icon":  "Alışveriş Sepeti",
+                                       "title":  "E-Ticaret",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Çevrimiçi İşletme Hazır",
+                                       "category":  "Ekonomi",
+                                       "color":  "mor-500\u0027den menekşe-700\u0027e",
+                                       "badge":  "Popüler",
+                                       "badgeColor":  "mor-500\u0027den mor-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  7,
+                                       "icon":  "Dizüstü bilgisayar",
+                                       "title":  "BT Hizmetleri",
+                                       "price":  "6.449 AED",
+                                       "tagline":  "En fazla 5 aktivite",
+                                       "category":  "Profesyonel",
+                                       "color":  "from-violet-500 to-indigo-700",
+                                       "badge":  "Teknoloji",
+                                       "badgeColor":  "from-violet-500 to-indigo-600",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "En fazla 5 ticari faaliyet",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  8,
+                                       "icon":  "Mağaza",
+                                       "title":  "Genel Ticaret",
+                                       "price":  "7.999 AED",
+                                       "tagline":  "Giriş Seviyesi Ticaret",
+                                       "category":  "Standart",
+                                       "color":  "indigo-500\u0027den-mavi-700\u0027e",
+                                       "badge":  "En çok satan kitap",
+                                       "badgeColor":  "indigo-500\u0027den-mavi-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  9,
+                                       "icon":  "Taç",
+                                       "title":  "Ömür Boyu BAE Oturma İzni ile Serbest Bölge Lisansı",
+                                       "price":  "11.999 AED",
+                                       "tagline":  "Ömür Boyu Oturma İzni",
+                                       "category":  "Premium",
+                                       "color":  "mavi-500\u0027den camgöbeği-700\u0027e",
+                                       "badge":  "Özel",
+                                       "badgeColor":  "mavi-500\u0027den camgöbeği-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ömür boyu ücretsiz BAE oturum izni / yatırımcı vizesi",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  10,
+                                       "icon":  "Önemli bir dönüm noktası",
+                                       "title":  "Birleşik Arap Emirlikleri\u0027nde ikamet izni olan anakara lisansı.",
+                                       "price":  "16.999 AED",
+                                       "tagline":  "Anakara + İkamet",
+                                       "category":  "Anakara",
+                                       "color":  "600\u0027den 800\u0027e kadar",
+                                       "badge":  "Anakara",
+                                       "badgeColor":  "600\u0027den 700\u0027e kadar",
+                                       "includes":  [
+                                                        "Anakara lisansı",
+                                                        "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+                                                        "Sağlık durumu, Emirates Kimliği ve statü değişikliği",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Proje yönetimi",
+                                                                 "Yönetim danışmanlığı",
+                                                                 "Ticari aracı",
+                                                                 "Tesis yönetimi",
+                                                                 "Temizlik hizmetleri",
+                                                                 "Bina bakımı"
+                                                             ]
+                                   },
+                                   {
+                                       "id":  11,
+                                       "icon":  "Kalp",
+                                       "title":  "Kadın Girişimciliği",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Kadın Girişimciler İçin Tasarlandı",
+                                       "category":  "Özel",
+                                       "color":  "gül-500\u0027den-pembe-700\u0027e",
+                                       "badge":  "Özel",
+                                       "badgeColor":  "gül-500\u0027den-pembe-600\u0027e",
+                                       "includes":  [
+                                                        "Serbest bölge lisansı",
+                                                        "Ücretsiz kira sözleşmesi",
+                                                        "En fazla 5 ticari faaliyet",
+                                                        "Ücretsiz banka hesabı açma yardımı",
+                                                        "Premium adres ve paylaşımlı posta kutusu",
+                                                        "Ücretsiz KDV danışmanlığı"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Yaşam Tarzı Koçluğu",
+                                                                 "Dijital Pazarlama",
+                                                                 "Moda ve giyim tasarımı",
+                                                                 "Etkinlik yönetimi",
+                                                                 "Danışmanlık hizmetleri"
+                                                             ]
+                                   }
+                               ]
+                 },
+    "customPackageCTA":  {
+                             "title":  "Özel Medya Paketi mi İhtiyacınız Var?",
+                             "subtitle":  "Bize medya vizyonunuzu anlatın, biz de size en uygun paketi hazırlayalım.",
+                             "buttonText":  "Özel Teklif",
+                             "whatsappMessage":  "Merhaba! Özel bir SHAMS kurulum paketine ihtiyacım var."
+                         },
+    "benefits":  {
+                     "badge":  "Neden SHAMS",
+                     "title":  "SHAMS Kurulumunun Faydaları",
+                     "titleHighlight":  "SHAMS Kurulumu",
+                     "subtitle":  "Medya profesyonelleri için altı güçlü avantaj.",
+                     "items":  [
+                                   {
+                                       "icon":  "TV",
+                                       "title":  "Medya Odaklı Ekosistem",
+                                       "desc":  "Medya profesyonelleri için özel olarak tasarlanmıştır.",
+                                       "color":  "turuncu-400\u0027den kırmızı-600\u0027e"
+                                   },
+                                   {
+                                       "icon":  "Dolar İşareti",
+                                       "title":  "Düşük Maliyetli Kurulum",
+                                       "desc":  "5.999 AED\u0027den başlayan fiyatlarla",
+                                       "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                                   },
+                                   {
+                                       "icon":  "Küre",
+                                       "title":  "%100 Yabancı Mülkiyeti",
+                                       "desc":  "Tamamen yabancı mülkiyet",
+                                       "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                   },
+                                   {
+                                       "icon":  "Zap",
+                                       "title":  "3-7 Günde Hızlı Kurulum",
+                                       "desc":  "Hızlı lisans verme",
+                                       "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                                   },
+                                   {
+                                       "icon":  "Cüzdan",
+                                       "title":  "%0 Vergi Ortamı",
+                                       "desc":  "Vergiden muaf avantajlar",
+                                       "color":  "from-fuchsia-400 to-purple-600"
+                                   }
+                               ]
+                 },
+    "process":  {
+                    "badge":  "6 Adımlı Süreç",
+                    "title":  "Nasıl Başlanır?",
+                    "titleHighlight":  "Başlayın",
+                    "subtitle":  "Paket seçiminden banka hesabına kadar her şeyi biz hallediyoruz.",
+                    "steps":  [
+                                  {
+                                      "step":  "01",
+                                      "icon":  "Hedef",
+                                      "title":  "Paketinizi Seçin",
+                                      "description":  "Medya odaklı paketlerimizden birini seçin.",
+                                      "color":  "turuncu-400\u0027den kırmızı-600\u0027e"
+                                  },
+                                  {
+                                      "step":  "02",
+                                      "icon":  "Dosyaİmzası",
+                                      "title":  "Belgeleri Gönder",
+                                      "description":  "Pasaport fotokopileri, portföy ve fotoğraflar.",
+                                      "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                                  },
+                                  {
+                                      "step":  "03",
+                                      "icon":  "Pano Kontrolü",
+                                      "title":  "Lisans Başvurusu",
+                                      "description":  "SHAMS yetkilisine başvuruda bulunuyoruz.",
+                                      "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                  },
+                                  {
+                                      "step":  "04",
+                                      "icon":  "Kaydırma Metni",
+                                      "title":  "Lisansınızı Alın",
+                                      "description":  "3-7 gün içinde lisans verilir.",
+                                      "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                                  }
+                              ]
+                },
+    "whyChooseUs":  {
+                        "badge":  "Neden Bizi Seçmelisiniz?",
+                        "title":  "Güvenilir SHAMS Kurulum Ortağınız",
+                        "titleHighlight":  "SHAMS Kurulum Ortağı",
+                        "subtitle":  "Medya profesyonellerinin bize güvenmesinin sekiz nedeni.",
+                        "items":  [
+                                      {
+                                          "icon":  "Dolar İşareti",
+                                          "label":  "Şeffaf Fiyatlandırma",
+                                          "desc":  "Gizli ücret yok, asla."
+                                      },
+                                      {
+                                          "icon":  "Zap",
+                                          "label":  "3-7 Günde Hızlı Kurulum",
+                                          "desc":  "Hızlı lisans verme"
+                                      },
+                                      {
+                                          "icon":  "Kalkan Kontrolü",
+                                          "label":  "%100 Uyumluluk",
+                                          "desc":  "Tamamen devlet onaylı"
+                                      },
+                                      {
+                                          "icon":  "Kullanıcı Kontrolü",
+                                          "label":  "Özel Danışman",
+                                          "desc":  "Kişisel danışman"
+                                      },
+                                      {
+                                          "icon":  "Küre",
+                                          "label":  "Çok Dilli Ekip",
+                                          "desc":  "İngilizce, Arapça, Hintçe, Urduca"
+                                      },
+                                      {
+                                          "icon":  "RefreshCw",
+                                          "label":  "KDV Danışmanlığı",
+                                          "desc":  "Ücretsiz olarak dahildir."
+                                      },
+                                      {
+                                          "icon":  "Ödül",
+                                          "label":  "10.000\u0027den fazla Şirket",
+                                          "desc":  "Başarıyla başlatıldı"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Sıkça Sorulan Sorular",
+                 "title":  "Sıkça Sorulan Sorular",
+                 "titleHighlight":  "Sorular",
+                 "subtitle":  "SHAMS Free Zone hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                 "items":  [
+                               {
+                                   "q":  "SHAMS\u0027tan Arındırılmış Bölge nedir?",
+                                   "a":  "SHAMS (Şarjah Medya Şehri) Serbest Bölgesi, film, fotoğrafçılık, reklamcılık, tasarım, müzik ve içerik oluşturma gibi medya profesyonelleri ve işletmeleri için özel olarak inşa edilmiş bir serbest bölgedir. Düşük maliyetli kurulum, %100 yabancı mülkiyet ve 3-7 iş günü içinde hızlı lisanslama imkanı sunmaktadır."
+                               },
+                               {
+                                   "q":  "SHAMS Serbest Bölgesi nerede bulunuyor?",
+                                   "a":  "SHAMS, Birleşik Arap Emirlikleri\u0027nin yedi emirliğinden biri olan Şarjah\u0027ta yer almaktadır. Ana otoyollara ve havaalanlarına kolay erişim sayesinde Dubai ve diğer emirliklere mükemmel bağlantı sağlamaktadır."
+                               },
+                               {
+                                   "q":  "SHAMS kurulum paketine neler dahildir?",
+                                   "a":  "Seçtiğiniz pakete bağlı olarak, Serbest Bölge lisansı, oturma vizesi, sağlık raporu ve Emirates kimliği, kira sözleşmesi, banka hesabı açma yardımı, premium adres ve ücretsiz KDV danışmanlığı alırsınız."
+                               },
+                               {
+                                   "q":  "SHAMS paketinin fiyatı ne kadar?",
+                                   "a":  "SHAMS paketlerimiz 5.999 AED\u0027den (Ekonomi) başlayıp 16.999 AED\u0027ye (Anakara + Oturma İzni) kadar çıkmaktadır. Vize dahil premium paketler ise 14.499 AED\u0027den başlamaktadır."
+                               },
+                               {
+                                   "q":  "Kurulum ne kadar sürer?",
+                                   "a":  "Ehliyetin verilmesi genellikle 3-7 iş günü sürer ve vize işlemleri ile banka hesabı açılması için ek olarak 1-2 hafta daha gerekir."
+                               },
+                               {
+                                   "q":  "Paketimi özelleştirebilir miyim?",
+                                   "a":  "Evet. Tüm paketler başlangıç noktasıdır ve medya işletmenize, vize ihtiyaçlarınıza ve bütçenize uyacak şekilde özelleştirilebilir."
+                               },
+                               {
+                                   "q":  "Birleşik Arap Emirlikleri\u0027nde oturum vizesi alabilir miyim?",
+                                   "a":  "Evet, seçili paketler BAE yatırımcı/ikamet vizesi (sağlık muayenesi dahil), Emirates Kimlik Kartı ve statü değişikliğini içermektedir. Ömür Boyu BAE İkamet İzni ile Serbest Bölge Lisansı ise ömür boyu ikamet izni sunmaktadır."
+                               },
+                               {
+                                   "q":  "Banka hesabı açma işlemi fiyata dahil mi?",
+                                   "a":  "Evet. Tüm paketler, Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarında kurumsal banka hesabı açma konusunda ücretsiz destek içermektedir."
+                               },
+                               {
+                                   "q":  "Hangi medya etkinliklerine katılabilirim?",
+                                   "a":  "SHAMS, film ve video prodüksiyonu, fotoğrafçılık, reklam ve halkla ilişkiler, tasarım, müzik ve ses, içerik oluşturma ve diğer medya sektörlerini destekler; çoğu ekonomik pakette 5\u0027e kadar aktiviteye yer verilir."
+                               },
+                               {
+                                   "q":  "SHAMS kurulumu için neden Setup Zone Dubai\u0027yi tercih etmelisiniz?",
+                                   "a":  "Şeffaf fiyatlandırma, medya sektörü uzmanlığı, alanında uzman danışmanlar ve lisanslamadan vizeye, banka hesabına kadar uçtan uca destek sunuyoruz. Tüm bunları 10.000\u0027den fazla başarılı kurulumla gerçekleştiriyoruz."
+                               }
+                           ]
+             },
+    "finalCTA":  {
+                     "badge":  "Medya İşletmenizi Bugün Başlatın",
+                     "title":  "SHAMS Sharjah\u0027da Lansmana Hazır mısınız?",
+                     "titleHighlight":  "SHAMS Sharjah?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Doğru paketi seçmenize ve medya işletmenizi birkaç gün içinde faaliyete geçirmenize yardımcı olacağız.",
+                     "primaryCta":  "Bize WhatsApp\u0027tan ulaşın",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "Merhaba! SHAMS Kurulum Paketi için ücretsiz danışmanlık almak istiyorum.",
+                     "badges":  [
+                                    "5.999 AED\u0027den itibaren",
+                                    "3-7 Gün Kurulum",
+                                    "%100 Sahiplik"
+                                ],
+                     "office":  {
+                                    "label":  "Dubai Ofisimizi Ziyaret Edin",
+                                    "line1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                    "line2":  "Business Bay, Dubai, B.A.E "” Posta Kutusu: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Çalışma Saatleri",
+                                   "monFri":  "Sabah 9 - Akşam 6",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Kapalı"
+                               }
+                 }
+}

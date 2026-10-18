@@ -1,0 +1,447 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600\u0026q=80",
+    "heroBadge":  "Dubai İş Dünyası Demektir",
+    "heroTitle":  "DMCC Serbest Bölgesi",
+    "heroTitleHighlight":  "Serbest Bölge",
+    "heroSubtitle":  "Dünyanın 1 numaralı serbest bölgesi. Dubai\u0027nin amiral gemisi serbest bölgesinde işinizi kurun; emtia, kripto para, teknoloji ve finans sektörlerinde 180 ülkeden 21.000\u0027den fazla şirkete ev sahipliği yapıyor.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "Sıfır Vergi",
+                      "VARA Onaylı"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "21.000+",
+                      "label":  "Üye Şirketler",
+                      "color":  "amber-400\u0027den sarı-500\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "180+",
+                      "label":  "Milliyetler",
+                      "color":  "sarı-400\u0027den kehribar-600\u0027e"
+                  },
+                  {
+                      "icon":  "Ödül",
+                      "value":  "#1",
+                      "label":  "Yılın Serbest Bölgesi",
+                      "color":  "from-amber-500 to-orange-600"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Kişisel Gelir Vergisi",
+                      "color":  "from-emerald-400 to-teal-600"
+                  }
+              ],
+    "whyDmccSection":  {
+                           "badge":  "Neden DMCC",
+                           "title":  "DMCC Serbest Bölgesini Neden Seçmelisiniz?",
+                           "titleHighlight":  "DMCC Serbest Bölgesi mi?",
+                           "subtitle":  "Yılın Küresel Serbest Bölgesi ödülüne birden fazla kez layık görüldü.",
+                           "cards":  [
+                                         {
+                                             "icon":  "Küre",
+                                             "title":  "Dünyanın 1 Numaralı Serbest Bölgesi",
+                                             "description":  "Kripto para, emtia, teknoloji, finans ve medya sektörlerinde 180 ülkeden 20.000\u0027den fazla işletme.",
+                                             "color":  "from-amber-500 via-yellow-500 to-amber-600",
+                                             "size":  "büyük"
+                                         },
+                                         {
+                                             "icon":  "Harita İşareti",
+                                             "title":  "JLT\u0027de mükemmel konum",
+                                             "description":  "Dubai Marina\u0027ya birkaç dakika mesafede, birinci sınıf ofisler.",
+                                             "color":  "from-violet-400 to-purple-600",
+                                             "size":  "küçük"
+                                         },
+                                         {
+                                             "icon":  "Önemli bir dönüm noktası",
+                                             "title":  "Güçlü Bankacılık Bağları",
+                                             "description":  "Birleşik Arap Emirlikleri bankalarıyla kurumsal hesap onay süreçleri kolaylaştı.",
+                                             "color":  "from-emerald-400 to-teal-600",
+                                             "size":  "küçük"
+                                         }
+                                     ]
+                       },
+    "benefitsSection":  {
+                            "badge":  "Başlıca Faydalar",
+                            "title":  "İşletme Sahipleri İçin Faydaları",
+                            "titleHighlight":  "İşletme Sahipleri",
+                            "subtitle":  "DMCC\u0027de işletmenizi kurmak, rakiplerinize göre birçok avantaj sağlar.",
+                            "items":  [
+                                          {
+                                              "icon":  "Kamyon",
+                                              "title":  "Kolaylaştırılmış Ticaret",
+                                              "description":  "Jebel Ali Limanı ve DXB genelinde dünya standartlarında lojistik ve gümrük entegrasyonu ile ihracat/ithalat desteği.",
+                                              "color":  "amber-400\u0027den sarı-500\u0027e",
+                                              "image":  "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Değerli Taş",
+                                              "title":  "Uzmanlaşmış Emtia Bölgeleri",
+                                              "description":  "Çay, kahve, altın ve elmas ticareti için ayrılmış bölgeler; bölgede eşi benzeri olmayan benzersiz bir ekosistem.",
+                                              "color":  "sarı-400\u0027den kehribar-600\u0027e",
+                                              "image":  "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1200\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Monitör",
+                                              "title":  "Dijital Uyumluluk Araçları",
+                                              "description":  "Çevrimiçi başvurular, yenilemeler ve tamamen dijital dokümantasyon "” her şeyi kontrol panelinizden yönetin.",
+                                              "color":  "from-amber-500 to-orange-600",
+                                              "image":  "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Paylaş2",
+                                              "title":  "Ağ Oluşturma ve Eşleştirme",
+                                              "description":  "İşletmenizin büyümesine yardımcı olacak çok çeşitli iş etkinlikleri, forumlar ve eşleştirme platformları.",
+                                              "color":  "from-violet-400 to-purple-600",
+                                              "image":  "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800\u0026q=80"
+                                          }
+                                      ]
+                        },
+    "licensesSection":  {
+                            "badge":  "Lisans Türleri",
+                            "title":  "Amaca Uygun Lisanslama",
+                            "titleHighlight":  "Lisanslama",
+                            "subtitle":  "İster tek başına çalışan bir girişimci olun ister çok uluslu bir şirket, ihtiyaçlarınıza uygun bir lisans mevcuttur.",
+                            "items":  [
+                                          {
+                                              "icon":  "Mağaza",
+                                              "title":  "Ticaret Lisansı",
+                                              "description":  "Malların alım satımını veya dağıtımını kolaylaştırmak için tasarlanmıştır.",
+                                              "code":  "TRD",
+                                              "color":  "amber-400\u0027den sarı-500\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "title":  "Hizmet Lisansı",
+                                              "description":  "Hukuk, danışmanlık veya bilişim teknolojileri alanlarında profesyonel hizmetler sunmak için.",
+                                              "code":  "SRV",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Fabrika",
+                                              "title":  "Sanayi Lisansı",
+                                              "description":  "Hafif imalat veya üretime dayalı işletmeler için.",
+                                              "code":  "IND",
+                                              "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Alışveriş Sepeti",
+                                              "title":  "E-ticaret Lisansı",
+                                              "description":  "Çevrimiçi perakende, dropshipping veya çevrimiçi iş modelleri için özel olarak tasarlanmıştır.",
+                                              "code":  "ECM",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcı Kontrolü",
+                                              "title":  "Serbest Çalışma İzni",
+                                              "description":  "Kişilerin yasal olarak faaliyet göstermelerine ve bağımsız yüklenici olarak müşterilerine fatura kesmelerine olanak tanır.",
+                                              "code":  "FRL",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "registrationSection":  {
+                                "badge":  "Kayıt Süreci",
+                                "title":  "6 Adımda Kayıt Olma Yöntemi",
+                                "titleHighlight":  "6 Adım",
+                                "subtitle":  "Basit, çevrimiçi ve hızlı. Her şeyi sizin için biz hallediyoruz.",
+                                "steps":  [
+                                              {
+                                                  "step":  "01",
+                                                  "title":  "Belge İş Faaliyeti",
+                                                  "description":  "İş alanınızı seçin ve şirket adınızı onay için önerin.",
+                                                  "icon":  "DosyaMetni",
+                                                  "color":  "amber-400\u0027den sarı-500\u0027e"
+                                              },
+                                              {
+                                                  "step":  "02",
+                                                  "title":  "Lisans ve Adres Seçin",
+                                                  "description":  "Lisans türünüzü ve JLT ofis adresinizi seçin (esnek çalışma masası, yönetici veya özel ofis).",
+                                                  "icon":  "Bina 2",
+                                                  "color":  "sarı-400\u0027den kehribar-600\u0027e"
+                                              },
+                                              {
+                                                  "step":  "03",
+                                                  "title":  "Başvuru Yükle",
+                                                  "description":  "Başvurunuzu ve kimlik belgelerinizi DMCC portalı üzerinden gönderin.",
+                                                  "icon":  "Dosya Kontrolü",
+                                                  "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                              },
+                                              {
+                                                  "step":  "04",
+                                                  "title":  "Ön Onay",
+                                                  "description":  "Ön onay alın ve lisans ücretlerini ödeyerek işleme devam edin.",
+                                                  "icon":  "Rozet Kontrolü",
+                                                  "color":  "from-emerald-400 to-teal-600"
+                                              },
+                                              {
+                                                  "step":  "05",
+                                                  "title":  "Ehliyetinizi Alın",
+                                                  "description":  "DMCC ticaret lisansınızı alın ve yasal olarak faaliyet göstermeye başlayın.",
+                                                  "icon":  "Ödül",
+                                                  "color":  "from-violet-400 to-purple-600"
+                                              },
+                                              {
+                                                  "step":  "06",
+                                                  "title":  "Vizeler ve Banka Hesabı",
+                                                  "description":  "Kuruluş kartı, oturma izni başvurusunda bulunun ve kurumsal banka hesabı açın.",
+                                                  "icon":  "Kredi Kartı",
+                                                  "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                              }
+                                          ]
+                            },
+    "officeSection":  {
+                          "badge":  "Ofis Seçenekleri",
+                          "title":  "Jumeirah Lakes Towers\u0027daki Çalışma Alanları",
+                          "titleHighlight":  "Jumeirah Gölleri Kuleleri",
+                          "subtitle":  "Çalışma alanınız markanızı yansıtır; hareketli JLT bölgesindeki birinci sınıf seçenekler arasından dilediğinizi seçin.",
+                          "items":  [
+                                        {
+                                            "icon":  "Monitör",
+                                            "title":  "Esnek Masalar",
+                                            "description":  "Sınırlı ofis ihtiyacı olan yeni girişimler ve serbest çalışanlar için idealdir.",
+                                            "color":  "amber-400\u0027den sarı-500\u0027e"
+                                        },
+                                        {
+                                            "icon":  "Evrak çantası",
+                                            "title":  "Yürütme Ofisleri",
+                                            "description":  "Üst düzey iş olanaklarına sahip, tam donanımlı ofis alanları.",
+                                            "color":  "from-violet-400 to-purple-600"
+                                        },
+                                        {
+                                            "icon":  "Bina 2",
+                                            "title":  "Özel Ofisler",
+                                            "description":  "Büyüyen ekipler için güvenli, özelleştirilebilir alanlar.",
+                                            "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                        },
+                                        {
+                                            "icon":  "Küre",
+                                            "title":  "Sanal Ofisler",
+                                            "description":  "Hukuki varlığa ihtiyaç duyan uzaktan çalışan işletmeler için mükemmel.",
+                                            "color":  "from-emerald-400 to-teal-600"
+                                        }
+                                    ]
+                      },
+    "globalGrowthSection":  {
+                                "badge":  "Küresel Büyüme",
+                                "title":  "Küresel Büyüme İçin Bir Sıçrama Tahtası",
+                                "titleHighlight":  "Küresel Büyüme",
+                                "subtitle":  "DMCC, sadece bir ticaret serbest bölgesi olmaktan öte, uluslararası pazarlara açılan kapınızdır.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Kamyon",
+                                                  "title":  "İhracat ve Yeniden İhracat",
+                                                  "description":  "Jebel Ali Limanı ve DXB aracılığıyla küresel ticaretin kolaylaştırılması."
+                                              },
+                                              {
+                                                  "icon":  "Alışveriş Sepeti",
+                                                  "title":  "Sınır Ötesi E-Ticaret",
+                                                  "description":  "Küresel çevrimiçi perakendecilik için lojistik ve ödeme altyapısı."
+                                              },
+                                              {
+                                                  "icon":  "Bloklar",
+                                                  "title":  "Kripto ve Blok Zinciri",
+                                                  "description":  "VARA onaylı, uyumlu bir çerçeve içinde gerçekleştirilen dijital varlık faaliyetleri."
+                                              },
+                                              {
+                                                  "icon":  "Değerli Taş",
+                                                  "title":  "Altın ve Elmas Ticareti",
+                                                  "description":  "Bölgede eşi benzeri olmayan özel bir emtia ekosistemi."
+                                              },
+                                              {
+                                                  "icon":  "Önemli bir dönüm noktası",
+                                                  "title":  "Finansal Hizmetler",
+                                                  "description":  "Düzenleyici kurum desteğine sahip fintech ve finansal danışmanlık şirketleri."
+                                              },
+                                              {
+                                                  "icon":  "İşlemci",
+                                                  "title":  "Yapay Zeka ve Teknoloji",
+                                                  "description":  "Yapay zeka ve gelişmekte olan teknolojiler için geleceğe hazır altyapı."
+                                              }
+                                          ]
+                            },
+    "postSetupSection":  {
+                             "badge":  "Kurulum Sonrası Destek",
+                             "title":  "Oluşumun Ötesine Geçiyoruz",
+                             "titleHighlight":  "Oluşumun Ötesinde",
+                             "subtitle":  "Şirket kurmak sadece başlangıç. Büyümenize yardımcı olacak eksiksiz dijital ve operasyonel hizmetler paketi.",
+                             "items":  [
+                                           {
+                                               "icon":  "Palet",
+                                               "title":  "Marka ve Logo Tasarımı",
+                                               "description":  "Kurumsal kimlik ve marka varlıkları."
+                                           },
+                                           {
+                                               "icon":  "MonitorPlay",
+                                               "title":  "Web Sitesi Geliştirme",
+                                               "description":  "SEO optimizasyonlu web siteleri ve içerik stratejisi."
+                                           },
+                                           {
+                                               "icon":  "Katmanlar",
+                                               "title":  "CRM ve CMS Uygulaması",
+                                               "description":  "Operasyon ve iş akışı entegrasyonu."
+                                           },
+                                           {
+                                               "icon":  "Yüzde",
+                                               "title":  "KDV Kaydı",
+                                               "description":  "FTA uyumluluğu ve devam eden başvurular."
+                                           },
+                                           {
+                                               "icon":  "Megafon",
+                                               "title":  "Sosyal Medya Kurulumu",
+                                               "description":  "Profil oluşturma, otomasyon ve kampanyalar."
+                                           },
+                                           {
+                                               "icon":  "Dosya Rozeti",
+                                               "title":  "Yatırımcı Sunum Dosyası",
+                                               "description":  "Bağış toplama için gerekli belgeler."
+                                           }
+                                       ]
+                         },
+    "whoShouldSection":  {
+                             "badge":  "Kimler İçin",
+                             "title":  "Hangi şirketler DMCC\u0027yi tercih ediyor?",
+                             "titleHighlight":  "DMCC?",
+                             "items":  [
+                                           {
+                                               "icon":  "Değerli Taş",
+                                               "title":  "Emtia Ticareti",
+                                               "description":  "Altın, elmas, çay, kahve ve değerli metaller.",
+                                               "image":  "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=800\u0026q=80",
+                                               "color":  "amber-400\u0027den sarı-500\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Bloklar",
+                                               "title":  "Kripto ve Web3",
+                                               "description":  "VARA lisanslı kripto para, borsa ve blockchain şirketleri.",
+                                               "image":  "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800\u0026q=80",
+                                               "color":  "from-violet-400 to-purple-600"
+                                           },
+                                           {
+                                               "icon":  "İşlemci",
+                                               "title":  "Teknoloji ve Yapay Zeka",
+                                               "description":  "Teknoloji, yapay zeka ve dijital işletmeler.",
+                                               "image":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800\u0026q=80",
+                                               "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Banknot",
+                                               "title":  "Finansal Hizmetler",
+                                               "description":  "Fintech, sigorta ve finansal danışmanlık firmaları.",
+                                               "image":  "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800\u0026q=80",
+                                               "color":  "from-emerald-400 to-teal-600"
+                                           },
+                                           {
+                                               "icon":  "Evrak çantası",
+                                               "title":  "Danışmanlıklar",
+                                               "description":  "Profesyonel ve yönetim danışmanlığı firmaları.",
+                                               "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80",
+                                               "color":  "pembe-400\u0027den gül-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Megafon",
+                                               "title":  "Medya ve Pazarlama",
+                                               "description":  "Medya, pazarlama ve yaratıcı ajanslar.",
+                                               "image":  "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800\u0026q=80",
+                                               "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                           }
+                                       ]
+                         },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "DMCC Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "DMCC uzmanlarımızla ücretsiz görüşme yapın.",
+                                            "whatsappMessage":  "Merhaba! DMCC Serbest Bölgesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "DMCC Serbest Bölgesi nedir ve Dubai\u0027de iş kurmak için neden idealdir?",
+                                          "a":  "DMCC, Dubai JLT\u0027de bulunan ve dünyanın 1 numaralı serbest bölgesi olarak kabul edilen bir kuruluştur. Emtia, kripto para, danışmanlık, ticaret ve profesyonel hizmetler alanlarında canlı bir topluluğa sahip olup, basit kayıt işlemleri, mükemmel yasal çerçeveler ve dünya standartlarında altyapı sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "DMCC Serbest Bölgesi\u0027nde hangi lisans türleri mevcuttur?",
+                                          "a":  "Ticaret Lisansı (mal alım satımı), Hizmet Lisansı (hukuk, danışmanlık, bilişim), Sanayi Lisansı (hafif imalat), E-ticaret Lisansı (çevrimiçi perakende) ve Serbest Çalışma İzni (bireysel yükleniciler)."
+                                      },
+                                      {
+                                          "q":  "DMCC Serbest Bölgesi\u0027nde şirket kaydı ne kadar sürer?",
+                                          "a":  "DMCC kaydı, standart bir başvuru için genellikle 5-7 iş günü sürer."
+                                      },
+                                      {
+                                          "q":  "DMCC şirketim için %100 yabancı sahiplik elde edebilir miyim?",
+                                          "a":  "Evet. DMCC, %100 yabancı mülkiyete izin veriyor; yerel sponsor gerekmiyor."
+                                      },
+                                      {
+                                          "q":  "DMCC Serbest Bölgesi için en uygun sektörler hangileridir?",
+                                          "a":  "Emtialar (altın, elmas, çay, kahve), kripto para ve Web3, teknoloji ve yapay zeka, finansal hizmetler, medya, danışmanlık ve e-ticaret."
+                                      },
+                                      {
+                                          "q":  "DMCC lisansı aldıktan sonra banka hesabı açabilir miyim?",
+                                          "a":  "Evet. DMCC\u0027nin güçlü bankacılık ilişkileri, üye şirketler için kurumsal hesap açmayı kolaylaştırıyor."
+                                      },
+                                      {
+                                          "q":  "DMCC Serbest Bölgesi serbest çalışanlar ve küçük girişimler için uygun mu?",
+                                          "a":  "Evet. DMCC, bireyler ve küçük işletmeler için tasarlanmış esnek çalışma masaları da dahil olmak üzere, serbest çalışma izinleri ve uygun fiyatlı paketler sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "DMCC Serbest Bölgesi\u0027nde hangi ofis seçenekleri mevcuttur?",
+                                          "a":  "Esnek Çalışma Masaları, Yönetici Ofisleri, Özel Ofisler ve Sanal Ofisler "” hepsi Dubai\u0027nin hareketli JLT bölgesinde."
+                                      },
+                                      {
+                                          "q":  "DMCC\u0027de kurulum için minimum maliyet nedir?",
+                                          "a":  "DMCC şirket kurulumu, üyelik, lisans ve esnek çalışma masası dahil olmak üzere yıllık 33.000 AED\u0027den başlıyor. Tek vizeyle tam teşekküllü bir ticaret şirketi ise yaklaşık 30.000 - 45.000 AED civarında."
+                                      },
+                                      {
+                                          "q":  "DMCC lisansı ile vize alabilir miyim?",
+                                          "a":  "Evet. DMCC, ofis alanına göre vize kotası uygulaması yapıyor. Esnek çalışma masası size 1 vize sağlarken, özel ofisler daha fazla vizeye (6\u0027ya kadar) olanak tanıyor."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Serbest Bölge kurulumunuzla iyi uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Altın Vize",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "DMCC\u0027de lansman yapmaya hazır mısınız?",
+                     "titleHighlight":  "DMCC?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Faaliyet seçiminden lisans verilmesine ve banka hesabı açılmasına kadar kurulum sürecinde size rehberlik edeceğiz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "21.000\u0027den fazla Müşteri",
+                                   "5-7 Gün Kurulum"
+                               ],
+                     "whatsappMessage":  "Merhaba! DMCC kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! DMCC kurulumu hakkında görüşmek istiyorum."
+                 }
+}

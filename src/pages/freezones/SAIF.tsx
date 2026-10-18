@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import saifData from '../../content/freezones/saif-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, Briefcase,
   ShieldCheck, Phone, MessageCircle, HomeIcon, Clock, Award, FileText,
@@ -23,8 +24,9 @@ const iconMap: any = {
 };
 
 export default function SAIF({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || saifData;
-
+  const { language } = useLanguage();
+  const saifFallback = loadContent('freezones/saif-free-zone', language);
+  const data = tinaData?.data?.freeZones || saifFallback;
   return (
     <div className="min-h-screen bg-white">
       {/* === 1. HERO === */}

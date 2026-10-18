@@ -1,0 +1,213 @@
+{
+  "slug": "adgm",
+  "hero": {
+    "badge": "Trillion Dollar Financial Zone",
+    "title": "ADGM Free Zone",
+    "titleHighlight": "Free Zone",
+    "subtitle": "Abu Dhabi Global Market — a globally renowned financial free zone leading the charge on progressive regulations. Perfect for fintech, crypto, SPVs, and holding companies.",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&q=80",
+    "breadcrumbParent": "Free Zones",
+    "breadcrumbLabel": "ADGM",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in ADGM Free Zone setup.",
+    "badges": ["100% Ownership", "0% Tax", "FSRA Regulated"]
+  },
+
+  "stats": [
+    { "icon": "Crown", "value": "$1T+", "label": "Trillion Dollar Zone", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-violet-400 to-purple-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Income Tax", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Clock", "value": "Fast", "label": "Registration", "color": "from-amber-400 to-orange-600" }
+  ],
+
+  "dashboardCard": {
+    "title": "ADGM Dashboard",
+    "statusLabel": "Live",
+    "balanceLabel": "Business Zone",
+    "balanceValue": "$1 Trillion+",
+    "balanceSubtext": "Global financial hub",
+    "metrics": [
+      { "label": "Ownership", "value": "100%", "color": "text-indigo-600" },
+      { "label": "Tax Rate", "value": "0%", "color": "text-emerald-600" }
+    ],
+    "chartLabel": "Financial Growth",
+    "chartValue": "↑ 240%",
+    "chartBars": [30, 50, 40, 65, 55, 80, 95, 75, 100]
+  },
+
+  "whyADGM": {
+    "badge": "Why ADGM",
+    "title": "Why Set Up a Business in ADGM Free Zone?",
+    "titleHighlight": "ADGM Free Zone?",
+    "subtitle": "One of the most sophisticated and reputable regulatory environments in the Middle East.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership of your business with no local sponsor required.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "DollarSign", "title": "Zero Income Tax", "description": "No corporate or personal income tax — maximum profitability.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Landmark", "title": "Global Banking Access", "description": "Recognized worldwide banking, legal, and financial systems.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Zap", "title": "Streamlined Registration", "description": "Fast and efficient business registration process.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Scale", "title": "English Common Law", "description": "Regulated by globally recognized authority following English common law.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Coins", "title": "Perfect for Fintech", "description": "Ideal for fintech, wealth management, crypto, and professional services.", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "beginJourney": {
+    "badge": "Begin Your ADGM Journey",
+    "title": "Start Your Business in ADGM",
+    "titleHighlight": "ADGM",
+    "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+    "imageBadgeTitle": "Located in",
+    "imageBadgeText": "Al Maryah Island, Abu Dhabi",
+    "paragraph1": "Starting your business in ADGM (Abu Dhabi Global Market) is not just about company registration — it's about engaging with one of the most prestigious, dynamic financial hubs in the world.",
+    "paragraph2": "Dubbed a Trillion Dollar Financial Zone, ADGM is an elite marketplace for entrepreneurs, investors, and corporate leaders who want to transact with confidence.",
+    "paragraph3": "Whether you're a startup founder, a seasoned investor, or a corporate strategist — ADGM offers the perfect environment to grow your dreams with a collaborative ecosystem and world-class regulatory framework.",
+    "features": [
+      "Prestigious Financial Hub",
+      "Regulated by FSRA",
+      "Global Access",
+      "Innovation Ecosystem"
+    ]
+  },
+
+  "licenseTypes": {
+    "badge": "License Options",
+    "title": "ADGM Business License Types",
+    "titleHighlight": "License Types",
+    "subtitle": "Get the appropriate license based on your business activities.",
+    "items": [
+      { "icon": "Store", "title": "ADGM Commercial License", "description": "For businesses who trade and provide services.", "code": "COM", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Briefcase", "title": "ADGM Professional License", "description": "For consultants, professional services, legal, or IT.", "code": "PRO", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Building2", "title": "ADGM Holding Company License", "description": "For asset protection and cross-border investments.", "code": "HLD", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Boxes", "title": "ADGM SPV", "description": "Special Purpose Vehicle for structuring and investment holding.", "code": "SPV", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Cpu", "title": "ADGM Fintech License", "description": "For modern digital finance and innovation.", "code": "FIN", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Blocks", "title": "Digital Assets & Crypto License", "description": "For regulated blockchain businesses.", "code": "CRY", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "visaServices": {
+    "badge": "Visa Services",
+    "title": "Visa & Immigration Assistance",
+    "titleHighlight": "Assistance",
+    "subtitle": "Faster visa processing for both investors and employees.",
+    "items": [
+      { "icon": "UserCheck", "title": "Investor & Partner Visas", "description": "For business owners and shareholders in ADGM.", "stampColor": "from-indigo-500 to-violet-600" },
+      { "icon": "Briefcase", "title": "Employment Visas", "description": "For employees sponsored by your ADGM company.", "stampColor": "from-violet-500 to-purple-600" },
+      { "icon": "Users", "title": "Family Visa Applications", "description": "For spouse, children, and dependents.", "stampColor": "from-purple-500 to-fuchsia-600" },
+      { "icon": "RefreshCw", "title": "Visa Renewals & Transfers", "description": "Full lifecycle support for all visa types.", "stampColor": "from-amber-500 to-orange-600" }
+    ]
+  },
+
+  "officeSolutions": {
+    "badge": "Office Solutions",
+    "title": "Modern Office Solutions in ADGM",
+    "titleHighlight": "Solutions in ADGM",
+    "subtitle": "Premium coworking spaces, flexi desks, private offices, and virtual offices in Al Maryah Island.",
+    "smallItems": [
+      { "icon": "Monitor", "title": "Coworking Spaces", "description": "Flexible shared workspaces for startups and freelancers.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Briefcase", "title": "Flexi Desks", "description": "Cost-effective shared desks with premium amenities.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Globe", "title": "Virtual Offices", "description": "Ideal for remote businesses needing an ADGM legal presence.", "color": "from-cyan-400 to-blue-600" }
+    ],
+    "largeItem": {
+      "icon": "Building2",
+      "title": "Private Offices",
+      "description": "Customizable secure spaces in Al Maryah Island — perfect for growing firms. Get guidance on the best office solution based on your visa quota, budget, and operational requirements."
+    }
+  },
+
+  "businessSupport": {
+    "badge": "Business Support Services",
+    "title": "Complete Support by Setup Zone Dubai",
+    "titleHighlight": "by Setup Zone Dubai",
+    "subtitle": "We continue to support you to ensure your business is successful.",
+    "items": [
+      { "icon": "Scale", "title": "Legal Advisory", "description": "Contracts, compliance, and regulatory filings." },
+      { "icon": "CreditCard", "title": "Banking Services", "description": "Corporate and personal accounts with UAE banks." },
+      { "icon": "BarChart3", "title": "Accounting & Auditing", "description": "VAT compliance and financial reporting." },
+      { "icon": "FileBadge", "title": "PRO Services", "description": "Documentation, licensing renewals, and approvals." },
+      { "icon": "MonitorPlay", "title": "Website Development", "description": "SEO-optimized websites and CRM setup." },
+      { "icon": "Megaphone", "title": "Digital Branding", "description": "Brand identity and lead generation support." }
+    ]
+  },
+
+  "strategicAdvantages": {
+    "badge": "Strategic Advantages",
+    "title": "Key Benefits of ADGM's Location & Ecosystem",
+    "titleHighlight": "Location & Ecosystem",
+    "items": [
+      { "icon": "MapPin", "title": "Al Maryah Island", "description": "Located in Abu Dhabi's premier financial district." },
+      { "icon": "Blocks", "title": "Digital Asset Friendly", "description": "One of the few zones supporting digital assets and SPVs legally." },
+      { "icon": "Plane", "title": "Airport Proximity", "description": "Close to Abu Dhabi International Airport, embassies, and government authorities." },
+      { "icon": "Globe", "title": "Global Investment Hub", "description": "A central hub for international business and investment." },
+      { "icon": "ShieldCheck", "title": "FSRA Regulated", "description": "Regulated by the Financial Services Regulatory Authority." },
+      { "icon": "Landmark", "title": "Prestigious Address", "description": "Enhances brand credibility and investor confidence." }
+    ]
+  },
+
+  "whyChooseUs": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "Transparency, efficiency, and personalized service for your ADGM journey.",
+    "items": [
+      { "icon": "Award", "title": "All-in-One Packages", "description": "Complete ADGM setup, licensing, and visa processing.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Target", "title": "Expert Consultation", "description": "Tailored advice based on your industry and legal needs.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Receipt", "title": "Transparent Pricing", "description": "Clear pricing with no hidden charges.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Rocket", "title": "Full Support", "description": "Digital branding, CRM setup, SEO, and lead generation.", "color": "from-amber-400 to-orange-600" }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about ADGM Free Zone. Still have questions? We're one message away.",
+    "items": [
+      { "q": "How do I establish a business in ADGM?", "a": "Register through the Registration Authority. We act on your behalf for trade name reservation, license application, legal structure, and visa services — start to finish." },
+      { "q": "What types of licenses are available in ADGM?", "a": "Commercial, Professional, Holding Company, SPV, Fintech, and Digital Assets/Crypto licenses — each tailored to different business models." },
+      { "q": "Is ADGM for just startups or international businesses?", "a": "ADGM is for both. From fintech startups to multinational corporations, SPVs, and holding companies — ADGM supports all sizes and stages." },
+      { "q": "What is an ADGM SPV and who can use it?", "a": "SPV (Special Purpose Vehicle) is used for structuring, investment holding, and asset protection — ideal for cross-border investors." },
+      { "q": "Can I open a bank account for an ADGM company?", "a": "Yes. ADGM's global banking ties make corporate account opening easier with top UAE and international banks." },
+      { "q": "Do I need office space to register in ADGM?", "a": "Yes, you need a physical or virtual office presence. We offer flexible options including coworking, flexi desks, private, and virtual offices." },
+      { "q": "What is the ADGM visa process?", "a": "We handle the full process: entry permits, medical tests, Emirates ID, and residence visa stamping — for investors, employees, and family members." },
+      { "q": "How quickly can I establish an ADGM company?", "a": "Typically 1-2 weeks depending on documentation and license type. We fast-track the process where possible." },
+      { "q": "Is ADGM regulated as a financial business?", "a": "Yes. ADGM is regulated by the Financial Services Regulatory Authority (FSRA) and follows English common law." },
+      { "q": "Why should I engage Setup Zone Dubai for ADGM setup?", "a": "We offer all-in-one packages, expert consultation, transparent pricing, and full post-setup support — with government ties for fast processing." }
+    ]
+  },
+
+  "relatedServices": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Free Zone setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-indigo-400 to-violet-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Today",
+    "title": "Ready to Launch in ADGM?",
+    "titleHighlight": "ADGM?",
+    "subtitle": "Get a free consultation. We'll guide you through the setup process — from license selection to bank account opening.",
+    "primaryCta": "WhatsApp Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like a free consultation for ADGM setup.",
+    "badges": ["Free Consultation", "FSRA Regulated", "Fast Setup"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

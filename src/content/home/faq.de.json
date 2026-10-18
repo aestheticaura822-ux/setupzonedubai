@@ -1,0 +1,138 @@
+{
+  "badge": "Häufig gestellte Fragen",
+  "heading": {
+    "line1": "Habe ein",
+    "highlight": "Frage?"
+  },
+  "headingLine3": "Wir haben die Antworten.",
+  "description": "Alles, was Sie über Unternehmensgründung, Steuern, Visa und Compliance in den VAE wissen müssen. Sie finden nicht, was Sie suchen? Unsere Experten sind nur eine Nachricht entfernt.",
+  "searchPlaceholder": "Suchen Sie Ihre Frage...",
+  "contactCard": {
+    "icon": "Lightbulb",
+    "title": "Haben Sie noch Fragen?",
+    "subtitle": "Lassen Sie sich kostenlos von unseren Experten für Geschäftsangelegenheiten in den VAE beraten. Wir antworten innerhalb von 24 Stunden.",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "Hallo! Ich habe eine Frage zur Unternehmensgründung in den VAE.",
+    "callText": "Rufen Sie uns an",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "statsResponseLabel": "Antwort",
+    "statsResponseValue": "< 24 Stunden",
+    "statsConsultLabel": "Beratung",
+    "statsConsultValue": "100% kostenlos"
+  },
+  "expandAllLabel": "Alle erweitern",
+  "collapseAllLabel": "Alle ausblenden",
+  "questionSingular": "Frage",
+  "questionPlural": "Fragen",
+  "noResultsTitle": "Keine Ergebnisse gefunden",
+  "noResultsSubtitle": "Versuchen Sie eine andere Suche oder durchstöbern Sie die Kategorien.",
+  "resetFiltersText": "Filter zurücksetzen",
+  "categories": [
+    {
+      "id": "all",
+      "name": "Alle Fragen",
+      "icon": "HelpCircle",
+      "count": 12
+    },
+    {
+      "id": "business",
+      "name": "Unternehmensgründung",
+      "icon": "Building2",
+      "count": 4
+    },
+    {
+      "id": "tax",
+      "name": "Steuern und Mehrwertsteuer",
+      "icon": "Receipt",
+      "count": 3
+    },
+    {
+      "id": "visa",
+      "name": "Visum & Aufenthaltsgenehmigung",
+      "icon": "Crown",
+      "count": 3
+    },
+    {
+      "id": "banking",
+      "name": "Bankwesen",
+      "icon": "Landmark",
+      "count": 1
+    },
+    {
+      "id": "compliance",
+      "name": "Einhaltung",
+      "icon": "ShieldCheck",
+      "count": 1
+    }
+  ],
+  "faqs": [
+    {
+      "category": "Geschäft",
+      "q": "Wie lange dauert es, ein Unternehmen in Dubai zu gründen?",
+      "a": "Die meisten Unternehmen sind innerhalb von 3–5 Werktagen in der Freizone und innerhalb von 2–4 Wochen auf dem Festland vollständig registriert und betriebsbereit, abhängig von der Lizenzart und den erforderlichen Genehmigungen. Wir sorgen für einen reibungslosen und effizienten Einrichtungsprozess – damit Sie schnell starten können."
+    },
+    {
+      "category": "Geschäft",
+      "q": "Worin besteht der Unterschied zwischen einem Unternehmen in einer Freihandelszone und einem Unternehmen auf dem Festland?",
+      "a": "Unternehmen in Freizonen bieten 100%iges Eigentum, Steuervorteile und eignen sich ideal für internationalen Handel und Beratung. Unternehmen vom Festland können frei auf dem gesamten VAE-Markt handeln, ohne Einschränkungen Mitarbeiter einstellen und sind am besten für den lokalen Einzelhandel, das Baugewerbe, die Gastronomie und Agenturen geeignet."
+    },
+    {
+      "category": "Geschäft",
+      "q": "Muss ich physisch in den VAE anwesend sein, um mein Unternehmen zu gründen?",
+      "a": "Nein. Sie können Ihr Unternehmen von überall auf der Welt ortsunabhängig gründen. Wir übernehmen den gesamten Prozess – von der Dokumentation über die Einreichung bis hin zu den Genehmigungen – über unseren digitalen Workflow."
+    },
+    {
+      "category": "Geschäft",
+      "q": "Kann ein Ausländer in Dubai ein Unternehmen zu 100 % besitzen?",
+      "a": "Ja. Ausländer können in den meisten Freizonen und vielen Branchen auf dem Festland Unternehmen zu 100 % besitzen. Die VAE erlauben ausländischen Investoren die vollständige Eigentümerschaft an über 1.000 Handels- und Industriezweigen."
+    },
+    {
+      "category": "Steuer",
+      "q": "Ist die Körperschaftsteuer für Unternehmen in den VAE verpflichtend?",
+      "a": "Ja. Die Körperschaftsteuer ist für Unternehmen in den VAE mit einem jährlichen Nettogewinn von über 375.000 AED verpflichtend. Alle betroffenen Unternehmen müssen sich bei der FTA registrieren und jährliche Steuererklärungen einreichen."
+    },
+    {
+      "category": "Steuer",
+      "q": "Wann muss sich ein Unternehmen für die Mehrwertsteuer registrieren?",
+      "a": "Die Umsatzsteuerregistrierung ist verpflichtend, wenn der steuerpflichtige Umsatz 375.000 AED pro Jahr übersteigt. Eine freiwillige Registrierung ist ab einem Umsatz von 187.500 AED möglich. Die Umsatzsteuer beträgt 5 % auf die meisten Waren und Dienstleistungen."
+    },
+    {
+      "category": "Steuer",
+      "q": "Welche Strafen drohen bei mangelhafter Buchführung in Dubai?",
+      "a": "Die Bußgelder reichen je nach Schwere des Verstoßes von 1.000 AED bis über 50.000 AED. Wiederholte Verstöße können zum Führerscheinentzug führen. Wir sorgen für die vollständige Einhaltung der Vorschriften, um Strafen zu vermeiden."
+    },
+    {
+      "category": "Visum",
+      "q": "Was ist das Goldene Visum der VAE und wie kann ich mich dafür qualifizieren?",
+      "a": "Das Goldene Visum ist eine zehnjährige, verlängerbare Aufenthaltsgenehmigung für Investoren, Unternehmer und außergewöhnliche Talente. Voraussetzungen sind eine Immobilieninvestition von mindestens 2 Millionen AED, eine Unternehmensbeteiligung oder die Anerkennung besonderer Talente."
+    },
+    {
+      "category": "Visum",
+      "q": "Kann ich meine Familienangehörigen im Rahmen eines Goldenen Visums sponsern?",
+      "a": "Ja. Inhaber eines Goldenen Visums können Ehepartner, Kinder, Eltern und Hausangestellte nachholen. Familienmitglieder erhalten die gleichen langfristigen Aufenthaltsrechte."
+    },
+    {
+      "category": "Visum",
+      "q": "Benötige ich einen lokalen Sponsor, um ein Aufenthaltsvisum für die VAE zu beantragen?",
+      "a": "Nein. Für ein Aufenthaltsvisum der VAE ist kein lokaler Bürge erforderlich, weder für Antragsteller in der Freizone noch für solche in Festland- oder Golden-Visa-Anträge. Sie können sich über Ihr eigenes Unternehmen selbst sponsern."
+    },
+    {
+      "category": "Bankwesen",
+      "q": "Wie lange dauert die Eröffnung eines Firmenbankkontos?",
+      "a": "Die Bearbeitungszeit beträgt in der Regel 5–20 Werktage, abhängig von der Bank, dem Geschäftsprofil und der Nationalität des Gesellschafters. Digitale Banken wie WIO können Konten innerhalb von 2–5 Tagen eröffnen."
+    },
+    {
+      "category": "Einhaltung",
+      "q": "Was ist die UBO-Anmeldung und ist sie verpflichtend?",
+      "a": "Die Meldung des wirtschaftlich Berechtigten (UBO – Ultimate Beneficial Owner) ist für alle in den VAE registrierten Unternehmen verpflichtend. Sie legt offen, wer das Unternehmen letztendlich kontrolliert oder von ihm profitiert. Verstöße können mit Geldstrafen von bis zu 100.000 AED und dem Entzug der Lizenz geahndet werden."
+    }
+  ],
+  "bottomCTA": {
+    "icon": "HelpCircle",
+    "title": "Haben Sie Ihre Antwort nicht gefunden?",
+    "subtitle": "Unsere Experten sind nur eine Nachricht entfernt.",
+    "buttonText": "Fragen Sie einen Experten",
+    "whatsappMessage": "Hallo! Ich habe eine Frage, die nicht in Ihren FAQs beantwortet wird."
+  }
+}

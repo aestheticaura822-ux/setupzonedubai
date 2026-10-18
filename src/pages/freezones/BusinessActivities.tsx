@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import activitiesData from '../../content/freezones/business-activities.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: Record<string, any> = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock,
@@ -30,8 +31,9 @@ function getIcon(name?: string) {
 }
 
 export default function BusinessActivities({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || activitiesData;
-
+  const { language } = useLanguage();
+  const activitiesFallback = loadContent('freezones/business-activities', language);
+  const data = tinaData?.data?.freeZones || activitiesFallback;
   return (
     <div className="min-h-screen bg-white">
       {/* === 1. HERO === */}

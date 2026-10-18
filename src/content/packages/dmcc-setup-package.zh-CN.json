@@ -1,0 +1,600 @@
+{
+  "slug": "dmcc-setup-package",
+  "hero": {
+    "badge": "年度全球自由贸易区",
+    "title": "DMCC自由区公司设立",
+    "titleHighlight": "公司设立",
+    "subtitle": "在世界排名第一的自由贸易区开启您的创业之旅。这里汇聚了来自 180 个国家/地区的 21,000 多家公司，涵盖加密货币、大宗商品、科技、金融和媒体等领域。",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+    "breadcrumbLabel": "DMCC 安装包",
+    "ctaPrimaryText": "查看套餐",
+    "ctaPrimaryLink": "#包裹",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对DMCC自由区设立很感兴趣。",
+    "badges": [
+      "100% 所有权",
+      "0% 税率",
+      "5-7天",
+      "超过 21,000 家公司"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "21000+",
+      "label": "公司",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "180",
+      "label": "国家",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "5-7",
+      "label": "设置天数",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Award",
+      "value": "#1",
+      "label": "自由区",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "intro": {
+    "badge": "迪拜商业",
+    "title": "在世界排名第一的自由区开启您的创业之旅",
+    "titleHighlight": "世界第一自由区",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "世界第一自由区",
+    "imageBadgeText": "朱美拉湖塔",
+    "paragraph1": "迪拜多种商品中心（DMCC）自由区是全球公认的商业设立和贸易便利化领域的领导者，以其战略位置、便捷的设立流程和卓越的法律框架而闻名。",
+    "paragraph2": "DMCC是企业家、中小企业和跨国公司的理想之地。无论您是刚刚起步还是正在拓展区域业务，DMCC都是一个面向未来、可扩展的生态系统。",
+    "paragraph3": "DMCC 汇聚了来自 180 个国家/地区的 21,000 多家企业，涵盖加密货币、大宗商品、科技、金融和媒体等领域，是世界上最令人兴奋和最具创新精神的商业中心之一。",
+    "features": [
+      "全球地址",
+      "人脉拓展机会",
+      "透明许可",
+      "简易签证配额",
+      "杰贝阿里港附近",
+      "迪拜国际机场附近"
+    ]
+  },
+  "whyChooseSection": {
+    "badge": "让你的企业面向未来",
+    "title": "为什么选择DMCC自由区？",
+    "titleHighlight": "DMCC自由区？",
+    "subtitle": "选择在全球最具创新力的商业中心创业的六大理由。",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "年度全球自由贸易区",
+        "description": "由于其充满活力的基础设施、便捷的营商环境和全球互联互通，DMCC多次被评为“年度全球自由区”。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "来自 180 个国家的 21,000 多家企业",
+        "description": "加入全球最大的自由区社区——加密货币、大宗商品、科技、金融和媒体公司都在同一个生态系统中协作。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "MapPin",
+        "title": "位于JLT的黄金地段",
+        "description": "朱美拉湖塔楼的优质办公空间——距离迪拜码头仅几分钟路程，靠近杰贝阿里港和迪拜国际机场。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Gem",
+        "title": "黄金、钻石及大宗商品中心",
+        "description": "无与伦比的大宗商品交易行业生态系统——茶叶、咖啡、黄金、钻石等专业区域。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "监管金融科技与加密货币中心",
+        "description": "经《增值税和资产监管法》(VARA) 批准的数字资产活动。DMCC 是阿联酋加密货币公司的旗舰聚集地，拥有完善的监管框架。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "牢固的银行关系",
+        "description": "得益于DMCC已建立的银行合作伙伴关系，企业更容易获得阿联酋顶级银行的企业账户审批。",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "轻松设立公司",
+    "title": "DMCC为企业主带来的益处",
+    "titleHighlight": "企业主",
+    "subtitle": "为所有企业提供基础设施、遵守监管规定以及营造创新文化。",
+    "items": [
+      {
+        "icon": "Truck",
+        "label": "简化贸易便利化",
+        "desc": "进出口支持及物流",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Gem",
+        "label": "专业商品区",
+        "desc": "茶、咖啡、黄金、钻石",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Database",
+        "label": "数字合规工具",
+        "desc": "在线提交和续期申请",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Network",
+        "label": "社交活动",
+        "desc": "商业配对平台",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "licenseTypes": {
+    "badge": "适用性许可",
+    "title": "DMCC自由区许可证类型",
+    "titleHighlight": "许可证类型",
+    "subtitle": "六种许可证类型，分别针对不同的商业模式和行业。",
+    "items": [
+      {
+        "id": "trading",
+        "icon": "Store",
+        "title": "营业执照",
+        "tagline": "买入、卖出和分销",
+        "description": "旨在促进阿联酋及国际市场上的商品买卖或分销。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": [
+          "进出口",
+          "批发的",
+          "零售",
+          "分配"
+        ],
+        "bestFor": "交易员"
+      },
+      {
+        "id": "service",
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "tagline": "专业技术与咨询",
+        "description": "提供法律、咨询、媒体或IT服务等专业服务。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "合法的",
+          "咨询",
+          "媒体",
+          "IT服务"
+        ],
+        "bestFor": "服务提供商"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "工业许可证",
+        "tagline": "轻工业",
+        "description": "适用于以轻型制造或生产为基础，并拥有工业基础设施的企业。",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "制造业",
+          "生产",
+          "集会",
+          "加工"
+        ],
+        "bestFor": "制造商"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "tagline": "在线业务",
+        "description": "专为在线零售、代发货或具有数字化优先能力的在线商业模式量身定制。",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "在线零售",
+          "代发货",
+          "市场",
+          "数字产品"
+        ],
+        "bestFor": "电子商务卖家"
+      },
+      {
+        "id": "freelance",
+        "icon": "Laptop",
+        "title": "自由职业许可证",
+        "tagline": "独立专业人士",
+        "description": "允许个人合法经营，以独立承包商的身份为客户工作和开具发票。",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "独立工作",
+          "法律发票",
+          "符合签证资格",
+          "低成本"
+        ],
+        "bestFor": "自由职业者"
+      },
+      {
+        "id": "crypto",
+        "icon": "Coins",
+        "title": "加密/VARA许可证",
+        "tagline": "数字资产",
+        "description": "在完全符合 VARA 批准的框架内运营交易所、经纪商、托管机构或咨询机构。",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=1200&q=80",
+        "color": "from-fuchsia-500 to-purple-700",
+        "features": [
+          "加密货币交易所",
+          "经纪人",
+          "保管",
+          "咨询"
+        ],
+        "bestFor": "加密技术与Web3"
+      }
+    ]
+  },
+  "costTable": {
+    "badge": "2026 年成本指南",
+    "title": "DMCC公司设立成本及许可证类型",
+    "titleHighlight": "费用和许可证类型",
+    "subtitle": "所有许可证类型均采用透明定价。",
+    "rows": [
+      {
+        "license": "营业执照",
+        "cost": "15,000 迪拉姆",
+        "bestFor": "许可证 + 注册",
+        "color": "from-amber-400 to-orange-600",
+        "icon": "Store"
+      },
+      {
+        "license": "服务许可证",
+        "cost": "15,000 迪拉姆",
+        "bestFor": "咨询、科技、媒体",
+        "color": "from-orange-400 to-red-600",
+        "icon": "Briefcase"
+      },
+      {
+        "license": "加密/VARA许可证",
+        "cost": "25,000 迪拉姆以上",
+        "bestFor": "审批与合规",
+        "color": "from-red-400 to-rose-600",
+        "icon": "Coins"
+      },
+      {
+        "license": "弹性办公桌",
+        "cost": "8,000 - 10,000 迪拉姆",
+        "bestFor": "年度的",
+        "color": "from-rose-400 to-pink-600",
+        "icon": "Users"
+      },
+      {
+        "license": "签证（每人）",
+        "cost": "4,500 - 6,500 迪拉姆",
+        "bestFor": "阿联酋身份证",
+        "color": "from-pink-400 to-fuchsia-600",
+        "icon": "IdCard"
+      }
+    ],
+    "footerNote": "DMCC 第一年全包费用：贸易公司获得一个签证的费用约为 30,000 至 45,000 迪拉姆（不包括加密货币许可证，加密货币许可证单独定价）。"
+  },
+  "packages": {
+    "badge": "全包套餐",
+    "title": "DMCC 安装包",
+    "titleHighlight": "包裹",
+    "subtitle": "三种综合套餐——起价 33,000 迪拉姆。",
+    "items": [
+      {
+        "id": "essential",
+        "icon": "Store",
+        "title": "DMCC Essential",
+        "price": "33,000 迪拉姆",
+        "tagline": "交易 + 1 张 Visa 卡",
+        "category": "入口",
+        "color": "from-amber-500 to-orange-700",
+        "badge": "性价比最高",
+        "badgeColor": "从琥珀色 500 到橙色 600",
+        "includes": [
+          "DMCC会员资格",
+          "营业执照",
+          "弹性办公桌（年付）",
+          "1个签证配额",
+          "银行账户协助",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": "professional",
+        "icon": "Crown",
+        "title": "DMCC 专业人士",
+        "price": "42,000 迪拉姆",
+        "tagline": "服务 + 2 张签证",
+        "category": "受欢迎的",
+        "color": "from-orange-500 to-red-700",
+        "badge": "受欢迎的",
+        "badgeColor": "从橙色 500 到红色 600",
+        "includes": [
+          "DMCC会员资格",
+          "服务许可证",
+          "行政办公室（年度）",
+          "2个签证配额",
+          "银行账户协助",
+          "免费增值税咨询"
+        ]
+      },
+      {
+        "id": "premium",
+        "icon": "Award",
+        "title": "DMCC Premium",
+        "price": "55,000 迪拉姆",
+        "tagline": "全套服务 + 4 张签证",
+        "category": "优质的",
+        "color": "from-red-500 to-rose-700",
+        "badge": "优质的",
+        "badgeColor": "从红色 500 到玫瑰色 600",
+        "includes": [
+          "DMCC会员资格",
+          "任何类型的许可证",
+          "私人办公室（年费）",
+          "4个签证配额",
+          "银行账户协助",
+          "免费增值税咨询",
+          "品牌和客户关系管理搭建"
+        ]
+      }
+    ]
+  },
+  "process": {
+    "badge": "七步流程",
+    "title": "如何在迪拜多种商品交易中心自由区注册公司",
+    "titleHighlight": "DMCC自由区",
+    "subtitle": "简单、在线、快捷——我们为您处理一切。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "文档活动及名称",
+        "description": "选择您的业务活动并预留公司名称。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "选择许可证和地址",
+        "description": "选择您的许可证类型和JLT办公空间。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "上传应用程序",
+        "description": "在线提交申请和身份证明文件。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "初步批准",
+        "description": "获得批准并缴纳许可证费用。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "step": "05",
+        "icon": "Award",
+        "title": "取货营业执照",
+        "description": "领取您的DMCC贸易许可证——即可开始营业。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "step": "06",
+        "icon": "CreditCard",
+        "title": "机构卡和维萨卡",
+        "description": "申请营业执照并办理居留签证。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "step": "07",
+        "icon": "Landmark",
+        "title": "开设公司银行账户",
+        "description": "在阿联酋顶级银行开设您的企业银行账户。",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "officeOptions": {
+    "badge": "JLT的办公选择",
+    "title": "您在朱美拉湖塔的工作空间",
+    "titleHighlight": "朱美拉湖塔",
+    "subtitle": "您的办公空间体现了您的品牌——位于充满活力的 JLT 地区的顶级选择。",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "灵活办公桌",
+        "description": "非常适合办公需求有限的初创公司和自由职业者。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Crown",
+        "title": "行政办公室",
+        "description": "提供设施齐全、商务便利的办公空间。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "私人办公室",
+        "description": "为成长型团队提供安全、可定制的空间。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "虚拟办公室",
+        "description": "非常适合需要合法存在实体机构的远程企业。",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "comparison": {
+    "badge": "比较区域",
+    "title": "DMCC vs JAFZA vs 硅谷绿洲",
+    "titleHighlight": "硅谷绿洲",
+    "subtitle": "一眼就能看出区别，做出正确的选择。",
+    "headers": [
+      "因素",
+      "DMCC",
+      "杰贝阿里自由区",
+      "硅谷绿洲"
+    ],
+    "rows": [
+      {
+        "factor": "起始成本",
+        "difc": "15,000 迪拉姆",
+        "mainland": "12,000 迪拉姆",
+        "jafza": "15,500 迪拉姆",
+        "dmcc": "",
+        "highlight": false,
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "factor": "最适合",
+        "difc": "商品、加密货币",
+        "mainland": "物流、行业",
+        "jafza": "技术、信息技术、研发",
+        "dmcc": "",
+        "highlight": true,
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "factor": "签证配额",
+        "difc": "最多 6",
+        "mainland": "最多 6",
+        "jafza": "最多 6",
+        "dmcc": "",
+        "highlight": false,
+        "color": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "postSetupSupport": {
+    "badge": "安装后支持",
+    "title": "不仅仅是公司注册",
+    "titleHighlight": "公司成立",
+    "subtitle": "提供全套数字化和运营服务，助力您的业务规模化发展。",
+    "footer": "我们提供真正的端到端业务启动体验——从战略到系统。",
+    "items": [
+      {
+        "icon": "Palette",
+        "label": "企业品牌及标志",
+        "desc": "品牌设计"
+      },
+      {
+        "icon": "Globe",
+        "label": "SEO网站开发",
+        "desc": "内容策略"
+      },
+      {
+        "icon": "Database",
+        "label": "CRM和CMS实施",
+        "desc": "简化操作"
+      },
+      {
+        "icon": "Receipt",
+        "label": "阿联酋增值税登记",
+        "desc": "持续合规"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "社交媒体设置",
+        "desc": "自动化工具"
+      },
+      {
+        "icon": "Presentation",
+        "label": "投资者路演PPT",
+        "desc": "文档服务"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜多种商品交易中心自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "items": [
+      {
+        "q": "什么是DMCC自由区？为什么它是迪拜企业设立的理想场所？",
+        "a": "迪拜多种商品中心（DMCC）自由区位于迪拜市中心，常被誉为全球排名第一的自由区。DMCC汇聚了众多充满活力的企业，涵盖商品、加密货币、咨询、贸易和专业服务等领域。凭借简便的注册流程、完善的法律框架和一流的基础设施，DMCC成为迪拜企业家和国际企业快速发展的理想之选。"
+      },
+      {
+        "q": "DMCC自由区提供哪些类型的许可证？",
+        "a": "DMCC 提供贸易许可证、服务许可证、工业许可证、电子商务许可证、自由职业许可证和加密货币/VARA 许可证——针对不同的商业模式和行业量身定制。"
+      },
+      {
+        "q": "在迪拜多种商品交易中心自由区注册公司需要多长时间？",
+        "a": "对于包含完整文件的标准申请，DMCC 注册通常需要 5-7 个工作日。"
+      },
+      {
+        "q": "我的DMCC公司可以100%外资控股吗？",
+        "a": "是的。DMCC允许100%外资所有权，无需阿联酋当地担保人或阿联酋国民合伙人。"
+      },
+      {
+        "q": "哪些行业最适合在迪拜多种商品交易中心（DMCC）自由区设立？",
+        "a": "DMCC 非常适合大宗商品（黄金、钻石、茶叶、咖啡）、加密货币和 Web3、金融科技、物流、咨询、媒体和专业服务。"
+      },
+      {
+        "q": "获得DMCC许可证后，我可以开立银行账户吗？",
+        "a": "是的。DMCC与多家银行建立了稳固的合作关系，这使得企业账户审批更加便捷。我们提供KYC（了解你的客户）流程、文件准备和银行对接等方面的全面协助。"
+      },
+      {
+        "q": "DMCC自由区适合自由职业者和小微企业吗？",
+        "a": "当然。DMCC为个人提供自由职业许可证，并为初创企业提供低成本套餐——包括只需一个签证配额即可使用的灵活办公桌。"
+      },
+      {
+        "q": "DMCC自由区有哪些办公选择？",
+        "a": "DMCC 提供灵活办公桌、行政办公室、私人办公室和虚拟办公室——所有办公室均位于高档的朱美拉湖塔区 (JLT)。"
+      },
+      {
+        "q": "在迪拜多种商品交易中心 (DMCC) 设立机构的最低成本是多少？",
+        "a": "DMCC 公司设立费用起价为每年 33,000 迪拉姆，包括会员费、许可证费和灵活办公桌费用。"
+      },
+      {
+        "q": "为什么选择迪拜Setup Zone进行DMCC（迪拜多种商品交易中心）的设立？",
+        "a": "我们提供透明的定价、专业的DMCC（数字货币结算中心）服务、专属客户经理以及端到端的支持——从牌照申请、签证办理到银行服务，我们拥有超过10,000个成功案例。"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "准备好在DMCC上线了吗？",
+    "title": "准备好在世界第一自由贸易区启动项目了吗？",
+    "titleHighlight": "世界第一自由区？",
+    "subtitle": "获取免费咨询。我们将帮助您选择合适的DMCC套餐，让您的业务在几天内顺利启动。",
+    "primaryCta": "WhatsApp 联系我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想咨询一下关于DMCC自由区设立的免费咨询服务。",
+    "badges": [
+      "免费咨询",
+      "5-7天安装",
+      "100% 所有权"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "超越国界的商业",
+  "heroTitle": "迪拜南部自由区公司设立",
+  "heroTitleHighlight": "公司设立",
+  "heroSubtitle": "通往全球增长的门户。战略位置优越，毗邻阿勒马克图姆国际机场。100% 外资所有，零税收，快速审批许可。",
+  "heroChips": [
+    "100% 所有权",
+    "零税",
+    "2-4天安装完成"
+  ],
+  "heroCards": {
+    "primary": {
+      "badge": "快速设置",
+      "icon": "Clock",
+      "label": "设置时间",
+      "value": "2-4天",
+      "highlight": "98%",
+      "highlightLabel": "成功",
+      "footer": "阿联酋自由区速度最快",
+      "color": "from-sky-400 to-blue-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "所有权",
+      "value": "100% 外资",
+      "title": "无赞助商",
+      "subtext": "完全控制",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "tertiary": {
+      "icon": "Plane",
+      "label": "地点",
+      "value": "机场旁边",
+      "title": "马克图姆",
+      "subtext": "全球物流枢纽",
+      "color": "from-amber-400 to-orange-500"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-4",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "所得税",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "企业",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "智慧增长区",
+    "title": "迪拜南部自由区详解",
+    "titleHighlight": "解释",
+    "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+    "imageBadgeTitle": "位于",
+    "imageBadgeText": "阿联酋迪拜南部",
+    "paragraphs": [
+      "迪拜南自由区是位于迪拜南端、毗邻世界最大机场的政府全面支持的经济区。它为本地和国际企业提供简化的法律和监管框架。",
+      "企业家可享受利润全额汇回、免征所得税和企业所得税，以及针对初创企业、中小企业和跨国公司的灵活方案。"
+    ],
+    "highlights": [
+      "全额利润汇回",
+      "无需缴纳所得税",
+      "无企业所得税",
+      "灵活套餐"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "主要优势",
+    "title": "在迪拜南部设立机构的优势",
+    "titleHighlight": "迪拜南部",
+    "subtitle": "助您在全球范围内拓展业务所需的一切。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全掌控您的公司——无需当地担保人。非常适合国际创业者。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "零税收优惠",
+        "description": "无需缴纳个人所得税或公司所得税。利润和资本可全额汇回。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速注册",
+        "description": "仅需2-4个工作日即可完成所有设置。审批和许可流程快捷。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "战略位置",
+        "description": "毗邻阿勒马克图姆国际机场和2020年世博会场馆——物流走廊。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "灵活套餐",
+        "description": "为初创企业、中小企业和跨国公司量身定制的解决方案。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Rocket",
+        "title": "创业生态系统",
+        "description": "集人脉拓展、联合办公空间和企业加速器于一体。",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "设置过程",
+    "title": "如何分六步设立公司",
+    "titleHighlight": "六步走",
+    "subtitle": "从活动选择到银行账户开立，流程精简高效。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "业务活动",
+        "description": "您可以选择物流、贸易、咨询、电子商务、IT服务等。",
+        "icon": "Target",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "选择法律结构",
+        "description": "FZE（单一股东）、FZCO（多个股东）或现有公司的分公司。",
+        "icon": "Building2",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "预留商标",
+        "description": "请提交您希望的公司名称以供审批——必须符合阿联酋命名规范。",
+        "icon": "FileText",
+        "color": "from-amber-400 to-orange-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "提交文件",
+        "description": "护照复印件、照片、申请表以及任何其他所需文件。",
+        "icon": "FileCheck",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "颁发许可证",
+        "description": "通常几天内即可收到您的商业、服务或工业许可证。",
+        "icon": "BadgeCheck",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "06",
+        "title": "Visa 和银行账户",
+        "description": "申请居留签证并开设公司银行账户以开始运营。",
+        "icon": "Landmark",
+        "color": "from-pink-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "为什么它是理想的",
+    "title": "让你的企业面向未来",
+    "titleHighlight": "商业",
+    "subtitle": "迪拜南部自由区是为现代企业家而建的。",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "灵活且价格实惠",
+        "description": "为初创企业和独立创业者提供价格合理的许可套餐。"
+      },
+      {
+        "icon": "Globe",
+        "title": "战略连通性",
+        "description": "靠近阿勒马克图姆国际机场和全球贸易主要港口。"
+      },
+      {
+        "icon": "Users",
+        "title": "100% 外资所有",
+        "description": "无需当地赞助商——创业者可以拥有全部所有权。"
+      },
+      {
+        "icon": "Rocket",
+        "title": "创业生态系统",
+        "description": "拓展人脉、共享办公空间以及获得商业加速器的机会。"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速设置",
+        "description": "注册和许可只需几天，而不是几周。"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "面向未来的基础设施",
+        "description": "专为数字化、电子商务和科技型企业打造。"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "适用人群",
+    "title": "哪些企业应该在迪拜南部投资兴业？",
+    "titleHighlight": "迪拜南部？",
+    "subtitle": "非常适合这些行业和企业类型。",
+    "items": [
+      {
+        "icon": "Truck",
+        "title": "物流与货运",
+        "description": "服务于海湾合作委员会及其他地区的货运代理和物流公司。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Package",
+        "title": "电子商务",
+        "description": "拥有物流中心和配送业务的在线商店。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "航空服务",
+        "description": "飞机维修、包机服务和航空支持。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Store",
+        "title": "贸易公司",
+        "description": "面向海湾合作委员会市场及其他地区的进出口企业。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "咨询公司",
+        "description": "服务型创业公司和专业咨询公司。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Code",
+        "title": "技术与软件",
+        "description": "软件开发、IT服务和数字平台。",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "noteText": "战略优势：毗邻阿勒马克图姆国际机场、杰贝阿里港，可直接通往公路、航空和海运——该区域专为需要速度、便利性和运营效率的公司而建。"
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "您在迪拜南部设立项目的值得信赖的合作伙伴",
+    "titleHighlight": "迪拜南部设置",
+    "description": "我们让您在迪拜南部自由区的设立过程变得简单、透明、轻松。从选择业务类型到签证办理和银行账户开立——我们全程为您服务。",
+    "items": [
+      {
+        "icon": "Award",
+        "label": "认证自由区专家"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速审批"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明定价"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "100% 合规"
+      },
+      {
+        "icon": "Users",
+        "label": "专属客户经理"
+      },
+      {
+        "icon": "Clock",
+        "label": "全天候支持"
+      }
+    ],
+    "stats": [
+      {
+        "icon": "Clock",
+        "value": "2-4",
+        "label": "平均设置天数",
+        "color": "from-sky-500 to-blue-500",
+        "bg": "从天空 500/30 到蓝色 500/30"
+      },
+      {
+        "icon": "Zap",
+        "value": "98%",
+        "label": "成功率",
+        "color": "from-violet-500 to-purple-500",
+        "bg": "从紫罗兰色 500/30 到紫色 500/30"
+      },
+      {
+        "icon": "Users",
+        "value": "500+",
+        "label": "服务客户",
+        "color": "from-emerald-500 to-teal-500",
+        "bg": "从翡翠绿 500/30 到青色 500/30"
+      },
+      {
+        "icon": "Award",
+        "value": "15岁以上",
+        "label": "工作年限",
+        "color": "from-amber-500 to-orange-500",
+        "bg": "从琥珀色 500/30 到橙色 500/30"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜南部自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们迪拜南部的专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜南部自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是迪拜南部自由区？为什么它是公司注册的理想场所？",
+        "a": "迪拜南部自由区是由政府支持的经济区，毗邻阿勒马克图姆国际机场和2020年世博会场馆。该自由区支持物流、电子商务、航空和贸易，拥有100%外资所有权、零税收和世界一流的基础设施。"
+      },
+      {
+        "q": "在迪拜南部自由区设立公司有哪些主要优势？",
+        "a": "100% 外资所有，零个人所得税和企业所得税，快速注册（2-4 天），针对各种规模企业的灵活方案，以及完整的创业生态系统。"
+      },
+      {
+        "q": "迪拜南部自由区允许开展哪些商业活动？",
+        "a": "物流、航空服务、电子商务、贸易、咨询、IT服务、数字平台等等。完整列表请访问迪拜南城官方网站。"
+      },
+      {
+        "q": "我在迪拜南部自由区创办公司需要当地担保人吗？",
+        "a": "不。迪拜南部自由区允许100%外资所有权——您无需当地担保人即可设立或运营您的企业。"
+      },
+      {
+        "q": "有哪些类型的许可证可供选择？",
+        "a": "根据您的业务活动，您可能需要商业许可证、服务许可证和工业许可证。每种许可证的签证配额和办公要求都不同。"
+      },
+      {
+        "q": "允许哪些法律结构？",
+        "a": "自由区机构（FZE）适用于单一股东，自由区公司（FZCO）适用于多个股东，分公司适用于现有的阿联酋或外国公司。"
+      },
+      {
+        "q": "我可以远程设立一家迪拜南部自由区公司吗？",
+        "a": "是的。我们远程处理整个流程——从文件收集到许可证发放——无需前往迪拜。"
+      },
+      {
+        "q": "设置完成后有哪些签证选择？",
+        "a": "您可以为自己、家人和员工申请居留签证。签证配额取决于您的办公室规模（灵活办公桌或独立办公室）。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的自由区设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "corporate-tax-vat",
+        "title": "企业所得税和增值税",
+        "description": "专业的税务咨询、FTA注册和合规服务。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始",
+    "title": "准备在迪拜南部启动项目？",
+    "titleHighlight": "迪拜南部？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置流程——从选择业务类型到颁发许可证和开设银行账户。",
+    "chips": [
+      "免费咨询",
+      "10,000+ 客户",
+      "2-4天安装完成"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于在迪拜南部自由区设立办事处的免费事宜。",
+    "whatsappCardMessage": "您好！我想探讨一下迪拜南部自由区的设立事宜。"
+  }
+}

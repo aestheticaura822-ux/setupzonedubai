@@ -1,0 +1,257 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "45+ Free Zones. 100% Ownership.",
+  "heroTitle": "UAE Free Zone Company Setup",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "Set up your company in one of 45+ UAE Free Zones. 100% foreign ownership, 0% tax, and full profit repatriation — all in as little as 3-7 days.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-7 Days Setup", "45+ Free Zones"],
+
+  "stats": [
+    { "icon": "Globe", "value": "45+", "label": "Free Zones", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Globe2", "value": "100%", "label": "Foreign Ownership", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Corporate Tax", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-sky-400 to-blue-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "What Is It?",
+    "title": "What Is a Free Zone Company?",
+    "titleHighlight": "Free Zone Company?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Tax-Free Zone",
+    "imageBadgeText": "100% Ownership",
+    "paragraphs": [
+      "A UAE Free Zone Company is a business licensed by one of the 45+ Free Zones across Dubai, Abu Dhabi, Sharjah, and other emirates. It offers a tax-free environment with 100% foreign ownership.",
+      "Free Zone companies can trade freely within the Free Zone, across the UAE (via distributors), and internationally. They cannot trade directly in the UAE mainland market.",
+      "Popular Free Zones include IFZA, DMCC, Meydan, DAFZA, JAFZA, RAKEZ, SHAMS, and Dubai CommerCity — each with unique benefits for different business activities. At Setup Zone Dubai, we help you choose the right one based on your goals."
+    ],
+    "highlights": ["100% Foreign Ownership", "0% Corporate Tax", "Profit Repatriation", "Duty-Free Benefits", "Fast Setup", "45+ Zones Available"]
+  },
+
+  "licenseTypesSection": {
+    "badge": "License Options",
+    "title": "What Free Zone Licenses Can You Get?",
+    "titleHighlight": "Free Zone Licenses",
+    "subtitle": "Swipe through 6 license types — pick the right one for your business.",
+    "items": [
+      {
+        "id": "commercial",
+        "icon": "StoreIcon",
+        "title": "Commercial License",
+        "tagline": "Buy, Sell & Trade",
+        "description": "For trading companies, import/export businesses, wholesalers, retailers, and distributors. Trade freely within the Free Zone, across UAE, and internationally.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": ["Import/Export", "Wholesale & Retail", "General Trading", "Global Sales"],
+        "bestFor": "Traders"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Professional / Service License",
+        "tagline": "Expertise & Consulting",
+        "description": "For consultants, IT services, marketing agencies, educators, coaches, and professional service providers with 100% ownership.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": ["Consultants", "IT Services", "Marketing", "Education"],
+        "bestFor": "Consultants"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Industrial License",
+        "tagline": "Manufacture & Produce",
+        "description": "For manufacturing, production, assembly, and industrial operations within designated Free Zones with access to industrial land and infrastructure.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": ["Manufacturing", "Production", "Assembly", "Industrial Land"],
+        "bestFor": "Manufacturers"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "E-commerce License",
+        "tagline": "Digital-First Business",
+        "description": "For online stores, digital marketplaces, dropshipping, and e-commerce platforms with 100% ownership, low cost, and tax-free environment.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": ["Online Store", "Digital Marketplace", "Dropshipping", "Global Reach"],
+        "bestFor": "E-commerce Sellers"
+      },
+      {
+        "id": "freelancer",
+        "icon": "Laptop",
+        "title": "Freelancer Permit",
+        "tagline": "Individual Professionals",
+        "description": "For freelancers, consultants, designers, developers, writers, and digital nomads. Perfect for solo professionals who want legal recognition, invoicing, and visa eligibility.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": ["Individual Professionals", "Legal Invoicing", "Visa Eligible", "Low Cost"],
+        "bestFor": "Freelancers"
+      },
+      {
+        "id": "holding",
+        "icon": "Crown",
+        "title": "Holding License",
+        "tagline": "Corporate Structuring",
+        "description": "For holding companies, investment vehicles, and asset managers. Manage subsidiaries, real estate, IP, and investments without engaging in commercial activities.",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": ["Holding Company", "Investment Vehicle", "Asset Management", "Wealth Structuring"],
+        "bestFor": "Investors & HNIs"
+      }
+    ]
+  },
+
+  "topFreeZonesSection": {
+    "badge": "45+ Free Zones",
+    "title": "Top Free Zones We Serve",
+    "titleHighlight": "Free Zones",
+    "subtitle": "From IFZA to Dubai CommerCity — we've got expertise across all UAE Free Zones.",
+    "items": [
+      { "name": "IFZA", "tagline": "Flexible & Affordable", "color": "from-emerald-500 to-teal-700" },
+      { "name": "DMCC", "tagline": "Commodities & Trade", "color": "from-teal-500 to-cyan-700" },
+      { "name": "Meydan", "tagline": "Low-Cost Setup", "color": "from-cyan-500 to-sky-700" },
+      { "name": "DAFZA", "tagline": "Aviation & Logistics", "color": "from-sky-500 to-blue-700" },
+      { "name": "JAFZA", "tagline": "Industrial & Trade", "color": "from-blue-500 to-indigo-700" },
+      { "name": "RAKEZ", "tagline": "Low-Cost Multi-Sector", "color": "from-indigo-500 to-violet-700" },
+      { "name": "SHAMS", "tagline": "Freelancers & SMEs", "color": "from-violet-500 to-purple-700" },
+      { "name": "Dubai CommerCity", "tagline": "E-commerce Hub", "color": "from-purple-500 to-fuchsia-700" }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Free Zone Advantages",
+    "title": "Benefits of Free Zone Setup",
+    "titleHighlight": "Free Zone Setup",
+    "subtitle": "Eight powerful advantages of a UAE Free Zone company.",
+    "items": [
+      { "icon": "Globe2", "title": "100% Foreign Ownership", "description": "Full ownership of your UAE business — no local Emirati sponsor or UAE national partner required.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Tax", "description": "Tax-free environment with 0% corporate tax, 0% personal income tax, and full profit retention.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Wallet", "title": "Full Profit Repatriation", "description": "Repatriate 100% of your capital and profits without any currency restrictions.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Package", "title": "Duty-Free Benefits", "description": "No import or export duties within the Free Zone — perfect for trading, e-commerce, and logistics.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Zap", "title": "Fast-Track Setup", "description": "Licensed in 3-7 days with streamlined documentation and remote registration available.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Building2", "title": "Flexible Office Solutions", "description": "Choose from flexi-desks, co-working spaces, private offices, or warehouses — all ready to use.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Bank", "title": "Corporate Bank Account", "description": "Open UAE corporate bank accounts with top banks — full support with KYC and documentation.", "color": "from-purple-400 to-fuchsia-600" }
+    ]
+  },
+
+  "processSection": {
+    "badge": "6-Step Process",
+    "title": "How to Get Your Free Zone License",
+    "titleHighlight": "Free Zone License",
+    "subtitle": "Six simple steps to launching your Free Zone company.",
+    "steps": [
+      { "step": "01", "icon": "Target", "title": "Choose Your Free Zone", "description": "We help you select the best Free Zone based on your activity, budget, and long-term goals.", "color": "from-emerald-400 to-teal-600" },
+      { "step": "02", "icon": "FileSignature", "title": "Reserve Trade Name", "description": "Reserve your business name with the Free Zone authority — usually approved within hours.", "color": "from-teal-400 to-cyan-600" },
+      { "step": "03", "icon": "ClipboardCheck", "title": "License Application", "description": "Submit your application with passport copies, business plan, and required documents.", "color": "from-cyan-400 to-sky-600" },
+      { "step": "04", "icon": "Building2", "title": "Choose Office Space", "description": "Select flexi-desk, co-working space, private office, or warehouse — as per your license.", "color": "from-sky-400 to-blue-600" },
+      { "step": "05", "icon": "ScrollText", "title": "Receive Your License", "description": "Get your Free Zone trade license — typically issued within 3-7 working days.", "color": "from-blue-400 to-indigo-600" }
+    ]
+  },
+
+  "comparisonSection": {
+    "badge": "Free Zone vs Mainland",
+    "title": "Compare Your Options",
+    "titleHighlight": "Compare",
+    "subtitle": "See the differences at a glance to make the right choice.",
+    "items": [
+      { "factor": "Ownership", "freezone": "100% Foreign", "mainland": "100% (Most)", "color": "from-emerald-400 to-teal-600" },
+      { "factor": "Setup Time", "freezone": "3-7 Days", "mainland": "2-4 Weeks", "color": "from-teal-400 to-cyan-600" },
+      { "factor": "Cost", "freezone": "Lower", "mainland": "Higher", "color": "from-cyan-400 to-sky-600" },
+      { "factor": "Tax", "freezone": "0% Corporate", "mainland": "0-9% Corporate", "color": "from-sky-400 to-blue-600" },
+      { "factor": "UAE Market", "freezone": "Limited", "mainland": "Full Access", "color": "from-blue-400 to-indigo-600" },
+      { "factor": "Govt Contracts", "freezone": "No", "mainland": "Yes", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "documentsSection": {
+    "badge": "Required Documents",
+    "title": "What You Need to Submit",
+    "titleHighlight": "Need to Submit",
+    "items": [
+      { "icon": "Camera", "label": "Passport Photos", "desc": "White background" },
+      { "icon": "FileText", "label": "Business Plan", "desc": "For some Free Zones" },
+      { "icon": "FileSignature", "label": "3 Proposed Names", "desc": "In order of preference" },
+      { "icon": "Briefcase", "label": "Business Activity", "desc": "From approved list" },
+      { "icon": "CreditCard", "label": "Proof of Address", "desc": "Utility bill / bank statement" },
+      { "icon": "FileCheck", "label": "NOC Certificate", "desc": "For UAE residents" },
+      { "icon": "ScrollText", "label": "CV / Professional Profile", "desc": "For professional activities" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted Free Zone Partner",
+    "titleHighlight": "Free Zone Partner",
+    "items": [
+      { "icon": "ShieldCheck", "label": "45+ Free Zones Expertise", "desc": "Deep knowledge of all UAE Free Zones" },
+      { "icon": "Zap", "label": "Fast 3-7 Day Setup", "desc": "Streamlined process for quick launch" },
+      { "icon": "DollarSign", "label": "Transparent Pricing", "desc": "No hidden fees, ever" },
+      { "icon": "UserCheck", "label": "Dedicated Consultant", "desc": "Personal advisor throughout" },
+      { "icon": "Globe", "label": "Multilingual Team", "desc": "English, Arabic, Hindi, Urdu" },
+      { "icon": "Bank", "label": "Corporate Bank Support", "desc": "Top UAE banks network" },
+      { "icon": "RefreshCw", "label": "Ongoing Compliance", "desc": "Renewals, PRO, and updates" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Your Free Zone setup, in expert hands.",
+    "items": [
+      { "icon": "Building2", "value": "10,000+", "label": "Companies Formed", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Globe", "value": "45+", "label": "Free Zones", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Setup Expert", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Zap", "value": "3-7", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Setup Partner", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about UAE Free Zone Company Setup. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our Free Zone specialists.",
+      "whatsappMessage": "Hi! I have a question about UAE Free Zone Company Setup."
+    },
+    "items": [
+      { "q": "What is a UAE Free Zone Company?", "a": "A Free Zone Company is a business licensed by one of the 45+ UAE Free Zones. It allows 100% foreign ownership, 0% corporate tax, and full profit repatriation — but typically cannot trade directly within the UAE mainland market." },
+      { "q": "Which Free Zone is best for my business?", "a": "It depends on your activity, budget, and goals. IFZA and Meydan are great for startups and SMEs. DMCC suits commodities. DAFZA fits aviation and logistics. We help you choose the right one based on your business model." },
+      { "q": "How much does it cost to set up a Free Zone company?", "a": "Free Zone company setup starts from around AED 5,750 for a basic license package. Final cost depends on the Free Zone, license type, office space, and visa quota. We provide transparent all-inclusive pricing." },
+      { "q": "How long does it take to get a Free Zone license?", "a": "Typically 3-7 working days with proper documentation. Some Free Zones offer same-day or next-day licenses with our priority network." },
+      { "q": "Can I own 100% of a Free Zone company?", "a": "Yes. All UAE Free Zones allow 100% foreign ownership — no local sponsor or UAE national partner required." },
+      { "q": "Can I sponsor family with my Free Zone company?", "a": "Yes. Depending on the Free Zone and your visa quota, you can sponsor investor visas for yourself, employee visas for staff, and dependent visas for family members." },
+      { "q": "Can a Free Zone company trade within the UAE mainland?", "a": "No. Free Zone companies cannot trade directly in the UAE mainland market. However, they can work through a local distributor or agent, and some Free Zones offer dual licensing options." },
+      { "q": "What office space options are available in Free Zones?", "a": "Free Zones offer flexi-desks, co-working spaces, private offices, executive suites, warehouses, and industrial units — depending on your business activity and license type." },
+      { "q": "Can I open a corporate bank account with a Free Zone license?", "a": "Yes. We provide full assistance with corporate bank account opening at top UAE banks — including KYC preparation, documentation, and follow-ups." },
+      { "q": "Why choose Setup Zone Dubai for Free Zone setup?", "a": "We have expertise across all 45+ UAE Free Zones, offer transparent pricing, provide end-to-end support (license, visa, banking, PRO, compliance), and have a proven track record of 10,000+ successful setups." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with Free Zone Company Setup.",
+    "items": [
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore structures.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "free-zone-locations", "title": "Free Zone Locations Guide", "description": "Compare all 45+ UAE Free Zones.", "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80", "gradient": "from-teal-400 to-cyan-600" },
+      { "slug": "ecommerce-license", "title": "E-commerce License in Dubai", "description": "Setup your online business in Dubai.", "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80", "gradient": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch in 3-7 Days",
+    "title": "Ready to Set Up Your Free Zone Company?",
+    "titleHighlight": "Free Zone Company?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire process — from choosing the right Free Zone to license issuance and bank account opening.",
+    "chips": ["Free Consultation", "3-7 Days Setup", "100% Ownership"],
+    "whatsappMessage": "Hi! I'd like a free consultation for UAE Free Zone Company Setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss UAE Free Zone Company Setup."
+  }
+}

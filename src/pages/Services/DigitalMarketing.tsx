@@ -14,6 +14,8 @@ import { FaFacebookF, FaInstagram, FaYoutube, FaLinkedinIn } from 'react-icons/f
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dmData from '../../content/services/digital-marketing.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Megaphone, TrendingUp, Target, Eye, Zap, Users, DollarSign, Heart,
   BarChart3, Search, MousePointer, FileText, Mail, Settings, Rocket, Flag,
@@ -25,7 +27,9 @@ const iconMap: any = {
 };
 
 export default function DigitalMarketing({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || dmData;
+  const { language } = useLanguage();
+  const marketingFallback = loadContent('services/digital-marketing', language);
+  const data = tinaData?.data?.services || marketingFallback;
 
   return (
     <div className="min-h-screen bg-white">

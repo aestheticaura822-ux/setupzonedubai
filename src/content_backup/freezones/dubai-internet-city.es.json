@@ -1,0 +1,437 @@
+{
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Zonas francas",
+                 "breadcrumbLabel":  "Ciudad de Internet de Dubái",
+                 "badge":  "El mayor centro tecnolÁ³gico de Oriente Medio",
+                 "title":  "Ciudad de Internet de Dubái",
+                 "titleHighlight":  "Ciudad de Internet",
+                 "subtitle":  "El mayor centro de TIC de Oriente Medio: sede de gigantes tecnolÁ³gicos globales, startups e innovadores digitales. Lanza tu negocio tecnolÁ³gico junto a Google, Microsoft y Oracle.",
+                 "ctaPrimaryText":  "Obtén una consulta gratuita",
+                 "ctaPrimaryLink":  "#contacto",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "¡Hola! Estoy interesado en la creaciÁ³n de una Zona Franca en Dubai Internet City.",
+                 "badges":  [
+                                "Propiedad al 100%",
+                                "0% de impuestos",
+                                "Ecosistema tecnolÁ³gico",
+                                "InstalaciÁ³n en 3-5 dÁ­as"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Edificio 2",
+                      "value":  "Más de 3500",
+                      "label":  "Empresas tecnolÁ³gicas",
+                      "color":  "de cian 400 a azul 600"
+                  },
+                  {
+                      "icon":  "Globo",
+                      "value":  "100%",
+                      "label":  "Propiedad extranjera",
+                      "color":  "desde el cielo 400 hasta el cian 600"
+                  },
+                  {
+                      "icon":  "Signo de dÁ³lar",
+                      "value":  "0%",
+                      "label":  "Tasa impositiva",
+                      "color":  "de esmeralda 400 a verde azulado 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "3-5",
+                      "label":  "ConfiguraciÁ³n de dÁ­as",
+                      "color":  "de violeta 400 a pÁºrpura 600"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "Centro tecnolÁ³gico de DIC",
+                          "totalLabel":  "Zona",
+                          "totalValue":  "Dubái, Emiratos Árabes Unidos",
+                          "statusBadge":  "Activo",
+                          "metrics":  [
+                                          {
+                                              "label":  "Tiempo de configuraciÁ³n",
+                                              "value":  "3-5 dÁ­as",
+                                              "color":  "texto-cian-600"
+                                          },
+                                          {
+                                              "label":  "Empresas",
+                                              "value":  "Más de 3500",
+                                              "color":  "texto-azul-600"
+                                          }
+                                      ]
+                      },
+    "benefitsSection":  {
+                            "badge":  "¿Por qué DIC?",
+                            "title":  "¿Por qué elegir Dubai Internet City?",
+                            "titleHighlight":  "¿Ciudad de Internet de Dubái?",
+                            "subtitle":  "La zona franca tecnolÁ³gica más consolidada de la regiÁ³n, con un ecosistema y un talento inigualables.",
+                            "smallCards":  [
+                                               {
+                                                   "icon":  "Globo",
+                                                   "title":  "Propiedad 100% extranjera",
+                                                   "description":  "Propiedad total sin patrocinador local: control absoluto sobre su negocio.",
+                                                   "color":  "de cian 400 a azul 600"
+                                               },
+                                               {
+                                                   "icon":  "Signo de dÁ³lar",
+                                                   "title":  "0% de impuestos y repatriaciÁ³n total.",
+                                                   "description":  "Sin impuesto sobre la renta corporativa ni personal: repatriaciÁ³n del 100% de las ganancias y el capital.",
+                                                   "color":  "de esmeralda 400 a verde azulado 600"
+                                               },
+                                               {
+                                                   "icon":  "Usuarios",
+                                                   "title":  "Reserva de talento de clase mundial",
+                                                   "description":  "Acceso a profesionales tecnolÁ³gicos cualificados, desarrolladores y especialistas en marketing digital en Dubái.",
+                                                   "color":  "de violeta 400 a pÁºrpura 600"
+                                               }
+                                           ],
+                            "largeCard":  {
+                                              "icon":  "VerificaciÁ³n de usuario",
+                                              "title":  "Junto a gigantes tecnolÁ³gicos globales",
+                                              "description":  "Ubicado junto a Google, Microsoft, Oracle, IBM y más de 3500 empresas tecnolÁ³gicas, forma parte de la comunidad tecnolÁ³gica más conectada de la regiÁ³n.",
+                                              "color":  "desde-cian-500 vÁ­a-azul-600 a-Á­ndigo-700"
+                                          },
+                            "smallCard2":  {
+                                               "icon":  "Pin del mapa",
+                                               "title":  "UbicaciÁ³n privilegiada",
+                                               "description":  "A pocos minutos de Dubai Marina, Palm Jumeirah y los distritos comerciales de Dubái, con conexiÁ³n al metro.",
+                                               "color":  "desde violeta-500 vÁ­a pÁºrpura-600 a fucsia-700"
+                                           }
+                        },
+    "licensesSection":  {
+                            "badge":  "Tipos de licencia",
+                            "title":  "Tipos de licencias DIC",
+                            "titleHighlight":  "Tipos de licencia",
+                            "subtitle":  "Elige la licencia adecuada para tu actividad tecnolÁ³gica o empresarial digital.",
+                            "items":  [
+                                          {
+                                              "icon":  "CÁ³digo",
+                                              "title":  "Desarrollo de software",
+                                              "description":  "Para empresas de software, plataformas SaaS y empresas de desarrollo de aplicaciones.",
+                                              "code":  "SFT",
+                                              "color":  "de cian 400 a azul 600"
+                                          },
+                                          {
+                                              "icon":  "UPC",
+                                              "title":  "Servicios de TI",
+                                              "description":  "Para empresas de consultorÁ­a informática, servicios gestionados y soporte técnico.",
+                                              "code":  "ES",
+                                              "color":  "de azul 400 a Á­ndigo 600"
+                                          },
+                                          {
+                                              "icon":  "Megáfono",
+                                              "title":  "Marketing digital",
+                                              "description":  "Para agencias de SEO, SEM, redes sociales y publicidad digital.",
+                                              "code":  "DMK",
+                                              "color":  "de violeta 400 a pÁºrpura 600"
+                                          },
+                                          {
+                                              "icon":  "Base de datos",
+                                              "title":  "Servicios de datos y en la nube",
+                                              "description":  "Para centros de datos, alojamiento en la nube y empresas de big data.",
+                                              "code":  "DCS",
+                                              "color":  "de esmeralda 400 a verde azulado 600"
+                                          },
+                                          {
+                                              "icon":  "Servidor",
+                                              "title":  "Comercio electrÁ³nico y plataformas",
+                                              "description":  "Para mercados en lÁ­nea, plataformas de comercio electrÁ³nico y negocios web.",
+                                              "code":  "ECM",
+                                              "color":  "de ámbar 400 a naranja 600"
+                                          },
+                                          {
+                                              "icon":  "MaletÁ­n",
+                                              "title":  "Servicios profesionales y de consultorÁ­a",
+                                              "description":  "Para consultores tecnolÁ³gicos, asesores empresariales y empresas de gestiÁ³n.",
+                                              "code":  "PRO",
+                                              "color":  "de rosa 400 a rosa 600"
+                                          }
+                                      ]
+                        },
+    "facilitiesSection":  {
+                              "badge":  "Instalaciones",
+                              "title":  "Infraestructura tecnolÁ³gica de clase mundial",
+                              "titleHighlight":  "Infraestructura tecnolÁ³gica",
+                              "subtitle":  "Todo lo que tu empresa tecnolÁ³gica necesita para operar y crecer de forma eficiente.",
+                              "items":  [
+                                            {
+                                                "icon":  "Monitor",
+                                                "title":  "Escritorios flexibles y espacios de coworking",
+                                                "description":  "Espacios de trabajo compartidos modernos para startups y autÁ³nomos.",
+                                                "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "icon":  "Edificio 2",
+                                                "title":  "Oficinas ejecutivas",
+                                                "description":  "Oficinas equipadas de primera calidad para equipos tecnolÁ³gicos en crecimiento.",
+                                                "image":  "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "icon":  "Servidor",
+                                                "title":  "Centros de datos",
+                                                "description":  "Centros de datos con certificaciÁ³n Tier III y disponibilidad las 24 horas del dÁ­a, los 7 dÁ­as de la semana.",
+                                                "image":  "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "icon":  "Wifi",
+                                                "title":  "Conectividad de alta velocidad",
+                                                "description":  "Internet por fibra Á³ptica e infraestructura de red redundante.",
+                                                "image":  "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800\u0026q=80"
+                                            }
+                                        ]
+                          },
+    "howWeHelpSection":  {
+                             "badge":  "CÁ³mo te ayudamos",
+                             "title":  "Su socio para la configuraciÁ³n de DIC",
+                             "titleHighlight":  "Socio de configuraciÁ³n",
+                             "subtitle":  "Soporte integral desde la solicitud de licencia hasta el lanzamiento.",
+                             "steps":  [
+                                           {
+                                               "step":  "01",
+                                               "icon":  "Texto del archivo",
+                                               "title":  "SelecciÁ³n de actividad empresarial",
+                                               "description":  "Te ayudamos a elegir la actividad y la licencia adecuadas para tu negocio tecnolÁ³gico.",
+                                               "color":  "de cian 400 a azul 600"
+                                           },
+                                           {
+                                               "step":  "02",
+                                               "icon":  "VerificaciÁ³n de archivos",
+                                               "title":  "Reserva de nombre comercial",
+                                               "description":  "Reserva el nombre de tu empresa con DIC y obtén aprobaciones rápidas.",
+                                               "color":  "de azul 400 a Á­ndigo 600"
+                                           },
+                                           {
+                                               "step":  "03",
+                                               "icon":  "VerificaciÁ³n de credenciales",
+                                               "title":  "EmisiÁ³n de licencias",
+                                               "description":  "EnvÁ­e su solicitud y reciba su licencia comercial DIC.",
+                                               "color":  "de violeta 400 a pÁºrpura 600"
+                                           },
+                                           {
+                                               "step":  "04",
+                                               "icon":  "Tarjeta de crédito",
+                                               "title":  "Visa y cuenta bancaria",
+                                               "description":  "TramitaciÁ³n completa de visados y apertura de cuenta bancaria corporativa.",
+                                               "color":  "de esmeralda 400 a verde azulado 600"
+                                           }
+                                       ],
+                             "ctaCard":  {
+                                             "title":  "¿Listo para lanzar en DIC?",
+                                             "ctaText":  "Hable con un experto",
+                                             "whatsappMessage":  "¡Hola! Me gustarÁ­a hablar sobre la configuraciÁ³n del DIC."
+                                         }
+                         },
+    "digitalScaleSection":  {
+                                "badge":  "Balanza digital",
+                                "title":  "Expande tu negocio tecnolÁ³gico en DIC.",
+                                "titleHighlight":  "Negocios tecnolÁ³gicos",
+                                "intro":  "DIC te ofrece todo lo que necesitas para crear, lanzar y escalar una empresa tecnolÁ³gica de éxito desde Dubái, la capital digital de la regiÁ³n.",
+                                "image":  "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200\u0026q=80",
+                                "imageBadgeTitle":  "Centro de crecimiento",
+                                "imageBadgeText":  "ExpansiÁ³n global",
+                                "items":  [
+                                              {
+                                                  "icon":  "Tendencia al alza",
+                                                  "title":  "Acceso a financiaciÁ³n de capital riesgo",
+                                                  "description":  "Conéctese con inversores regionales y globales que financian activamente el sector tecnolÁ³gico de Dubái."
+                                              },
+                                              {
+                                                  "icon":  "Globo",
+                                                  "title":  "Acceso al mercado global",
+                                                  "description":  "Llega a más de 2.000 millones de consumidores en Oriente Medio, África y Asia desde una Áºnica plataforma."
+                                              },
+                                              {
+                                                  "icon":  "Usuarios",
+                                                  "title":  "Eventos de networking",
+                                                  "description":  "Reuniones periÁ³dicas, hackatones y conferencias tecnolÁ³gicas para la comunidad DIC."
+                                              },
+                                              {
+                                                  "icon":  "Cohete",
+                                                  "title":  "Aceleradoras de startups",
+                                                  "description":  "Acceso a in5, la principal incubadora de startups de Dubái, y a otros programas."
+                                              },
+                                              {
+                                                  "icon":  "Otorgar",
+                                                  "title":  "Apoyo gubernamental",
+                                                  "description":  "Respaldo de Dubai Internet City y Dubai Holding para iniciativas tecnolÁ³gicas."
+                                              }
+                                          ]
+                            },
+    "activitiesCloudSection":  {
+                                   "badge":  "Actividades permitidas",
+                                   "title":  "¿Qué actividades se pueden realizar en DIC?",
+                                   "titleHighlight":  "¿Ejecutar en DIC?",
+                                   "subtitle":  "Se permite una amplia gama de actividades tecnolÁ³gicas y comerciales digitales.",
+                                   "items":  [
+                                                 {
+                                                     "icon":  "CÁ³digo",
+                                                     "label":  "Desarrollo de software"
+                                                 },
+                                                 {
+                                                     "icon":  "Smartphone",
+                                                     "label":  "Desarrollo de aplicaciones mÁ³viles"
+                                                 },
+                                                 {
+                                                     "icon":  "Nube",
+                                                     "label":  "Servicios en la nube"
+                                                 },
+                                                 {
+                                                     "icon":  "UPC",
+                                                     "label":  "Inteligencia artificial y aprendizaje automático"
+                                                 },
+                                                 {
+                                                     "icon":  "Base de datos",
+                                                     "label":  "Análisis de datos"
+                                                 },
+                                                 {
+                                                     "icon":  "Servidor",
+                                                     "label":  "Infraestructura de TI"
+                                                 },
+                                                 {
+                                                     "icon":  "Globo",
+                                                     "label":  "Desarrollo web"
+                                                 },
+                                                 {
+                                                     "icon":  "Carro de la compra",
+                                                     "label":  "Comercio electrÁ³nico"
+                                                 },
+                                                 {
+                                                     "icon":  "Megáfono",
+                                                     "label":  "Marketing digital"
+                                                 },
+                                                 {
+                                                     "icon":  "Paleta",
+                                                     "label":  "Diseño de interfaz de usuario/experiencia de usuario"
+                                                 },
+                                                 {
+                                                     "icon":  "Bot",
+                                                     "label":  "RobÁ³tica y automatizaciÁ³n"
+                                                 },
+                                                 {
+                                                     "icon":  "Cámara",
+                                                     "label":  "ProducciÁ³n de contenido"
+                                                 },
+                                                 {
+                                                     "icon":  "Terminal",
+                                                     "label":  "DevOps"
+                                                 },
+                                                 {
+                                                     "icon":  "Binario",
+                                                     "label":  "Blockchain"
+                                                 },
+                                                 {
+                                                     "icon":  "Wifi",
+                                                     "label":  "Soluciones de IoT"
+                                                 },
+                                                 {
+                                                     "icon":  "Monitor",
+                                                     "label":  "Desarrollo de juegos"
+                                                 }
+                                             ]
+                               },
+    "faqs":  {
+                 "badge":  "Preguntas frecuentes",
+                 "title":  "Preguntas frecuentes",
+                 "titleHighlight":  "Preguntas",
+                 "subtitle":  "Todo lo que necesitas saber sobre la Zona Franca de Dubai Internet City.",
+                 "items":  [
+                               {
+                                   "q":  "¿Qué es Dubai Internet City y a quién va dirigida?",
+                                   "a":  "Dubai Internet City (DIC) es la mayor zona franca de TIC de Oriente Medio, sede de más de 3500 empresas tecnolÁ³gicas, entre ellas Google, Microsoft, Oracle e IBM. Es el lugar ideal para empresas de software, servicios informáticos, marketing digital, comercio electrÁ³nico y startups tecnolÁ³gicas."
+                               },
+                               {
+                                   "q":  "¿Qué licencias están disponibles en DIC?",
+                                   "a":  "Licencias de desarrollo de software, servicios de TI, marketing digital, servicios de datos y en la nube, comercio electrÁ³nico y consultorÁ­a profesional."
+                               },
+                               {
+                                   "q":  "¿Cuánto tiempo se tarda en constituir una empresa en DIC?",
+                                   "a":  "Normalmente, el plazo es de 3 a 5 dÁ­as laborables con la documentaciÁ³n adecuada. Nuestro equipo garantiza un proceso rápido y sin contratiempos."
+                               },
+                               {
+                                   "q":  "¿Puedo obtener el 100% de la propiedad extranjera en DIC?",
+                                   "a":  "SÁ­. DIC permite la propiedad extranjera al 100%, sin necesidad de un patrocinador local."
+                               },
+                               {
+                                   "q":  "¿Cuáles son los beneficios fiscales del DIC?",
+                                   "a":  "Impuesto sobre la renta corporativa y personal del 0%, con repatriaciÁ³n total de beneficios y capital: uno de los regÁ­menes fiscales más favorables de los EAU."
+                               },
+                               {
+                                   "q":  "¿Puedo abrir una cuenta bancaria corporativa con una licencia DIC?",
+                                   "a":  "SÁ­. Le ayudamos a abrir cuentas bancarias corporativas en los principales bancos de los EAU en funciÁ³n de su perfil empresarial."
+                               },
+                               {
+                                   "q":  "¿Qué espacios de oficina hay disponibles en DIC?",
+                                   "a":  "Escritorios flexibles, espacios de coworking, oficinas ejecutivas y oficinas equipadas de alta gama. También disponemos de centros de datos y alojamiento de servidores."
+                               },
+                               {
+                                   "q":  "¿Es DIC adecuado para startups y autÁ³nomos?",
+                                   "a":  "SÁ­. DIC ofrece opciones de oficinas virtuales y escritorios flexibles a precios competitivos, ideales para startups, autÁ³nomos y equipos tecnolÁ³gicos que trabajan principalmente en remoto."
+                               },
+                               {
+                                   "q":  "¿Qué tipo de asistencia ofrece Setup Zone Dubai?",
+                                   "a":  "Nos encargamos del registro de empresas, la aprobaciÁ³n de nombres comerciales, la emisiÁ³n de licencias, visados, la apertura de cuentas bancarias, el cumplimiento normativo y los servicios de lanzamiento digital."
+                               },
+                               {
+                                   "q":  "¿Puedo patrocinar a mi familia con una licencia DIC?",
+                                   "a":  "SÁ­. El DIC apoya el patrocinio de visas familiares para dependientes, asÁ­ como las visas de inversionista y de empleo."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "Servicios relacionados",
+                            "titleHighlight":  "Servicios",
+                            "subtitle":  "Servicios que se integran perfectamente con su configuraciÁ³n DIC.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Apertura de cuenta bancaria",
+                                              "description":  "Abra cuentas bancarias comerciales en los Emiratos Árabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "de cian 400 a azul 600"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Servicios de cumplimiento",
+                                              "description":  "Asesoramiento en materia de UBO, ESR, AML e IVA.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "de violeta 400 a pÁºrpura 600"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Visa Dorada",
+                                              "description":  "Residencia de 10 años en los Emiratos Árabes Unidos para inversores y profesionales con talento.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "de ámbar 400 a amarillo 500"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Lanzamiento hoy",
+                     "title":  "¿Listo para lanzar tu presencia en Dubai Internet City?",
+                     "titleHighlight":  "¿Ciudad de Internet de Dubái?",
+                     "subtitle":  "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuraciÁ³n de DIC, desde la obtenciÁ³n de la licencia hasta el lanzamiento.",
+                     "primaryCta":  "Contáctanos por WhatsApp",
+                     "whatsappMessage":  "¡Hola! Me gustarÁ­a una consulta gratuita para la configuraciÁ³n de DIC.",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "badges":  [
+                                    "Consulta gratuita",
+                                    "Más de 3500 clientes",
+                                    "InstalaciÁ³n en 3-5 dÁ­as"
+                                ],
+                     "office":  {
+                                    "label":  "Visite nuestra oficina en Dubái.",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado postal: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Horario laboral",
+                                   "monFri":  "De 9:00 a 18:00.",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Cerrado"
+                               }
+                 }
+}

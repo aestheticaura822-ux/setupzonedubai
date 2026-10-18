@@ -1,0 +1,474 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+  "heroBadge": "Reserva tu identidad de marca",
+  "heroTitle": "Registro de nombres de empresas en Dubái",
+  "heroTitleHighlight": "Registro en Dubái",
+  "heroSubtitle": "Reserva tu nombre comercial íºnico, fácil de recordar y que cumpla con la normativa en los EAU. Consulta gratuita de disponibilidad con el Departamento de Desarrollo Económico (DED) y las Zonas Francas; aprobación en 24 horas.",
+  "heroChips": [
+    "Verificación de nombre gratuita",
+    "Aprobación en 24 horas",
+    "DED + Zonas Francas",
+    "Cumple al 100%."
+  ],
+  "stats": [
+    {
+      "icon": "Type",
+      "value": "3",
+      "label": "Opciones de nombre",
+      "color": "from-indigo-400 to-blue-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "24 horas",
+      "label": "Tiempo de aprobación",
+      "color": "from-blue-400 to-cyan-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "Obediente",
+      "color": "from-cyan-400 to-teal-600"
+    },
+    {
+      "icon": "BadgeCheck",
+      "value": "Gratis",
+      "label": "Verificación de disponibilidad",
+      "color": "from-teal-400 to-emerald-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Primer paso hacia los negocios",
+    "title": "¿Qué es el registro del nombre de una empresa?",
+    "titleHighlight": "¿Registro del nombre de la empresa?",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "Identidad de marca",
+    "imageBadgeText": "Reserva de nombre",
+    "paragraphs": [
+      "El registro del nombre de una empresa en Dubái (también llamado reserva de nombre comercial) es el proceso oficial para reservar un nombre comercial íºnico ante el Departamento de Desarrollo Económico (DED) o la autoridad de una zona franca.",
+      "Es el primer paso obligatorio para constituir una empresa en los Emiratos írabes Unidos; no se puede solicitar una licencia comercial sin un nombre reservado.",
+      "En Setup Zone Dubai, ofrecemos comprobaciones gratuitas de disponibilidad de nombres, sugerencias de nombres de marca, verificación de cumplimiento y presentación completa de la solicitud, lo que generalmente resulta en la aprobación en 24 horas."
+    ],
+    "highlights": [
+      "Primer paso hacia los negocios",
+      "Certificado de reserva de nombre",
+      "Válido por 6 meses",
+      "DED + Zona Franca",
+      "Comprobación de disponibilidad gratuita",
+      "Aprobación en 24 horas"
+    ]
+  },
+  "namingRulesSection": {
+    "badge": "Normas de denominación de los EAU",
+    "title": "Qué está permitido y qué está prohibido",
+    "titleHighlight": "Permitido y prohibido",
+    "subtitle": "Conozca las reglas antes de elegir el nombre de su empresa.",
+    "allowedItems": [
+      {
+        "icon": "CheckCircle2",
+        "title": "íšnico y disponible",
+        "description": "El nombre que elija no debe ser idéntico ni similar a ningíºn nombre comercial registrado ya existente en los Emiratos írabes Unidos.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Reflejar la actividad empresarial",
+        "description": "El nombre debe estar razonablemente relacionado con su actividad comercial; por ejemplo, \"Comercio\" para una licencia comercial.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Convenciones de nomenclatura de los EAU",
+        "description": "Deben respetarse las convenciones de nomenclatura de los EAU: no se permiten palabras ofensivas, religiosas, polí­ticas ni restringidas.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Sufijo de estructura legal",
+        "description": "El nombre debe incluir la estructura legal correcta: LLC, FZE, FZCO o Establecimiento Unipersonal.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ],
+    "prohibitedItems": [
+      {
+        "icon": "XCircle",
+        "title": "Sin referencias religiosas",
+        "description": "Se prohí­ben estrictamente los nombres que hagan referencia a Dios, la religión o figuras religiosas.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Sin nombres polí­ticos",
+        "description": "No se permiten nombres de partidos polí­ticos, referencias al gobierno ni figuras polí­ticas.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Sin conflictos de marcas registradas",
+        "description": "Se rechazarán los nombres idénticos a marcas registradas, ya sean locales o internacionales.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Sin restricciones de palabras",
+        "description": "Palabras como \"banco\", \"seguro\", \"universidad\" y nombres de paí­ses requieren aprobación especial o están prohibidas.",
+        "color": "from-red-500 to-rose-700"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Nuestros servicios",
+    "title": "Servicios completos de registro de nombres",
+    "titleHighlight": "Servicios de registro de nombres",
+    "subtitle": "Seis servicios completos para la reserva de su nombre.",
+    "items": [
+      {
+        "icon": "Sparkles",
+        "title": "Sugerencias de nombres de marca",
+        "description": "Le sugerimos nombres pegadizos y fáciles de recordar que se ajusten a su sector y a la visión de su negocio.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Search",
+        "title": "Verificación de disponibilidad en tiempo real",
+        "description": "Antes de comprometerte, puedes consultar gratuitamente la disponibilidad del nombre con DED y las principales Zonas Francas.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Verificación de cumplimiento",
+        "description": "Verificamos que su nombre cumpla con las normas de nomenclatura de los EAU para evitar rechazos y demoras.",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Solicitud de reserva",
+        "description": "Nosotros tramitamos la solicitud de reserva en su nombre; usted no tendrá que hacer ningíºn papeleo.",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "Seguimiento de la aprobación",
+        "description": "Hacemos un seguimiento con las autoridades para garantizar una aprobación rápida, generalmente en un plazo de 24 horas.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Entrega de certificados",
+        "description": "Le entregamos directamente el certificado oficial de reserva de nombre comercial.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Proceso de 6 pasos",
+    "title": "Cómo reservar su nombre",
+    "titleHighlight": "Reserva tu nombre",
+    "subtitle": "Seis sencillos pasos para reservar un nombre comercial.",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Brain",
+        "title": "Lluvia de ideas para nombres",
+        "description": "Te ayudamos a generar ideas para encontrar 3 opciones de nombres comerciales íºnicos, fáciles de recordar y que cumplan con la normativa.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "Search",
+        "title": "Verificación de disponibilidad",
+        "description": "Verificamos la disponibilidad de nombres con el Departamento de Desarrollo Económico (DED) y las autoridades de la Zona Franca en tiempo real.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "icon": "FileSignature",
+        "title": "Solicitud de reserva",
+        "description": "Preparamos y presentamos la solicitud de reserva de nombre comercial ante la autoridad competente.",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Aprobación inicial",
+        "description": "El nombre recibe aprobación preliminar, normalmente en un plazo de 24 horas, dependiendo de la autoridad competente.",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "step": "05",
+        "icon": "ScrollText",
+        "title": "Certificado de reserva de nombre",
+        "description": "Reciba el Certificado oficial de reserva de nombre comercial, válido por 6 meses para el trámite de la licencia.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "06",
+        "icon": "Rocket",
+        "title": "Proceder a la obtención de licencias",
+        "description": "Utilice el nombre que haya reservado para solicitar su licencia comercial y completar la constitución de la empresa.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "namingTipsSection": {
+    "badge": "Consejos profesionales para nombrar nombres",
+    "title": "Elige el nombre perfecto para tu negocio.",
+    "titleHighlight": "Nombre comercial perfecto",
+    "subtitle": "Seis consejos de expertos para elegir un nombre que perdure en el tiempo.",
+    "items": [
+      {
+        "icon": "Lightbulb",
+        "label": "Que sea breve y memorable.",
+        "desc": "Fácil de deletrear y pronunciar a nivel mundial.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "label": "Considerar el atractivo global",
+        "desc": "Funciona en los mercados de habla inglesa y árabe.",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "Search",
+        "label": "Comprobar disponibilidad del dominio",
+        "desc": "Haz coincidir tu dominio .com y .ae",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Evite las palabras restringidas.",
+        "desc": "Saltar banco, seguro, universidad",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "icon": "Type",
+        "label": "Usa ortografí­a sencilla",
+        "desc": "Evite combinaciones de letras complejas.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Crown",
+        "label": "Coincide con tu marca",
+        "desc": "Alinearse con su visión y sector",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Lo que necesitarás",
+    "title": "Documentos requeridos",
+    "titleHighlight": "Documentos",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "3 nombres propuestos",
+        "desc": "En orden de preferencia"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Actividad empresarial",
+        "desc": "Tipo de asunto"
+      },
+      {
+        "icon": "Building2",
+        "label": "Estructura legal",
+        "desc": "LLC, FZE, FZCO, etc."
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Formulario de solicitud",
+        "desc": "Completado por nosotros"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "Pago",
+        "desc": "Tarifas de reserva"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Su socio de confianza",
+    "titleHighlight": "Nombre del socio",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Expertos en cumplimiento normativo",
+        "desc": "Amplio conocimiento de las normas de nomenclatura de los EAU."
+      },
+      {
+        "icon": "Zap",
+        "label": "Aprobación en 24 horas",
+        "desc": "Procesamiento rápido de reservas"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Verificación de nombre gratuita",
+        "desc": "Verificación de disponibilidad gratuita"
+      },
+      {
+        "icon": "Sparkles",
+        "label": "Sugerencias creativas",
+        "desc": "Ideas de nombres de marca gratuitas"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Consultor especializado",
+        "desc": "Asesor personal durante todo el proceso"
+      },
+      {
+        "icon": "Globe",
+        "label": "Equipo multilingüe",
+        "desc": "Inglés, árabe, hindi, urdu"
+      },
+      {
+        "icon": "Layers",
+        "label": "DED + Zona Franca",
+        "desc": "Ambas jurisdicciones cubiertas"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Apoyo a la renovación",
+        "desc": "Extensión si fuera necesario"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectivas de crecimiento empresarial",
+    "title": "Con la confianza de miles de personas",
+    "titleHighlight": "Miles",
+    "subtitle": "La identidad de tu marca, en manos expertas.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Más de 10.000",
+        "label": "Nombres reservados",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "DED + FZ",
+        "label": "Cobertura",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "24 horas",
+        "label": "Aprobación rápida",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Gratis",
+        "label": "Verificación de nombre",
+        "color": "from-teal-400 to-emerald-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Obediente",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Privilegiado",
+        "label": "Nombre del socio",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre el registro de nombres de empresas. ¿Tienes alguna pregunta? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "¿Aíºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas en registro de nombres.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre el registro de nombres de empresas en Dubái."
+    },
+    "items": [
+      {
+        "q": "¿Cuáles son las normas para elegir el nombre de una empresa en Dubái?",
+        "a": "Su nombre debe ser íºnico, no similar a nombres comerciales existentes, reflejar su actividad comercial, cumplir con las convenciones de nomenclatura de los EAU e incluir el sufijo de estructura legal correcto. No se permiten palabras religiosas, polí­ticas ni restringidas."
+      },
+      {
+        "q": "¿Cuántas opciones de nombre debo enviar?",
+        "a": "Deberá presentar tres nombres propuestos en orden de preferencia. Si su primera opción es rechazada, la autoridad revisará la siguiente, lo que le ahorrará tiempo y evitará tener que presentar varias solicitudes."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda la aprobación del nombre?",
+        "a": "Normalmente, el plazo es de 24 a 48 horas, dependiendo de la autoridad competente. Algunas zonas francas tramitan la aprobación de nombres en cuestión de horas gracias a nuestra red prioritaria."
+      },
+      {
+        "q": "¿Cuánto tiempo es válido un nombre reservado?",
+        "a": "Un certificado de reserva de nombre comercial suele tener una validez de 6 meses, lo que le permite completar su solicitud de licencia durante ese perí­odo."
+      },
+      {
+        "q": "¿Qué sucede si mi nombre es rechazado?",
+        "a": "Si su primera opción es rechazada, volvemos a presentar su siguiente opción sin costo adicional (en la mayorí­a de los casos). También le ayudamos a buscar alternativas si las tres son rechazadas."
+      },
+      {
+        "q": "¿Puedo cambiar el nombre de mi empresa después de registrarla?",
+        "a": "Sí­. Puede solicitar un cambio de nombre después de registrarse ante la autoridad competente; nosotros nos encargamos de todo el proceso, incluida la actualización de su licencia y documentos."
+      },
+      {
+        "q": "¿Puedo usar un nombre extranjero para mi empresa en los Emiratos írabes Unidos?",
+        "a": "Sí­. Se permiten nombres que suenen extranjeros siempre que cumplan con las normas de denominación de los EAU, no entren en conflicto con marcas registradas y no incluyan palabras restringidas."
+      },
+      {
+        "q": "¿Necesito tener un nombre antes de registrar una empresa?",
+        "a": "Sí­. La reserva del nombre es el primer paso antes de solicitar la licencia, tanto en la China continental como en las zonas francas."
+      },
+      {
+        "q": "¿Hay alguna palabra prohibida en los nombres de las empresas?",
+        "a": "Sí­. Palabras como \"banco\", \"seguro\", \"universidad\", \"Dios\", \"Alá\", nombres de paí­ses, referencias polí­ticas y marcas registradas están restringidas o prohibidas."
+      },
+      {
+        "q": "¿Cómo puede ayudar Setup Zone Dubai con el registro del nombre de la empresa?",
+        "a": "Ofrecemos comprobaciones gratuitas de disponibilidad de nombres, sugerencias de nombres de marca, verificación de cumplimiento, presentación de solicitudes y seguimiento con las autoridades. Por lo general, la aprobación se obtiene en 24 horas."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que combinan bien con el registro de nombres.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Constitución de empresas en Dubái",
+        "description": "Estructuras en zonas francas, en tierra firme y en alta mar.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-indigo-400 to-blue-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "Licencia comercial en Dubái",
+        "description": "Obtén tu licencia comercial DET en 2-5 dí­as.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-blue-400 to-cyan-600"
+      },
+      {
+        "slug": "company-registration",
+        "title": "Registro de la empresa",
+        "description": "Inscripción rápida y asequible desde 5.750 AED.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-cyan-400 to-teal-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Verificación de nombre gratuita",
+    "title": "¿Listo para reservar tu nombre?",
+    "titleHighlight": "¿Reservaste tu nombre?",
+    "subtitle": "Consulta gratis la disponibilidad de tu nombre. Nuestros expertos te ayudarán a elegir un nombre comercial íºnico, que cumpla con la normativa y sea fácil de recordar.",
+    "chips": [
+      "Cheque gratuito",
+      "Aprobación en 24 horas",
+      "DED + Zonas Francas"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarí­a una verificación de nombre gratuita para mi empresa en los Emiratos írabes Unidos.",
+    "whatsappCardMessage": "¡Hola! Me gustarí­a hablar sobre el registro del nombre de la empresa."
+  }
+}

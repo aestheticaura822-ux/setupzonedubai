@@ -1,0 +1,415 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1600\u0026q=80",
+    "heroBadge":  "Sıraları Atla",
+    "heroTitle":  "Dubai\u0027de PRO Hizmetleri",
+    "heroTitleHighlight":  "Dubai",
+    "heroSubtitle":  "BAE\u0027deki işletmeniz için eksiksiz devlet işlemleri "“ vizeler, lisanslar, Emirates Kimlik Kartı, iş gücü onayları ve mevzuat uyumluluğu. Her formu, sırayı ve son tarihi biz hallediyoruz, böylece siz büyümeye odaklanabilirsiniz.",
+    "heroChips":  [
+                      "Anakara + Serbest Bölge",
+                      "Hızlı İşleme",
+                      "Tam Uyumluluk"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Zap",
+                      "value":  "2-5",
+                      "label":  "Teslim Süresi (Gün)",
+                      "color":  "indigo-400\u0027den-mor-600\u0027e"
+                  },
+                  {
+                      "icon":  "DosyaMetni",
+                      "value":  "50+",
+                      "label":  "Kapsanan Hizmetler",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "500+",
+                      "label":  "Hizmet Verilen İşletmeler",
+                      "color":  "from-purple-400 to-fuchsia-600"
+                  },
+                  {
+                      "icon":  "Ödül",
+                      "value":  "%100",
+                      "label":  "Uyumluluk Oranı",
+                      "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "PRO Hizmetleri Nelerdir?",
+                          "title":  "Dubai\u0027de PRO Hizmetleri Neden Çok Önemli?",
+                          "titleHighlight":  "Dubai\u0027de hayati öneme sahip mi?",
+                          "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Tek Noktanız",
+                          "imageBadgeText":  "Hükümet İrtibat Görevlisi",
+                          "paragraphs":  [
+                                             "Halkla İlişkiler Sorumlusu (PRO) hizmetleri, BAE\u0027de iş kurmak ve işletmek için gerekli olan tüm devletle ilgili evrak ve belgeleri halleder. Vize başvurularından lisans yenilemelerine, iş gücü onaylarından Emirates Kimlik kartı kayıtlarına kadar her şeyi biz yönetiyoruz.",
+                                             "Sık sık değişen hükümet politikaları ve yasal gereklilikler karşısında, PRO hizmetleri işletmenizin uyumlu, faaliyette ve verimli kalmasını sağlayarak size zaman kazandırır ve cezalardan kaçınmanıza yardımcı olur."
+                                         ],
+                          "highlights":  [
+                                             "Hükümetle Tam İlişki",
+                                             "Vize ve Emirates Kimliği",
+                                             "Lisans Yenilemeleri",
+                                             "Uyumluluk Yönetimi"
+                                         ]
+                      },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Dubai\u0027de Uzman PRO Hizmetleri",
+                               "titleHighlight":  "Dubai\u0027de",
+                               "subtitle":  "İster yeni kurulan bir şirket, ister KOBİ, isterse çok uluslu bir şirket olsun, işletme modelinize uygun stratejik PRO desteği.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Zap",
+                                                 "title":  "Hızlı Hukuk ve Göçmenlik",
+                                                 "description":  "Onaylar, vizeler, Emirates kimlik kartları ve çalışma izinleri sıfır gecikmeyle işleme alındı.",
+                                                 "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "title":  "Şeffaf Belgeler ve Uyumluluk",
+                                                 "description":  "Her belgenin net takibi, BAE mevzuatına tam uyum, her zaman denetime hazır olma.",
+                                                 "color":  "from-violet-400 to-purple-600"
+                                             },
+                                             {
+                                                 "icon":  "Uyarı Çemberi",
+                                                 "title":  "Yasal ve Yenileme Uyarıları",
+                                                 "description":  "Değişen yasalar, yenilemeler ve süreç güncellemeleri hakkında proaktif hatırlatmalar.",
+                                                 "color":  "from-purple-400 to-fuchsia-600"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "title":  "Tüm Bölgeler İçin Profesyonel Paketler",
+                                                 "description":  "Serbest Bölge, Anakara ve Açık Deniz pazarları için özel olarak tasarlanmış, uygun maliyetli ve mevzuata uygun.",
+                                                 "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "DosyaMetni",
+                                                 "title":  "Belge Teslim Alma ve Teslim Etme",
+                                                 "description":  "Belgelerinizi topluyor, gönderiyor, takip ediyor ve size geri gönderiyoruz - tüm işlemler eksiksiz olarak yönetiliyor.",
+                                                 "color":  "pembe-400\u0027den gül-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Saat",
+                                                 "title":  "Son teslim tarihini asla kaçırmayın.",
+                                                 "description":  "Tüm yenilemeler ve yasal gereklilikler sizin için takip edilir ve yönetilir.",
+                                                 "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "servicesSection":  {
+                            "badge":  "Sunduklarımız",
+                            "title":  "Kapsamlı Profesyonel Hizmetler",
+                            "titleHighlight":  "PRO Hizmetleri",
+                            "subtitle":  "Hükümet, göçmenlik ve uyumluluk konularını kapsayan tam kapsamlı destek.",
+                            "items":  [
+                                          {
+                                              "icon":  "Uçak",
+                                              "title":  "Vize ve Göçmenlik İşlemleri",
+                                              "description":  "Çalışma vizeleri, bakmakla yükümlü olunan kişi/aile vizeleri, yatırımcı vizeleri, sağlık testleri ve Emirates Kimlik Kartı.",
+                                              "items":  [
+                                                            "Çalışma vizesi başvurusu ve iptali",
+                                                            "Bakmakla yükümlü olunan kişi/aile vizesi",
+                                                            "Yatırımcı vizesi düzenlemeleri",
+                                                            "Vize sağlık testi koordinasyonu",
+                                                            "Emirates Kimlik yardımı"
+                                                        ],
+                                              "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Dosyaİmzası",
+                                              "title":  "Lisans ve Belge İşlemleri",
+                                              "description":  "Ticaret ruhsatı yenileme, değişiklik, tasdik, tercüme ve noter tasdiki.",
+                                              "items":  [
+                                                            "Ticaret ruhsatı yenileme",
+                                                            "Lisans değişiklikleri",
+                                                            "Dışişleri Bakanlığı tasdiknamesi",
+                                                            "Hukuk çevirisi",
+                                                            "Noter tasdik hizmetleri"
+                                                        ],
+                                              "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "Çalışma ve Göçmenlik Hizmetleri",
+                                              "description":  "Çalışma Bakanlığı (MOHRE) işgücü onayları, WPS uyumluluğu, çalışma kartları ve göçmenlik koordinasyonu.",
+                                              "items":  [
+                                                            "MOHRE işgücü onayları",
+                                                            "WPS bordro uyumluluğu",
+                                                            "Çalışma kartı verilmesi",
+                                                            "GDRFA koordinasyonu",
+                                                            "Göçmenlik dosyası yönetimi"
+                                                        ],
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Kalkan Kontrolü",
+                                              "title":  "Kurumsal Uyumluluk",
+                                              "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kurumlar vergisi beyannameleri ve mevzuat uyumluluğu yönetimi.",
+                                              "items":  [
+                                                            "UBO başvuruları",
+                                                            "ESR raporları",
+                                                            "Kurumsal vergi uyumluluğu",
+                                                            "KDV kaydı",
+                                                            "Yıllık getiriler"
+                                                        ],
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                          }
+                                      ]
+                        },
+    "whoNeedsSection":  {
+                            "badge":  "Kimin İhtiyacı Var?",
+                            "title":  "Profesyonel Hizmetlere Kimin İhtiyacı Var?",
+                            "titleHighlight":  "Profesyonel Hizmetler?",
+                            "subtitle":  "Birleşik Arap Emirlikleri\u0027ndeki her işletme - tek başına çalışan girişimcilerden çok uluslu şirketlere kadar.",
+                            "items":  [
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Yeni İşletme Kurmak",
+                                              "description":  "Anakara veya Serbest Bölge "” tüm devlet formaliteleriyle birlikte eksiksiz kurulum.",
+                                              "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "Personel Alımı / Bakmakla Yükümlü Olunan Kişilere Sponsorluk",
+                                              "description":  "Çalışan vizeleri, aile vizeleri ve bakmakla yükümlü olunan kişilere ait sponsorluk başvuruları işleme alınmaktadır.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "RefreshCw",
+                                              "title":  "Lisans veya Vize Yenileme",
+                                              "description":  "Ticaret ruhsatı ve vize yenilemeleri cezasız ve zamanında yapılır.",
+                                              "color":  "from-purple-400 to-fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "Faaliyetlerin Genişletilmesi",
+                                              "description":  "PRO desteğiyle işletmenizi BAE genelinde büyütün.",
+                                              "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "title":  "Bağımsız Girişimciler",
+                                              "description":  "Serbest çalışanlar ve tek sahibi olan şirketler de profesyonel desteğe ihtiyaç duyar.",
+                                              "color":  "pembe-400\u0027den gül-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "Çokuluslu şirketler",
+                                              "description":  "Karmaşık kurumsal yapılar ve çoklu yargı yetkisi uyumluluğu.",
+                                              "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "comparisonSection":  {
+                              "title":  "Anakara Bölgesi vs. Serbest Bölge",
+                              "titleHighlight":  "Serbest Bölge",
+                              "subtitle":  "İkisi de PRO\u0027ya ihtiyaç duyar, ancak kapsam ve prosedürler farklıdır.",
+                              "zones":  [
+                                            {
+                                                "icon":  "Bina 2",
+                                                "title":  "Anakara Şirketleri",
+                                                "items":  [
+                                                              "DED, MOHRE ve GDRFA ile iş birliği yapmaktadır.",
+                                                              "Birden fazla departman onayı",
+                                                              "Daha karmaşık dokümantasyon",
+                                                              "Daha geniş operasyonel kapsam"
+                                                          ],
+                                                "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Küre",
+                                                "title":  "Serbest Bölge Şirketleri",
+                                                "items":  [
+                                                              "Serbest Bölge Otoritesi ile etkileşim halindedir.",
+                                                              "Doğrudan vize ve lisans desteği",
+                                                              "Basitleştirilmiş süreçler",
+                                                              "Bölgeye özgü düzenlemeler"
+                                                          ],
+                                                "color":  "from-violet-400 to-purple-600"
+                                            }
+                                        ]
+                          },
+    "outsourceSection":  {
+                             "badge":  "Dış Kaynak Kullanımı vs. Şirket İçi",
+                             "title":  "Neden Profesyonel Hizmetleri Dışarıdan Temin Etmelisiniz?",
+                             "titleHighlight":  "Profesyonel Hizmetler?",
+                             "subtitle":  "Tam zamanlı bir PRO ekibini sürdürmek pahalıdır. Bize dış kaynak kullanımı, size maliyetin çok daha düşük bir kısmıyla, güçlü devlet bağlantıları, uyumluluk uzmanlığı ve ölçeklenebilir destek sunan tam bir uzman ekibi sağlar.",
+                             "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600\u0026q=80",
+                             "benefits":  [
+                                              {
+                                                  "icon":  "Ödül",
+                                                  "title":  "Yerel Bağlantıları Olan Uzmanlar",
+                                                  "description":  "Daha hızlı onaylar için BAE hükümeti ve Serbest Bölge yetkilileriyle güçlü ilişkiler."
+                                              },
+                                              {
+                                                  "icon":  "Dolar İşareti",
+                                                  "title":  "Operasyonel Maliyetleri En Aza İndirin",
+                                                  "description":  "Şirk içi maaşlardan ve genel giderlerden tasarruf edin; bunun yerine uzman bir ekip edinin."
+                                              },
+                                              {
+                                                  "icon":  "Kalkan Kontrolü",
+                                                  "title":  "Hukuki riskleri önleyin",
+                                                  "description":  "Doğru başvurular, para cezası, gecikme veya ret gibi durumların önüne geçer."
+                                              },
+                                              {
+                                                  "icon":  "Trend Yükseliyor",
+                                                  "title":  "Ölçeklenebilir Destek",
+                                                  "description":  "Başlangıç aşamasından büyüme aşamasına kadar, profesyonel ekibimiz işletmenizle birlikte büyür."
+                                              },
+                                              {
+                                                  "icon":  "Dosya Arama",
+                                                  "title":  "Güncel Hükümet Bilgisi",
+                                                  "description":  "Birleşik Arap Emirlikleri\u0027nin iş hukuku, göçmenlik ve işgücü düzenlemeleri konusunda her zaman güncel bilgilere sahibiz."
+                                              }
+                                          ],
+                             "costComparison":  {
+                                                    "title":  "Maliyet Karşılaştırması "” Yıllık",
+                                                    "inHouseLabel":  "Şirket İçi Profesyonel",
+                                                    "inHouseValue":  "180.000 AED+",
+                                                    "inHouseNote":  "Maaş + vize + yan haklar + genel giderler",
+                                                    "outsourceLabel":  "Bize Dış Kaynak Olarak Verildi",
+                                                    "outsourceValue":  "%70 tasarruf edin",
+                                                    "outsourceNote":  "Tamamen uzman ekip, ek masraf yok.",
+                                                    "benefitsList":  [
+                                                                         "Kiralama maliyeti yok",
+                                                                         "Herhangi bir eğitime gerek yok.",
+                                                                         "Hükümetle olan bağlantılar dahil",
+                                                                         "İşletmenizle birlikte büyür."
+                                                                     ]
+                                                }
+                         },
+    "stepsSection":  {
+                         "badge":  "Başlayın",
+                         "title":  "PRO Hizmetlerine Nasıl Başlanır?",
+                         "titleHighlight":  "PRO Hizmetleri",
+                         "subtitle":  "Bizimle ortaklık kurduğunuzda her şey çok kolay.",
+                         "steps":  [
+                                       {
+                                           "step":  "01",
+                                           "title":  "Ücretsiz Danışmanlık",
+                                           "description":  "İhtiyaçlarınızı görüşmek üzere uzmanlarımızla iletişime geçin.",
+                                           "icon":  "Mesaj Çemberi",
+                                           "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                       },
+                                       {
+                                           "step":  "02",
+                                           "title":  "İhtiyaçlarınızı Paylaşın",
+                                           "description":  "İşletme faaliyetinizi ve hizmet gereksinimlerinizi bize bildirin.",
+                                           "icon":  "DosyaMetni",
+                                           "color":  "from-violet-400 to-purple-600"
+                                       },
+                                       {
+                                           "step":  "03",
+                                           "title":  "Kişiselleştirilmiş Plan",
+                                           "description":  "Size özel bir PRO planı ve şeffaf maliyet tahmini alın.",
+                                           "icon":  "Pano Kontrolü",
+                                           "color":  "from-purple-400 to-fuchsia-600"
+                                       },
+                                       {
+                                           "step":  "04",
+                                           "title":  "Her şeyi biz hallediyoruz.",
+                                           "description":  "Ekibimiz belgeleri ve devlet kurumlarıyla olan etkileşimleri işliyor.",
+                                           "icon":  "Ayarlar",
+                                           "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                       },
+                                       {
+                                           "step":  "05",
+                                           "title":  "Teslimat ve Güncellemeler",
+                                           "description":  "Onaylar kapınıza veya e-posta kutunuza iletilir.",
+                                           "icon":  "CheckCircle2",
+                                           "color":  "pembe-400\u0027den gül-600\u0027e"
+                                       }
+                                   ]
+                     },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Dubai\u0027deki PRO hizmetleri hakkında bilmeniz gereken her şey.",
+                        "sidebarCard":  {
+                                            "title":  "Ücretsiz Danışmanlık",
+                                            "text":  "İşletmenizin ihtiyaçları hakkında uzmanlarımızla görüşün.",
+                                            "whatsappMessage":  "Merhaba! Ücretsiz bir profesyonel hizmet danışmanlığı almak istiyorum."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Dubai\u0027de PRO hizmetleri nelerdir ve neden gereklidirler?",
+                                          "a":  "PRO hizmetleri, tüm devlet evraklarını, yasal belgeleri, işletme kurulumunu, vizeleri, çalışma izinlerini, Emirates Kimlik Kartını ve uyumluluk yükümlülüklerini yöneterek işletmenizin kesintisiz ve yasal olarak faaliyet göstermesini sağlar."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de PRO hizmetlerine kimler ihtiyaç duyar?",
+                                          "a":  "Birleşik Arap Emirlikleri\u0027ndeki her işletme -yeni kurulan şirketlerden serbest çalışanlara ve büyük çokuluslu şirketlere kadar- vize, lisans ve mevzuat uyumluluğu için PRO desteğine ihtiyaç duyar."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge şirketleri için PRO hizmetleri zorunlu mu?",
+                                          "a":  "Zorunlu değil, ancak şiddetle tavsiye edilir. Serbest Bölge şirketlerinin yine de vize işlemleri, lisans yenilemeleri ve uyumluluk desteğine ihtiyacı vardır."
+                                      },
+                                      {
+                                          "q":  "Kurum içi ve dış kaynaklı PRO hizmetleri arasındaki fark nedir?",
+                                          "a":  "Kurum içi profesyonel destek, maaş ve genel giderlerle birlikte tam zamanlı personel istihdam etmek anlamına gelir. Dış kaynak kullanımı ise size maliyetin çok daha düşük bir kısmıyla uzman bir ekip sunar."
+                                      },
+                                      {
+                                          "q":  "Dubai\u0027de PRO hizmetinin fiyatı ne kadar?",
+                                          "a":  "Hizmetlere bağlı olarak maliyetler değişiklik gösterir. Yeni kurulan şirketler, KOBİ\u0027ler ve büyük işletmeler için esnek paketler sunuyoruz. Özel fiyat teklifi için bizimle iletişime geçin."
+                                      },
+                                      {
+                                          "q":  "PRO hizmetleri hangi belgeleri işleme alıyor?",
+                                          "a":  "Ticaret lisansları, vizeler, Emirates kimlik kartları, çalışma kartları, tasdiknameler, Dışişleri Bakanlığı belgeleri, şirket kayıtları ve daha fazlası."
+                                      },
+                                      {
+                                          "q":  "PRO hizmetleri yatırımcı ve ortak vize başvurularında yardımcı oluyor mu?",
+                                          "a":  "Evet. Her türlü işletme yapısı için yatırımcı vizesi, ortaklık vizesi ve çalışma vizesi işlemlerini yürütüyoruz."
+                                      },
+                                      {
+                                          "q":  "Çalışan vizesi iptalleri için profesyonel hizmetlere ihtiyacım var mı?",
+                                          "a":  "Evet. Vize iptalleri, işten ayrılma belgeleri ve nihai ödemeler için İnsan Kaynakları Yönetimi Bakanlığı (MOHRE) ve Mali İstihdam ve Gümrük İdaresi (GDRFA) ile PRO koordinasyonu gereklidir."
+                                      },
+                                      {
+                                          "q":  "Profesyonel hizmetler için neden Setup Zone Dubai\u0027yi tercih etmelisiniz?",
+                                          "a":  "Hızlı işlem için uzman PRO temsilcilerini, şeffaf fiyatlandırmayı, gerçek zamanlı takibi ve tam uyumluluğu, güçlü devlet bağlantılarıyla birleştiriyoruz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "PRO desteğiyle uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Altın Vize",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı bildirimleri, ESR raporları ve düzenleyici destek.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm kimlik doğrulama işlemlerini tamamlayarak BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Büyümeye Odaklanın",
+                     "title":  "Bürokrasiden kurtulmaya hazır mısınız?",
+                     "titleHighlight":  "Bürokrasi mi?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmeti alın. Profesyonel ekibimiz vize, lisans, mevzuat ve tüm devlet kurumlarıyla olan etkileşimlerinizi halleder; böylece siz işinizi büyütmeye odaklanabilirsiniz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "500\u0027den fazla Müşteri",
+                                   "Tam Uyumluluk"
+                               ],
+                     "whatsappMessage":  "Merhaba! Ücretsiz bir profesyonel hizmet danışmanlığı almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! İşletmem için profesyonel hizmetler hakkında görüşmek istiyorum."
+                 }
+}

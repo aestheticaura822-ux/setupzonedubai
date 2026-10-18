@@ -1,0 +1,541 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+  "heroBadge": "杰贝阿里自由区",
+  "heroTitle": "杰贝阿里自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "中东地区规模最大、最值得信赖的自由区之一。毗邻杰贝阿里港——国际贸易与科技的交汇点。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "港口附近"
+  ],
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "8000+",
+      "label": "公司",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100+",
+      "label": "国家",
+      "color": "from-orange-400 to-red-500"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "所得税",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Ship",
+      "value": "港口",
+      "label": "相邻区域",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whyJafzaSection": {
+    "badge": "为什么选择杰贝阿里自由区",
+    "title": "为什么选择杰贝阿里自由区？",
+    "titleHighlight": "杰贝阿里自由区？",
+    "subtitle": "中东地区规模最大、最值得信赖的自由区之一。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全拥有自己的企业，无需当地赞助商。",
+        "color": "from-amber-400 to-orange-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Ship",
+        "title": "杰贝阿里港旁",
+        "description": "中东最大、最繁忙的港口——直接通往全球供应链。",
+        "color": "from-sky-400 to-blue-600",
+        "size": "大的"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 税率",
+        "description": "无需缴纳个人所得税或企业所得税——利润最大化。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Plane",
+        "title": "阿勒马克图姆机场",
+        "description": "可直达世界最大的机场。",
+        "color": "from-violet-400 to-purple-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业基础设施",
+        "description": "世界一流的物流、制造和贸易设施。",
+        "color": "from-orange-400 to-red-500",
+        "size": "大的"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "一体化服务",
+    "title": "我们为JAFZA设立提供哪些服务？",
+    "titleHighlight": "杰贝阿里自由区 (JAFZA) 设置",
+    "subtitle": "从首次咨询到正式运营启动——您的一站式搭建合作伙伴。",
+    "items": [
+      {
+        "icon": "MessageCircle",
+        "title": "初次咨询",
+        "description": "选择适合您目标的商业模式和活动。"
+      },
+      {
+        "icon": "FileText",
+        "title": "公司名称预留",
+        "description": "快速高效地预留您的JAFZA商号。"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "文件准备",
+        "description": "完整的文档——公司章程、组织章程细则和法律表格。"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "杰贝阿里自由区批准",
+        "description": "直接向杰贝阿里自由区当局提交申请，以加快审批速度。"
+      },
+      {
+        "icon": "Award",
+        "title": "营业执照颁发",
+        "description": "获取您的杰贝阿里自由区（JAFZA）营业执照和商业登记。"
+      },
+      {
+        "icon": "Users",
+        "title": "签证办理",
+        "description": "股东及员工签证办理全程服务。"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "银行账户支持",
+        "description": "在阿联酋顶级银行开设公司银行账户。"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "年度续约",
+        "description": "合规服务和许可证续期管理。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "发布后支持",
+        "description": "专业服务、合规性及持续业务咨询。"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "杰贝阿里自由区提供的许可证",
+    "titleHighlight": "杰贝阿里自由区",
+    "subtitle": "每项许可证都旨在使您的运营高效、合法且可扩展。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "营业执照",
+        "description": "适用于买卖或分销商品的企业。",
+        "code": "TRD",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "提供咨询、IT、媒体和营销服务。",
+        "code": "SRV",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "用于制造、生产和包装。",
+        "code": "IND",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "适用于线上零售和数字销售企业。",
+        "code": "细胞外基质",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "创新许可证",
+        "description": "适用于研发、知识产权企业和技术企业。",
+        "code": "投资",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "物流许可证",
+        "description": "适用于运输、仓储和配送业务。",
+        "code": "日志",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "infrastructureSection": {
+    "badge": "基础设施选项",
+    "title": "可定制的商务空间",
+    "titleHighlight": "商业空间",
+    "subtitle": "所有空间均配备高速互联网、24/7 安保和公用设施。",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "灵活办公桌",
+        "description": "非常适合初创企业和小企业。",
+        "color": "from-amber-400 to-orange-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "行政办公室",
+        "description": "设施齐全，即插即用的空间。",
+        "color": "from-violet-400 to-purple-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "仓库",
+        "description": "物流和库存准备就绪，拥有先进的仓储设施。",
+        "color": "from-orange-400 to-red-500",
+        "size": "大的"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业单位",
+        "description": "专为制造和装配线设计。",
+        "color": "from-sky-400 to-blue-600",
+        "size": "小的"
+      },
+      {
+        "icon": "MapPin",
+        "title": "自定义地块",
+        "description": "建造您自己的办公室、工厂或物流中心。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80"
+  },
+  "liquidationSection": {
+    "badge": "清算与合规",
+    "title": "轻松退出企业",
+    "titleHighlight": "轻松上手",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "100% 合法",
+    "imageBadgeText": "合规退出",
+    "paragraphs": [
+      "如果您准备关闭或退出您在杰贝阿里自由区 (JAFZA) 的企业，我们将使整个清算过程变得轻松、合法且无痛。",
+      "我们会结清未付账款，取消员工签证，遵守所有离职程序，并向杰贝阿里自由区当局注销您的营业执照。",
+      "我们还负责资产转移、最终审计以及获取所有必要的无异议证明（NOC）——以便您可以经济高效且充满信心地退出您的企业。"
+    ],
+    "highlights": [
+      "账单清算",
+      "签证取消",
+      "许可证停用",
+      "资产转移",
+      "最终审核",
+      "NOC援助"
+    ]
+  },
+  "offshoreSection": {
+    "badge": "杰贝阿里自由区离岸",
+    "title": "简单、私密、节税的结构",
+    "titleHighlight": "节税结构",
+    "subtitle": "JAFZA离岸公司不需要实体办公空间或签证，但可以在阿联酋提供完整的法律存在。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "持有其他公司的股份",
+        "description": "简单、私密且节税的持有结构。"
+      },
+      {
+        "icon": "Building2",
+        "title": "在迪拜拥有房地产",
+        "description": "非常适合房地产投资和资产保护。"
+      },
+      {
+        "icon": "Globe",
+        "title": "全球贸易无需关税",
+        "description": "境外实体可自由进行贸易，无需缴纳阿联酋关税。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "资产保护与继承",
+        "description": "保护您的财富，并为未来做好规划。"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "知识产权与品牌管理",
+        "description": "非常适合用于持有知识产权和商标。"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "JAFZA 设立专家",
+    "titleHighlight": "专家",
+    "subtitle": "多年的经验和数十位满意的客户。",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "从组建到扩张，全程支持",
+        "description": "从初始设置到上线后的增长——我们涵盖所有环节。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "值得信赖且可扩展的合作伙伴",
+        "description": "我们与您的业务共同成长——适应每个阶段。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "透明且保密",
+        "description": "无任何隐性费用，绝对保密。"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速周转",
+        "description": "公司设立仅用了2-3天就完成了。"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "准确的文档",
+        "description": "实现端到端合规，确保文件零错误。"
+      },
+      {
+        "icon": "Target",
+        "title": "战略指导",
+        "description": "关于活动选择和许可方面的专家建议。"
+      }
+    ]
+  },
+  "costBreakdownSection": {
+    "badge": "2026年成本明细",
+    "title": "杰贝阿里自由区透明定价",
+    "titleHighlight": "杰贝阿里自由区定价",
+    "subtitle": "JAFZA套餐分为许可证费用、办公费用和签证费用。",
+    "items": [
+      {
+        "item": "营业执照",
+        "cost": "12,000 - 25,000",
+        "notes": "取决于活动情况",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "item": "注册费",
+        "cost": "1,500",
+        "notes": "一度",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "item": "灵活办公桌/办公室",
+        "cost": "8,000 - 25,000",
+        "notes": "年度强制性",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "item": "签证（每人）",
+        "cost": "4,500 - 6,500",
+        "notes": "包括阿联酋身份证",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "item": "营业执照",
+        "cost": "1800 - 2500",
+        "notes": "年度的",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "item": "股本（最低）",
+        "cost": "500,000",
+        "notes": "已申报，但未支付",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ],
+    "yearTotalLabel": "第一年全包",
+    "yearTotalNote": "取决于办公室和签证情况",
+    "yearTotalFrom": "27,000 – 55,000 迪拉姆"
+  },
+  "comparisonSection": {
+    "title": "杰贝阿里自由区 vs 迪拜多种商品交易中心 vs 伊斯兰堡自由区",
+    "subtitle": "哪个区域获胜？",
+    "items": [
+      {
+        "factor": "起始成本",
+        "jafza": "12,000 迪拉姆",
+        "dmcc": "15,000 迪拉姆",
+        "ifza": "11,500 迪拉姆"
+      },
+      {
+        "factor": "公司总数",
+        "jafza": "9000+",
+        "dmcc": "21000+",
+        "ifza": "48,000+"
+      },
+      {
+        "factor": "最适合",
+        "jafza": "物流、贸易",
+        "dmcc": "商品、加密货币",
+        "ifza": "一般贸易，中小企业"
+      },
+      {
+        "factor": "地点",
+        "jafza": "杰贝阿里港口区",
+        "dmcc": "JLT，市中心附近",
+        "ifza": "迪拜硅谷绿洲"
+      },
+      {
+        "factor": "办公灵活性",
+        "jafza": "好的",
+        "dmcc": "出色的",
+        "ifza": "出色的"
+      }
+    ],
+    "verdict": "JAFZA 在进出口和工业活动方面胜出；DMCC 在大宗商品和金融科技方面胜出；IFZA 在纯粹的成本方面胜出。"
+  },
+  "setupStepsSection": {
+    "badge": "设置过程",
+    "title": "五步轻松完成杰贝阿里自由区 (JAFZA) 设置",
+    "titleHighlight": "五步走",
+    "subtitle": "2-3天内即可在杰贝阿里自由区 (JAFZA) 成立公司——我们的团队将代表您提交所有文件。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "选择活动和法律表格",
+        "description": "根据您的需求选择 FZE、FZCO 或分支机构结构。",
+        "icon": "Target",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "02",
+        "title": "储备公司名称",
+        "description": "在JAFZA预留您的姓名并支付预留费。",
+        "icon": "FileText",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "03",
+        "title": "签署公司注册文件",
+        "description": "签署公司章程/组织章程细则和董事会决议。",
+        "icon": "FileSignature",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "step": "04",
+        "title": "缴纳费用并获得许可证",
+        "description": "缴纳营业执照费和办公费用，即可领取营业执照。",
+        "icon": "BadgeCheck",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "title": "Visa 和银行账户",
+        "description": "申请签证并开设公司银行账户。",
+        "icon": "CreditCard",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于杰贝阿里自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的杰贝阿里自由区专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于杰贝阿里自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是杰贝阿里自由区 (JAFZA)？它为何是公司设立的理想场所？",
+        "a": "杰贝阿里自由区 (JAFZA) 是阿联酋最大的自由区之一，毗邻杰贝阿里港和阿勒马克图姆国际机场。该自由区允许100%外资控股，税率为0%，并拥有世界一流的物流、制造和贸易基础设施。"
+      },
+      {
+        "q": "在杰贝阿里自由区设立公司有哪些优势？",
+        "a": "100% 外资所有，0% 个人及企业所得税，毗邻世界最大港口的战略位置，世界一流的基础设施，以及生态系统中 8000 多家企业。"
+      },
+      {
+        "q": "JAFZA公司有哪些类型的许可证？",
+        "a": "贸易、服务、工业、电子商务、创新和物流许可证——每一种都针对不同的商业活动量身定制。"
+      },
+      {
+        "q": "在杰贝阿里自由区 (JAFZA) 注册公司需要多长时间？",
+        "a": "通常情况下，只要文件齐全，2-3个工作日即可完成。我们的团队会代表您提交所有文件。"
+      },
+      {
+        "q": "我可以在杰贝阿里自由区（JAFZA）的公司开设银行账户吗？",
+        "a": "是的。我们会根据您的企业情况，协助您在阿联酋顶级银行开设企业银行账户。"
+      },
+      {
+        "q": "持有JAFZA许可证可以从事哪些活动？",
+        "a": "一般贸易、工业/制造业、物流和货运、咨询和电子商务——以及更多专业活动。"
+      },
+      {
+        "q": "我是否需要实体办公场所来设立我的杰贝阿里自由区公司？",
+        "a": "是的，JAFZA要求企业拥有实体办公室、灵活办公桌或仓库。我们会根据您的预算和需求，帮助您选择合适的方案。"
+      },
+      {
+        "q": "JAFZA Offshore是什么？它有何不同之处？",
+        "a": "JAFZA Offshore 非常适合持有股份、拥有房产、全球贸易、资产保护和知识产权管理——无需实体办公室或签证。"
+      },
+      {
+        "q": "在杰贝阿里自由区（JAFZA）设立机构需要多少费用？",
+        "a": "营业执照费用 12,000 迪拉姆 + 办公室费用 8,000-25,000 迪拉姆 + 签证费用 4,500-6,500 迪拉姆。第一年总计：约 27,000 - 55,000 迪拉姆。"
+      },
+      {
+        "q": "如果我想关闭我的公司，你们可以协助我进行清算吗？",
+        "a": "是的。我们负责整个清算流程——取消签证、清偿债务、停用许可证、转移资产以及获取无异议证明。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的自由区设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "专业服务",
+        "description": "阿联酋身份证、劳工卡、签证盖章和续签。",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始",
+    "title": "准备在杰贝阿里自由区 (JAFZA) 启动？",
+    "titleHighlight": "杰贝阿里自由区？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置流程——从选择许可证到开设银行账户。",
+    "chips": [
+      "免费咨询",
+      "10,000+ 客户",
+      "2-3天完成安装"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于杰贝阿里自由区（JAFZA）房产设立的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一下杰贝阿里自由区（JAFZA）的设置。"
+  }
+}

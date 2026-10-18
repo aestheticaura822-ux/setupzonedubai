@@ -1,0 +1,473 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "在迪拜Setup Zone打造您的未来",
+  "heroTitle": "在迪拜注册大陆公司",
+  "heroTitleHighlight": "在迪拜的培训",
+  "heroSubtitle": "助您全面融入阿联酋经济体系。我们提供从营业执照、居留签证协助、银行支持到后续服务——一站式服务。",
+  "heroChips": [
+    "7 阿联酋航空通道",
+    "100% 所有权",
+    "政府合同",
+    "2-5天许可证"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "7",
+      "label": "阿联酋航空通道",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Landmark",
+      "value": "打开",
+      "label": "政府合同",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-5",
+      "label": "许可天数",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "introSection": {
+    "badge": "通往阿联酋经济之路",
+    "title": "完全进入阿联酋市场",
+    "titleHighlight": "阿联酋市场准入",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "DET 批准",
+    "imageBadgeText": "大陆牌照",
+    "paragraphs": [
+      "在迪拜大陆注册公司是您进入阿联酋完整经济体系的途径，使您可以在迪拜、阿联酋乃至国际范围内开展业务。",
+      "除了是进入迪拜经商的绝佳门户之外，迪拜大陆还能让你以无与伦比的方式接触客户、投资者和政府合同。",
+      "无论您是初次创业还是拓展全球业务，在迪拜大陆设立公司都是进入阿联酋经济的绝佳机会。迪拜设立中心 (Setup Zone Dubai) 可协助您完成公司设立流程，确保完全合规，包括营业执照办理、居留签证协助、银行支持以及后续服务。"
+    ],
+    "highlights": [
+      "完全访问阿联酋",
+      "投资者通道",
+      "政府合同",
+      "银行支持",
+      "签证办理",
+      "安装后服务"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "大陆牌照选项",
+    "title": "您可以获得哪些大陆牌照？",
+    "titleHighlight": "大陆牌照",
+    "subtitle": "滑动浏览 5 种许可证类型——选择适合您活动的许可证类型。",
+    "items": [
+      {
+        "id": "trade",
+        "icon": "StoreIcon",
+        "title": "营业执照",
+        "tagline": "买入、卖出和分销",
+        "description": "适用于在阿联酋境内及国际范围内进行贸易的进出口企业、批发商、零售店和分销商。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": [
+          "进出口",
+          "批发的",
+          "零售商店",
+          "分销商"
+        ],
+        "bestFor": "交易员"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "专业/服务许可证",
+        "tagline": "专业技术与咨询",
+        "description": "最适合咨询顾问、IT 服务人员、营销机构、教育工作者和医疗保健专业人员——提供 100% 所有权选择权。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "顾问",
+          "IT服务",
+          "营销",
+          "卫生保健"
+        ],
+        "bestFor": "服务提供商"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "工业许可证",
+        "tagline": "制造与生产",
+        "description": "适用于拥有工业用地和政府支持的制造、生产和工业组装企业。",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "制造业",
+          "生产",
+          "集会",
+          "工业用地"
+        ],
+        "bestFor": "制造商"
+      },
+      {
+        "id": "tourism",
+        "icon": "Plane",
+        "title": "旅游许可证",
+        "tagline": "旅游与酒店",
+        "description": "适用于为阿联酋旅游业客户提供服务的旅行社、旅游公司和酒店。",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "旅行社",
+          "旅游公司",
+          "酒店",
+          "酒店业"
+        ],
+        "bestFor": "旅游企业"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "tagline": "数字化优先业务",
+        "description": "对于以数字优先、实体店面为主的企业而言——将线上销售与展厅或仓库运营相结合。",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "在线商店",
+          "实际在场",
+          "仓储",
+          "多通道"
+        ],
+        "bestFor": "电子商务品牌"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "包含内容",
+    "title": "我们的大陆形成服务",
+    "titleHighlight": "服务",
+    "subtitle": "八项端到端服务——一切尽在掌握。",
+    "items": [
+      {
+        "icon": "Target",
+        "title": "商业活动分类",
+        "description": "请通过DET确定您的驾照类型，避免罚款。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "公司名称预留",
+        "description": "确保名称独特，并以合规的方式获得批准。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "营业执照申请",
+        "description": "向 DET 注册，包括初步批准、谅解备忘录、租赁协议和最终许可证。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "设置后合规性",
+        "description": "增值税登记、ESR/UBO 报告和会计设置指南。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "办公空间援助",
+        "description": "协助办理已获批准的迪拜市区租赁事宜。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Handshake",
+        "title": "本地服务代理（如有需要）",
+        "description": "对于需要阿联酋方面参与的活动，应采取透明的代理安排。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "银行账户开立",
+        "description": "协助在阿联酋顶级银行开设公司账户。",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "为什么选择大陆？",
+    "title": "在大陆设立公司的优势",
+    "titleHighlight": "设立大陆公司",
+    "subtitle": "企业规模化发展的七大优势。",
+    "items": [
+      {
+        "icon": "StoreIcon",
+        "label": "在阿联酋和海湾合作委员会地区销售",
+        "desc": "拥有完全商业自由的产品/服务",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "label": "全球运营",
+        "desc": "没有地域限制",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Wallet",
+        "label": "汇回利润和资本",
+        "desc": "完全的财务自由",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Users",
+        "label": "接触B2B和B2C客户",
+        "desc": "阿联酋本地客户群",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Landmark",
+        "label": "竞标政府合同",
+        "desc": "公共及半政府招标",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "长期居住",
+        "desc": "通过投资者签证资格",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "企业零税",
+        "desc": "在当前阈值",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "准备好扩大规模了吗？",
+      "text": "与我们的专家交流",
+      "buttonText": "开始使用",
+      "whatsappMessage": "您好！我准备拓展我在大陆的业务。"
+    }
+  },
+  "whoShouldConsiderSection": {
+    "badge": "这是给谁用的？",
+    "title": "哪些人应该考虑投资内地公司？",
+    "titleHighlight": "大陆公司？",
+    "subtitle": "大陆牌照几乎适用于所有正规的商业模式。",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务品牌",
+        "description": "寻求灵活的办公及仓储空间，用于线上运营，并提供物流支持。",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "法律、媒体、科技和营销咨询公司",
+        "description": "希望在阿联酋拥有完全的所有权和运营范围。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "icon": "Utensils",
+        "title": "餐饮、美容美发、诊所、健身房",
+        "description": "需要覆盖阿联酋全境，服务于城市各地的本地客户。",
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "StoreIcon",
+        "title": "零售商和批发商",
+        "description": "计划开设实体店、商店和展厅。",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "icon": "Laptop",
+        "title": "专业人士和自由职业者",
+        "description": "以法人身份获得营业执照，并与当地客户建立联系。",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择迪拜Setup Zone",
+    "title": "我们打造品牌、系统和成功",
+    "titleHighlight": "品牌、系统与成功",
+    "subtitle": "六大支柱使我们成为值得信赖的安装合作伙伴。",
+    "items": [
+      {
+        "icon": "Target",
+        "label": "定制安装包",
+        "desc": "根据活动和预算量身定制"
+      },
+      {
+        "icon": "Building2",
+        "label": "租赁支持",
+        "desc": "办公、仓库和展厅空间"
+      },
+      {
+        "icon": "Bank",
+        "label": "银行账户协助",
+        "desc": "开设阿联酋商业账户"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速许可",
+        "desc": "2-5个工作日"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "发射后服务",
+        "desc": "数字营销、客户关系管理和品牌推广"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "DET法规专家",
+        "desc": "自由区移民和离岸架构"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千用户信赖",
+    "titleHighlight": "数千",
+    "subtitle": "我们的过往业绩足以证明一切。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10,000+",
+        "label": "公司成立",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "7",
+        "label": "阿联酋航空通道",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "设置专家",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "快速地",
+        "label": "许可",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "合规",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "设置合作伙伴",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于在中国大陆注册公司，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们大陆专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于在中国大陆注册公司的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是迪拜本土公司？",
+        "a": "在迪拜设立的本土公司是指获得经济与旅游部 (DET) 许可，并拥有在阿联酋全境开展业务的完整资质的公司。与自由区公司不同，本土公司可以直接与本地市场进行贸易，参与政府合同竞标，并在迪拜任何地方租赁办公或零售空间。"
+      },
+      {
+        "q": "外籍人士可以在迪拜完全拥有一家中国大陆公司吗？",
+        "a": "是的。自2021年起，中国大陆大部分商业活动允许外商100%控股。某些战略性活动可能仍需当地合作伙伴。我们会协助您确定具体情况。"
+      },
+      {
+        "q": "与在自由区设立公司相比，在大陆设立公司有哪些优势？",
+        "a": "中国大陆公司可以直接与阿联酋本地市场进行贸易，竞标政府合同，在所有7个酋长国开展业务，根据办公空间雇用无限量的员工，并且没有地域限制。"
+      },
+      {
+        "q": "获得大陆营业执照需要多长时间？",
+        "a": "许可证发放通常需要 2-5 个工作日，而全部设置（包括办公室租赁和签证办理）需要 2-4 周。"
+      },
+      {
+        "q": "成立中国大陆公司需要哪些类型的许可证？",
+        "a": "营业执照、专业/服务执照、工业执照、旅游执照和电子商务执照——每一种都适用于特定的商业活动。"
+      },
+      {
+        "q": "我需要办公场所才能成立一家大陆公司吗？",
+        "a": "是的。中国大陆公司需要注册实体办公地址（Ejari）。我们可以协助您找到合适的办公室、仓库或展厅空间。"
+      },
+      {
+        "q": "一家大陆公司能否在所有酋长国开展业务并开设分公司？",
+        "a": "是的。持有阿联酋本土牌照，您就可以在阿联酋全部7个酋长国自由经营，并在阿联酋境内任何地方开设分行，不受任何限制。"
+      },
+      {
+        "q": "迪拜本土公司是否需要缴纳企业所得税？",
+        "a": "阿联酋本土公司须遵守阿联酋企业所得税法规。目前，符合条件的小型企业可享受0%的税率。我们提供全面的合规和增值税注册指导。"
+      },
+      {
+        "q": "中国大陆公司申请签证的流程是什么？",
+        "a": "我们办理投资者签证、合伙人签证和员工签证，包括阿联酋身份证、体检和全套公共关系服务。签证配额取决于您的办公空间大小。"
+      },
+      {
+        "q": "为什么我应该选择迪拜创业中心进行中国大陆公司注册？",
+        "a": "我们提供端到端的支持——活动分类、许可、办公室租赁、签证办理、银行账户开设以及后续设置服务，包括客户关系管理、品牌推广和数字营销。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与大陆公司注册服务完美搭配的服务。",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸结构。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "迪拜贸易许可证",
+        "description": "2-5天内即可获得DET行业许可证。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-corporate-sponsor",
+        "title": "本地企业赞助商",
+        "description": "通过值得信赖的赞助商获得100%的控制权。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "准备在迪拜大陆地区开展业务吗？",
+    "title": "战略位置优越，贸易不受限制。",
+    "titleHighlight": "贸易不受限制。",
+    "subtitle": "通过 Setup Zone Dubai 开启您在阿联酋的业务——Setup Zone Dubai 是您在阿联酋实现长期业务成功的可靠合作伙伴。",
+    "chips": [
+      "免费咨询",
+      "2-5天完成安装",
+      "100% 所有权"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于在中国大陆注册公司的免费咨询。",
+    "whatsappCardMessage": "您好！我想咨询一下关于中国大陆公司注册的问题。"
+  }
+}

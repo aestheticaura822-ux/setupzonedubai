@@ -1,0 +1,128 @@
+{
+    "badge":  "Unsere Pakete",
+    "heading":  {
+                    "line1":  "Transparente Preisgestaltung",
+                    "highlight":  "Keine versteckten Gebühren"
+                },
+    "subtitle":  "Wí¤hlen Sie das Paket, das am besten zu Ihrem Unternehmen passt. Alle Preise sind Komplettpreise "“ keine versteckten Kosten, keine íœberraschungen.",
+    "toggle":  {
+                   "oneTimeLabel":  "Einmalzahlung",
+                   "installmentLabel":  "Ratenzahlung",
+                   "installmentSuffix":  "Oder 3x"
+               },
+    "packages":  [
+                     {
+                         "id":  "Freizone",
+                         "name":  "Freizonenlizenz",
+                         "badge":  null,
+                         "price":  "5.999",
+                         "currency":  "AED",
+                         "period":  "einmalig",
+                         "tagline":  "Perfekt für Freiberufler und Remote-Unternehmen",
+                         "icon":  "Gebí¤ude 2",
+                         "gradient":  "von Himmel-400 über Blau-500 nach Blau-600",
+                         "glowColor":  "rgba(14,165,233,0.3)",
+                         "accentText":  "text-sky-600",
+                         "accentBg":  "bg-sky-50",
+                         "accentBorder":  "border-sky-200",
+                         "iconBg":  "von Himmel-400 bis Blau-600",
+                         "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80",
+                         "features":  [
+                                          "5 kostenlose Geschí¤ftsaktivití¤ten",
+                                          "100% Eigentum",
+                                          "0 % Einkommensteuer",
+                                          "Niedrige Unternehmenssteuer",
+                                          "Kostenlose Beratung",
+                                          "Niedrigpreisgarantie"
+                                      ],
+                         "cta":  "Jetzt loslegen",
+                         "highlighted":  false
+                     },
+                     {
+                         "id":  "Freizonen-Aufenthalt",
+                         "name":  "Freizone mit Aufenthaltsgenehmigung",
+                         "badge":  "Am beliebtesten",
+                         "price":  "11.999",
+                         "currency":  "AED",
+                         "period":  "einmalig",
+                         "tagline":  "Ideal für Unternehmer, die nach Dubai umziehen",
+                         "icon":  "Globus",
+                         "gradient":  "von Violett-400 über Lila-500 bis Lila-600",
+                         "glowColor":  "rgba(139,92,246,0.4)",
+                         "accentText":  "text-violett-600",
+                         "accentBg":  "bg-violett-50",
+                         "accentBorder":  "border-violet-200",
+                         "iconBg":  "von Violett-400 bis Lila-600",
+                         "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                         "features":  [
+                                          "All-Inclusive-Freizonenlizenz",
+                                          "5 kostenlose Geschí¤ftsaktivití¤ten",
+                                          "100% Eigentum",
+                                          "0 % Einkommensteuer",
+                                          "Niedrige Unternehmenssteuer",
+                                          "Kostenlose Beratung",
+                                          "Kostenloser Mietvertrag",
+                                          "1. Aufenthaltsgenehmigung für die VAE / Investorenvisum",
+                                          "Medizinischer Status, Emirates ID, Statusí¤nderung"
+                                      ],
+                         "cta":  "Jetzt loslegen",
+                         "highlighted":  true
+                     },
+                     {
+                         "id":  "Wohnsitz auf dem Festland",
+                         "name":  "Festland mit Wohnsitz",
+                         "badge":  "Bestes Preis-Leistungs-Verhí¤ltnis",
+                         "price":  "16.999",
+                         "currency":  "AED",
+                         "period":  "einmalig",
+                         "tagline":  "Für Unternehmen, die den lokalen Markt der VAE ansprechen.",
+                         "icon":  "Krone",
+                         "gradient":  "von Amber-400 über Orange-500 nach Orange-600",
+                         "glowColor":  "rgba(245,158,11,0.4)",
+                         "accentText":  "text-amber-600",
+                         "accentBg":  "bg-amber-50",
+                         "accentBorder":  "border-amber-200",
+                         "iconBg":  "von Bernstein-400 bis Orange-600",
+                         "image":  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800\u0026q=80",
+                         "features":  [
+                                          "Festlandlizenz",
+                                          "100% Eigentum",
+                                          "0 % Einkommensteuer",
+                                          "Niedrige Unternehmenssteuer",
+                                          "Kostenlose Beratung",
+                                          "1. Aufenthaltsgenehmigung für die VAE / Investorenvisum",
+                                          "Medizinischer Status, Emirates ID, Statusí¤nderung"
+                                      ],
+                         "cta":  "Jetzt loslegen",
+                         "highlighted":  false
+                     }
+                 ],
+    "customPackageCTA":  {
+                             "title":  "Bení¶tigen Sie ein individuelles Paket?",
+                             "subtitle":  "Wir stellen Ihnen ein Paket zusammen, das genau auf Ihre geschí¤ftlichen Bedürfnisse zugeschnitten ist "“ Festland, Freizone oder Offshore.",
+                             "primaryCta":  "Individuelles Angebot anfordern",
+                             "secondaryCta":  "Rufen Sie uns an",
+                             "phone":  "+971 56 655 6645",
+                             "phoneHref":  "Tel.: +971566556645",
+                             "whatsappMessage":  "Hallo! Ich bení¶tige ein individuelles Paket für meine Geschí¤ftsgründung in den VAE.",
+                             "backgroundImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80"
+                         },
+    "trustLine":  [
+                      {
+                          "label":  "Keine versteckten Gebühren",
+                          "color":  "Smaragd"
+                      },
+                      {
+                          "label":  "Transparente Preise",
+                          "color":  "Himmel"
+                      },
+                      {
+                          "label":  "FTA-konform",
+                          "color":  "violett"
+                      },
+                      {
+                          "label":  "Kostenlose Beratung",
+                          "color":  "Bernstein"
+                      }
+                  ]
+}

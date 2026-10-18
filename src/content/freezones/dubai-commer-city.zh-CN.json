@@ -1,0 +1,553 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1600&q=80",
+  "heroBadge": "线上发展，走向全球。",
+  "heroTitle": "迪拜商业城",
+  "heroTitleHighlight": "商业城",
+  "heroSubtitle": "阿联酋首个专属电子商务自由区。毗邻迪拜国际机场——是数字化优先企业、科技初创公司和全球贸易的理想起步平台。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "3-5天安装完成",
+    "电子商务生态系统"
+  ],
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "电子商务品牌",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-rose-400 to-pink-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-pink-400 to-fuchsia-600"
+    }
+  ],
+  "launchSection": {
+    "badge": "启动你的创业计划",
+    "title": "该地区首个电子商务自由区",
+    "titleHighlight": "电子商务自由区",
+    "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=1200&q=80",
+    "imageBadgeTitle": "电子商务中心",
+    "imageBadgeText": "毗邻迪拜国际机场",
+    "paragraphs": [
+      "在迪拜商业城 (DCC) 自由区设立公司，意味着您将进入该地区首个也是唯一一个完全致力于电子商务企业的自由区。商业城地理位置优越，毗邻迪拜国际机场，旨在为在线零售商、物流供应商、数字平台和科技型企业提供支持。",
+      "无论您是线上零售初创公司、正在拓展中东市场的成熟电商企业、物流配送服务商，还是数字服务公司——DCC都能为您提供扩展业务所需的一切。从先进的仓储设施到精简高效的清关和物流服务，DCC助力企业在速度、效率和全球互联方面占据优势。",
+      "在迪拜Setup Zone，我们让您在CommerCity的设立过程轻松无忧。我们的团队负责所有流程——从公司注册和许可证选择到签证、合规和运营设置。"
+    ],
+    "highlights": [
+      "数字优先生态系统",
+      "保税仓库",
+      "智能办公空间",
+      "报关",
+      "物流一体化",
+      "全球互联互通"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "线上发展，走向全球。",
+    "title": "在迪拜商业城设立机构的优势",
+    "titleHighlight": "迪拜商业城",
+    "subtitle": "您在电子商务领域启动、扩展和取得成功所需的一切。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "无需阿联酋当地担保人，即可完全掌控您的业务，确保您对运营、利润和决策拥有完全的自主权。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 企业及个人所得税",
+        "description": "企业和个人收入免税，实现利润最大化——这对初创企业和全球电子商务品牌来说是一项重大优势。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Package",
+        "title": "保税自由区，免关税",
+        "description": "在保税自由区内享受免税进出口优惠——非常适合物流、零售和全球供应链公司。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "靠近迪拜国际机场",
+        "description": "迪拜国际货运中心 (DCC) 紧邻迪拜国际机场，是空运货物处理、最后一公里物流和区域贸易的理想场所。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速通道许可和注册",
+        "description": "只需几天即可获得 FZCO 或 PLC 许可证！所需文件极少，所有流程均通过 DCC 强大的在线系统进行数字化处理。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "集成数字生态系统",
+        "description": "DCC 提供了一个技术就绪的生态系统，其中包括集成的 CRM、ERP、AI、CMS 工具和电子商务集成。",
+        "color": "from-purple-400 to-violet-600"
+      },
+      {
+        "icon": "Clock",
+        "title": "全天候海关清关",
+        "description": "我们提供现场海关团队支持清关服务，DCC 提供全天候 24 小时服务。是高吞吐量企业的理想之选。",
+        "color": "from-violet-400 to-indigo-600"
+      },
+      {
+        "icon": "Leaf",
+        "title": "绿色建筑认证",
+        "description": "采用智能能源和现代设计的环保、可持续建筑——让您的品牌与 ESG 目标保持一致。",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "无限的创意商业选择",
+    "title": "DCC有哪些许可证类型？",
+    "titleHighlight": "DCC版本有售吗？",
+    "subtitle": "我们会协助您确定最适合您商业模式的许可证。",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "最适合通过网站或电商平台在线销售商品或服务的企业。支持B2B和B2C模式，并可连接支付网关。",
+        "code": "细胞外基质",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "营业执照",
+        "description": "最适合通过 DCC 的物流网络在阿联酋和国际市场上进行实物商品进出口和批发贸易的公司。",
+        "code": "TRD",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "提供数字营销、媒体制作、IT咨询和商业顾问等专业服务——本地或全球范围。",
+        "code": "SRV",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Boxes",
+        "title": "一般交易许可证",
+        "description": "更大的灵活性，可以在一个许可证下交易多个不相关的产品类别——无需单独的贸易许可证。",
+        "code": "天然气",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "自由职业者许可证",
+        "description": "面向内容创作、设计、软件开发、数字营销和咨询等领域的专业人士。",
+        "code": "FRL",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "分公司设立",
+        "description": "注册于海外或阿联酋本土的公司无需设立新的法律实体即可在都柏林首都中心开设分公司。",
+        "code": "巴林",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "officeSection": {
+    "badge": "面向未来的办公解决方案",
+    "title": "世界一流的基础设施和商务设施",
+    "titleHighlight": "商务设施",
+    "subtitle": "为数字商务设计的多种可扩展的现代化设施。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "高级精装修办公室",
+        "description": "专为数字商务和科技企业设计的现代化办公空间。",
+        "color": "from-orange-400 to-red-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Layout",
+        "title": "外壳和核心空间",
+        "description": "可定制空间，以满足您的团队规模和品牌需求。",
+        "color": "from-red-400 to-rose-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "专用仓库和第三方物流",
+        "description": "专用物流中心和第三方物流支持。",
+        "color": "from-rose-500 to-pink-600",
+        "size": "大的"
+      },
+      {
+        "icon": "Users",
+        "title": "智能办公桌和联合办公空间",
+        "description": "为自由职业者和精简型数字团队提供灵活、经济高效的选择。",
+        "color": "from-pink-400 to-fuchsia-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Store",
+        "title": "零售、食品大厅和售货亭",
+        "description": "为品牌提供活动场地、会议室和快闪店搭建服务。",
+        "color": "from-fuchsia-400 to-purple-600",
+        "size": "小的"
+      }
+    ]
+  },
+  "digitalSupportSection": {
+    "badge": "持续的数字化业务支持",
+    "title": "技术与数字化发展支持（搭建后）",
+    "titleHighlight": "安装后",
+    "subtitle": "我们不仅为您构建 DCC 企业，还帮助您扩展规模。",
+    "items": [
+      {
+        "icon": "Globe",
+        "label": "网站及电子商务网站开发"
+      },
+      {
+        "icon": "Database",
+        "label": "CRM、ERP 和 CMS 集成"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "搜索引擎优化和数字营销服务"
+      },
+      {
+        "icon": "Store",
+        "label": "市场列表和内容优化"
+      },
+      {
+        "icon": "Cpu",
+        "label": "人工智能解决方案与区块链集成"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "支付网关设置"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "商标注册与品牌推广"
+      }
+    ]
+  },
+  "logisticsSection": {
+    "badge": "为扩展而建",
+    "title": "DCC的物流、仓储和订单履行",
+    "titleHighlight": "DCC 中的履行",
+    "subtitle": "DCC 全天候 24 小时运营，并设有现场海关团队——在管理您的供应链方面拥有无与伦比的效率。",
+    "items": [
+      {
+        "icon": "Package",
+        "title": "保税仓库",
+        "description": "货物可以存放在安全可靠的保税仓库中，无需缴纳进出口关税。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "跨境交付管理",
+        "description": "国际仓库无缝协调，确保全球及时交付。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "库存管理中心",
+        "description": "先进的中心，用于实时控制和监控库存水平。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Route",
+        "title": "最后一公里物流解决方案",
+        "description": "在阿联酋和中东及北非地区建立完善的最后一公里配送网络，以加快订单履行速度。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "QrCode",
+        "title": "DCCWay 数字清场",
+        "description": "完全数字化的海关平台，实现快速透明的进出口审批。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Link2",
+        "title": "Logiflow区块链集成",
+        "description": "创新的区块链物流工具，可实现供应链的实时可视性和合规性。",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "现代企业的许可证",
+    "title": "迪拜商业城允许的活动",
+    "titleHighlight": "允许的活动",
+    "subtitle": "面向数字化优先行业和全球贸易的广泛商业活动。",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务和数字市场",
+        "description": "快速获得许可证批准，即可启动 B2B 或 B2C 在线商店、市场平台或代发货业务。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "title": "软件、CRM、ERP 和人工智能解决方案",
+        "description": "在迪拜科技中心开发和部署 SaaS、企业系统、CRM 平台和 AI 驱动工具。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "营销和广告公司",
+        "description": "成立数字营销公司、内容创作工作室、SEO机构和广告技术平台。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "物流、仓储和货运",
+        "description": "运营物流中心、货运代理、第三方仓储或最后一公里配送服务。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Store",
+        "title": "零售和批发贸易",
+        "description": "通过具有全球影响力的保税仓库进口、出口、分销或销售实物商品。",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Video",
+        "title": "数字媒体制作",
+        "description": "注册您的媒体公司，即可开展视频制作、后期剪辑、动画制作、播客制作和直播等业务。",
+        "color": "from-purple-400 to-violet-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "商业咨询、金融科技和教育科技",
+        "description": "提供商业咨询、金融科技、教育平台、人力资源和IT咨询服务。",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "ecoSection": {
+    "badge": "绿色创新的巅峰之作",
+    "title": "最佳环保型商业中心",
+    "titleHighlight": "环保型商业中心",
+    "image": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?w=1200&q=80",
+    "imageBadgeTitle": "绿色创新",
+    "imageBadgeText": "100% LEED认证",
+    "paragraphs": [
+      "迪拜商业城（Dubai CommerCity，简称DCC）树立了可持续商业基础设施的新标杆。作为该地区首个以可持续发展为设计理念的电子商务自由区，DCC所有建筑均获得LEED认证，符合全球能源效率和环境质量标准。",
+      "从最先进的节能物流中心到节约电力、照明和制冷的智能设计设施，每一个细节都旨在促进可持续发展。",
+      "无论您是初创企业还是跨国公司，迪拜商业城都能帮助您实现可持续和盈利的增长。"
+    ],
+    "highlights": [
+      {
+        "icon": "Leaf",
+        "label": "100% LEED认证建筑"
+      },
+      {
+        "icon": "Sun",
+        "label": "节能型物流中心"
+      },
+      {
+        "icon": "Wind",
+        "label": "智能设计设施"
+      },
+      {
+        "icon": "Recycle",
+        "label": "专用废物和回收"
+      },
+      {
+        "icon": "Globe2",
+        "label": "迪拜绿色经济愿景"
+      },
+      {
+        "icon": "TreePine",
+        "label": "减少环境足迹"
+      }
+    ]
+  },
+  "partnerSection": {
+    "badge": "借助专家力量，自信启动",
+    "title": "为什么选择与迪拜Setup Zone合作？",
+    "titleHighlight": "迪拜建站区？",
+    "subtitle": "凭借十多年的经验，我们简化了您的 DCC Free Zone 设置。",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "公司注册及商号审批"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "投资签证和就业签证"
+      },
+      {
+        "icon": "Building2",
+        "label": "办公室/仓库分配"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "银行账户协助"
+      },
+      {
+        "icon": "Shield",
+        "label": "ESR、AML 和 UBO 合规性"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "DCC许可证续期"
+      },
+      {
+        "icon": "Rocket",
+        "label": "数字发布与品牌推广"
+      }
+    ],
+    "footerText": "我们负责一切，让您可以专注于经营业务。"
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "迪拜领先的电子商务中心",
+    "titleHighlight": "电子商务中心",
+    "subtitle": "电子商务、科技和物流企业快速发展的生态系统。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "500+",
+        "label": "电子商务品牌",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "全球的",
+        "label": "数字覆盖范围",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "电子商务中心",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "生长",
+        "label": "数字经济",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "重要的",
+        "label": "区域影响",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "对于电子商务",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜商业城自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的DCC专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜商业城自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜商业城设立公司需要多长时间？",
+        "a": "凭借我们的专家建议和支持，借助 DCC 的快速许可申请流程和全数字化流程，您可以在 3-5 个工作日内完成公司设立。"
+      },
+      {
+        "q": "我可以在DCC注册哪些类型的公司？",
+        "a": "DCC 为电子商务品牌、数字市场、软件和 SaaS 公司、人工智能和技术提供商、物流和履行公司、数字营销机构、媒体制作公司和商业咨询公司提供支持。"
+      },
+      {
+        "q": "我可以在迪拜商业城拥有我公司100%的所有权吗？",
+        "a": "是的。DCC允许100%外资控股，无需阿联酋当地担保人——您对运营、利润和决策拥有完全的控制权。"
+      },
+      {
+        "q": "DCC 是否仅适用于电子商务企业？",
+        "a": "虽然DCC是阿联酋第一个专门的电子商务自由区，但它也为科技初创企业、物流供应商、数字机构、媒体制作公司和咨询公司提供支持。"
+      },
+      {
+        "q": "DCC有税吗？",
+        "a": "不。DCC 提供 0% 的企业所得税和个人所得税——这对希望服务于中东及其他地区的初创企业和全球电子商务品牌来说是一项重大优势。"
+      },
+      {
+        "q": "在DCC中我可以获得哪种类型的工作空间？",
+        "a": "DCC 提供高级精装修办公室、毛坯房、智能办公桌、联合办公空间、专用仓库、第三方物流支持、活动场地、美食广场、零售空间和可定制的物流中心。"
+      },
+      {
+        "q": "DCC的仓储和物流是如何运作的？",
+        "a": "DCC 提供 24/7 全天候运营，并配备现场报关团队。您可以享受保税仓库、跨境配送管理、库存管理中心、最后一公里物流、DCCWay 数字清关以及 Logiflow 区块链集成等服务。"
+      },
+      {
+        "q": "我可以向迪拜商业城申请工作签证吗？",
+        "a": "是的。我们负责办理投资者签证、团队工作签证以及家属担保——通过DCC提供全面的签证和移民合规支持。"
+      },
+      {
+        "q": "DCC是绿色/可持续发展自由区吗？",
+        "a": "当然。DCC拥有100% LEED认证的建筑、节能物流中心、智能设计设施以及符合迪拜绿色经济愿景的专用废物回收设施。"
+      },
+      {
+        "q": "我为什么要考虑在迪拜设立中心（Setup Zone Dubai）设立我的DCC公司？",
+        "a": "我们拥有十多年的经验，可办理公司注册、商号审批、签证、办公室/仓库分配、银行账户协助、合规（ESR、AML、UBO）、许可证续期以及数字发布和品牌推广。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的DCC设置完美搭配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在迪拜商业城开业吗？",
+    "titleHighlight": "迪拜商业城？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "3-5天安装完成",
+      "电子商务生态系统"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于迪拜商业城（Dubai CommerCity）的免费设置方案。",
+    "whatsappCardMessage": "您好！我想讨论一下迪拜商业城（Dubai CommerCity）的搭建事宜。"
+  }
+}

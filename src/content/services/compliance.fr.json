@@ -1,0 +1,372 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+  "heroBadge": "Restez en règle avec la loi",
+  "heroTitle": "Services de conformité aux Émirats arabes unis",
+  "heroTitleHighlight": "Émirats arabes unis",
+  "heroSubtitle": "Assistance réglementaire complète pour les juridictions continentales, les zones franches et les territoires offshore. ESR, UBO, impôt sur les sociétés, TVA, LCB-FT et WPS : une gestion assurée par des experts.",
+  "heroChips": [
+    "Déclaration UBO",
+    "Rapports ESR",
+    "Zéro pénalité"
+  ],
+  "stats": [
+    {
+      "icon": "Ban",
+      "value": "1 million de dirhams",
+      "label": "Amendes maximales",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "ShieldCheck",
+      "value": "100%",
+      "label": "Taux de conformité",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "FileText",
+      "value": "5+",
+      "label": "Types de classement",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Plus de 500",
+      "label": "Entreprises desservies",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "uboSection": {
+    "badge": "Déclaration UBO",
+    "title": "Qu’est-ce qu’un UBO et pourquoi est-il obligatoire ?",
+    "titleHighlight": "Obligatoire?",
+    "subtitle": "La réglementation relative aux bénéficiaires effectifs (UBO) exige que les entreprises des Émirats arabes unis divulguent qui contrôle ou bénéficie en dernier ressort de l'entreprise, même si elles opèrent par le biais d'autres entités juridiques ou de prête-noms.",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "Obligatoire",
+    "imageBadgeText": "Pour chaque entreprise des Émirats arabes unis",
+    "warningCard": {
+      "label": "Défaut de dépôt",
+      "bigNumber": "Jusqu'à 100 000 AED",
+      "text": "amendes + annulation de permis + enquêtes des autorités",
+      "ctaText": "Déposez une demande UBO maintenant",
+      "ctaMessage": "Bonjour ! J'ai besoin d'aide pour la déclaration UBO de mon entreprise aux Émirats arabes unis."
+    },
+    "checklist": [
+      "Identifier les véritables bénéficiaires effectifs",
+      "Informations sur la structure des actionnaires",
+      "Déposer une demande via le portail du ministère de l'Éducation",
+      "Évitez les sanctions administratives"
+    ]
+  },
+  "servicesSection": {
+    "badge": "Ce que nous proposons",
+    "title": "Services de conformité de bout en bout",
+    "titleHighlight": "Services",
+    "subtitle": "Tous les documents et obligations réglementaires sont gérés pour vous.",
+    "items": [
+      {
+        "icon": "Scale",
+        "title": "Conformité et dépôt ESR",
+        "description": "Évaluer l'applicabilité de l'ESR, préparer les déclarations de substances, tenir à jour les données locales sur les substances et déposer des rapports auprès du ministère des Finances.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "icon": "Receipt",
+        "title": "Impôt sur les sociétés et FTA",
+        "description": "Enregistrement fiscal des sociétés auprès de l'Autorité fiscale fédérale (FTA), conseils en matière de structure et obligations de déclaration en vertu des règles de 2024.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+      },
+      {
+        "icon": "Building2",
+        "title": "Gouvernance de la zone franche",
+        "description": "Résolutions du conseil d'administration, mises à jour pour les actionnaires, renouvellements de licences et documents réglementaires pour DMCC, IFZA, RAKEZ et DAFZA.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Fingerprint",
+        "title": "Déclarations des bénéficiaires effectifs",
+        "description": "Identifier les véritables bénéficiaires effectifs, structurer les informations sur les actionnaires et déposer les déclarations des bénéficiaires effectifs via le portail du ministère de l'Éducation.",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Conformité en matière de travail et de visas",
+        "description": "Audits des contrats de travail, conformité aux exigences du ministère des Ressources humaines et de l'Éducation, examens du statut des visas, procédures d'embauche/de licenciement.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Inscription et déclaration à la TVA",
+        "description": "Immatriculation à la TVA, déclarations mensuelles/trimestrielles et préparation aux audits de l'Autorité fiscale fédérale (FTA) — en parfaite adéquation avec votre activité.",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      }
+    ]
+  },
+  "esrSection": {
+    "badge": "Conformité ESR",
+    "title": "Qu’est-ce que l’ESR et pourquoi est-ce important ?",
+    "titleHighlight": "Pourquoi est-ce important ?",
+    "subtitle": "La réglementation sur la substance économique s'applique aux entreprises des Émirats arabes unis exerçant des activités concernées : conseil, holding, transport maritime, financement et propriété intellectuelle. Les déclarations doivent être effectuées dans les délais et être exactes afin d'éviter les sanctions.",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80",
+    "ctaText": "Obtenez du soutien ESR",
+    "ctaMessage": "Bonjour ! J'ai besoin d'aide concernant la conformité et le dépôt des dossiers ESR.",
+    "infoTable": [
+      {
+        "label": "Activités applicables",
+        "value": "Conseil, holding, transport maritime, propriété intellectuelle"
+      },
+      {
+        "label": "Portail de dépôt",
+        "value": "ministère des Finances"
+      },
+      {
+        "label": "Fréquence de dépôt",
+        "value": "Notification annuelle + Rapport"
+      },
+      {
+        "label": "Pénalités",
+        "value": "Jusqu'à 500 000 AED + suspension de permis"
+      }
+    ],
+    "imageBadgeTitle": "Déposé",
+    "imageBadgeText": "Rapport ESR 2025",
+    "deadlineLabel": "Prochaine échéance",
+    "deadlineValue": "2e trimestre 2026",
+    "deadlineDays": "Il reste 128 jours"
+  },
+  "whoNeedsSection": {
+    "badge": "Qui en a besoin ?",
+    "title": "Qui a besoin de services de conformité ?",
+    "titleHighlight": "Services de conformité ?",
+    "subtitle": "Toutes les entreprises des Émirats arabes unis, quelle que soit leur taille ou leur juridiction.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Entreprises multinationales du continent",
+        "description": "Les LLC et succursales du continent américain opérant dans plusieurs juridictions doivent se conformer à la réglementation ESR, à l'impôt sur les sociétés et au ministère des Ressources humaines et de l'Économie.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Scale",
+        "title": "DNFBP",
+        "description": "Immobilier, services juridiques, comptabilité, commerce de l'or : l'inscription à goAML et la nomination d'un responsable de la conformité sont obligatoires.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Conformité WPS et du travail",
+        "description": "Les entreprises qui embauchent des travailleurs expatriés doivent s'assurer que les contrats respectent le droit du travail des Émirats arabes unis et les normes WPS.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "FileSearch",
+        "title": "Entreprises sous audit",
+        "description": "Les entités soumises à un audit de TVA, d'impôt ou du ministère des Ressources humaines et de l'Émiratisation doivent disposer d'une documentation financière, fiscale, de paie et de droit du travail appropriée.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Entreprises en expansion de zones franches",
+        "description": "Les entreprises relevant des zones DMCC, IFZA, RAKEZ et DAFZA, qui se développent ou se restructurent, doivent faire l'objet d'un examen de conformité.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Sociétés offshore",
+        "description": "RAK ICC, JAFZA Offshore — doivent déclarer les bénéficiaires effectifs, déposer des rapports ESR et maintenir leur conformité annuelle.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "risksSection": {
+    "badge": "Avertissement — Risques liés à la non-conformité",
+    "title": "Que se passe-t-il lorsque vous ne vous conformez pas ?",
+    "titleHighlight": "Ne vous conformez pas",
+    "subtitle": "Des sanctions, des problèmes de licence et une atteinte à la réputation attendent les contrevenants.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&q=80",
+    "items": [
+      {
+        "icon": "Ban",
+        "title": "Suspension ou annulation de permis",
+        "description": "Le défaut de déclaration ESR, UBO ou impôt sur les sociétés peut entraîner la suspension ou l'annulation de votre licence d'exploitation.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Amendes jusqu'à 500 000 AED",
+        "description": "L'Autorité fédérale des marchés (FTA), le ministère des Ressources humaines et de l'Émiratisation (MoHRE) ou les zones franches imposent des amendes — de 10 000 AED pour les infractions mineures à 500 000 AED pour les infractions graves.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "XCircle",
+        "title": "Refus de visa",
+        "description": "Le ministère des Ressources humaines et de l'Émiratisation (MoHRE) et les services d'immigration exigent des contrats de travail, des WPS et des documents à jour — les erreurs entraînent le refus des visas.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "TrendingDown",
+        "title": "Retards bancaires",
+        "description": "Des déclarations ESR/UBO incomplètes ou des problèmes fiscaux retardent ou refusent l'ouverture de comptes bancaires et de facilités de crédit.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "Responsabilité juridique personnelle",
+        "description": "Les administrateurs et les actionnaires peuvent se voir infliger des amendes personnelles, une disqualification, voire des poursuites pénales.",
+        "color": "from-red-500 to-red-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Respectez la réglementation à 100 %. Aucune pénalité.",
+    "titleHighlight": "Zéro pénalité.",
+    "subtitle": "Nous surveillons chaque échéance, déposons chaque rapport et veillons à ce que votre entreprise reste pleinement conforme aux lois des Émirats arabes unis, que ce soit sur le territoire continental, dans les zones franches ou dans les juridictions offshore.",
+    "ctaText": "Parlez à un expert en conformité",
+    "ctaMessage": "Bonjour ! J'aimerais en savoir plus sur vos services de conformité.",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+    "features": [
+      {
+        "icon": "Award",
+        "label": "Expertise approfondie en matière de réglementation des Émirats arabes unis"
+      },
+      {
+        "icon": "Globe",
+        "label": "Terres continentales, zones franches et zones offshore"
+      },
+      {
+        "icon": "Clock",
+        "label": "Surveillance des échéances en temps réel"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Conformité MOF, FTA, MoHRE"
+      },
+      {
+        "icon": "Eye",
+        "label": "Tarification entièrement transparente"
+      },
+      {
+        "icon": "Lock",
+        "label": "Normes locales et mondiales"
+      }
+    ],
+    "dashboard": {
+      "complianceScore": "100%",
+      "complianceScoreLabel": "✓ Entièrement conforme",
+      "filingsPending": "0",
+      "filingsPendingLabel": "Tous les articles soumis",
+      "checklist": [
+        {
+          "label": "Déclaration UBO",
+          "status": "Déposé"
+        },
+        {
+          "label": "Rapport ESR",
+          "status": "Déposé"
+        },
+        {
+          "label": "Impôt sur les sociétés",
+          "status": "Inscrit"
+        },
+        {
+          "label": "Déclaration de TVA",
+          "status": "À jour"
+        },
+        {
+          "label": "WPS Paie",
+          "status": "Conforme"
+        }
+      ]
+    }
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la conformité aux Émirats arabes unis. Vous avez encore des questions ? Contactez-nous.",
+    "sidebarCard": {
+      "title": "Obtenez un audit de conformité gratuit",
+      "text": "Nous examinerons votre entreprise et mettrons en évidence toute lacune en matière de conformité.",
+      "whatsappMessage": "Bonjour ! Je souhaiterais un audit de conformité gratuit pour mon entreprise."
+    },
+    "items": [
+      {
+        "q": "Qu’est-ce que la conformité des entreprises aux Émirats arabes unis, et pourquoi est-elle importante ?",
+        "a": "La conformité des entreprises aux Émirats arabes unis implique le respect des obligations réglementaires : ESR, UBO, impôt sur les sociétés, TVA, lutte contre le blanchiment d’argent et le financement du terrorisme (LCB-FT) et droit du travail. Elle garantit le maintien des licences, des services bancaires et la protection juridique de votre entreprise."
+      },
+      {
+        "q": "Qui doit déposer des déclarations de substance économique (ESR) aux Émirats arabes unis ?",
+        "a": "Le régime ESR s'applique aux entreprises exerçant des activités concernées : conseil, holding, transport maritime, financement et propriété intellectuelle. Elles doivent déposer des notifications et des rapports ESR auprès du ministère des Finances."
+      },
+      {
+        "q": "Que se passe-t-il si je manque les délais de déclaration de mon bénéficiaire effectif ?",
+        "a": "Amendes pouvant atteindre 100 000 AED, annulation de licence et enquêtes des zones franches ou du DED : nous vous aidons à éviter ces désagréments grâce à des déclarations précises et déposées dans les délais."
+      },
+      {
+        "q": "L'impôt sur les sociétés est-il obligatoire pour les entreprises situées en zone franche ?",
+        "a": "Oui. Les entreprises des zones franches doivent s'enregistrer à l'impôt sur les sociétés. Les revenus éligibles peuvent bénéficier d'un taux de 0 % ; les revenus non éligibles sont imposés à 9 %."
+      },
+      {
+        "q": "Les petites entreprises ont-elles besoin de services de conformité aux Émirats arabes unis ?",
+        "a": "Absolument. Les obligations relatives à l'ESR, à l'UBO, à la TVA et au WPS s'appliquent à toutes les entreprises enregistrées, quelle que soit leur taille."
+      },
+      {
+        "q": "Qu’est-ce que la conformité en matière de LBC/FT et qui doit s’y conformer ?",
+        "a": "Lutte contre le blanchiment d'argent et le financement du terrorisme. Les entreprises non financières désignées (immobilier, services juridiques, comptabilité, or) doivent s'enregistrer auprès de goAML et désigner un responsable de la conformité."
+      },
+      {
+        "q": "Qu'est-ce que le WPS et comment puis-je m'y conformer ?",
+        "a": "Système de protection des salaires. Les employeurs doivent verser les salaires par le biais de comptes bancaires liés au WPS et tenir des registres conformes aux exigences du ministère des Ressources humaines et de l'Émiratisation."
+      },
+      {
+        "q": "Accepteriez-vous de m'aider lors d'un audit gouvernemental ?",
+        "a": "Oui. Nous préparons toute la documentation, vous représentons auprès du MOF/FTA/MoHRE et assurons une clôture d'audit sans problème."
+      },
+      {
+        "q": "Quelles sont les sanctions en cas de non-respect ?",
+        "a": "Amendes pouvant atteindre plus de 500 000 AED, suspension de licence, refus de visa, retards bancaires et responsabilité juridique personnelle des administrateurs."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui s'accordent parfaitement avec la conformité.",
+    "items": [
+      {
+        "slug": "corporate-tax-vat",
+        "title": "Impôt sur les sociétés et TVA",
+        "description": "Conseils fiscaux d'experts, inscription à l'ALE et conformité.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "accounting",
+        "title": "Comptabilité",
+        "description": "Comptabilité, TVA et rapports financiers.",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Restez conforme",
+    "title": "Prêt à rester pleinement conforme ?",
+    "titleHighlight": "Entièrement conforme ?",
+    "subtitle": "Obtenez un audit de conformité gratuit. Nous identifierons les lacunes, les corrigerons rapidement et protégerons votre entreprise contre les sanctions.",
+    "chips": [
+      "Audit gratuit",
+      "Zéro pénalité",
+      "Conformité totale"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais un audit de conformité gratuit pour mon entreprise.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais discuter des questions de conformité pour mon entreprise."
+  }
+}

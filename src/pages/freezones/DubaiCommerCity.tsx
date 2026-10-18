@@ -20,7 +20,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dccData from '../../content/freezones/dubai-commer-city.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -30,9 +31,10 @@ const iconMap: any = {
   Video, Link2, Leaf, Recycle, Sun, Wind, TreePine, Globe2, Plane, Route,
   RefreshCw,
 };
-
 export default function DubaiCommerCity({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dccData;
+  const { language } = useLanguage();
+  const dccFallback = loadContent('freezones/dubai-commer-city', language);
+  const data = tinaData?.data?.freeZones || dccFallback;
 
   return (
     <div className="min-h-screen bg-white">

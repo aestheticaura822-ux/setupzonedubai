@@ -1,0 +1,402 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1600&q=80",
+  "heroBadge": "Internationale Freizone des Flughafens Sharjah",
+  "heroTitle": "SAIF Freihandelszone",
+  "heroTitleHighlight": "Freizone",
+  "heroSubtitle": "Eine der strategisch günstigsten Freihandelszonen der VAE – direkt neben dem internationalen Flughafen Sharjah und mit direktem Zugang zu wichtigen Autobahnen und Seehäfen. Ideal für Logistik, Produktion und internationalen Handel.",
+  "heroChips": [
+    "Einrichtung am selben Tag",
+    "0 % Steuer",
+    "Flughafenangrenzend"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "Am selben Tag",
+      "label": "Anmeldung",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuern und Zölle",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Plane",
+      "value": "Flughafen",
+      "label": "Angrenzende Zone",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whySaifSection": {
+    "badge": "Warum SAIF Zone",
+    "title": "Vorteile der Gründung in der SAIF-Freizone",
+    "titleHighlight": "SAIF Freihandelszone",
+    "subtitle": "Eine der strategisch günstigsten Freihandelszonen der VAE.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "description": "Volle Kontrolle über Entscheidungen, Gewinn und Geschäftsabläufe.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "klein"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0 % Unternehmens- und Einkommensteuer",
+        "description": "Keine Einkommensteuer, keine Unternehmenssteuer – mehr Netto zur freien Verfügung, mehr Kapitalanlage.",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "klein"
+      },
+      {
+        "icon": "Package",
+        "title": "Keine Einfuhr-/Ausfuhrgebühren",
+        "description": "Innerhalb der Zone sind alle Importe und Exporte von Zöllen befreit.",
+        "color": "from-cyan-400 to-sky-600",
+        "size": "klein"
+      },
+      {
+        "icon": "Plane",
+        "title": "Erstklassige Lage direkt neben dem Flughafen Sharjah",
+        "description": "Direkter Zugang zu den wichtigsten Autobahnen und Seehäfen der VAE – ideal für Logistik, Vertrieb, Spedition und internationalen Handel.",
+        "color": "from-sky-400 to-blue-600",
+        "size": "groß"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Einrichtungszeit",
+        "description": "Registrierung am selben Tag mit sofortiger Lizenzgenehmigung und vollständiger digitaler Dokumentation.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "klein"
+      },
+      {
+        "icon": "Building2",
+        "title": "Vielfältige Einrichtungen",
+        "description": "Bezugsfertige Büros, Gewerbeeinheiten, Lagerhallen und individuell anpassbare Grundstücksflächen.",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "klein"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lizenzarten",
+    "title": "Wählen Sie die richtige SAIF-Lizenz",
+    "titleHighlight": "SAIF-Lizenz",
+    "subtitle": "Schnell, einfach und präzise – wir helfen Ihnen bei der Auswahl basierend auf Ihrer Geschäftstätigkeit.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Gewerbelizenz",
+        "description": "Für allgemeinen Handel, Import/Export und Großhandel.",
+        "code": "COM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Dienstleistungslizenz",
+        "description": "Für Beratungs-, Rechts-, Personal- und Logistikdienstleistungen.",
+        "code": "SRV",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Industrielizenz",
+        "description": "Für Fertigungs-, Verarbeitungs- und Montagevorgänge.",
+        "code": "IND",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce-Lizenz",
+        "description": "Für Online-Unternehmen und digitale Handelsplattformen.",
+        "code": "ECM",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Genehmigungen für Freiberufler und Startups",
+        "description": "Speziallizenzen für einzelne Freiberufler und Gründer von Startups.",
+        "code": "FRL",
+        "color": "from-emerald-500 to-green-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Wie wir helfen",
+    "title": "Von der Gründung bis zur Skalierung – Jeder Schritt wird sorgfältig abgewickelt",
+    "titleHighlight": "Jeder Schritt wird erledigt",
+    "subtitle": "Ihre komplette SAIF Free Zone-Einrichtung, von Anfang bis Ende.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Aktivitätsauswahl & Namensreservierung",
+        "description": "Wir helfen Ihnen bei der Auswahl der am besten geeigneten SAIF-Geschäftstätigkeit und reservieren einen einzigartigen Firmennamen gemäß den SAIF-Bestimmungen.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "Firmengründung & Lizenzantrag",
+        "description": "Unser Team reicht alle Dokumente und Formulare ein, um Ihre SAIF-Gewerbelizenz zu erhalten – sei es für Handel, Industrie oder Dienstleistungen.",
+        "icon": "FileText",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "Visa-Prozess & Gründungskarte",
+        "description": "Wir erleichtern Ihnen die Beantragung von Investoren- oder Mitarbeitervisa sowie der SAIF-Niederlassungskarte.",
+        "icon": "UserCheck",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "Büro- oder Lagerauswahl",
+        "description": "Wir bieten Ihnen eine Liste von Büroflächen, leichten Industriehallen oder Lagerhallen, die Ihren Plänen und Ihrem Budget entsprechen.",
+        "icon": "Warehouse",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "Bankkonto & Dokumentenbeglaubigung",
+        "description": "Wir eröffnen Ihr Firmenbankkonto und beglaubigen/bestätigen Dokumente, falls erforderlich.",
+        "icon": "CreditCard",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "06",
+        "title": "PRO-Dienstleistungen & Medizinische Registrierung",
+        "description": "Wir kümmern uns um medizinische Untersuchungen, Emirates ID, Visastempelung, Arbeitsgenehmigungen und Verlängerungen – alles aus einer Hand.",
+        "icon": "ClipboardCheck",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      },
+      {
+        "step": "07",
+        "title": "Lizenzverlängerung & Einhaltung der Vorschriften",
+        "description": "Unser Compliance-Team sorgt durch fristgerechte Verlängerungen dafür, dass Ihr Unternehmen aktiv und jederzeit auditbereit ist.",
+        "icon": "RefreshCw",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "step": "08",
+        "title": "Rechtliche Unterstützung für UBO, ESR und AML",
+        "description": "Beratung und Unterstützung bei der Einreichung von Unterlagen zur Einhaltung der Vorschriften für untergeordnete Unternehmen (UBO), wirtschaftliche Sicherheit (ESR) und Geldwäschebekämpfung (AML) gemäß dem Recht der VAE.",
+        "icon": "ShieldCheck",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+      }
+    ]
+  },
+  "digitalGrowthSection": {
+    "badge": "Digitales Wachstum",
+    "title": "Kann man bei SAIF digital wachsen?",
+    "titleHighlight": "Digital in SAIF?",
+    "subtitle": "Absolut! Ihre Reise endet nicht mit der Lizenzierung – wir bauen eine zukunftssichere digitale Präsenz auf.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Website- und E-Commerce-Entwicklung",
+        "description": "Moderne, responsive Websites und Online-Shops.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM- und CMS-Integration",
+        "description": "Optimierte Abläufe für SAIF-Unternehmen.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Search",
+        "title": "SEO-Dienstleistungen in Sharjah und den VAE",
+        "description": "Bessere Platzierung bei Google und mehr organischer Traffic.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Einrichtung des Zahlungsgateways",
+        "description": "Integrieren Sie sichere Zahlungslösungen.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Social Media & PPC-Anzeigen",
+        "description": "Gezielte Kampagnen mit hoher Konversionsrate.",
+        "color": "from-emerald-500 to-green-600"
+      },
+      {
+        "icon": "Award",
+        "title": "Markenanmeldung & Marke",
+        "description": "Schützen und stärken Sie Ihre Markenidentität.",
+        "color": "from-teal-500 to-cyan-600"
+      }
+    ]
+  },
+  "liquidationSection": {
+    "badge": "Liquidation & Compliance",
+    "title": "Einfacher Unternehmensausstieg",
+    "titleHighlight": "Ganz einfach",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "100% legal",
+    "imageBadgeText": "Konformer Ausgang",
+    "paragraphs": [
+      "Wenn Sie bereit sind, Ihr Unternehmen in SAIF zu schließen oder aus diesem auszutreten, gestalten wir den gesamten Liquidationsprozess einfach, legal und unkompliziert.",
+      "Wir begleichen offene Rechnungen, annullieren Mitarbeitervisa, befolgen alle Offboarding-Verfahren und deaktivieren Ihre Geschäftslizenz bei den SAIF-Behörden.",
+      "Wir kümmern uns auch um Vermögensübertragungen, Abschlussprüfungen und die Einholung aller notwendigen Unbedenklichkeitsbescheinigungen (NOCs) – damit Sie Ihr Unternehmen mit vollem Vertrauen verlassen können."
+    ],
+    "highlights": [
+      "Rechnungsfreigabe",
+      "Visumstornierung",
+      "Lizenzdeaktivierung",
+      "Vermögensübertragung",
+      "Abschlussprüfung",
+      "NOC-Unterstützung"
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Zulässige Aktivitäten",
+    "title": "Welche Aktivitäten sind in der SAIF-Freizone erlaubt?",
+    "titleHighlight": "SAIF Freihandelszone?",
+    "subtitle": "Eine der vielfältigsten und vielseitigsten Listen von Geschäftsaktivitäten aller Freizonen der VAE.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Handel & Import/Export",
+        "description": "Großhandelsvertrieb mit beschleunigtem Lizenzierungsverfahren.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Lagerhaltung & Logistik",
+        "description": "In der Nähe des Flughafens Sharjah und wichtiger Seehäfen.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Fertigung & Montage",
+        "description": "Leichte Montage, Verpackung, Elektronik und Druck.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Technologie- und IT-Dienstleistungen",
+        "description": "Softwareentwicklung und digitale Dienstleistungen.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Marketing & Medien",
+        "description": "Beratungs-, Medien- und Content-Erstellungsfirmen.",
+        "color": "from-emerald-500 to-green-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Luftfahrtdienstleistungen",
+        "description": "Unternehmen in Flughafennähe und Speditionsbetriebe.",
+        "color": "from-teal-500 to-cyan-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die SAIF Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren SAIF-Spezialisten beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zur SAIF Free Zone."
+    },
+    "items": [
+      {
+        "q": "Wie ist das Verfahren zur Registrierung eines neuen Unternehmens in der SAIF Free Zone?",
+        "a": "Wählen Sie eine Lizenz (Gewerbe, Dienstleistung, Industrie oder E-Commerce), Ihre Geschäftstätigkeit, reservieren Sie einen Firmennamen, reichen Sie Dokumente ein, beantragen Sie Ihr Visum und Ihre Gewerbeerlaubnis und mieten Sie ein Büro oder ein Lager. Wir übernehmen all diese Schritte für Sie."
+      },
+      {
+        "q": "Wie lange dauert die Registrierung eines Unternehmens in der SAIF Zone?",
+        "a": "Die SAIF Free Zone bietet eine Registrierung am selben Tag mit sofortiger Lizenzgenehmigung. Die vollständige Einrichtung ist in der Regel innerhalb von 2–5 Werktagen abgeschlossen."
+      },
+      {
+        "q": "Welche Arten von Gewerbelizenzen sind in der SAIF-Zone erhältlich?",
+        "a": "Gewerbe-, Dienstleistungs-, Industrie- und E-Commerce-Lizenzen sowie Genehmigungen für Freiberufler und Startups – jede einzelne zugeschnitten auf unterschiedliche Geschäftstätigkeiten."
+      },
+      {
+        "q": "Kann ich als Ausländer rechtmäßig 100%iges Eigentum an meiner SAIF-Firma besitzen?",
+        "a": "Ja. Die SAIF Free Zone erlaubt 100% ausländisches Eigentum – ein lokaler Sponsor ist nicht erforderlich."
+      },
+      {
+        "q": "Welche Steuervorteile bietet die SAIF Free Zone?",
+        "a": "Keine Einkommensteuer für Privatpersonen und Unternehmen, keine Zölle auf Importe und Exporte und vollständige Rückführung der Gewinne."
+      },
+      {
+        "q": "Welche Einrichtungen werden in der SAIF-Freizone angeboten?",
+        "a": "Sofort nutzbare Büroflächen, leichte Industriehallen, Lagerhallen und individuell gestaltbare Industriegrundstücke."
+      },
+      {
+        "q": "Ist die SAIF-Freizone eine gute Option für Logistik- und/oder Produktionsunternehmen?",
+        "a": "Absolut. SAIF liegt direkt neben dem internationalen Flughafen Sharjah und bietet direkten Zugang zu wichtigen Autobahnen und Seehäfen – ideal für Logistik, Vertrieb, Spedition, Fertigung und Montage."
+      },
+      {
+        "q": "Ist es möglich, Hilfe bei SAIF-Visadienstleistungen zu erhalten?",
+        "a": "Ja. Wir kümmern uns um Investorenvisa, Mitarbeitervisa, Familienzusammenführung, Emirates ID, medizinische Untersuchungen und Verlängerungen."
+      },
+      {
+        "q": "Welche Compliance-Dienstleistungen benötigen SAIF-Unternehmen?",
+        "a": "UBO-Meldepflichten, ESR-Einreichungen, Einhaltung der AML-Vorschriften, Lizenzverlängerungen und laufende regulatorische Überwachung."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrer SAIF Free Zone-Konfiguration passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "PRO-Dienstleistungen",
+        "description": "Emirates ID, Arbeitskarten, Visastempelung und -verlängerungen.",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute!",
+    "title": "Bereit für den Start in SAIF?",
+    "titleHighlight": "SAIF?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess – von der Lizenzierung bis zum Launch.",
+    "chips": [
+      "Kostenlose Beratung",
+      "Einrichtung am selben Tag",
+      "0 % Steuer"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung von SAIF.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über die Einrichtung von SAIF sprechen."
+  }
+}

@@ -1,0 +1,406 @@
+{
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Zonas francas",
+                 "breadcrumbLabel":  "Distrito de diseño de Dubái",
+                 "badge":  "Distrito de diseño de Dubái",
+                 "title":  "Distrito de diseño de Dubái",
+                 "titleHighlight":  "Distrito del diseño",
+                 "subtitle":  "La primera zona franca creativa de Oriente Medio dedicada al diseño, la moda, el arte y la cultura. Lanza tu negocio creativo en el centro de diseño insignia de Dubái.",
+                 "ctaPrimaryText":  "Obtén una consulta gratuita",
+                 "ctaPrimaryLink":  "#contacto",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "¡Hola! Estoy interesado en la creaciÁ³n de la Zona Franca del Distrito de Diseño de Dubái.",
+                 "badges":  [
+                                "Propiedad al 100%",
+                                "0% de impuestos",
+                                "Centro creativo",
+                                "InstalaciÁ³n en 3-5 dÁ­as"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Edificio 2",
+                      "value":  "Más de 500",
+                      "label":  "Marcas creativas",
+                      "color":  "de rosa 400 a rosa 600"
+                  },
+                  {
+                      "icon":  "Globo",
+                      "value":  "100%",
+                      "label":  "Propiedad extranjera",
+                      "color":  "de rosa 400 a fucsia 600"
+                  },
+                  {
+                      "icon":  "Signo de dÁ³lar",
+                      "value":  "0%",
+                      "label":  "Tasa impositiva",
+                      "color":  "de esmeralda 400 a verde azulado 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "3-5",
+                      "label":  "ConfiguraciÁ³n de dÁ­as",
+                      "color":  "de fucsia-400 a pÁºrpura-600"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "Centro creativo D3",
+                          "totalLabel":  "Zona",
+                          "totalValue":  "Dubái, Emiratos Árabes Unidos",
+                          "statusBadge":  "Activo",
+                          "metrics":  [
+                                          {
+                                              "label":  "Tiempo de configuraciÁ³n",
+                                              "value":  "3-5 dÁ­as",
+                                              "color":  "texto-rosa-600"
+                                          },
+                                          {
+                                              "label":  "Marcas",
+                                              "value":  "Más de 500",
+                                              "color":  "texto-rosa-600"
+                                          }
+                                      ]
+                      },
+    "startInStyle":  {
+                         "badge":  "Comienza con estilo",
+                         "title":  "Comienza con estilo en el Distrito de Diseño de Dubái.",
+                         "titleHighlight":  "Distrito de diseño de Dubái",
+                         "subtitle":  "La capital creativa de la regiÁ³n para diseñadores, artistas y emprendedores de la moda.",
+                         "smallCards":  [
+                                            {
+                                                "icon":  "Globo",
+                                                "title":  "Propiedad 100% extranjera",
+                                                "description":  "Propiedad total sin necesidad de patrocinador local: control absoluto sobre tu marca creativa.",
+                                                "color":  "de rosa 400 a rosa 600"
+                                            },
+                                            {
+                                                "icon":  "Signo de dÁ³lar",
+                                                "title":  "Entorno fiscal del 0%",
+                                                "description":  "Sin impuestos sobre la renta corporativa ni personal: maximiza las ganancias de tu negocio creativo.",
+                                                "color":  "de esmeralda 400 a verde azulado 600"
+                                            },
+                                            {
+                                                "icon":  "Destellos",
+                                                "title":  "Comunidad creativa",
+                                                "description":  "Ášnete a un prÁ³spero ecosistema de diseñadores, artistas y emprendedores creativos de todo el mundo.",
+                                                "color":  "de fucsia-400 a pÁºrpura-600"
+                                            }
+                                        ],
+                         "largeCard":  {
+                                           "title":  "Donde el diseño se une a los negocios.",
+                                           "description":  "D3 es el centro creativo de la regiÁ³n: sede de casas de moda, estudios de diseño, galerÁ­as de arte y agencias creativas. Un distrito diseñado especÁ­ficamente para la economÁ­a creativa.",
+                                           "image":  "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600\u0026q=80"
+                                       }
+                     },
+    "activitiesSection":  {
+                              "badge":  "Actividades de negocio",
+                              "title":  "Actividades creativas en D3",
+                              "titleHighlight":  "en D3",
+                              "subtitle":  "Se permite una amplia gama de actividades empresariales creativas y centradas en el diseño.",
+                              "items":  [
+                                            {
+                                                "icon":  "Paleta",
+                                                "title":  "Diseño y marca",
+                                                "description":  "Agencias de diseño gráfico, branding y creatividad.",
+                                                "image":  "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800\u0026q=80",
+                                                "color":  "de rosa 400 a rosa 600"
+                                            },
+                                            {
+                                                "icon":  "Camisa",
+                                                "title":  "Moda y textiles",
+                                                "description":  "Casas de moda, diseño textil y marcas de ropa.",
+                                                "image":  "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800\u0026q=80",
+                                                "color":  "de rosa 400 a fucsia 600"
+                                            },
+                                            {
+                                                "icon":  "Cámara",
+                                                "title":  "Artes visuales y fotografÁ­a",
+                                                "description":  "Estudios fotográficos, artes visuales y contenido creativo.",
+                                                "image":  "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800\u0026q=80",
+                                                "color":  "de fucsia-400 a pÁºrpura-600"
+                                            }
+                                        ]
+                          },
+    "workspacesSection":  {
+                              "badge":  "Espacios de trabajo",
+                              "title":  "Espacios de trabajo en D3",
+                              "titleHighlight":  "en D3",
+                              "subtitle":  "Espacios de trabajo creativos diseñados especÁ­ficamente para cada etapa de su negocio.",
+                              "items":  [
+                                            {
+                                                "icon":  "Destellos",
+                                                "title":  "Escritorios compartidos",
+                                                "description":  "Espacios de coworking flexibles para autÁ³nomos.",
+                                                "color":  "de rosa 400 a rosa 600"
+                                            },
+                                            {
+                                                "icon":  "Paleta",
+                                                "title":  "Estudios",
+                                                "description":  "Estudios creativos de diseño y moda.",
+                                                "color":  "de rosa 400 a fucsia 600"
+                                            },
+                                            {
+                                                "icon":  "Edificio 2",
+                                                "title":  "Oficinas equipadas",
+                                                "description":  "Oficinas listas para entrar a trabajar, ideales para equipos creativos.",
+                                                "color":  "de fucsia-400 a pÁºrpura-600"
+                                            },
+                                            {
+                                                "icon":  "Almacenar",
+                                                "title":  "Espacios comerciales",
+                                                "description":  "Tiendas boutique de marcas de moda.",
+                                                "color":  "de morado 400 a violeta 600"
+                                            },
+                                            {
+                                                "icon":  "Capas",
+                                                "title":  "Estructura y nÁºcleo",
+                                                "description":  "Espacios personalizables para conceptos creativos.",
+                                                "color":  "de violeta 400 a Á­ndigo 600"
+                                            }
+                                        ]
+                          },
+    "visaServicesSection":  {
+                                "badge":  "Servicios de visado",
+                                "title":  "Servicios de visado en D3",
+                                "titleHighlight":  "en D3",
+                                "subtitle":  "Asistencia completa con los visados para usted y su equipo creativo.",
+                                "items":  [
+                                              {
+                                                  "icon":  "VerificaciÁ³n de usuario",
+                                                  "title":  "Visa de inversionista",
+                                                  "description":  "Para propietarios de negocios y accionistas.",
+                                                  "stampColor":  "de rosa 500 a rosa 600"
+                                              },
+                                              {
+                                                  "icon":  "MaletÁ­n",
+                                                  "title":  "Visa de trabajo",
+                                                  "description":  "Para el personal creativo y los miembros del equipo.",
+                                                  "stampColor":  "de rosa 500 a fucsia 600"
+                                              },
+                                              {
+                                                  "icon":  "Insignia de archivo",
+                                                  "title":  "Visa de autÁ³nomo",
+                                                  "description":  "Para creativos y consultores independientes.",
+                                                  "stampColor":  "de fucsia-500 a pÁºrpura-600"
+                                              },
+                                              {
+                                                  "icon":  "Usuarios",
+                                                  "title":  "Visa familiar",
+                                                  "description":  "Para el cÁ³nyuge, los hijos y las personas a cargo.",
+                                                  "stampColor":  "de morado 500 a violeta 600"
+                                              },
+                                              {
+                                                  "icon":  "ActualizarCw",
+                                                  "title":  "RenovaciÁ³n de visa",
+                                                  "description":  "GestiÁ³n integral del ciclo de vida de los visados.",
+                                                  "stampColor":  "de violeta 500 a Á­ndigo 600"
+                                              },
+                                              {
+                                                  "icon":  "Enviar",
+                                                  "title":  "CancelaciÁ³n de visa",
+                                                  "description":  "Servicios de cancelaciÁ³n de visa que cumplen con la normativa.",
+                                                  "stampColor":  "de Á­ndigo 500 a azul 600"
+                                              }
+                                          ]
+                            },
+    "growthSupportSection":  {
+                                 "badge":  "Apoyo al crecimiento",
+                                 "title":  "Haz crecer tu negocio creativo",
+                                 "titleHighlight":  "Negocios creativos",
+                                 "subtitle":  "Más allá de la configuraciÁ³n inicial, ayudamos a que tu marca creativa crezca con servicios estratégicos.",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Megáfono",
+                                                   "title":  "Marketing y relaciones pÁºblicas",
+                                                   "description":  "Servicios de marketing y relaciones pÁºblicas para marcas creativas.",
+                                                   "color":  "de rosa 400 a rosa 600"
+                                               },
+                                               {
+                                                   "icon":  "Tendencia al alza",
+                                                   "title":  "Desarrollo empresarial",
+                                                   "description":  "Estrategia de crecimiento y oportunidades de colaboraciÁ³n.",
+                                                   "color":  "de rosa 400 a fucsia 600"
+                                               },
+                                               {
+                                                   "icon":  "Gráfico de barras3",
+                                                   "title":  "InvestigaciÁ³n de mercado",
+                                                   "description":  "InformaciÁ³n sobre la industria creativa regional.",
+                                                   "color":  "de fucsia-400 a pÁºrpura-600"
+                                               },
+                                               {
+                                                   "icon":  "UPC",
+                                                   "title":  "TransformaciÁ³n digital",
+                                                   "description":  "Soluciones de comercio electrÁ³nico, web y tecnologÁ­a para marcas creativas.",
+                                                   "color":  "de morado 400 a violeta 600"
+                                               }
+                                           ]
+                             },
+    "strategicSection":  {
+                             "badge":  "UbicaciÁ³n estratégica",
+                             "title":  "Ubicado en el corazÁ³n de Dubái.",
+                             "titleHighlight":  "El corazÁ³n de Dubái",
+                             "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                             "imageBadgeTitle":  "UbicaciÁ³n",
+                             "imageBadgeText":  "Centro de Dubái",
+                             "items":  [
+                                           {
+                                               "icon":  "Pin del mapa",
+                                               "title":  "UbicaciÁ³n privilegiada",
+                                               "description":  "Junto al Burj Khalifa, el Dubai Mall y el Canal de Dubái."
+                                           },
+                                           {
+                                               "icon":  "AviÁ³n",
+                                               "title":  "A 20 minutos de Dubái",
+                                               "description":  "Acceso rápido al Aeropuerto Internacional de Dubái."
+                                           },
+                                           {
+                                               "icon":  "Edificio 2",
+                                               "title":  "Comunidad conectada",
+                                               "description":  "Distrito peatonal con galerÁ­as, cafeterÁ­as y centros de diseño."
+                                           },
+                                           {
+                                               "icon":  "Globo",
+                                               "title":  "Alcance global",
+                                               "description":  "Acceso directo a los mercados regionales e internacionales."
+                                           },
+                                           {
+                                               "icon":  "CorazÁ³n",
+                                               "title":  "Estilo de vida creativo",
+                                               "description":  "Vive, trabaja y diviértete en un barrio creativo y vibrante."
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "¿Por qué elegirnos?",
+                               "title":  "Su socio para la configuraciÁ³n de D3",
+                               "titleHighlight":  "Socio de configuraciÁ³n",
+                               "subtitle":  "Cientos de empresas creativas en Dubái confÁ­an en nosotros.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Otorgar",
+                                                 "title":  "Experiencia en la industria creativa",
+                                                 "description":  "Comprendemos las necesidades especÁ­ficas de diseñadores, artistas y marcas de moda.",
+                                                 "color":  "de rosa 400 a rosa 600",
+                                                 "image":  "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800\u0026q=80"
+                                             },
+                                             {
+                                                 "icon":  "Borrar",
+                                                 "title":  "Entrega rápida",
+                                                 "description":  "La configuraciÁ³n se completa en 3-5 dÁ­as con procesamiento prioritario.",
+                                                 "color":  "de rosa 400 a fucsia 600",
+                                                 "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80"
+                                             },
+                                             {
+                                                 "icon":  "BrÁºjula",
+                                                 "title":  "OrientaciÁ³n estratégica",
+                                                 "description":  "Asesoramiento experto sobre selecciÁ³n de actividades, licencias y creaciÁ³n de empresas creativas.",
+                                                 "color":  "de fucsia-400 a pÁºrpura-600",
+                                                 "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800\u0026q=80"
+                                             }
+                                         ]
+                           },
+    "faqs":  {
+                 "badge":  "Preguntas frecuentes",
+                 "title":  "Preguntas frecuentes",
+                 "titleHighlight":  "Preguntas",
+                 "subtitle":  "Todo lo que necesitas saber sobre la Zona Franca del Distrito de Diseño de Dubái.",
+                 "items":  [
+                               {
+                                   "q":  "¿Qué es el Distrito de Diseño de Dubái (D3)?",
+                                   "a":  "D3 es la primera zona franca creativa de Oriente Medio dedicada al diseño, la moda, el arte y la cultura. Alberga a más de 500 empresas creativas de todo el mundo."
+                               },
+                               {
+                                   "q":  "¿Qué actividades puedo realizar en D3?",
+                                   "a":  "El diseño y la creaciÁ³n de marcas, la moda y los textiles, las artes visuales y la fotografÁ­a, las agencias creativas, la arquitectura y los medios digitales son actividades permitidas."
+                               },
+                               {
+                                   "q":  "¿Cuánto tiempo tarda la configuraciÁ³n de D3?",
+                                   "a":  "Normalmente, el plazo es de 3 a 5 dÁ­as laborables con la documentaciÁ³n adecuada. Nuestro equipo garantiza un proceso sin contratiempos."
+                               },
+                               {
+                                   "q":  "¿Puedo obtener el 100% de propiedad extranjera en D3?",
+                                   "a":  "SÁ­. La categorÁ­a D3 permite la propiedad extranjera al 100%, sin necesidad de un patrocinador local."
+                               },
+                               {
+                                   "q":  "¿Cuáles son las ventajas fiscales de la categorÁ­a D3?",
+                                   "a":  "Impuesto sobre la renta corporativa y personal del 0%, con repatriaciÁ³n total de beneficios y capital."
+                               },
+                               {
+                                   "q":  "¿Qué espacios de oficina hay disponibles en D3?",
+                                   "a":  "Espacios de trabajo compartidos, estudios creativos, oficinas equipadas, locales comerciales y opciones de espacio básico sin amueblar."
+                               },
+                               {
+                                   "q":  "¿Puedo abrir una cuenta bancaria con una licencia D3?",
+                                   "a":  "SÁ­. Le ayudamos a abrir cuentas bancarias corporativas en los principales bancos de los EAU en funciÁ³n de su perfil empresarial."
+                               },
+                               {
+                                   "q":  "¿Es D3 adecuado para autÁ³nomos?",
+                                   "a":  "SÁ­. D3 ofrece permisos para autÁ³nomos y espacios de trabajo compartidos diseñados para creativos independientes."
+                               },
+                               {
+                                   "q":  "¿Puedo patrocinar a mi familia con una licencia D3?",
+                                   "a":  "SÁ­. El programa D3 ofrece patrocinio de visas familiares, asÁ­ como visas de inversionista y de empleo."
+                               },
+                               {
+                                   "q":  "¿Qué tipo de asistencia ofrece Setup Zone Dubai?",
+                                   "a":  "Nos encargamos del registro de empresas, la emisiÁ³n de licencias, visados, cuentas bancarias y el asesoramiento empresarial continuo."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "Servicios relacionados",
+                            "titleHighlight":  "Servicios",
+                            "subtitle":  "Servicios que combinan bien con tu configuraciÁ³n de D3.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Apertura de cuenta bancaria",
+                                              "description":  "Abra cuentas bancarias comerciales en los Emiratos Árabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "de rosa 400 a rosa 600"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Servicios de cumplimiento",
+                                              "description":  "Asesoramiento en materia de UBO, ESR, AML e IVA.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "de fucsia-400 a pÁºrpura-600"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Visa Dorada",
+                                              "description":  "Residencia de 10 años en los Emiratos Árabes Unidos para inversores y profesionales con talento.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "de ámbar 400 a amarillo 500"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Lanzamiento hoy",
+                     "title":  "¿Listo para lanzar en D3?",
+                     "titleHighlight":  "D3?",
+                     "subtitle":  "Obtén una consulta gratuita. Te guiaremos durante todo el proceso de configuraciÁ³n de D3, desde la obtenciÁ³n de la licencia hasta el lanzamiento.",
+                     "primaryCta":  "Contáctanos por WhatsApp",
+                     "whatsappMessage":  "¡Hola! Me gustarÁ­a una consulta gratuita para la configuraciÁ³n de D3.",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "badges":  [
+                                    "Consulta gratuita",
+                                    "Más de 500 clientes",
+                                    "InstalaciÁ³n en 3-5 dÁ­as"
+                                ],
+                     "office":  {
+                                    "label":  "Visite nuestra oficina en Dubái.",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado postal: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Horario laboral",
+                                   "monFri":  "De 9:00 a 18:00.",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Cerrado"
+                               }
+                 }
+}

@@ -1,0 +1,551 @@
+{
+  "slug": "srtip-setup-package",
+  "hero": {
+    "badge": "Zone franche axée sur l'innovation",
+    "title": "Pack d'installation SRTIP",
+    "titleHighlight": "Emballer",
+    "subtitle": "Le Parc de recherche, de technologie et d'innovation de Sharjah est une zone franche spécialement conçue pour les professionnels de la technologie et de la R&D. Des forfaits abordables à partir de seulement 5 999 AED incluent licence, visa, compte bancaire et plus encore.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=80",
+    "breadcrumbLabel": "Pack d'installation SRTIP",
+    "ctaPrimaryText": "Voir les forfaits",
+    "ctaPrimaryLink": "#packages",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Salut ! Je suis intéressé par le package d'installation SRTIP.",
+    "badges": [
+      "À partir de 5 999 AED",
+      "11 colis",
+      "Installation en 3 à 7 jours",
+      "Propriété à 100 %"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5 999 AED",
+      "label": "À partir de",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Colis",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Possession",
+      "color": "from-blue-400 to-indigo-600"
+    }
+  ],
+  "intro": {
+    "badge": "Nous sommes là pour vous aider !",
+    "title": "Solutions SRTIP abordables pour votre entreprise aux Émirats arabes unis",
+    "titleHighlight": "pour votre entreprise aux Émirats arabes unis",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&q=80",
+    "imageBadgeTitle": "Zone franche SRTIP",
+    "imageBadgeText": "Sharjah, Émirats arabes unis",
+    "paragraph1": "Vous souhaitez implanter votre entreprise sur le marché florissant des Émirats arabes unis ? Notre équipe d’experts accompagne les entrepreneurs dans la création d’entreprises prospères dans plus de 65 juridictions.",
+    "paragraph2": "Que vous préfériez la flexibilité d'une zone franche ou le prestige d'une licence commerciale sur le continent, nous proposons les meilleurs forfaits de création d'entreprise à Sharjah pour répondre à vos objectifs commerciaux en matière de technologie et d'innovation.",
+    "paragraph3": "Tous nos forfaits constituent un point de départ pour votre aventure entrepreneuriale et peuvent être personnalisés selon vos besoins.",
+    "features": [
+      "Plus de 65 juridictions",
+      "Zone d'innovation prioritaire",
+      "Forfaits personnalisables",
+      "À partir de 5 999 AED",
+      "Installation rapide en 3 à 7 jours",
+      "Soutien complet"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "Écosystème axé sur l'innovation",
+    "title": "Conçu pour la technologie et l'innovation",
+    "titleHighlight": "Technologie et innovation",
+    "subtitle": "Six secteurs d'innovation qui prospèrent dans la zone franche de SRTIP.",
+    "items": [
+      {
+        "icon": "FlaskConical",
+        "title": "Recherche et développement",
+        "desc": "Recherche scientifique, essais en laboratoire, R&D produit",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Technologie et innovation",
+        "desc": "Développement de logiciels, d'IA, d'IoT et de matériel",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Microscope",
+        "title": "Sciences de la vie",
+        "desc": "Biotechnologie, industrie pharmaceutique, recherche médicale",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Énergie renouvelable",
+        "desc": "Énergie solaire, énergie propre, technologies durables",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Atom",
+        "title": "Matériaux avancés",
+        "desc": "Nanotechnologie, matériaux composites, science des matériaux",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Binary",
+        "title": "Solutions numériques",
+        "desc": "Blockchain, science des données, cybersécurité",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Forfaits d'installation abordables à Sharjah",
+    "title": "Nos forfaits d'installation SRTIP",
+    "titleHighlight": "Packages d'installation SRTIP",
+    "subtitle": "11 formules premium conçues pour les professionnels de la technologie et de l'innovation. Toutes personnalisables.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Conseil en voyages et tourisme",
+        "price": "14 499 AED",
+        "tagline": "Avec visa de résidence",
+        "category": "Prime",
+        "color": "from-teal-500 to-cyan-700",
+        "badge": "Populaire",
+        "badgeColor": "de turquoise 500 à cyan 600",
+        "includes": [
+          "Licence de zone franche",
+          "1 visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, d'identité émirienne et de dossier médical",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Gestion d'événements",
+        "price": "14 499 AED",
+        "tagline": "Avec visa de résidence",
+        "category": "Prime",
+        "color": "from-cyan-500 to-sky-700",
+        "badge": "Prime",
+        "badgeColor": "de-cyan-500 à-ciel-600",
+        "includes": [
+          "Licence de zone franche",
+          "1 visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, d'identité émirienne et de dossier médical",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Commerce général",
+        "price": "15 999 AED",
+        "tagline": "Avec visa de résidence",
+        "category": "Prime",
+        "color": "from-sky-500 to-blue-700",
+        "badge": "Meilleure valeur",
+        "badgeColor": "du ciel 500 au bleu 600",
+        "includes": [
+          "Licence de zone franche",
+          "1 Visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, d'identité émirienne et de dossier médical",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Stylisme",
+        "price": "5 999 AED",
+        "tagline": "Jusqu'à 5 activités",
+        "category": "Économie",
+        "color": "from-blue-500 to-indigo-700",
+        "badge": "Créatif",
+        "badgeColor": "du bleu 500 à l'indigo 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Forme et style de vie",
+        "price": "5 999 AED",
+        "tagline": "Jusqu'à 5 activités",
+        "category": "Économie",
+        "color": "from-indigo-500 to-violet-700",
+        "badge": "Abordable",
+        "badgeColor": "de l'indigo 500 au violet 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "commerce électronique",
+        "price": "5 999 AED",
+        "tagline": "Entreprise en ligne prête à l'emploi",
+        "category": "Économie",
+        "color": "from-violet-500 to-purple-700",
+        "badge": "Populaire",
+        "badgeColor": "de violet 500 à pourpre 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "Services informatiques",
+        "price": "6 449 AED",
+        "tagline": "Jusqu'à 5 activités",
+        "category": "Professionnel",
+        "color": "from-purple-500 to-fuchsia-700",
+        "badge": "Technologie",
+        "badgeColor": "du violet 500 au fuchsia 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Commerce général",
+        "price": "7 999 AED",
+        "tagline": "Trading de niveau débutant",
+        "category": "Standard",
+        "color": "from-fuchsia-500 to-pink-700",
+        "badge": "Meilleure vente",
+        "badgeColor": "de fuchsia-500 à rose-600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Licence de zone franche avec résidence à vie aux Émirats arabes unis",
+        "price": "11 999 AED",
+        "tagline": "Résidence à vie",
+        "category": "Prime",
+        "color": "from-pink-500 to-rose-700",
+        "badge": "Exclusif",
+        "badgeColor": "de rose 500 à rose 600",
+        "includes": [
+          "Licence de zone franche",
+          "Résidence gratuite aux Émirats arabes unis / visa d'investisseur à vie",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Licence continentale avec résidence aux Émirats arabes unis",
+        "price": "16 999 AED",
+        "tagline": "Continent + Résidence",
+        "category": "continent",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "continent",
+        "badgeColor": "de l'ardoise 600 à l'ardoise 700",
+        "includes": [
+          "Licence continentale",
+          "1 visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, dossier médical, carte d'identité émirienne et changement de statut",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Consultation TVA gratuite"
+        ],
+        "exampleActivities": [
+          "Gestion de projet",
+          "Conseil en gestion",
+          "Courtier commercial",
+          "Gestion des installations",
+          "Services de nettoyage",
+          "entretien des bâtiments"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Entrepreneuriat féminin",
+        "price": "5 999 AED",
+        "tagline": "Conçu pour les femmes fondatrices",
+        "category": "Spécial",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Spécial",
+        "badgeColor": "de rose 500 à rose 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ],
+        "exampleActivities": [
+          "Coaching de style de vie",
+          "Marketing numérique",
+          "Création de mode et de vêtements",
+          "Gestion d'événements",
+          "Services de conseil"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "Besoin d'un pack technologique personnalisé ?",
+    "subtitle": "Faites-nous part de votre vision de l'innovation et nous concevrons la solution idéale.",
+    "buttonText": "Devis personnalisé",
+    "whatsappMessage": "Salut ! J'ai besoin d'un package d'installation SRTIP personnalisé."
+  },
+  "benefits": {
+    "badge": "Pourquoi SRTIP",
+    "title": "Avantages de la configuration SRTIP",
+    "titleHighlight": "Configuration SRTIP",
+    "subtitle": "Six atouts majeurs pour les professionnels de la technologie et de l'innovation.",
+    "items": [
+      {
+        "icon": "Rocket",
+        "title": "Écosystème axé sur l'innovation",
+        "desc": "Conçu spécifiquement pour la technologie et la R&D",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Configuration à faible coût",
+        "desc": "À partir de 5 999 AED",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Propriété étrangère à 100 %",
+        "desc": "Propriété entièrement étrangère",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Installation rapide en 3 à 7 jours",
+        "desc": "Délivrance rapide des permis",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Environnement fiscal à 0 %",
+        "desc": "Avantages non imposables",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Soutenu par le gouvernement",
+        "desc": "Initiative du gouvernement de Sharjah",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "Processus en 6 étapes",
+    "title": "Comment débuter",
+    "titleHighlight": "Commencer",
+    "subtitle": "Du choix du forfait à l'ouverture du compte bancaire, nous nous occupons de tout.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Choisissez votre forfait",
+        "description": "Choisissez parmi nos forfaits axés sur l'innovation.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Soumettre des documents",
+        "description": "Copies du passeport, plan d'affaires et photos.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Demande de licence",
+        "description": "Nous déposons une demande auprès de l'autorité SRTIP.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Recevez votre permis",
+        "description": "Autorisation délivrée sous 3 à 7 jours.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Votre partenaire de confiance pour la configuration SRTIP",
+    "titleHighlight": "Partenaire de configuration SRTIP",
+    "subtitle": "Huit raisons pour lesquelles les professionnels de la tech nous font confiance.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Tarification transparente",
+        "desc": "Aucuns frais cachés, jamais"
+      },
+      {
+        "icon": "Zap",
+        "label": "Installation rapide en 3 à 7 jours",
+        "desc": "Délivrance rapide des permis"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Conformité à 100 %",
+        "desc": "Entièrement approuvé par le gouvernement"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Consultant dévoué",
+        "desc": "conseiller personnel"
+      },
+      {
+        "icon": "Globe",
+        "label": "Équipe multilingue",
+        "desc": "Anglais, arabe, hindi, ourdou"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Consultation en matière de TVA",
+        "desc": "Inclus gratuitement"
+      },
+      {
+        "icon": "Award",
+        "label": "Plus de 10 000 entreprises",
+        "desc": "Lancement réussi"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Assistance de bout en bout",
+        "desc": "Autorisation d'accès au compte bancaire"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche SRTIP. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "items": [
+      {
+        "q": "Qu'est-ce qu'une zone franche SRTIP ?",
+        "a": "Le SRTIP (Sharjah Research Technology and Innovation Park) est une zone franche spécialement conçue pour les entreprises axées sur la technologie, la recherche et l'innovation. Elle propose une installation à faible coût, la possibilité d'une propriété 100 % étrangère et une obtention rapide des licences en 3 à 7 jours ouvrables."
+      },
+      {
+        "q": "Où se situe SRTIP ?",
+        "a": "Le SRTIP est situé à Sharjah, aux Émirats arabes unis, à proximité de l'Université américaine de Sharjah. Il bénéficie d'une excellente desserte vers Dubaï et les autres émirats grâce à un accès facile aux principaux axes routiers et aéroports."
+      },
+      {
+        "q": "Que contient le package d'installation SRTIP ?",
+        "a": "Selon la formule choisie, vous bénéficiez de la licence de zone franche, du visa de résidence, de l'examen médical et de la carte d'identité des Émirats, du contrat de location, de l'assistance pour l'ouverture d'un compte bancaire, d'une adresse prestigieuse et d'une consultation gratuite sur la TVA."
+      },
+      {
+        "q": "Combien coûte un forfait SRTIP ?",
+        "a": "Nos forfaits SRTIP débutent à 5 999 AED (Économique) et vont jusqu'à 16 999 AED (Chine continentale + Résidence). Les forfaits Premium avec visa sont disponibles à partir de 14 499 AED."
+      },
+      {
+        "q": "Combien de temps dure l'installation ?",
+        "a": "Il faut généralement compter 3 à 7 jours ouvrables pour la délivrance du permis, et 1 à 2 semaines supplémentaires pour le traitement du visa et l'ouverture du compte bancaire."
+      },
+      {
+        "q": "Puis-je personnaliser mon forfait ?",
+        "a": "Oui. Tous les forfaits sont des points de départ et peuvent être personnalisés en fonction de votre entreprise technologique, de vos besoins en matière de visa et de votre budget."
+      },
+      {
+        "q": "Vais-je obtenir un visa de résidence pour les Émirats arabes unis ?",
+        "a": "Oui, certains forfaits incluent un visa d'investisseur/résident des Émirats arabes unis avec examen médical, carte d'identité émirienne et changement de statut. La licence de zone franche avec résidence à vie aux Émirats arabes unis offre même une résidence à vie."
+      },
+      {
+        "q": "L'ouverture d'un compte bancaire est-elle incluse ?",
+        "a": "Oui. Tous nos forfaits incluent une assistance gratuite pour l'ouverture d'un compte bancaire professionnel auprès des principales banques des Émirats arabes unis."
+      },
+      {
+        "q": "Quelles activités technologiques puis-je réaliser ?",
+        "a": "Le programme SRTIP soutient la recherche et le développement, la technologie et l'innovation, les sciences de la vie, les énergies renouvelables, les matériaux avancés, les solutions numériques et d'autres industries axées sur l'innovation — avec jusqu'à 5 activités dans la plupart des ensembles de mesures économiques."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour la configuration SRTIP ?",
+        "a": "Nous proposons une tarification transparente, une expertise pointue du secteur technologique, des consultants dédiés et un accompagnement complet, de la licence à l'ouverture de compte bancaire. Plus de 10 000 installations réussies à notre actif."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Démarrez votre entreprise technologique dès aujourd'hui",
+    "title": "Prêt à lancer votre projet à SRTIP Sharjah ?",
+    "titleHighlight": "SRTIP Sharjah ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous aiderons à choisir la formule qui vous convient et à rendre votre entreprise technologique opérationnelle en quelques jours.",
+    "primaryCta": "Contactez-nous sur WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite concernant le pack d'installation SRTIP.",
+    "badges": [
+      "À partir de 5 999 AED",
+      "Installation en 3 à 7 jours",
+      "Propriété à 100 %"
+    ],
+    "office": {
+      "label": "Visitez notre bureau de Dubaï",
+      "line1": "Bureau M08-27, 1er étage, Crystal Tower",
+      "line2": "Business Bay, Dubaï, Émirats arabes unis — Boîte postale : 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Heures de travail",
+      "monFri": "8h00 – 18h00",
+      "saturday": "10h00 – 17h00",
+      "sunday": "Fermé"
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Prestigeträchtige Freihandelszone",
+  "heroTitle": "Dubai World Trade Centre Freizone",
+  "heroTitleHighlight": "Freizone",
+  "heroSubtitle": "Eine der renommiertesten Freihandelszonen Dubais – Austragungsort internationaler Ausstellungen, Konferenzen und Geschäftsveranstaltungen. Gelegen im Herzen von Dubais Geschäftsviertel.",
+  "heroChips": [
+    "100% Eigentum",
+    "0 % Steuer",
+    "3-5 Tage Aufbauzeit"
+  ],
+  "heroCard": {
+    "headerTitle": "DWTC Business",
+    "headerStatus": "Live",
+    "icon": "Crown",
+    "zoneLabel": "Bezirk",
+    "zoneValue": "Handelszentrum 1",
+    "statusBadge": "Aktiv",
+    "setupTimeLabel": "Einrichtungszeit",
+    "setupTimeValue": "3-5 Tage",
+    "taxLabel": "Steuersatz",
+    "taxValue": "0 %",
+    "footerText": "Jetzt starten"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Tagesaufbau",
+      "color": "from-slate-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Award",
+      "value": "Prestigeträchtig",
+      "label": "Geschäftsviertel",
+      "color": "from-sky-400 to-cyan-600"
+    }
+  ],
+  "whyDwtcSection": {
+    "badge": "Warum DWTC",
+    "title": "Warum das Dubai World Trade Centre wählen?",
+    "titleHighlight": "Dubai World Trade Centre?",
+    "subtitle": "Außergewöhnliche Vorteile dank erstklassiger Infrastruktur und eines unterstützenden Geschäftsumfelds.",
+    "smallCards": [
+      {
+        "icon": "MapPin",
+        "title": "Erstklassige Lage",
+        "description": "Im Herzen von Dubais Geschäftsviertel mit hervorragender Anbindung.",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Vielfältiger Talentpool",
+        "description": "Zugang zu einem breiten Spektrum an qualifizierten Fachkräften und Branchenexperten.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Weltklasse-Infrastruktur",
+        "description": "Modernste Einrichtungen, zeitgemäße Büros und erstklassige Annehmlichkeiten.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "Crown",
+      "title": "Blühendes Geschäftsumfeld",
+      "description": "Nehmen Sie das ganze Jahr über an internationalen Ausstellungen, Konferenzen und Business-Events teil – im Zentrum des Geschäftsökosystems von Dubai.",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80",
+      "color": "from-slate-700 via-indigo-700 to-violet-700"
+    },
+    "transportCard": {
+      "icon": "Plane",
+      "title": "Verkehrsverbindungen",
+      "description": "U-Bahn, Autobahnen und Flughäfen – alles in unmittelbarer Nähe.",
+      "color": "from-cyan-500 via-blue-600 to-cyan-700"
+    }
+  },
+  "servicesSection": {
+    "badge": "Unsere Dienstleistungen",
+    "title": "Unternehmensgründungsdienste im DWTC",
+    "titleHighlight": "im DWTC",
+    "subtitle": "Umfassende End-to-End-Unterstützung für jeden Aspekt Ihrer Unternehmensgründung.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Unternehmensgründung in einer Freizone",
+        "description": "100% Eigentum, keine Körperschaftsteuer und vollständige Gewinnrückführung – angesiedelt in der am besten geeigneten Freihandelszone.",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Unternehmensgründung auf dem Festland",
+        "description": "Direkter Handel auf dem Markt der VAE – DED-Formalitäten, lokale Sponsoring-Vereinbarungen und Lizenzierung.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Handelslizenz in Dubai",
+        "description": "Gewerbe-, Berufs- oder Industrielizenz – schnelle Beantragung und Einhaltung der Vorschriften.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Visabearbeitung & PRO-Dienstleistungen",
+        "description": "Investoren-, Mitarbeiter- und Angehörigenvisa – medizinische Tests, Emirates ID und Visumstempelung.",
+        "color": "from-sky-400 to-cyan-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Eröffnung eines Firmenbankkontos",
+        "description": "Geschäftskonten bei führenden Banken in den VAE – Dokumentation, KYC und Bankvermittlung.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Calculator",
+        "title": "Buchhaltungs- und Steuerberatungsleistungen",
+        "description": "Halten Sie die Vorschriften zur Körperschaftsteuer und Mehrwertsteuer in den VAE ein – Buchhaltung, Mehrwertsteuererklärungen und Finanzberichterstattung.",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "Unsere Pakete",
+    "title": "Transparente All-Inclusive-Pakete",
+    "titleHighlight": "All-Inclusive-Pakete",
+    "subtitle": "Keine versteckten Gebühren – klare und transparente Preise.",
+    "items": [
+      {
+        "icon": "Globe",
+        "name": "Freizonenlizenz",
+        "badge": null,
+        "price": "5.999",
+        "currency": "AED",
+        "description": "Keine Wohnsitzpflicht – ideal für ortsunabhängige Unternehmen und Freiberufler.",
+        "color": "from-slate-400 to-indigo-600",
+        "highlighted": false
+      },
+      {
+        "icon": "Crown",
+        "name": "Freizone mit Wohnsitz",
+        "badge": "Am beliebtesten",
+        "price": "11.999",
+        "currency": "AED",
+        "description": "Ideal für Unternehmer, die nach Dubai umziehen.",
+        "color": "from-indigo-400 to-violet-600",
+        "highlighted": true
+      },
+      {
+        "icon": "Building2",
+        "name": "Festland mit Wohnsitz",
+        "badge": "Bestes Preis-Leistungs-Verhältnis",
+        "price": "16.999",
+        "currency": "AED",
+        "description": "Für Unternehmen, die den lokalen Markt der VAE anvisieren.",
+        "color": "from-violet-400 to-purple-600",
+        "highlighted": false
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Warum Setup Zone Dubai wählen?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "items": [
+      {
+        "icon": "Rocket",
+        "title": "End-to-End-Support",
+        "description": "Umfassende Unterstützung bei der Unternehmensgründung – von der Lizenzierung bis zum Marktstart."
+      },
+      {
+        "icon": "Award",
+        "title": "Expertenwissen",
+        "description": "Tiefgreifendes Verständnis der Freizonen in Dubai und der Vorschriften des Festlandes."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Transparente Preise",
+        "description": "Keine versteckten Gebühren – immer klare und transparente Preise."
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Engagierter Manager",
+        "description": "Ein persönlicher Kundenbetreuer begleitet Sie auf Ihrem gesamten Weg."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Unterstützung nach der Lizenzierung",
+        "description": "PRO-, Buchhaltungs- und Compliance-Dienstleistungen nach der Einrichtung."
+      },
+      {
+        "icon": "Zap",
+        "title": "Expressbearbeitung",
+        "description": "Die Lizenz wird innerhalb von 3-5 Werktagen ausgestellt."
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über DWTC wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren DWTC-Spezialisten beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zur DWTC Free Zone."
+    },
+    "items": [
+      {
+        "q": "Wie lange dauert die Gründung eines Unternehmens im DWTC?",
+        "a": "Die meisten Unternehmen sind innerhalb von 3-5 Werktagen vollständig registriert und betriebsbereit, abhängig von der Art der Lizenz und den erforderlichen Genehmigungen."
+      },
+      {
+        "q": "Kann ich als Ausländer ein Unternehmen im DWTC gründen?",
+        "a": "Ja. Ausländer können in den Freizonen Dubais Unternehmen mit 100%iger Eigentümerschaft gründen. Unternehmen vom Festland benötigen je nach Geschäftstätigkeit möglicherweise einen lokalen Sponsor."
+      },
+      {
+        "q": "Muss ich physisch in Dubai anwesend sein?",
+        "a": "Der Großteil des Registrierungsprozesses kann online erledigt werden. Unser Team kümmert sich in Ihrem Namen um die Formalitäten und die Einreichung bei den Behörden."
+      },
+      {
+        "q": "Welche Arten von Unternehmen kann ich im DWTC ansiedeln?",
+        "a": "Gewerbliche, professionelle, industrielle, E-Commerce- und freiberufliche Unternehmen – je nach gewähltem Lizenztyp."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrem DWTC-Setup passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-slate-400 to-indigo-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute!",
+    "title": "Bereit für den Start im DWTC?",
+    "titleHighlight": "DWTC?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess und helfen Ihnen bei der Wahl des optimalen Gerichtsstands für Ihr Unternehmen.",
+    "chips": [
+      "Kostenlose Beratung",
+      "3-5 Tage Aufbauzeit",
+      "Keine versteckten Gebühren"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung des DWTC.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über die Einrichtung des DWTC sprechen."
+  }
+}

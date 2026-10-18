@@ -1,0 +1,108 @@
+{
+  "brand": {
+    "name": "Setup Zone Dubai",
+    "shortName": "SZ",
+    "operatedBy": "Operated by Brightlink",
+    "description": "Your trusted UAE partner for business setup, residency, and professional services — delivering clear guidance and seamless support every step of the way.",
+    "badges": [
+      { "icon": "ShieldCheck", "label": "Licensed" },
+      { "icon": "Star", "label": "4.9 Rating" },
+      { "icon": "Building2", "label": "DET Approved" }
+    ],
+    "socialsTitle": "Connect With Us"
+  },
+
+  "ctaBanner": {
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "badge": "Trusted by 500+ Businesses",
+    "title": "Start Your Dubai Business Today",
+    "titleHighlight": "Today",
+    "subtitle": "Get a free consultation from our experts. From company formation to visas, banking, and compliance — we handle it all.",
+    "primaryCta": "Get Free Consultation",
+    "secondaryCta": "Call Now",
+    "stats": [
+      { "value": "10000+", "label": "Happy Clients" },
+      { "value": "15+", "label": "Years Experience" },
+      { "value": "25+", "label": "Expert Consultants" },
+      { "value": "24/7", "label": "Customer Care" }
+    ]
+  },
+
+  "quickLinksTitle": "Quick Links",
+  "quickLinks": [
+    { "name": "Home", "href": "/", "icon": "HomeIcon" },
+    { "name": "About Us", "href": "/about", "icon": "Users" },
+    { "name": "Our Packages", "href": "/#packages", "icon": "Wallet" },
+    { "name": "Resources", "href": "/resources", "icon": "FileText" },
+    { "name": "Contact Us", "href": "/contact", "icon": "MessageCircle" }
+  ],
+
+  "servicesTitle": "Our Services",
+  "serviceLinks": [
+    { "name": "Free Zone Setup", "slug": "freezone" },
+    { "name": "Mainland Setup", "slug": "mainland" },
+    { "name": "Corporate Tax & VAT", "slug": "corporate-tax-vat" },
+    { "name": "Bank Account Opening", "slug": "bank-account" },
+    { "name": "Golden Visa", "slug": "golden-visa" },
+    { "name": "PRO Services", "slug": "pro-services" },
+    { "name": "Compliance Services", "slug": "compliance" }
+  ],
+
+  "contactTitle": "Get In Touch",
+  "contact": {
+    "phone": {
+      "label": "Call Us",
+      "value": "+971 56 655 6645",
+      "hours": "Mon-Sat: 9 AM - 6 PM",
+      "href": "tel:+971566556645"
+    },
+    "email": {
+      "label": "Email Us",
+      "value": "setupzonedubai@gmail.com",
+      "href": "mailto:setupzonedubai@gmail.com"
+    },
+    "address": {
+      "label": "Visit Us",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, UAE — PO Box 554552",
+      "href": "https://maps.app.goo.gl/LNRyUy4djwMDFsQ46"
+    },
+    "whatsapp": {
+      "label": "WhatsApp Us",
+      "message": "Hi! I'd like to know more about your services."
+    }
+  },
+
+  "socials": [
+    { "name": "Facebook", "icon": "FaFacebookF", "href": "https://www.facebook.com/brightlinkconsulting.uae/", "color": "from-blue-500 to-blue-700" },
+    { "name": "Instagram", "icon": "FaInstagram", "href": "https://www.instagram.com/brightlink.consulting/", "color": "from-pink-500 to-fuchsia-600" },
+    { "name": "TikTok", "icon": "FaTiktok", "href": "https://www.tiktok.com/@brightlink.consulting", "color": "from-slate-800 to-black" },
+    { "name": "YouTube", "icon": "FaYoutube", "href": "https://www.youtube.com/@brightlinkconsulting", "color": "from-red-500 to-red-700" },
+    { "name": "LinkedIn", "icon": "FaLinkedinIn", "href": "https://www.linkedin.com/company/brightlink-management-consultancy/", "color": "from-sky-500 to-blue-700" },
+    { "name": "X (Twitter)", "icon": "FaXTwitter", "href": "https://x.com/BRIGHTLINKCONS1", "color": "from-slate-700 to-black" },
+    { "name": "Telegram", "icon": "FaTelegramPlane", "href": "https://t.me/brightlinkgroup", "color": "from-sky-400 to-blue-600" },
+    { "name": "Pinterest", "icon": "FaPinterestP", "href": "https://www.pinterest.com/brightlinkconsulting/", "color": "from-red-500 to-red-700" }
+  ],
+
+  "reviews": {
+    "rating": "4.9",
+    "outOf": "/ 5.0",
+    "reviewCount": "75+ Verified Reviews",
+    "googleLabel": "Google Reviews",
+    "ctaText": "Write a Review",
+    "ctaHref": "https://g.page/r/CdQ9UxY-AOkxEAE/review"
+  },
+
+  "bottomBar": {
+    "copyright": "© 2026 Setup Zone Dubai — Operated by Brightlink.",
+    "rightsText": "All rights reserved.",
+    "madeWithText": "Made with ❤️ in Dubai"
+  },
+
+  "disclaimer": {
+    "title": "Disclaimer: ",
+    "text": "Setupzonedubai.ae is operated by Brightlink Management Consultancy LLC, a private third-party service provider licensed in Dubai. We are not a government authority and have no affiliation with, or endorsement from, the Government of the UAE or any of its departments. We assist customers with business setup, visa-related typing, documentation, application filling and submission through the relevant official channels (DET, GDRFA Dubai, ICP, MOFA), acting on the customer's behalf and with their consent. Government fees are set by the authorities and paid to them; our service fee is charged separately and disclosed before any commitment. Applicants can complete the same applications directly through the official portals: icp.gov.ae, gdrfad.gov.ae, u.ae. Estimates shown are for information only and do not constitute legal advice.",
+    "lastReviewed": "Content last reviewed 01-09-2026",
+    "verifiedText": "Verified Business"
+  }
+}

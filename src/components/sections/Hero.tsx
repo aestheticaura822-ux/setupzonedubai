@@ -6,13 +6,16 @@ import WhatsAppIcon from '../icons/WhatsAppIcon';
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import heroData from '../../content/home/hero.json';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, CreditCard,
 };
 
 export default function Hero({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || heroData;
+  const { language } = useLanguage();
+const heroFallback = loadContent('home/hero', language);
+const data = tinaData?.data?.home || heroFallback;
 
   return (
     <section className="relative min-h-screen w-full overflow-hidden bg-white">

@@ -1,0 +1,474 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600\u0026q=80",
+    "heroBadge":  "Sichern Sie sich Ihre Markenidentití¤t",
+    "heroTitle":  "Firmennamenregistrierung in Dubai",
+    "heroTitleHighlight":  "Registrierung in Dubai",
+    "heroSubtitle":  "Sichern Sie sich Ihren einzigartigen, markenfí¤higen und rechtskonformen Firmennamen in den VAE. Kostenlose Verfügbarkeitsprüfung bei DED und Freizonen "“ Genehmigung innerhalb von 24 Stunden.",
+    "heroChips":  [
+                      "Kostenlose Namensprüfung",
+                      "Genehmigung innerhalb von 24 Stunden",
+                      "DED + Freizonen",
+                      "100% konform"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Typ",
+                      "value":  "3",
+                      "label":  "Namensoptionen",
+                      "color":  "von Indigo 400 bis Blau 600"
+                  },
+                  {
+                      "icon":  "Uhr",
+                      "value":  "24 Stunden",
+                      "label":  "Genehmigungszeit",
+                      "color":  "von Blau-400 bis Cyan-600"
+                  },
+                  {
+                      "icon":  "Schild",
+                      "value":  "100%",
+                      "label":  "Konform",
+                      "color":  "von Cyan-400 bis Türkis-600"
+                  },
+                  {
+                      "icon":  "BadgeCheck",
+                      "value":  "Frei",
+                      "label":  "Verfügbarkeitsprüfung",
+                      "color":  "von Türkis 400 bis Smaragdgrün 600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Erster Schritt zum Unternehmen",
+                          "title":  "Was ist eine Firmennamensregistrierung?",
+                          "titleHighlight":  "Firmennamenregistrierung?",
+                          "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Markenidentití¤t",
+                          "imageBadgeText":  "Namensreservierung",
+                          "paragraphs":  [
+                                             "Die Registrierung eines Firmennamens in Dubai (auch Handelsnamenreservierung genannt) ist der offizielle Prozess der Reservierung eines einzigartigen Firmennamens beim Department of Economic Development (DED) oder einer Freizonenbehí¶rde.",
+                                             "Es handelt sich um den ersten obligatorischen Schritt bei der Gründung eines Unternehmens in den VAE "“ ohne einen reservierten Namen kann keine Handelslizenz beantragt werden.",
+                                             "Bei Setup Zone Dubai bieten wir kostenlose Namensverfügbarkeitsprüfungen, Vorschlí¤ge für markenfí¤hige Namen, Compliance-Prüfungen und die vollstí¤ndige Einreichung des Antrags an "“ was in der Regel innerhalb von 24 Stunden zur Genehmigung führt."
+                                         ],
+                          "highlights":  [
+                                             "Erster Schritt zum Unternehmen",
+                                             "Namensreservierungszertifikat",
+                                             "Gültig für 6 Monate",
+                                             "DED + Freizone",
+                                             "Kostenlose Verfügbarkeitsprüfung",
+                                             "Genehmigung innerhalb von 24 Stunden"
+                                         ]
+                      },
+    "namingRulesSection":  {
+                               "badge":  "Namensregeln der VAE",
+                               "title":  "Was ist erlaubt und was ist verboten?",
+                               "titleHighlight":  "Erlaubt \u0026 Verboten",
+                               "subtitle":  "Informieren Sie sich über die Regeln, bevor Sie Ihren Firmennamen wí¤hlen.",
+                               "allowedItems":  [
+                                                    {
+                                                        "icon":  "CheckCircle2",
+                                                        "title":  "Einzigartig \u0026 Verfügbar",
+                                                        "description":  "Der von Ihnen gewí¤hlte Name darf nicht mit einem bereits in den VAE eingetragenen Handelsnamen identisch oder diesem í¤hnlich sein.",
+                                                        "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                                    },
+                                                    {
+                                                        "icon":  "Gebí¤ude 2",
+                                                        "title":  "Spiegelt die Geschí¤ftstí¤tigkeit wider",
+                                                        "description":  "Der Name sollte in einem angemessenen Zusammenhang mit Ihrer Geschí¤ftstí¤tigkeit stehen "“ z. B. "žHandel" für eine Gewerbeerlaubnis.",
+                                                        "color":  "von Türkis-400 bis Cyan-600"
+                                                    },
+                                                    {
+                                                        "icon":  "Globus",
+                                                        "title":  "Namenskonventionen der VAE",
+                                                        "description":  "Es müssen die Namenskonventionen der VAE eingehalten werden "“ keine anstí¶íŸigen, religií¶sen, politischen oder verbotenen Wí¶rter.",
+                                                        "color":  "von Cyan 400 bis Himmelblau 600"
+                                                    },
+                                                    {
+                                                        "icon":  "Schichten",
+                                                        "title":  "Rechtsstruktur-Suffix",
+                                                        "description":  "Der Name sollte die korrekte Rechtsform enthalten "“ LLC, FZE, FZCO oder Einzelunternehmen.",
+                                                        "color":  "von Himmel-400 bis Blau-600"
+                                                    }
+                                                ],
+                               "prohibitedItems":  [
+                                                       {
+                                                           "icon":  "XCircle",
+                                                           "title":  "Keine religií¶sen Bezüge",
+                                                           "description":  "Namen, die Bezug auf Gott, Religion oder religií¶se Persí¶nlichkeiten nehmen, sind strengstens verboten.",
+                                                           "color":  "von Rot-500 bis Rosé-700"
+                                                       },
+                                                       {
+                                                           "icon":  "XCircle",
+                                                           "title":  "Keine politischen Namen",
+                                                           "description":  "Die Nennung von Namen politischer Parteien, Regierungsbezügen und politischen Persí¶nlichkeiten ist nicht gestattet.",
+                                                           "color":  "von Rot-500 bis Rosé-700"
+                                                       },
+                                                       {
+                                                           "icon":  "XCircle",
+                                                           "title":  "Keine Markenrechtskonflikte",
+                                                           "description":  "Namen, die mit eingetragenen Marken "“ ob lokal oder international "“ identisch sind, werden abgelehnt.",
+                                                           "color":  "von Rot-500 bis Rosé-700"
+                                                       },
+                                                       {
+                                                           "icon":  "XCircle",
+                                                           "title":  "Keine eingeschrí¤nkten Wí¶rter",
+                                                           "description":  "Wí¶rter wie "žBank", "žVersicherung", "žUniversití¤t" und Lí¤ndernamen bedürfen einer besonderen Genehmigung oder sind verboten.",
+                                                           "color":  "von Rot-500 bis Rosé-700"
+                                                       }
+                                                   ]
+                           },
+    "servicesSection":  {
+                            "badge":  "Unsere Dienstleistungen",
+                            "title":  "Komplette Namensregistrierungsdienste",
+                            "titleHighlight":  "Namensregistrierungsdienste",
+                            "subtitle":  "Sechs umfassende Serviceleistungen für Ihre Namensreservierung.",
+                            "items":  [
+                                          {
+                                              "icon":  "Funkeln",
+                                              "title":  "Vorschlí¤ge für markenfí¤hige Namen",
+                                              "description":  "Wir schlagen einprí¤gsame, einprí¤gsame Namen vor, die zu Ihrer Branche und Ihrer Geschí¤ftsvision passen.",
+                                              "color":  "von Indigo 400 bis Blau 600"
+                                          },
+                                          {
+                                              "icon":  "Suchen",
+                                              "title":  "Verfügbarkeitsprüfung in Echtzeit",
+                                              "description":  "Prüfen Sie vor der endgültigen Festlegung die Verfügbarkeit des Namens bei DED und allen wichtigen Freihandelszonen.",
+                                              "color":  "von Blau-400 bis Cyan-600"
+                                          },
+                                          {
+                                              "icon":  "ShieldCheck",
+                                              "title":  "Konformití¤tsprüfung",
+                                              "description":  "Wir überprüfen Ihren Namen anhand der Namensregeln der VAE, um Ablehnungen und Verzí¶gerungen zu vermeiden.",
+                                              "color":  "von Cyan-400 bis Türkis-600"
+                                          },
+                                          {
+                                              "icon":  "Dateisignatur",
+                                              "title":  "Reservierungsantrag",
+                                              "description":  "Wir reichen den Reservierungsantrag in Ihrem Namen ein "“ für Sie kein Papierkram.",
+                                              "color":  "von Türkis 400 bis Smaragdgrün 600"
+                                          },
+                                          {
+                                              "icon":  "BadgeCheck",
+                                              "title":  "Nachverfolgung der Genehmigung",
+                                              "description":  "Wir halten Kontakt zu den Behí¶rden, um eine schnelle Genehmigung zu gewí¤hrleisten "“ in der Regel innerhalb von 24 Stunden.",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          },
+                                          {
+                                              "icon":  "ScrollText",
+                                              "title":  "Zertifikatszustellung",
+                                              "description":  "Wir liefern Ihnen die offizielle Handelsnamenreservierungsbescheinigung direkt aus.",
+                                              "color":  "von Türkis-400 bis Cyan-600"
+                                          }
+                                      ]
+                        },
+    "processSection":  {
+                           "badge":  "6-stufiger Prozess",
+                           "title":  "So reservieren Sie Ihren Namen",
+                           "titleHighlight":  "Reservieren Sie Ihren Namen",
+                           "subtitle":  "Sechs einfache Schritte zu einem reservierten Firmennamen.",
+                           "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600\u0026q=80",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Gehirn",
+                                             "title":  "Namensfindung",
+                                             "description":  "Wir helfen Ihnen, 3 einzigartige, markenfí¤hige und rechtskonforme Firmennamenoptionen zu entwickeln.",
+                                             "color":  "von Indigo 400 bis Blau 600"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "Suchen",
+                                             "title":  "Verfügbarkeitsprüfung",
+                                             "description":  "Wir prüfen die Namensverfügbarkeit in Echtzeit bei der DED und den Freizonenbehí¶rden.",
+                                             "color":  "von Blau-400 bis Cyan-600"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Dateisignatur",
+                                             "title":  "Reservierungsantrag",
+                                             "description":  "Wir bereiten den Antrag auf Reservierung des Handelsnamens vor und reichen ihn mit der entsprechenden Vertretung ein.",
+                                             "color":  "von Cyan-400 bis Türkis-600"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "BadgeCheck",
+                                             "title":  "Erstgenehmigung",
+                                             "description":  "Der Name erhí¤lt eine vorlí¤ufige Genehmigung "“ in der Regel innerhalb von 24 Stunden, abhí¤ngig von der zustí¤ndigen Behí¶rde.",
+                                             "color":  "von Türkis 400 bis Smaragdgrün 600"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "ScrollText",
+                                             "title":  "Namensreservierungszertifikat",
+                                             "description":  "Sie erhalten eine offizielle Bescheinigung über die Reservierung des Handelsnamens "“ gültig für 6 Monate wí¤hrend des Lizenzierungsverfahrens.",
+                                             "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                         },
+                                         {
+                                             "step":  "06",
+                                             "icon":  "Rakete",
+                                             "title":  "Weiter zur Lizenzierung",
+                                             "description":  "Verwenden Sie Ihren reservierten Namen, um Ihre Gewerbelizenz zu beantragen und die Unternehmensgründung abzuschlieíŸen.",
+                                             "color":  "von Türkis-400 bis Cyan-600"
+                                         }
+                                     ]
+                       },
+    "namingTipsSection":  {
+                              "badge":  "Profi-Namenstipps",
+                              "title":  "Wí¤hlen Sie den perfekten Firmennamen",
+                              "titleHighlight":  "Perfekter Firmenname",
+                              "subtitle":  "Sechs Expertentipps für die Wahl eines Namens, der die Zeit überdauert.",
+                              "items":  [
+                                            {
+                                                "icon":  "Glühbirne",
+                                                "label":  "Kurz und einprí¤gsam halten",
+                                                "desc":  "Weltweit leicht zu buchstabieren und auszusprechen.",
+                                                "color":  "von Indigo 400 bis Blau 600"
+                                            },
+                                            {
+                                                "icon":  "Globus",
+                                                "label":  "Globale Attraktivití¤t berücksichtigen",
+                                                "desc":  "Arbeitet auf englisch- und arabischsprachigen Mí¤rkten",
+                                                "color":  "von Blau-400 bis Cyan-600"
+                                            },
+                                            {
+                                                "icon":  "Suchen",
+                                                "label":  "Domainverfügbarkeit prüfen",
+                                                "desc":  "Passen Sie Ihre .com- und .ae-Domain an.",
+                                                "color":  "von Cyan-400 bis Türkis-600"
+                                            },
+                                            {
+                                                "icon":  "ShieldCheck",
+                                                "label":  "Vermeiden Sie verbotene Wí¶rter",
+                                                "desc":  "Bank, Versicherung, Universití¤t überspringen",
+                                                "color":  "von Türkis 400 bis Smaragdgrün 600"
+                                            },
+                                            {
+                                                "icon":  "Typ",
+                                                "label":  "Verwenden Sie einfache Rechtschreibung",
+                                                "desc":  "Vermeiden Sie komplexe Buchstabenkombinationen.",
+                                                "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                            },
+                                            {
+                                                "icon":  "Krone",
+                                                "label":  "Passen Sie Ihre Marke an",
+                                                "desc":  "Richten Sie sich nach Ihrer Vision und Ihrer Branche aus.",
+                                                "color":  "von Türkis-400 bis Cyan-600"
+                                            }
+                                        ]
+                          },
+    "documentsSection":  {
+                             "badge":  "Was Sie bení¶tigen",
+                             "title":  "Erforderliche Dokumente",
+                             "titleHighlight":  "Unterlagen",
+                             "items":  [
+                                           {
+                                               "icon":  "DateiText",
+                                               "label":  "3 Namensvorschlí¤ge",
+                                               "desc":  "In der Reihenfolge der Prí¤ferenz"
+                                           },
+                                           {
+                                               "icon":  "Aktentasche",
+                                               "label":  "Geschí¤ftstí¤tigkeit",
+                                               "desc":  "Art des Geschí¤fts"
+                                           },
+                                           {
+                                               "icon":  "Gebí¤ude 2",
+                                               "label":  "Rechtsstruktur",
+                                               "desc":  "LLC, FZE, FZCO usw."
+                                           },
+                                           {
+                                               "icon":  "Dateisignatur",
+                                               "label":  "Antragsformular",
+                                               "desc":  "Von uns fertiggestellt"
+                                           },
+                                           {
+                                               "icon":  "Kreditkarte",
+                                               "label":  "Zahlung",
+                                               "desc":  "Reservierungsgebühren"
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Warum Sie sich für uns entscheiden sollten",
+                               "title":  "Ihr vertrauenswürdiger Namenspartner",
+                               "titleHighlight":  "Namenspartner",
+                               "items":  [
+                                             {
+                                                 "icon":  "ShieldCheck",
+                                                 "label":  "Compliance-Experten",
+                                                 "desc":  "Fundierte Kenntnisse der Namensregeln der VAE"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Genehmigung innerhalb von 24 Stunden",
+                                                 "desc":  "Schnelle Reservierungsbearbeitung"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "label":  "Kostenlose Namensprüfung",
+                                                 "desc":  "Kostenlose Verfügbarkeitsprüfung"
+                                             },
+                                             {
+                                                 "icon":  "Funkeln",
+                                                 "label":  "Kreative Vorschlí¤ge",
+                                                 "desc":  "Kostenlose Ideen für markenfí¤hige Namen"
+                                             },
+                                             {
+                                                 "icon":  "Benutzerprüfung",
+                                                 "label":  "Engagierter Berater",
+                                                 "desc":  "Persí¶nlicher Berater wí¤hrend des gesamten Aufenthalts"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "label":  "Mehrsprachiges Team",
+                                                 "desc":  "Englisch, Arabisch, Hindi, Urdu"
+                                             },
+                                             {
+                                                 "icon":  "Schichten",
+                                                 "label":  "DED + Freizone",
+                                                 "desc":  "Beide Gerichtsbarkeiten umfassten"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Unterstützung bei der Erneuerung",
+                                                 "desc":  "Verlí¤ngerung bei Bedarf"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "Geschí¤ftswachstumsaussichten",
+                               "title":  "Von Tausenden vertraut",
+                               "titleHighlight":  "Tausende",
+                               "subtitle":  "Ihre Markenidentití¤t in Expertenhí¤nden.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Gebí¤ude 2",
+                                                 "value":  "Mehr als 10.000",
+                                                 "label":  "Namen reserviert",
+                                                 "color":  "von Indigo 400 bis Blau 600"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "value":  "DED + FZ",
+                                                 "label":  "Abdeckung",
+                                                 "color":  "von Blau-400 bis Cyan-600"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "24 Stunden",
+                                                 "label":  "Schnelle Genehmigung",
+                                                 "color":  "von Cyan-400 bis Türkis-600"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "value":  "Frei",
+                                                 "label":  "Namensprüfung",
+                                                 "color":  "von Türkis 400 bis Smaragdgrün 600"
+                                             },
+                                             {
+                                                 "icon":  "ShieldCheck",
+                                                 "value":  "100%",
+                                                 "label":  "Konform",
+                                                 "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                             },
+                                             {
+                                                 "icon":  "Krone",
+                                                 "value":  "Bevorzugt",
+                                                 "label":  "Namenspartner",
+                                                 "color":  "von Türkis-400 bis Cyan-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die Firmennamenregistrierung wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie sich kostenlos von unseren Spezialisten für Namensregistrierung beraten.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zur Firmennamenregistrierung in Dubai."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Welche Regeln gelten für die Wahl eines Firmennamens in Dubai?",
+                                          "a":  "Ihr Name muss einzigartig sein, darf keinem bestehenden Firmennamen í¤hneln, muss Ihre Geschí¤ftstí¤tigkeit widerspiegeln, den Namenskonventionen der VAE entsprechen und den korrekten Zusatz für die Rechtsform enthalten. Religií¶se, politische oder geschützte Begriffe sind nicht zulí¤ssig."
+                                      },
+                                      {
+                                          "q":  "Wie viele Namensvorschlí¤ge soll ich einreichen?",
+                                          "a":  "Sie sollten drei Namensvorschlí¤ge in der Reihenfolge Ihrer Prí¤ferenz einreichen. Wird Ihr erster Vorschlag abgelehnt, prüft die Behí¶rde den ní¤chsten "“ das spart Zeit und vermeidet mehrere Bewerbungen."
+                                      },
+                                      {
+                                          "q":  "Wie lange dauert die Namensgenehmigung?",
+                                          "a":  "In der Regel dauert es je nach Behí¶rde 24"“48 Stunden. Einige Freizonen bearbeiten Namensgenehmigungen dank unseres Priorití¤tsnetzwerks innerhalb weniger Stunden."
+                                      },
+                                      {
+                                          "q":  "Wie lange ist ein reservierter Name gültig?",
+                                          "a":  "Eine Reservierungsbescheinigung für einen Handelsnamen ist in der Regel 6 Monate gültig und ermí¶glicht es Ihnen, Ihren Lizenzantrag innerhalb dieses Zeitraums abzuschlieíŸen."
+                                      },
+                                      {
+                                          "q":  "Was passiert, wenn mein Name abgelehnt wird?",
+                                          "a":  "Wird Ihre erste Wahl abgelehnt, reichen wir Ihre ní¤chste Option (in den meisten Fí¤llen) ohne zusí¤tzliche Kosten erneut ein. Sollten alle drei abgelehnt werden, unterstützen wir Sie auch gerne bei der Suche nach Alternativen."
+                                      },
+                                      {
+                                          "q":  "Kann ich meinen Firmennamen nach der Registrierung noch í¤ndern?",
+                                          "a":  "Ja. Sie kí¶nnen nach der Registrierung bei der zustí¤ndigen Behí¶rde eine Namensí¤nderung beantragen "“ wir übernehmen den gesamten Prozess, einschlieíŸlich der Aktualisierung Ihres Führerscheins und Ihrer Dokumente."
+                                      },
+                                      {
+                                          "q":  "Kann ich für mein Unternehmen in den VAE einen auslí¤ndischen Namen verwenden?",
+                                          "a":  "Ja. Auslí¤ndisch klingende Namen sind zulí¤ssig, solange sie den Namensregeln der VAE entsprechen, nicht mit Markenrechten kollidieren und keine geschützten Wí¶rter enthalten."
+                                      },
+                                      {
+                                          "q":  "Bení¶tige ich einen Namen, bevor ich ein Unternehmen registriere?",
+                                          "a":  "Ja. Die Namensreservierung ist sowohl auf dem Festland als auch in den Freizonen der erste Schritt vor der Lizenzbeantragung."
+                                      },
+                                      {
+                                          "q":  "Gibt es Wí¶rter, die in Firmennamen verboten sind?",
+                                          "a":  "Ja. Wí¶rter wie "žBank", "žVersicherung", "žUniversití¤t", "žGott", "žAllah", Lí¤ndernamen, politische Bezüge und eingetragene Marken sind eingeschrí¤nkt oder verboten."
+                                      },
+                                      {
+                                          "q":  "Wie kann Setup Zone Dubai bei der Firmennamenregistrierung helfen?",
+                                          "a":  "Wir bieten kostenlose Namensverfügbarkeitsprüfungen, Vorschlí¤ge für markenfí¤hige Namen, Compliance-Prüfungen, Antragsstellung und die Nachverfolgung bei den Behí¶rden. In der Regel erhalten Sie die Genehmigung innerhalb von 24 Stunden."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienstleistungen, die gut mit der Namensregistrierung harmonieren.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Firmengründung in Dubai",
+                                                     "description":  "Freizonen-, Festland- und Offshore-Strukturen.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Indigo 400 bis Blau 600"
+                                                 },
+                                                 {
+                                                     "slug":  "trade-license",
+                                                     "title":  "Handelslizenz in Dubai",
+                                                     "description":  "Erhalten Sie Ihre DET-Handelslizenz in 2-5 Tagen.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "von Blau-400 bis Cyan-600"
+                                                 },
+                                                 {
+                                                     "slug":  "company-registration",
+                                                     "title":  "Firmenregistrierung",
+                                                     "description":  "Schnelle und günstige Anmeldung ab 5.750 AED.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "von Cyan-400 bis Türkis-600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Kostenlose Namensprüfung",
+                     "title":  "Bereit, Ihren Namen zu reservieren?",
+                     "titleHighlight":  "Reservieren Sie Ihren Namen?",
+                     "subtitle":  "Lassen Sie die Namensverfügbarkeit kostenlos prüfen. Unsere Experten helfen Ihnen bei der Auswahl eines markenfí¤higen, rechtskonformen und einzigartigen Firmennamens.",
+                     "chips":  [
+                                   "Gratis-Scheck",
+                                   "Genehmigung innerhalb von 24 Stunden",
+                                   "DED + Freizonen"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Namensprüfung für mein Unternehmen in den VAE.",
+                     "whatsappCardMessage":  "Hallo! Ich mí¶chte über die Registrierung eines Firmennamens sprechen."
+                 }
+}

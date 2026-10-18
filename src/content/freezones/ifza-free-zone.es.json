@@ -1,0 +1,591 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "Autoridad de la Zona Franca Internacional",
+  "heroTitle": "Zona Franca IFZA",
+  "heroTitleHighlight": "Zona Franca",
+  "heroSubtitle": "Una de las zonas francas más dinámicas y de mayor crecimiento de los EAU. Propiedad 100% extranjera, 0% de impuestos, configuración totalmente remota: ideal para startups, pymes y emprendedores internacionales.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "0% de impuestos",
+    "Instalación en 2-3 dí­as"
+  ],
+  "heroCards": {
+    "primary": {
+      "badge": "Mejor relación calidad-precio",
+      "icon": "DollarSign",
+      "label": "Licencia de",
+      "value": "11.500 AED",
+      "highlight": "2-3 dí­as",
+      "highlightLabel": "setup",
+      "footer": "Precios transparentes, sin cargos ocultos.",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "Totalmente remoto",
+      "value": "99% en lí­nea",
+      "title": "Configurar en cualquier lugar",
+      "subtext": "No es necesario visitar Dubái.",
+      "color": "from-fuchsia-400 to-pink-500"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Configuración de dí­as",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad extranjera",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Tasa impositiva",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Más de 20.000",
+      "label": "Empresas",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyIfzaSection": {
+    "badge": "¿Por qué IFZA?",
+    "title": "¿Por qué elegir la Zona Franca de IFZA?",
+    "titleHighlight": "¿Zona Franca IFZA?",
+    "subtitle": "Una de las zonas francas de más rápido crecimiento de los EAU, con estándares internacionales y soluciones flexibles de bajo coste.",
+    "primaryCard": {
+      "icon": "Zap",
+      "title": "Rápido y económico",
+      "description": "Inscripción en tan solo 2-3 dí­as con precios bajos y transparentes y opciones de paquetes personalizados.",
+      "color": "from-violet-500 via-purple-600 to-violet-700"
+    },
+    "secondaryCards": [
+      {
+        "icon": "Globe",
+        "title": "Configuración en lí­nea al 99%.",
+        "description": "Portal totalmente digital: perfecto para emprendedores que trabajan a distancia.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Ecosistema global",
+        "description": "Soporte multilingüe y red mundial de emprendedores.",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Beneficios clave",
+    "title": "Principales ventajas de la Zona Franca IFZA",
+    "titleHighlight": "Zona Franca IFZA",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Propiedad 100% extranjera",
+        "description": "Inicie su negocio con el 100% de la propiedad y la repatriación del 100% de las ganancias y el capital, sin necesidad de un patrocinador local.",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80"
+      },
+      {
+        "icon": "Zap",
+        "title": "Configuración totalmente remota: 99 % en lí­nea.",
+        "description": "El portal digital y los servicios electrónicos de IFZA le permiten configurar y gestionar su empresa completamente en lí­nea.",
+        "color": "from-purple-400 to-fuchsia-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% de impuestos corporativos y personales",
+        "description": "Usted se beneficia de un impuesto de sociedades del 0% y de un impuesto sobre la renta personal del 0%, lo que convierte a IFZA en la jurisdicción más favorable de los EAU.",
+        "color": "from-fuchsia-400 to-pink-600",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80"
+      },
+      {
+        "icon": "FileText",
+        "title": "Míºltiples opciones de licencia",
+        "description": "Seleccione la licencia IFZA que prefiera: comercial, profesional, industrial, offshore o de activos virtuales.",
+        "color": "from-indigo-400 to-violet-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80"
+      },
+      {
+        "icon": "Clock",
+        "title": "Rapidez y eficiencia en costes",
+        "description": "Complete el registro de su empresa en IFZA en tan solo 2 o 3 dí­as con precios bajos y transparentes.",
+        "color": "from-pink-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "Ecosistema empresarial premium",
+        "description": "Ampliar el ecosistema de IFZA, conectando a emprendedores internacionales con servicios bancarios, de consultorí­a y de relaciones píºblicas.",
+        "color": "from-cyan-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Tipos de licencia",
+    "title": "7 categorí­as de licencias de IFZA",
+    "titleHighlight": "IFZA",
+    "subtitle": "Amplia selección de licencias para diversas actividades comerciales.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licencia comercial",
+        "description": "Para importación, exportación, venta al por mayor o distribución.",
+        "code": "TRD",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licencia profesional",
+        "description": "Para consultores, autónomos y proveedores de servicios.",
+        "code": "PRO",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Licencia comercial",
+        "description": "Para empresas comerciales de todos los sectores.",
+        "code": "COM",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Licencia industrial",
+        "description": "Para la fabricación, el envasado y la producción.",
+        "code": "INDIANA",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Compass",
+        "title": "Licencia turí­stica",
+        "description": "Para agencias de viajes y operadores turí­sticos.",
+        "code": "TRS",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "Licencia offshore",
+        "description": "Para empresas internacionales sin oficina en los Emiratos írabes Unidos.",
+        "code": "APAGADO",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Blocks",
+        "title": "Licencia de servicios del metaverso",
+        "description": "Para empresas de economí­a virtual y activos digitales.",
+        "code": "MTV",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "officeOptionsSection": {
+    "badge": "Soluciones de oficina",
+    "title": "Opciones de infraestructura escalables",
+    "titleHighlight": "Opciones de infraestructura",
+    "subtitle": "Diseñado a medida para startups, pymes y corporaciones multinacionales.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Escritorio flexible",
+        "description": "Espacios de trabajo compartidos económicos para startups y autónomos.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Oficinas inteligentes",
+        "description": "Oficinas compartidas listas para usar, con flexibilidad y ahorro de costes.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Oficina dedicada",
+        "description": "Oficinas corporativas acondicionadas con internet de alta velocidad y servicios.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Academia IFZA",
+        "description": "Programas de formación y perfeccionamiento profesional para emprendedores.",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "complianceSection": {
+    "badge": "Apoyo en materia de cumplimiento normativo y regulatorio",
+    "title": "Soporte completo para el cumplimiento normativo",
+    "titleHighlight": "Soporte de cumplimiento",
+    "subtitle": "Gestionamos por usted todas sus obligaciones legales y reglamentarias.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "Cumplimiento de UBO",
+        "description": "Informar sobre los beneficiarios finales para garantizar la transparencia legal y el cumplimiento de las leyes contra los delitos financieros de los EAU."
+      },
+      {
+        "icon": "Scale",
+        "title": "Cumplimiento de ESR",
+        "description": "Asesoramiento y documentación sobre la normativa de sustancia económica y la presentación de informes correspondiente."
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "Cumplimiento de las normas contra el blanqueo de capitales",
+        "description": "Evaluaciones de riesgos, debida diligencia, seguimiento de transacciones y capacitación de empleados."
+      },
+      {
+        "icon": "Receipt",
+        "title": "Asesoramiento sobre el IVA de IFZA",
+        "description": "Registro, contabilidad y presentación de declaraciones del IVA ante la Autoridad Tributaria Federal de los EAU."
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Servicios de renovación de licencias",
+        "description": "Procesos de renovación rápidos con papeleo automatizado y recordatorios electrónicos."
+      },
+      {
+        "icon": "FileBadge",
+        "title": "Servicios IFZA PRO",
+        "description": "Traducción de documentos, legalización notarial, tarjetas de trabajo y autorizaciones de inmigración."
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "Emprendedores globales",
+    "title": "¿Por qué IFZA es ideal para emprendedores globales?",
+    "titleHighlight": "Ideal para emprendedores globales",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Configuración global de IFZA",
+        "description": "Ideal para inversores extranjeros que deseen activar sus inversiones en los Emiratos írabes Unidos.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Receipt",
+        "title": "Precios transparentes",
+        "description": "Sin cargos ocultos, sin sorpresas: solo paquetes de precio fijo.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Noticias y análisis empresariales",
+        "description": "Blogs de expertos, actualizaciones del mercado y análisis del sector.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Academia y Formación IFZA",
+        "description": "Programas de capacitación de primer nivel para mejorar las habilidades de su equipo.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "Para quién es",
+    "title": "¿Quién deberí­a constituir una empresa en IFZA?",
+    "titleHighlight": "¿En IFZA?",
+    "items": [
+      {
+        "icon": "Code",
+        "title": "Empresas emergentes y emprendedores tecnológicos",
+        "description": "Agiliza tu lanzamiento al mercado con espacios de coworking rentables.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Proveedores de servicios digitales",
+        "description": "Profesionales creativos y autónomos con bajos costes operativos.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Comercio electrónico y transacciones",
+        "description": "Ubicación ideal, apoyo logí­stico y ventajas aduaneras.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Blocks",
+        "title": "Negocios de activos virtuales",
+        "description": "Licencias comerciales de blockchain y criptomonedas para servicios de metaverso.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Servicios profesionales",
+        "description": "Consultores y proveedores de servicios que necesitan licencias rentables.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Cómo te ayudamos",
+    "title": "Nuestro proceso de constitución de empresas IFZA",
+    "titleHighlight": "Proceso de formación",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Consulta gratuita y plan de negocios",
+        "description": "Analizamos sus objetivos comerciales, su sector y sus aspiraciones a largo plazo para recomendarle la licencia adecuada.",
+        "icon": "MessageCircle",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "title": "Reserva de nombre comercial",
+        "description": "Proceso completo para la reserva de nombre comercial: garantizar que esté disponible, cumpla con la normativa y esté registrado.",
+        "icon": "FileText",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "title": "Solicitud y expedición de licencias",
+        "description": "Presentación directa a través del portal digital de IFZA: la licencia se emite en pocos dí­as hábiles.",
+        "icon": "BadgeCheck",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "title": "Selección de oficinas y espacios de trabajo",
+        "description": "Escritorio flexible, oficina inteligente o espacio dedicado en Dubai Silicon Oasis: adaptados a su presupuesto.",
+        "icon": "Building2",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "05",
+        "title": "Servicios de visado",
+        "description": "Proceso completo de obtención de visa: permisos de entrada, documento de identidad de los Emiratos írabes Unidos, exámenes médicos y sellado del visado de residencia.",
+        "icon": "UserCheck",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "06",
+        "title": "Cuenta bancaria y seguro",
+        "description": "Apertura de cuentas bancarias corporativas con los principales bancos de los EAU + asesoramiento sobre seguros médicos.",
+        "icon": "CreditCard",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "costTimelineSection": {
+    "badge": "Costo y cronograma",
+    "title": "Precios transparentes (2026)",
+    "titleHighlight": "Precios (2026)",
+    "subtitle": "IFZA se caracteriza por sus precios claros y con todo incluido. Sin cargos ocultos.",
+    "costBreakdown": [
+      {
+        "item": "Licencia (inicial)",
+        "cost": "11.500",
+        "notes": "Incluye registro",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "item": "Escritorio flexible",
+        "cost": "7.500 - 9.000",
+        "notes": "Requisito anual",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "item": "Visa (por persona)",
+        "cost": "4.500 - 6.500",
+        "notes": "Emirates ID incluido",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "item": "Tarjeta de establecimiento",
+        "cost": "1.500 - 2.000",
+        "notes": "Anual",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "item": "registro del IVA",
+        "cost": "1.000 - 2.000",
+        "notes": "Si es necesario",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ],
+    "year1Total": {
+      "label": "Total tí­pico del año 1",
+      "subtext": "Sociedad unipersonal con un solo visado",
+      "fromLabel": "De",
+      "minValue": "24.000",
+      "maxValue": "35.000"
+    },
+    "timelineBadge": "Cronologí­a de IFZA",
+    "timelineTitle": "Qué esperar",
+    "timeline": [
+      {
+        "day": "Dí­a 1",
+        "title": "Reserva de nombre + Selección de actividad",
+        "description": "Le ayudamos a reservar su nombre comercial y a elegir la actividad empresarial adecuada.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "day": "Dí­a 2-3",
+        "title": "Documentos revisados, licencia emitida.",
+        "description": "Su solicitud será revisada y la licencia se emitirá en pocos dí­as hábiles.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "day": "Semana 1-2",
+        "title": "Visado médico, documento de identidad de los Emiratos írabes Unidos, sellado de visados",
+        "description": "Tramitación completa del visado, incluyendo exámenes médicos y datos biométricos para el documento de identidad de los Emiratos írabes Unidos.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "day": "Semana 2-3",
+        "title": "Se ha abierto una cuenta bancaria corporativa.",
+        "description": "Te ayudamos a abrir tu cuenta bancaria corporativa en los principales bancos de los Emiratos írabes Unidos.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "comparisonTitle": "IFZA contra Rakez contra Meydan",
+    "comparisonSubtitle": "Comparación de zonas libres de presupuesto",
+    "comparisonHeaders": {
+      "factor": "Factor",
+      "ifza": "IFZA",
+      "rakez": "Rakez",
+      "meydan": "Meydan"
+    },
+    "comparison": [
+      {
+        "factor": "Costo inicial",
+        "ifza": "11.500 AED",
+        "rakez": "6.000 AED",
+        "meydan": "5750 AED"
+      },
+      {
+        "factor": "Cupo de visas",
+        "ifza": "Hasta 15",
+        "rakez": "Hasta 10",
+        "meydan": "Hasta 6"
+      },
+      {
+        "factor": "Velocidad de procesamiento",
+        "ifza": "3 dí­as laborables",
+        "rakez": "1-3 dí­as",
+        "meydan": "1-2 dí­as"
+      },
+      {
+        "factor": "Ubicación",
+        "ifza": "Oasis de silicio de Dubái",
+        "rakez": "Ras Al Khaimah",
+        "meydan": "Dubái (Meydan)"
+      },
+      {
+        "factor": "Facilidad bancaria",
+        "ifza": "Excelente",
+        "rakez": "Bien",
+        "meydan": "Bien"
+      }
+    ],
+    "verdictLabel": "Veredicto:",
+    "verdictText": "IFZA es el lugar ideal para las empresas comerciales que necesitan escalar; Rakez y Meydan son los reyes de los costes puros."
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Zona Franca IFZA. ¿Aíºn tienes preguntas? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "¿Aíºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas de IFZA.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la Zona Franca IFZA."
+    },
+    "items": [
+      {
+        "q": "¿Qué es IFZA y por qué es perfecta para la constitución de empresas en Dubái?",
+        "a": "IFZA es una de las principales zonas francas de Dubái, conocida por su bajo coste de establecimiento, su propiedad 100% extranjera y su flexibilidad en materia de licencias. No aplica impuesto sobre la renta corporativa ni personal, lo que la hace ideal para emprendedores internacionales, pymes y startups."
+      },
+      {
+        "q": "¿Qué tan rápido se constituye una empresa en IFZA?",
+        "a": "Normalmente, el plazo es de 2 a 3 dí­as laborables con asistencia profesional. Si es necesario, podemos agilizarlo aíºn más."
+      },
+      {
+        "q": "¿Qué licencias puedo obtener con IFZA?",
+        "a": "Licencias comerciales, profesionales, industriales, para uso en alta mar, turismo y metaverso/activos virtuales."
+      },
+      {
+        "q": "¿Puedo gestionar mi negocio de forma remota con IFZA?",
+        "a": "Sí­. El portal digital de IFZA permite una configuración y gestión prácticamente en lí­nea (99%), ideal para fundadores que trabajan a distancia."
+      },
+      {
+        "q": "¿Permite IFZA la propiedad extranjera al 100%?",
+        "a": "Sí­. Propiedad extranjera total con repatriación del 100% de las ganancias y el capital; no se requiere patrocinador local."
+      },
+      {
+        "q": "¿Existe impuesto de sociedades o impuesto sobre la renta en IFZA?",
+        "a": "No. Impuesto de sociedades del 0% e impuesto sobre la renta personal del 0%: la jurisdicción más favorable en los EAU."
+      },
+      {
+        "q": "¿Qué opciones de espacio de oficinas ofrece IFZA?",
+        "a": "Escritorios flexibles, oficinas inteligentes, espacios de oficina exclusivos y servicios inmobiliarios en Dubai Silicon Oasis."
+      },
+      {
+        "q": "¿Podrí­as ayudarme a abrir una cuenta bancaria para mi empresa IFZA?",
+        "a": "Sí­. Trabajamos con los principales bancos de los EAU para abrir su cuenta corporativa con un mí­nimo de documentación."
+      },
+      {
+        "q": "¿Qué tipo de apoyo en materia de cumplimiento normativo ofrece IFZA?",
+        "a": "Cumplimiento de la normativa UBO, cumplimiento de la normativa ESR, cumplimiento de la normativa AML, asesoramiento en materia de IVA, renovación de licencias y servicios PRO."
+      },
+      {
+        "q": "¿Cuánto cuesta la configuración de IFZA?",
+        "a": "Licencia desde 11.500 AED + Flexi-desk 7.500-9.000 AED + visa 4.500-6.500 AED. Total tí­pico del primer año: 24.000 - 35.000 AED."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se adaptan perfectamente a la configuración de su Zona Franca.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos írabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Servicios de cumplimiento",
+        "description": "Asesoramiento en materia de UBO, ESR, AML e IVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa Dorada",
+        "description": "Residencia de 10 años en los Emiratos írabes Unidos para inversores y profesionales con talento.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Empieza hoy",
+    "title": "¿Listo para lanzar tu producto en IFZA?",
+    "titleHighlight": "¿IFZA?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuración, desde la selección de la actividad hasta la emisión de la licencia y la apertura de la cuenta bancaria.",
+    "chips": [
+      "Consulta gratuita",
+      "Más de 20.000 clientes",
+      "Instalación en 2-3 dí­as"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarí­a una consulta gratuita para la configuración de IFZA.",
+    "whatsappCardMessage": "¡Hola! Me gustarí­a hablar sobre la configuración de IFZA."
+  }
+}

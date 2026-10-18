@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import companyRegistrationData from '../../../content/business-setup/company-registration.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Award, FileText,
@@ -29,7 +30,9 @@ const iconMap: any = {
 };
 
 export default function CompanyRegistration({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || companyRegistrationData;
+  const { language } = useLanguage();
+  const companyRegFallback = loadContent('business-setup/company-registration', language);
+  const data = tinaData?.data?.businessSetup || companyRegFallback;
   const [activeActivity, setActiveActivity] = useState(0);
 
   const activities = data.activitiesSection.items;

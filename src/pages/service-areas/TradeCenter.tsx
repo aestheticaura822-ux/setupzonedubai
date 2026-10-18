@@ -11,7 +11,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import tradeCenterData from '../../content/service-areas/trade-center.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, Users, DollarSign, MapPin, Briefcase, Zap,
   Clock, Award, Layers, Landmark, Sparkles, ArrowRight, CheckCircle2,
@@ -19,7 +20,9 @@ const iconMap: any = {
 };
 
 export default function TradeCenter({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || tradeCenterData;
+  const { language } = useLanguage();
+  const tradeCenterFallback = loadContent('service-areas/trade-center', language);
+  const data = tinaData?.data?.serviceAreas || tradeCenterFallback;
   const AREA_NAME = data.areaName;
   const AREA_SHORT = data.areaShort;
 

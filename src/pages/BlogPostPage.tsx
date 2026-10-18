@@ -11,8 +11,8 @@ import {
 } from 'lucide-react';
 import { getWhatsAppLink } from '../lib/whatsapp';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
-import postsData from '../content/blog/posts.json';
-import postContentData from '../content/blog/postContent.json';
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 
 export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
   const { slug } = useParams<{ slug: string }>();
@@ -20,23 +20,84 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
   const [commentForm, setCommentForm] = useState({ name: '', email: '', website: '', message: '' });
   const [commentSubmitted, setCommentSubmitted] = useState(false);
 
-  // Tina se ya local JSON se data
-  const allPosts = tinaData?.data?.blogPosts?.posts || postsData.posts;
-  const categories = tinaData?.data?.blogPosts?.categories || postsData.categories;
-  const archiveNames = tinaData?.data?.blogPosts?.archiveNames || postsData.archiveNames;
-  const popularTags = tinaData?.data?.blogPosts?.popularTags || postsData.popularTags;
+  const { language } = useLanguage();
+  const postsFallback = loadContent('blog/posts', language) || {};
+  const postContentsFallback = loadContent('blog/postContent', language) || {};
+  const tagContentFallback = loadContent('blog/tagContent', language) || {};
+  
+  const posts = tinaData?.data?.blogPosts?.posts || postsFallback.posts || [];
+  const postContents = tinaData?.data?.postContent?.postContents || postContentsFallback.postContents || [];
+  const tagContents = tinaData?.data?.tagContent?.tagContents || tagContentFallback.tagContents || [];
 
-  // Post content
-  const postContents = tinaData?.data?.postContent?.postContents || postContentData.postContents;
+  const slugifyTag = (s: string) =>
+    s
+      .replace(/İ/g, 'i').replace(/I/g, 'i').replace(/ı/g, 'i')
+      .replace(/Ş/g, 's').replace(/ş/g, 's')
+      .replace(/Ğ/g, 'g').replace(/ğ/g, 'g')
+      .replace(/Ç/g, 'c').replace(/ç/g, 'c')
+      .replace(/Ü/g, 'u').replace(/ü/g, 'u')
+      .replace(/Ö/g, 'o').replace(/ö/g, 'o')
+      .replace(/Â/g, 'a').replace(/â/g, 'a')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
 
-  // Find post basic info + content
-  const post = allPosts.find((p: any) => p.slug === slug) || allPosts[0];
-  const contentBlock = postContents.find((pc: any) => pc.slug === post.slug);
-  const content = contentBlock?.content || [];
+  // ✅ Post find karo
+  const post = posts.find((p: any) => p.slug === slug);
 
-  const relatedPosts = allPosts.filter((p: any) => p.slug !== post.slug).slice(0, 3);
+  // ✅ Derived lists (Sabse pehle derive karo taake crash na ho)
+  const allPosts = posts;
+  const archiveNames: string[] = Array.from(
+    new Set(
+      posts.map((p: any) => p?.date).filter(Boolean).map((d: string) => {
+        const date = new Date(d);
+        return isNaN(date.getTime()) ? null : date.toLocaleString('en-US', { month: 'long', year: 'numeric' });
+      }).filter(Boolean)
+    )
+  ) as string[];
+
+  const categories = Array.from(
+    new Map(
+      posts.filter((p: any) => p?.category).map((p: any) => [
+        p.category,
+        {
+          slug: slugifyTag(p.category),
+          name: p.category,
+          count: posts.filter((x: any) => x.category === p.category).length,
+        },
+      ])
+    ).values()
+  );
+
+  const popularTags: string[] = Array.from(
+    new Set(posts.flatMap((p: any) => p?.tags || []))
+  );
+
+  const relatedPosts = allPosts.filter((p: any) => p.slug !== post?.slug).slice(0, 3);
   const recentPosts = allPosts.slice(0, 5);
   const sidebarArchives = archiveNames.slice(0, 8);
+
+  // ✅ CRASH GUARD (Agar URL galat ho to page crash nahi hoga)
+  if (!post) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-white px-6">
+        <div className="text-center max-w-md">
+          <div className="w-20 h-20 mx-auto rounded-full bg-violet-100 flex items-center justify-center mb-6">
+            <BookOpen size={36} className="text-violet-600" />
+          </div>
+          <h1 className="text-3xl font-black text-slate-900 mb-3">Post not found</h1>
+          <p className="text-slate-500 mb-6 font-medium">Ye article mojood nahi hai ya URL ghalat hai.</p>
+          <Link to="/blog" className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-violet-600 text-white font-bold text-sm hover:bg-violet-700 transition">
+            <ArrowRight size={16} className="rotate-180" /> Back to Blog
+          </Link>
+        </div>
+      </div>
+    );
+  }
+
+  // Post content
+  const contentBlock = postContents.find((pc: any) => pc.slug === post.slug);
+  const content = contentBlock?.content || [];
 
   // Comment submit → WhatsApp
   const handleCommentSubmit = (e: React.FormEvent) => {
@@ -64,7 +125,8 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
             <ChevronRight size={14} />
             <Link to="/blog" className="hover:text-white">Blog</Link>
             <ChevronRight size={14} />
-            <Link to={`/blog/category/${post.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} className="hover:text-white">{post.category}</Link>
+            {/* ✅ Breadcrumb mein slugifyTag use kiya */}
+            <Link to={`/blog/category/${slugifyTag(post.category)}`} className="hover:text-white">{post.category}</Link>
           </div>
 
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.1 }} className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 mb-6">
@@ -165,11 +227,15 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
                   <div className="mt-8 pt-6 border-t border-slate-200">
                     <div className="flex flex-wrap items-center gap-2">
                       <span className="text-xs font-black text-slate-500 uppercase tracking-widest">Tags:</span>
-                      {post.tags?.map((tag: string, i: number) => (
-                        <Link key={i} to={`/blog/tag/${tag.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} className="px-3 py-1 rounded-full bg-violet-50 border border-violet-200 text-[11px] font-bold text-violet-700 hover:bg-violet-100 transition">
-                          {tag}
-                        </Link>
-                      ))}
+                      {post.tags?.map((tag: string, i: number) => {
+                        const matchedTag = tagContents.find((tc: any) => tc.name === tag || slugifyTag(tc.name) === slugifyTag(tag));
+                        const tSlug = matchedTag?.slug || slugifyTag(tag);
+                        return (
+                          <Link key={i} to={`/blog/tag/${tSlug}`} className="px-3 py-1 rounded-full bg-violet-50 border border-violet-200 text-[11px] font-bold text-violet-700 hover:bg-violet-100 transition">
+                            {tag}
+                          </Link>
+                        );
+                      })}
                     </div>
                   </div>
                 </div>
@@ -181,7 +247,7 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
                 <div className="p-6 md:p-8">
                   <div className="flex items-center gap-3 mb-6">
                     <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-emerald-400 to-green-600 flex items-center justify-center shadow-md">
-<WhatsAppIcon size={20} className="text-white" />
+                      <WhatsAppIcon size={20} className="text-white" />
                     </div>
                     <div>
                       <h3 className="text-lg font-black text-[#0A0F1F]">Leave a Reply</h3>
@@ -276,7 +342,8 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
                 </h3>
                 <div className="space-y-1.5 max-h-64 overflow-y-auto pr-1">
                   {sidebarArchives.map((month: string, i: number) => (
-                    <Link key={i} to={`/blog/archive/${month.toLowerCase().replace(' ', '-')}`}
+                    // ✅ Archives ke liye slugifyTag use kiya
+                    <Link key={i} to={`/blog/archive/${slugifyTag(month)}`}
                       className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-violet-700 hover:bg-violet-50 transition-colors">
                       <span className="flex items-center gap-2">
                         <ChevronRight size={11} className="text-violet-500 group-hover:translate-x-0.5 transition-transform" strokeWidth={3} />
@@ -310,12 +377,17 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
                   <Sparkles size={14} className="text-violet-600" /> Popular Tags
                 </h3>
                 <div className="flex flex-wrap gap-2">
-                  {popularTags.map((tag: string, i: number) => (
-                    <Link key={i} to={`/blog/tag/${tag.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}
-                      className="px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 text-[11px] font-bold text-slate-600 hover:bg-violet-50 hover:border-violet-300 hover:text-violet-700 transition-all">
-                      {tag}
-                    </Link>
-                  ))}
+                  {popularTags.map((tag: string, i: number) => {
+                    const matchedTag = tagContents.find((tc: any) => 
+                      tc.name === tag || slugifyTag(tc.name) === slugifyTag(tag)
+                    );
+                    const tSlug = matchedTag?.slug || slugifyTag(tag);
+                    return (
+                      <Link key={i} to={`/blog/tag/${tSlug}`} className="px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 text-[11px] font-bold text-slate-600 hover:bg-violet-50 hover:border-violet-300 hover:text-violet-700 transition-all">
+                        {tag}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
 
@@ -329,7 +401,7 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
                   <p className="text-sm text-white/90 font-medium leading-relaxed mb-4">Talk to our experts — free consultation for your UAE business.</p>
                   <a href={getWhatsAppLink("Hi! I need help with UAE business setup.")} target="_blank" rel="noreferrer"
                     className="inline-flex items-center justify-center gap-2 w-full px-4 py-2.5 rounded-xl bg-white text-violet-700 font-black text-xs uppercase tracking-widest shadow-lg hover:scale-105 transition-transform">
-<WhatsAppIcon size={14} className="text-emerald-600" />
+                    <WhatsAppIcon size={14} className="text-emerald-600" />
                   </a>
                 </div>
               </div>
@@ -401,7 +473,7 @@ export default function BlogPostPage({ tinaData }: { tinaData?: any }) {
               </p>
               <div className="flex flex-wrap gap-4 justify-center">
                 <a href={getWhatsAppLink("Hi! I'd like a free consultation.")} target="_blank" rel="noreferrer" className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-violet-700 font-bold text-sm shadow-xl hover:scale-105 transition-all">
-<WhatsAppIcon size={16} className="text-emerald-600" />
+                  <WhatsAppIcon size={16} className="text-emerald-600" />
                   <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                 </a>
                 <Link to="/contact" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all">

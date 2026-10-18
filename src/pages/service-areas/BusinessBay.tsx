@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import businessBayData from '../../content/service-areas/business-bay.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, UserCheck, Wallet, DollarSign, Users,
   Layers, MapPin, Briefcase, Zap, Clock, Award, Target, TrendingUp,
@@ -22,7 +23,9 @@ const iconMap: any = {
 };
 
 export default function BusinessBay({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || businessBayData;
+  const { language } = useLanguage();
+  const businessBayFallback = loadContent('service-areas/business-bay', language);
+  const data = tinaData?.data?.serviceAreas || businessBayFallback;
   const AREA_NAME = data.areaName;
 
   return (

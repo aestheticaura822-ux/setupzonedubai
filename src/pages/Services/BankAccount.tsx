@@ -12,6 +12,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import bankData from '../../content/services/bank-account.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Zap, Landmark, Users, Award, Wallet, Briefcase, FileCheck, TrendingUp,
   ShieldCheck, Building2, Globe, Clock, DollarSign, FileText, Calendar,
@@ -20,7 +22,9 @@ const iconMap: any = {
 };
 
 export default function BankAccount({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || bankData;
+  const { language } = useLanguage();
+  const bankAccountFallback = loadContent('services/bank-account', language);
+  const data = tinaData?.data?.services || bankAccountFallback;
 
   return (
     <div className="min-h-screen bg-white">

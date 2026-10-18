@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dmcData from '../../content/freezones/dubai-media-city-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Phone, MessageCircle, HomeIcon, Clock,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function DubaiMediaCity({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dmcData;
+  const { language } = useLanguage();
+  const dmcFallback = loadContent('freezones/dubai-media-city-free-zone', language);
+  const data = tinaData?.data?.freeZones || dmcFallback;
 
   return (
     <div className="min-h-screen bg-white">

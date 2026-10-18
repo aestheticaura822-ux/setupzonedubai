@@ -1,0 +1,202 @@
+{
+  "brand": {
+    "name": "منطقة التجهيز في دبي",
+    "shortName": "مقاس",
+    "operatedBy": "تشغلها شركة برايت لينك",
+    "description": "شريكك الموثوق في الإمارات العربية المتحدة لتأسيس الأعمال والإقامة والخدمات المهنية - يقدم إرشادات واضحة ودعمًا سلسًا في كل خطوة على الطريق.",
+    "badges": [
+      {
+        "icon": "ShieldCheck",
+        "label": "مرخص"
+      },
+      {
+        "icon": "Star",
+        "label": "تقييم 4.9"
+      },
+      {
+        "icon": "Building2",
+        "label": "تمت الموافقة من قبل إدارة التدريب والتعليم"
+      }
+    ],
+    "socialsTitle": "تواصل معنا"
+  },
+  "ctaBanner": {
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "badge": "موثوق به من قبل أكثر من 500 شركة",
+    "title": "ابدأ مشروعك التجاري في دبي اليوم",
+    "titleHighlight": "اليوم",
+    "subtitle": "احصل على استشارة مجانية من خبرائنا. من تأسيس الشركات إلى التأشيرات والخدمات المصرفية والامتثال - نحن نتولى كل شيء.",
+    "primaryCta": "احصل على استشارة مجانية",
+    "secondaryCta": "اتصل الآن",
+    "stats": [
+      {
+        "value": "أكثر من 10000",
+        "label": "عملاء سعداء"
+      },
+      {
+        "value": "15+",
+        "label": "سنوات من الخبرة"
+      },
+      {
+        "value": "25+",
+        "label": "مستشارون خبراء"
+      },
+      {
+        "value": "24/7",
+        "label": "خدمة العملاء"
+      }
+    ]
+  },
+  "quickLinksTitle": "روابط سريعة",
+  "quickLinks": [
+    {
+      "name": "بيت",
+      "href": "/",
+      "icon": "HomeIcon"
+    },
+    {
+      "name": "معلومات عنا",
+      "href": "/about",
+      "icon": "Users"
+    },
+    {
+      "name": "باقاتنا",
+      "href": "/#packages",
+      "icon": "Wallet"
+    },
+    {
+      "name": "موارد",
+      "href": "/resources",
+      "icon": "FileText"
+    },
+    {
+      "name": "اتصل بنا",
+      "href": "/contact",
+      "icon": "MessageCircle"
+    }
+  ],
+  "servicesTitle": "خدماتنا",
+  "serviceLinks": [
+    {
+      "name": "إعداد المنطقة الحرة",
+      "slug": "freezone"
+    },
+    {
+      "name": "الإعداد في البر الرئيسي",
+      "slug": "mainland"
+    },
+    {
+      "name": "ضريبة الشركات وضريبة القيمة المضافة",
+      "slug": "corporate-tax-vat"
+    },
+    {
+      "name": "فتح حساب مصرفي",
+      "slug": "bank-account"
+    },
+    {
+      "name": "تأشيرة غولدن فيزا",
+      "slug": "golden-visa"
+    },
+    {
+      "name": "خدمات احترافية",
+      "slug": "pro-services"
+    },
+    {
+      "name": "خدمات الامتثال",
+      "slug": "compliance"
+    }
+  ],
+  "contactTitle": "تواصل معنا",
+  "contact": {
+    "phone": {
+      "label": "اتصل بنا",
+      "value": "+971 56 655 6645",
+      "hours": "من الإثنين إلى السبت: من الساعة 9 صباحاً إلى الساعة 6 مساءً",
+      "href": "tel:+971566556645"
+    },
+    "email": {
+      "label": "راسلنا عبر البريد الإلكتروني",
+      "value": "setupzonedubai@gmail.com",
+      "href": "mailto:setupzonedubai@gmail.com"
+    },
+    "address": {
+      "label": "تفضل بزيارتنا",
+      "line1": "المكتب M08-27، الطابق M1، برج كريستال",
+      "line2": "منطقة الخليج التجاري، دبي، الإمارات العربية المتحدة - صندوق بريد 554552",
+      "href": "https://maps.app.goo.gl/LNRyUy4djwMDFsQ46"
+    },
+    "whatsapp": {
+      "label": "تواصل معنا عبر واتساب",
+      "message": "مرحباً! أود معرفة المزيد عن خدماتكم."
+    }
+  },
+  "socials": [
+    {
+      "name": "فيسبوك",
+      "icon": "FaFacebookF",
+      "href": "https://www.facebook.com/brightlinkconsulting.uae/",
+      "color": "from-blue-500 to-blue-700"
+    },
+    {
+      "name": "انستغرام",
+      "icon": "FaInstagram",
+      "href": "https://www.instagram.com/brightlink.consulting/",
+      "color": "from-pink-500 to-fuchsia-600"
+    },
+    {
+      "name": "تيك توك",
+      "icon": "FaTiktok",
+      "href": "https://www.tiktok.com/@brightlink.consulting",
+      "color": "from-slate-800 to-black"
+    },
+    {
+      "name": "يوتيوب",
+      "icon": "FaYoutube",
+      "href": "https://www.youtube.com/@brightlinkconsulting",
+      "color": "from-red-500 to-red-700"
+    },
+    {
+      "name": "لينكد إن",
+      "icon": "FaLinkedinIn",
+      "href": "https://www.linkedin.com/company/brightlink-management-consultancy/",
+      "color": "from-sky-500 to-blue-700"
+    },
+    {
+      "name": "X (تويتر)",
+      "icon": "FaXTwitter",
+      "href": "https://x.com/BRIGHTLINKCONS1",
+      "color": "from-slate-700 to-black"
+    },
+    {
+      "name": "برقية",
+      "icon": "FaTelegramPlane",
+      "href": "https://t.me/brightlinkgroup",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "name": "بينترست",
+      "icon": "FaPinterestP",
+      "href": "https://www.pinterest.com/brightlinkconsulting/",
+      "color": "from-red-500 to-red-700"
+    }
+  ],
+  "reviews": {
+    "rating": "4.9",
+    "outOf": "/ 5.0",
+    "reviewCount": "أكثر من 75 تقييمًا موثقًا",
+    "googleLabel": "مراجعات جوجل",
+    "ctaText": "اكتب مراجعة",
+    "ctaHref": "https://g.page/r/CdQ9UxY-AOkxEAE/review"
+  },
+  "bottomBar": {
+    "copyright": "© 2026 منطقة الإعداد دبي - تشغلها شركة برايت لينك.",
+    "rightsText": "جميع الحقوق محفوظة.",
+    "madeWithText": "صُنع بكل حب في دبي"
+  },
+  "disclaimer": {
+    "title": "تنصل: ",
+    "text": "يُدار موقع Setupzonedubai.ae من قِبل شركة Brightlink Management Consultancy LLC، وهي شركة خاصة مرخصة في دبي لتقديم خدماتها. نحن لسنا جهة حكومية، ولا ننتمي إلى حكومة دولة الإمارات العربية المتحدة أو أي من دوائرها، ولا نحظى بتأييدها. نساعد عملاءنا في تأسيس الشركات، وكتابة المستندات المتعلقة بالتأشيرات، وتوثيقها، وتعبئة الطلبات وتقديمها عبر القنوات الرسمية المختصة (دائرة السياحة والسفر، والإدارة العامة للإقامة وشؤون الأجانب في دبي، وهيئة الهجرة والجوازات، ووزارة الخارجية)، وذلك نيابةً عن العميل وبموافقته. تُحدد الرسوم الحكومية من قِبل الجهات المختصة وتُدفع لها، بينما تُفرض رسوم خدماتنا بشكل منفصل ويتم الإفصاح عنها قبل أي التزام. يمكن للمتقدمين إكمال الطلبات نفسها مباشرةً عبر البوابات الرسمية: icp.gov.ae، وgdrfad.gov.ae، وu.ae. التقديرات المعروضة هي لأغراض المعلومات فقط ولا تُعد استشارة قانونية.",
+    "lastReviewed": "تمت مراجعة المحتوى آخر مرة بتاريخ 01-09-2026",
+    "verifiedText": "شركة موثقة"
+  }
+}

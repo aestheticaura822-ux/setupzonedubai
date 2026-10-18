@@ -1,0 +1,479 @@
+{
+  "slug": "hiring-employee-management",
+  "hero": {
+    "badge": "寻找并招募最优秀的人才",
+    "title": "阿联酋招聘——员工管理",
+    "titleHighlight": "员工管理",
+    "subtitle": "在迪拜及阿联酋各地提供专业的招聘解决方案。从人才搜寻到入职培训，我们为您找到能够助力业务增长的人才。",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+    "breadcrumbLabel": "阿联酋招聘",
+    "breadcrumbParent": "大陆",
+    "ctaPrimaryText": "获取免费咨询",
+    "ctaPrimaryLink": "＃接触",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对阿联酋的招聘服务很感兴趣。",
+    "badges": [
+      "超过 10,000 个工作岗位",
+      "符合MOHRE标准",
+      "批量招聘",
+      "阿联酋化"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "10,000+",
+      "label": "安置安排",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "4",
+      "label": "各大洲来源",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "符合MOHRE标准",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "48小时",
+      "label": "平均入围时间",
+      "color": "from-purple-400 to-fuchsia-600"
+    }
+  ],
+  "intro": {
+    "badge": "为什么这很重要",
+    "title": "为什么招聘合适的人才如此重要？",
+    "titleHighlight": "这么重要吗？",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "合适的人才",
+    "imageBadgeText": "正确的成长",
+    "paragraph1": "阿联酋竞争激烈、瞬息万变的商业环境表明，成功的基础不仅在于雇佣员工，更在于雇佣合适的、技能娴熟、资质合格、积极进取的人才，这些人能够直接助力企业发展。",
+    "paragraph2": "在金融、银行、科技、IT服务、电子商务、零售、酒店、旅游、建筑、物流、医疗保健、教育和创意产业等领域，找到并留住合适的人才是推动领先企业发展的关键差异化因素之一。",
+    "paragraph3": "Setup Zone Dubai 的招聘解决方案简化了招聘流程，提供端到端的服务——包括个人资料匹配、筛选、背景调查、技能评估、签证办理和合同管理。",
+    "features": [
+      "合适的技能",
+      "文化契合度",
+      "行业知识",
+      "生产力提升",
+      "稳定",
+      "可持续增长"
+    ]
+  },
+  "industriesSection": {
+    "badge": "人才解决方案，涵盖各行各业",
+    "title": "我们为哪些行业招聘员工？",
+    "titleHighlight": "招聘职位？",
+    "subtitle": "浏览我们的行业专长——7 个领域，无限可能。",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "公司及行政部门",
+        "description": "行政管理人员、会计、人力资源经理、办公室行政人员、公司秘书和高级行政助理。",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "roles": [
+          "行政管理",
+          "会计师",
+          "人力资源经理",
+          "公司秘书"
+        ]
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "销售与市场营销",
+        "description": "业务拓展、数字营销、营销经理、销售经理、客户经理和品牌专家。",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "roles": [
+          "业务拓展",
+          "数字营销",
+          "销售经理",
+          "品牌专家"
+        ]
+      },
+      {
+        "icon": "Cpu",
+        "title": "信息技术与技术",
+        "description": "开发人员、IT工程师、数据分析师、网络安全专家、云计算和数字化转型顾问。",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "roles": [
+          "开发者",
+          "IT工程师",
+          "数据分析师",
+          "网络安全"
+        ]
+      },
+      {
+        "icon": "Crown",
+        "title": "酒店及旅游业",
+        "description": "酒店经理、行政总厨、客户关系经理、活动经理、客房经理和旅行顾问。",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "roles": [
+          "酒店经理",
+          "行政总厨",
+          "客户关系",
+          "活动经理"
+        ]
+      },
+      {
+        "icon": "Factory",
+        "title": "建筑与工程",
+        "description": "项目经理、土木/机械/电气工程师、建筑师、现场主管和熟练工人。",
+        "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "roles": [
+          "项目经理",
+          "工程师",
+          "建筑师",
+          "现场主管"
+        ]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "健康与保健",
+        "description": "医生、护士、理疗师、药剂师、治疗师、医疗技师和诊所经理。",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "roles": [
+          "医生",
+          "护士",
+          "药剂师",
+          "治疗师"
+        ]
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "教育与培训",
+        "description": "合格的教师、学术协调员、课程开发人员、讲师、培训师和学习专家。",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-rose-500 to-red-700",
+        "roles": [
+          "教师",
+          "协调员",
+          "讲师",
+          "教练"
+        ]
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "高效招聘，降低风险",
+    "title": "我们的阿联酋招聘流程是怎样的？",
+    "titleHighlight": "阿联酋招聘流程",
+    "subtitle": "点击每个步骤即可展开查看完整详情。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "UserPlus",
+        "title": "人才搜寻",
+        "description": "利用各种招聘平台和行业人脉，接触迪拜、阿布扎比以及国际上的高技能专业人士网络。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSearch",
+        "title": "候选人筛选",
+        "description": "资格预审、彻底审查、背景调查、推荐人核实和技术技能测试，以淘汰不合格的候选人。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "03",
+        "icon": "Users",
+        "title": "面试管理",
+        "description": "完整的面试流程——安排面试、跟进候选人、收集雇主反馈，以实现顺利、高效的招聘。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "icon": "Handshake",
+        "title": "报价管理",
+        "description": "在预算范围内协商薪资、制定福利方案、构建雇佣条款并制定合同。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "05",
+        "icon": "CreditCard",
+        "title": "签证及入境",
+        "description": "入职前签证办理、体检、阿联酋身份证、居留文件和劳动合同准备。",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "为什么选择与我们合作",
+    "title": "通过迪拜 Setup Zone 招聘的优势",
+    "titleHighlight": "与迪拜设置区",
+    "subtitle": "六大优势使我们成为您理想的招聘合作伙伴。",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "获取本地及国际人才资源",
+        "description": "与阿联酋顶尖专业人士和全球人才建立联系——包括阿联酋公民、海湾合作委员会高管以及国际人才。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "遵守阿联酋劳动法",
+        "description": "100% 符合阿联酋劳动法、人力资源和酋长国化部规章、自由区管理局规则和签证规定。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "更快的招聘时间表",
+        "description": "高效的招聘渠道和先进的筛选机制可以缩短招聘时间，并快速为您匹配合适的人才。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "行业特定知识",
+        "description": "行业专家顾问确保您聘请到具备合适技能、资质和文化契合度的专业人员。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "所有招聘和签证解决方案",
+        "description": "端到端招聘——合同、审批、签证、体检、阿联酋身份证和入职，全部由公司内部管理。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Target",
+        "title": "专为企业量身定制",
+        "description": "根据您的目标、预算和人力资源计划，量身定制招聘解决方案——无论是初创公司还是跨国公司。",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "emiratisationSection": {
+    "badge": "阿联酋化支持",
+    "title": "我们是否支持阿联酋化招聘？",
+    "titleHighlight": "阿联酋化招聘？",
+    "paragraph1": "在迪拜就业服务中心，我们帮助雇主团体履行其阿联酋化承诺和政府招聘配额——从事各个级别合格阿联酋国民的招聘、审查和安置工作。",
+    "paragraph2": "雇用阿联酋公民既能确保合规，又能与社区建立联系——此外还能提升企业声誉，并为国家劳动力发展做出贡献。",
+    "paragraph3": "我们提供量身定制的入职培训计划、文化融合支持和持续的培训计划，旨在增强贵公司阿联酋国民的能力。",
+    "features": [
+      {
+        "icon": "UsersRound",
+        "label": "阿联酋化合规性",
+        "desc": "达到政府招聘配额"
+      },
+      {
+        "icon": "Trophy",
+        "label": "阿联酋国民招聘",
+        "desc": "寻找和安置阿联酋人才"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "入职培训计划",
+        "desc": "量身定制的文化融合"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "职业发展",
+        "desc": "持续的培训和成长"
+      },
+      {
+        "icon": "Award",
+        "label": "企业声誉",
+        "desc": "社区参与"
+      },
+      {
+        "icon": "Scale",
+        "label": "完全合规",
+        "desc": "阿联酋劳动法"
+      }
+    ],
+    "visualCards": [
+      {
+        "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80",
+        "tag": "遵守",
+        "title": "政府配额"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+        "tag": "发展",
+        "title": "职业发展"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
+        "tag": "一体化",
+        "title": "文化融入"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+        "tag": "领导",
+        "title": "高管职位"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "为什么选择迪拜Setup Zone进行招聘？",
+    "titleHighlight": "迪拜安装区",
+    "subtitle": "四大支柱使我们成为阿联酋企业值得信赖的招聘合作伙伴。",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "卓著的招聘成功案例",
+        "description": "在为阿联酋各行业的领先企业成功推荐合格候选人方面拥有良好的记录。"
+      },
+      {
+        "icon": "Target",
+        "title": "定制化招聘解决方案",
+        "description": "每个企业都是独一无二的——我们会根据您的行业和企业文化量身定制每一次招聘，以确保最佳匹配。"
+      },
+      {
+        "icon": "Eye",
+        "title": "完全透明",
+        "description": "招聘过程完全透明，绝无任何隐性费用。每个阶段都会有清晰的进展更新，让您完全放心。"
+      },
+      {
+        "icon": "Heart",
+        "title": "入职后整合与支持",
+        "description": "招聘后仍会提供支持，包括后续跟进，以确保顺利入职、文化契合度和员工留任。"
+      }
+    ]
+  },
+  "bulkOverseasSection": {
+    "bulk": {
+      "icon": "UsersRound",
+      "tag": "大规模招聘",
+      "title": "我们能否应对阿联酋项目的大规模招聘？",
+      "description": "我们为需要在多个部门高效扩展的组织提供大规模招聘解决方案。从办公室和酒店到自由区和大型项目，我们都能提供从人才搜寻到入职的全程合规服务。",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+      "gradient": "from-blue-900/90 via-indigo-900/85 to-violet-900/80",
+      "accentColor": "文本-蓝色-300",
+      "tags": [
+        "办公室",
+        "酒店",
+        "自由区",
+        "大型项目"
+      ]
+    },
+    "overseas": {
+      "icon": "Globe2",
+      "tag": "全球人才",
+      "title": "我们是否协助海外招聘？",
+      "description": "是的——我们提供来自亚洲、欧洲、非洲和美洲的本地和国际人才招聘服务。我们的一站式海外招聘服务涵盖人才搜寻、背景调查、人力资源和酋长国化部（MOHRE）合规性、工作签证、工作许可和搬迁支持。",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&q=80",
+      "gradient": "from-violet-900/90 via-purple-900/85 to-fuchsia-900/80",
+      "accentColor": "text-violet-300",
+      "tags": [
+        "亚洲",
+        "欧洲",
+        "非洲",
+        "美洲"
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于在阿联酋招聘，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "items": [
+      {
+        "q": "在阿联酋招聘员工涉及哪些流程？",
+        "a": "在阿联酋招聘员工包括候选人搜寻、准备录用通知书、准备雇佣合同、办理工作许可和签证、体检、阿联酋身份证注册以及获得阿联酋人力资源和酋长国化部 (MOHRE) 对雇佣合同的批准。每一步都必须遵守阿联酋劳动法。"
+      },
+      {
+        "q": "外国公司可以在阿联酋雇佣员工吗？",
+        "a": "是的。拥有合法阿联酋实体（自由区或本土）的外国公司可以雇佣员工。我们将协助您办理所有法律手续，包括工作许可、签证以及阿联酋人力资源和酋长国化部 (MOHRE) 的合规事宜。"
+      },
+      {
+        "q": "在阿联酋招聘一名员工需要多长时间？",
+        "a": "通常情况下，人才搜寻和筛选需要1-2周，面试和录用需要1-2周，签证办理需要2-4周。我们高效的流程能够显著缩短招聘时间。"
+      },
+      {
+        "q": "阿联酋化政策是否会影响公司招聘？",
+        "a": "是的。某些公司必须满足阿联酋公民就业配额才能雇用阿联酋国民。我们能帮助您满足这些要求，同时为您的企业找到最优秀的人才。"
+      },
+      {
+        "q": "雇主可以从阿联酋境外招聘人才吗？",
+        "a": "当然。我们提供来自亚洲、欧洲、非洲和美洲的本地和国际人才招聘服务，完全遵守阿联酋人力资源和酋长国政府以及移民法。"
+      },
+      {
+        "q": "你们在阿联酋主要招聘哪些行业的员工？",
+        "a": "我们的招聘范围涵盖企业及行政、销售及市场营销、IT及技术、酒店及旅游、建筑及工程、医疗保健及健康、教育及培训等领域。"
+      },
+      {
+        "q": "在阿联酋，员工入职的成本有哪些？",
+        "a": "费用包含签证办理、体检、阿联酋身份证、劳动合同和强制性福利。我们提供透明定价，绝无任何隐性费用。"
+      },
+      {
+        "q": "Setup Zone Dubai 能否协助开展批量招聘项目？",
+        "a": "是的。我们专注于为办公室、酒店、自由区和大型项目提供大规模招聘服务——从人才搜寻到入职，全程合规处理。"
+      },
+      {
+        "q": "您是否支持从海外招聘人员到阿联酋工作？",
+        "a": "是的。我们的一站式海外招聘服务涵盖人才搜寻、背景审查、人力资源和酋长国化部合规性要求、工作签证、工作许可和搬迁支持。"
+      },
+      {
+        "q": "为什么选择 Setup Zone Dubai 在阿联酋招聘？",
+        "a": "我们提供行之有效的招聘服务、定制化解决方案、完全透明、入职后支持以及完全合规——为您节省时间并降低风险。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "相关服务",
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的招聘需求完美匹配的服务。",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "大陆活动",
+        "description": "在迪拜和阿联酋境内，有超过 2000 项活动获得了迪拜经济发展局 (DED) 的批准。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "office-space-solutions",
+        "title": "阿联酋办公空间解决方案",
+        "description": "迪拜及阿联酋各地的优质办公空间。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "阿联酋大陆签证服务",
+        "description": "投资签证、工作签证和家庭签证。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "打造你的梦之队",
+    "title": "准备好招聘合适的人才了吗？",
+    "titleHighlight": "合适的人才？",
+    "subtitle": "获取免费咨询。我们将帮助您找到、筛选并聘用最适合您阿联酋业务的专业人才。",
+    "primaryCta": "WhatsApp 联系我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想咨询一下在阿联酋招聘的相关信息，希望能获得免费咨询。",
+    "badges": [
+      "免费咨询",
+      "10000+个工作岗位",
+      "完全合规"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

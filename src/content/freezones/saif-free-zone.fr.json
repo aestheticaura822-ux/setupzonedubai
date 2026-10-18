@@ -1,0 +1,402 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1600&q=80",
+  "heroBadge": "Zone franche internationale de l'aéroport de Sharjah",
+  "heroTitle": "Zone franche SAIF",
+  "heroTitleHighlight": "Zone franche",
+  "heroSubtitle": "L'une des zones franches les plus stratégiquement situées des Émirats arabes unis, à proximité de l'aéroport international de Sharjah, avec un accès direct aux principaux axes routiers et ports maritimes. Idéale pour la logistique, la production industrielle et le commerce international.",
+  "heroChips": [
+    "Installation le jour même",
+    "Taxe de 0 %",
+    "Aéroport adjacent"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "Le même jour",
+      "label": "Inscription",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Impôts et douanes",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Plane",
+      "value": "Aéroport",
+      "label": "Zone adjacente",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whySaifSection": {
+    "badge": "Pourquoi la zone SAIF",
+    "title": "Avantages de la création d'une zone franche SAIF",
+    "titleHighlight": "Zone franche SAIF",
+    "subtitle": "L'une des zones franches les plus stratégiquement situées des Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Propriété étrangère à 100 %",
+        "description": "Contrôle total des décisions, des profits et des opérations.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "petit"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Impôt sur les sociétés et sur le revenu des particuliers à 0 %",
+        "description": "Pas d'impôt sur le revenu, pas d'impôt sur les sociétés — gagnez plus et réinvestissez plus.",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Package",
+        "title": "Pas de droits d'importation/exportation",
+        "description": "Exonération de tous droits de douane sur les importations et les exportations à l'intérieur de la zone.",
+        "color": "from-cyan-400 to-sky-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Plane",
+        "title": "Emplacement de choix à proximité de l'aéroport de Sharjah",
+        "description": "Accès direct aux principales autoroutes et ports maritimes des Émirats arabes unis — idéal pour la logistique, la distribution, le transport de marchandises et le commerce international.",
+        "color": "from-sky-400 to-blue-600",
+        "size": "grand"
+      },
+      {
+        "icon": "Zap",
+        "title": "Installation rapide",
+        "description": "Inscription le jour même avec approbation instantanée de la licence et documentation numérique complète.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Building2",
+        "title": "Grande variété d'installations",
+        "description": "Bureaux prêts à l'emploi, unités industrielles légères, entrepôts et superficie de terrain personnalisable.",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "petit"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Types de licences",
+    "title": "Choisissez la licence SAIF appropriée",
+    "titleHighlight": "Licence SAIF",
+    "subtitle": "Rapide, facile et précis — nous vous aidons à choisir en fonction de votre activité.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licence commerciale",
+        "description": "Pour le commerce général, l'import/export et le commerce de gros.",
+        "code": "COM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licence de service",
+        "description": "Pour les services de conseil, juridiques, RH et logistiques.",
+        "code": "SRV",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Licence industrielle",
+        "description": "Pour les opérations de fabrication, de transformation et d'assemblage.",
+        "code": "INDIANA",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Licence de commerce électronique",
+        "description": "Pour les entreprises en ligne et les plateformes de commerce numérique.",
+        "code": "ECM",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permis pour travailleurs indépendants et startups",
+        "description": "Licences spécialisées pour les professionnels indépendants et les créateurs d'entreprises.",
+        "code": "FRL",
+        "color": "from-emerald-500 to-green-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Comment nous vous aidons",
+    "title": "Du démarrage à l'échelle — Chaque étape est prise en charge",
+    "titleHighlight": "Chaque étape prise en charge",
+    "subtitle": "Votre installation complète de zone franche SAIF, de bout en bout.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Sélection des activités et réservation du nom",
+        "description": "Nous vous aidons à choisir l'activité commerciale SAIF la plus adaptée et à réserver un nom d'entreprise unique conformément à la réglementation SAIF.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "Création d'entreprise et demande de licence",
+        "description": "Notre équipe se charge de remplir tous les documents et formulaires nécessaires à l'obtention de votre licence commerciale SAIF — commerciale, industrielle ou de services.",
+        "icon": "FileText",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "Procédure de visa et carte d'établissement",
+        "description": "Nous simplifions les demandes de visas d'investisseur ou d'employé et de carte d'établissement SAIF.",
+        "icon": "UserCheck",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "Choix entre bureau et entrepôt",
+        "description": "Nous vous proposons une liste d'espaces de bureaux, de locaux industriels légers ou d'entrepôts correspondant à votre projet et à votre budget.",
+        "icon": "Warehouse",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "Attestation de compte bancaire et de documents",
+        "description": "Nous ouvrons votre compte bancaire d'entreprise et procédons à la légalisation/l'attestation des documents si nécessaire.",
+        "icon": "CreditCard",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "06",
+        "title": "Services PRO et inscription médicale",
+        "description": "Nous gérons les examens médicaux, les cartes d'identité émiriennes, les visas, les autorisations de travail et les renouvellements avec un interlocuteur unique.",
+        "icon": "ClipboardCheck",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      },
+      {
+        "step": "07",
+        "title": "Renouvellement et conformité des licences",
+        "description": "Notre équipe de conformité veille à ce que votre entreprise soit active et prête pour un audit grâce à des renouvellements effectués en temps voulu.",
+        "icon": "RefreshCw",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "step": "08",
+        "title": "Assistance juridique pour les bénéficiaires effectifs, les responsables de la sécurité des données et la lutte contre le blanchiment d'argent.",
+        "description": "Assistance en matière de conseil et de dépôt de documents pour la conformité UBO, ESR et AML conformément à la législation des Émirats arabes unis.",
+        "icon": "ShieldCheck",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80"
+      }
+    ]
+  },
+  "digitalGrowthSection": {
+    "badge": "Croissance numérique",
+    "title": "Peut-on se développer numériquement au sein de SAIF ?",
+    "titleHighlight": "Numériquement dans SAIF ?",
+    "subtitle": "Absolument ! Votre parcours ne s'arrête pas à l'obtention de la licence — nous construisons une présence numérique pérenne.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Développement de sites web et de commerce électronique",
+        "description": "Sites web et boutiques en ligne modernes et adaptatifs.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Intégration CRM et CMS",
+        "description": "Opérations rationalisées pour les entreprises de SAIF.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Search",
+        "title": "Services de référencement (SEO) à Sharjah et aux Émirats arabes unis",
+        "description": "Améliorez votre classement sur Google et générez du trafic organique.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Configuration de la passerelle de paiement",
+        "description": "Intégrez des solutions de paiement sécurisées.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Médias sociaux et publicités PPC",
+        "description": "Des campagnes ciblées qui convertissent.",
+        "color": "from-emerald-500 to-green-600"
+      },
+      {
+        "icon": "Award",
+        "title": "Enregistrement de marque et marque",
+        "description": "Protégez et développez votre identité de marque.",
+        "color": "from-teal-500 to-cyan-600"
+      }
+    ]
+  },
+  "liquidationSection": {
+    "badge": "Liquidation et conformité",
+    "title": "Sortie d'entreprise simplifiée",
+    "titleHighlight": "Facile",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "100% légal",
+    "imageBadgeText": "Sortie conforme",
+    "paragraphs": [
+      "Si vous êtes prêt à fermer ou à céder votre entreprise à SAIF, nous simplifions l'ensemble du processus de liquidation, le rendons légal et sans tracas.",
+      "Nous réglons les factures impayées, annulons les visas des employés, suivons toutes les procédures de départ et désactivons votre licence commerciale auprès des autorités SAIF.",
+      "Nous nous occupons également des transferts d'actifs, des audits finaux et de l'obtention de tous les certificats de non-objection (NOC) nécessaires — afin que vous puissiez quitter votre entreprise en toute confiance."
+    ],
+    "highlights": [
+      "Règlement de la facture",
+      "Annulation de visa",
+      "Désactivation de la licence",
+      "Transfert d'actifs",
+      "Audit final",
+      "Assistance NOC"
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Activités autorisées",
+    "title": "Quelles activités sont autorisées dans la zone franche de SAIF ?",
+    "titleHighlight": "Zone franche SAIF ?",
+    "subtitle": "L'une des listes d'activités commerciales les plus variées et diversifiées de toutes les zones franches des Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Commerce et import/export",
+        "description": "Distribution en gros avec procédure de licence accélérée.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Entreposage et logistique",
+        "description": "À proximité de l'aéroport de Sharjah et des principaux ports maritimes.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Fabrication et assemblage",
+        "description": "Assemblage léger, emballage, électronique et impression.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Services technologiques et informatiques",
+        "description": "Développement de logiciels et services numériques.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Marketing et médias",
+        "description": "Entreprises de conseil, de médias et de création de contenu.",
+        "color": "from-emerald-500 to-green-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Services d'aviation",
+        "description": "Entreprises situées à proximité de l'aéroport et transport de marchandises.",
+        "color": "from-teal-500 to-cyan-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche de SAIF. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes SAIF.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant la zone franche de SAIF."
+    },
+    "items": [
+      {
+        "q": "Quelle est la procédure pour enregistrer une nouvelle société dans la zone franche de SAIF ?",
+        "a": "Choisissez votre type de licence (commerciale, de services, industrielle ou e-commerce), votre activité, réservez un nom commercial, fournissez les documents nécessaires, obtenez votre visa et votre carte d'établissement, et louez un bureau ou un entrepôt. Nous nous occupons de toutes ces démarches."
+      },
+      {
+        "q": "Combien de temps faut-il pour enregistrer une entreprise dans la zone SAIF ?",
+        "a": "SAIF Free Zone propose une inscription le jour même avec approbation immédiate de la licence. En général, la mise en place complète prend entre 2 et 5 jours ouvrables."
+      },
+      {
+        "q": "Quels types de licences commerciales sont disponibles dans la zone SAIF ?",
+        "a": "Licences commerciales, de services, industrielles, de commerce électronique, ainsi que permis pour travailleurs indépendants et entreprises en démarrage — chacun adapté à différentes activités commerciales."
+      },
+      {
+        "q": "Puis-je légalement détenir 100 % des parts de ma société SAIF en tant qu'étranger ?",
+        "a": "Oui. La zone franche de SAIF autorise la propriété étrangère à 100 % — aucun sponsor local n'est requis."
+      },
+      {
+        "q": "Quels avantages fiscaux pouvez-vous bénéficier au sein de la zone franche de SAIF ?",
+        "a": "Impôt zéro sur le revenu des personnes physiques et des sociétés, pas de droits de douane sur les importations et les exportations, et rapatriement intégral des bénéfices."
+      },
+      {
+        "q": "Quels types d'installations sont proposées dans la zone franche de la SAIF ?",
+        "a": "Des espaces de bureaux prêts à l'emploi, des unités industrielles légères, des entrepôts et des terrains industriels personnalisables."
+      },
+      {
+        "q": "La zone franche SAIF est-elle une bonne option pour les entreprises de logistique et/ou de fabrication ?",
+        "a": "Absolument. SAIF est situé à proximité de l'aéroport international de Sharjah et bénéficie d'un accès direct aux principaux axes routiers et ports maritimes ; un emplacement idéal pour la logistique, la distribution, le transport de marchandises, la production et l'assemblage."
+      },
+      {
+        "q": "Est-il possible d'obtenir de l'aide concernant les services de visa SAIF ?",
+        "a": "Oui. Nous nous occupons des visas d'investisseur, des visas de travail, du parrainage familial, des cartes d'identité émiriennes, des examens médicaux et des renouvellements."
+      },
+      {
+        "q": "De quels services de conformité les entreprises SAIF ont-elles besoin ?",
+        "a": "Déclaration des bénéficiaires effectifs, dépôts ESR, conformité aux normes AML, renouvellements de licences et surveillance réglementaire continue."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services parfaitement adaptés à votre installation en zone franche SAIF.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "Services PRO",
+        "description": "Carte d'identité des Émirats, cartes de travail, visas et renouvellements.",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Services de conformité",
+        "description": "Conseils en matière d'UBO, d'ESR, de LBC et de TVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Commencez dès aujourd'hui",
+    "title": "Prêt à être lancé dans le SAIF ?",
+    "titleHighlight": "SAIF ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous accompagnerons tout au long du processus de configuration, de l'obtention de la licence au lancement.",
+    "chips": [
+      "Consultation gratuite",
+      "Installation le jour même",
+      "Taxe de 0 %"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour la configuration de SAIF.",
+    "whatsappCardMessage": "Salut ! J'aimerais discuter de la configuration de SAIF."
+  }
+}

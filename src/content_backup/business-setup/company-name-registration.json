@@ -1,0 +1,184 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+  "heroBadge": "Reserve Your Brand Identity",
+  "heroTitle": "Company Name Registration in Dubai",
+  "heroTitleHighlight": "Registration in Dubai",
+  "heroSubtitle": "Reserve your unique, brandable, and compliant business name in the UAE. Free availability check with DED and Free Zones — approval within 24 hours.",
+  "heroChips": ["Free Name Check", "24hr Approval", "DED + Free Zones", "100% Compliant"],
+
+  "stats": [
+    { "icon": "Type", "value": "3", "label": "Name Options", "color": "from-indigo-400 to-blue-600" },
+    { "icon": "Clock", "value": "24hrs", "label": "Approval Time", "color": "from-blue-400 to-cyan-600" },
+    { "icon": "Shield", "value": "100%", "label": "Compliant", "color": "from-cyan-400 to-teal-600" },
+    { "icon": "BadgeCheck", "value": "Free", "label": "Availability Check", "color": "from-teal-400 to-emerald-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "First Step to Business",
+    "title": "What Is Company Name Registration?",
+    "titleHighlight": "Company Name Registration?",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "Brand Identity",
+    "imageBadgeText": "Name Reservation",
+    "paragraphs": [
+      "Company Name Registration in Dubai (also called Trade Name Reservation) is the official process of reserving a unique business name with the Department of Economic Development (DED) or a Free Zone authority.",
+      "It is the first mandatory step in setting up a UAE company — you cannot apply for a trade license without a reserved name.",
+      "At Setup Zone Dubai, we provide free name availability checks, brandable name suggestions, compliance verification, and full application filing — typically resulting in approval within 24 hours."
+    ],
+    "highlights": ["First Step to Business", "Name Reservation Certificate", "Valid 6 Months", "DED + Free Zone", "Free Availability Check", "24hr Approval"]
+  },
+
+  "namingRulesSection": {
+    "badge": "UAE Naming Rules",
+    "title": "What's Allowed & Prohibited",
+    "titleHighlight": "Allowed & Prohibited",
+    "subtitle": "Know the rules before you choose your business name.",
+    "allowedItems": [
+      { "icon": "CheckCircle2", "title": "Unique & Available", "description": "Your chosen name must not be identical or similar to an existing registered trade name in the UAE.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Building2", "title": "Reflect Business Activity", "description": "The name should reasonably relate to your business activity — e.g., \"Trading\" for a trade license.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Globe", "title": "UAE Naming Conventions", "description": "Must follow UAE naming conventions — no offensive, religious, political, or restricted words.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Layers", "title": "Legal Structure Suffix", "description": "The name should include the correct legal structure — LLC, FZE, FZCO, or Sole Establishment.", "color": "from-sky-400 to-blue-600" }
+    ],
+    "prohibitedItems": [
+      { "icon": "XCircle", "title": "No Religious References", "description": "Names with references to God, religion, or religious figures are strictly prohibited.", "color": "from-red-500 to-rose-700" },
+      { "icon": "XCircle", "title": "No Political Names", "description": "Political party names, government references, and political figures are not allowed.", "color": "from-red-500 to-rose-700" },
+      { "icon": "XCircle", "title": "No Trademark Conflicts", "description": "Names identical to registered trademarks — local or international — will be rejected.", "color": "from-red-500 to-rose-700" },
+      { "icon": "XCircle", "title": "No Restricted Words", "description": "Words like \"bank\", \"insurance\", \"university\", and country names require special approval or are banned.", "color": "from-red-500 to-rose-700" }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "Our Services",
+    "title": "Complete Name Registration Services",
+    "titleHighlight": "Name Registration Services",
+    "subtitle": "Six comprehensive services for your name reservation.",
+    "items": [
+      { "icon": "Sparkles", "title": "Brandable Name Suggestions", "description": "We suggest catchy, memorable names that fit your industry and business vision.", "color": "from-indigo-400 to-blue-600" },
+      { "icon": "Search", "title": "Real-Time Availability Check", "description": "Free name availability check with DED and all major Free Zones before you commit.", "color": "from-blue-400 to-cyan-600" },
+      { "icon": "ShieldCheck", "title": "Compliance Verification", "description": "We verify your name against UAE naming rules to avoid rejections and delays.", "color": "from-cyan-400 to-teal-600" },
+      { "icon": "FileSignature", "title": "Reservation Application", "description": "We file the reservation application on your behalf — no paperwork for you.", "color": "from-teal-400 to-emerald-600" },
+      { "icon": "BadgeCheck", "title": "Approval Follow-Up", "description": "We follow up with authorities to ensure fast approval — usually within 24 hours.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "ScrollText", "title": "Certificate Delivery", "description": "We deliver the official Trade Name Reservation Certificate directly to you.", "color": "from-teal-400 to-cyan-600" }
+    ]
+  },
+
+  "processSection": {
+    "badge": "6-Step Process",
+    "title": "How to Reserve Your Name",
+    "titleHighlight": "Reserve Your Name",
+    "subtitle": "Six simple steps to a reserved business name.",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+    "steps": [
+      { "step": "01", "icon": "Brain", "title": "Name Brainstorming", "description": "We help you brainstorm 3 unique, brandable, and compliant business name options.", "color": "from-indigo-400 to-blue-600" },
+      { "step": "02", "icon": "Search", "title": "Availability Check", "description": "We check name availability with DED and Free Zone authorities in real-time.", "color": "from-blue-400 to-cyan-600" },
+      { "step": "03", "icon": "FileSignature", "title": "Reservation Application", "description": "We prepare and submit the trade name reservation application with the right authority.", "color": "from-cyan-400 to-teal-600" },
+      { "step": "04", "icon": "BadgeCheck", "title": "Initial Approval", "description": "Name gets preliminary approval — typically within 24 hours depending on authority.", "color": "from-teal-400 to-emerald-600" },
+      { "step": "05", "icon": "ScrollText", "title": "Name Reservation Certificate", "description": "Receive official Trade Name Reservation Certificate — valid for 6 months for license process.", "color": "from-emerald-400 to-teal-600" },
+      { "step": "06", "icon": "Rocket", "title": "Proceed to Licensing", "description": "Use your reserved name to apply for your business license and complete company formation.", "color": "from-teal-400 to-cyan-600" }
+    ]
+  },
+
+  "namingTipsSection": {
+    "badge": "Pro Naming Tips",
+    "title": "Choose the Perfect Business Name",
+    "titleHighlight": "Perfect Business Name",
+    "subtitle": "Six expert tips to pick a name that stands the test of time.",
+    "items": [
+      { "icon": "Lightbulb", "label": "Keep it Short & Memorable", "desc": "Easy to spell and pronounce globally", "color": "from-indigo-400 to-blue-600" },
+      { "icon": "Globe", "label": "Consider Global Appeal", "desc": "Works in English and Arabic markets", "color": "from-blue-400 to-cyan-600" },
+      { "icon": "Search", "label": "Check Domain Availability", "desc": "Match your .com and .ae domain", "color": "from-cyan-400 to-teal-600" },
+      { "icon": "ShieldCheck", "label": "Avoid Restricted Words", "desc": "Skip bank, insurance, university", "color": "from-teal-400 to-emerald-600" },
+      { "icon": "Type", "label": "Use Easy Spelling", "desc": "Avoid complex letter combinations", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Crown", "label": "Match Your Brand", "desc": "Align with your vision and industry", "color": "from-teal-400 to-cyan-600" }
+    ]
+  },
+
+  "documentsSection": {
+    "badge": "What You'll Need",
+    "title": "Required Documents",
+    "titleHighlight": "Documents",
+    "items": [
+      { "icon": "FileText", "label": "3 Proposed Names", "desc": "In order of preference" },
+      { "icon": "Briefcase", "label": "Business Activity", "desc": "Type of business" },
+      { "icon": "Building2", "label": "Legal Structure", "desc": "LLC, FZE, FZCO, etc." },
+      { "icon": "FileSignature", "label": "Application Form", "desc": "Completed by us" },
+      { "icon": "CreditCard", "label": "Payment", "desc": "Reservation fees" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted Name Partner",
+    "titleHighlight": "Name Partner",
+    "items": [
+      { "icon": "ShieldCheck", "label": "Compliance Experts", "desc": "Deep knowledge of UAE naming rules" },
+      { "icon": "Zap", "label": "24hr Approval", "desc": "Fast reservation processing" },
+      { "icon": "DollarSign", "label": "Free Name Check", "desc": "No-charge availability verification" },
+      { "icon": "Sparkles", "label": "Creative Suggestions", "desc": "Brandable name ideas for free" },
+      { "icon": "UserCheck", "label": "Dedicated Consultant", "desc": "Personal advisor throughout" },
+      { "icon": "Globe", "label": "Multilingual Team", "desc": "English, Arabic, Hindi, Urdu" },
+      { "icon": "Layers", "label": "DED + Free Zone", "desc": "Both jurisdictions covered" },
+      { "icon": "RefreshCw", "label": "Renewal Support", "desc": "Extension if needed" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Your brand identity, in expert hands.",
+    "items": [
+      { "icon": "Building2", "value": "10,000+", "label": "Names Reserved", "color": "from-indigo-400 to-blue-600" },
+      { "icon": "Globe", "value": "DED + FZ", "label": "Coverage", "color": "from-blue-400 to-cyan-600" },
+      { "icon": "Zap", "value": "24hrs", "label": "Fast Approval", "color": "from-cyan-400 to-teal-600" },
+      { "icon": "DollarSign", "value": "Free", "label": "Name Check", "color": "from-teal-400 to-emerald-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Name Partner", "color": "from-teal-400 to-cyan-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Company Name Registration. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our name registration specialists.",
+      "whatsappMessage": "Hi! I have a question about Company Name Registration in Dubai."
+    },
+    "items": [
+      { "q": "What are the rules for choosing a company name in Dubai?", "a": "Your name must be unique, not similar to existing trade names, reflect your business activity, follow UAE naming conventions, and include the correct legal structure suffix. No religious, political, or restricted words are allowed." },
+      { "q": "How many name options should I submit?", "a": "You should submit 3 proposed names in order of preference. If your first choice is rejected, the authority checks the next option — saving time and multiple applications." },
+      { "q": "How long does name approval take?", "a": "Typically 24-48 hours depending on the authority. Some Free Zones process name approvals within hours with our priority network." },
+      { "q": "How long is a reserved name valid?", "a": "A Trade Name Reservation Certificate is typically valid for 6 months, allowing you to complete your license application during that period." },
+      { "q": "What happens if my name is rejected?", "a": "If your first choice is rejected, we resubmit your next option without extra fees (in most cases). We also help you brainstorm alternatives if all 3 are rejected." },
+      { "q": "Can I change my company name after registration?", "a": "Yes. You can apply for a name change after registration with the relevant authority — we handle the entire process including updating your license and documents." },
+      { "q": "Can I use a foreign name for my UAE company?", "a": "Yes. Foreign-sounding names are allowed as long as they comply with UAE naming rules, don't conflict with trademarks, and don't include restricted words." },
+      { "q": "Do I need to have a name before registering a company?", "a": "Yes. Name reservation is the first step before license application in both Mainland and Free Zone jurisdictions." },
+      { "q": "Are there any words banned in company names?", "a": "Yes. Words like \"bank\", \"insurance\", \"university\", \"God\", \"Allah\", country names, political references, and registered trademarks are restricted or banned." },
+      { "q": "How can Setup Zone Dubai help with company name registration?", "a": "We provide free name availability checks, brandable name suggestions, compliance verification, application filing, and follow-up with authorities. Typically, you get approval within 24 hours." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with Name Registration.",
+    "items": [
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore structures.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-indigo-400 to-blue-600" },
+      { "slug": "trade-license", "title": "Trade License in Dubai", "description": "Get your DET trade license in 2-5 days.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-blue-400 to-cyan-600" },
+      { "slug": "company-registration", "title": "Company Registration", "description": "Fast & affordable registration from AED 5,750.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-cyan-400 to-teal-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Free Name Check",
+    "title": "Ready to Reserve Your Name?",
+    "titleHighlight": "Reserve Your Name?",
+    "subtitle": "Get a free name availability check. Our experts will help you pick a brandable, compliant, and unique business name.",
+    "chips": ["Free Check", "24hr Approval", "DED + Free Zones"],
+    "whatsappMessage": "Hi! I'd like a free name check for my UAE company.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Company Name Registration."
+  }
+}

@@ -1,0 +1,413 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&q=80",
+  "heroBadge": "Clever starten. Schnell wachsen.",
+  "heroTitle": "Dubai Silicon Oasis Freihandelszone",
+  "heroTitleHighlight": "Freizone",
+  "heroSubtitle": "Gestalten Sie Ihre Zukunft in Dubais intelligentem Technologiezentrum. Eine speziell für Unternehmer, Innovatoren und Zukunftsunternehmen konzipierte Smart City – KI, Robotik, E-Commerce und Software.",
+  "heroChips": [
+    "100% Eigentum",
+    "Nullsteuer",
+    "3-5 Tage Aufbauzeit"
+  ],
+  "heroCircles": {
+    "primary": {
+      "icon": "Cpu",
+      "value": "Technik",
+      "label": "Smart City Hub",
+      "color": "from-indigo-400 to-purple-600"
+    },
+    "secondary": {
+      "icon": "Rocket",
+      "value": "Mehr als 5.000",
+      "label": "Unternehmen",
+      "color": "from-violet-400 to-purple-600"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Tagesaufbau",
+      "color": "from-indigo-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Einkommensteuer",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "5000+",
+      "label": "Unternehmen",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Technologiezentrum von Dubai",
+    "title": "Warum sollten Sie sich für die Dubai Silicon Oasis Free Zone entscheiden?",
+    "titleHighlight": "Freizone?",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80",
+    "imageBadgeTitle": "Befindet sich in",
+    "imageBadgeText": "Dubai Silicon Oase",
+    "paragraphs": [
+      "Die Dubai Silicon Oasis Free Zone (DSO) ist ein preisgekröntes Innovationsviertel, das für Startups, Technologieunternehmen und fortschrittliche Hersteller geschaffen wurde.",
+      "Die Plattform vereint eine erstklassige Lage in Dubai mit modernem Stadtleben und bietet Unternehmern eine einzigartige Plattform für Innovation, Austausch und Wachstum. Zugang zu qualifizierten Fachkräften, solide rechtliche Rahmenbedingungen, fortschrittliche intelligente Infrastruktur und unternehmensfreundliche Regulierungen machen DSO zu einer Plattform, die Unternehmen zukunftssicher aufstellt."
+    ],
+    "highlights": [
+      "Preisgekrönter Bezirk",
+      "Intelligentes Stadtleben",
+      "Fortschrittliche Infrastruktur",
+      "Zugang zum globalen Markt"
+    ]
+  },
+  "bentoSection": {
+    "badge": "Warum DSO",
+    "title": "Ihr Tor zur technologischen Innovation",
+    "titleHighlight": "Technologische Innovation",
+    "largeCards": [
+      {
+        "icon": "Cpu",
+        "title": "Smart Tech Hub",
+        "description": "Dubais führender Innovationsbezirk für KI, Software, Robotik und Zukunftsindustrien.",
+        "color": "from-indigo-500 via-purple-600 to-indigo-700"
+      },
+      {
+        "icon": "Server",
+        "title": "Fortschrittliche Infrastruktur",
+        "description": "Rechenzentren, Innovationslabore, Logistikzentren und sichere Arbeitsbereiche – alles in einem Ökosystem.",
+        "color": "from-cyan-500 via-teal-600 to-cyan-700"
+      }
+    ],
+    "smallCards": [
+      {
+        "icon": "GraduationCap",
+        "title": "Talentzugang",
+        "description": "In der Nähe von Spitzenuniversitäten und Innovationszentren für qualifizierte Arbeitskräfte.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Einrichtung",
+        "description": "3-5 Tage Bearbeitungszeit für Lizenzen – die schnellste unter den Technologie-Freizonen.",
+        "color": "from-amber-400 to-orange-600"
+      }
+    ]
+  },
+  "smartCitySection": {
+    "badge": "Smart-City-Funktionen",
+    "title": "Alles in einer Smart City",
+    "titleHighlight": "Eine intelligente Stadt",
+    "subtitle": "Wirtschaft, Leben und Innovation – alles integriert.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Büroinfrastruktur",
+        "description": "Coworking-Spaces, Executive-Suiten, Innovationslabore, Logistikzentren und sichere Rechenzentren."
+      },
+      {
+        "icon": "Home2",
+        "title": "Gemeinschaft und Lebensqualität",
+        "description": "Intelligente Villen, internationale Schulen, Fitnessstudios, Geschäfte und Ökoparks für einen ausgewogenen Lebensstil."
+      },
+      {
+        "icon": "Layers",
+        "title": "Rundum-Unterstützung",
+        "description": "Website, E-Commerce, CRM, Branding, Bankwesen, Umsatzsteuer, Buchhaltung – alles intern."
+      },
+      {
+        "icon": "MapPin",
+        "title": "Strategische Lage",
+        "description": "Nur 20 Minuten vom Flughafen Dubai entfernt mit direktem Zugang zu wichtigen Autobahnen."
+      },
+      {
+        "icon": "Plane",
+        "title": "Visa & Einwanderung",
+        "description": "Der gesamte Visa-Lebenszyklus – Investoren-, Mitarbeiter- und Angehörigenvisa."
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Einrichtungsprozess",
+    "title": "Intelligente Einrichtung in einer intelligenten Stadt",
+    "titleHighlight": "Smart City",
+    "subtitle": "Ein optimierter 6-stufiger Prozess von der Auswahl der Aktivität bis zur Eröffnung des Bankkontos.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Geschäftsaktivität auswählen",
+        "description": "Wählen Sie aus den von DSO genehmigten Technologie- und Innovationsaktivitäten, darunter Software, KI und E-Commerce.",
+        "icon": "Target",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "title": "Rechtsform wählen",
+        "description": "FZE für Einzelaktionäre, FZCO für Mehrfachaktionäre oder Zweigniederlassung für bestehende Unternehmen.",
+        "icon": "Building2",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "03",
+        "title": "Reserve-Handelsname",
+        "description": "Reichen Sie Ihren Firmennamen zur Genehmigung gemäß den DSO-Namensrichtlinien ein.",
+        "icon": "FileText",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "04",
+        "title": "Dokumente einreichen",
+        "description": "Passkopien, Fotos, Antragsformular und alle weiteren erforderlichen Dokumente.",
+        "icon": "FileCheck",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "title": "Lizenz erteilt",
+        "description": "Sie erhalten Ihre Gewerbe-, Dienstleistungs-, Industrie- oder E-Commerce-Lizenz innerhalb weniger Tage.",
+        "icon": "BadgeCheck",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "step": "06",
+        "title": "Visa & Bankkonto",
+        "description": "Beantragen Sie eine Aufenthaltsgenehmigung und eröffnen Sie ein Firmenbankkonto, um Ihre Geschäftstätigkeit aufzunehmen.",
+        "icon": "Landmark",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lizenzarten",
+    "title": "DSO-Gewerbelizenzen",
+    "titleHighlight": "Lizenzen",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Gewerbelizenz",
+        "description": "Für den Kauf und Verkauf von Waren.",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Dienstleistungslizenz",
+        "description": "Für Beratungsunternehmen, Software und Medien.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Industrielizenz",
+        "description": "Für Fertigungs- und Industrietätigkeiten.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce-Lizenz",
+        "description": "Für digitale und Online-Shops.",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Geschäftstätigkeit",
+    "title": "Wo Ideen ihren Anfang nehmen",
+    "titleHighlight": "Abheben",
+    "subtitle": "DSO unterstützt ein breites Spektrum zukunftsweisender Branchen. Wenn Sie im Technologiesektor tätig sind, ist DSO der Ort, an dem sich Ihre Wettbewerber, Partner und Kunden bereits aufhalten.",
+    "items": [
+      {
+        "icon": "Code",
+        "label": "Software- und App-Entwicklung"
+      },
+      {
+        "icon": "Bot",
+        "label": "KI und maschinelles Lernen"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Robotik & Automatisierung"
+      },
+      {
+        "icon": "Wifi",
+        "label": "IoT & intelligente Geräte"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Cybersicherheit"
+      },
+      {
+        "icon": "Layers",
+        "label": "Blockchain"
+      },
+      {
+        "icon": "Server",
+        "label": "Rechenzentren"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Elektronikmontage"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "E-Commerce"
+      },
+      {
+        "icon": "Truck",
+        "label": "Logistikplattformen"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "Fintech"
+      },
+      {
+        "icon": "Heart",
+        "label": "Biotechnologie"
+      }
+    ],
+    "helperCard": {
+      "title": "Brauchen Sie Hilfe bei der Auswahl?",
+      "text": "Wir helfen Ihnen, Ihre Geschäftstätigkeit zu definieren und sicherzustellen, dass sie in die von DSO genehmigten Kategorien passt – und bleiben dabei flexibel für zukünftiges Wachstum."
+    }
+  },
+  "whoShouldSection": {
+    "badge": "Für wen es gedacht ist",
+    "title": "Wer sollte sich in DSO niederlassen?",
+    "titleHighlight": "DSO?",
+    "subtitle": "Perfekt geeignet für diese Branchen und Unternehmenstypen.",
+    "items": [
+      {
+        "icon": "Cpu",
+        "title": "KI & Robotik",
+        "description": "Unternehmen im Bereich künstliche Intelligenz und Robotik.",
+        "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Software & Apps",
+        "description": "Software-, App- und Plattformentwickler.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Cybersicherheit",
+        "description": "Unternehmen aus den Bereichen Cybersicherheit und Blockchain.",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce",
+        "description": "Online-Unternehmen und digitale Plattformen.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Fortschrittliche Fertigung",
+        "description": "Elektronikmontage und Chipdesign.",
+        "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Logistiktechnik",
+        "description": "Lieferketten- und Logistikplattformen.",
+        "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Dubai Silicon Oasis Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren DSO-Spezialisten beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zur Dubai Silicon Oasis Free Zone."
+    },
+    "items": [
+      {
+        "q": "Was ist die Dubai Silicon Oasis Free Zone und wer sollte sich hier ansiedeln?",
+        "a": "DSO ist ein staatlich geförderter Innovationspark und eine Freihandelszone, die speziell für technologieorientierte Unternehmen, Startups und die fortschrittliche Fertigung konzipiert wurde. Ideal für Unternehmen aus den Bereichen KI, Software, Robotik, E-Commerce, Fintech und IoT."
+      },
+      {
+        "q": "Welche Lizenzen sind in DSO verfügbar?",
+        "a": "Handelslizenz (Warenkauf/-verkauf), Dienstleistungslizenz (Beratung, Software, Medien), Industrielizenz (Herstellung) und E-Commerce-Lizenz (Online-Shops)."
+      },
+      {
+        "q": "Kann ein Freiberufler ein Unternehmen bei DSO registrieren?",
+        "a": "Ja. DSO bietet Freiberuflergenehmigungen und kostengünstige Pakete für einzelne Freiberufler an."
+      },
+      {
+        "q": "Wie lange dauert die Gründung eines DSO-Unternehmens?",
+        "a": "In der Regel 3-5 Werktage, abhängig von der Dokumentation und der Art der Lizenz."
+      },
+      {
+        "q": "Welche Dokumente benötige ich?",
+        "a": "Passkopien, digitale Fotos, Antragsformular, Geschäftsplan (für einige Tätigkeiten) und gegebenenfalls eine Unbedenklichkeitsbescheinigung."
+      },
+      {
+        "q": "Kann ich Visa über meine DSO-Firma beantragen?",
+        "a": "Ja. DSO erlaubt Visaquoten basierend auf Art und Größe des Büros – Investoren-, Mitarbeiter- und Angehörigenvisa."
+      },
+      {
+        "q": "Welche Büroarten stehen zur Verfügung?",
+        "a": "Coworking-Spaces, Executive-Suiten, private Büros, Innovationslabore, Logistikzentren und Rechenzentren."
+      },
+      {
+        "q": "Wie hoch sind die Einrichtungskosten?",
+        "a": "Ab ca. 15.500 AED, abhängig von Aktivität, Ablauf und Paket. Kontaktieren Sie uns für ein individuelles Angebot."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrer Freizonenkonfiguration passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "web-development",
+        "title": "Webentwicklung",
+        "description": "Moderne Websites für Technologieunternehmen.",
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute!",
+    "title": "Bereit für den Start in Dubai Silicon Oasis?",
+    "titleHighlight": "Dubai Silicon Oase?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess – von der Auswahl der Tätigkeit bis zur Lizenzerteilung und Kontoeröffnung.",
+    "chips": [
+      "Kostenlose Beratung",
+      "Mehr als 5000 Kunden",
+      "3-5 Tage Aufbauzeit"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung der Dubai Silicon Oasis Free Zone.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über den Aufbau der Dubai Silicon Oasis sprechen."
+  }
+}

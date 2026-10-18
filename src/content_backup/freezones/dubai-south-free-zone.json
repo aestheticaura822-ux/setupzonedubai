@@ -1,0 +1,183 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "Beyond Borders Business",
+  "heroTitle": "Dubai South Free Zone Company Setup",
+  "heroTitleHighlight": "Company Setup",
+  "heroSubtitle": "Your gateway to global growth. Strategic location next to Al Maktoum International Airport. 100% foreign ownership, zero taxes, and fast-tracked licensing.",
+  "heroChips": ["100% Ownership", "Zero Tax", "2-4 Days Setup"],
+
+  "heroCards": {
+    "primary": {
+      "badge": "Fast Setup",
+      "icon": "Clock",
+      "label": "Setup Time",
+      "value": "2-4 Days",
+      "highlight": "98%",
+      "highlightLabel": "success",
+      "footer": "Fastest in UAE free zones",
+      "color": "from-sky-400 to-blue-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "Ownership",
+      "value": "100% Foreign",
+      "title": "No Sponsor",
+      "subtext": "Full control",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "tertiary": {
+      "icon": "Plane",
+      "label": "Location",
+      "value": "Next to Airport",
+      "title": "Al Maktoum",
+      "subtext": "Global logistics hub",
+      "color": "from-amber-400 to-orange-500"
+    }
+  },
+
+  "stats": [
+    { "icon": "Clock", "value": "2-4", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-violet-400 to-purple-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Income Tax", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Users", "value": "500+", "label": "Businesses", "color": "from-amber-400 to-orange-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "Smart Growth Zone",
+    "title": "Dubai South Free Zone Explained",
+    "titleHighlight": "Explained",
+    "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+    "imageBadgeTitle": "Located in",
+    "imageBadgeText": "South Dubai, UAE",
+    "paragraphs": [
+      "Dubai South Free Zone is a fully government-supported economic area located in the southern end of Dubai, next to the world's largest airport. It offers a simplified legal and regulatory framework for local and international businesses.",
+      "Entrepreneurs benefit from full repatriation of profits, no income and corporate taxes, and flexible packages for startups, SMEs, and multinational corporations."
+    ],
+    "highlights": ["Full Profit Repatriation", "No Income Tax", "No Corporate Tax", "Flexible Packages"]
+  },
+
+  "benefitsSection": {
+    "badge": "Key Benefits",
+    "title": "Benefits of Setting Up in Dubai South",
+    "titleHighlight": "Dubai South",
+    "subtitle": "Everything you need to grow your business globally.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full control of your company — no local sponsor required. Perfect for international entrepreneurs.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "DollarSign", "title": "Zero Tax Benefits", "description": "No personal or corporate income tax. Full repatriation of profits and capital.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Zap", "title": "Fast Registration", "description": "Complete setup in just 2-4 business days. Quick approvals and licensing.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Plane", "title": "Strategic Location", "description": "Next to Al Maktoum International Airport and Expo 2020 site — logistics corridor.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Layers", "title": "Flexible Packages", "description": "Solutions for startups, SMEs, and multinationals — tailored to your needs.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Rocket", "title": "Startup Ecosystem", "description": "Networking, co-working spaces, and business accelerators all in one place.", "color": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "setupStepsSection": {
+    "badge": "Setup Process",
+    "title": "How to Set Up Your Company in 6 Steps",
+    "titleHighlight": "in 6 Steps",
+    "subtitle": "A streamlined process from activity selection to bank account opening.",
+    "steps": [
+      { "step": "01", "title": "Identify Business Activity", "description": "Choose from logistics, trading, consultancy, e-commerce, IT services, and more.", "icon": "Target", "color": "from-sky-400 to-blue-600", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" },
+      { "step": "02", "title": "Choose Legal Structure", "description": "FZE (single shareholder), FZCO (multiple), or Branch Office for existing companies.", "icon": "Building2", "color": "from-violet-400 to-purple-600", "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80" },
+      { "step": "03", "title": "Reserve Trade Name", "description": "Submit your desired company name for approval — must comply with UAE naming guidelines.", "icon": "FileText", "color": "from-amber-400 to-orange-600", "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80" },
+      { "step": "04", "title": "Submit Documents", "description": "Passport copies, photos, application form, and any additional required documents.", "icon": "FileCheck", "color": "from-emerald-400 to-teal-600", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80" },
+      { "step": "05", "title": "License Issued", "description": "Receive your Commercial, Service, or Industrial license — usually within days.", "icon": "BadgeCheck", "color": "from-cyan-400 to-sky-600", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80" },
+      { "step": "06", "title": "Visa & Bank Account", "description": "Apply for residency visas and open a corporate bank account to start operating.", "icon": "Landmark", "color": "from-pink-400 to-rose-600", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80" }
+    ]
+  },
+
+  "whyIdealSection": {
+    "badge": "Why It's Ideal",
+    "title": "Future-Proof Your Business",
+    "titleHighlight": "Business",
+    "subtitle": "Dubai South Free Zone is built for the modern entrepreneur.",
+    "items": [
+      { "icon": "DollarSign", "title": "Flexible & Affordable", "description": "Affordable license packages with options for startups and independent entrepreneurs." },
+      { "icon": "Globe", "title": "Strategic Connectivity", "description": "Near Al Maktoum International Airport and major ports for global trade." },
+      { "icon": "Users", "title": "100% Foreign Ownership", "description": "No local sponsor required — entrepreneurs can own it all." },
+      { "icon": "Rocket", "title": "Startup Ecosystem", "description": "Networking, co-working spaces, and access to business accelerators." },
+      { "icon": "Zap", "title": "Fast Setup", "description": "Register and license in days, not weeks." },
+      { "icon": "BarChart3", "title": "Future-Ready Infrastructure", "description": "Built for digital, e-commerce, and tech-focused businesses." }
+    ]
+  },
+
+  "whoShouldSection": {
+    "badge": "Who It's For",
+    "title": "Who Should Establish in Dubai South?",
+    "titleHighlight": "Dubai South?",
+    "subtitle": "Perfect for these industries and business types.",
+    "items": [
+      { "icon": "Truck", "title": "Logistics & Freight", "description": "Freight forwarding and logistics companies serving GCC and beyond.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Package", "title": "E-commerce", "description": "Online stores with fulfillment centers and delivery operations.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Plane", "title": "Aviation Services", "description": "Aircraft maintenance, charter services, and aviation support.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Store", "title": "Trading Companies", "description": "Import/export businesses targeting the GCC market and beyond.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Briefcase", "title": "Consultancies", "description": "Service-based startups and professional consulting firms.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Code", "title": "Tech & Software", "description": "Software development, IT services, and digital platforms.", "color": "from-cyan-400 to-sky-600" }
+    ],
+    "noteText": "Strategic Advantage: Located near Al Maktoum International Airport, Jebel Ali Port, and with direct access to road, air, and sea — a zone built for companies needing speed, access, and operational efficiency."
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted Partner for Dubai South Setup",
+    "titleHighlight": "Dubai South Setup",
+    "description": "We make your Dubai South Free Zone setup simple, transparent, and stress-free. From activity selection to visa processing and bank account opening — we handle everything.",
+    "items": [
+      { "icon": "Award", "label": "Certified Free Zone Specialists" },
+      { "icon": "Zap", "label": "Fast-Tracked Approvals" },
+      { "icon": "DollarSign", "label": "Transparent Pricing" },
+      { "icon": "ShieldCheck", "label": "100% Compliance" },
+      { "icon": "Users", "label": "Dedicated Account Manager" },
+      { "icon": "Clock", "label": "24/7 Support" }
+    ],
+    "stats": [
+      { "icon": "Clock", "value": "2-4", "label": "Days Avg. Setup", "color": "from-sky-500 to-blue-500", "bg": "from-sky-500/30 to-blue-500/30" },
+      { "icon": "Zap", "value": "98%", "label": "Success Rate", "color": "from-violet-500 to-purple-500", "bg": "from-violet-500/30 to-purple-500/30" },
+      { "icon": "Users", "value": "500+", "label": "Clients Served", "color": "from-emerald-500 to-teal-500", "bg": "from-emerald-500/30 to-teal-500/30" },
+      { "icon": "Award", "value": "15+", "label": "Years Experience", "color": "from-amber-500 to-orange-500", "bg": "from-amber-500/30 to-orange-500/30" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai South Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our Dubai South specialists.",
+      "whatsappMessage": "Hi! I have a question about Dubai South Free Zone."
+    },
+    "items": [
+      { "q": "What is Dubai South Free Zone and why is it ideal for company formation?", "a": "Dubai South Free Zone is a government-backed economic zone next to Al Maktoum International Airport and Expo 2020 site. It supports logistics, e-commerce, aviation, and trade with 100% foreign ownership, zero taxes, and world-class infrastructure." },
+      { "q": "What are the key benefits of setting up in Dubai South Free Zone?", "a": "100% foreign ownership, zero personal and corporate income tax, fast registration (2-4 days), flexible packages for all business sizes, and a complete startup ecosystem." },
+      { "q": "Which business activities are allowed in Dubai South Free Zone?", "a": "Logistics, aviation services, e-commerce, trade, consulting, IT services, digital platforms, and more. The complete list is available on the official Dubai South website." },
+      { "q": "Do I need a local sponsor to start a company in Dubai South Free Zone?", "a": "No. Dubai South Free Zone allows 100% foreign ownership — you do not need a local sponsor to set up or operate your business." },
+      { "q": "What types of licenses are available?", "a": "Commercial, Service, and Industrial licenses depending on your business activity. Each has different visa quotas and office requirements." },
+      { "q": "What legal structures are allowed?", "a": "Free Zone Establishment (FZE) for single shareholders, Free Zone Company (FZCO) for multiple shareholders, and Branch Offices for existing UAE or foreign companies." },
+      { "q": "Can I set up a Dubai South Free Zone company remotely?", "a": "Yes. We handle the entire process remotely — from document collection to license issuance — no need to visit Dubai." },
+      { "q": "What are the visa options after setting up?", "a": "You can apply for residency visas for yourself, family, and employees. Visa quotas depend on your office size (flexi desk or private office)." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Free Zone setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "corporate-tax-vat", "title": "Corporate Tax & VAT", "description": "Expert tax advice, FTA registration, and compliance.", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Today",
+    "title": "Ready to Launch in Dubai South?",
+    "titleHighlight": "Dubai South?",
+    "subtitle": "Get a free consultation. We'll guide you through the setup process — from activity selection to license issuance and bank account opening.",
+    "chips": ["Free Consultation", "10,00+ Clients", "2-4 Days Setup"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Dubai South Free Zone setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Dubai South Free Zone setup."
+  }
+}

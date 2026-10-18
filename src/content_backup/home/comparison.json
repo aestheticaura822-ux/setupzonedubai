@@ -1,0 +1,76 @@
+{
+  "badge": "Structure Your Business Smartly",
+  "heading": {
+    "line1": "What's Better for You —",
+    "highlight": "Free Zone or Mainland?"
+  },
+  "subtitle": "The right company structure depends on where you plan to operate, how many visas you need, and your budget. Here's a quick breakdown.",
+  "vsLabel": "VS",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "Free Zone",
+      "short": "FZ",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "International",
+      "tagline": "Best for Global Businesses",
+      "bestFor": "International trade, online services, consulting",
+      "highlight": "100% ownership, tax benefits, no customs duties",
+      "limitation": "Limited visas based on office size",
+      "ctaText": "Explore Free Zone Setup",
+      "whatsappMessage": "Hi! I'm interested in setting up a Free Zone company in Dubai.",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "Mainland",
+      "short": "ML",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "Local Market",
+      "tagline": "Best for Local Growth",
+      "bestFor": "Local retail, construction, restaurants, agencies",
+      "highlight": "Full UAE market access, no trading restrictions",
+      "limitation": "Higher visa eligibility needs more office space",
+      "ctaText": "Explore Mainland Setup",
+      "whatsappMessage": "Hi! I'm interested in setting up a Mainland company in Dubai.",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "Best For",
+  "tableHeaders": {
+    "features": "Features",
+    "freezone": "Free Zone",
+    "mainland": "Mainland"
+  },
+  "features": [
+    { "icon": "Wallet", "label": "Ownership", "freezone": { "value": "100%", "score": 100 }, "mainland": { "value": "100%", "score": 100 } },
+    { "icon": "TrendingUp", "label": "Tax Benefits", "freezone": { "value": "0% - 9%", "score": 90 }, "mainland": { "value": "0% - 9%", "score": 85 } },
+    { "icon": "Target", "label": "UAE Market Access", "freezone": { "value": "Limited", "score": 40 }, "mainland": { "value": "Full", "score": 100 } },
+    { "icon": "Users", "label": "Visa Eligibility", "freezone": { "value": "Limited", "score": 60 }, "mainland": { "value": "High", "score": 90 } },
+    { "icon": "Landmark", "label": "Local Trade", "freezone": { "value": "Restricted", "score": 30 }, "mainland": { "value": "Unlimited", "score": 100 } },
+    { "icon": "Zap", "label": "Setup Speed", "freezone": { "value": "3-7 Days", "score": 95 }, "mainland": { "value": "2-4 Weeks", "score": 50 } }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "Still Not Sure Which One to Choose?",
+    "subtitle": "Get a free consultation. We'll analyze your business activity and recommend the best structure for you.",
+    "primaryCta": "Talk to an Expert",
+    "secondaryCta": "Call Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I need help deciding between Free Zone and Mainland. Can we discuss?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

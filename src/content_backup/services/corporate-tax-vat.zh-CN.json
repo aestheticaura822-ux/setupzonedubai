@@ -1,0 +1,326 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=80",
+  "heroBadge": "遵守规定，免于处罚",
+  "heroTitle": "阿联酋企业税及增值税服务",
+  "heroTitleHighlight": "阿联酋",
+  "heroSubtitle": "我们提供专业的税务咨询、FTA注册和合规服务，确保您的阿联酋企业免受处罚。从增值税申报到企业所得税申报——我们统统包办。",
+  "heroChips": [
+    "FTA注册",
+    "15年以上经验",
+    "500+ 客户"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "9%",
+      "label": "企业所得税税率",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Receipt",
+      "value": "5%",
+      "label": "增值税率",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "TrendingUp",
+      "value": "375K",
+      "label": "AED阈值",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "文件提交完毕",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "了解基础知识",
+    "title": "阿联酋的企业所得税和增值税是什么？",
+    "titleHighlight": "阿联酋？",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+    "imageBadgeTitle": "由……管理",
+    "imageBadgeText": "联邦税务局（FTA）",
+    "paragraphs": [
+      "在阿联酋，企业需缴纳两项税款——企业所得税和增值税（VAT）。企业所得税税率为9%，适用于年净利润超过37.5万迪拉姆的公司。增值税税率为5%，适用于大多数商品和服务。",
+      "这两种税都由联邦税务局 (FTA) 管理。虽然 FTA 负责管理这两种税，但它们需要分别注册、准确申报和妥善保存记录。错过截止日期会导致罚款，因此认真管理文件至关重要。"
+    ],
+    "highlights": [
+      "已在FTA注册",
+      "免处罚合规",
+      "专业税务咨询",
+      "自由区专业知识"
+    ]
+  },
+  "whoNeedsSection": {
+    "badge": "对阿联酋企业至关重要",
+    "title": "哪些人需要企业税务及增值税服务？",
+    "titleHighlight": "增值税服务？",
+    "subtitle": "如果您的企业属于上述任何一种情况，那么专业的税务服务就至关重要。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "阿联酋应税企业",
+        "description": "所有阿联酋大陆公司和自由区公司都必须注册、提交申报表并遵守阿联酋企业所得税和增值税法律。",
+        "badge": "基本的",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+        "gradient": "from-emerald-600/95 via-teal-600/85 to-transparent"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "超过 37.5 万迪拉姆的企业",
+        "description": "如果您的年度净利润超过 375,000 迪拉姆，则您属于企业所得税制度，必须对适用利润缴纳 9% 的税款。",
+        "miniStat": "37.5万迪拉姆以上",
+        "miniStatLabel": "年度利润门槛"
+      },
+      {
+        "icon": "Receipt",
+        "title": "增值税超过 37.5 万迪拉姆",
+        "description": "如果您的应税供应额在 12 个月内超过 375,000 迪拉姆，则必须进行增值税登记，并按季度或按月申报。",
+        "miniStat": "季刊",
+        "miniStatLabel": "增值税申报要求"
+      },
+      {
+        "icon": "Globe",
+        "title": "全球扩张型公司",
+        "description": "企业在扩大规模、重组或组建税务集团时，需要专家在合规和财务报告方面的指导。",
+        "badge": "全球的",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "gradient": "from-violet-600/95 via-purple-600/85 to-transparent"
+      }
+    ],
+    "indicators": [
+      {
+        "icon": "ShieldCheck",
+        "label": "FTA注册"
+      },
+      {
+        "icon": "Award",
+        "label": "认证专家"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "符合审计要求的记录"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "全面税务支持",
+    "title": "我们的服务包含哪些内容？",
+    "titleHighlight": "包括？",
+    "subtitle": "提供全方位的税务解决方案——从税务登记到审计支持。",
+    "items": [
+      {
+        "icon": "FileCheck",
+        "title": "税务登记及申报",
+        "description": "在联邦税务局注册，确定应税利润，按时提交准确的申报表。"
+      },
+      {
+        "icon": "Receipt",
+        "title": "增值税设置和更新",
+        "description": "完成增值税登记、修改和注销等必要手续。"
+      },
+      {
+        "icon": "Calculator",
+        "title": "增值税申报",
+        "description": "准确编制并向联邦税务局提交季度或月度增值税申报表。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "增值税跟踪与核对",
+        "description": "跟踪进项/销项增值税，进行核对，并记录以进行正确的抵免。"
+      },
+      {
+        "icon": "Award",
+        "title": "税务退税与合规",
+        "description": "当进项增值税超过销项增值税或新企业出现增值税退税申请时，管理退税申请。"
+      },
+      {
+        "icon": "FileText",
+        "title": "簿记及咨询",
+        "description": "按照联邦交通管理局 (FTA) 的要求进行结构化的簿记和记录保存。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "FTA审计支持",
+        "description": "审计期间提供完整的文件、财务报表和陈述。"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "税务咨询与架构设计",
+        "description": "税务筹划、集团架构和季度立法更新。"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "值得信赖的阿联酋税务专家",
+    "titleHighlight": "专家",
+    "subtitle": "我们精通阿联酋企业税法和增值税法，确保您的企业始终合规并随时准备接受审计。我们的注册会计师、法律顾问和合规专家将负责您联邦税务局注册和纳税申报的每一个细节。",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1200&q=80",
+    "features": [
+      "注册会计师和税务专家",
+      "价格透明——无隐藏费用",
+      "实时跟踪和截止日期通知",
+      "自由区、大陆及离岸专业知识",
+      "为您保存随时可供审计的记录"
+    ],
+    "floatingCards": {
+      "experience": {
+        "label": "经验",
+        "value": "15年以上"
+      },
+      "clients": {
+        "label": "客户",
+        "value": "服务超过500人"
+      }
+    }
+  },
+  "penaltiesSection": {
+    "badge": "警告——切勿忽视截止日期",
+    "title": "不遵守规定的处罚",
+    "titleHighlight": "不合规",
+    "subtitle": "FTA 对逾期注册、漏报和不准确申报处以重罚。",
+    "items": [
+      {
+        "icon": "Clock",
+        "title": "逾期登记",
+        "amount": "10,000 迪拉姆",
+        "description": "未按时登记企业所得税，将处以固定罚款。"
+      },
+      {
+        "icon": "FileText",
+        "title": "增值税申报逾期",
+        "amount": "每月 500-1000 迪拉姆",
+        "description": "每逾期提交增值税申报表都将处以月度罚款。"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "错误退货",
+        "amount": "1000-5000迪拉姆",
+        "description": "对不实申报或少报税款的处罚。"
+      }
+    ]
+  },
+  "freeZoneSection": {
+    "badge": "自由区特殊规则",
+    "title": "自由区公司需要缴纳企业所得税吗？",
+    "titleHighlight": "企业税？",
+    "subtitle": "自由区税收规则很复杂——以下是您需要了解的内容。",
+    "items": [
+      {
+        "icon": "CheckCircle2",
+        "title": "自由区免税",
+        "description": "根据阿联酋财政部制定的条件，某些自由区实体可能有资格享受 0% 的企业所得税。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "应税外部收入",
+        "description": "来自内地交易或非合格来源（被动收入、利息）的收入可能按9%的标准税率征税。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "豁免资格核查及建议",
+        "description": "我们会评估您的商业模式、收入来源和结构，以确定您是否符合豁免资格以及重组方案。",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "您需要了解的关于阿联酋企业所得税和增值税的一切信息。找不到您想要的信息？我们的专家随时为您提供帮助。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "我们的税务专家随时准备为您提供帮助。立即获取免费咨询。"
+    },
+    "miniStats": [
+      {
+        "value": "24小时",
+        "label": "响应时间"
+      },
+      {
+        "value": "100%",
+        "label": "免费咨询"
+      }
+    ],
+    "items": [
+      {
+        "q": "在迪拜，企业必须缴纳公司税吗？",
+        "a": "是的。阿联酋企业年净利润超过37.5万迪拉姆必须缴纳企业所得税。所有符合条件的企业都必须在联邦税务局（FTA）注册并提交纳税申报表。"
+      },
+      {
+        "q": "企业在什么情况下需要在阿联酋注册增值税？",
+        "a": "当应税供应额超过每年 375,000 迪拉姆时，必须进行增值税登记。应税供应额超过 187,500 迪拉姆时，可自愿登记。"
+      },
+      {
+        "q": "办理企业所得税和增值税登记需要哪些文件？",
+        "a": "营业执照、公司章程、护照复印件、阿联酋身份证复印件、财务报表和银行账户信息。我们为您准备并核实所有文件。"
+      },
+      {
+        "q": "企业所得税是否适用于自由区公司？",
+        "a": "是的，但有条件。符合条件的自由区实体可享受符合条件的收入0%的税率。不符合条件的收入则按9%的税率征税。"
+      },
+      {
+        "q": "错过增值税申报截止日期会受到什么处罚？",
+        "a": "逾期申报的罚款为每月 500 至 1000 迪拉姆，屡犯者还将处以额外罚款。"
+      },
+      {
+        "q": "我可以在阿联酋申请增值税退税吗？",
+        "a": "是的。如果您的进项增值税超过销项增值税，您可以申请退税。我们会处理所有退税事宜。"
+      },
+      {
+        "q": "Setup Zone Dubai 在 FTA 审核期间提供哪些帮助？",
+        "a": "我们会准备所有文件，与联邦交通管理局官员协调，并在整个审计过程中代表您。"
+      },
+      {
+        "q": "企业所得税和增值税服务的相关费用有哪些？",
+        "a": "我们的定价透明，具体价格取决于您的业务规模和复杂程度。联系我们获取定制报价，绝无任何隐藏费用。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与企业税和增值税合规相关的服务。",
+    "items": [
+      {
+        "slug": "accounting",
+        "title": "会计",
+        "description": "记账、工资核算和财务报告。",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO 申报、ESR 报告和监管支持。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "联系我们",
+    "title": "准备好遵守税务法规了吗？",
+    "titleHighlight": "是否遵守税务规定？",
+    "subtitle": "联系我们的税务专家，即可获得免费咨询，从此无需再为联邦税务局 (FTA) 的截止日期而烦恼。欢迎莅临我们在商业湾的办公室，或在线联系我们——我们为您处理一切事宜。",
+    "chips": [
+      "15年以上经验",
+      "500多位满意客户",
+      "FTA注册"
+    ],
+    "whatsappMessage": "您好！我想咨询一下企业税和增值税方面的免费咨询服务。"
+  }
+}

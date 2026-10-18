@@ -1,0 +1,279 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "享有盛誉的自由区",
+  "heroTitle": "迪拜世界贸易中心自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "迪拜最负盛名的自由区之一，举办全球展览、会议和商务活动。位于迪拜商业区的中心地带。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "3-5天安装完成"
+  ],
+  "heroCard": {
+    "headerTitle": "迪拜世界贸易中心商业",
+    "headerStatus": "居住",
+    "icon": "Crown",
+    "zoneLabel": "区",
+    "zoneValue": "贸易中心 1",
+    "statusBadge": "积极的",
+    "setupTimeLabel": "设置时间",
+    "setupTimeValue": "3-5天",
+    "taxLabel": "税率",
+    "taxValue": "0%",
+    "footerText": "立即启动"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-slate-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Award",
+      "value": "享有盛誉",
+      "label": "商业区",
+      "color": "from-sky-400 to-cyan-600"
+    }
+  ],
+  "whyDwtcSection": {
+    "badge": "为什么选择迪拜世界贸易中心",
+    "title": "为什么选择迪拜世界贸易中心？",
+    "titleHighlight": "迪拜世界贸易中心？",
+    "subtitle": "拥有世界一流的基础设施和完善的商业生态系统，具备卓越的优势。",
+    "smallCards": [
+      {
+        "icon": "MapPin",
+        "title": "黄金地段",
+        "description": "位于迪拜商业区的中心地带，交通便利。",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "多元化人才库",
+        "description": "可接触到众多技能娴熟的专业人士和行业专家。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "世界一流的基础设施",
+        "description": "一流的设施、现代化的办公室和优质的配套设施。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "Crown",
+      "title": "蓬勃发展的商业社区",
+      "description": "全年参与全球展览、会议和商务活动——置身迪拜商业生态系统的中心。",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80",
+      "color": "from-slate-700 via-indigo-700 to-violet-700"
+    },
+    "transportCard": {
+      "icon": "Plane",
+      "title": "交通连接",
+      "description": "地铁、高速公路和机场——都在附近。",
+      "color": "from-cyan-500 via-blue-600 to-cyan-700"
+    }
+  },
+  "servicesSection": {
+    "badge": "我们的服务",
+    "title": "迪拜世界贸易中心 (DWTC) 的商业设立服务",
+    "titleHighlight": "在迪拜世界贸易中心",
+    "subtitle": "为您的企业设立的各个方面提供全面的端到端支持。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "自由区公司注册",
+        "description": "100% 所有权，零企业税，利润全额汇回——设立在最合适的自由区。",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "大陆公司成立",
+        "description": "直接在阿联酋市场进行贸易——DED 文件、当地担保安排和许可证。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "迪拜贸易许可证",
+        "description": "商业、专业或工业贸易许可证——快速申请和合规监管。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "签证办理及专业服务",
+        "description": "投资者签证、雇员签证和家属签证——体检、阿联酋身份证和签证盖章。",
+        "color": "from-sky-400 to-cyan-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "公司银行账户开立",
+        "description": "在阿联酋主要银行开设企业银行账户——文件准备、KYC认证和银行介绍。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Calculator",
+        "title": "会计及税务服务",
+        "description": "遵守阿联酋企业所得税和增值税规定——记账、增值税申报和财务报告。",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "我们的套餐",
+    "title": "透明的全包套餐",
+    "titleHighlight": "全包套餐",
+    "subtitle": "无任何隐藏费用——价格透明，一目了然。",
+    "items": [
+      {
+        "icon": "Globe",
+        "name": "自由区许可证",
+        "badge": null,
+        "price": "5,999",
+        "currency": "自动体外除颤器",
+        "description": "无需居住地限制——非常适合远程办公企业和自由职业者。",
+        "color": "from-slate-400 to-indigo-600",
+        "highlighted": false
+      },
+      {
+        "icon": "Crown",
+        "name": "自由区及居留权",
+        "badge": "最受欢迎",
+        "price": "11,999",
+        "currency": "自动体外除颤器",
+        "description": "最适合迁居迪拜的企业家。",
+        "color": "from-indigo-400 to-violet-600",
+        "highlighted": true
+      },
+      {
+        "icon": "Building2",
+        "name": "大陆居民",
+        "badge": "性价比最高",
+        "price": "16,999",
+        "currency": "自动体外除颤器",
+        "description": "面向阿联酋本地市场的企业。",
+        "color": "from-violet-400 to-purple-600",
+        "highlighted": false
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "为什么选择迪拜Setup Zone？",
+    "titleHighlight": "迪拜建站区？",
+    "items": [
+      {
+        "icon": "Rocket",
+        "title": "端到端支持",
+        "description": "提供从许可证申请到公司上线的全方位业务设立支持。"
+      },
+      {
+        "icon": "Award",
+        "title": "专业知识",
+        "description": "深入了解迪拜自由区和迪拜大陆的相关法规。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "透明定价",
+        "description": "无任何隐藏费用——价格始终清晰透明。"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "专职经理",
+        "description": "全程配备专属客户经理。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "许可后支持",
+        "description": "设置完成后提供专业服务、会计和合规服务。"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速通道处理",
+        "description": "许可证将在3-5个工作日内签发。"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜世界贸易中心，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的DWTC专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜世界贸易中心自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜世界贸易中心设立公司需要多长时间？",
+        "a": "大多数企业可在 3-5 个工作日内完成注册并开始运营，具体时间取决于许可证类型和所需审批。"
+      },
+      {
+        "q": "外国人可以在迪拜世界贸易中心设立公司吗？",
+        "a": "是的。外国人可以在迪拜自由区设立公司，并拥有100%的所有权。根据业务活动的不同，迪拜本土公司可能需要当地担保人。"
+      },
+      {
+        "q": "我需要亲自到迪拜吗？",
+        "a": "大部分注册流程都可以远程完成。我们的团队会代表您处理文书工作和政府提交材料。"
+      },
+      {
+        "q": "我可以在迪拜世界贸易中心设立哪些类型的企业？",
+        "a": "根据您选择的许可证类型，可适用于商业、专业、工业、电子商务和自由职业企业。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的DWTC配置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-slate-400 to-indigo-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始",
+    "title": "准备在迪拜世界贸易中心 (DWTC) 启动？",
+    "titleHighlight": "迪拜世界贸易中心？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设立流程，并帮助您选择最适合您业务的司法管辖区。",
+    "chips": [
+      "免费咨询",
+      "3-5天安装完成",
+      "无隐藏费用"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于DWTC（迪拜世界贸易中心）搭建的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一下DWTC的设置。"
+  }
+}

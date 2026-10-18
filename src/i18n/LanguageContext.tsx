@@ -1,80 +1,59 @@
-import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
 
-// ✅ CHANGE 1: `export type` (not just `export`)
-export type LanguageCode = 'en' | 'ar' | 'ru' | 'de' | 'es' | 'fr' | 'tr' ;
+const SUPPORTED_LANGS = ['en', 'ar', 'fr', 'de', 'es', 'zh-CN', 'tr'] as const;
+export type LanguageCode = typeof SUPPORTED_LANGS[number];
 
-// ✅ CHANGE 2: `export interface` already theek hai, lekin confirm karo
-export type LanguageOption = {
-  code: LanguageCode;
-  name: string;
-  native: string;
-  flag: string;
-  dir: 'ltr' | 'rtl';
-}
-
-// ✅ LANGUAGES — same as before (ye value export hai, isme change nahi)
-export const LANGUAGES: LanguageOption[] = [
-  { code: 'en', name: 'English',    native: 'English',    flag: '🇬🇧', dir: 'ltr' },
-  { code: 'ar', name: 'Arabic',     native: 'العربية',    flag: '🇦🇪', dir: 'rtl' },
-  { code: 'ru', name: 'Russian',    native: 'Русский',    flag: '🇷🇺', dir: 'ltr' },
-  { code: 'de', name: 'German',     native: 'Deutsch',    flag: '🇩🇪', dir: 'ltr' },
-  { code: 'es', name: 'Spanish',    native: 'Español',    flag: '🇪🇸', dir: 'ltr' },
-  { code: 'fr', name: 'French',     native: 'Français',   flag: '🇫🇷', dir: 'ltr' },
-  { code: 'tr', name: 'Turkish',    native: 'Türkçe',     flag: '🇹🇷', dir: 'ltr' },
+export const LANGUAGES: { code: LanguageCode; name: string; native: string; flag: string }[] = [
+  { code: 'en', name: 'English', native: 'English', flag: '🇬🇧' },
+  { code: 'ar', name: 'Arabic', native: 'العربية', flag: '🇦🇪' },
+  { code: 'fr', name: 'French', native: 'Français', flag: '🇫🇷' },
+  { code: 'de', name: 'German', native: 'Deutsch', flag: '🇩🇪' },
+  { code: 'es', name: 'Spanish', native: 'Español', flag: '🇪🇸' },
+  { code: 'zh-CN', name: 'Chinese', native: '中文', flag: '🇨🇳' },  // ← Changed
+  { code: 'tr', name: 'Turkish', native: 'Türkçe', flag: '🇹🇷' },
 ];
 
-export const DEFAULT_LANGUAGE: LanguageCode = 'en';
-
-interface LanguageContextValue {
+interface LanguageContextType {
   language: LanguageCode;
-  languageOption: LanguageOption;
-  setLanguage: (code: LanguageCode) => void;
-  dir: 'ltr' | 'rtl';
+  languageOption: typeof LANGUAGES[number];
+  setLanguage: (lang: LanguageCode) => void;
   isTranslating: boolean;
 }
 
-const LanguageContext = createContext<LanguageContextValue | undefined>(undefined);
+const LanguageContext = createContext<LanguageContextType>({
+  language: 'en',
+  languageOption: LANGUAGES[0],
+  setLanguage: () => {},
+  isTranslating: false,
+});
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const [language, setLanguageState] = useState<LanguageCode>(() => {
-    if (typeof window === 'undefined') return DEFAULT_LANGUAGE;
-    const saved = localStorage.getItem('preferred-language') as LanguageCode | null;
-    if (saved && LANGUAGES.some(l => l.code === saved)) return saved;
-    return DEFAULT_LANGUAGE;
+    const saved = localStorage.getItem('lang') as LanguageCode;
+    return SUPPORTED_LANGS.includes(saved) ? saved : 'en';
   });
-
   const [isTranslating, setIsTranslating] = useState(false);
 
-  const setLanguage = (code: LanguageCode) => {
+  const setLanguage = (newLang: LanguageCode) => {
     setIsTranslating(true);
-    setLanguageState(code);
-    if (typeof window !== 'undefined') {
-      localStorage.setItem('preferred-language', code);
-    }
-    setTimeout(() => setIsTranslating(false), 1500);
+    setLanguageState(newLang);
+    localStorage.setItem('lang', newLang);
+    // Simulate short transition
+    setTimeout(() => setIsTranslating(false), 300);
   };
 
-  const languageOption = LANGUAGES.find(l => l.code === language) || LANGUAGES[0];
-  const dir = languageOption.dir;
-
   useEffect(() => {
-    if (typeof document !== 'undefined') {
-      document.documentElement.lang = language;
-      document.documentElement.dir = dir;
-    }
-  }, [language, dir]);
+    document.documentElement.lang = language;
+    document.documentElement.dir = language === 'ar' ? 'rtl' : 'ltr';
+  }, [language]);
+
+  const languageOption = LANGUAGES.find(l => l.code === language) || LANGUAGES[0];
 
   return (
-    <LanguageContext.Provider
-      value={{ language, languageOption, setLanguage, dir, isTranslating }}
-    >
+    <LanguageContext.Provider value={{ language, languageOption, setLanguage, isTranslating }}>
       {children}
     </LanguageContext.Provider>
   );
 }
 
-export function useLanguage() {
-  const ctx = useContext(LanguageContext);
-  if (!ctx) throw new Error('useLanguage must be used inside <LanguageProvider>');
-  return ctx;
-}
+export const useLanguage = () => useContext(LanguageContext);

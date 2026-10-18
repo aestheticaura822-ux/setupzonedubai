@@ -1,0 +1,138 @@
+{
+  "badge": "Sıkça Sorulan Sorular",
+  "heading": {
+    "line1": "Sahip olun",
+    "highlight": "Soru?"
+  },
+  "headingLine3": "Cevaplarımız Var.",
+  "description": "Birleşik Arap Emirlikleri'nde iş kurma, vergiler, vizeler ve mevzuat uyumluluğu hakkında bilmeniz gereken her şey. İhtiyacınız olanı bulamadınız mı? Uzmanlarımız bir mesaj uzağınızda.",
+  "searchPlaceholder": "Sorunuzu arayın...",
+  "contactCard": {
+    "icon": "Lightbulb",
+    "title": "HÃ¢lÃ¢ sorularınız mı var?",
+    "subtitle": "Birleşik Arap Emirlikleri'ndeki iş uzmanlarımızla ücretsiz danışmanlık hizmeti alın. 24 saat içinde yanıt veriyoruz.",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "Merhaba! Birleşik Arap Emirlikleri'nde iş kurma hakkında bir sorum var.",
+    "callText": "Bizi Arayın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "statsResponseLabel": "Cevap",
+    "statsResponseValue": "< 24 saat",
+    "statsConsultLabel": "Danışma",
+    "statsConsultValue": "%100 Ücretsiz"
+  },
+  "expandAllLabel": "Tümünü Genişlet",
+  "collapseAllLabel": "Tümünü Daralt",
+  "questionSingular": "Soru",
+  "questionPlural": "Sorular",
+  "noResultsTitle": "Hiçbir sonuç bulunamadı.",
+  "noResultsSubtitle": "Farklı bir arama yapmayı deneyin veya kategorilere göz atın.",
+  "resetFiltersText": "Filtreleri Sıfırla",
+  "categories": [
+    {
+      "id": "all",
+      "name": "Tüm Sorular",
+      "icon": "HelpCircle",
+      "count": 12
+    },
+    {
+      "id": "business",
+      "name": "İşletme Kurulumu",
+      "icon": "Building2",
+      "count": 4
+    },
+    {
+      "id": "tax",
+      "name": "Vergi ve KDV",
+      "icon": "Receipt",
+      "count": 3
+    },
+    {
+      "id": "visa",
+      "name": "Vize ve Oturma İzni",
+      "icon": "Crown",
+      "count": 3
+    },
+    {
+      "id": "banking",
+      "name": "Bankacılık",
+      "icon": "Landmark",
+      "count": 1
+    },
+    {
+      "id": "compliance",
+      "name": "Uyumluluk",
+      "icon": "ShieldCheck",
+      "count": 1
+    }
+  ],
+  "faqs": [
+    {
+      "category": "işletme",
+      "q": "Dubai'de iş kurmak ne kadar sürer?",
+      "a": "Çoğu işletme, lisans türüne ve gerekli onaylara bağlı olarak, Serbest Bölge için 3-5 iş günü, Ana Kara için ise 2-4 hafta içinde tamamen kayıt altına alınır ve faaliyete geçer. Sorunsuz ve verimli bir kurulum süreci sağlayarak hızlı bir şekilde faaliyete geçmenize yardımcı oluyoruz."
+    },
+    {
+      "category": "işletme",
+      "q": "Serbest bölge ile anakara şirketi arasındaki fark nedir?",
+      "a": "Serbest Bölge şirketleri %100 sahiplik, vergi avantajları sunar ve uluslararası ticaret ve danışmanlık için idealdir. Anakara şirketleri ise BAE pazarında serbestçe ticaret yapabilir, kısıtlama olmaksızın personel istihdam edebilir ve yerel perakende, inşaat, restoran ve acenteler için en uygunudur."
+    },
+    {
+      "category": "işletme",
+      "q": "Şirketimi kurmak için fiziksel olarak BAE'de bulunmam gerekiyor mu?",
+      "a": "Hayır. Şirketinizi dünyanın herhangi bir yerinden uzaktan kurabilirsiniz. Belge hazırlama, başvuru ve onay süreçlerinin tamamını dijital iş akışımız aracılığıyla biz hallediyoruz."
+    },
+    {
+      "category": "işletme",
+      "q": "Bir yabancı Dubai'de bir şirketin %100'üne sahip olabilir mi?",
+      "a": "Evet. Yabancılar, çoğu Serbest Bölgede ve birçok Anakara faaliyetinde şirketlerin %100'üne sahip olabilirler. Birleşik Arap Emirlikleri, 1.000'den fazla ticari ve endüstriyel faaliyette yabancı mülkiyetine tam olarak izin vermektedir."
+    },
+    {
+      "category": "vergi",
+      "q": "Birleşik Arap Emirlikleri'ndeki işletmeler için kurumlar vergisi zorunlu mu?",
+      "a": "Evet. Kurumlar vergisi, yıllık net karı 375.000 AED'yi aşan BAE işletmeleri için zorunludur. Şartları karşılayan tüm işletmelerin FTA'ya kayıt yaptırması ve yıllık beyannamelerini sunması gerekmektedir."
+    },
+    {
+      "category": "vergi",
+      "q": "Bir işletme ne zaman KDV kaydı yaptırmalıdır?",
+      "a": "Yıllık vergilendirilebilir mal ve hizmet alımları 375.000 AED'yi aştığında KDV kaydı zorunludur. 187.500 AED'nin üzerindeki alımlar için isteğe bağlı kayıt mümkündür. Çoğu mal ve hizmette KDV oranı %5'tir."
+    },
+    {
+      "category": "vergi",
+      "q": "Dubai'de kötü muhasebe uygulamaları için ne gibi cezalar mevcuttur?",
+      "a": "Cezalar, suçun ciddiyetine bağlı olarak 1.000 AED ile 50.000 AED ve üzeri arasında değişmektedir. Tekrarlanan uyumsuzluklar ehliyetin askıya alınmasına yol açabilir. Cezalardan kaçınmak için tam uyumluluğu sağlıyoruz."
+    },
+    {
+      "category": "Visa",
+      "q": "Birleşik Arap Emirlikleri Altın Vizesi nedir ve nasıl hak kazanırım?",
+      "a": "Altın Vize, yatırımcılar, girişimciler ve olağanüstü yetenekler için 10 yıl süreyle yenilenebilir bir oturma iznidir. 2 milyon AED ve üzeri gayrimenkul yatırımı, işletme yatırımı veya özel yetenek tanınması yoluyla hak kazanabilirsiniz."
+    },
+    {
+      "category": "Visa",
+      "q": "Altın Vize kapsamında aile üyelerime sponsor olabilir miyim?",
+      "a": "Evet. Altın Vize sahipleri eşlerini, çocuklarını, ebeveynlerini ve ev çalışanlarını sponsor edebilirler. Aile üyeleri de aynı uzun süreli oturum izni haklarından yararlanırlar."
+    },
+    {
+      "category": "Visa",
+      "q": "Birleşik Arap Emirlikleri'nde oturum vizesi başvurusu için yerel bir sponsora ihtiyacım var mı?",
+      "a": "Hayır. Birleşik Arap Emirlikleri'nde ikamet vizesi için Serbest Bölge, Anakara veya Altın Vize başvurularında yerel bir sponsora gerek yoktur. Kendi işiniz aracılığıyla kendinize sponsor olabilirsiniz."
+    },
+    {
+      "category": "bankacılık",
+      "q": "Kurumsal banka hesabı açmak ne kadar sürer?",
+      "a": "Genellikle bankaya, işletme profiline ve hissedarların uyruğuna bağlı olarak 5-20 iş günü sürer. WIO gibi dijital bankalar 2-5 gün içinde hesap açabilir."
+    },
+    {
+      "category": "uyumluluk",
+      "q": "UBO bildirimi nedir ve zorunlu mudur?",
+      "a": "UBO (Nihai Faydalanıcı) bildirimi, BAE'de kayıtlı tüm işletmeler için zorunludur. Bu bildirim, şirketi nihai olarak kimin kontrol ettiğini veya şirketten kimin fayda sağladığını ortaya koyar. Bu yükümlülüğe uyulmaması, 100.000 AED'ye kadar para cezası ve lisans iptaliyle sonuçlanır."
+    }
+  ],
+  "bottomCTA": {
+    "icon": "HelpCircle",
+    "title": "Aradığınız cevabı bulamadınız mı?",
+    "subtitle": "Uzmanlarımız bir mesaj uzağınızda.",
+    "buttonText": "Bir Uzmana Sorun",
+    "whatsappMessage": "Merhaba! Sıkça Sorulan Sorular bölümünde bulamadığım bir sorum var."
+  }
+}

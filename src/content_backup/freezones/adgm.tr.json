@@ -1,0 +1,463 @@
+{
+    "slug":  "adgm",
+    "hero":  {
+                 "badge":  "Trilyon Dolarlık Finans Bölgesi",
+                 "title":  "ADGM Serbest Bölgesi",
+                 "titleHighlight":  "Serbest Bölge",
+                 "subtitle":  "Abu Dhabi Küresel Piyasası "” ilerici düzenlemeler konusunda öncü olan, dünya çapında tanınmış bir finansal serbest bölge. Fintech, kripto para, özel amaçlı şirketler ve holding şirketleri için mükemmel bir ortam.",
+                 "image":  "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Serbest Bölgeler",
+                 "breadcrumbLabel":  "ADGM",
+                 "ctaPrimaryText":  "Ücretsiz Danışmanlık Alın",
+                 "ctaPrimaryLink":  "#temas etmek",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Merhaba! ADGM Serbest Bölge kurulumuyla ilgileniyorum.",
+                 "badges":  [
+                                "%100 Sahiplik",
+                                "%0 Vergi",
+                                "FSRA Düzenlemelerine Tabi"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Taç",
+                      "value":  "1 trilyon doların üzerinde",
+                      "label":  "Trilyon Dolarlık Bölge",
+                      "color":  "indigo-400\u0027den mor-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Gelir vergisi",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "Hızlı",
+                      "label":  "Kayıt",
+                      "color":  "from-amber-400 to-orange-600"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "ADGM Gösterge Paneli",
+                          "statusLabel":  "Canlı",
+                          "balanceLabel":  "İş Bölgesi",
+                          "balanceValue":  "1 Trilyon Doların Üzerinde",
+                          "balanceSubtext":  "Küresel finans merkezi",
+                          "metrics":  [
+                                          {
+                                              "label":  "Mülkiyet",
+                                              "value":  "%100",
+                                              "color":  "metin-indigo-600"
+                                          },
+                                          {
+                                              "label":  "Vergi Oranı",
+                                              "value":  "%0",
+                                              "color":  "metin-zümrüt-600"
+                                          }
+                                      ],
+                          "chartLabel":  "Finansal Büyüme",
+                          "chartValue":  "â†‘ %240",
+                          "chartBars":  [
+                                            30,
+                                            50,
+                                            40,
+                                            65,
+                                            55,
+                                            80,
+                                            95,
+                                            75,
+                                            100
+                                        ]
+                      },
+    "whyADGM":  {
+                    "badge":  "Neden ADGM?",
+                    "title":  "ADGM Serbest Bölgesi\u0027nde İş Kurmanın Nedenleri Nelerdir?",
+                    "titleHighlight":  "ADGM Serbest Bölgesi mi?",
+                    "subtitle":  "Orta Doğu\u0027daki en gelişmiş ve saygın düzenleyici ortamlardan biri.",
+                    "items":  [
+                                  {
+                                      "icon":  "Küre",
+                                      "title":  "%100 Yabancı Mülkiyeti",
+                                      "description":  "Yerel sponsora ihtiyaç duymadan işletmenizin tam mülkiyetine sahip olabilirsiniz.",
+                                      "color":  "indigo-400\u0027den mor-600\u0027e"
+                                  },
+                                  {
+                                      "icon":  "Dolar İşareti",
+                                      "title":  "Sıfır Gelir Vergisi",
+                                      "description":  "Kurumlar veya kişisel gelir vergisi yok "” maksimum karlılık.",
+                                      "color":  "from-violet-400 to-purple-600"
+                                  },
+                                  {
+                                      "icon":  "Önemli bir dönüm noktası",
+                                      "title":  "Küresel Bankacılık Erişimi",
+                                      "description":  "Dünya çapında tanınan bankacılık, hukuk ve finans sistemleri.",
+                                      "color":  "from-purple-400 to-fuchsia-600"
+                                  },
+                                  {
+                                      "icon":  "Zap",
+                                      "title":  "Kolaylaştırılmış Kayıt",
+                                      "description":  "Hızlı ve verimli işletme kayıt süreci.",
+                                      "color":  "from-amber-400 to-orange-600"
+                                  },
+                                  {
+                                      "icon":  "Ölçek",
+                                      "title":  "İngiliz Ortak Hukuku",
+                                      "description":  "İngiliz genel hukukuna uygun olarak, küresel çapta tanınmış bir otorite tarafından düzenlenmektedir.",
+                                      "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                  },
+                                  {
+                                      "icon":  "Madeni paralar",
+                                      "title":  "Fintech için mükemmel",
+                                      "description":  "Fintech, varlık yönetimi, kripto para birimleri ve profesyonel hizmetler için idealdir.",
+                                      "color":  "from-emerald-400 to-teal-600"
+                                  }
+                              ]
+                },
+    "beginJourney":  {
+                         "badge":  "ADGM Yolculuğunuza Başlayın",
+                         "title":  "ADGM\u0027de İşinizi Kurun",
+                         "titleHighlight":  "ADGM",
+                         "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200\u0026q=80",
+                         "imageBadgeTitle":  "Bulunduğu yer",
+                         "imageBadgeText":  "Al Maryah Adası, Abu Dabi",
+                         "paragraph1":  "ADGM\u0027de (Abu Dhabi Global Market) iş kurmak sadece şirket kaydı yaptırmakla ilgili değil; dünyanın en prestijli ve dinamik finans merkezlerinden biriyle etkileşim kurmakla ilgili.",
+                         "paragraph2":  "Trilyon Dolarlık Finans Bölgesi olarak adlandırılan ADGM, güvenle işlem yapmak isteyen girişimciler, yatırımcılar ve şirket liderleri için seçkin bir pazar yeridir.",
+                         "paragraph3":  "İster bir girişim kurucusu, ister deneyimli bir yatırımcı, ister bir kurumsal stratejist olun; ADGM, iş birliğine dayalı bir ekosistem ve dünya standartlarında bir düzenleyici çerçeve ile hayallerinizi büyütmeniz için mükemmel bir ortam sunar.",
+                         "features":  [
+                                          "Prestijli Finans Merkezi",
+                                          "FSRA tarafından düzenlenmektedir.",
+                                          "Küresel Erişim",
+                                          "İnovasyon Ekosistemi"
+                                      ]
+                     },
+    "licenseTypes":  {
+                         "badge":  "Lisans Seçenekleri",
+                         "title":  "ADGM İşletme Lisansı Türleri",
+                         "titleHighlight":  "Lisans Türleri",
+                         "subtitle":  "İşletme faaliyetlerinize uygun lisansı alın.",
+                         "items":  [
+                                       {
+                                           "icon":  "Mağaza",
+                                           "title":  "ADGM Ticari Lisansı",
+                                           "description":  "Ticaret yapan ve hizmet sunan işletmeler için.",
+                                           "code":  "COM",
+                                           "color":  "indigo-400\u0027den mor-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Evrak çantası",
+                                           "title":  "ADGM Profesyonel Lisansı",
+                                           "description":  "Danışmanlar, profesyonel hizmetler, hukuk veya bilişim teknolojileri firmaları için.",
+                                           "code":  "PRO",
+                                           "color":  "from-violet-400 to-purple-600"
+                                       },
+                                       {
+                                           "icon":  "Bina 2",
+                                           "title":  "ADGM Holding Şirketi Lisansı",
+                                           "description":  "Varlık koruma ve sınır ötesi yatırımlar için.",
+                                           "code":  "Yüksek Seviye",
+                                           "color":  "from-purple-400 to-fuchsia-600"
+                                       },
+                                       {
+                                           "icon":  "Kutular",
+                                           "title":  "ADGM SPV",
+                                           "description":  "Yapılandırma ve yatırım holdingi için özel amaçlı şirket.",
+                                           "code":  "SPV",
+                                           "color":  "from-amber-400 to-orange-600"
+                                       },
+                                       {
+                                           "icon":  "İşlemci",
+                                           "title":  "ADGM Fintech Lisansı",
+                                           "description":  "Modern dijital finans ve inovasyon için.",
+                                           "code":  "SON",
+                                           "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Bloklar",
+                                           "title":  "Dijital Varlıklar ve Kripto Para Lisansı",
+                                           "description":  "Düzenlemelere tabi blockchain işletmeleri için.",
+                                           "code":  "AĞLAMAK",
+                                           "color":  "from-emerald-400 to-teal-600"
+                                       }
+                                   ]
+                     },
+    "visaServices":  {
+                         "badge":  "Vize Hizmetleri",
+                         "title":  "Vize ve Göçmenlik Yardımı",
+                         "titleHighlight":  "Yardım",
+                         "subtitle":  "Hem yatırımcılar hem de çalışanlar için daha hızlı vize işlemleri.",
+                         "items":  [
+                                       {
+                                           "icon":  "Kullanıcı Kontrolü",
+                                           "title":  "Yatırımcı ve Ortak Vizeleri",
+                                           "description":  "ADGM\u0027deki işletme sahipleri ve hissedarlar için.",
+                                           "stampColor":  "indigo-500\u0027den mor-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Evrak çantası",
+                                           "title":  "Çalışma Vizeleri",
+                                           "description":  "ADGM şirketiniz tarafından desteklenen çalışanlar için.",
+                                           "stampColor":  "from-violet-500 to-purple-600"
+                                       },
+                                       {
+                                           "icon":  "Kullanıcılar",
+                                           "title":  "Aile Vizesi Başvuruları",
+                                           "description":  "Eş, çocuklar ve bakmakla yükümlü olunan kişiler için.",
+                                           "stampColor":  "mor-500\u0027den fuşya-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "RefreshCw",
+                                           "title":  "Vize Yenileme ve Transferleri",
+                                           "description":  "Tüm vize türleri için tam yaşam döngüsü desteği.",
+                                           "stampColor":  "from-amber-500 to-orange-600"
+                                       }
+                                   ]
+                     },
+    "officeSolutions":  {
+                            "badge":  "Ofis Çözümleri",
+                            "title":  "ADGM\u0027de Modern Ofis Çözümleri",
+                            "titleHighlight":  "ADGM\u0027de Çözümler",
+                            "subtitle":  "Al Maryah Adası\u0027nda birinci sınıf ortak çalışma alanları, esnek çalışma masaları, özel ofisler ve sanal ofisler.",
+                            "smallItems":  [
+                                               {
+                                                   "icon":  "Monitör",
+                                                   "title":  "Ortak Çalışma Alanları",
+                                                   "description":  "Yeni kurulan şirketler ve serbest çalışanlar için esnek, paylaşımlı çalışma alanları.",
+                                                   "color":  "indigo-400\u0027den mor-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "Evrak çantası",
+                                                   "title":  "Esnek Masalar",
+                                                   "description":  "Uygun fiyatlı, birinci sınıf olanaklara sahip ortak çalışma masaları.",
+                                                   "color":  "from-violet-400 to-purple-600"
+                                               },
+                                               {
+                                                   "icon":  "Küre",
+                                                   "title":  "Sanal Ofisler",
+                                                   "description":  "ADGM\u0027de yasal temsilciliğe ihtiyaç duyan uzaktan çalışan işletmeler için idealdir.",
+                                                   "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                               }
+                                           ],
+                            "largeItem":  {
+                                              "icon":  "Bina 2",
+                                              "title":  "Özel Ofisler",
+                                              "description":  "Al Maryah Adası\u0027nda, büyüyen firmalar için mükemmel, özelleştirilebilir ve güvenli alanlar. Vize kotanıza, bütçenize ve operasyonel gereksinimlerinize göre en iyi ofis çözümü konusunda rehberlik alın."
+                                          }
+                        },
+    "businessSupport":  {
+                            "badge":  "İş Destek Hizmetleri",
+                            "title":  "Setup Zone Dubai tarafından eksiksiz destek.",
+                            "titleHighlight":  "Setup Zone Dubai tarafından",
+                            "subtitle":  "İşletmenizin başarılı olmasını sağlamak için size destek vermeye devam ediyoruz.",
+                            "items":  [
+                                          {
+                                              "icon":  "Ölçek",
+                                              "title":  "Hukuk Danışmanlığı",
+                                              "description":  "Sözleşmeler, uyumluluk ve düzenleyici başvurular."
+                                          },
+                                          {
+                                              "icon":  "Kredi Kartı",
+                                              "title":  "Bankacılık Hizmetleri",
+                                              "description":  "Birleşik Arap Emirlikleri bankalarında kurumsal ve bireysel hesaplar."
+                                          },
+                                          {
+                                              "icon":  "ÇubukGrafik3",
+                                              "title":  "Muhasebe ve Denetim",
+                                              "description":  "KDV uyumluluğu ve finansal raporlama."
+                                          },
+                                          {
+                                              "icon":  "Dosya Rozeti",
+                                              "title":  "PRO Hizmetleri",
+                                              "description":  "Belgeleme, lisans yenileme ve onay işlemleri."
+                                          },
+                                          {
+                                              "icon":  "MonitorPlay",
+                                              "title":  "Web Sitesi Geliştirme",
+                                              "description":  "SEO optimizasyonlu web siteleri ve CRM kurulumu."
+                                          },
+                                          {
+                                              "icon":  "Megafon",
+                                              "title":  "Dijital Markalaşma",
+                                              "description":  "Marka kimliği ve potansiyel müşteri oluşturma desteği."
+                                          }
+                                      ]
+                        },
+    "strategicAdvantages":  {
+                                "badge":  "Stratejik Avantajlar",
+                                "title":  "ADGM\u0027nin Konumu ve Ekosisteminin Başlıca Avantajları",
+                                "titleHighlight":  "Konum ve Ekosistem",
+                                "items":  [
+                                              {
+                                                  "icon":  "Harita İşareti",
+                                                  "title":  "Al Maryah Adası",
+                                                  "description":  "Abu Dabi\u0027nin önde gelen finans bölgesinde yer almaktadır."
+                                              },
+                                              {
+                                                  "icon":  "Bloklar",
+                                                  "title":  "Dijital Varlık Dostu",
+                                                  "description":  "Dijital varlıkları ve özel amaçlı şirketleri yasal olarak destekleyen az sayıdaki bölgeden biri."
+                                              },
+                                              {
+                                                  "icon":  "Uçak",
+                                                  "title":  "Havaalanına Yakınlık",
+                                                  "description":  "Abu Dabi Uluslararası Havalimanı\u0027na, elçiliklere ve devlet kurumlarına yakın konumda."
+                                              },
+                                              {
+                                                  "icon":  "Küre",
+                                                  "title":  "Küresel Yatırım Merkezi",
+                                                  "description":  "Uluslararası iş ve yatırım için merkezi bir nokta."
+                                              },
+                                              {
+                                                  "icon":  "Kalkan Kontrolü",
+                                                  "title":  "FSRA Düzenlemelerine Tabi",
+                                                  "description":  "Finansal Hizmetler Düzenleme Kurumu tarafından denetlenmektedir."
+                                              },
+                                              {
+                                                  "icon":  "Önemli bir dönüm noktası",
+                                                  "title":  "Prestijli Adres",
+                                                  "description":  "Marka güvenilirliğini ve yatırımcı güvenini artırır."
+                                              }
+                                          ]
+                            },
+    "whyChooseUs":  {
+                        "badge":  "Neden Bizi Seçmelisiniz?",
+                        "title":  "Setup Zone Dubai\u0027yi Neden Seçmelisiniz?",
+                        "titleHighlight":  "Dubai\u0027de kurulum bölgesi mi?",
+                        "subtitle":  "ADGM yolculuğunuzda şeffaflık, verimlilik ve kişiselleştirilmiş hizmet.",
+                        "items":  [
+                                      {
+                                          "icon":  "Ödül",
+                                          "title":  "Hepsi Bir Arada Paketler",
+                                          "description":  "ADGM kurulumu, lisanslama ve vize işlemlerinin tamamlanması.",
+                                          "color":  "indigo-400\u0027den mor-600\u0027e"
+                                      },
+                                      {
+                                          "icon":  "Hedef",
+                                          "title":  "Uzman Danışmanlığı",
+                                          "description":  "Sektörünüze ve hukuki ihtiyaçlarınıza göre uyarlanmış danışmanlık hizmeti.",
+                                          "color":  "from-violet-400 to-purple-600"
+                                      },
+                                      {
+                                          "icon":  "Fiş",
+                                          "title":  "Şeffaf Fiyatlandırma",
+                                          "description":  "Şeffaf fiyatlandırma, gizli ücret yok.",
+                                          "color":  "from-purple-400 to-fuchsia-600"
+                                      },
+                                      {
+                                          "icon":  "Roket",
+                                          "title":  "Tam Destek",
+                                          "description":  "Dijital marka oluşturma, CRM kurulumu, SEO ve potansiyel müşteri bulma.",
+                                          "color":  "from-amber-400 to-orange-600"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Sıkça Sorulan Sorular",
+                 "title":  "Sıkça Sorulan Sorular",
+                 "titleHighlight":  "Sorular",
+                 "subtitle":  "ADGM Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                 "items":  [
+                               {
+                                   "q":  "ADGM\u0027de nasıl işletme kurabilirim?",
+                                   "a":  "Kayıt işlemlerini Tescil Kurumu aracılığıyla gerçekleştirin. Ticari isim rezervasyonu, lisans başvurusu, yasal yapılandırma ve vize hizmetleri dahil olmak üzere tüm süreçlerde sizin adınıza hareket ediyoruz."
+                               },
+                               {
+                                   "q":  "ADGM\u0027de ne tür lisanslar mevcuttur?",
+                                   "a":  "Ticari, Profesyonel, Holding Şirketi, SPV, Fintech ve Dijital Varlıklar/Kripto lisansları; her biri farklı iş modellerine göre uyarlanmıştır."
+                               },
+                               {
+                                   "q":  "ADGM sadece yeni kurulan şirketler için mi yoksa uluslararası işletmeler için de mi geçerli?",
+                                   "a":  "ADGM her ikisi için de uygundur. Fintech girişimlerinden çokuluslu şirketlere, özel amaçlı şirketlere ve holding şirketlerine kadar ADGM, her büyüklükteki ve aşamadaki işletmeyi destekler."
+                               },
+                               {
+                                   "q":  "ADGM SPV nedir ve kimler kullanabilir?",
+                                   "a":  "Özel Amaçlı Şirket (SPV), yapılandırma, yatırım tutma ve varlık koruma amacıyla kullanılır; sınır ötesi yatırımcılar için idealdir."
+                               },
+                               {
+                                   "q":  "ADGM şirketine ait bir banka hesabı açabilir miyim?",
+                                   "a":  "Evet. ADGM\u0027nin küresel bankacılık bağlantıları, önde gelen BAE ve uluslararası bankalarda kurumsal hesap açmayı kolaylaştırıyor."
+                               },
+                               {
+                                   "q":  "ADGM\u0027ye kayıt olmak için ofis alanına ihtiyacım var mı?",
+                                   "a":  "Evet, fiziksel veya sanal bir ofise ihtiyacınız var. Ortak çalışma alanları, esnek masalar, özel ofisler ve sanal ofisler de dahil olmak üzere esnek seçenekler sunuyoruz."
+                               },
+                               {
+                                   "q":  "ADGM vize süreci nedir?",
+                                   "a":  "Yatırımcılar, çalışanlar ve aile üyeleri için giriş izinleri, sağlık testleri, Emirates Kimlik Kartı ve oturma vizesi damgalama dahil olmak üzere tüm süreci biz üstleniyoruz."
+                               },
+                               {
+                                   "q":  "ADGM şirketini ne kadar sürede kurabilirim?",
+                                   "a":  "Belgelere ve lisans türüne bağlı olarak genellikle 1-2 hafta sürer. Mümkün olan durumlarda süreci hızlandırıyoruz."
+                               },
+                               {
+                                   "q":  "ADGM finansal bir işletme olarak düzenlemeye tabi mi?",
+                                   "a":  "Evet. ADGM, Finansal Hizmetler Düzenleme Kurumu (FSRA) tarafından denetlenmektedir ve İngiliz genel hukukuna tabidir."
+                               },
+                               {
+                                   "q":  "ADGM kurulumu için neden Setup Zone Dubai ile çalışmalıyım?",
+                                   "a":  "Her şey dahil paketler, uzman danışmanlık, şeffaf fiyatlandırma ve kurulum sonrası tam destek sunuyoruz; ayrıca hızlı işlem için devletle bağlantılarımız da mevcut."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "İlgili Hizmetler",
+                            "titleHighlight":  "Hizmetler",
+                            "subtitle":  "Serbest Bölge kurulumunuzla iyi uyum sağlayan hizmetler.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Banka Hesabı Açma",
+                                              "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Uyumluluk Hizmetleri",
+                                              "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Altın Vize",
+                                              "description":  "Yatırımcılar için 10 yıllık BAE oturum izni.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "ADGM\u0027de lansmana hazır mısınız?",
+                     "titleHighlight":  "ADGM?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisans seçiminden banka hesabı açmaya kadar kurulum sürecinde size rehberlik edeceğiz.",
+                     "primaryCta":  "Bize WhatsApp\u0027tan ulaşın",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "Merhaba! ADGM kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "badges":  [
+                                    "Ücretsiz Danışmanlık",
+                                    "FSRA Düzenlemelerine Tabi",
+                                    "Hızlı Kurulum"
+                                ],
+                     "office":  {
+                                    "label":  "Dubai Ofisimizi Ziyaret Edin",
+                                    "line1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                    "line2":  "Business Bay, Dubai, B.A.E "” Posta Kutusu: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Çalışma Saatleri",
+                                   "monFri":  "Sabah 9 - Akşam 6",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Kapalı"
+                               }
+                 }
+}

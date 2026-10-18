@@ -1,0 +1,504 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&q=80",
+  "heroBadge": "Reíºne a tu familia",
+  "heroTitle": "Visa de residencia para dependientes en los EAU",
+  "heroTitleHighlight": "Visa de residencia",
+  "heroSubtitle": "Patrocina a tu cónyuge, hijos, padres y personal doméstico para que vivan contigo en los Emiratos írabes Unidos. Patrocinio familiar completo con todos los beneficios de residencia.",
+  "heroChips": [
+    "4 tipos dependientes",
+    "Válido por 2-3 años",
+    "Familia unida",
+    "Beneficios completos"
+  ],
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "4",
+      "label": "Tipos dependientes",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Años de validez",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "Rápido",
+      "label": "Tratamiento",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "Obediente",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "¿Qué es?",
+    "title": "¿Qué es un visado de dependiente en los Emiratos írabes Unidos?",
+    "titleHighlight": "¿Visa de dependiente para los Emiratos írabes Unidos?",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+    "imageBadgeTitle": "Familia unida",
+    "imageBadgeText": "Residencia completa",
+    "paragraphs": [
+      "Un visado de residencia para dependientes en los EAU permite a los titulares de un visado de residencia en los EAU patrocinar a sus familiares (cónyuge, hijos, padres y trabajadores domésticos) para que vivan con ellos en los EAU.",
+      "Si usted posee una visa de trabajo o de inversionista con un salario mí­nimo de 4000 AED, puede patrocinar a su cónyuge e hijos bajo su residencia. Para los padres, el requisito es de 20 000 AED o más, además de presentar documentación adicional.",
+      "Los titulares de visas para dependientes disfrutan de plenos derechos de residencia: permisos de trabajo, servicios bancarios, atención médica, educación y tarjeta de identificación de los Emiratos írabes Unidos. En Setup Zone Dubai, gestionamos todo el proceso de patrocinio familiar, desde la documentación hasta el sellado de la visa."
+    ],
+    "highlights": [
+      "Unión familiar",
+      "Elegible para permiso de trabajo",
+      "Acceso bancario",
+      "Acceso a la atención médica",
+      "Acceso a la educación",
+      "Documento de identidad de los Emiratos"
+    ]
+  },
+  "dependentTypesSection": {
+    "badge": "¿A quién puedes patrocinar?",
+    "title": "Tipos de visas para dependientes",
+    "titleHighlight": "Visados de dependientes",
+    "subtitle": "Desliza el dedo para ver las 4 categorí­as dependientes y trae a tus seres queridos a los Emiratos írabes Unidos.",
+    "items": [
+      {
+        "id": "spouse",
+        "icon": "Heart",
+        "title": "Visa de cónyuge",
+        "tagline": "Esposo o esposa",
+        "description": "Patrocina a tu esposo o esposa para que viva contigo en los Emiratos írabes Unidos. Disfrutarás de plenos derechos de residencia, incluyendo la posibilidad de obtener un permiso de trabajo, acceso a servicios bancarios y atención médica.",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Esposo/Esposa",
+          "Elegible para permiso de trabajo",
+          "Acceso bancario",
+          "Acceso a la atención médica"
+        ],
+        "bestFor": "Parejas casadas"
+      },
+      {
+        "id": "children",
+        "icon": "Baby",
+        "title": "Visa para niños",
+        "tagline": "Hijos e hijas",
+        "description": "Patrocina a tus hijos varones de hasta 25 años (estudiantes) y a tus hijas solteras de cualquier edad. Acceso completo a la educación, la atención médica y el estilo de vida de los EAU.",
+        "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "Hijos de hasta 25 años",
+          "Hijas de cualquier edad",
+          "Acceso a la escuela",
+          "Cuidado de la salud"
+        ],
+        "bestFor": "Padres"
+      },
+      {
+        "id": "parents",
+        "icon": "UsersRound",
+        "title": "Visa para padres",
+        "tagline": "Padre y madre",
+        "description": "Patrocina a tus padres (mayores de 60 años) para que vivan contigo en los Emiratos írabes Unidos. Se requiere un salario mí­nimo, vivienda y seguro médico.",
+        "image": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "Padres mayores de 60 años",
+          "Seguro médico",
+          "Vivienda adecuada",
+          "Residencia completa"
+        ],
+        "bestFor": "Hijos adultos"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "Visa de trabajador doméstico",
+        "tagline": "Personal doméstico",
+        "description": "Patrocinamos a trabajadores domésticos como empleadas del hogar, cocineros, chóferes, niñeras y jardineros. Cumplimos plenamente con la legislación laboral de los EAU.",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "criadas",
+          "Cocineros y conductores",
+          "Niñeras y jardineros",
+          "Cumple con la legislación laboral"
+        ],
+        "bestFor": "Familias"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Beneficios familiares",
+    "title": "Beneficios de la visa de dependiente",
+    "titleHighlight": "Visa de dependiente",
+    "subtitle": "Ocho poderosas ventajas para su familia en los Emiratos írabes Unidos.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "Unión familiar",
+        "description": "Vive junto a tus seres queridos en los Emiratos írabes Unidos: ¡se acabaron las relaciones a distancia!",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Acceso a la educación",
+        "description": "Los niños pueden asistir a las mejores escuelas, universidades y programas de estudios internacionales de los Emiratos írabes Unidos.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Acceso a la atención médica",
+        "description": "Acceso completo a instalaciones sanitarias de primer nivel en los Emiratos írabes Unidos y a un seguro médico.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Acceso bancario",
+        "description": "Los dependientes pueden abrir cuentas bancarias en los Emiratos írabes Unidos y acceder a servicios financieros.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Viajes sin visado",
+        "description": "Los familiares a cargo disfrutan de la facilidad para entrar y salir de los Emiratos írabes Unidos gracias a los visados de entrada míºltiple.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Elegible para permiso de trabajo",
+        "description": "Los cónyuges pueden solicitar permisos de trabajo junto con su visa de dependiente.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "IdCard",
+        "title": "Documento de identidad de los Emiratos",
+        "description": "Los familiares a cargo obtienen su propio documento de identidad de los Emiratos írabes Unidos para acceder a todos los servicios del paí­s.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Car",
+        "title": "Licencia de conducir",
+        "description": "Los dependientes pueden obtener un permiso de conducir de los EAU y tener vehí­culos propios.",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "Requisitos de patrocinio",
+    "title": "Lo que necesitas para patrocinar",
+    "titleHighlight": "Necesito patrocinador",
+    "subtitle": "Cuatro requisitos clave para patrocinar a su familia.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Requisito de salario mí­nimo",
+        "description": "El patrocinador debe percibir un salario mensual mí­nimo de 4000 AED (o 3000 AED más alojamiento) para su cónyuge e hijos. Para los padres, el salario debe ser de 20 000 AED o superior.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Vivienda adecuada",
+        "description": "El patrocinador debe proporcionar un alojamiento adecuado (contrato de arrendamiento o escritura) del tamaño apropiado para la familia.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Seguro médico",
+        "description": "Como parte del proceso de solicitud de visa, se requiere un seguro médico válido de los Emiratos írabes Unidos para todos los dependientes.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Documentos certificados",
+        "description": "Los certificados de matrimonio y de nacimiento deben estar legalizados por la Embajada de los EAU y el Ministerio de Asuntos Exteriores.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Proceso de 6 pasos",
+    "title": "Cómo obtener su visa de dependiente",
+    "titleHighlight": "Visa de dependiente",
+    "subtitle": "Seis sencillos pasos para traer a su familia a los Emiratos írabes Unidos.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Verificación de elegibilidad",
+        "description": "Confirmamos su elegibilidad: condición de patrocinador, salario mí­nimo, vivienda y seguro médico.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "Recopilación de documentos",
+        "description": "Certificados de matrimonio, certificados de nacimiento, copias de pasaportes y fotografí­as debidamente compulsadas.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "Presentación de la solicitud",
+        "description": "Presentamos la solicitud a la ICA o a la GDRFA a través de nuestra red prioritaria.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Permiso de aprobación y entrada",
+        "description": "Se ha emitido la autorización de entrada para que sus dependientes puedan ingresar a los Emiratos írabes Unidos.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stethoscope",
+        "title": "Documento de identidad médico y de los Emiratos írabes Unidos",
+        "description": "Los dependientes se someten a pruebas médicas de aptitud y a la toma de datos biométricos para obtener el documento de identidad de los Emiratos írabes Unidos.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "06",
+        "icon": "Stamp",
+        "title": "Sellado de visas",
+        "description": "El visado de residencia definitivo ya está estampado en los pasaportes: su familia se encuentra oficialmente en los Emiratos írabes Unidos.",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Lo que necesitarás",
+    "title": "Documentos requeridos",
+    "titleHighlight": "Documentos",
+    "subtitle": "Nos encargamos de toda la documentación y las aprobaciones en su nombre.",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "Patrocinador Emirates ID",
+        "desc": "Parte delantera y trasera"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "Certificado de matrimonio compulsado",
+        "desc": "Para visa de cónyuge"
+      },
+      {
+        "icon": "Baby",
+        "label": "Certificados de nacimiento compulsados",
+        "desc": "Para visa de niños"
+      },
+      {
+        "icon": "Camera",
+        "label": "Fotos de pasaporte",
+        "desc": "fondo blanco"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Certificado de salario",
+        "desc": "Del empleador"
+      },
+      {
+        "icon": "Home",
+        "label": "Ejari / Contrato de Arrendamiento",
+        "desc": "Comprobante de vivienda"
+      },
+      {
+        "icon": "Stethoscope",
+        "label": "Seguro médico",
+        "desc": "Para dependientes"
+      },
+      {
+        "icon": "FileText",
+        "label": "Certificado de aptitud médica",
+        "desc": "Para la residencia"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Su socio de confianza para visas familiares.",
+    "titleHighlight": "Socio de visa familiar",
+    "subtitle": "Ocho razones por las que las familias confí­an en nosotros.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Acceso directo a la autoridad",
+        "desc": "Red prioritaria de ICA y GDRFA"
+      },
+      {
+        "icon": "Zap",
+        "label": "Procesamiento rápido",
+        "desc": "Aprobaciones aceleradas"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Experto dedicado",
+        "desc": "Especialista en visados familiares personales"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Precios transparentes",
+        "desc": "Sin cargos ocultos"
+      },
+      {
+        "icon": "Globe",
+        "label": "Equipo multilingüe",
+        "desc": "Inglés, árabe, hindi, urdu"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Apoyo a la renovación",
+        "desc": "Gestión continua de visados"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "Integración familiar",
+        "desc": "Apoyo familiar completo"
+      },
+      {
+        "icon": "Award",
+        "label": "Trayectoria comprobada",
+        "desc": "Miles de aprobaciones"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectivas de crecimiento empresarial",
+    "title": "Con la confianza de miles de familias.",
+    "titleHighlight": "Miles de familias",
+    "subtitle": "La residencia de su familia, en manos expertas.",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "Más de 5000",
+        "label": "Visados familiares",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "Más de 180",
+        "label": "Nacionalidades",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Principal",
+        "label": "Experto en familia",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Rápido",
+        "label": "Tratamiento",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Obediente",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Privilegiado",
+        "label": "Pareja familiar",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre las visas de dependientes en los Emiratos írabes Unidos. ¿Aíºn tienes preguntas? Contáctanos.",
+    "sidebarCard": {
+      "title": "¿Aíºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas en visas familiares.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la visa de dependiente para los Emiratos írabes Unidos."
+    },
+    "items": [
+      {
+        "q": "¿Quiénes pueden patrocinar a personas a su cargo en los Emiratos írabes Unidos?",
+        "a": "Cualquier persona con un visado de residencia en los EAU y un visado de trabajo o de inversor válido puede patrocinar a sus dependientes. Los requisitos incluyen un salario mí­nimo (4000 AED o más, o 3000 AED más alojamiento), vivienda adecuada y seguro médico."
+      },
+      {
+        "q": "¿Cuál es el salario mí­nimo para patrocinar a una familia?",
+        "a": "Para cónyuge e hijos: 4000 AED mensuales (o 3000 AED + alojamiento). Para padres: salario mensual tí­pico de 20 000 AED con alojamiento y seguro."
+      },
+      {
+        "q": "¿Puede mi cónyuge trabajar en los Emiratos írabes Unidos con una visa de dependiente?",
+        "a": "Sí­. Tu cónyuge puede solicitar un permiso de trabajo después de obtener la visa de dependiente. Muchos empleadores patrocinan este cambio."
+      },
+      {
+        "q": "¿Cuánto tiempo es válida una visa de dependiente?",
+        "a": "Las visas de dependientes suelen tener una validez de 2 a 3 años, coincidiendo con la validez de la visa del patrocinador. Deben renovarse junto con la visa del patrocinador."
+      },
+      {
+        "q": "¿Puedo patrocinar a mis padres en los Emiratos írabes Unidos?",
+        "a": "Sí­. Puedes patrocinar a tus padres (mayores de 60 años) si cumples con el requisito de salario mí­nimo (más de 20.000 AED al mes), les proporcionas una vivienda adecuada y un seguro médico válido."
+      },
+      {
+        "q": "¿Qué documentos necesitan ser certificados?",
+        "a": "El certificado de matrimonio (del cónyuge), los certificados de nacimiento (de los hijos) y los certificados académicos deben estar legalizados por la Embajada de los EAU en su paí­s de origen y por el Ministerio de Asuntos Exteriores de los EAU."
+      },
+      {
+        "q": "¿Puedo patrocinar a mi empleada doméstica?",
+        "a": "Sí­. Puedes patrocinar a trabajadores domésticos, incluyendo empleadas del hogar, cocineros, conductores, niñeras y jardineros, bajo la categorí­a de visa de trabajador doméstico."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda el proceso de solicitud de visa para dependientes?",
+        "a": "Normalmente, el plazo es de 2 a 4 semanas, dependiendo de la disponibilidad de la documentación y los tiempos de procesamiento. Agilizamos el proceso a través de nuestra red prioritaria del gobierno."
+      },
+      {
+        "q": "¿Pueden los niños estudiar en los Emiratos írabes Unidos con una visa de dependiente?",
+        "a": "Sí­. Los niños con visa de dependiente pueden matricularse en escuelas y universidades de los EAU. Necesitan su documento de identidad de los Emiratos írabes Unidos y la documentación especí­fica de la escuela."
+      },
+      {
+        "q": "¿Por qué elegir Setup Zone Dubai para los servicios de visado de dependientes?",
+        "a": "Ofrecemos asistencia integral: evaluación de elegibilidad, documentación, presentación de solicitudes, exámenes médicos, Emirates ID y sellado de visas. Con una trayectoria comprobada y acceso directo a las autoridades, garantizamos un procesamiento rápido y conforme a la normativa."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se complementan bien con su visa de dependiente.",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "Visa de residencia en los EAU",
+        "description": "Opciones de residencia de 2 a 10 años.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa-services",
+        "title": "Servicios de Visa Dorada",
+        "description": "Residencia de 10 años en los EAU para inversores y talento.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "Constitución de empresas en Dubái",
+        "description": "Zona Franca, Continente y Plataformas Marí­timas.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Reíºne a tu familia",
+    "title": "¿Listo para patrocinar a tu familia en los Emiratos írabes Unidos?",
+    "titleHighlight": "¿Familiar en los Emiratos írabes Unidos?",
+    "subtitle": "Contáctenos hoy mismo y deje que nuestros expertos lo guí­en a través de todo el proceso de patrocinio familiar, desde la documentación hasta el sellado de la visa.",
+    "chips": [
+      "Consulta gratuita",
+      "Procesamiento rápido",
+      "Soporte completo"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarí­a una consulta gratuita sobre la visa de dependiente para los Emiratos írabes Unidos.",
+    "whatsappCardMessage": "¡Hola! Me gustarí­a hablar sobre la visa de dependiente para los Emiratos írabes Unidos."
+  }
+}

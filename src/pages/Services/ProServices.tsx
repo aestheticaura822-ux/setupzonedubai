@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import proData from '../../content/services/pro-services.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Zap, FileText, Users, Award, ShieldCheck, AlertCircle, Globe, Clock,
   Building2, TrendingUp, Briefcase, Plane, FileSignature, RefreshCw,
@@ -23,7 +24,9 @@ const iconMap: any = {
 };
 
 export default function ProServices({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || proData;
+  const { language } = useLanguage();
+  const proServicesFallback = loadContent('services/pro-services', language);
+  const data = tinaData?.data?.services || proServicesFallback;
 
   return (
     <div className="min-h-screen bg-white">

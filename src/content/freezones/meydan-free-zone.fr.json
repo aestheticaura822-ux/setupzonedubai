@@ -1,0 +1,381 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Les médias simplifiés",
+  "heroTitle": "Zone franche de Meydan",
+  "heroTitleHighlight": "Zone franche",
+  "heroSubtitle": "Votre accès privilégié à la pleine propriété, aux avantages fiscaux et à une création d'entreprise simplifiée. Situé au cœur de Dubaï, cet emplacement est idéal pour les startups, les indépendants et les entreprises internationales.",
+  "heroChips": [
+    "Propriété à 100 %",
+    "Taxe de 0 %",
+    "Installation en 1 à 3 jours"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "1-3",
+      "label": "Installation des jours",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Taux d'imposition",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Target",
+      "value": "Plus de 1500",
+      "label": "Activités commerciales",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyMeydanSection": {
+    "badge": "Conçu pour l'expansion",
+    "title": "Pourquoi choisir la zone franche de Meydan ?",
+    "titleHighlight": "Zone franche de Meydan",
+    "subtitle": "Une solution innovante et efficace pour les startups, les indépendants et les entreprises internationales.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Propriété étrangère à 100 %",
+        "description": "Propriété totale sans sponsor émirati local — contrôle absolu des bénéfices et des décisions.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "petit"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Pas d'impôt sur le revenu des particuliers et des entreprises",
+        "description": "0 % d’impôt sur le revenu des particuliers et des entreprises — conservez davantage de bénéfices et réinvestissez dans la croissance.",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Package",
+        "title": "Pas de droits d'importation ni d'exportation",
+        "description": "Exempté de droits de douane à l'importation et à l'exportation, ce qui facilite le commerce et la logistique mondiaux.",
+        "color": "from-cyan-400 to-sky-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Zap",
+        "title": "Configuration rapide et à distance",
+        "description": "Effectuez l'intégralité du processus en ligne : faites votre demande, soumettez votre dossier, payez et recevez votre permis en quelques jours seulement, sans vous rendre aux Émirats arabes unis.",
+        "color": "from-violet-500 to-purple-600",
+        "size": "grand"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Des forfaits économiques",
+        "description": "Des licences compétitives avec des formules flexibles pour les startups, les indépendants et les entreprises établies.",
+        "color": "from-sky-400 to-blue-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Building2",
+        "title": "Adresse commerciale réputée",
+        "description": "Une adresse prestigieuse dans un quartier huppé de Dubaï — un gage de confiance avec les clients.",
+        "color": "from-emerald-500 to-green-600",
+        "size": "petit"
+      }
+    ]
+  },
+  "readyToLaunchSection": {
+    "badge": "Préparez-vous au lancement",
+    "title": "Démarrez votre entreprise dans la zone franche de Meydan",
+    "titleHighlight": "Zone franche de Meydan",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Temps de préparation",
+    "imageBadgeText": "1 à 3 jours ouvrables",
+    "paragraphs": [
+      "Bénéficiez d'une propriété 100 % étrangère, de bénéfices exonérés d'impôt et d'une création d'entreprise en ligne accélérée en quelques jours seulement. La zone franche de Meydan est l'un des pôles les plus stratégiques et favorables aux entrepreneurs de Dubaï.",
+      "Nous prenons en charge l'intégralité du processus pour vous : du choix du forfait de licence adapté et de la préparation des documents à l'obtention des visas, aux solutions bureautiques et même à l'ouverture de votre compte bancaire professionnel.",
+      "Que vous soyez une startup, une PME ou un investisseur international, la zone franche de Meydan vous offre tout ce dont vous avez besoin pour vous développer, et nous sommes là pour que votre parcours se déroule sans accroc dès le premier jour."
+    ],
+    "highlights": [
+      "Propriété à 100 %",
+      "Bénéfices non imposables",
+      "Configuration entièrement à distance",
+      "Aucun frais caché"
+    ]
+  },
+  "licensesSection": {
+    "badge": "Types de licences",
+    "title": "Démarrez votre entreprise ici",
+    "titleHighlight": "Ici",
+    "subtitle": "Diverses licences sont requises pour différentes activités commerciales.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licence commerciale",
+        "description": "Activités commerciales et de négoce en général.",
+        "code": "COM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licence de service",
+        "description": "Conseil, marketing, informatique et services professionnels.",
+        "code": "SRV",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Licence média",
+        "description": "Publicité, création de contenu et services numériques.",
+        "code": "MED",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Licence de commerce électronique",
+        "description": "Vendez légalement des produits et des services en ligne aux Émirats arabes unis.",
+        "code": "ECM",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "badge": "Principaux avantages",
+    "title": "Licence rapide. Lancement facile.",
+    "titleHighlight": "Lancement facile.",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "Inscription rapide",
+        "description": "Licence d'entreprise délivrée en 1 à 3 jours.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Aucun bureau requis",
+        "description": "Option de bureau flexible disponible.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "Entièrement en ligne",
+        "description": "Soumission des documents, signature, paiement — tout en ligne.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Crown",
+        "title": "Adresse professionnelle",
+        "description": "Emplacement de premier choix à Dubaï.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Transparence des coûts",
+        "description": "Aucuns frais cachés.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Processus de configuration",
+    "title": "Création d'entreprise étape par étape",
+    "titleHighlight": "Création d'entreprise",
+    "subtitle": "Votre parcours complet, de la consultation au lancement.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Choisissez votre activité commerciale",
+        "description": "Choisissez parmi plus de 1 500 activités approuvées par l’Autorité de la zone franche de Meydan : conseil, médias, technologie, commerce électronique ou négoce.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "Consultation gratuite",
+        "description": "Nous comprenons vos objectifs, votre activité, vos besoins en matière de visa et votre budget — et nous vous guidons vers les meilleures options de configuration.",
+        "icon": "MessageCircle",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "Soumission de documents",
+        "description": "Nous préparons les formulaires de demande, rassemblons les copies de passeport, organisons les approbations de nom — garantissant ainsi une conformité totale.",
+        "icon": "FileText",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "Assistance pour les demandes de licence",
+        "description": "Nous gérons votre licence de zone franche de Meydan de A à Z — de la sélection à la soumission et à l'approbation rapide.",
+        "icon": "BadgeCheck",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "Assistance après-vente",
+        "description": "Ouverture de compte bancaire, visas, carte d'identité émirienne, examens médicaux et attestation de documents : un démarrage en douceur pour votre entreprise.",
+        "icon": "Users",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Documents",
+    "title": "Quels documents devez-vous soumettre ?",
+    "titleHighlight": "Vous devez soumettre quelque chose ?",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "Copie du passeport",
+        "description": "Copie lisible de votre passeport."
+      },
+      {
+        "icon": "Camera",
+        "label": "Photo format passeport",
+        "description": "Photo récente sur fond blanc."
+      },
+      {
+        "icon": "FileBadge",
+        "label": "3 noms commerciaux proposés",
+        "description": "Pour évaluation et approbation."
+      },
+      {
+        "icon": "Monitor",
+        "label": "Adresse électronique et numéro de téléphone",
+        "description": "Courriel et téléphone actifs pour la communication."
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Pourquoi choisir Setup Zone Dubai ?",
+    "titleHighlight": "Zone de configuration Dubaï ?",
+    "subtitle": "Votre partenaire de confiance pour la création d'entreprise dans la zone franche de Meydan.",
+    "items": [
+      {
+        "icon": "MessageCircle",
+        "title": "Consultation gratuite",
+        "description": "Nous commençons par une consultation gratuite pour comprendre vos objectifs commerciaux, votre activité, vos besoins en matière de visa et votre budget, afin de vous aider à prendre des décisions éclairées dès le premier jour.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Soumission de documents",
+        "description": "Notre équipe gère l'intégralité du processus de documentation — formulaires de demande, copies de passeport, approbations de nom — le tout conforme aux exigences de la zone franche.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "Assistance pour les demandes de licence",
+        "description": "Nous prenons en charge votre licence de zone franche de Meydan de A à Z : choix de la licence appropriée, soumission des documents et obtention d'une approbation rapide.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Assistance après-vente",
+        "description": "Une fois votre permis délivré, nous vous aidons pour l'ouverture de votre compte bancaire, l'obtention de votre visa, de votre carte d'identité émirienne, vos examens médicaux et l'attestation de vos documents — pour un démarrage en douceur.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche de Meydan. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes de Meydan.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant la zone franche de Meydan."
+    },
+    "items": [
+      {
+        "q": "Qu’est-ce que la zone franche de Meydan et à qui convient-elle ?",
+        "a": "La zone franche de Meydan est une zone d'affaires de premier plan au cœur de Dubaï, ouverte à la propriété étrangère, sans impôt et avec des procédures d'autorisation rapides. Elle est idéale pour les startups, les entrepreneurs, les indépendants et les entreprises internationales souhaitant s'implanter aux Émirats arabes unis à moindre coût et en toute liberté."
+      },
+      {
+        "q": "Puis-je créer une entreprise dans la zone franche de Meydan depuis l'étranger ?",
+        "a": "Oui. L'intégralité du processus peut être effectuée à distance et en ligne ; vous n'avez pas besoin de vous rendre aux Émirats arabes unis. Déposez votre demande, soumettez les documents, payez et recevez votre permis en ligne en quelques jours seulement."
+      },
+      {
+        "q": "Quels types de licences commerciales puis-je obtenir dans la zone franche de Meydan ?",
+        "a": "Licences commerciales, de services, de médias et de commerce électronique — couvrant plus de 1 500 activités commerciales."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir une licence commerciale ?",
+        "a": "Généralement 1 à 3 jours ouvrables avec tous les documents correctement préparés."
+      },
+      {
+        "q": "Un espace de bureaux physique est-il requis dans la zone franche de Meydan ?",
+        "a": "Non. Meydan propose une option de bureau flexible, idéale pour les startups et les entreprises travaillant à distance."
+      },
+      {
+        "q": "Combien de visas sont autorisés dans le cadre des licences de la zone franche de Meydan ?",
+        "a": "Les quotas de visas dépendent de votre forfait de licence et du type de bureau. Nous vous aidons à choisir la combinaison la plus adaptée."
+      },
+      {
+        "q": "Est-il possible d'ouvrir un compte bancaire professionnel avec une licence de zone franche de Meydan ?",
+        "a": "Oui. Nous proposons des services d'ouverture de comptes bancaires professionnels auprès des principales banques des Émirats arabes unis."
+      },
+      {
+        "q": "Puis-je parrainer des membres de ma famille/des employés dans la zone franche de Meydan ?",
+        "a": "Oui. Meydan autorise le parrainage de membres de la famille et d'employés en fonction de votre quota de visas."
+      },
+      {
+        "q": "Quels sont les documents nécessaires à la création d'une entreprise ?",
+        "a": "Copie du passeport, photo format passeport (fond blanc), 3 noms commerciaux proposés et une adresse e-mail/un numéro de téléphone valides."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour la création de mon entreprise ?",
+        "a": "Nous offrons une consultation gratuite, une prise en charge complète des documents, une approbation rapide des licences et un soutien complet après l'obtention de la licence, y compris l'ouverture de compte bancaire, les visas et la carte d'identité des Émirats."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui s'accordent parfaitement avec votre installation Meydan.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa d'or",
+        "description": "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Marketing numérique",
+        "description": "Réseaux sociaux, publicités payantes et stratégie de contenu.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lancement aujourd'hui",
+    "title": "Prêt à vous lancer à Meydan ?",
+    "titleHighlight": "Meydan ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous accompagnerons tout au long du processus de configuration, de l'obtention de la licence au lancement.",
+    "chips": [
+      "Consultation gratuite",
+      "Plus de 1500 activités",
+      "Installation en 1 à 3 jours"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour la configuration de Meydan.",
+    "whatsappCardMessage": "Salut ! J'aimerais discuter de la configuration de Meydan."
+  }
+}

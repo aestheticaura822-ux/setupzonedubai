@@ -1,0 +1,540 @@
+{
+  "slug": "shams-setup-package",
+  "hero": {
+    "badge": "Medien-First-Freizone",
+    "title": "SHAMS-Installationspaket",
+    "titleHighlight": "Paket",
+    "subtitle": "Sharjah Media City – eine speziell für Medienschaffende errichtete Freihandelszone. Günstige Pakete ab nur 5.999 AED – inklusive Lizenz, Visum, Bankkonto und mehr.",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600&q=80",
+    "breadcrumbLabel": "SHAMS-Installationspaket",
+    "ctaPrimaryText": "Pakete ansehen",
+    "ctaPrimaryLink": "#Pakete",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für das SHAMS-Setup-Paket.",
+    "badges": [
+      "Ab 5.999 AED",
+      "11 Pakete",
+      "3-7 Tage Einrichtungszeit",
+      "100% Eigentum"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "Ausgehend von",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Pakete",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Tagesaufbau",
+      "color": "from-rose-400 to-pink-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Eigentum",
+      "color": "from-pink-400 to-fuchsia-600"
+    }
+  ],
+  "intro": {
+    "badge": "Wir sind hier, um zu helfen!",
+    "title": "Preisgünstige SHAMS-Einrichtungspakete für Ihr Unternehmen in den VAE",
+    "titleHighlight": "für Ihr Unternehmen in den VAE",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&q=80",
+    "imageBadgeTitle": "SHAMS Freizone",
+    "imageBadgeText": "Sharjah, Vereinigte Arabische Emirate",
+    "paragraph1": "Möchten Sie Ihr Unternehmen im florierenden Markt der VAE etablieren? Unser Expertenteam ist darauf spezialisiert, Unternehmern bei der Gründung erfolgreicher Unternehmen in über 65 Jurisdiktionen zu helfen.",
+    "paragraph2": "Ob Sie die Flexibilität einer Freizone oder das Prestige einer Handelslizenz vom Festland bevorzugen, wir bieten Ihnen die besten Geschäftsgründungspakete in Sharjah, die Ihren Zielen im Medienbereich entsprechen.",
+    "paragraph3": "Alle Pakete bieten einen Ausgangspunkt für Ihre unternehmerische Reise und können an Ihre Bedürfnisse angepasst werden.",
+    "features": [
+      "65+ Gerichtsbarkeiten",
+      "Medien-zuerst-Zone",
+      "Anpassbare Pakete",
+      "Ab 5.999 AED",
+      "Schnelle Einrichtung in 3-7 Tagen",
+      "Volle Unterstützung"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "Medienorientiertes Ökosystem",
+    "title": "Entwickelt für die Medienbranche",
+    "titleHighlight": "Medienbranche",
+    "subtitle": "Sechs Medienbranchen, die in der SHAMS-Freizone florieren.",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "Film- und Videoproduktion",
+        "desc": "Kameraführung, Schnitt, Postproduktion, Animation",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Camera",
+        "title": "Fotografie",
+        "desc": "Werbe-, Porträt- und Produktfotografie",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Werbung & PR",
+        "desc": "Markenbildung, Kampagnen, Medienarbeit",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Design & Kreativität",
+        "desc": "Grafikdesign, UI/UX, Illustration",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Music",
+        "title": "Musik & Audio",
+        "desc": "Produktion, Tontechnik, Podcasting",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "PenTool",
+        "title": "Inhaltserstellung",
+        "desc": "Texterstellung, Bloggen, Social-Media-Inhalte",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Günstige Einrichtungspakete in Sharjah",
+    "title": "Unsere SHAMS-Setup-Pakete",
+    "titleHighlight": "SHAMS-Installationspakete",
+    "subtitle": "11 Premium-Pakete speziell für Medienprofis. Alle individuell anpassbar.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Reise- und Tourismusberatung",
+        "price": "14.499 AED",
+        "tagline": "Mit Aufenthaltsvisum",
+        "category": "Prämie",
+        "color": "from-orange-500 to-red-700",
+        "badge": "Beliebt",
+        "badgeColor": "von Orange-500 bis Rot-600",
+        "includes": [
+          "Freizonenlizenz",
+          "1. Aufenthaltsgenehmigung/Investorenvisum für die VAE",
+          "Medizinischer Status, Emirates ID & Statusänderung",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Eventmanagement",
+        "price": "14.499 AED",
+        "tagline": "Mit Aufenthaltsvisum",
+        "category": "Prämie",
+        "color": "from-red-500 to-rose-700",
+        "badge": "Prämie",
+        "badgeColor": "von Rot-500 bis Rosé-600",
+        "includes": [
+          "Freizonenlizenz",
+          "1. Aufenthaltsgenehmigung/Investorenvisum für die VAE",
+          "Medizinischer Status, Emirates ID & Statusänderung",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Allgemeiner Handel",
+        "price": "15.999 AED",
+        "tagline": "Mit Aufenthaltsvisum",
+        "category": "Prämie",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Bestes Preis-Leistungs-Verhältnis",
+        "badgeColor": "von 500 bis 600 Rosa",
+        "includes": [
+          "Freizonenlizenz",
+          "1. Aufenthaltsgenehmigung für die VAE / Investorenvisum",
+          "Medizinischer Status, Emirates ID & Statusänderung",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Modedesign",
+        "price": "5.999 AED",
+        "tagline": "Bis zu 5 Aktivitäten",
+        "category": "Wirtschaft",
+        "color": "from-pink-500 to-fuchsia-700",
+        "badge": "Kreativ",
+        "badgeColor": "von Rosa 500 bis Fuchsia 600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Fitness & Lifestyle",
+        "price": "5.999 AED",
+        "tagline": "Bis zu 5 Aktivitäten",
+        "category": "Wirtschaft",
+        "color": "from-fuchsia-500 to-purple-700",
+        "badge": "Erschwinglich",
+        "badgeColor": "von Fuchsia-500 bis Lila-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "E-Commerce",
+        "price": "5.999 AED",
+        "tagline": "Bereit fürs Online-Business",
+        "category": "Wirtschaft",
+        "color": "from-purple-500 to-violet-700",
+        "badge": "Beliebt",
+        "badgeColor": "von Lila-500 bis Violett-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "IT-Dienstleistungen",
+        "price": "6.449 AED",
+        "tagline": "Bis zu 5 Aktivitäten",
+        "category": "Professional",
+        "color": "from-violet-500 to-indigo-700",
+        "badge": "Technik",
+        "badgeColor": "von Violett-500 bis Indigo-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Allgemeiner Handel",
+        "price": "7.999 AED",
+        "tagline": "Trading für Einsteiger",
+        "category": "Standard",
+        "color": "from-indigo-500 to-blue-700",
+        "badge": "Bestseller",
+        "badgeColor": "von Indigo 500 bis Blau 600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Freizonenlizenz mit lebenslanger Aufenthaltsgenehmigung in den VAE",
+        "price": "11.999 AED",
+        "tagline": "Lebenslanger Wohnsitz",
+        "category": "Prämie",
+        "color": "from-blue-500 to-cyan-700",
+        "badge": "Exklusiv",
+        "badgeColor": "von Blau-500 bis Cyan-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenlose Aufenthaltsgenehmigung für die VAE / Investorenvisum auf Lebenszeit",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Festlandlizenz mit Wohnsitz in den VAE",
+        "price": "16.999 AED",
+        "tagline": "Festland + Wohnsitz",
+        "category": "Festland",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "Festland",
+        "badgeColor": "von Schiefer 600 bis Schiefer 700",
+        "includes": [
+          "Festlandlizenz",
+          "1. Aufenthaltsgenehmigung/Investorenvisum für die VAE",
+          "Medizinische Versorgung, Emirates ID und Statusänderung",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Kostenlose Mehrwertsteuerberatung"
+        ],
+        "exampleActivities": [
+          "Projektmanagement",
+          "Unternehmensberatung",
+          "Gewerbemakler",
+          "Gebäudemanagement",
+          "Reinigungsdienste",
+          "Gebäudeinstandhaltung"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Unternehmerinnen",
+        "price": "5.999 AED",
+        "tagline": "Entwickelt für Gründerinnen",
+        "category": "Besonders",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Besonders",
+        "badgeColor": "von 500 bis 600 Rosa",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ],
+        "exampleActivities": [
+          "Lifestyle-Coaching",
+          "Digitales Marketing",
+          "Mode- und Bekleidungsdesign",
+          "Veranstaltungsmanagement",
+          "Beratungsleistungen"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "Benötigen Sie ein individuelles Medienpaket?",
+    "subtitle": "Schildern Sie uns Ihre Medienvision und wir stellen das perfekte Paket für Sie zusammen.",
+    "buttonText": "Individuelles Angebot",
+    "whatsappMessage": "Hallo! Ich benötige ein individuelles SHAMS-Setup-Paket."
+  },
+  "benefits": {
+    "badge": "Warum SCHAM",
+    "title": "Vorteile der SHAMS-Einrichtung",
+    "titleHighlight": "SHAMS-Setup",
+    "subtitle": "Sechs überzeugende Vorteile für Medienschaffende.",
+    "items": [
+      {
+        "icon": "Tv",
+        "title": "Medienorientiertes Ökosystem",
+        "desc": "Speziell für Medienprofis entwickelt",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Kostengünstige Einrichtung",
+        "desc": "Ab 5.999 AED",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "desc": "Vollständige ausländische Eigentümerschaft",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Einrichtung in 3-7 Tagen",
+        "desc": "Schnelle Führerscheinausstellung",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "0% Steuerumfeld",
+        "desc": "Steuerfreie Vorteile",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "6-stufiger Prozess",
+    "title": "So starten Sie",
+    "titleHighlight": "Los geht's",
+    "subtitle": "Von der Paketauswahl bis zum Bankkonto – wir kümmern uns um alles.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Wählen Sie Ihr Paket",
+        "description": "Wählen Sie aus unseren medienorientierten Paketen.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Dokumente einreichen",
+        "description": "Passkopien, Portfolio und Fotos.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Lizenzantrag",
+        "description": "Wir reichen die Klage bei der SHAMS-Behörde ein.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Erhalten Sie Ihre Lizenz",
+        "description": "Lizenzierung innerhalb von 3-7 Tagen.",
+        "color": "from-pink-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Ihr vertrauenswürdiger SHAMS-Einrichtungspartner",
+    "titleHighlight": "SHAMS-Einrichtungspartner",
+    "subtitle": "Acht Gründe, warum Medienprofis uns vertrauen.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Transparente Preise",
+        "desc": "Niemals versteckte Gebühren"
+      },
+      {
+        "icon": "Zap",
+        "label": "Schnelle Einrichtung in 3-7 Tagen",
+        "desc": "Schnelle Führerscheinausstellung"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "100%ige Einhaltung",
+        "desc": "Vollständig von der Regierung genehmigt"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Engagierter Berater",
+        "desc": "Persönlicher Berater"
+      },
+      {
+        "icon": "Globe",
+        "label": "Mehrsprachiges Team",
+        "desc": "Englisch, Arabisch, Hindi, Urdu"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Mehrwertsteuerberatung",
+        "desc": "Inklusive kostenlos"
+      },
+      {
+        "icon": "Award",
+        "label": "Mehr als 10.000 Unternehmen",
+        "desc": "Erfolgreich gestartet"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über SHAMS Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "items": [
+      {
+        "q": "Was ist die SHAMS-freie Zone?",
+        "a": "Die SHAMS (Sharjah Media City) Freizone ist eine speziell für Medienschaffende und Unternehmen aus den Bereichen Film, Fotografie, Werbung, Design, Musik und Content-Erstellung konzipierte Freizone. Sie bietet kostengünstige Einrichtung, 100% ausländisches Eigentum und eine schnelle Lizenzierung innerhalb von 3–7 Werktagen."
+      },
+      {
+        "q": "Wo befindet sich die SHAMS Free Zone?",
+        "a": "SHAMS befindet sich in Sharjah, VAE – einem der sieben Emirate. Es bietet hervorragende Verbindungen nach Dubai und in die anderen Emirate durch die gute Anbindung an wichtige Autobahnen und Flughäfen."
+      },
+      {
+        "q": "Was ist im SHAMS-Installationspaket enthalten?",
+        "a": "Je nach gewähltem Paket erhalten Sie die Freizonenlizenz, ein Aufenthaltsvisum, eine medizinische Untersuchung und einen Emirates-Ausweis, einen Mietvertrag, Unterstützung bei der Kontoeröffnung, eine Premium-Adresse und eine kostenlose Mehrwertsteuerberatung."
+      },
+      {
+        "q": "Was kostet ein SHAMS-Paket?",
+        "a": "Unsere SHAMS-Pakete beginnen bei 5.999 AED (Economy) und reichen bis zu 16.999 AED (Festland + Aufenthaltsgenehmigung). Premium-Pakete mit Visum sind ab 14.499 AED erhältlich."
+      },
+      {
+        "q": "Wie lange dauert die Einrichtung?",
+        "a": "In der Regel dauert die Ausstellung der Lizenz 3-7 Werktage, die Visabearbeitung und die Eröffnung eines Bankkontos dauern zusätzlich 1-2 Wochen."
+      },
+      {
+        "q": "Kann ich mein Paket individuell zusammenstellen?",
+        "a": "Ja. Alle Pakete sind Ausgangspunkte und können individuell an Ihr Medienunternehmen, Ihre Visabestimmungen und Ihr Budget angepasst werden."
+      },
+      {
+        "q": "Erhalte ich ein Aufenthaltsvisum für die VAE?",
+        "a": "Ja, ausgewählte Pakete beinhalten ein Investoren-/Aufenthaltsvisum für die VAE inklusive medizinischer Untersuchung, Emirates ID und Statusänderung. Die Freizonenlizenz mit lebenslanger Aufenthaltsgenehmigung für die VAE bietet sogar eine lebenslange Aufenthaltsgenehmigung."
+      },
+      {
+        "q": "Ist die Eröffnung eines Bankkontos inbegriffen?",
+        "a": "Ja. Alle Pakete beinhalten kostenlose Unterstützung bei der Eröffnung eines Firmenkontos bei führenden Banken in den VAE."
+      },
+      {
+        "q": "Welche Medienaktivitäten kann ich ausüben?",
+        "a": "SHAMS unterstützt Film- und Videoproduktion, Fotografie, Werbung und PR, Design, Musik und Audio, Content-Erstellung und andere Medienbranchen – mit bis zu 5 Aktivitäten in den meisten Economy-Paketen."
+      },
+      {
+        "q": "Warum sollten Sie Setup Zone Dubai für die Einrichtung von SHAMS wählen?",
+        "a": "Wir bieten transparente Preise, Expertise in der Medienbranche, engagierte Berater und umfassende Unterstützung – von der Lizenzierung über das Visum bis hin zur Kontoeröffnung. Und das alles mit über 10.000 erfolgreichen Projekten."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute Ihr Medienunternehmen!",
+    "title": "Bereit für den Start in SHAMS Sharjah?",
+    "titleHighlight": "SHAMS Sharjah?",
+    "subtitle": "Vereinbaren Sie eine kostenlose Beratung. Wir helfen Ihnen bei der Auswahl des passenden Pakets und bringen Ihr Mediengeschäft innerhalb weniger Tage auf den Weg.",
+    "primaryCta": "WhatsApp uns",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zum SHAMS-Einrichtungspaket.",
+    "badges": [
+      "Ab 5.999 AED",
+      "3-7 Tage Einrichtungszeit",
+      "100% Eigentum"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

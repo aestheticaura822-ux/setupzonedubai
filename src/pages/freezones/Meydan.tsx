@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import meydanData from '../../content/freezones/meydan-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, Briefcase,
   ShieldCheck, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -23,7 +24,9 @@ const iconMap: any = {
 };
 
 export default function Meydan({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || meydanData;
+  const { language } = useLanguage();
+  const meydanFallback = loadContent('freezones/meydan-free-zone', language);
+  const data = tinaData?.data?.freeZones || meydanFallback;
 
   return (
     <div className="min-h-screen bg-white">

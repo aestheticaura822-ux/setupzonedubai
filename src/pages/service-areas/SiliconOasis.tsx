@@ -12,7 +12,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dsoData from '../../content/service-areas/silicon-oasis.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, Users, DollarSign, MapPin, Briefcase, Zap,
   Clock, Award, Cpu, Factory, ShoppingCart, HardDrive, Server, Sparkles,
@@ -20,7 +21,9 @@ const iconMap: any = {
 };
 
 export default function SiliconOasis({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || dsoData;
+  const { language } = useLanguage();
+  const siliconOasisFallback = loadContent('service-areas/silicon-oasis', language);
+  const data = tinaData?.data?.serviceAreas || siliconOasisFallback;
   const AREA_NAME = data.areaName;
   const AREA_SHORT = data.areaShort;
 

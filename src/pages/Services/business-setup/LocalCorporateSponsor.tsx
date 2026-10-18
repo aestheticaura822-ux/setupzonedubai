@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import localCorporateSponsorData from '../../../content/business-setup/local-corporate-sponsor.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Phone, MessageCircle, HomeIcon, Clock, Users, Award, DollarSign,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function LocalCorporateSponsor({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || localCorporateSponsorData;
+  const { language } = useLanguage();
+  const corporateSponsorFallback = loadContent('business-setup/local-corporate-sponsor', language);
+  const data = tinaData?.data?.businessSetup || corporateSponsorFallback;
   const [flippedCards, setFlippedCards] = useState<number[]>([]);
 
   const toggleFlip = (id: number) => {

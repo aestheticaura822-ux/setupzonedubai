@@ -24,14 +24,18 @@ import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import WhatsAppIcon from '../icons/WhatsAppIcon';
 import comparisonData from '../../content/home/comparison.json';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, TrendingUp, Users, ShieldCheck, Wallet, Landmark,
   Zap, Target, Award,
 };
 
 export default function Comparison({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || comparisonData;
+  
+const { language } = useLanguage();
+const comparisonFallback = loadContent('home/comparison', language);
+const data = tinaData?.data?.home || comparisonFallback;
   const [hoveredSide, setHoveredSide] = useState<'freezone' | 'mainland' | null>(null);
 
   const fz = data.zones[0];

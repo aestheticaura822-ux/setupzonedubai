@@ -1,0 +1,83 @@
+{
+    "badge":  "Notre processus",
+    "heading":  {
+                    "line1":  "De l\u0027idée au lancement",
+                    "highlight":  "6 étapes simples"
+                },
+    "subtitle":  "Nous prenons tout en charge, de votre première consultation À  l\u0027assistance continue. Un processus éprouvé et transparent, auquel font confiance plus de 500 entreprises des Émirats arabes unis.",
+    "stepsLabel":  "Étape",
+    "stepsLabelSuffix":  "de",
+    "steps":  [
+                  {
+                      "number":  "01",
+                      "icon":  "Cercle de messages",
+                      "title":  "Consultation gratuite",
+                      "description":  "Nous comprenons vos objectifs commerciaux, votre secteur d\u0027activité et vos besoins en matière de visas "” et nous vous recommandons la meilleure solution, que ce soit en zone franche ou sur le continent.",
+                      "gradient":  "du ciel 400 au bleu 600",
+                      "glow":  "rgba(14,165,233,0,5)",
+                      "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "02",
+                      "icon":  "Texte du fichier",
+                      "title":  "Préparation des documents",
+                      "description":  "Notre équipe prend en charge toutes les formalités administratives, des demandes de licence À  la rédaction et À  la traduction des protocoles d\u0027accord, adaptés À  la réglementation des Émirats arabes unis.",
+                      "gradient":  "de violet 400 À  pourpre 600",
+                      "glow":  "rgba(139,92,246,0,5)",
+                      "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "03",
+                      "icon":  "Bâtiment 2",
+                      "title":  "Immatriculation de société",
+                      "description":  "Nous enregistrons votre entreprise auprès de l\u0027autorité compétente (zone franche, territoire continental, etc.) et obtenons toutes les autorisations nécessaires.",
+                      "gradient":  "de l\u0027ambre 400 À  l\u0027orange 600",
+                      "glow":  "rgba(245,158,11,0,5)",
+                      "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "04",
+                      "icon":  "Vérification de l\u0027utilisateur",
+                      "title":  "Visa et carte d\u0027identité des Émirats arabes unis",
+                      "description":  "Nous nous chargeons de faire les démarches nécessaires pour votre visa de résidence, votre permis d\u0027entrée, votre examen médical, votre carte d\u0027identité émirienne et vos visas de travail, le cas échéant.",
+                      "gradient":  "de-émeraude-400 À -turquoise-600",
+                      "glow":  "rgba(16,185,129,0,5)",
+                      "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "05",
+                      "icon":  "Carte de crédit",
+                      "title":  "Compte bancaire d\u0027entreprise",
+                      "description":  "Bénéficiez d\u0027une mise en relation avec les partenaires bancaires les plus adaptés À  votre profil d\u0027entreprise, avec un accompagnement complet sur les documents nécessaires.",
+                      "gradient":  "de cyan 400 À  bleu 600",
+                      "glow":  "rgba(34,211,238,0,5)",
+                      "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "06",
+                      "icon":  "Casque audio",
+                      "title":  "Soutien continu",
+                      "description":  "Nous continuons À  vous accompagner dans les services PRO, la conformité, le renouvellement des licences et le conseil aux entreprises.",
+                      "gradient":  "de rose 400 À  rose 600",
+                      "glow":  "rgba(236,72,153,0,5)",
+                      "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80"
+                  }
+              ],
+    "bottomCTA":  {
+                      "icon":  "Fusée",
+                      "title":  "Prêt À  lancer votre entreprise À  Dubaï ?",
+                      "subtitle":  "Commencez par une consultation gratuite. Nous vous accompagnerons À  chaque étape du processus.",
+                      "primaryCta":  "Commencez maintenant",
+                      "secondaryCta":  "Appelez-nous",
+                      "phone":  "+971 56 655 6645",
+                      "phoneHref":  "tél. : +971566556645",
+                      "whatsappMessage":  "Bonjour ! Je souhaite créer mon entreprise À  Dubaï. Serait-il possible de convenir d\u0027une consultation gratuite ?",
+                      "backgroundImage":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600\u0026q=80",
+                      "trustIndicators":  [
+                                              "Plus de 500 entreprises lancées",
+                                              "Installation en 3 À  5 jours en moyenne",
+                                              "Consultation gratuite",
+                                              "Conforme À  l\u0027ALE"
+                                          ]
+                  }
+}

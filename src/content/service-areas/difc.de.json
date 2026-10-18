@@ -1,0 +1,349 @@
+{
+  "areaName": "DIFC (Dubai International Financial Centre)",
+  "areaShort": "DIFC",
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Servicegebiet",
+  "heroTitle": "Unternehmensgründung im DIFC",
+  "heroTitleHighlight": "DIFC",
+  "heroSubtitle": "Das Dubai International Financial Centre (DIFC) ist das führende Finanzzentrum im Nahen Osten, in Afrika und Südasien (MEASA). Die Ansiedlung eines Unternehmens im DIFC ist ideal für Finanzdienstleister, Fintech-Startups und Beratungsunternehmen.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Mehr als 4.000",
+      "label": "Globale Unternehmen",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Tagesaufbau",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Eigentum",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "25.000 AED",
+      "label": "Ausgehend von",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "Warum DIFC wählen?",
+    "title": "MEASAs führendes Finanzzentrum",
+    "titleHighlight": "Finanzzentrum",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Standort",
+    "imageBadgeText": "DIFC, Dubai",
+    "paragraph": "Das DIFC bietet außergewöhnliche Vorteile für Unternehmen jeder Größe. Mit erstklassiger Infrastruktur, strategischer Lage und einem förderlichen Geschäftsumfeld ist es der ideale Standort für die Gründung Ihres Unternehmens in Dubai.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Erstklassige Lage",
+        "desc": "Hervorragende Verbindungen in ganz Dubai"
+      },
+      {
+        "icon": "Users",
+        "title": "Talentpool",
+        "desc": "Zugang zu vielfältigen professionellen Talenten"
+      },
+      {
+        "icon": "Layers",
+        "title": "Infrastruktur",
+        "desc": "Weltklasse-Annehmlichkeiten und -Einrichtungen"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Geschäftswelt",
+        "desc": "Ein florierendes Ökosystem globaler Unternehmen"
+      },
+      {
+        "icon": "Zap",
+        "title": "Verkehrsverbindungen",
+        "desc": "Nähe zu wichtigen U-Bahn- und Autobahnanschlüssen"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Unsere Dienstleistungen",
+    "title": "Unternehmensgründungsdienste im DIFC",
+    "titleHighlight": "DIFC",
+    "subtitle": "Komplettlösungen aus einer Hand für Ihr Unternehmen in den VAE.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Unternehmensgründung in einer Freizone",
+        "desc": "Ansiedlung in der geeignetsten Freihandelszone – 100% Eigentum, keine Körperschaftsteuer und vollständige Gewinnrückführung.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Unternehmensgründung auf dem Festland",
+        "desc": "Handeln Sie direkt auf dem Markt der VAE mit einer Lizenz vom Festland. Wir kümmern uns um alle Formalitäten und die Lizenzierung durch das Department of Economic Development (DED).",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Handelslizenz in Dubai",
+        "desc": "Erhalten Sie Ihre Gewerbe-, Berufs- oder Industrielizenz schnell und unter voller Einhaltung aller gesetzlichen Bestimmungen.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Visabearbeitung & PRO-Dienstleistungen",
+        "desc": "Investoren-, Mitarbeiter- und Angehörigenvisa – wir kümmern uns um medizinische Tests, Emirates ID und die Visabeantragung.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Eröffnung eines Firmenbankkontos",
+        "desc": "Eröffnen Sie ein Geschäftskonto bei führenden Banken in den VAE – wir kümmern uns um die Dokumentation und die KYC-Prüfung.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Calculator",
+        "title": "Buchhaltungs- und Steuerberatungsleistungen",
+        "desc": "Halten Sie die Vorschriften zur Körperschaftsteuer und Mehrwertsteuer in den VAE ein – Buchhaltung, Mehrwertsteuererklärungen und Berichtspflichten.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "costSection": {
+    "badge": "Kostenübersicht 2026",
+    "title": "Unternehmensgründung im DIFC: Kosten & Pakete",
+    "titleHighlight": "Kosten & Pakete",
+    "subtitle": "Das DIFC ist eine nach Common Law organisierte Finanzfreizone – die Unternehmen operieren unter englischem Recht mit den DIFC-Gerichten und einem starken Anlegerschutz.",
+    "items": [
+      {
+        "type": "Gewerbelizenz",
+        "cost": "25.000 – 40.000 AED",
+        "bestFor": "Handel, Fintech, professionelle Dienstleistungen",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "type": "Lizenz für Technologie-Startups",
+        "cost": "18.000 – 25.000 AED",
+        "bestFor": "Technologie- und Innovationsunternehmen",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "type": "Zweiglizenz",
+        "cost": "20.000 – 30.000 AED",
+        "bestFor": "Bestehende globale Unternehmen",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "type": "Visum (pro Person)",
+        "cost": "5.000 – 7.000 AED",
+        "bestFor": "Inkl. Emirates ID",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "estimateLabel": "Schätzung für das erste Jahr",
+    "estimateValue": "45.000 – 70.000 AED",
+    "estimateNote": "Abhängig von Lizenztyp und Niederlassung. Der Premium-Markenindex im Vergleich zu anderen Zonen spiegelt sich im Preis wider."
+  },
+  "whyDifcSection": {
+    "badge": "Warum DIFC?",
+    "title": "Warum ein Unternehmen im DIFC gründen?",
+    "titleHighlight": "DIFC",
+    "items": [
+      {
+        "icon": "Scale",
+        "title": "Englisches Common Law",
+        "desc": "Verträge, Gerichte und Strukturen, die internationalen Investoren vertraut sind",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Banknote",
+        "title": "Null persönliche Einkommensteuer",
+        "desc": "0 % Steuer auf qualifizierte Aktivitäten",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Mehr als 4.000 Unternehmen",
+        "desc": "einschließlich großer globaler Banken und Fonds",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "DIFC-Gerichte",
+        "desc": "Unabhängige Common-Law-Gerichtsbarkeit mit weltweiter Anerkennung",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Investorenfreundlich",
+        "desc": "Erste Wahl für Family Offices und Vermögensverwalter",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "Vergleich",
+    "title": "DIFC vs. Festland vs. JAFZA vs. DMCC",
+    "titleHighlight": "JAFZA gegen DMCC",
+    "headers": [
+      "Faktor",
+      "DIFC",
+      "Festland",
+      "JAFZA",
+      "DMCC"
+    ],
+    "rows": [
+      {
+        "factor": "Rechtssystem",
+        "difc": "Common Law",
+        "mainland": "Zivilrecht",
+        "jafza": "Freizonenbestimmungen",
+        "dmcc": "Freizonenbestimmungen"
+      },
+      {
+        "factor": "Startkosten",
+        "difc": "25.000 AED",
+        "mainland": "8.500 AED",
+        "jafza": "12.000 AED",
+        "dmcc": "15.000 AED"
+      },
+      {
+        "factor": "Handel innerhalb der VAE",
+        "difc": "Ja (genehmigt)",
+        "mainland": "Ja",
+        "jafza": "Über den Vertriebspartner",
+        "dmcc": "Über Partner"
+      },
+      {
+        "factor": "Am besten geeignet für",
+        "difc": "Finanzen, Fonds, Recht",
+        "mainland": "Lokaler Markt",
+        "jafza": "Logistik",
+        "dmcc": "Rohstoffe, Kryptowährungen"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Verfahren",
+    "title": "DIFC-Firmengründungsprozess",
+    "titleHighlight": "Bildungsprozess",
+    "ctaTitle": "Sie möchten eine DIFC-Konfiguration ohne die üblichen Probleme?",
+    "ctaSubtitle": "Sprechen Sie mit unseren DIFC-Spezialisten – wir kümmern uns um Unternehmensgründung, Büro, Visa und Bankgeschäfte von A bis Z.",
+    "ctaButton": "Sprechen Sie mit einem DIFC-Spezialisten",
+    "ctaMessage": "Hallo! Ich hätte gerne eine Beratung zur Einrichtung eines DIFC-Standorts.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Rechtsform wählen",
+        "desc": "Gesellschaft mit beschränkter Haftung, ausländische Niederlassung oder Investmentvehikel",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "num": "02",
+        "title": "Name und Aktivität der Reservierung",
+        "desc": "Beantragen Sie die Genehmigung des DIFC für Ihre geplante Aktivität.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "num": "03",
+        "title": "Dokumente ausführen",
+        "desc": "Gründung vor dem DIFC-Registerführer",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "num": "04",
+        "title": "Erwerb einer Handelslizenz",
+        "desc": "Nach Bestätigung von Büro und Gebühren",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "num": "05",
+        "title": "Visum beantragen",
+        "desc": "Eröffnen Sie ein Firmenkonto bei einer Bank im DIFC.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "Häufig gestellte Fragen zu diesem Gebiet",
+    "title": "Häufig gestellte Fragen zur Unternehmensgründung im DIFC",
+    "titleHighlight": "Unternehmensgründung im DIFC",
+    "items": [
+      {
+        "q": "Wie lange dauert die Gründung eines Unternehmens im DIFC?",
+        "a": "Die meisten Unternehmen sind innerhalb von 3-5 Werktagen vollständig registriert und betriebsbereit, abhängig von der Art der Lizenz und den erforderlichen Genehmigungen."
+      },
+      {
+        "q": "Kann ich als Ausländer ein Unternehmen im DIFC gründen?",
+        "a": "Ja, Ausländer können in den Freizonen Dubais Unternehmen mit 100%iger Eigentümerschaft gründen. Unternehmen vom Festland benötigen je nach Geschäftstätigkeit möglicherweise einen lokalen Sponsor."
+      },
+      {
+        "q": "Muss ich physisch in Dubai anwesend sein?",
+        "a": "Der Großteil des Registrierungsprozesses kann online erledigt werden. Unser Team kümmert sich in Ihrem Namen um die Formalitäten und die Einreichung bei den Behörden."
+      },
+      {
+        "q": "Welche Arten von Unternehmen kann ich im DIFC gründen?",
+        "a": "Je nach gewähltem Lizenztyp können Sie in Dubai Gewerbebetriebe, freiberufliche Unternehmen, Industrieunternehmen, E-Commerce-Unternehmen und freiberufliche Betriebe gründen."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Kurzantworten",
+    "title": "Kurzantworten",
+    "titleHighlight": "Antworten",
+    "subtitle": "Häufig gestellte Fragen zur Unternehmensgründung in Dubai. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "relatedServicesTitle": "Verwandte Dienstleistungen & Leitfäden",
+    "items": [
+      {
+        "q": "Wie viel kostet die Gründung eines Unternehmens in Dubai?",
+        "a": "Die Gründung eines Unternehmens in Dubai beginnt bei 9.500 AED für eine Basislizenz für eine Freizone. Auf dem Festland beginnen die Kosten bei 14.500 AED."
+      },
+      {
+        "q": "Kann ein Ausländer in Dubai ein Unternehmen zu 100 % besitzen?",
+        "a": "Ja, Ausländer können in den meisten Freizonen und bei vielen Aktivitäten auf dem Festland Unternehmen zu 100 % besitzen."
+      },
+      {
+        "q": "Welche ist die günstigste Freihandelszone in Dubai?",
+        "a": "RAK ICC, Ajman FTZ und SRTIP bieten die günstigsten Pakete ab 5.900 AED an."
+      },
+      {
+        "q": "Wie lange dauert die Unternehmensregistrierung in Dubai?",
+        "a": "Die Registrierung in der Freihandelszone dauert 3-7 Werktage. Auf dem Festland dauert es 2-4 Wochen."
+      },
+      {
+        "q": "Benötige ich einen lokalen Partner in Dubai?",
+        "a": "Nicht in Freihandelszonen. Auf dem Festland erlauben viele Aktivitäten mittlerweile 100% ausländisches Eigentum."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "Geschäftsgründung im Handelszentrum",
+        "desc": "Erkunden Sie die Einrichtungsoptionen im DWTC",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/trade-center"
+      },
+      {
+        "icon": "FileText",
+        "title": "Unternehmensgründung in der Innenstadt von Dubai",
+        "desc": "Erkunden Sie die Aufstellungsmöglichkeiten in der Innenstadt",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/downtown-dubai"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bereit zum Start?",
+    "title": "Bereit, Ihr Unternehmen im DIFC zu gründen?",
+    "titleHighlight": "DIFC",
+    "subtitle": "Kontaktieren Sie noch heute unser Team von Experten für Unternehmensgründungen für eine kostenlose Beratung. Wir begleiten Sie durch jeden Schritt des Gründungsprozesses Ihres Unternehmens im DIFC.",
+    "primaryCta": "Kontaktieren Sie uns jetzt",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich möchte mein Unternehmen im DIFC gründen."
+  }
+}

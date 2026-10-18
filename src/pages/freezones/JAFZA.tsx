@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import jafzaData from '../../content/freezones/jafza-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock, Users,
@@ -25,7 +26,9 @@ const iconMap: any = {
 };
 
 export default function JAFZA({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || jafzaData;
+  const { language } = useLanguage();
+  const jafzaFallback = loadContent('freezones/jafza-free-zone', language);
+  const data = tinaData?.data?.freeZones || jafzaFallback;
 
   return (
     <div className="min-h-screen bg-white">

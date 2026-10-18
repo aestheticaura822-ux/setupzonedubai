@@ -1,0 +1,427 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Kontrollieren Sie Ihre Festland-Entität",
+  "heroTitle": "Lokaler Unternehmenssponsor in Dubai",
+  "heroTitleHighlight": "Sponsor in Dubai",
+  "heroSubtitle": "Sichern Sie sich die volle Kontrolle über Ihr Geschäft auf dem Festland mit einem vertrauenswürdigen Unternehmenspartner. Rechtliche Treuhandverträge, Vollmacht und volle operative Kontrolle – alle Gewinne gehören Ihnen.",
+  "heroChips": [
+    "100% Kontrolle",
+    "0% Gewinnbeteiligung",
+    "Rechtsvereinbarungen",
+    "Festgebühr"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "49/51",
+      "label": "Rechtliche Spaltung",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Users",
+      "value": "100%",
+      "label": "Betriebssteuerung",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Bank",
+      "value": "0",
+      "label": "Gewinnbeteiligung",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-4",
+      "label": "Wochenaufbau",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Die Einrichtung verstehen",
+    "title": "Was ist ein lokaler Unternehmenssponsor?",
+    "titleHighlight": "Lokaler Unternehmenssponsor?",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Rechtspartner",
+    "imageBadgeText": "Einrichtung auf dem Festland",
+    "paragraphs": [
+      "Ein lokaler Unternehmenssponsor in Dubai ist ein Unternehmen im Besitz der VAE (100 % emiratische Beteiligung), das 51 % der Anteile an einem Unternehmen auf dem Festland hält, während der ausländische Investor die restlichen 49 % besitzt. Diese Konstellation gilt für bestimmte Handels- und Industrieaktivitäten.",
+      "Im Gegensatz zu Einzelsponsoren ist ein Unternehmenssponsor ein eingetragenes Unternehmen und keine natürliche Person. Dies ermöglicht eine professionellere Beziehung, rechtsverbindliche Verträge und Treuhandvereinbarungen, die es ausländischen Unternehmern erlauben, die volle Kontrolle über das Unternehmen auszuüben.",
+      "Durch strukturierte Treuhand-Aktionärsvereinbarungen und Nebenabreden behalten Sie rechtlich die volle Kontrolle über Geschäftsbetrieb, Finanzen und Entscheidungsfindung – und erhalten gleichzeitig Zugang zur Wirtschaft Dubais auf dem Festland und schützen Ihre Interessen."
+    ],
+    "highlights": [
+      "Körperschaft",
+      "Nominierungsvereinbarung",
+      "Vollmacht",
+      "Nebenabreden",
+      "Feste Jahresgebühr",
+      "Rechtskonform"
+    ]
+  },
+  "whoNeedsSponsorSection": {
+    "badge": "Erforderlich für Festlandlizenzen",
+    "title": "Wer benötigt einen lokalen Unternehmenssponsor?",
+    "titleHighlight": "Lokaler Unternehmenssponsor?",
+    "subtitle": "Nicht alle Unternehmen benötigen einen. Aber wenn Sie in diesen Branchen tätig sind, benötigen Sie einen.",
+    "items": [
+      {
+        "icon": "Store",
+        "label": "Allgemeiner Handel & Einzelhandel",
+        "desc": "Unternehmen, die Waren importieren, exportieren oder verkaufen"
+      },
+      {
+        "icon": "Building2",
+        "label": "Bauwesen & Auftragsvergabe",
+        "desc": "Unternehmen, die Bau- und Infrastrukturprojekte durchführen"
+      },
+      {
+        "icon": "Home",
+        "label": "Immobilien & Hausverwaltung",
+        "desc": "Maklerfirmen und Immobilienverwaltungsunternehmen"
+      },
+      {
+        "icon": "Truck",
+        "label": "Automobilindustrie, Transport & Fracht",
+        "desc": "Reparatur-, Logistik- und Lieferdienste"
+      },
+      {
+        "icon": "Factory",
+        "label": "Fertigung & Industrie",
+        "desc": "Produktions- und Industrieunternehmen"
+      }
+    ],
+    "ctaCard": {
+      "title": "Sie sind sich nicht sicher, ob Sie einen benötigen?",
+      "text": "Sprechen Sie mit unseren Experten – wir sagen Ihnen in 5 Minuten Bescheid.",
+      "buttonText": "Experten fragen",
+      "whatsappMessage": "Hallo! Ich möchte gerne wissen, ob mein Unternehmen einen lokalen Firmensponsor benötigt."
+    }
+  },
+  "flipCardsSection": {
+    "badge": "Sichern Sie sich Ihr Eigentum rechtlich.",
+    "title": "Wie können Sie sich rechtlich schützen?",
+    "titleHighlight": "Sich rechtlich schützen?",
+    "subtitle": "Klicken Sie auf eine beliebige Karte, um sie umzudrehen und die rechtlichen Details einzusehen.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "ContractIcon",
+        "frontTitle": "MOA-Entwurf",
+        "frontTag": "Rechtsstiftung",
+        "backTitle": "Satzung",
+        "backDescription": "Die Satzung (MOA) ist das Rechtsdokument, das Ihre Unternehmensstruktur, die Gesellschafterverhältnisse und die Partnerschaften festhält. Wir erstellen sie in Übereinstimmung mit dem Recht der VAE und wahren gleichzeitig Ihr Recht auf operative Unabhängigkeit durch interne Vereinbarungen.",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "id": 2,
+        "icon": "Handshake",
+        "frontTitle": "wirtschaftliches Eigentum",
+        "frontTag": "Private Vereinbarung",
+        "backTitle": "Vereinbarung über wirtschaftliches Eigentum",
+        "backDescription": "Private Rechtsdokumente, die zusammen mit der Absichtserklärung unterzeichnet wurden, bestätigen, dass Sie – der ausländische Investor – der alleinige wirtschaftliche Eigentümer sind. Der lokale Sponsor ist lediglich ein formaler Eigentümer ohne Anspruch auf Gewinne, operative Tätigkeiten oder Entscheidungen.",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "id": 3,
+        "icon": "Gavel",
+        "frontTitle": "Geschäftsvollmacht",
+        "frontTag": "Volle Autorität",
+        "backTitle": "Notariell beglaubigte Vollmacht",
+        "backDescription": "Ein notariell beglaubigtes Rechtsdokument, das Ihnen die alleinige Entscheidungsgewalt über alle Geschäftsangelegenheiten – Bankkonten, Personalbeschaffung und Tagesgeschäft – einräumt. Für das Tagesgeschäft ist keine Genehmigung eines Sponsors erforderlich.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "id": 4,
+        "icon": "Shield",
+        "frontTitle": "Sponsorenbeschränkung",
+        "frontTag": "Stiller Teilhaber",
+        "backTitle": "Sponsoren-Beschränkungsvereinbarung",
+        "backDescription": "Klauseln, die dem Sponsor rechtlich untersagen, in Ihre Geschäftsangelegenheiten einzugreifen. Die klare Erwartung, dass Ihr Sponsor ein stiller Teilhaber ist, der nicht in operative Abläufe, Finanzen oder Management involviert ist.",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "id": 5,
+        "icon": "Banknote",
+        "frontTitle": "Festzinsangebot",
+        "frontTag": "Keine Umsatzbeteiligung",
+        "backTitle": "Feste jährliche Sponsorengebühr",
+        "backDescription": "Ihr Unternehmenssponsor erhält eine feste jährliche Vorauszahlung ohne Gewinn- oder Umsatzbeteiligung. Volle Transparenz – keine versteckten Gebühren, klar definierte Zahlungen und die vollständige Einbehaltung Ihrer Gewinne.",
+        "color": "from-pink-500 to-fuchsia-700"
+      },
+      {
+        "id": 6,
+        "icon": "Scale",
+        "frontTitle": "Einhaltung gesetzlicher Bestimmungen",
+        "frontTag": "Vollständig notariell beglaubigt",
+        "backTitle": "Rechtsverbindliche Verträge",
+        "backDescription": "Alle Dokumente werden von Anwälten entworfen und notariell beglaubigt – Satzung, Nebenabreden, Treuhandverträge und Vollmachten. Rechtsverbindliche Unternehmensverträge bieten Ihnen langfristige rechtliche und finanzielle Sicherheit.",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "controlSection": {
+    "badge": "Kann ich die volle Kontrolle behalten?",
+    "title": "Ja – 100% operative Kontrolle garantiert",
+    "titleHighlight": "100% operative Kontrolle",
+    "subtitle": "Mit unseren Treuhandverträgen behalten Sie die volle operative, finanzielle und organisatorische Kontrolle über Ihr Unternehmen. Unsere Verträge legen Folgendes klar fest:",
+    "items": [
+      {
+        "icon": "EyeOff",
+        "label": "Der Sponsor hat keinen Einblick in Geschäftsentscheidungen.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Banknote",
+        "label": "Alle Gewinne verbleiben beim ausländischen Eigentümer",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Gavel",
+        "label": "Die Vollmacht verbleibt bei Ihnen",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Feste jährliche Sponsoringgebühr – keine Umsatzbeteiligung",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ],
+    "footerText": "Wir erstellen diese Verträge in voller Übereinstimmung mit den rechtlichen Standards der VAE und lassen sie von professionellen Rechtsberatern prüfen."
+  },
+  "exitOptionsSection": {
+    "badge": "Flexibler Ausstieg & Transfer",
+    "title": "Sie möchten aussteigen oder die Eigentumsrechte übertragen?",
+    "titleHighlight": "Ausstieg oder Eigentumsübertragung?",
+    "subtitle": "Wir bieten flexible Optionen – reibungslose Übergänge ohne Risiko oder Streitigkeiten.",
+    "items": [
+      {
+        "icon": "Banknote",
+        "label": "Verkaufen Sie Ihr Unternehmen",
+        "desc": "Reibungsloser Übergang an neue Eigentümer"
+      },
+      {
+        "icon": "UserPlus",
+        "label": "Einen neuen Partner einbeziehen",
+        "desc": "Umstrukturierung der Aktionärsstruktur"
+      },
+      {
+        "icon": "Repeat",
+        "label": "Transfersponsoring",
+        "desc": "Wechseln Sie zu einem neuen Sponsor"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Upgrade auf 100% Eigentum",
+        "desc": "Wenn sich Gesetze ändern"
+      }
+    ],
+    "footerText": "Unser Team kümmert sich um alle Umstrukturierungs- und Dokumentationsarbeiten reibungslos, sodass während des Prozesses keine Risiken oder Streitigkeiten entstehen."
+  },
+  "licensingSection": {
+    "badge": "Lizenzierung & Genehmigungen",
+    "title": "Sponsor hilft bei Lizenzierung und Genehmigungen",
+    "titleHighlight": "Lizenzierung & Genehmigungen",
+    "subtitle": "Schnellere Lizenzierung, Verlängerung und externe Genehmigungen.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "DED Dubai Geschäftslizenz",
+        "description": "Die wichtigste staatliche Organisation, die Handelslizenzen für das Festland von Dubai ausstellt. Sie ist zuständig für Genehmigungen von Geschäftstätigkeiten, Namensreservierungen, Verlängerungen und die Einhaltung des Handelsrechts.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Gemeinde und Zivilschutz",
+        "description": "Erste Genehmigungen, die bestätigen, dass Ihr Geschäftsstandort die Anforderungen an Sicherheit, Zoneneinteilung, Hygiene und Umweltschutz erfüllt – einschließlich Brandschutzinspektionen.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Gewerbelizenzbehörden",
+        "description": "Genehmigungen des Wirtschaftsministeriums, des Tourismusministeriums, des Gesundheitsministeriums oder der TRA – abhängig von Ihrer gewählten Geschäftstätigkeit.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Branchenaufsichtsbehörden",
+        "description": "Spezielle Genehmigungen von DHA, KHDA oder SCA für Unternehmen im Gesundheits-, Bildungs- oder Finanzwesen – um die vollständige Einhaltung der Vorschriften zu gewährleisten.",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Warum Trust Setup Zone Dubai für Sponsoring nutzen?",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "Wir erfüllen nicht nur die Anforderungen – wir schützen Ihre Zukunft.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Rechtskonform und sicher",
+        "desc": "Vollständig konforme Unternehmenssponsoring"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Transparente jährliche Kosten",
+        "desc": "Keine versteckten Gebühren oder Provisionen"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Verbindliche Nominierungsvereinbarungen",
+        "desc": "Sie besitzen die volle Kontrolle und den gesamten Gewinn."
+      },
+      {
+        "icon": "Globe",
+        "label": "Mehrsprachiges Team",
+        "desc": "Englisch, Arabisch, Hindi und Urdu"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "End-to-End-Support",
+        "desc": "Recht, Compliance & Dokumentation"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Langzeitschutz",
+        "desc": "Zukunftssichere Konfiguration"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Geschäftswachstumsaussichten",
+    "title": "Vollständige Kontrolle und Einhaltung",
+    "titleHighlight": "Kontrolle und Einhaltung",
+    "subtitle": "Ihr Unternehmen – vollständig geschützt, vollständig gesetzeskonform, vollständig in Ihrer Hand.",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "100%",
+        "label": "Kontrolle",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Bank",
+        "value": "0",
+        "label": "Gewinnbeteiligung",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Handshake",
+        "value": "Recht",
+        "label": "Nominierungsvereinbarungen",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Behoben",
+        "label": "Jahresgebühr",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Scale",
+        "value": "VAE",
+        "label": "Gesetzkonform",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Vertrauenswürdig",
+        "label": "Sponsorpartner",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über lokales Unternehmenssponsoring wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren Sponsoring-Spezialisten beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zum Thema lokale Unternehmenssponsoren in Dubai."
+    },
+    "items": [
+      {
+        "q": "Ist ein lokaler Unternehmenssponsor für alle Unternehmen, die in Dubai Handel treiben wollen, obligatorisch?",
+        "a": "Nein. Eine lokale Unternehmensförderung ist nur für bestimmte kommerzielle oder industrielle Aktivitäten auf dem Festland erforderlich. Freizonenunternehmen und Dienstleistungsunternehmen genießen weiterhin 100% ausländisches Eigentum."
+      },
+      {
+        "q": "Kann ich die volle Kontrolle behalten, wenn ich einen lokalen Unternehmenssponsor habe?",
+        "a": "Ja. Durch strukturierte Treuhandvereinbarungen, Vollmachten und Nebenabreden behalten Sie die operative, finanzielle und organisatorische Kontrolle über das Unternehmen zu 100 % – rechtlich und sicher."
+      },
+      {
+        "q": "Worin besteht der Unterschied zwischen einem privaten und einem Unternehmenssponsor?",
+        "a": "Ein Einzelsponsor ist eine natürliche Person. Ein Unternehmenssponsor ist ein Unternehmen im Besitz der VAE (100% emiratische Beteiligung) – was eine professionellere Rechtsstruktur, verbindliche Verträge und Treuhandvereinbarungen ermöglicht."
+      },
+      {
+        "q": "Was ist eine Treuhandvereinbarung und worum geht es dabei?",
+        "a": "Ein Treuhandvertrag ist ein privates Rechtsdokument, das bestätigt, dass Sie (der ausländische Investor) der tatsächliche alleinige wirtschaftliche Eigentümer sind. Der Treuhänder hält die Anteile lediglich auf dem Papier, hat aber keinerlei Anspruch auf Gewinne, operative Beteiligungen oder Entscheidungsbefugnisse."
+      },
+      {
+        "q": "Kann ich einen Sponsor in Zukunft wechseln oder kündigen?",
+        "a": "Ja. Wir bieten flexible Ausstiegs- und Übertragungsoptionen – verkaufen Sie Ihr Unternehmen, holen Sie sich einen neuen Partner ins Boot, übertragen Sie die Sponsorenschaft oder steigen Sie auf 100 % Eigentum auf, wenn sich die Gesetze ändern."
+      },
+      {
+        "q": "Wird der Sponsor in meine Geschäftsfinanzen oder meine Kunden eingreifen?",
+        "a": "Nein. Unsere Sponsorenvereinbarung verbietet jegliche Einmischung. Der Sponsor ist ein stiller Teilhaber ohne Beteiligung an operativen Abläufen, Finanzen oder Management."
+      },
+      {
+        "q": "Wird der Sponsor irgendwelche Aktivitäten durchführen?",
+        "a": "Nein. Sämtliche operative Tätigkeiten, Entscheidungen und die Geschäftsführung verbleiben zu 100 % bei Ihnen (dem ausländischen Investor). Der Sponsor hält lediglich formale Anteile."
+      },
+      {
+        "q": "Was passiert, wenn sich die Eigentumsverhältnisse oder das Management meines Sponsorunternehmens ändern?",
+        "a": "Unsere Verträge sind so gestaltet, dass sie unabhängig von Änderungen im Sponsorunternehmen gültig bleiben. Wir kümmern uns um alle erforderlichen Aktualisierungen und stellen sicher, dass Sie jederzeit die Kontrolle behalten."
+      },
+      {
+        "q": "Hilft ein etablierter Unternehmenssponsor bei der Genehmigung?",
+        "a": "Ja. Unsere etablierten Unternehmenssponsoren tragen dazu bei, die Genehmigungsverfahren für DED-Lizenzen, Verlängerungen, kommunale Genehmigungen, Zivilschutz und branchenspezifische behördliche Genehmigungen zu beschleunigen."
+      },
+      {
+        "q": "Wie lange dauert es, meine Gewerbelizenz in Dubai zu erhalten?",
+        "a": "Die Einrichtung auf dem Festland, einschließlich der Vereinbarung mit dem Unternehmenssponsor, dauert in der Regel 2–4 Wochen. Dank unserer Kontakte zur DED und unseres Rechtsteams beschleunigen wir den Prozess."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die sich gut mit lokalem Firmensponsoring kombinieren lassen.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Firmengründung in Dubai",
+        "description": "Freizonen-, Festland- und Offshore-Strukturen.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "mainland-company-formation",
+        "title": "Unternehmensgründung auf dem Festland",
+        "description": "Voller Marktzugang in den VAE mit DED-Lizenz.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-business-partner",
+        "title": "Lokaler Geschäftspartner in den VAE",
+        "description": "Vertrauenswürdiger Partner für Ihr Vorhaben in den VAE.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Sie planen die Gründung eines Unternehmens auf dem chinesischen Festland?",
+    "title": "Sichern Sie Ihre Zukunft mit einem vertrauenswürdigen Unternehmenssponsor.",
+    "titleHighlight": "Vertrauenswürdiger Unternehmenssponsor",
+    "subtitle": "Profitieren Sie von Dubais florierender Wirtschaft auf dem Festland, ohne die Kontrolle über Ihr Unternehmen zu verlieren. Volle operative Kontrolle, keine Eingriffe, rechtssichere Treuhandpartnerschaft.",
+    "chips": [
+      "Kostenlose Beratung",
+      "100% Kontrolle",
+      "Festgebühr"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zum Thema „Lokales Firmensponsoring“.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über lokale Unternehmenssponsoren sprechen."
+  }
+}

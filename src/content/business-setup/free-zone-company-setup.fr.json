@@ -1,0 +1,571 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Plus de 45 zones franches. Propriété à 100 %.",
+  "heroTitle": "Création d'une société en zone franche aux Émirats arabes unis",
+  "heroTitleHighlight": "Zone franche",
+  "heroSubtitle": "Implantez votre entreprise dans l'une des plus de 45 zones franches des Émirats arabes unis. Propriété étrangère à 100 %, 0 % d'impôt et rapatriement intégral des bénéfices – le tout en seulement 3 à 7 jours.",
+  "heroChips": [
+    "Propriété à 100 %",
+    "Taxe de 0 %",
+    "Installation en 3 à 7 jours",
+    "Plus de 45 zones gratuites"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "45 ans et plus",
+      "label": "Zones franches",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Impôt sur les sociétés",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Qu'est-ce que c'est?",
+    "title": "Qu'est-ce qu'une société en zone franche ?",
+    "titleHighlight": "Société de zone franche ?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Zone franche",
+    "imageBadgeText": "Propriété à 100 %",
+    "paragraphs": [
+      "Une société de zone franche des Émirats arabes unis est une entreprise agréée par l'une des plus de 45 zones franches réparties entre Dubaï, Abou Dabi, Sharjah et d'autres émirats. Elle offre un environnement fiscal avantageux et permet une propriété 100 % étrangère.",
+      "Les entreprises de la zone franche peuvent commercer librement au sein de la zone franche, dans l'ensemble des Émirats arabes unis (par l'intermédiaire de distributeurs) et à l'international. Elles ne peuvent pas commercer directement sur le marché continental des Émirats arabes unis.",
+      "Parmi les zones franches les plus populaires, citons IFZA, DMCC, Meydan, DAFZA, JAFZA, RAKEZ, SHAMS et Dubai CommerCity ; chacune offre des avantages spécifiques pour différentes activités commerciales. Chez Setup Zone Dubai, nous vous aidons à choisir celle qui correspond le mieux à vos objectifs."
+    ],
+    "highlights": [
+      "Propriété étrangère à 100 %",
+      "Impôt sur les sociétés à 0 %",
+      "Rapatriement des bénéfices",
+      "Avantages hors taxes",
+      "Installation rapide",
+      "Plus de 45 zones disponibles"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "Options de licence",
+    "title": "Quelles licences de zone franche pouvez-vous obtenir ?",
+    "titleHighlight": "Licences de zone franche",
+    "subtitle": "Parcourez les 6 types de licences disponibles et choisissez celle qui convient le mieux à votre entreprise.",
+    "items": [
+      {
+        "id": "commercial",
+        "icon": "StoreIcon",
+        "title": "Licence commerciale",
+        "tagline": "Achat, vente et échange",
+        "description": "Pour les sociétés commerciales, les entreprises d'import-export, les grossistes, les détaillants et les distributeurs. Commercez librement au sein de la zone franche, dans tous les Émirats arabes unis et à l'international.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": [
+          "Import/Export",
+          "Vente en gros et au détail",
+          "Commerce général",
+          "Ventes mondiales"
+        ],
+        "bestFor": "Les commerçants"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Licence professionnelle / de service",
+        "tagline": "Expertise et conseil",
+        "description": "Pour les consultants, les sociétés de services informatiques, les agences de marketing, les éducateurs, les coachs et les prestataires de services professionnels détenus à 100 %.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": [
+          "Consultants",
+          "Services informatiques",
+          "Commercialisation",
+          "Éducation"
+        ],
+        "bestFor": "Consultants"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Licence industrielle",
+        "tagline": "Fabrication et production",
+        "description": "Pour les opérations de fabrication, de production, d'assemblage et industrielles au sein des zones franches désignées ayant accès à des terrains et infrastructures industriels.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "Fabrication",
+          "Production",
+          "Assemblée",
+          "Terrain industriel"
+        ],
+        "bestFor": "Fabricants"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "Licence de commerce électronique",
+        "tagline": "Entreprise axée sur le numérique",
+        "description": "Pour les boutiques en ligne, les places de marché numériques, le dropshipping et les plateformes de commerce électronique offrant une propriété à 100 %, des coûts réduits et un environnement sans taxes.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "Boutique en ligne",
+          "Marché numérique",
+          "Dropshipping",
+          "Portée mondiale"
+        ],
+        "bestFor": "Vendeurs de commerce électronique"
+      },
+      {
+        "id": "freelancer",
+        "icon": "Laptop",
+        "title": "Permis de travailleur indépendant",
+        "tagline": "Professionnels individuels",
+        "description": "Pour les freelances, consultants, designers, développeurs, rédacteurs et nomades numériques. Idéal pour les professionnels indépendants qui souhaitent une reconnaissance légale, la facturation et l'éligibilité à un visa.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "Professionnels individuels",
+          "Facturation légale",
+          "Éligible au visa",
+          "Faible coût"
+        ],
+        "bestFor": "travailleurs indépendants"
+      },
+      {
+        "id": "holding",
+        "icon": "Crown",
+        "title": "Licence de détention",
+        "tagline": "Structuration d'entreprise",
+        "description": "Pour les sociétés holding, les véhicules d'investissement et les gestionnaires d'actifs. Gérez vos filiales, vos biens immobiliers, votre propriété intellectuelle et vos investissements sans exercer d'activités commerciales.",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Holding",
+          "Véhicule d'investissement",
+          "Gestion d'actifs",
+          "Structuration du patrimoine"
+        ],
+        "bestFor": "Investisseurs et personnes fortunées"
+      }
+    ]
+  },
+  "topFreeZonesSection": {
+    "badge": "Plus de 45 zones gratuites",
+    "title": "Principales zones franches que nous desservons",
+    "titleHighlight": "Zones franches",
+    "subtitle": "D'IFZA à Dubai CommerCity, nous possédons une expertise dans toutes les zones franches des Émirats arabes unis.",
+    "items": [
+      {
+        "name": "IFZA",
+        "tagline": "Flexible et abordable",
+        "color": "from-emerald-500 to-teal-700"
+      },
+      {
+        "name": "DMCC",
+        "tagline": "Matières premières et commerce",
+        "color": "from-teal-500 to-cyan-700"
+      },
+      {
+        "name": "Meydan",
+        "tagline": "Configuration à faible coût",
+        "color": "from-cyan-500 to-sky-700"
+      },
+      {
+        "name": "DAFZA",
+        "tagline": "Aviation et logistique",
+        "color": "from-sky-500 to-blue-700"
+      },
+      {
+        "name": "JAFZA",
+        "tagline": "Industrie et commerce",
+        "color": "from-blue-500 to-indigo-700"
+      },
+      {
+        "name": "RAKEZ",
+        "tagline": "Multisecteur à faible coût",
+        "color": "from-indigo-500 to-violet-700"
+      },
+      {
+        "name": "FAUX",
+        "tagline": "Indépendants et PME",
+        "color": "from-violet-500 to-purple-700"
+      },
+      {
+        "name": "Dubai Commercial City",
+        "tagline": "Centre de commerce électronique",
+        "color": "from-purple-500 to-fuchsia-700"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Avantages de la zone franche",
+    "title": "Avantages de la mise en place d'une zone franche",
+    "titleHighlight": "Configuration de la zone libre",
+    "subtitle": "Huit avantages majeurs d'une entreprise en zone franche aux Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "Propriété étrangère à 100 %",
+        "description": "Devenez pleinement propriétaire de votre entreprise aux Émirats arabes unis – aucun sponsor émirati local ni partenaire national des Émirats arabes unis n'est requis.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Impôt sur les sociétés et sur le revenu des particuliers à 0 %",
+        "description": "Environnement fiscal sans impôt sur les sociétés, sans impôt sur le revenu des personnes physiques et avec conservation intégrale des bénéfices.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Rapatriement intégral des bénéfices",
+        "description": "Rapatriez 100 % de votre capital et de vos bénéfices sans aucune restriction de change.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Avantages hors taxes",
+        "description": "Aucun droit d'importation ni d'exportation au sein de la zone franche — idéal pour le commerce, le e-commerce et la logistique.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Configuration accélérée",
+        "description": "Licence délivrée en 3 à 7 jours avec documentation simplifiée et enregistrement à distance disponibles.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Solutions de bureau flexibles",
+        "description": "Choisissez parmi des bureaux flexibles, des espaces de coworking, des bureaux privés ou des entrepôts – tous prêts à l'emploi.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Compte bancaire d'entreprise",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis auprès des meilleures banques – assistance complète pour la connaissance du client et la documentation.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Processus en 6 étapes",
+    "title": "Comment obtenir votre licence de zone franche",
+    "titleHighlight": "Licence de zone franche",
+    "subtitle": "Six étapes simples pour lancer votre entreprise en zone franche.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Choisissez votre zone libre",
+        "description": "Nous vous aidons à choisir la meilleure zone franche en fonction de votre activité, de votre budget et de vos objectifs à long terme.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Nom commercial réservé",
+        "description": "Réservez votre nom commercial auprès de l'autorité de la zone franche — l'approbation est généralement obtenue en quelques heures.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Demande de licence",
+        "description": "Déposez votre candidature accompagnée de copies de votre passeport, de votre plan d'affaires et des documents requis.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "icon": "Building2",
+        "title": "Choisissez un espace de bureau",
+        "description": "Choisissez un espace de travail flexible, un espace de coworking, un bureau privé ou un entrepôt, selon votre licence.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "05",
+        "icon": "ScrollText",
+        "title": "Recevez votre permis",
+        "description": "Obtenez votre licence commerciale de zone franche — généralement délivrée sous 3 à 7 jours ouvrables.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "Zone franche contre continent",
+    "title": "Comparez vos options",
+    "titleHighlight": "Comparer",
+    "subtitle": "Visualisez les différences en un coup d'œil pour faire le bon choix.",
+    "items": [
+      {
+        "factor": "Possession",
+        "freezone": "100% étranger",
+        "mainland": "100 % (la plupart)",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "factor": "Temps de préparation",
+        "freezone": "3 à 7 jours",
+        "mainland": "2 à 4 semaines",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "factor": "Coût",
+        "freezone": "Inférieur",
+        "mainland": "Plus haut",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "factor": "Impôt",
+        "freezone": "Entreprises à 0 %",
+        "mainland": "0-9% Entreprises",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "factor": "Marché des Émirats arabes unis",
+        "freezone": "Limité",
+        "mainland": "Accès complet",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "factor": "Contrats gouvernementaux",
+        "freezone": "Non",
+        "mainland": "Oui",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Documents requis",
+    "title": "Ce que vous devez soumettre",
+    "titleHighlight": "Besoin de soumettre",
+    "items": [
+      {
+        "icon": "Camera",
+        "label": "Photos de passeport",
+        "desc": "Fond blanc"
+      },
+      {
+        "icon": "FileText",
+        "label": "Plan d'affaires",
+        "desc": "Pour certaines zones franches"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "3 noms proposés",
+        "desc": "Par ordre de préférence"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Activité commerciale",
+        "desc": "De la liste approuvée"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "Preuve d'adresse",
+        "desc": "facture de services publics / relevé bancaire"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Certificat NOC",
+        "desc": "Pour les résidents des Émirats arabes unis"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "CV / Profil professionnel",
+        "desc": "Pour les activités professionnelles"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Votre partenaire de confiance en zone franche",
+    "titleHighlight": "Partenaire de zone franche",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Plus de 45 zones franches d'expertise",
+        "desc": "Connaissance approfondie de toutes les zones franches des Émirats arabes unis"
+      },
+      {
+        "icon": "Zap",
+        "label": "Installation rapide en 3 à 7 jours",
+        "desc": "Processus simplifié pour un lancement rapide"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Tarification transparente",
+        "desc": "Aucuns frais cachés, jamais"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Consultant dévoué",
+        "desc": "Conseiller personnel tout au long"
+      },
+      {
+        "icon": "Globe",
+        "label": "Équipe multilingue",
+        "desc": "Anglais, arabe, hindi, ourdou"
+      },
+      {
+        "icon": "Bank",
+        "label": "Soutien bancaire aux entreprises",
+        "desc": "Réseau des principales banques des Émirats arabes unis"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Conformité continue",
+        "desc": "Renouvellements, PRO et mises à jour"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Des milliers de personnes nous font confiance",
+    "titleHighlight": "Des milliers",
+    "subtitle": "Votre zone franche, entre des mains d'experts.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Plus de 10 000",
+        "label": "Sociétés créées",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "45 ans et plus",
+        "label": "Zones franches",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Menant",
+        "label": "Expert en configuration",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "3-7",
+        "label": "Installation des jours",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Conforme",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Préféré",
+        "label": "Partenaire d'installation",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la création d'une société en zone franche aux Émirats arabes unis. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes des zones franches.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant la création d'une société en zone franche aux Émirats arabes unis."
+    },
+    "items": [
+      {
+        "q": "Qu'est-ce qu'une société de zone franche des Émirats arabes unis ?",
+        "a": "Une société de zone franche est une entreprise agréée par l'une des plus de 45 zones franches des Émirats arabes unis. Elle autorise la détention à 100 % par des étrangers, une exonération d'impôt sur les sociétés et le rapatriement intégral des bénéfices, mais ne peut généralement pas exercer de commerce direct sur le marché continental des Émirats arabes unis."
+      },
+      {
+        "q": "Quelle zone franche est la plus adaptée à mon entreprise ?",
+        "a": "Cela dépend de votre activité, de votre budget et de vos objectifs. IFZA et Meydan sont idéaux pour les startups et les PME. DMCC convient aux matières premières. DAFZA est adapté à l'aviation et à la logistique. Nous vous aidons à choisir le centre le plus approprié à votre modèle d'entreprise."
+      },
+      {
+        "q": "Combien coûte la création d'une entreprise en zone franche ?",
+        "a": "La création d'une entreprise en zone franche débute à environ 5 750 AED pour une formule de base. Le coût final dépend de la zone franche, du type de licence, de la superficie des bureaux et du quota de visas. Nous proposons une tarification transparente et tout compris."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir une licence de zone franche ?",
+        "a": "Délai habituel de 3 à 7 jours ouvrables avec les documents requis. Certaines zones franches proposent des licences délivrées le jour même ou le lendemain grâce à notre réseau prioritaire."
+      },
+      {
+        "q": "Puis-je posséder 100 % d'une entreprise située en zone franche ?",
+        "a": "Oui. Toutes les zones franches des Émirats arabes unis autorisent la propriété étrangère à 100 % — aucun sponsor local ni partenaire national des Émirats arabes unis n'est requis."
+      },
+      {
+        "q": "Puis-je parrainer des membres de ma famille avec mon entreprise en zone franche ?",
+        "a": "Oui. Selon la zone franche et votre quota de visas, vous pouvez parrainer des visas d'investisseur pour vous-même, des visas d'employé pour votre personnel et des visas de personne à charge pour les membres de votre famille."
+      },
+      {
+        "q": "Une entreprise de zone franche peut-elle commercer sur le territoire continental des Émirats arabes unis ?",
+        "a": "Non. Les entreprises des zones franches ne peuvent pas commercer directement sur le marché continental des Émirats arabes unis. Cependant, elles peuvent passer par un distributeur ou un agent local, et certaines zones franches proposent des options de double licence."
+      },
+      {
+        "q": "Quelles sont les options d'espaces de bureaux disponibles dans les zones franches ?",
+        "a": "Les zones franches proposent des espaces de travail flexibles, des espaces de coworking, des bureaux privés, des suites de direction, des entrepôts et des locaux industriels, en fonction de votre activité et de votre type de licence."
+      },
+      {
+        "q": "Puis-je ouvrir un compte bancaire professionnel avec une licence de zone franche ?",
+        "a": "Oui. Nous offrons une assistance complète pour l'ouverture de comptes bancaires professionnels auprès des principales banques des Émirats arabes unis, y compris la préparation des documents KYC, la documentation et le suivi."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour la mise en place de votre zone franche ?",
+        "a": "Nous possédons une expertise dans plus de 45 zones franches des Émirats arabes unis, proposons une tarification transparente, fournissons un soutien complet (licence, visa, services bancaires, relations publiques, conformité) et avons fait nos preuves avec plus de 10 000 installations réussies."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Services qui se marient bien avec la création d'une entreprise en zone franche.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Création d'entreprise à Dubaï",
+        "description": "Zone franche, structures continentales et offshore.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "free-zone-locations",
+        "title": "Guide des zones franches",
+        "description": "Comparez les plus de 45 zones franches des Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "ecommerce-license",
+        "title": "Licence de commerce électronique à Dubaï",
+        "description": "Créez votre entreprise en ligne à Dubaï.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lancement dans 3 à 7 jours",
+    "title": "Prêt à créer votre entreprise en zone franche ?",
+    "titleHighlight": "Société de zone franche ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous accompagnerons tout au long du processus, du choix de la zone franche la plus adaptée à l'obtention de votre licence et à l'ouverture de votre compte bancaire.",
+    "chips": [
+      "Consultation gratuite",
+      "Installation en 3 à 7 jours",
+      "Propriété à 100 %"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite concernant la création d'une société en zone franche aux Émirats arabes unis.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais discuter de la création d'une société en zone franche aux Émirats arabes unis."
+  }
+}

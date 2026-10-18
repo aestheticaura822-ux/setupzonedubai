@@ -1,0 +1,402 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1600\u0026q=80",
+    "heroBadge":  "Şarjah Havaalanı Uluslararası Serbest Bölgesi",
+    "heroTitle":  "SAIF Serbest Bölgesi",
+    "heroTitleHighlight":  "Serbest Bölge",
+    "heroSubtitle":  "Birleşik Arap Emirlikleri\u0027nin stratejik açıdan en avantajlı konumlarından birinde yer alan Serbest Bölge, Şarjah Uluslararası Havalimanı\u0027nın yanında olup, ana otoyollara ve limanlara doğrudan erişim imkanı sunmaktadır. Lojistik, üretim ve uluslararası ticaret için mükemmel bir yerdir.",
+    "heroChips":  [
+                      "Aynı Gün Kurulum",
+                      "%0 Vergi",
+                      "Havaalanına Bitişik"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Saat",
+                      "value":  "Aynı Gün",
+                      "label":  "Kayıt",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Vergi ve Gümrük",
+                      "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                  },
+                  {
+                      "icon":  "Uçak",
+                      "value":  "Havalimanı",
+                      "label":  "Bitişik Bölge",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  }
+              ],
+    "whySaifSection":  {
+                           "badge":  "SAIF Bölgesi Neden Önemli?",
+                           "title":  "SAIF Serbest Bölgesi\u0027nde Şirket Kurmanın Faydaları",
+                           "titleHighlight":  "SAIF Serbest Bölgesi",
+                           "subtitle":  "Birleşik Arap Emirlikleri\u0027nin stratejik açıdan en avantajlı konumlarından birinde yer alan Serbest Bölgelerinden biri.",
+                           "items":  [
+                                         {
+                                             "icon":  "Küre",
+                                             "title":  "%100 Yabancı Mülkiyeti",
+                                             "description":  "Kararların, kÃ¢rın ve operasyonların tam kontrolü.",
+                                             "color":  "from-emerald-400 to-teal-600",
+                                             "size":  "küçük"
+                                         },
+                                         {
+                                             "icon":  "Dolar İşareti",
+                                             "title":  "%0 Kurumlar ve Kişisel Vergi",
+                                             "description":  "Gelir vergisi yok, kurumlar vergisi yok "” daha fazla kazanç elde edin ve daha fazla yatırım yapın.",
+                                             "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e",
+                                             "size":  "küçük"
+                                         },
+                                         {
+                                             "icon":  "Paket",
+                                             "title":  "İthalat/İhracat Vergisi Yok",
+                                             "description":  "Bölge içindeki ithalat ve ihracatlarda tüm gümrük vergilerinden muaftır.",
+                                             "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                             "size":  "küçük"
+                                         },
+                                         {
+                                             "icon":  "Uçak",
+                                             "title":  "Şarjah Havaalanı\u0027nın yanında, mükemmel konum.",
+                                             "description":  "Birleşik Arap Emirlikleri\u0027nin ana karayollarına ve limanlarına doğrudan erişim imkanı; lojistik, dağıtım, nakliye ve uluslararası ticaret için ideal konum.",
+                                             "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                             "size":  "büyük"
+                                         },
+                                         {
+                                             "icon":  "Zap",
+                                             "title":  "Hızlı Kurulum Süresi",
+                                             "description":  "Aynı gün kayıt, anında lisans onayı ve tam dijital belge teslimi.",
+                                             "color":  "from-emerald-400 to-teal-600",
+                                             "size":  "küçük"
+                                         },
+                                         {
+                                             "icon":  "Bina 2",
+                                             "title":  "Geniş Tesis Yelpazesi",
+                                             "description":  "Kullanıma hazır ofisler, hafif sanayi üniteleri, depolar ve özelleştirilebilir arazi alanları.",
+                                             "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e",
+                                             "size":  "küçük"
+                                         }
+                                     ]
+                       },
+    "licensesSection":  {
+                            "badge":  "Lisans Türleri",
+                            "title":  "Doğru SAIF Lisansını Seçin",
+                            "titleHighlight":  "SAIF Lisansı",
+                            "subtitle":  "Hızlı, kolay ve doğru "” işletme faaliyetlerinize göre seçim yapmanıza yardımcı oluyoruz.",
+                            "items":  [
+                                          {
+                                              "icon":  "Mağaza",
+                                              "title":  "Ticari Lisans",
+                                              "description":  "Genel ticaret, ithalat/ihracat ve toptan satış için.",
+                                              "code":  "COM",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "title":  "Hizmet Lisansı",
+                                              "description":  "Danışmanlık, hukuk, insan kaynakları ve lojistik hizmetleri için.",
+                                              "code":  "SRV",
+                                              "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Fabrika",
+                                              "title":  "Sanayi Lisansı",
+                                              "description":  "Üretim, işleme ve montaj işlemleri için.",
+                                              "code":  "IND",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Alışveriş Sepeti",
+                                              "title":  "E-Ticaret Lisansı",
+                                              "description":  "Çevrimiçi işletmeler ve dijital ticaret platformları için.",
+                                              "code":  "ECM",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcı Kontrolü",
+                                              "title":  "Serbest Çalışan ve Girişimci İzinleri",
+                                              "description":  "Bireysel profesyoneller ve girişim sahipleri için özel lisanslar.",
+                                              "code":  "FRL",
+                                              "color":  "zümrüt-500\u0027den-yeşil-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "howWeHelpSection":  {
+                             "badge":  "Nasıl Yardım Ediyoruz?",
+                             "title":  "Başlangıçtan Büyümeye Kadar "” Her Adım Yönetiliyor",
+                             "titleHighlight":  "Her Adım Kontrol Altında",
+                             "subtitle":  "SAIF Serbest Bölge kurulumunuzun baştan sona eksiksiz hizmeti.",
+                             "steps":  [
+                                           {
+                                               "step":  "01",
+                                               "title":  "Aktivite Seçimi ve İsim Rezervasyonu",
+                                               "description":  "SAIF düzenlemelerine uygun en iyi iş faaliyetini seçmenize ve benzersiz bir şirket adı rezervasyonu yapmanıza yardımcı oluyoruz.",
+                                               "icon":  "Hedef",
+                                               "color":  "from-emerald-400 to-teal-600",
+                                               "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "02",
+                                               "title":  "Şirket Kuruluşu ve Lisans Başvurusu",
+                                               "description":  "Ekibimiz, ticari, endüstriyel veya hizmet alanında SAIF ticaret lisansınızı almak için gerekli tüm belge ve formları hazırlamaktadır.",
+                                               "icon":  "DosyaMetni",
+                                               "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e",
+                                               "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "03",
+                                               "title":  "Vize İşlemi ve Kart Çıkarma",
+                                               "description":  "Yatırımcı veya çalışan vizesi ve SAIF kuruluş kartı başvurularını kolaylaştırıyoruz.",
+                                               "icon":  "Kullanıcı Kontrolü",
+                                               "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                               "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "04",
+                                               "title":  "Ofis veya Depo Seçimi",
+                                               "description":  "Planınıza ve bütçenize uygun ofis alanları, hafif sanayi üniteleri veya depo seçeneklerinin bir listesini sunuyoruz.",
+                                               "icon":  "Depo",
+                                               "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                               "image":  "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "05",
+                                               "title":  "Banka Hesabı ve Belge Onaylama",
+                                               "description":  "Şirketinizin banka hesabını açıyoruz ve gerekirse belgeleri noter tasdik/onaylama işlemlerini gerçekleştiriyoruz.",
+                                               "icon":  "Kredi Kartı",
+                                               "color":  "from-emerald-400 to-teal-600",
+                                               "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "06",
+                                               "title":  "PRO Hizmetleri ve Tıbbi Kayıt",
+                                               "description":  "Sağlık kontrolleri, Emirates kimlik kartı, vize damgalama, çalışma izinleri ve yenilemeleri gibi işlemleri tek bir irtibat noktası üzerinden hallediyoruz.",
+                                               "icon":  "Pano Kontrolü",
+                                               "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e",
+                                               "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "07",
+                                               "title":  "Lisans Yenileme ve Uyumluluk",
+                                               "description":  "Uyumluluk ekibimiz, işletmenizin aktif ve denetime hazır olmasını ve yenilemelerin zamanında yapılmasını sağlar.",
+                                               "icon":  "RefreshCw",
+                                               "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                               "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                           },
+                                           {
+                                               "step":  "08",
+                                               "title":  "Gerçek Faydalanıcı (UBO), Kurumsal Sosyal Sorumluluk (ESR) ve Kara Para Aklama ile Mücadele (AML) Konusunda Hukuki Destek",
+                                               "description":  "BAE yasalarına uygun olarak gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR) ve kara para aklama ile mücadele (AML) mevzuatına uyum konusunda danışmanlık ve dosyalama desteği.",
+                                               "icon":  "Kalkan Kontrolü",
+                                               "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                               "image":  "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800\u0026q=80"
+                                           }
+                                       ]
+                         },
+    "digitalGrowthSection":  {
+                                 "badge":  "Dijital Büyüme",
+                                 "title":  "SAIF\u0027te Dijital Olarak Büyüyebilir misiniz?",
+                                 "titleHighlight":  "SAIF\u0027te dijitalleşme mi?",
+                                 "subtitle":  "Kesinlikle! Yolculuğunuz lisanslama ile bitmiyor; geleceğe yönelik dijital bir varlık oluşturuyoruz.",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Monitör",
+                                                   "title":  "Web Sitesi ve E-Ticaret Geliştirme",
+                                                   "description":  "Modern, duyarlı (responsive) web siteleri ve çevrimiçi mağazalar.",
+                                                   "color":  "from-emerald-400 to-teal-600"
+                                               },
+                                               {
+                                                   "icon":  "Katmanlar",
+                                                   "title":  "CRM ve CMS Entegrasyonu",
+                                                   "description":  "SAIF işletmeleri için operasyonların iyileştirilmesi.",
+                                                   "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "Aramak",
+                                                   "title":  "Şarjah ve Birleşik Arap Emirlikleri\u0027nde SEO Hizmetleri",
+                                                   "description":  "Google\u0027da daha üst sıralarda yer alın ve organik trafik elde edin.",
+                                                   "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "Kredi Kartı",
+                                                   "title":  "Ödeme Ağ Geçidi Kurulumu",
+                                                   "description":  "Güvenli ödeme çözümlerini entegre edin.",
+                                                   "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "Megafon",
+                                                   "title":  "Sosyal Medya ve PPC Reklamları",
+                                                   "description":  "Hedef kitleye yönelik, dönüşüm sağlayan kampanyalar.",
+                                                   "color":  "zümrüt-500\u0027den-yeşil-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "Ödül",
+                                                   "title":  "Ticari Marka Tescili ve Marka",
+                                                   "description":  "Marka kimliğinizi koruyun ve geliştirin.",
+                                                   "color":  "from-teal-500 to-cyan-600"
+                                               }
+                                           ]
+                             },
+    "liquidationSection":  {
+                               "badge":  "Tasfiye ve Uyumluluk",
+                               "title":  "İşletme Çıkışı Kolaylaştırıldı",
+                               "titleHighlight":  "Kolaylaştırıldı",
+                               "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                               "imageBadgeTitle":  "%100 Yasal",
+                               "imageBadgeText":  "Uyumlu Çıkış",
+                               "paragraphs":  [
+                                                  "SAIF\u0027te işletmenizi kapatmaya veya elden çıkarmaya hazırsanız, tüm tasfiye sürecini kolay, yasal ve sorunsuz hale getiriyoruz.",
+                                                  "Ödenmemiş faturaları kapatıyoruz, çalışanların vizelerini iptal ediyoruz, tüm işten ayrılma prosedürlerini takip ediyoruz ve işletme lisansınızı SAIF yetkililerinden devre dışı bırakıyoruz.",
+                                                  "Ayrıca varlık devirlerini, nihai denetimleri ve gerekli tüm İtirazsızlık Belgelerinin (NOC) alınmasını da biz üstleniyoruz; böylece işletmenizden tam bir güvenle ayrılabilirsiniz."
+                                              ],
+                               "highlights":  [
+                                                  "Fatura Onayı",
+                                                  "Vize İptali",
+                                                  "Lisans Devre Dışı Bırakma",
+                                                  "Varlık Transferi",
+                                                  "Son Denetim",
+                                                  "NOC Yardımı"
+                                              ]
+                           },
+    "activitiesSection":  {
+                              "badge":  "İzin Verilen Aktiviteler",
+                              "title":  "SAIF Serbest Bölgesi\u0027nde Hangi Faaliyetlere İzin Verilmektedir?",
+                              "titleHighlight":  "SAIF Serbest Bölgesi mi?",
+                              "subtitle":  "Birleşik Arap Emirlikleri\u0027ndeki serbest bölgeler arasında en çeşitli ve çok yönlü iş faaliyetleri listelerinden birine sahip.",
+                              "items":  [
+                                            {
+                                                "icon":  "Mağaza",
+                                                "title":  "Ticaret ve İthalat/İhracat",
+                                                "description":  "Hızlı lisanslama ile toptan dağıtım.",
+                                                "color":  "from-emerald-400 to-teal-600"
+                                            },
+                                            {
+                                                "icon":  "Kamyon",
+                                                "title":  "Depolama ve Lojistik",
+                                                "description":  "Şarjah Havalimanı ve büyük limanlara yakın konumda.",
+                                                "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Fabrika",
+                                                "title":  "Üretim ve Montaj",
+                                                "description":  "Hafif montaj, paketleme, elektronik ve baskı.",
+                                                "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "İşlemci",
+                                                "title":  "Teknoloji ve Bilişim Hizmetleri",
+                                                "description":  "Yazılım geliştirme ve dijital hizmetler.",
+                                                "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Megafon",
+                                                "title":  "Pazarlama ve Medya",
+                                                "description":  "Danışmanlık, medya ve içerik oluşturma firmaları.",
+                                                "color":  "zümrüt-500\u0027den-yeşil-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Uçak",
+                                                "title":  "Havacılık Hizmetleri",
+                                                "description":  "Havaalanı yakınındaki işletmeler ve kargo taşımacılığı.",
+                                                "color":  "from-teal-500 to-cyan-600"
+                                            }
+                                        ]
+                          },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "SAIF Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "SAIF uzmanlarımızla ücretsiz görüşme yapın.",
+                                            "whatsappMessage":  "Merhaba! SAIF Serbest Bölgesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "SAIF Serbest Bölgesi\u0027nde yeni bir şirket kaydetme prosedürü nedir?",
+                                          "a":  "Bir lisans seçin (ticari, hizmet, endüstriyel veya e-ticaret), iş faaliyetinizi belirleyin, şirket adınızı ayırtın, belgelerinizi gönderin, vizenizi ve kuruluş kartınızı alın ve bir ofis veya depo kiralayın. Tüm bu adımları sizin için biz hallediyoruz."
+                                      },
+                                      {
+                                          "q":  "SAIF Bölgesi\u0027nde şirket kaydı ne kadar sürer?",
+                                          "a":  "SAIF Serbest Bölgesi, aynı gün kayıt ve anında lisans onayı imkanı sunmaktadır. Genellikle tüm kurulum süreci 2-5 iş günü içinde tamamlanır."
+                                      },
+                                      {
+                                          "q":  "SAIF Bölgesi\u0027nde hangi tür işletme lisansları mevcuttur?",
+                                          "a":  "Ticari, Hizmet, Sanayi, E-Ticaret lisansları, ayrıca Serbest Çalışan ve Girişimci izinleri; her biri farklı iş faaliyetlerine göre uyarlanmıştır."
+                                      },
+                                      {
+                                          "q":  "Yabancı uyruklu biri olarak SAIF şirketimin %100\u0027üne yasal olarak sahip olabilir miyim?",
+                                          "a":  "Evet. SAIF Serbest Bölgesi %100 yabancı mülkiyete izin veriyor; yerel sponsor gerekmiyor."
+                                      },
+                                      {
+                                          "q":  "SAIF Serbest Bölgesi\u0027nde hangi vergi avantajlarından yararlanabilirsiniz?",
+                                          "a":  "Kişisel ve kurumlar vergisi sıfır, ithalat ve ihracatta gümrük vergisi yok ve kÃ¢rların tamamı geri gönderilebiliyor."
+                                      },
+                                      {
+                                          "q":  "SAIF Serbest Bölgesi\u0027nde ne tür olanaklar sunulmaktadır?",
+                                          "a":  "Kullanıma hazır ofis alanları, hafif sanayi üniteleri, depolar ve özelleştirilebilir sanayi arsaları."
+                                      },
+                                      {
+                                          "q":  "SAIF Serbest Bölgesi lojistik ve/veya üretim şirketleri için iyi bir seçenek mi?",
+                                          "a":  "Kesinlikle. SAIF, Şarjah Uluslararası Havalimanı\u0027nın hemen yanında yer alıyor ve ana otoyollara ve limanlara doğrudan erişim imkanı sunuyor; bu da lojistik, dağıtım, nakliye, üretim ve montaj için ideal bir konum sağlıyor."
+                                      },
+                                      {
+                                          "q":  "SAIF vize hizmetleriyle ilgili yardım almak mümkün mü?",
+                                          "a":  "Evet. Yatırımcı vizeleri, çalışan vizeleri, aile sponsorluğu, Emirates Kimlik Kartları, sağlık kontrolleri ve yenilemeleri konusunda hizmet veriyoruz."
+                                      },
+                                      {
+                                          "q":  "SAIF şirketlerinin hangi uyumluluk hizmetlerine ihtiyacı var?",
+                                          "a":  "Gerçek faydalanıcı raporlaması, ESR başvuruları, kara para aklama ile mücadele uyumluluğu, lisans yenilemeleri ve devam eden düzenleyici izleme."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "SAIF Serbest Bölge kurulumunuzla uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "pro-services",
+                                                     "title":  "PRO Hizmetleri",
+                                                     "description":  "Emirates kimlik kartı, çalışma kartları, vize damgalama ve yenileme işlemleri.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80",
+                                                     "gradient":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "SAIF\u0027te lansmana hazır mısınız?",
+                     "titleHighlight":  "SAIF?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisanslamadan lansmana kadar kurulum sürecinde size rehberlik edeceğiz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "Aynı Gün Kurulum",
+                                   "%0 Vergi"
+                               ],
+                     "whatsappMessage":  "Merhaba! SAIF kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! SAIF kurulumu hakkında görüşmek istiyorum."
+                 }
+}

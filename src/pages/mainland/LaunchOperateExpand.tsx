@@ -18,7 +18,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import launchData from '../../content/mainland/launch-operate-expand.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, Crown, UserCheck, Landmark, Shield, Rocket, Wallet, RefreshCw,
@@ -28,7 +29,9 @@ const iconMap: any = {
 };
 
 export default function LaunchOperateExpand({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.mainland || launchData;
+  const { language } = useLanguage();
+  const launchFallback = loadContent('mainland/launch-operate-expand', language);
+  const data = tinaData?.data?.mainland || launchFallback;
   const [activeLicense, setActiveLicense] = useState(0);
   const [openFaq, setOpenFaq] = useState<number | null>(0);
 

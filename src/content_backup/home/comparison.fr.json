@@ -1,0 +1,142 @@
+{
+    "badge":  "Structurez votre entreprise intelligemment",
+    "heading":  {
+                    "line1":  "Ce qui est meilleur pour vous "”",
+                    "highlight":  "Zone franche ou continent ?"
+                },
+    "subtitle":  "La structure juridique la plus adaptée À  votre entreprise dépend de votre zone d\u0027activité, du nombre de visas nécessaires et de votre budget. Voici un bref aperÀ§u.",
+    "vsLabel":  "CONTRE",
+    "zones":  [
+                  {
+                      "id":  "zone franche",
+                      "name":  "Zone franche",
+                      "short":  "FZ",
+                      "icon":  "Globe",
+                      "gradient":  "de Sky 400 À  Blue 600 en passant par Blue 500",
+                      "glow":  "rgba(14,165,233,0,4)",
+                      "accentText":  "texte-ciel-600",
+                      "accentBg":  "bg-sky-50",
+                      "accentBorder":  "front-ciel-200",
+                      "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200\u0026q=80",
+                      "badge":  "International",
+                      "tagline":  "Idéal pour les entreprises internationales",
+                      "bestFor":  "commerce international, services en ligne, conseil",
+                      "highlight":  "Propriété À  100 %, avantages fiscaux, exonération de droits de douane",
+                      "limitation":  "Visas limités en fonction de la taille du bureau",
+                      "ctaText":  "Explorez la configuration de la zone libre",
+                      "whatsappMessage":  "Bonjour ! Je suis intéressé par la création d\u0027une société en zone franche À  Dubaï.",
+                      "watermark":  "01"
+                  },
+                  {
+                      "id":  "continent",
+                      "name":  "continent",
+                      "short":  "ML",
+                      "icon":  "Bâtiment 2",
+                      "gradient":  "de violet 400 À  violet 500, puis À  violet 600",
+                      "glow":  "rgba(139,92,246,0.4)",
+                      "accentText":  "texte-violet-600",
+                      "accentBg":  "bg-violet-50",
+                      "accentBorder":  "bordure-violette-200",
+                      "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                      "badge":  "Marché local",
+                      "tagline":  "Idéal pour la croissance locale",
+                      "bestFor":  "Commerce de détail local, construction, restaurants, agences",
+                      "highlight":  "Accès total au marché des Émirats arabes unis, sans restrictions commerciales",
+                      "limitation":  "L\u0027accès À  des visas plus avantageux nécessite davantage d\u0027espace de bureaux.",
+                      "ctaText":  "Explorez la configuration du continent",
+                      "whatsappMessage":  "Bonjour ! Je suis intéressé par la création d\u0027une société basée À  Dubaï.",
+                      "watermark":  "02"
+                  }
+              ],
+    "bestForLabel":  "Idéal pour",
+    "tableHeaders":  {
+                         "features":  "Caractéristiques",
+                         "freezone":  "Zone franche",
+                         "mainland":  "continent"
+                     },
+    "features":  [
+                     {
+                         "icon":  "Portefeuille",
+                         "label":  "Possession",
+                         "freezone":  {
+                                          "value":  "100%",
+                                          "score":  100
+                                      },
+                         "mainland":  {
+                                          "value":  "100%",
+                                          "score":  100
+                                      }
+                     },
+                     {
+                         "icon":  "Tendances À  la hausse",
+                         "label":  "Avantages fiscaux",
+                         "freezone":  {
+                                          "value":  "0% - 9%",
+                                          "score":  90
+                                      },
+                         "mainland":  {
+                                          "value":  "0% - 9%",
+                                          "score":  85
+                                      }
+                     },
+                     {
+                         "icon":  "Cible",
+                         "label":  "Accès au marché des Émirats arabes unis",
+                         "freezone":  {
+                                          "value":  "Limité",
+                                          "score":  40
+                                      },
+                         "mainland":  {
+                                          "value":  "Complet",
+                                          "score":  100
+                                      }
+                     },
+                     {
+                         "icon":  "Utilisateurs",
+                         "label":  "Éligibilité au visa",
+                         "freezone":  {
+                                          "value":  "Limité",
+                                          "score":  60
+                                      },
+                         "mainland":  {
+                                          "value":  "Haut",
+                                          "score":  90
+                                      }
+                     },
+                     {
+                         "icon":  "Point de repère",
+                         "label":  "Commerce local",
+                         "freezone":  {
+                                          "value":  "Limité",
+                                          "score":  30
+                                      },
+                         "mainland":  {
+                                          "value":  "Illimité",
+                                          "score":  100
+                                      }
+                     },
+                     {
+                         "icon":  "Zap",
+                         "label":  "Vitesse de configuration",
+                         "freezone":  {
+                                          "value":  "3 À  7 jours",
+                                          "score":  95
+                                      },
+                         "mainland":  {
+                                          "value":  "2 À  4 semaines",
+                                          "score":  50
+                                      }
+                     }
+                 ],
+    "bottomCTA":  {
+                      "icon":  "Vérification du bouclier",
+                      "title":  "Vous hésitez encore sur le choix À  faire ?",
+                      "subtitle":  "Bénéficiez d\u0027une consultation gratuite. Nous analyserons votre activité et vous recommanderons la structure la plus adaptée.",
+                      "primaryCta":  "Parlez À  un expert",
+                      "secondaryCta":  "Appelez-nous",
+                      "phone":  "+971 56 655 6645",
+                      "phoneHref":  "tél. : +971566556645",
+                      "whatsappMessage":  "Bonjour ! J\u0027ai besoin d\u0027aide pour choisir entre la zone franche et le continent. Pourrions-nous en discuter ?",
+                      "backgroundImage":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600\u0026q=80"
+                  }
+}

@@ -18,7 +18,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import WhatsAppIcon from '../icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 import processData from '../../content/home/process.json';
 
 const iconMap: any = {
@@ -26,8 +27,9 @@ const iconMap: any = {
 };
 
 export default function Process({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || processData;
-  const containerRef = useRef<HTMLDivElement>(null);
+const { language } = useLanguage();
+const processFallback = loadContent('home/process', language);
+const data = tinaData?.data?.home || processFallback;  const containerRef = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({
     target: containerRef,
     offset: ['start end', 'end center'],

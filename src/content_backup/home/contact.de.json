@@ -1,0 +1,164 @@
+{
+    "badge":  "Nehmen Sie Kontakt auf",
+    "heading":  {
+                    "line1":  "Lasst uns beginnen",
+                    "highlight":  "Gesprí¤ch"
+                },
+    "subtitle":  "Von Startups bis hin zu etablierten Unternehmen "“ Dubais Firmen vertrauen auf unsere Expertise. Vereinbaren Sie noch heute eine kostenlose Beratung.",
+    "contactCards":  [
+                         {
+                             "icon":  "Telefon",
+                             "label":  "Rufen Sie uns an",
+                             "value":  "+971 56 655 6645",
+                             "sub":  "Montag bis Samstag: 9:00 bis 18:00 Uhr",
+                             "href":  "tel:+971566556645",
+                             "gradient":  "von Himmel-400 bis Blau-600",
+                             "glow":  "rgba(14,165,233,0.5)"
+                         },
+                         {
+                             "icon":  "Post",
+                             "label":  "Schreiben Sie uns eine E-Mail",
+                             "value":  "setupzonedubai@gmail.com",
+                             "sub":  "Wir antworten innerhalb von 24 Stunden.",
+                             "href":  "mailto:setupzonedubai@gmail.com",
+                             "gradient":  "von Violett-400 bis Lila-600",
+                             "glow":  "rgba(139,92,246,0.5)"
+                         },
+                         {
+                             "icon":  "MapPin",
+                             "label":  "Besuchen Sie uns",
+                             "value":  "Crystal Tower, Business Bay",
+                             "sub":  "Dubai, Vereinigte Arabische Emirate "” Postfach 554552",
+                             "href":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+                             "gradient":  "von Bernstein-400 bis Orange-600",
+                             "glow":  "rgba(245,158,11,0.5)"
+                         }
+                     ],
+    "workingHoursCard":  {
+                             "title":  "Arbeitszeit",
+                             "timezoneLabel":  "Dubai-Zeit (GST)",
+                             "todayBadge":  "Heute",
+                             "hours":  [
+                                           {
+                                               "day":  "Montag",
+                                               "hours":  "9:00 Uhr "“ 18:00 Uhr",
+                                               "active":  true
+                                           },
+                                           {
+                                               "day":  "Dienstag",
+                                               "hours":  "9:00 Uhr "“ 18:00 Uhr",
+                                               "active":  false
+                                           },
+                                           {
+                                               "day":  "Mittwoch",
+                                               "hours":  "9:00 Uhr "“ 18:00 Uhr",
+                                               "active":  false
+                                           },
+                                           {
+                                               "day":  "Donnerstag",
+                                               "hours":  "9:00 Uhr "“ 18:00 Uhr",
+                                               "active":  false
+                                           },
+                                           {
+                                               "day":  "Freitag",
+                                               "hours":  "9:00 Uhr "“ 18:00 Uhr",
+                                               "active":  false
+                                           },
+                                           {
+                                               "day":  "Samstag",
+                                               "hours":  "10:00 Uhr "“ 17:00 Uhr",
+                                               "active":  false
+                                           },
+                                           {
+                                               "day":  "Sonntag",
+                                               "hours":  "Geschlossen",
+                                               "active":  false,
+                                               "closed":  true
+                                           }
+                                       ]
+                         },
+    "trustBadges":  [
+                        {
+                            "icon":  "Zap",
+                            "label":  "\u003c 24 Stunden",
+                            "sub":  "Antwort"
+                        },
+                        {
+                            "icon":  "Sperren",
+                            "label":  "100%",
+                            "sub":  "Vertraulich"
+                        },
+                        {
+                            "icon":  "CheckCircle2",
+                            "label":  "Frei",
+                            "sub":  "Beratung"
+                        }
+                    ],
+    "form":  {
+                 "title":  "Senden Sie uns eine Nachricht",
+                 "subtitle":  "Füllen Sie das Formular aus, und unser Team wird sich innerhalb von 24 Stunden bei Ihnen melden.",
+                 "submitText":  "Nachricht senden",
+                 "privacyNote":  "Ihre Daten sind sicher und vertraulich.",
+                 "successTitle":  "WhatsApp wird geí¶ffnet... ðŸŽ‰",
+                 "successMessage":  "Bitte senden Sie die vorausgefüllte Nachricht ab, um Ihre Anfrage abzuschlieíŸen.",
+                 "whatsappNumber":  "971566556645",
+                 "whatsappSenderLine":  "Gesendet von setupzonedubai@gmail.com",
+                 "fields":  {
+                                "name":  {
+                                             "label":  "Vollstí¤ndiger Name",
+                                             "placeholder":  "John Smith",
+                                             "required":  true
+                                         },
+                                "email":  {
+                                              "label":  "E-Mail",
+                                              "placeholder":  "john@company.com",
+                                              "required":  true
+                                          },
+                                "phone":  {
+                                              "label":  "Telefonnummer",
+                                              "placeholder":  "+971 50 123 4567",
+                                              "required":  true
+                                          },
+                                "nationality":  {
+                                                    "label":  "Nationalití¤t",
+                                                    "placeholder":  "z.B. Briten, Inder",
+                                                    "required":  false
+                                                },
+                                "service":  {
+                                                "label":  "Service auswí¤hlen",
+                                                "placeholder":  "Wí¤hlen Sie einen Service...",
+                                                "required":  true
+                                            },
+                                "message":  {
+                                                "label":  "Ihre Nachricht",
+                                                "placeholder":  "Schildern Sie uns Ihre geschí¤ftlichen Bedürfnisse...",
+                                                "required":  true
+                                            }
+                            },
+                 "services":  [
+                                  "Unternehmensgründung "” Freizone",
+                                  "Unternehmensgründung "” Festland",
+                                  "Goldenes Visum",
+                                  "Kí¶rperschaftsteuer \u0026 Mehrwertsteuer",
+                                  "Erí¶ffnung eines Bankkontos",
+                                  "Buchhaltung \u0026 Finanzwesen",
+                                  "Compliance-Dienstleistungen",
+                                  "PRO-Dienstleistungen",
+                                  "Digitales Marketing",
+                                  "Webentwicklung",
+                                  "SEO-Dienstleistungen",
+                                  "Andere"
+                              ]
+             },
+    "map":  {
+                "title":  "Hauptsitz",
+                "address1":  "Crystal Tower, Business Bay",
+                "address2":  "Büro M08-27, 1. Etage, Millennium Central Same Building, Al Asayel StraíŸe, Dubai, VAE",
+                "directionsText":  "Wegbeschreibung",
+                "directionsLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+                "embedSrc":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
+                "quickContactLabel":  "Schnellkontakt",
+                "quickContactPhone":  "+971 56 655 6645",
+                "quickContactMessage":  "Hallo! Ich würde gerne Ihr Büro besuchen."
+            }
+}

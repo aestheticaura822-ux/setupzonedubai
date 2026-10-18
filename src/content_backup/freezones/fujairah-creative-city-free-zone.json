@@ -1,0 +1,190 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600&q=80",
+  "heroBadge": "Ideas Thrive in Fujairah",
+  "heroTitle": "Fujairah Creative City Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "One of the UAE's most accessible Free Zones for media professionals, digital entrepreneurs, and service-based startups. No audit, no paid-up capital, no office required.",
+  "heroChips": ["100% Ownership", "0% Tax", "No Office Required"],
+
+  "heroCard": {
+    "headerTitle": "Creative Passport",
+    "headerStatus": "FCC",
+    "icon": "Palette",
+    "zoneLabel": "Zone",
+    "zoneValue": "Fujairah Creative City",
+    "statusBadge": "Active",
+    "setupTimeLabel": "Setup Time",
+    "setupTimeValue": "3-7 Days",
+    "taxLabel": "Tax Rate",
+    "taxValue": "0%",
+    "footerText": "Launch Now"
+  },
+
+  "stats": [
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-amber-400 to-yellow-500" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-yellow-400 to-amber-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-orange-400 to-amber-600" },
+    { "icon": "Users", "value": "No Office", "label": "Required", "color": "from-amber-500 to-orange-500" }
+  ],
+
+  "startSection": {
+    "badge": "Start Your Business",
+    "title": "Launch in Fujairah Creative City",
+    "titleHighlight": "Fujairah Creative City",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+    "imageBadgeTitle": "Perfect For",
+    "imageBadgeText": "Freelancers & Startups",
+    "paragraphs": [
+      "Setting up in Fujairah Creative City Free Zone gives entrepreneurs and businesses the perfect platform to establish themselves in one of the UAE's most affordable and versatile free zones.",
+      "Built to support media, creative, consulting, and professional services industries — Creative City has quickly become a preferred destination for freelancers, start-ups, and companies seeking flexibility without heavy overheads.",
+      "Whether you're a freelancer looking for a cost-effective license, a consultant, a media or production company, or a digital entrepreneur — Creative City offers an easy and budget-friendly path to establish your presence."
+    ],
+    "highlights": ["No Office Required", "Flexible Visa Options", "Budget-Friendly", "Fully Compliant"]
+  },
+
+  "activitiesSection": {
+    "badge": "Business Activities",
+    "title": "What Business Activities Are Allowed in FCC?",
+    "titleHighlight": "Allowed in FCC?",
+    "subtitle": "A wide variety of creative, professional, educational, and technological activities.",
+    "items": [
+      { "icon": "Film", "title": "Film & TV Production", "description": "Media house for filming, editing, broadcasting, and post-production. FCC License protects studios, animation creators, and short-film producers.", "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80", "color": "from-amber-500 to-yellow-500" },
+      { "icon": "Newspaper", "title": "Publishing & Journalism", "description": "Online news platforms, content writers, magazine publishers, and investigative journalists — online, print, or multimedia.", "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80", "color": "from-orange-500 to-amber-600" },
+      { "icon": "Palette", "title": "Graphic Design & Creative Services", "description": "Logo design, campaign branding, digital advertising, motion graphics, packaging design, and UI/UX development.", "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200&q=80", "color": "from-yellow-500 to-amber-600" },
+      { "icon": "Code", "title": "Web & Mobile App Development", "description": "Custom websites, SaaS platforms, web and mobile applications, and e-commerce portals under a tech services license.", "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80", "color": "from-amber-400 to-orange-500" },
+      { "icon": "Briefcase", "title": "Management, Marketing & Consulting", "description": "Strategic planning, branding, growth consulting, digital marketing, SEO, and business operations assistance.", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80", "color": "from-orange-400 to-red-500" },
+      { "icon": "Scale", "title": "Accounting, Legal & HR Consulting", "description": "Financial reporting, regulatory compliance, tax remittance, employment contracts, and recruitment processes.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80", "color": "from-amber-500 to-orange-600" },
+      { "icon": "GraduationCap", "title": "E-learning & Online Training", "description": "Remote learning platforms — language training, skill development, or corporate certification companies.", "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80", "color": "from-yellow-500 to-amber-500" },
+      { "icon": "BookOpen", "title": "Educational Content Creation", "description": "Create, license, and distribute educational content — workbooks, courses, syllabus, or academic texts.", "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80", "color": "from-orange-500 to-amber-500" },
+      { "icon": "ShoppingCart", "title": "E-commerce Support Services", "description": "Back-office services — fulfilment support, e-store maintenance, product cataloguing, and e-store design.", "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80", "color": "from-amber-500 to-yellow-600" },
+      { "icon": "Lightbulb", "title": "Freelancing in Media, Tech, or Creative", "description": "Solo consultant, digital nomad, or scalable service business — a legally compliant, low-barrier path to entrepreneurship.", "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80", "color": "from-yellow-400 to-orange-500" }
+    ]
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "Licenses That Fit You",
+    "titleHighlight": "Fit You",
+    "subtitle": "Choose with or without visa packages — develop at your own pace.",
+    "items": [
+      { "icon": "UserCheck", "title": "Freelancer License", "description": "For individuals or sole traders working independently.", "code": "FRL", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Briefcase", "title": "Service License", "description": "For consultants or professionals — legal, IT, marketing, etc.", "code": "SRV", "color": "from-yellow-400 to-amber-600" },
+      { "icon": "Megaphone", "title": "Media License", "description": "For content producers, digital agencies, or media production.", "code": "MED", "color": "from-orange-400 to-amber-500" },
+      { "icon": "Store", "title": "Commercial License", "description": "For businesses offering several different services.", "code": "COM", "color": "from-amber-500 to-orange-600" },
+      { "icon": "Users2", "title": "Corporate License", "description": "Best for businesses with two or more partners or shareholders.", "code": "CRP", "color": "from-yellow-500 to-amber-500" }
+    ]
+  },
+
+  "workspacesSection": {
+    "badge": "Workspaces",
+    "title": "Office Infrastructure & Flexi-Desk Options",
+    "titleHighlight": "Flexi-Desk Options",
+    "subtitle": "Run a full-fledged operation without renting an operational office.",
+    "largeCard": {
+      "icon": "Globe",
+      "title": "No-Office Package",
+      "description": "Operate legally as a remote (not virtual) operation — perfect for freelancers and digital entrepreneurs who want zero overheads while staying fully compliant.",
+      "color": "from-amber-500 via-yellow-500 to-orange-600"
+    },
+    "secondaryCards": [
+      { "icon": "Monitor", "title": "Flexi-desks", "description": "Use shared office spaces on an as-required basis.", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Building2", "title": "Private Executive Offices", "description": "For bigger or team-based units needing dedicated space.", "color": "from-yellow-400 to-amber-600" }
+    ],
+    "bottomCards": [
+      { "icon": "Package", "title": "Optional Storage", "description": "On-demand storage space.", "color": "from-orange-400 to-amber-500" },
+      { "icon": "Users", "title": "Meeting Rooms", "description": "Professional meeting facilities.", "color": "from-amber-500 to-orange-500" },
+      { "icon": "Send", "title": "PO Box Access", "description": "Professional business address.", "color": "from-yellow-500 to-amber-500" }
+    ]
+  },
+
+  "visaSection": {
+    "badge": "Visa & Immigration",
+    "title": "Visa & Immigration Services",
+    "titleHighlight": "Services",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Visa Services",
+    "imageBadgeText": "Full Lifecycle Support",
+    "paragraphs": [
+      "We offer a full range of visa and immigration services so you stay compliant and your team can work legally. From investor visa applications for business owners to employer visa applications for employees — we manage the entire process.",
+      "Everything from Emirates ID applications, medical testing, and visa stamping to ongoing PRO services managing all documentation and government applications.",
+      "We'll set up a process to automate and track all requirements, ensuring you're alerted when to renew — so you never miss a date."
+    ],
+    "features": ["Investor Visa", "Employee Visa", "Emirates ID", "PRO Services", "Medical Tests", "Renewal Alerts"]
+  },
+
+  "postSetupSection": {
+    "badge": "Support You Can Trust",
+    "title": "Post-Setup Business Support Services",
+    "titleHighlight": "Support Services",
+    "subtitle": "Setting up your license is just the start — we build the foundation for long-term growth.",
+    "items": [
+      { "icon": "Monitor", "title": "Website & E-commerce Setup", "description": "Launch a professional website or online store.", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Layers", "title": "CRM & CMS Integration", "description": "Streamline operations with tailored platforms.", "color": "from-yellow-400 to-amber-600" },
+      { "icon": "BarChart3", "title": "Bookkeeping & VAT Registration", "description": "Accurate financial records and VAT filing.", "color": "from-orange-400 to-amber-500" },
+      { "icon": "Award", "title": "Business Profile & Branding", "description": "Investor-ready company profiles and branding kits.", "color": "from-amber-500 to-orange-600" },
+      { "icon": "CreditCard", "title": "Bank Account Assistance", "description": "Open UAE corporate bank accounts with right documents.", "color": "from-yellow-500 to-amber-500" },
+      { "icon": "Scale", "title": "Legal Structuring & Documents", "description": "Shareholder agreements and trademark setup.", "color": "from-orange-500 to-red-500" },
+      { "icon": "Megaphone", "title": "Marketing & Digital Tools", "description": "Social media, SEO, ad accounts, and email tools.", "color": "from-amber-400 to-orange-500" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Experts in Company Formation",
+    "title": "Why Choose Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "A trusted business setup partner with extensive experience in Fujairah Creative City formation.",
+    "items": [
+      { "icon": "Zap", "title": "Fast-Tracked Approvals", "description": "Quick processing through our TECOM relationships." },
+      { "icon": "ShieldCheck", "title": "Full Compliance with FCC Rules", "description": "Every step aligns with FCC regulations." },
+      { "icon": "Target", "title": "Personalized Business Structuring", "description": "Advice tailored to your industry and goals." },
+      { "icon": "DollarSign", "title": "Transparent, Fixed-Cost Packages", "description": "No hidden fees — clear pricing always." },
+      { "icon": "RefreshCw", "title": "Ongoing Business Support", "description": "Renewals, compliance, and post-setup help." },
+      { "icon": "Globe", "title": "Multi-Language Advisory", "description": "Global investor experience across languages." }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Fujairah Creative City. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our FCC specialists.",
+      "whatsappMessage": "Hi! I have a question about Fujairah Creative City Free Zone."
+    },
+    "items": [
+      { "q": "Is it possible to set up an FCC business from outside the UAE?", "a": "Yes. FCC allows startups to operate remotely. The process is mostly completed online or via Power of Attorney (POA), letting you conduct business in your absence." },
+      { "q": "How many visas can I get with my FCC license?", "a": "Visa quotas depend on your license package and office type. We help you choose the right combination." },
+      { "q": "Is this a viable option for freelancers?", "a": "Absolutely. FCC is one of the most freelancer-friendly Free Zones with cost-effective Freelancer Licenses and no-office packages." },
+      { "q": "Do I have to rent an office to obtain the license?", "a": "No. FCC offers no-office packages, so you can operate legally as a remote operation without renting physical space." },
+      { "q": "Can I upgrade or change my business activity at a later date?", "a": "Yes. FCC allows activity amendments and upgrades. We handle the process for you." },
+      { "q": "What documentation do I require to register?", "a": "Passport copies, passport-size photos, proposed business names, and an active email/contact number. We guide you through every document." },
+      { "q": "How quickly is the setup process?", "a": "Typically 3-7 business days with all documents ready." },
+      { "q": "Is FCC suitable for e-commerce or digital services?", "a": "Yes. FCC supports e-commerce support services, digital marketing, and tech businesses with flexible licensing." },
+      { "q": "Can I have support with banking and VAT?", "a": "Yes. We provide bank account assistance and VAT registration as part of our post-setup support." },
+      { "q": "Is FCC recognized internationally?", "a": "Yes. FCC is a UAE government-backed Free Zone recognized globally." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your FCC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-yellow-400 to-amber-600" },
+      { "slug": "digital-marketing", "title": "Digital Marketing", "description": "Social media, paid ads, and content strategy.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80", "gradient": "from-orange-400 to-amber-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Fujairah Creative City?",
+    "titleHighlight": "Fujairah Creative City?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "No Office Required", "3-7 Days Setup"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Fujairah Creative City setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Fujairah Creative City setup."
+  }
+}

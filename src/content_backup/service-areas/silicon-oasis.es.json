@@ -1,0 +1,287 @@
+{
+    "areaName":  "Oasis de silicio de Dubái",
+    "areaShort":  "Oasis de silicio",
+    "heroImage":  "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600\u0026q=80",
+    "heroBadge":  "VÁ­a de ServÁ­cio",
+    "heroTitle":  "CreaciÁ³n de empresas en Dubai Silicon Oasis",
+    "heroTitleHighlight":  "Oasis de silicio de Dubái",
+    "heroSubtitle":  "Dubai Silicon Oasis (DSO) es la zona franca de Dubái centrada en la tecnologÁ­a, construida y gestionada por la Autoridad de Zonas EconÁ³micas Integradas de Dubái (DIEZ). Diseñada para empresas de electrÁ³nica, informática, software, comercio electrÁ³nico, inteligencia artificial e industria, se ubica en un parque tecnolÁ³gico autÁ³nomo de 7 kilÁ³metros cuadrados.",
+    "stats":  [
+                  {
+                      "icon":  "Edificio 2",
+                      "value":  "Más de 400",
+                      "label":  "ConstituciÁ³n de empresas",
+                      "color":  "de cian 400 a cielo 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "3-7",
+                      "label":  "ConfiguraciÁ³n de dÁ­as",
+                      "color":  "del cielo 400 al azul 600"
+                  },
+                  {
+                      "icon":  "Globo",
+                      "value":  "100%",
+                      "label":  "Propiedad",
+                      "color":  "de azul 400 a Á­ndigo 600"
+                  },
+                  {
+                      "icon":  "Signo de dÁ³lar",
+                      "value":  "9.000 AED",
+                      "label":  "A partir de",
+                      "color":  "de Á­ndigo 400 a violeta 600"
+                  }
+              ],
+    "whyChooseSection":  {
+                             "badge":  "¿Por qué establecerse en Silicon Oasis?",
+                             "title":  "Parque TecnolÁ³gico de Dubái",
+                             "titleHighlight":  "Parque TecnolÁ³gico",
+                             "image":  "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200\u0026q=80",
+                             "imageBadgeTitle":  "UbicaciÁ³n",
+                             "imageBadgeText":  "Silicon Oasis, Dubái",
+                             "paragraph":  "Dubai Silicon Oasis es un parque tecnolÁ³gico autosuficiente donde oficinas, almacenes y villas residenciales se ubican una al lado de la otra.",
+                             "items":  [
+                                           {
+                                               "icon":  "UPC",
+                                               "title":  "Amigable con la tecnologÁ­a y la fabricaciÁ³n.",
+                                               "desc":  "Permisos para software, electrÁ³nica, almacenamiento e I+D."
+                                           },
+                                           {
+                                               "icon":  "Edificio 2",
+                                               "title":  "Autoridad de propiedad gubernamental",
+                                               "desc":  "DSOA/DIEZ emite la licencia directamente "” digital y transparente"
+                                           },
+                                           {
+                                               "icon":  "Usuarios",
+                                               "title":  "Comunidad integrada",
+                                               "desc":  "Oficinas, almacenes y villas residenciales en un mismo parque."
+                                           },
+                                           {
+                                               "icon":  "Globo",
+                                               "title":  "Propiedad 100% extranjera",
+                                               "desc":  "Impuesto sobre la renta del 0%: beneficios estándar de las zonas francas."
+                                           }
+                                       ]
+                         },
+    "licenseTypesSection":  {
+                                "badge":  "Tipos de licencia",
+                                "title":  "Tipos de licencias DSO",
+                                "titleHighlight":  "Tipos de licencia",
+                                "subtitle":  "Elige la licencia adecuada para tu actividad empresarial.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Carro de la compra",
+                                                  "name":  "Comercio",
+                                                  "desc":  "ElectrÁ³nica, hardware informático, comercio en general",
+                                                  "cost":  "Desde 9.000 AED",
+                                                  "color":  "de cian 400 a cielo 600"
+                                              },
+                                              {
+                                                  "icon":  "MaletÁ­n",
+                                                  "name":  "Servicio / ConsultorÁ­a",
+                                                  "desc":  "Software, servicios digitales, consultorÁ­a, marketing",
+                                                  "cost":  "Desde 9.000 AED",
+                                                  "color":  "del cielo 400 al azul 600"
+                                              },
+                                              {
+                                                  "icon":  "Fábrica",
+                                                  "name":  "Industrial / FabricaciÁ³n",
+                                                  "desc":  "Ensamblaje, producciÁ³n, almacenamiento",
+                                                  "cost":  "Desde 12.000 AED",
+                                                  "color":  "de azul 400 a Á­ndigo 600"
+                                              },
+                                              {
+                                                  "icon":  "Carro de la compra",
+                                                  "name":  "Comercio electrÁ³nico",
+                                                  "desc":  "Comercio minorista en lÁ­nea con opciÁ³n de almacenamiento.",
+                                                  "cost":  "Desde 10.000 AED",
+                                                  "color":  "de Á­ndigo 400 a violeta 600"
+                                              }
+                                          ]
+                            },
+    "officeOptionsSection":  {
+                                 "badge":  "Opciones de oficina",
+                                 "title":  "Opciones de oficina en DSO",
+                                 "titleHighlight":  "DSO",
+                                 "subtitle":  "Escritorios flexibles, escritorios dedicados, oficinas privadas y unidades con servicios.",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Usuarios",
+                                                   "title":  "Escritorios flexibles",
+                                                   "desc":  "SoluciÁ³n de espacio de trabajo flexible"
+                                               },
+                                               {
+                                                   "icon":  "Edificio 2",
+                                                   "title":  "Escritorios dedicados",
+                                                   "desc":  "Tu propio espacio de trabajo exclusivo"
+                                               },
+                                               {
+                                                   "icon":  "MaletÁ­n",
+                                                   "title":  "Oficinas privadas",
+                                                   "desc":  "Espacios de oficina privados"
+                                               },
+                                               {
+                                                   "icon":  "Servidor",
+                                                   "title":  "Unidades revisadas",
+                                                   "desc":  "Unidades totalmente revisadas"
+                                               },
+                                               {
+                                                   "icon":  "Fábrica",
+                                                   "title":  "Espacio de almacén",
+                                                   "desc":  "Para licencias industriales"
+                                               },
+                                               {
+                                                   "icon":  "Disco duro",
+                                                   "title":  "Espacio de fabricaciÁ³n",
+                                                   "desc":  "Dentro del parque"
+                                               }
+                                           ]
+                             },
+    "comparisonSection":  {
+                              "badge":  "ComparaciÁ³n",
+                              "title":  "DSO frente a otras zonas francas: cÁ³mo elegir",
+                              "titleHighlight":  "CÁ³mo elegir",
+                              "items":  [
+                                            {
+                                                "name":  "DSO",
+                                                "desc":  "Elige si necesitas tecnologÁ­a, comercio electrÁ³nico con almacenamiento o fabricaciÁ³n ligera.",
+                                                "color":  "de cian 400 a cielo 600",
+                                                "highlight":  true
+                                            },
+                                            {
+                                                "name":  "DMCC (JLT)",
+                                                "desc":  "OpciÁ³n ideal para el comercio de materias primas y la infraestructura de comercio internacional.",
+                                                "color":  "del cielo 400 al azul 600",
+                                                "highlight":  false
+                                            },
+                                            {
+                                                "name":  "IFZA",
+                                                "desc":  "Elija la opciÁ³n más econÁ³mica para consultores/autÁ³nomos con domicilio en Dubái.",
+                                                "color":  "de azul 400 a Á­ndigo 600",
+                                                "highlight":  false
+                                            },
+                                            {
+                                                "name":  "Continente",
+                                                "desc":  "Elige si debes comerciar con el gobierno de los EAU o abrir una tienda minorista.",
+                                                "color":  "de Á­ndigo 400 a violeta 600",
+                                                "highlight":  false
+                                            }
+                                        ]
+                          },
+    "processSection":  {
+                           "badge":  "Proceso",
+                           "title":  "Proceso de configuraciÁ³n en DSO",
+                           "titleHighlight":  "DSO",
+                           "steps":  [
+                                         {
+                                             "num":  "01",
+                                             "title":  "Confirmar cÁ³digo de actividad",
+                                             "desc":  "Verificar la idoneidad de la jurisdicciÁ³n (zona franca frente a territorio continental).",
+                                             "color":  "de cian 400 a cielo 600"
+                                         },
+                                         {
+                                             "num":  "02",
+                                             "title":  "Reservar nombre comercial",
+                                             "desc":  "Con la autoridad de DSOA",
+                                             "color":  "del cielo 400 al azul 600"
+                                         },
+                                         {
+                                             "num":  "03",
+                                             "title":  "Preparar documentos",
+                                             "desc":  "Copias de pasaportes y documentos comerciales",
+                                             "color":  "de azul 400 a Á­ndigo 600"
+                                         },
+                                         {
+                                             "num":  "04",
+                                             "title":  "Enviar solicitud",
+                                             "desc":  "La aprobaciÁ³n suele tardar entre 3 y 7 dÁ­as hábiles.",
+                                             "color":  "de Á­ndigo 400 a violeta 600"
+                                         },
+                                         {
+                                             "num":  "05",
+                                             "title":  "Recibir licencia",
+                                             "desc":  "Solicita la visa y abre una cuenta bancaria.",
+                                             "color":  "de violeta 400 a pÁºrpura 600"
+                                         }
+                                     ]
+                       },
+    "areaFaqsSection":  {
+                            "badge":  "Preguntas frecuentes de la zona",
+                            "title":  "Preguntas frecuentes",
+                            "titleHighlight":  "Preguntas",
+                            "items":  [
+                                          {
+                                              "q":  "¿Forma parte Dubai Silicon Oasis del gobierno de Dubái?",
+                                              "a":  "Está gestionada por la Autoridad de Zonas EconÁ³micas Integradas de Dubái (DIEZ, por sus siglas en inglés), una entidad gubernamental de Dubái, por lo que la licencia la expide directamente una autoridad oficial."
+                                          },
+                                          {
+                                              "q":  "¿Puedo vivir y trabajar en DSO?",
+                                              "a":  "SÁ­, DSO incluye comunidades residenciales, por lo que puedes alquilar un alojamiento cerca de tu oficina."
+                                          },
+                                          {
+                                              "q":  "¿Permite una licencia DSO importar y exportar?",
+                                              "a":  "SÁ­, las licencias comerciales incluyen la actividad de importaciÁ³n/exportaciÁ³n de los productos que figuran en su licencia."
+                                          },
+                                          {
+                                              "q":  "¿Cuál es el costo mÁ­nimo para comenzar en DSO?",
+                                              "a":  "El precio de una licencia de servicios o comercial parte de unos 9.000 AED, y los servicios de visado y representaciÁ³n legal se cotizan por separado."
+                                          }
+                                      ]
+                        },
+    "quickAnswersSection":  {
+                                "badge":  "Respuestas rápidas",
+                                "title":  "Respuestas rápidas",
+                                "titleHighlight":  "Respuestas",
+                                "subtitle":  "Preguntas frecuentes sobre la creaciÁ³n de una empresa en Dubái. ¿AÁºn tienes dudas? Contáctanos.",
+                                "relatedServicesTitle":  "Servicios y guÁ­as relacionados",
+                                "items":  [
+                                              {
+                                                  "q":  "¿Cuánto cuesta iniciar un negocio en Dubái?",
+                                                  "a":  "Establecer un negocio en Dubái tiene un costo inicial de 9500 AED para una licencia básica de zona franca. En el territorio continental de Estados Unidos, el costo inicial es de 14 500 AED."
+                                              },
+                                              {
+                                                  "q":  "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+                                                  "a":  "SÁ­, los extranjeros pueden ser propietarios al 100% de las empresas en la mayorÁ­a de las zonas francas y en muchas actividades en China continental."
+                                              },
+                                              {
+                                                  "q":  "¿Cuál es la zona franca más barata de Dubái?",
+                                                  "a":  "RAK ICC, Ajman FTZ y SRTIP ofrecen los paquetes más econÁ³micos a partir de 5.900 AED."
+                                              },
+                                              {
+                                                  "q":  "¿Cuánto tiempo tarda el proceso de registro de una empresa en Dubái?",
+                                                  "a":  "El registro en la zona franca tarda de 3 a 7 dÁ­as hábiles. En el territorio continental, de 2 a 4 semanas."
+                                              },
+                                              {
+                                                  "q":  "¿Necesito un socio local en Dubái?",
+                                                  "a":  "No en las zonas francas. En China continental, muchas actividades ahora permiten la propiedad extranjera al 100%."
+                                              }
+                                          ],
+                                "relatedServices":  [
+                                                        {
+                                                            "icon":  "Edificio 2",
+                                                            "title":  "CreaciÁ³n de empresas en Al Barsha",
+                                                            "desc":  "Explora las opciones de configuraciÁ³n en Al Barsha",
+                                                            "color":  "de cian 400 a cielo 600",
+                                                            "link":  "/service-areas/al-barsha"
+                                                        },
+                                                        {
+                                                            "icon":  "Texto del archivo",
+                                                            "title":  "ConfiguraciÁ³n de negocios en JVC",
+                                                            "desc":  "Explora las opciones de configuraciÁ³n en JVC.",
+                                                            "color":  "del cielo 400 al azul 600",
+                                                            "link":  "/service-areas/jvc"
+                                                        }
+                                                    ]
+                            },
+    "finalCTA":  {
+                     "badge":  "¿Listo para empezar?",
+                     "title":  "¿Listo para iniciar tu negocio en Silicon Oasis?",
+                     "titleHighlight":  "Oasis de silicio",
+                     "subtitle":  "Contacte hoy mismo con nuestro equipo de expertos en constituciÁ³n de empresas para una consulta gratuita. Le ayudaremos a elegir la jurisdicciÁ³n más adecuada para su empresa tecnolÁ³gica o industrial.",
+                     "primaryCta":  "Contáctanos ahora",
+                     "secondaryCta":  "+971 56 655 6645",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "¡Hola! Quiero establecer mi negocio en Silicon Oasis."
+                 }
+}

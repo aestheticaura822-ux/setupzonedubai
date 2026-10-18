@@ -1,0 +1,188 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1600&q=80",
+    "breadcrumbParent": "Free Zones",
+    "breadcrumbLabel": "Dubai Healthcare City",
+    "badge": "Dubai Healthcare City",
+    "title": "Dubai Healthcare City",
+    "titleHighlight": "Healthcare City",
+    "subtitle": "The world's largest free zone dedicated to healthcare and wellness. Launch your medical, pharmaceutical, or wellness business in Dubai's flagship healthcare hub.",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Dubai Healthcare City Free Zone setup.",
+    "badges": ["100% Ownership", "0% Tax", "Medical Hub", "3-5 Days Setup"]
+  },
+
+  "stats": [
+    { "icon": "Building2", "value": "500+", "label": "Healthcare Partners", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-sky-400 to-blue-600" }
+  ],
+
+  "dashboardCard": {
+    "title": "DHCC Medical Hub",
+    "totalLabel": "Zone",
+    "totalValue": "Dubai, UAE",
+    "statusBadge": "Active",
+    "metrics": [
+      { "label": "Setup Time", "value": "3-5 Days", "color": "text-teal-600" },
+      { "label": "Partners", "value": "500+", "color": "text-cyan-600" }
+    ]
+  },
+
+  "whyDhcc": {
+    "badge": "Why DHCC",
+    "title": "Why Choose Dubai Healthcare City?",
+    "titleHighlight": "Dubai Healthcare City?",
+    "subtitle": "The region's only free zone exclusively dedicated to healthcare, wellness, and medical education.",
+    "smallCards": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership with no local sponsor required — complete control over your medical practice.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "DollarSign", "title": "0% Tax Environment", "description": "No corporate or personal income tax — maximize profitability for your healthcare business.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "ShieldCheck", "title": "DHA Regulatory Support", "description": "Direct access to Dubai Health Authority licensing and regulatory framework.", "color": "from-cyan-400 to-sky-600" }
+    ],
+    "largeCard": {
+      "icon": "HeartPulse",
+      "title": "World's Largest Healthcare Free Zone",
+      "description": "Home to 500+ healthcare partners, world-class hospitals, clinics, and medical education institutions — with integrated licensing and infrastructure.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80"
+    },
+    "smallCard2": {
+      "icon": "Building2",
+      "title": "Integrated Medical Ecosystem",
+      "description": "Hospitals, clinics, pharmacies, labs, and research centers all in one purpose-built district.",
+      "color": "from-teal-500 via-cyan-600 to-teal-700"
+    }
+  },
+
+  "whoCanOpenSection": {
+    "badge": "Who Can Open",
+    "title": "Who Can Open a Business in DHCC?",
+    "titleHighlight": "Business in DHCC?",
+    "subtitle": "A wide range of healthcare and medical professionals can establish their practice.",
+    "items": [
+      { "icon": "Stethoscope", "label": "Physicians & Surgeons" },
+      { "icon": "Pill", "label": "Pharmacies & Pharmacists" },
+      { "icon": "Activity", "label": "Diagnostic Labs" },
+      { "icon": "Brain", "label": "Mental Health & Therapy" },
+      { "icon": "HeartPulse", "label": "Specialty Clinics" },
+      { "icon": "Smile", "label": "Dental Practices" },
+      { "icon": "Ambulance", "label": "Emergency Services" },
+      { "icon": "Dna", "label": "Research & Biotech" },
+      { "icon": "UserCheck", "label": "Nursing & Home Care" },
+      { "icon": "Monitor", "label": "HealthTech & Telemedicine" },
+      { "icon": "FileBadge", "label": "Medical Education" },
+      { "icon": "Package", "label": "Medical Equipment Trading" }
+    ]
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "DHCC License Types",
+    "titleHighlight": "License Types",
+    "items": [
+      { "icon": "Stethoscope", "title": "Medical License", "description": "For physicians, clinics, hospitals, and specialty medical centers.", "code": "MED", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Pill", "title": "Pharmaceutical License", "description": "For pharmacies, pharma trading, and medical distribution businesses.", "code": "PHR", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Activity", "title": "Diagnostic & Lab License", "description": "For diagnostic centers, pathology labs, and imaging facilities.", "code": "LAB", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Briefcase", "title": "Professional License", "description": "For medical consultants, health advisors, and wellness coaches.", "code": "PRO", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Monitor", "title": "HealthTech License", "description": "For telemedicine, digital health, and medical SaaS platforms.", "code": "HTC", "color": "from-violet-400 to-purple-600" },
+      { "icon": "FileBadge", "title": "Education License", "description": "For medical training centers, nursing schools, and CME providers.", "code": "EDU", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "documentsSectionDhcc": {
+    "badge": "Documents Required",
+    "title": "Documents Required for DHCC Setup",
+    "titleHighlight": "DHCC Setup",
+    "items": [
+      { "icon": "FileText", "label": "Passport Copies", "description": "Valid passport copies of all shareholders and managers." },
+      { "icon": "FileCheck", "label": "Business Plan", "description": "Detailed business plan including services and target market." },
+      { "icon": "BadgeCheck", "label": "Professional Qualifications", "description": "Medical degrees, licenses, and DHA eligibility for healthcare practitioners." },
+      { "icon": "FileBadge", "label": "Trade Name Reservation", "description": "Approved trade name certificate from DHCC authority." },
+      { "icon": "MapPin", "label": "Address Proof", "description": "Proof of address and contact details of shareholders." },
+      { "icon": "CreditCard", "label": "Photo & Signature", "description": "Passport-size photographs and specimen signatures." }
+    ]
+  },
+
+  "setupProcessSectionDhcc": {
+    "badge": "Setup Process",
+    "title": "DHCC Setup in 5 Steps",
+    "titleHighlight": "in 5 Steps",
+    "subtitle": "Launch your healthcare business in Dubai with our guided process.",
+    "steps": [
+      { "step": "01", "icon": "Target", "title": "Choose Activity & License", "description": "Select the right healthcare activity and license type for your business.", "color": "from-teal-400 to-cyan-600", "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80" },
+      { "step": "02", "icon": "FileText", "title": "Reserve Trade Name", "description": "Reserve your medical business name with DHCC and pay the reservation fee.", "color": "from-cyan-400 to-sky-600", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80" },
+      { "step": "03", "icon": "FileCheck", "title": "Submit Documents", "description": "Prepare and submit all required documents including medical qualifications.", "color": "from-sky-400 to-blue-600", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80" },
+      { "step": "04", "icon": "BadgeCheck", "title": "License Issuance", "description": "Receive your DHCC healthcare license and DHA approval.", "color": "from-emerald-400 to-teal-600", "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80" },
+      { "step": "05", "icon": "CreditCard", "title": "Visa & Bank Account", "description": "Complete visa processing and open your corporate bank account.", "color": "from-violet-400 to-purple-600", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80" }
+    ]
+  },
+
+  "whyTrustUsSection": {
+    "badge": "Why Trust Us",
+    "title": "Why Trust Setup Zone Dubai for DHCC?",
+    "titleHighlight": "for DHCC?",
+    "items": [
+      { "icon": "Award", "title": "10+ Years of Experience", "description": "Over a decade of experience in UAE healthcare business setup and licensing." },
+      { "icon": "Users", "title": "Dedicated Healthcare Consultants", "description": "Specialized team with deep knowledge of DHA regulations and DHCC requirements." },
+      { "icon": "ShieldCheck", "title": "End-to-End Support", "description": "From license application to DHA approvals, visas, and bank account opening." },
+      { "icon": "Zap", "title": "Fast Turnaround", "description": "Streamlined process with priority submissions for faster approvals." },
+      { "icon": "DollarSign", "title": "Transparent Pricing", "description": "No hidden fees — clear, all-inclusive packages for every business type." }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Healthcare City Free Zone.",
+    "items": [
+      { "q": "What is Dubai Healthcare City (DHCC)?", "a": "DHCC is the world's largest free zone dedicated to healthcare and wellness, located in Dubai. It's home to 500+ healthcare partners including hospitals, clinics, pharmacies, labs, and medical education institutions." },
+      { "q": "Who can open a business in DHCC?", "a": "Physicians, surgeons, pharmacists, diagnostic labs, mental health professionals, dental practices, medical researchers, nursing services, health-tech companies, and medical educators can establish in DHCC." },
+      { "q": "What licenses are available in DHCC?", "a": "Medical License, Pharmaceutical License, Diagnostic & Lab License, Professional License, HealthTech License, and Education License." },
+      { "q": "Do I need DHA approval to operate in DHCC?", "a": "Yes. Healthcare practitioners and facilities require Dubai Health Authority (DHA) licensing and regulatory approval, which we help you obtain." },
+      { "q": "How long does it take to set up in DHCC?", "a": "Typically 3-5 working days for company setup, and 4-8 weeks for full DHA healthcare licensing depending on the activity." },
+      { "q": "Can I get 100% foreign ownership in DHCC?", "a": "Yes. DHCC allows 100% foreign ownership — no local sponsor required." },
+      { "q": "What are the tax benefits of DHCC?", "a": "0% corporate and personal income tax with full repatriation of profits and capital." },
+      { "q": "What support does Setup Zone Dubai provide for DHCC?", "a": "We handle license application, DHA approval, trade name reservation, document preparation, visas, bank account opening, and ongoing compliance." },
+      { "q": "Do I need medical qualifications to open a healthcare business in DHCC?", "a": "Yes for clinical activities — medical degrees, licenses, and DHA eligibility are required. Non-clinical activities may have different requirements." },
+      { "q": "What office options are available in DHCC?", "a": "Flexi-desks, executive offices, clinics, labs, and purpose-built medical facilities depending on your business type." }
+    ]
+  },
+
+  "relatedServices": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DHCC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-teal-400 to-cyan-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in DHCC?",
+    "titleHighlight": "DHCC?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire DHCC setup process — from license to DHA approval and launch.",
+    "primaryCta": "WhatsApp Us",
+    "whatsappMessage": "Hi! I'd like a free consultation for DHCC setup.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": ["Free Consultation", "500+ Clients", "3-5 Days Setup"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

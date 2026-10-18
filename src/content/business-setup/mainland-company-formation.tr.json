@@ -1,0 +1,473 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Geleceğinizi Setup Zone Dubai ile İnşa Edin",
+  "heroTitle": "Dubai'de Anakara Şirketi Kurulumu",
+  "heroTitleHighlight": "Dubai'de Kuruluş",
+  "heroSubtitle": "Birleşik Arap Emirlikleri ekonomisine giden yolunuz. İşletme ruhsatı, oturum vizesi yardımı, bankacılık desteği ve kurulum sonrası hizmetler - baştan sona.",
+  "heroChips": [
+    "7 Emirates Erişimi",
+    "%100 Sahiplik",
+    "Devlet Sözleşmeleri",
+    "2-5 Günlük Lisans"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "7",
+      "label": "Emirates Erişimi",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Landmark",
+      "value": "Açık",
+      "label": "Devlet Sözleşmeleri",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-5",
+      "label": "Günler Lisanslama",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "introSection": {
+    "badge": "Birleşik Arap Emirlikleri Ekonomisine Giden Yolunuz",
+    "title": "Birleşik Arap Emirlikleri Pazarına Tam Erişim",
+    "titleHighlight": "BAE Pazarına Erişim",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "DET Onaylı",
+    "imageBadgeText": "Anakara Lisansı",
+    "paragraphs": [
+      "Dubai Anakara Şirket Kurulumu, size BAE ekonomisinin tamamına açılan bir kapıdır ve Dubai, Birleşik Arap Emirlikleri ve uluslararası alanda iş yapmanıza olanak tanır.",
+      "Dubai'de iş yapmanın harika bir kapısı olmasının yanı sıra, Çin anakarası size müşterilere, yatırımcılara ve devlet sözleşmelerine benzersiz erişim imkanı sunar.",
+      "İster ilk işinizi kuruyor olun ister küresel şirketinizin erişimini genişletiyor olun, Dubai anakarasında yerleşmek, BAE ekonomisine erişim sağlamak için muhteşem bir fırsattır. Setup Zone Dubai'de, işletme ruhsatı, oturum vizesi yardımı, bankacılık desteği ve kurulum sonrası hizmetler de dahil olmak üzere, anakaradaki şirketinizin kurulumunda size tam uyumlulukla yardımcı oluyoruz."
+    ],
+    "highlights": [
+      "Birleşik Arap Emirlikleri'ne Tam Erişim",
+      "Yatırımcı Erişimi",
+      "Devlet Sözleşmeleri",
+      "Bankacılık Desteği",
+      "Vize İşlemleri",
+      "Kurulum Sonrası Hizmetler"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "Anakara Lisans Seçenekleri",
+    "title": "Anakara'da Hangi Lisansları Alabilirsiniz?",
+    "titleHighlight": "Anakara Lisansları",
+    "subtitle": "5 farklı lisans türü arasından faaliyetinize uygun olanı seçin.",
+    "items": [
+      {
+        "id": "trade",
+        "icon": "StoreIcon",
+        "title": "Ticaret Lisansı",
+        "tagline": "Alım, Satım ve Dağıtım",
+        "description": "İthalat/ihracat işletmeleri, toptancılar, perakende mağazaları ve dağıtımcılar için uygundur; hem BAE genelinde hem de uluslararası alanda ticaret yapabilirler.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": [
+          "İthalat/İhracat",
+          "Toptan",
+          "Perakende Mağazaları",
+          "Dağıtıcılar"
+        ],
+        "bestFor": "Tüccarlar"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Profesyonel / Hizmet Lisansı",
+        "tagline": "Uzmanlık ve Danışmanlık",
+        "description": "Danışmanlar, BT hizmetleri, pazarlama ajansları, eğitimciler ve sağlık profesyonelleri için en uygun seçenek olup, %100 sahiplik seçeneği sunmaktadır.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "Danışmanlar",
+          "BT Hizmetleri",
+          "Pazarlama",
+          "Sağlık hizmeti"
+        ],
+        "bestFor": "Hizmet Sağlayıcılar"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Sanayi Lisansı",
+        "tagline": "İmalat ve Üretim",
+        "description": "Sanayi arazisine erişimi olan ve devlet desteği alan imalat, üretim ve endüstriyel montaj işletmeleri için.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "Üretme",
+          "Üretme",
+          "Toplantı",
+          "Sanayi Arazisi"
+        ],
+        "bestFor": "Üreticiler"
+      },
+      {
+        "id": "tourism",
+        "icon": "Plane",
+        "title": "Turizm Lisansı",
+        "tagline": "Seyahat ve Konaklama",
+        "description": "Birleşik Arap Emirlikleri turizm sektöründe müşterilerine hizmet veren seyahat acenteleri, tur şirketleri ve oteller için.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "Seyahat Acenteleri",
+          "Tur Şirketleri",
+          "Oteller",
+          "Konukseverlik"
+        ],
+        "bestFor": "Turizm İşletmeleri"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "E-ticaret Lisansı",
+        "tagline": "Dijital Odaklı İşletme",
+        "description": "Dijital öncelikli, ancak fiziksel varlığı olan bir işletme kurmak için; çevrimiçi satışları showroom veya depo operasyonlarıyla birleştirmek.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "Çevrimiçi Mağaza",
+          "Fiziksel Varlık",
+          "Depolama",
+          "Çok Kanallı"
+        ],
+        "bestFor": "E-ticaret Markaları"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Neler Dahil?",
+    "title": "Anakara Eğitim Hizmetlerimiz",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "Sekiz uçtan uca hizmet — her şey hallediliyor.",
+    "items": [
+      {
+        "icon": "Target",
+        "title": "İş Faaliyeti Sınıflandırması",
+        "description": "DET ile lisans türünüzü belirleyin ve para cezalarından kaçının.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Şirket Adı Rezervasyonu",
+        "description": "Benzersiz bir isim kullanın ve onayları alırken mevzuata uygun bir yaklaşım benimseyin.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Ticaret Ruhsatı Başvurusu",
+        "description": "DET'e kayıt olma süreci; ilk onay, mutabakat zaptı, kira sözleşmesi ve nihai lisansı içerir.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Kurulum Sonrası Uyumluluk",
+        "description": "KDV kaydı, ESR/UBO raporlaması ve muhasebe kurulumu konusunda rehberlik.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Ofis Alanı Yardımı",
+        "description": "Dubai anakarasındaki onaylı lokasyonlar için kiralama işlemlerinin yapılmasında yardım.",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Handshake",
+        "title": "Yerel Servis Temsilcisi (gerekirse)",
+        "description": "Birleşik Arap Emirlikleri vatandaşlarının katılımını gerektiren faaliyetler için şeffaf kurum düzenlemeleri.",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Banka Hesabı Açma",
+        "description": "Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal hesap açılmasını kolaylaştırın.",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Neden anakara?",
+    "title": "Anakara'da İş Kurmanın Faydaları",
+    "titleHighlight": "Anakara İşletme Kurulumu",
+    "subtitle": "Ölçeklenebilir işletmeler için yedi güçlü avantaj.",
+    "items": [
+      {
+        "icon": "StoreIcon",
+        "label": "Birleşik Arap Emirlikleri ve Körfez İşbirliği Konseyi ülkelerinde satış yapın.",
+        "desc": "Tam ticari özgürlüğe sahip ürünler/hizmetler",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "label": "Küresel Ölçekte Faaliyet Gösterin",
+        "desc": "Coğrafi sınırlama yok.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Wallet",
+        "label": "Kârları ve Sermayeyi Geri Getirme",
+        "desc": "Tam finansal özgürlük",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Users",
+        "label": "B2B ve B2C Müşterilerine Erişim",
+        "desc": "BAE'nin yerel müşteri tabanı",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Landmark",
+        "label": "Devlet Sözleşmeleri İçin Teklif Verme",
+        "desc": "Kamu ve yarı kamu ihaleleri",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "Uzun Süreli İkamet",
+        "desc": "Yatırımcı vizesi uygunluğu yoluyla",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Sıfır Kurumlar Vergisi",
+        "desc": "Mevcut eşiklerde",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "Ölçeklendirmeye hazır mısınız?",
+      "text": "Uzmanlarımızla konuşun",
+      "buttonText": "Başlayın",
+      "whatsappMessage": "Merhaba! Anakara'daki işletmemi büyütmeye hazırım."
+    }
+  },
+  "whoShouldConsiderSection": {
+    "badge": "Bu Kimin İçin?",
+    "title": "Kimler Çin anakarasındaki bir şirketi tercih etmeli?",
+    "titleHighlight": "Anakara Şirketi mi?",
+    "subtitle": "Anakara lisansı, neredeyse her ciddi iş modeline uygundur.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "E-ticaret Markaları",
+        "description": "Lojistik desteğiyle birlikte çevrimiçi operasyonlar için esnek ofis ve depo alanı arıyoruz.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Hukuk, Medya, Teknoloji ve Pazarlama Danışmanlıkları",
+        "description": "Birleşik Arap Emirlikleri genelinde tam mülkiyet ve operasyonel erişim istiyoruz.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "icon": "Utensils",
+        "title": "Yiyecek ve İçecek, Güzellik Salonları, Klinikler, Spor Salonları",
+        "description": "Şehrin her yerindeki yerel müşterilere BAE genelinde erişime ihtiyaç duyulmaktadır.",
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "StoreIcon",
+        "title": "Perakendeciler ve Toptancılar",
+        "description": "Fiziksel satış noktaları, mağazalar ve teşhir salonları açmayı planlıyoruz.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "icon": "Laptop",
+        "title": "Profesyoneller ve Serbest Çalışanlar",
+        "description": "Tüzel kişi olarak lisans altında faaliyet gösteriyor ve yerel müşterilerle ağ kuruyor.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Setup Zone Dubai'yi Neden Seçmelisiniz?",
+    "title": "Markalar, Sistemler ve Başarı İnşa Ediyoruz",
+    "titleHighlight": "Markalar, Sistemler ve Başarı",
+    "subtitle": "Bizi güvenilir kurulum ortağı yapan altı temel unsur.",
+    "items": [
+      {
+        "icon": "Target",
+        "label": "Özel Kurulum Paketleri",
+        "desc": "Faaliyet alanına ve bütçeye uygun olarak tasarlanmıştır."
+      },
+      {
+        "icon": "Building2",
+        "label": "Kiralama Desteği",
+        "desc": "Ofis, depo ve teşhir alanı"
+      },
+      {
+        "icon": "Bank",
+        "label": "Banka Hesabı Yardımı",
+        "desc": "Birleşik Arap Emirlikleri'nde işletme hesabı açma"
+      },
+      {
+        "icon": "Zap",
+        "label": "Hızlı Lisanslama",
+        "desc": "2-5 iş günü"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Lansman Sonrası Hizmetler",
+        "desc": "Dijital pazarlama, CRM ve marka oluşturma"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "DET Düzenlemeleri Uzmanı",
+        "desc": "Serbest Bölgeye geçiş ve açık deniz yapılandırması"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "İşletme Büyüme Beklentisi",
+    "title": "Binlerce kişi tarafından güvenilen",
+    "titleHighlight": "Binlerce",
+    "subtitle": "Başarı geçmişimiz kendisini zaten kanıtlıyor.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10.000+",
+        "label": "Kurulan Şirketler",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "7",
+        "label": "Emirates Erişimi",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Önde gelen",
+        "label": "Kurulum Uzmanı",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Hızlı",
+        "label": "Lisanslama",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "%100",
+        "label": "Uyumlu",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Tercih edilen",
+        "label": "Kurulum Ortağı",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Anakara Şirketi Kurulumu hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "Anakaradaki uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+      "whatsappMessage": "Merhaba! Anakara Şirket Kuruluşu hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "Dubai'de anakara şirketi ne anlama gelir?",
+        "a": "Dubai'de yerleşik bir şirket, Ekonomi ve Turizm Departmanı (DET) tarafından lisanslandırılmış ve BAE'nin tüm bölgelerinde faaliyet gösterme yetkisine sahip bir işletmedir. Serbest Bölge şirketlerinin aksine, yerleşik bir şirket yerel pazarda doğrudan ticaret yapabilir, devlet ihalelerine katılabilir ve Dubai'nin herhangi bir yerinde ofis veya perakende alanı kiralayabilir."
+      },
+      {
+        "q": "Yabancı uyruklular Dubai'de anakara şirketlerinin tamamına sahip olabilirler mi?",
+        "a": "Evet. 2021'den beri, anakara Çin'deki çoğu ticari faaliyet %100 yabancı mülkiyete izin veriyor. Bazı stratejik faaliyetler yine de yerel bir ortağa ihtiyaç duyabilir. Sizin özel durumunuzu belirlemenize yardımcı oluyoruz."
+      },
+      {
+        "q": "Serbest bölge yerine anakarada şirket kurmanın avantajları nelerdir?",
+        "a": "Anakara şirketleri, BAE yerel pazarıyla doğrudan ticaret yapabilir, devlet ihalelerine katılabilir, 7 Emirliğin tamamında faaliyet gösterebilir, ofis alanına bağlı olarak sınırsız sayıda çalışan istihdam edebilir ve coğrafi sınırlamalara tabi değildir."
+      },
+      {
+        "q": "Anakarada işletme ruhsatı almak ne kadar sürer?",
+        "a": "Lisansın verilmesi genellikle 2-5 iş günü sürerken, tüm kurulum (ofis kiralama ve vize işlemleri dahil) 2-4 hafta sürer."
+      },
+      {
+        "q": "Anakarada şirket kurmak için ne tür lisanslar mevcuttur?",
+        "a": "Ticaret Lisansı, Meslek/Hizmet Lisansı, Sanayi Lisansı, Turizm Lisansı ve E-ticaret Lisansı — her biri belirli iş faaliyetlerine uygundur."
+      },
+      {
+        "q": "Anakarada şirket kurmak için ofis alanına ihtiyacım var mı?",
+        "a": "Evet. Anakara şirketlerinin kayıtlı bir fiziki ofise (Ejari) sahip olmaları gerekmektedir. İşletmeniz için doğru ofis, depo veya teşhir salonu alanını bulmanıza yardımcı oluyoruz."
+      },
+      {
+        "q": "Çin anakarasından bir şirket tüm emirliklerde iş yapabilir ve şube açabilir mi?",
+        "a": "Evet. Ana kara lisansı, 7 Emirliğin tamamında serbestçe faaliyet göstermenize ve BAE'nin herhangi bir yerinde kısıtlama olmaksızın şube açmanıza olanak tanır."
+      },
+      {
+        "q": "Dubai anakarasındaki şirketlerin kurumlar vergisi yükümlülükleri var mı?",
+        "a": "Anakara şirketleri BAE kurumlar vergisi düzenlemelerine tabidir. Mevcut eşiklerde, uygun küçük işletmeler %0 vergi avantajından yararlanabilir. Tam uyumluluk ve KDV kayıt rehberliği sağlıyoruz."
+      },
+      {
+        "q": "Çin anakarasında faaliyet gösteren bir şirket için vize süreci nasıl işliyor?",
+        "a": "Yatırımcı vizeleri, ortak vizeleri ve çalışan vizeleri de dahil olmak üzere Emirates Kimlik Kartı, sağlık testleri ve tüm PRO hizmetlerini sağlıyoruz. Vize kotası, ofis alanınızın büyüklüğüne bağlıdır."
+      },
+      {
+        "q": "Anakara şirket kaydı için neden Setup Zone Dubai'yi seçmeliyim?",
+        "a": "Faaliyet sınıflandırması, lisanslama, ofis kiralama, vize işlemleri, banka hesabı açma ve CRM, marka oluşturma ve dijital pazarlama dahil olmak üzere kurulum sonrası hizmetler de dahil olmak üzere uçtan uca destek sağlıyoruz."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "Anakara Şirket Kuruluşu ile iyi uyum sağlayan hizmetler.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Dubai'de Şirket Kurulumu",
+        "description": "Serbest Bölge, Anakara ve Açık Deniz yapıları.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "Dubai'de Ticaret Lisansı",
+        "description": "DET ticaret lisansınızı 2-5 gün içinde alın.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-corporate-sponsor",
+        "title": "Yerel Kurumsal Sponsor",
+        "description": "Güvenilir bir sponsor ile %100 kontrol sağlayın.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Dubai anakarasında yerleşmeye hazır mısınız?",
+    "title": "Stratejik Konum. Ticarette Kısıtlama Yok.",
+    "titleHighlight": "Ticarette herhangi bir kısıtlama yok.",
+    "subtitle": "Birleşik Arap Emirlikleri'nde uzun vadeli iş başarısı için güvenilir ortağınız olan Setup Zone Dubai ile anakaradaki işinizi başlatın.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "2-5 Gün Kurulum",
+      "%100 Sahiplik"
+    ],
+    "whatsappMessage": "Merhaba! Anakara Şirket Kuruluşu konusunda ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! Anakara Şirketi Kuruluşu hakkında görüşmek istiyorum."
+  }
+}

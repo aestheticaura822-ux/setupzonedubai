@@ -1,0 +1,142 @@
+{
+  "badge": "Structurez votre entreprise intelligemment",
+  "heading": {
+    "line1": "Ce qui est meilleur pour vous —",
+    "highlight": "Zone franche ou continent ?"
+  },
+  "subtitle": "La structure juridique la plus adaptée à votre entreprise dépend de votre zone d'activité, du nombre de visas nécessaires et de votre budget. Voici un bref aperçu.",
+  "vsLabel": "CONTRE",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "Zone franche",
+      "short": "FZ",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "International",
+      "tagline": "Idéal pour les entreprises internationales",
+      "bestFor": "commerce international, services en ligne, conseil",
+      "highlight": "Propriété à 100 %, avantages fiscaux, exonération de droits de douane",
+      "limitation": "Visas limités en fonction de la taille du bureau",
+      "ctaText": "Explorez la configuration de la zone libre",
+      "whatsappMessage": "Bonjour ! Je suis intéressé par la création d'une société en zone franche à Dubaï.",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "continent",
+      "short": "ML",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "Marché local",
+      "tagline": "Idéal pour la croissance locale",
+      "bestFor": "Commerce de détail local, construction, restaurants, agences",
+      "highlight": "Accès total au marché des Émirats arabes unis, sans restrictions commerciales",
+      "limitation": "L'accès à des visas plus avantageux nécessite davantage d'espace de bureaux.",
+      "ctaText": "Explorez la configuration du continent",
+      "whatsappMessage": "Bonjour ! Je suis intéressé par la création d'une société basée à Dubaï.",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "Idéal pour",
+  "tableHeaders": {
+    "features": "Caractéristiques",
+    "freezone": "Zone franche",
+    "mainland": "continent"
+  },
+  "features": [
+    {
+      "icon": "Wallet",
+      "label": "Possession",
+      "freezone": {
+        "value": "100%",
+        "score": 100
+      },
+      "mainland": {
+        "value": "100%",
+        "score": 100
+      }
+    },
+    {
+      "icon": "TrendingUp",
+      "label": "Avantages fiscaux",
+      "freezone": {
+        "value": "0% - 9%",
+        "score": 90
+      },
+      "mainland": {
+        "value": "0% - 9%",
+        "score": 85
+      }
+    },
+    {
+      "icon": "Target",
+      "label": "Accès au marché des Émirats arabes unis",
+      "freezone": {
+        "value": "Limité",
+        "score": 40
+      },
+      "mainland": {
+        "value": "Complet",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Users",
+      "label": "Éligibilité au visa",
+      "freezone": {
+        "value": "Limité",
+        "score": 60
+      },
+      "mainland": {
+        "value": "Haut",
+        "score": 90
+      }
+    },
+    {
+      "icon": "Landmark",
+      "label": "Commerce local",
+      "freezone": {
+        "value": "Limité",
+        "score": 30
+      },
+      "mainland": {
+        "value": "Illimité",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Zap",
+      "label": "Vitesse de configuration",
+      "freezone": {
+        "value": "3 à 7 jours",
+        "score": 95
+      },
+      "mainland": {
+        "value": "2 à 4 semaines",
+        "score": 50
+      }
+    }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "Vous hésitez encore sur le choix à faire ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous analyserons votre activité et vous recommanderons la structure la plus adaptée.",
+    "primaryCta": "Parlez à un expert",
+    "secondaryCta": "Appelez-nous",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! J'ai besoin d'aide pour choisir entre la zone franche et le continent. Pourrions-nous en discuter ?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

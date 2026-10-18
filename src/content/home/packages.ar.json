@@ -1,0 +1,128 @@
+{
+  "badge": "باقاتنا",
+  "heading": {
+    "line1": "أسعار شفافة،",
+    "highlight": "لا توجد رسوم خفية"
+  },
+  "subtitle": "اختر الباقة التي تناسب عملك. جميع الأسعار شاملة كلياً - لا توجد تكاليف خفية، ولا مفاجآت.",
+  "toggle": {
+    "oneTimeLabel": "دفعة لمرة واحدة",
+    "installmentLabel": "أقساط",
+    "installmentSuffix": "أو 3x"
+  },
+  "packages": [
+    {
+      "id": "freezone",
+      "name": "رخصة المنطقة الحرة",
+      "badge": null,
+      "price": "5999",
+      "currency": "جهاز مزيل الرجفان الخارجي الآلي",
+      "period": "لمرة واحدة",
+      "tagline": "مثالي للعاملين المستقلين والشركات التي تعمل عن بعد",
+      "icon": "Building2",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.3)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "iconBg": "from-sky-400 to-blue-600",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "features": [
+        "5 أنشطة تجارية مجانية",
+        "ملكية كاملة بنسبة 100%",
+        "ضريبة الدخل والضرائب الشخصية 0%",
+        "ضريبة الشركات المنخفضة",
+        "استشارة مجانية",
+        "ضمان أقل سعر"
+      ],
+      "cta": "ابدأ الآن",
+      "highlighted": false
+    },
+    {
+      "id": "freezone-residency",
+      "name": "منطقة حرة مع إقامة",
+      "badge": "الأكثر شعبية",
+      "price": "11,999",
+      "currency": "جهاز مزيل الرجفان الخارجي الآلي",
+      "period": "لمرة واحدة",
+      "tagline": "الخيار الأمثل لرواد الأعمال الذين ينتقلون إلى دبي",
+      "icon": "Globe",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "iconBg": "from-violet-400 to-purple-600",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "features": [
+        "رخصة منطقة حرة شاملة",
+        "5 أنشطة تجارية مجانية",
+        "ملكية كاملة بنسبة 100%",
+        "ضريبة الدخل والضرائب الشخصية 0%",
+        "ضريبة الشركات المنخفضة",
+        "استشارة مجانية",
+        "اتفاقية إيجار مجانية",
+        "1. تأشيرة إقامة/مستثمر في الإمارات العربية المتحدة",
+        "تغيير الحالة الطبية، بطاقة هوية الإمارات، تغيير الحالة"
+      ],
+      "cta": "ابدأ الآن",
+      "highlighted": true
+    },
+    {
+      "id": "mainland-residency",
+      "name": "البر الرئيسي مع الإقامة",
+      "badge": "أفضل قيمة",
+      "price": "16,999",
+      "currency": "جهاز مزيل الرجفان الخارجي الآلي",
+      "period": "لمرة واحدة",
+      "tagline": "للشركات التي تستهدف السوق المحلي في الإمارات العربية المتحدة",
+      "icon": "Crown",
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentText": "text-amber-600",
+      "accentBg": "bg-amber-50",
+      "accentBorder": "border-amber-200",
+      "iconBg": "from-amber-400 to-orange-600",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "features": [
+        "رخصة البر الرئيسي",
+        "ملكية كاملة بنسبة 100%",
+        "ضريبة الدخل والضرائب الشخصية 0%",
+        "ضريبة الشركات المنخفضة",
+        "استشارة مجانية",
+        "1. تأشيرة إقامة/مستثمر في الإمارات العربية المتحدة",
+        "تغيير الحالة الطبية، بطاقة هوية الإمارات، تغيير الحالة"
+      ],
+      "cta": "ابدأ الآن",
+      "highlighted": false
+    }
+  ],
+  "customPackageCTA": {
+    "title": "هل تحتاج إلى باقة مخصصة؟",
+    "subtitle": "سنقوم بتصميم باقة تناسب احتياجات عملك بدقة - سواء في البر الرئيسي أو المنطقة الحرة أو المناطق الخارجية.",
+    "primaryCta": "احصل على عرض سعر مخصص",
+    "secondaryCta": "اتصل بنا",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "مرحباً! أحتاج إلى حزمة مخصصة لتأسيس أعمالي في الإمارات العربية المتحدة.",
+    "backgroundImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+  },
+  "trustLine": [
+    {
+      "label": "لا توجد رسوم خفية",
+      "color": "emerald"
+    },
+    {
+      "label": "تسعير شفاف",
+      "color": "sky"
+    },
+    {
+      "label": "متوافق مع قانون التجارة الحرة",
+      "color": "violet"
+    },
+    {
+      "label": "استشارة مجانية",
+      "color": "amber"
+    }
+  ]
+}

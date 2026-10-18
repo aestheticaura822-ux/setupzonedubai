@@ -1,0 +1,265 @@
+{
+  "heroBadge": "Anında Maliyet Tahmini",
+  "heroTitle": "İşletme Kurulum Maliyetinizi Hesaplayın",
+  "heroTitleHighlight": "İşletme Kurulum Maliyeti",
+  "heroSubtitle": "Birkaç soruyu yanıtlayın ve size özel anlık bir fiyat teklifi alın.",
+  "steps": [
+    {
+      "id": 1,
+      "label": "Lisans",
+      "icon": "FileText"
+    },
+    {
+      "id": 2,
+      "label": "Aktivite",
+      "icon": "Briefcase"
+    },
+    {
+      "id": 3,
+      "label": "Ofis",
+      "icon": "Building2"
+    },
+    {
+      "id": 4,
+      "label": "Ekstralar",
+      "icon": "Package"
+    },
+    {
+      "id": 5,
+      "label": "Temas etmek",
+      "icon": "Phone"
+    }
+  ],
+  "stepTitles": {
+    "license": {
+      "title": "Lisans türünüzü seçin.",
+      "subtitle": "İşletmenizin ihtiyaçlarına en uygun lisansı seçin."
+    },
+    "activity": {
+      "title": "İş faaliyetinizi seçin.",
+      "subtitle": "İşletmenize uygun sektörü seçin."
+    },
+    "office": {
+      "title": "Ofis alanınızı seçin",
+      "subtitle": "İşletmenize uygun çalışma alanı seçeneğini belirleyin."
+    },
+    "extras": {
+      "title": "İsteğe bağlı hizmetler ekleyin",
+      "subtitle": "Ek hizmetlerle paketinizi geliştirin (çoklu seçim)."
+    },
+    "contact": {
+      "title": "Fiyat teklifinizi nereye gönderelim?",
+      "subtitle": "Ayrıntılı maliyet dökümünü almak için bilgilerinizi girin."
+    }
+  },
+  "licenseTypes": [
+    {
+      "id": "freezone",
+      "icon": "Globe",
+      "title": "Serbest Bölge",
+      "desc": "%100 sahiplik, %0 vergi",
+      "basePrice": 5999,
+      "badge": "Popüler"
+    },
+    {
+      "id": "mainland",
+      "icon": "Building2",
+      "title": "Anakara",
+      "desc": "Birleşik Arap Emirlikleri genelinde ticaret, sınırsız vize",
+      "basePrice": 14999
+    },
+    {
+      "id": "offshore",
+      "icon": "Ship",
+      "title": "Açık deniz",
+      "desc": "Holding şirketi, varlık koruma",
+      "basePrice": 12000
+    },
+    {
+      "id": "freelance",
+      "icon": "Laptop",
+      "title": "Serbest çalışan",
+      "desc": "Bağımsız profesyoneller, yaratıcılar",
+      "basePrice": 7500
+    }
+  ],
+  "activities": [
+    {
+      "id": "trading",
+      "icon": "ShoppingCart",
+      "title": "Genel Ticaret",
+      "desc": "İthalat, ihracat, toptan satış",
+      "price": 0,
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "id": "ecommerce",
+      "icon": "Store",
+      "title": "E-Ticaret",
+      "desc": "Çevrimiçi perakende ve pazar yeri",
+      "price": 0,
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "id": "it",
+      "icon": "Laptop",
+      "title": "BT ve Yazılım",
+      "desc": "Teknoloji hizmetleri ve SaaS",
+      "price": 450,
+      "color": "from-indigo-500 to-violet-700"
+    },
+    {
+      "id": "consulting",
+      "icon": "Briefcase",
+      "title": "Danışmanlık",
+      "desc": "İşletme ve yönetim",
+      "price": 0,
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "id": "media",
+      "icon": "Camera",
+      "title": "Medya ve Fotoğrafçılık",
+      "desc": "Yaratıcı hizmetler",
+      "price": 500,
+      "color": "from-pink-500 to-rose-700"
+    },
+    {
+      "id": "tourism",
+      "icon": "Globe",
+      "title": "Seyahat ve Turizm",
+      "desc": "Turizm danışmanlığı",
+      "price": 8500,
+      "color": "from-sky-500 to-blue-700"
+    },
+    {
+      "id": "fitness",
+      "icon": "Heart",
+      "title": "Fitness ve Yaşam Tarzı",
+      "desc": "Sağlık ve spor",
+      "price": 0,
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "id": "women",
+      "icon": "Sparkles",
+      "title": "Kadın Girişimciliği",
+      "desc": "Özel kadın kurucu paketi",
+      "price": 0,
+      "color": "from-fuchsia-500 to-purple-700"
+    }
+  ],
+  "officeOptions": [
+    {
+      "id": "flexi",
+      "icon": "Users",
+      "title": "Esnek Masa",
+      "desc": "Paylaşımlı çalışma alanı",
+      "price": 0,
+      "badge": "Dahil"
+    },
+    {
+      "id": "dedicated",
+      "icon": "Laptop",
+      "title": "Özel Masa",
+      "desc": "Kendi masanız",
+      "price": 3000
+    },
+    {
+      "id": "private",
+      "icon": "Building2",
+      "title": "Özel Ofis",
+      "desc": "1-3 kişilik ofis",
+      "price": 12000
+    },
+    {
+      "id": "virtual",
+      "icon": "Globe",
+      "title": "Sanal Ofis",
+      "desc": "İş adresi",
+      "price": 1500
+    }
+  ],
+  "extrasList": [
+    {
+      "id": "visa1",
+      "icon": "UserCheck",
+      "title": "1 Oturma İzni",
+      "desc": "Sağlık raporu ve Emirates kimlik kartı ile yatırımcı vizesi",
+      "price": 5000
+    },
+    {
+      "id": "visa2",
+      "icon": "Users",
+      "title": "2. Vize",
+      "desc": "Ek çalışma vizesi",
+      "price": 4500
+    },
+    {
+      "id": "banking",
+      "icon": "Wallet",
+      "title": "Banka Hesabı Yardımı",
+      "desc": "Öncelikli kurumsal bankacılık",
+      "price": 0,
+      "badge": "Özgür"
+    },
+    {
+      "id": "vat",
+      "icon": "FileText",
+      "title": "KDV Danışmanlığı",
+      "desc": "KDV kurulumu ve rehberliği",
+      "price": 0,
+      "badge": "Özgür"
+    },
+    {
+      "id": "pro",
+      "icon": "ShieldCheck",
+      "title": "PRO Hizmetleri (1 Yıl)",
+      "desc": "Devlet belgelerinin işlenmesi",
+      "price": 3500
+    },
+    {
+      "id": "accounting",
+      "icon": "DollarSign",
+      "title": "Muhasebe (1 Yıl)",
+      "desc": "Muhasebe ve raporlar",
+      "price": 4000
+    },
+    {
+      "id": "trademark",
+      "icon": "Award",
+      "title": "Ticari Marka Tescili",
+      "desc": "Markanızı koruyun",
+      "price": 6500
+    },
+    {
+      "id": "golden",
+      "icon": "Crown",
+      "title": "Altın Vize Yükseltme",
+      "desc": "10 yıllık BAE oturma izni",
+      "price": 15000
+    }
+  ],
+  "quickAnswers": [
+    {
+      "q": "Dubai'de iş kurmanın maliyeti ne kadar?",
+      "a": "Dubai'de iş kurmanın başlangıç maliyeti, temel serbest bölge lisansı için 9.500 AED'den başlıyor. Ana karada ise bu maliyet 14.500 AED'den başlıyor."
+    },
+    {
+      "q": "Bir yabancı Dubai'de bir şirketin %100'üne sahip olabilir mi?",
+      "a": "Evet, yabancılar çoğu serbest bölgede ve anakara Çin'deki birçok faaliyette şirketlerin %100'üne sahip olabilirler."
+    },
+    {
+      "q": "Dubai'deki en ucuz serbest bölge hangisidir?",
+      "a": "RAK ICC, Ajman FTZ ve SRTIP, 5.900 AED'den başlayan en uygun fiyatlı paketleri sunmaktadır."
+    },
+    {
+      "q": "Dubai'de şirket kaydı ne kadar sürer?",
+      "a": "Serbest bölgeye kayıt işlemi 3-7 iş günü sürer. Anakara için bu süre 2-4 haftadır."
+    },
+    {
+      "q": "Dubai'de yerel bir ortağa ihtiyacım var mı?",
+      "a": "Serbest bölgelerde durum böyle değil. Anakara'da ise birçok faaliyet artık %100 yabancı mülkiyetine izin veriyor."
+    }
+  ]
+}

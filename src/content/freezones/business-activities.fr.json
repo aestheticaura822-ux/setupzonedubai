@@ -1,0 +1,379 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&q=80",
+    "breadcrumbParent": "Zones franches",
+    "breadcrumbLabel": "Activités commerciales",
+    "badge": "Trouvez votre activité commerciale idéale",
+    "title": "Activités commerciales dans les zones franches des Émirats arabes unis",
+    "titleHighlight": "Zones franches des Émirats arabes unis",
+    "subtitle": "Découvrez plus de 2 000 activités commerciales autorisées dans les principales zones franches de Dubaï : e-commerce, technologies, logistique, médias, conseil… Nous vous aidons à trouver l’activité qui correspond le mieux à votre projet.",
+    "ctaPrimaryText": "Explorer les activités",
+    "ctaPrimaryLink": "#activités",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Bonjour ! J'ai besoin d'aide pour choisir la bonne activité commerciale dans une zone franche des Émirats arabes unis.",
+    "badges": [
+      "Plus de 2 000 activités",
+      "Plus de 30 zones gratuites",
+      "Propriété à 100 %",
+      "Taxe de 0 %"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Target",
+      "value": "Plus de 2 000",
+      "label": "Activités approuvées",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Building2",
+      "value": "30+",
+      "label": "Zones franches",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Taux d'imposition",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "Recherche d'activités",
+    "statusLabel": "En direct",
+    "totalLabel": "Activités totales",
+    "totalValue": "Plus de 2 000",
+    "statusBadge": "Actif",
+    "metrics": [
+      {
+        "label": "commerce électronique",
+        "value": "Plus de 150",
+        "color": "text-emerald-600"
+      },
+      {
+        "label": "Technologie et informatique",
+        "value": "Plus de 300",
+        "color": "text-teal-600"
+      }
+    ]
+  },
+  "exploreSection": {
+    "badge": "Explorez vos options",
+    "title": "Trouvez l'activité qui convient à votre entreprise",
+    "titleHighlight": "Activité appropriée",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+    "imageBadgeTitle": "Votre entreprise",
+    "imageBadgeText": "Match parfait",
+    "paragraph1": "Toute entreprise commence par une activité. Les zones franches des Émirats arabes unis proposent plus de 2 000 activités agréées, chacune avec ses propres exigences en matière de licences, de visas et de potentiel de croissance.",
+    "paragraph2": "Que vous lanciez une boutique en ligne, une société de logiciels, une plateforme logistique ou un cabinet de conseil, il existe une zone franche et une activité conçues pour vous.",
+    "paragraph3": "Nos spécialistes vous aident à faire correspondre vos objectifs commerciaux à l'activité, au type de licence et à la zone franche les plus adaptés, pour un démarrage réussi et une croissance sans accroc.",
+    "features": [
+      "Plus de 2 000 activités",
+      "Plus de 30 zones gratuites",
+      "Mise en relation d'experts",
+      "Licence rapide"
+    ]
+  },
+  "freeZonesSection": {
+    "badge": "Zones gratuites de premier plan",
+    "title": "Principales zones franches de Dubaï",
+    "titleHighlight": "Zones franches à Dubaï",
+    "subtitle": "Chaque zone franche est spécialisée dans des secteurs et des activités différents — nous vous aidons à choisir la meilleure.",
+    "items": [
+      {
+        "icon": "Cpu",
+        "name": "DSO",
+        "description": "Activités axées sur la technologie, l'IA, les logiciels et l'innovation.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "name": "Dubai Commercial City",
+        "description": "Activités de commerce électronique, de logistique et de commerce numérique.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Film",
+        "name": "Cité des médias de Dubaï",
+        "description": "Activités médiatiques, créatives et de production.",
+        "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80",
+        "color": "from-violet-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Truck",
+        "name": "JAFZA",
+        "description": "Activités logistiques, de production et commerciales.",
+        "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "commonActivitiesSection": {
+    "badge": "Activités populaires",
+    "title": "Activités commerciales les plus courantes",
+    "titleHighlight": "Activités commerciales",
+    "subtitle": "Voici les principales activités choisies par les entrepreneurs dans les zones franches des Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "commerce électronique",
+        "description": "Commerce de détail en ligne, vente sur les places de marché et vitrines numériques.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Logiciels et technologies de l'information",
+        "description": "Développement logiciel, SaaS, applications et conseil en informatique.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Consultant",
+        "description": "Services de conseil en affaires, en gestion, en ressources humaines et en informatique.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Commercialisation",
+        "description": "Marketing numérique, image de marque, publicité et contenu.",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "whyRightActivity": {
+    "badge": "Choisissez judicieusement",
+    "title": "Pourquoi votre activité commerciale est importante",
+    "titleHighlight": "L'activité compte",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Conformité légale",
+    "imageBadgeText": "Fondation Right",
+    "paragraph1": "Votre activité commerciale détermine le type de licence, le quota de visas, les exigences relatives à vos bureaux et vos obligations fiscales. Un mauvais choix peut freiner votre croissance.",
+    "paragraph2": "Certaines activités nécessitent des autorisations spécifiques, comme les médias, la santé, l'éducation ou les services financiers. Nous vous accompagnons dans vos démarches de conformité.",
+    "paragraph3": "Nous veillons également à ce que votre liste d'activités soit suffisamment flexible pour soutenir votre expansion future — vous n'aurez donc pas besoin de nouvelles licences à chaque fois que vous vous développez.",
+    "features": [
+      "Alignement des licences",
+      "Éligibilité au visa",
+      "Soutien à la conformité",
+      "Évolutivité future"
+    ]
+  },
+  "multipleCombosSection": {
+    "badge": "Activités multiples",
+    "title": "Combinez plusieurs activités avec une seule licence",
+    "titleHighlight": "Une licence",
+    "subtitle": "De nombreuses zones franches permettent d'enregistrer plusieurs activités connexes sous une seule licence, ce qui permet de gagner du temps et de l'argent.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "label": "Commerce électronique et logistique",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Code",
+        "label": "Logiciels et conseil",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Médias et marketing",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Conseil et formation",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ],
+    "footerNote": "Nous vous aidons à structurer votre licence de manière à ce qu'elle couvre toutes vos sources de revenus, aujourd'hui et demain."
+  },
+  "setupStepsSection": {
+    "badge": "Processus de configuration",
+    "title": "Comment enregistrer votre activité commerciale",
+    "titleHighlight": "Votre activité commerciale",
+    "subtitle": "Un processus simple en 4 étapes pour identifier, sélectionner et enregistrer l'activité appropriée.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Identifiez vos objectifs",
+        "description": "Nous comprenons votre modèle d'entreprise, votre marché cible et votre vision à long terme.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "title": "Activité d'association",
+        "description": "Nous mettons en correspondance vos objectifs avec les activités approuvées dans plus de 30 zones franches.",
+        "icon": "Search",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "title": "Sélectionner la licence",
+        "description": "Nous vous recommandons le type de licence approprié : commerciale, de service, industrielle ou de commerce électronique.",
+        "icon": "FileCheck",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "title": "S'inscrire et lancer",
+        "description": "Nous nous occupons de l'inscription, des approbations et de la configuration — vous commencez à fonctionner en quelques jours.",
+        "icon": "Rocket",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Documents requis",
+    "title": "Documents nécessaires à l'inscription",
+    "titleHighlight": "Vous devez vous inscrire",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "Copies de passeport",
+        "description": "Copies lisibles des passeports de tous les actionnaires et dirigeants."
+      },
+      {
+        "icon": "FileBadge",
+        "label": "Photos format passeport",
+        "description": "Photos récentes sur fond blanc pour visa et carte d'identité."
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Plan d'affaires",
+        "description": "Requis pour certaines activités et industries réglementées."
+      },
+      {
+        "icon": "MapPin",
+        "label": "Preuve d'adresse",
+        "description": "Facture de services publics ou relevé bancaire de l'actionnaire."
+      }
+    ]
+  },
+  "trendingSection": {
+    "badge": "Tendances 2025",
+    "title": "Activités commerciales phares en 2025",
+    "titleHighlight": "en 2025",
+    "subtitle": "Ces activités à forte croissance attirent les entrepreneurs dans toutes les zones franches des Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Bot",
+        "title": "IA et apprentissage automatique",
+        "description": "Concevoir des outils d'IA, des modèles d'apprentissage automatique et des solutions d'automatisation intelligentes pour des clients du monde entier.",
+        "color": "from-indigo-500 via-purple-600 to-fuchsia-700"
+      },
+      {
+        "icon": "Leaf",
+        "title": "Durabilité et ESG",
+        "description": "Technologies vertes, énergies renouvelables et conseil neutre en carbone.",
+        "color": "from-emerald-500 via-teal-600 to-cyan-700"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur les activités commerciales dans les zones franches des Émirats arabes unis.",
+    "items": [
+      {
+        "q": "Comment choisir la bonne activité commerciale pour mon entreprise en zone franche ?",
+        "a": "Nous veillons à ce que votre modèle d'affaires, vos sources de revenus et vos objectifs à long terme correspondent aux activités autorisées dans plus de 30 zones franches. Nous vérifions également les exigences en matière de licences, l'éligibilité aux visas et les possibilités d'expansion future."
+      },
+      {
+        "q": "Puis-je enregistrer plusieurs activités sous une seule licence ?",
+        "a": "Oui, de nombreuses zones franches autorisent plusieurs activités connexes sous une seule licence. Nous vous aidons à structurer votre licence afin qu'elle couvre toutes vos sources de revenus sans nécessiter de nouvelles autorisations."
+      },
+      {
+        "q": "Toutes les activités commerciales sont-elles autorisées dans toutes les zones franches ?",
+        "a": "Non. Chaque zone franche possède sa propre liste d'activités autorisées. Par exemple, DSO est axée sur la technologie, Dubai CommerCity sur le commerce électronique et DMC sur les médias. Nous vous aidons à choisir la zone la plus adaptée à votre activité."
+      },
+      {
+        "q": "Ai-je besoin d'autorisations spéciales pour les activités réglementées ?",
+        "a": "Oui. Les activités telles que les médias, la santé, l'éducation et les services financiers nécessitent des autorisations supplémentaires des autorités compétentes. Nous prenons en charge l'intégralité du processus d'autorisation."
+      },
+      {
+        "q": "Puis-je changer d'activité commerciale ultérieurement ?",
+        "a": "Oui, la plupart des zones franches autorisent les modifications et les ajouts d'activités. Nous prenons en charge toutes les démarches pour vous garantir la conformité et la flexibilité nécessaires à votre développement."
+      },
+      {
+        "q": "Combien de temps faut-il pour enregistrer une activité commerciale ?",
+        "a": "Généralement de 3 à 7 jours ouvrables selon la zone franche, le type d'activité et la nécessité d'autorisations réglementaires."
+      },
+      {
+        "q": "Quels documents sont nécessaires pour enregistrer une activité commerciale ?",
+        "a": "Les documents requis comprennent généralement une copie de votre passeport, des photos d'identité, un justificatif de domicile et un plan d'affaires pour les activités réglementées. Nous vous accompagnons à chaque étape."
+      },
+      {
+        "q": "Combien coûte l'enregistrement d'une activité commerciale dans une zone franche ?",
+        "a": "Les coûts varient selon la zone franche, le type d'activité, la licence et les exigences en matière de visa. Contactez-nous pour un devis personnalisé : nous pratiquons une tarification transparente, sans frais cachés."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui s'accordent parfaitement avec votre activité commerciale.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa d'or",
+        "description": "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Services de conformité",
+        "description": "Conseils en matière d'UBO, d'ESR, de LBC et de TVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Commencer",
+    "title": "Prêt à enregistrer votre activité commerciale ?",
+    "titleHighlight": "Activité commerciale ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous aiderons à choisir l'activité, la licence et la zone franche les mieux adaptées, puis nous nous chargerons de toute la mise en place.",
+    "primaryCta": "Contactez-nous sur WhatsApp",
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite concernant les activités commerciales dans les zones franches des Émirats arabes unis.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "Consultation gratuite",
+      "Plus de 30 zones gratuites",
+      "Installation en 3 à 7 jours"
+    ],
+    "office": {
+      "label": "Visitez notre bureau de Dubaï",
+      "line1": "Bureau M08-27, 1er étage, Crystal Tower",
+      "line2": "Business Bay, Dubaï, Émirats arabes unis — Boîte postale : 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Heures de travail",
+      "monFri": "9h00 – 18h00",
+      "saturday": "10h00 – 17h00",
+      "sunday": "Fermé"
+    }
+  }
+}

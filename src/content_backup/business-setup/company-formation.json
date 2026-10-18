@@ -1,0 +1,192 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Start Your UAE Business",
+  "heroTitle": "Company Formation in Dubai",
+  "heroTitleHighlight": "in Dubai",
+  "heroSubtitle": "Free Zone, Mainland & Offshore structures. Fast, compliant, cost-effective business setup across the UAE — from first inquiry to operational launch.",
+  "heroChips": ["100% Ownership", "0% Tax", "2-5 Days Setup", "Free Zone + Mainland"],
+
+  "stats": [
+    { "icon": "Building2", "value": "10,000+", "label": "Companies Formed", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "Clock", "value": "2-5", "label": "Days Setup", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Corporate Tax", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whyDubaiSection": {
+    "badge": "Opportunity Starts Here",
+    "title": "Why Start a Business in Dubai?",
+    "titleHighlight": "in Dubai?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Global Hub",
+    "imageBadgeText": "East Meets West",
+    "paragraphs": [
+      "Dubai has become a global business hub, benefiting from its attractive business environment, tax-free status, and strategic location that links the East to West.",
+      "With 100% foreign ownership, zero corporate tax, accelerated visa and license approvals, and all these advantages, thousands of new companies are registered each month.",
+      "The city offers unparalleled infrastructure, world-class Free Zones, a reliable and efficient government, and a strong rule of law — making setup straightforward and efficient. Capital and profits can be repatriated freely, and digital government portals make applying easy."
+    ],
+    "highlights": ["Global Business Hub", "Tax-Free Status", "100% Foreign Ownership", "Strategic Location", "Modern Infrastructure", "Strong Rule of Law"]
+  },
+
+  "benefitsSection": {
+    "badge": "The Advantages You Can't Ignore",
+    "title": "Benefits of Setting Up a Company in Dubai",
+    "titleHighlight": "a Company in Dubai",
+    "subtitle": "Six powerful reasons entrepreneurs and multinationals choose Dubai.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership in investor-friendly Free Zones with no local sponsor required — complete control over your business.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "DollarSign", "title": "Zero Corporate Tax", "description": "Tax-free status with no corporate or personal income tax — retain 100% of your profits.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Zap", "title": "Fast License & Visa Processing", "description": "Accelerated approvals with streamlined digital government portals — get operational in days, not months.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Building2", "title": "World-Class Infrastructure", "description": "Unparalleled Free Zones, modern business hubs, and reliable government support for seamless setup.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Wallet", "title": "Capital & Profit Repatriation", "description": "Full freedom to repatriate capital and profits — ideal for global investors and international businesses.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Users", "title": "Multicultural Talent Pool", "description": "Access to skilled professionals from around the world — build your dream team in a global business hub.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "jurisdictionsSection": {
+    "badge": "Dubai Business Setup Options",
+    "title": "Choose Your Jurisdiction",
+    "titleHighlight": "Jurisdiction",
+    "subtitle": "Swipe through 3 setup options — pick the best one for your business model.",
+    "items": [
+      {
+        "id": "mainland",
+        "icon": "Building",
+        "title": "Dubai Mainland Setup",
+        "tagline": "Full UAE Market Access",
+        "description": "Full access to all UAE market with no restrictions on premises. Ideal for retail, restaurants, logistics, and service-based businesses with ability to apply for unlimited visas.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": ["Full Access to All UAE Market", "No Restrictions on Premises", "Ideal for Retail, Restaurants, Logistics", "Unlimited Visas (Subject to Office)", "Some Licenses Require LSA"],
+        "bestFor": "Retail, F&B, Logistics"
+      },
+      {
+        "id": "freezone",
+        "icon": "Factory",
+        "title": "Dubai Free Zone Setup",
+        "tagline": "100% Foreign Ownership",
+        "description": "Tax-free zones such as IFZA, DMCC, DIFC, JAFZA with 100% foreign ownership. Ideal for e-commerce, consulting, media, and tech companies with a variety of license options.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": ["100% Foreign Ownership", "Tax-Free Zones", "IFZA, DMCC, DIFC, JAFZA", "Trade, Service, Industrial Licenses", "Fast-Track Setup"],
+        "bestFor": "E-Commerce, Consulting, Tech"
+      },
+      {
+        "id": "offshore",
+        "icon": "Anchor",
+        "title": "Dubai Offshore",
+        "tagline": "International Holding Structure",
+        "description": "Ideal for international and holding companies with zero tax and no requirement for physical premises. Provides foreign banking and asset protection with prestigious jurisdictions.",
+        "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": ["Ideal for Holding Companies", "Zero Tax", "No Physical Premises Required", "Foreign Banking & Asset Protection", "RAK ICC, JAFZA Offshore"],
+        "bestFor": "Holding & International"
+      }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "Complete Dubai Business Setup Services",
+    "title": "We Take Care of Every Step",
+    "titleHighlight": "Every Step",
+    "subtitle": "Eight end-to-end services so you can focus on growing your business.",
+    "items": [
+      { "icon": "FileSignature", "title": "Company Name Reservation & Documentation", "description": "Assist in choosing a compliant and brandable company name and submit documentation to the appropriate Dubai licensing authority.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "ClipboardCheck", "title": "Business Plan & Regulatory Approvals", "description": "Draft business plan where required (especially in Free Zones) with regulatory compliance on AML, ESR, and UBO policies.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "ScrollText", "title": "Licensing & Registration", "description": "Complete process to register a Dubai company in 2-5 working days with clear pricing and no hidden fees.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Banknote", "title": "Corporate Bank Account Opening", "description": "Support with top UAE banks — documentation, appointments, and follow-ups for quick approvals.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Building2", "title": "Office Establishment & Leasing", "description": "Find flexi-desk, private office, or co-working space with establishment in Free Zone or Dubai mainland.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Receipt", "title": "Corporate Compliance & Tax Registration", "description": "Dubai VAT registration, bookkeeping, and accounting services — keeping your business fully compliant.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Palette", "title": "Digital Structure & Branding Support", "description": "Website development for your new company with CRM structure, email integration, and business profile setup.", "color": "from-rose-400 to-red-600" }
+    ]
+  },
+
+  "audienceSection": {
+    "badge": "Perfect for Innovators & Investors",
+    "title": "Launch Your Dream with Setup Zone Dubai",
+    "titleHighlight": "with Setup Zone Dubai",
+    "subtitle": "Whoever you are — startup, freelancer, or global investor — we've got you covered.",
+    "items": [
+      { "icon": "Rocket", "title": "Startup Founders & Entrepreneurs", "description": "Best for developing exciting business models with incubators, funders, and tax-free benefits.", "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80", "color": "from-cyan-500 to-blue-700" },
+      { "icon": "ShoppingCart", "title": "E-Commerce & Digital Service Providers", "description": "Best for online stores, SaaS companies, and IT service providers wanting rapid licensing with total ownership.", "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80", "color": "from-blue-500 to-indigo-700" },
+      { "icon": "Laptop", "title": "Freelancers & Consultants", "description": "Get professional licenses in Free Zones like IFZA and SHAMS for media, marketing, legal, or education services.", "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80", "color": "from-indigo-500 to-violet-700" },
+      { "icon": "Container", "title": "International Trading Companies", "description": "Run general trading licenses in Free Zones and Mainland with access to Dubai ports and transit logistics.", "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80", "color": "from-violet-500 to-purple-700" },
+      { "icon": "TrendingUp", "title": "Investors Breaking Into SME Setups", "description": "Launch scalable businesses with access to a growing, corporate-ready UAE SME ecosystem and streamlined compliance.", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80", "color": "from-purple-500 to-fuchsia-700" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Fast, Reliable, Built for You",
+    "title": "Why Choose Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "We combine speed, precision, and professionalism for unmatched business setup services.",
+    "items": [
+      { "icon": "Target", "label": "Tailored Packages", "desc": "Based on your budget & activity" },
+      { "icon": "Key", "label": "Turn-Key Services", "desc": "From licensing to branding" },
+      { "icon": "Globe2", "label": "Free Zone & Mainland Experts", "desc": "Plus Offshore structures" },
+      { "icon": "Globe", "label": "Multilingual Advisory", "desc": "Team speaking your language" },
+      { "icon": "Shield", "label": "Complete Transparency", "desc": "No hidden fees, ever" },
+      { "icon": "Zap", "label": "Fast-Tracked Setup", "desc": "Licensed in 2-5 days" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Our track record speaks for itself.",
+    "items": [
+      { "icon": "Building2", "value": "10,000+", "label": "Companies Formed", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Globe", "value": "Global", "label": "Client Reach", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Formation Expert", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "DollarSign", "value": "Growing", "label": "Success Stories", "color": "from-violet-400 to-purple-600" },
+      { "icon": "BarChart3", "value": "Significant", "label": "Regional Impact", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Setup Partner", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Company Formation in Dubai. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our formation specialists.",
+      "whatsappMessage": "Hi! I have a question about Company Formation in Dubai."
+    },
+    "items": [
+      { "q": "What is the cost to set up a business in Dubai?", "a": "Costs vary by jurisdiction (Free Zone, Mainland, Offshore), license type, and business activities. Free zone formation typically starts from AED 5,750. Mainland businesses incur higher government and local sponsor fees. We offer transparent all-inclusive packages to fit your budget and goals." },
+      { "q": "How long will it take to get a trade license in Dubai?", "a": "Free Zone licenses are typically issued in 2-5 working days. Mainland licenses take 2-4 weeks depending on approvals. We fast-track the process for our clients." },
+      { "q": "Can foreigners be 100% owners of a company in Dubai?", "a": "Yes. Under recent UAE reforms, most Free Zone and many Mainland activities now allow 100% foreign ownership without a local partner." },
+      { "q": "What type of license do I need for my Dubai business?", "a": "It depends on your activity. Commercial (trading), Professional (services), Industrial (manufacturing), or E-Commerce licenses are the main types. We help you choose the right one." },
+      { "q": "Do I need an office space to start a business in Dubai?", "a": "Most licenses require a registered address. Free Zones offer flexi-desk packages. Mainland businesses need a physical office (Ejari). We help you find the right space." },
+      { "q": "Can I open a corporate bank account in Dubai after incorporating?", "a": "Yes. We provide full support for corporate bank account opening with top UAE banks — documentation, appointments, and follow-ups for quick approvals." },
+      { "q": "How many visas can I apply for with my Dubai company?", "a": "Visa quota depends on your license type and office space. Free Zones typically allow 1-6 visas per license, while Mainland allows unlimited visas based on office size." },
+      { "q": "How does setting up a company in Dubai benefit me in taxes?", "a": "Dubai offers 0% personal and corporate income tax in Free Zones, and very low corporate tax on Mainland. You can also repatriate 100% of profits and capital." },
+      { "q": "Can I start an online business in Dubai?", "a": "Yes. E-Commerce licenses in Free Zones (like IFZA, SHAMS, Dubai CommerCity) allow you to run online businesses with 100% foreign ownership." },
+      { "q": "What ongoing compliance is required after setup?", "a": "Annual license renewal, VAT registration (if turnover exceeds AED 375,000), ESR/UBO filings, and bookkeeping. We provide ongoing compliance support." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Company Formation.",
+    "items": [
+      { "slug": "mainland-company-formation", "title": "Mainland Company Formation", "description": "Full UAE market access with DED license.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "free-zone-company-setup", "title": "Free Zone Company Setup", "description": "100% foreign ownership in tax-free zones.", "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "trade-license", "title": "Trade License in Dubai", "description": "Get your trading, service, or industrial license.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-blue-400 to-indigo-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Opening in Dubai?",
+    "title": "Fast Licenses. No Tax. Full Support.",
+    "titleHighlight": "Full Support.",
+    "subtitle": "Launch your e-commerce brand, tech startup, consulting company, or trading business — with Setup Zone Dubai as your one-stop setup partner.",
+    "chips": ["Free Consultation", "2-5 Days Setup", "Zero Tax"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Company Formation in Dubai.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Company Formation in Dubai."
+  }
+}

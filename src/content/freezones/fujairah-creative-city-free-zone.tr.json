@@ -1,0 +1,440 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600&q=80",
+  "heroBadge": "Fujairah'ta Fikirler Gelişiyor",
+  "heroTitle": "Fujairah Yaratıcı Şehir Serbest Bölgesi",
+  "heroTitleHighlight": "Serbest Bölge",
+  "heroSubtitle": "Birleşik Arap Emirlikleri'nin medya profesyonelleri, dijital girişimciler ve hizmet tabanlı girişimler için en erişilebilir Serbest Bölgelerinden biri. Denetim yok, ödenmiş sermaye yok, ofis zorunluluğu yok.",
+  "heroChips": [
+    "%100 Sahiplik",
+    "%0 Vergi",
+    "Ofise gerek yok."
+  ],
+  "heroCard": {
+    "headerTitle": "Yaratıcı Pasaport",
+    "headerStatus": "FCC",
+    "icon": "Palette",
+    "zoneLabel": "Alan",
+    "zoneValue": "Fujairah Yaratıcı Şehri",
+    "statusBadge": "Aktif",
+    "setupTimeLabel": "Kurulum Süresi",
+    "setupTimeValue": "3-7 Gün",
+    "taxLabel": "Vergi Oranı",
+    "taxValue": "%0",
+    "footerText": "Şimdi Başlat"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Kurulum Günleri",
+      "color": "from-amber-400 to-yellow-500"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-yellow-400 to-amber-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Vergi Oranı",
+      "color": "from-orange-400 to-amber-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Ofis Yok",
+      "label": "Gerekli",
+      "color": "from-amber-500 to-orange-500"
+    }
+  ],
+  "startSection": {
+    "badge": "İşinizi Kurun",
+    "title": "Fujairah Yaratıcı Şehrinde Lansman",
+    "titleHighlight": "Fujairah Yaratıcı Şehri",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+    "imageBadgeTitle": "Mükemmel",
+    "imageBadgeText": "Serbest Çalışanlar ve Girişimler",
+    "paragraphs": [
+      "Fujairah Yaratıcı Şehir Serbest Bölgesi'nde yerleşmek, girişimcilere ve işletmelere BAE'nin en uygun fiyatlı ve çok yönlü serbest bölgelerinden birinde kendilerini kurmak için mükemmel bir platform sunar.",
+      "Medya, yaratıcı, danışmanlık ve profesyonel hizmet sektörlerini desteklemek amacıyla inşa edilen Creative City, yüksek maliyetler olmadan esneklik arayan serbest çalışanlar, yeni kurulan şirketler ve firmalar için hızla tercih edilen bir yer haline geldi.",
+      "İster uygun fiyatlı bir lisans arayan serbest çalışan, ister danışman, ister medya veya prodüksiyon şirketi, ister dijital girişimci olun; Creative City, varlığınızı oluşturmanız için kolay ve bütçe dostu bir yol sunar."
+    ],
+    "highlights": [
+      "Ofise gerek yok.",
+      "Esnek Vize Seçenekleri",
+      "Bütçe Dostu",
+      "Tamamen Uyumlu"
+    ]
+  },
+  "activitiesSection": {
+    "badge": "İş Faaliyetleri",
+    "title": "FCC'de Hangi Ticari Faaliyetlere İzin Veriliyor?",
+    "titleHighlight": "FCC tarafından onaylandı mı?",
+    "subtitle": "Çok çeşitli yaratıcı, mesleki, eğitimsel ve teknolojik faaliyetler.",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "Film ve TV Prodüksiyonu",
+        "description": "Film çekimi, kurgu, yayıncılık ve post prodüksiyon hizmetleri sunan medya kuruluşu. FCC Lisansı, stüdyoları, animasyon yaratıcılarını ve kısa film yapımcılarını korur.",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-500"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Yayıncılık ve Gazetecilik",
+        "description": "Çevrimiçi haber platformları, içerik yazarları, dergi yayıncıları ve araştırmacı gazeteciler - çevrimiçi, basılı veya multimedya.",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80",
+        "color": "from-orange-500 to-amber-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Grafik Tasarım ve Yaratıcı Hizmetler",
+        "description": "Logo tasarımı, kampanya markalaşması, dijital reklamcılık, hareketli grafikler, ambalaj tasarımı ve UI/UX geliştirme.",
+        "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200&q=80",
+        "color": "from-yellow-500 to-amber-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Web ve Mobil Uygulama Geliştirme",
+        "description": "Teknoloji hizmetleri lisansı kapsamında özel web siteleri, SaaS platformları, web ve mobil uygulamalar ve e-ticaret portalları.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Yönetim, Pazarlama ve Danışmanlık",
+        "description": "Stratejik planlama, marka oluşturma, büyüme danışmanlığı, dijital pazarlama, SEO ve işletme faaliyetleri desteği.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "icon": "Scale",
+        "title": "Muhasebe, Hukuk ve İnsan Kaynakları Danışmanlığı",
+        "description": "Finansal raporlama, mevzuata uyum, vergi ödemeleri, iş sözleşmeleri ve işe alım süreçleri.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "E-öğrenme ve Çevrimiçi Eğitim",
+        "description": "Uzaktan eğitim platformları; dil eğitimi, beceri geliştirme veya kurumsal sertifikasyon şirketleri.",
+        "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+        "color": "from-yellow-500 to-amber-500"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Eğitim İçeriği Oluşturma",
+        "description": "Eğitim içerikleri (çalışma kitapları, kurslar, ders programları veya akademik metinler) oluşturun, lisanslayın ve dağıtın.",
+        "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80",
+        "color": "from-orange-500 to-amber-500"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-ticaret Destek Hizmetleri",
+        "description": "Arka ofis hizmetleri — sipariş karşılama desteği, e-ticaret sitesi bakımı, ürün kataloglama ve e-ticaret sitesi tasarımı.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Medya, Teknoloji veya Yaratıcı Alanlarda Serbest Çalışma",
+        "description": "Bağımsız danışman, dijital göçebe veya ölçeklenebilir hizmet işletmesi — yasalara uygun, düşük engelli bir girişimcilik yolu.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-yellow-400 to-orange-500"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lisans Türleri",
+    "title": "Size Uygun Lisanslar",
+    "titleHighlight": "Size Uygun",
+    "subtitle": "Vizeli veya vizesiz paketlerden birini seçin — kendi hızınızda gelişin.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "Serbest Çalışan Lisansı",
+        "description": "Bağımsız çalışan bireyler veya serbest meslek sahipleri için.",
+        "code": "FRL",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Hizmet Lisansı",
+        "description": "Danışmanlar veya profesyoneller için — hukuk, bilişim, pazarlama vb.",
+        "code": "SRV",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Medya Lisansı",
+        "description": "İçerik üreticileri, dijital ajanslar veya medya prodüksiyonu için.",
+        "code": "MED",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Store",
+        "title": "Ticari Lisans",
+        "description": "Çeşitli hizmetler sunan işletmeler için.",
+        "code": "COM",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "Users2",
+        "title": "Kurumsal Lisans",
+        "description": "İki veya daha fazla ortağı veya hissedarı olan işletmeler için en uygunudur.",
+        "code": "CRP",
+        "color": "from-yellow-500 to-amber-500"
+      }
+    ]
+  },
+  "workspacesSection": {
+    "badge": "Çalışma Alanları",
+    "title": "Ofis Altyapısı ve Esnek Masa Seçenekleri",
+    "titleHighlight": "Esnek Masa Seçenekleri",
+    "subtitle": "Ofis kiralamadan tam teşekküllü bir operasyon yürütün.",
+    "largeCard": {
+      "icon": "Globe",
+      "title": "Ofis Gerektirmeyen Paket",
+      "description": "Yasalara uygun olarak uzaktan (sanal değil) çalışın — sıfır işletme maliyetiyle tam uyumluluk sağlamak isteyen serbest çalışanlar ve dijital girişimciler için mükemmeldir.",
+      "color": "from-amber-500 via-yellow-500 to-orange-600"
+    },
+    "secondaryCards": [
+      {
+        "icon": "Monitor",
+        "title": "Esnek masalar",
+        "description": "İhtiyaç duyulduğu takdirde ortak ofis alanlarını kullanın.",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Building2",
+        "title": "Özel Yönetici Ofisleri",
+        "description": "Daha büyük veya ekip bazlı birimler için, özel alana ihtiyaç duyanlar için.",
+        "color": "from-yellow-400 to-amber-600"
+      }
+    ],
+    "bottomCards": [
+      {
+        "icon": "Package",
+        "title": "İsteğe Bağlı Depolama",
+        "description": "İhtiyaca göre depolama alanı.",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Users",
+        "title": "Toplantı Odaları",
+        "description": "Profesyonel toplantı olanakları.",
+        "color": "from-amber-500 to-orange-500"
+      },
+      {
+        "icon": "Send",
+        "title": "Posta Kutusu Erişimi",
+        "description": "Profesyonel iş adresi.",
+        "color": "from-yellow-500 to-amber-500"
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "Vize ve Göçmenlik",
+    "title": "Vize ve Göçmenlik Hizmetleri",
+    "titleHighlight": "Hizmetler",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Vize Hizmetleri",
+    "imageBadgeText": "Tam Yaşam Döngüsü Desteği",
+    "paragraphs": [
+      "Yasalara uygun kalmanız ve ekibinizin yasal olarak çalışabilmesi için eksiksiz bir vize ve göçmenlik hizmetleri yelpazesi sunuyoruz. İşletme sahipleri için yatırımcı vizesi başvurularından çalışanlar için işveren vizesi başvurularına kadar tüm süreci yönetiyoruz.",
+      "Emirates kimlik kartı başvurularından, sağlık testlerine ve vize damgalama işlemlerine kadar her şey; ayrıca tüm belgelerin ve devlet başvurularının yönetimini üstlenen sürekli PRO hizmetleri de sunuyoruz.",
+      "Tüm gereksinimleri otomatikleştirip takip edecek bir süreç oluşturacağız ve yenileme zamanı geldiğinde size bildirim göndererek hiçbir tarihi kaçırmamanızı sağlayacağız."
+    ],
+    "features": [
+      "Yatırımcı Vizesi",
+      "Çalışan Vizesi",
+      "Emirates Kimliği",
+      "PRO Hizmetleri",
+      "Tıbbi Testler",
+      "Yenileme Uyarıları"
+    ]
+  },
+  "postSetupSection": {
+    "badge": "Güvenebileceğiniz Destek",
+    "title": "Kurulum Sonrası İşletme Destek Hizmetleri",
+    "titleHighlight": "Destek Hizmetleri",
+    "subtitle": "Lisansınızı oluşturmak sadece başlangıçtır; uzun vadeli büyüme için temeli biz inşa ediyoruz.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Web Sitesi ve E-Ticaret Kurulumu",
+        "description": "Profesyonel bir web sitesi veya çevrimiçi mağaza açın.",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM ve CMS Entegrasyonu",
+        "description": "Özelleştirilmiş platformlarla operasyonlarınızı kolaylaştırın.",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Muhasebe ve KDV Kaydı",
+        "description": "Doğru mali kayıtlar ve KDV beyannamesi verme.",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Award",
+        "title": "İşletme Profili ve Markalaşma",
+        "description": "Yatırımcıya hazır şirket profilleri ve marka oluşturma kitleri.",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Banka Hesabı Yardımı",
+        "description": "Gerekli belgelerle BAE'de kurumsal banka hesabı açın.",
+        "color": "from-yellow-500 to-amber-500"
+      },
+      {
+        "icon": "Scale",
+        "title": "Hukuki Yapılandırma ve Belgeler",
+        "description": "Hissedar sözleşmeleri ve marka tescili.",
+        "color": "from-orange-500 to-red-500"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Pazarlama ve Dijital Araçlar",
+        "description": "Sosyal medya, SEO, reklam hesapları ve e-posta araçları.",
+        "color": "from-amber-400 to-orange-500"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Şirket Kurulumunda Uzmanlar",
+    "title": "Setup Zone Dubai'yi Neden Seçmelisiniz?",
+    "titleHighlight": "Dubai'de kurulum bölgesi mi?",
+    "subtitle": "Fujairah Yaratıcı Şehir oluşumunda geniş deneyime sahip, güvenilir bir iş kurma ortağı.",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "Hızlandırılmış Onaylar",
+        "description": "TECOM ile olan ilişkilerimiz sayesinde hızlı işlem."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "FCC Kurallarına Tam Uyumluluk",
+        "description": "Atılan her adım FCC yönetmeliklerine uygundur."
+      },
+      {
+        "icon": "Target",
+        "title": "Kişiselleştirilmiş İşletme Yapılandırması",
+        "description": "Sektörünüze ve hedeflerinize uygun tavsiyeler."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Şeffaf, Sabit Maliyetli Paketler",
+        "description": "Gizli ücret yok — fiyatlandırma her zaman şeffaf."
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Devam Eden İş Desteği",
+        "description": "Yenilemeler, uyumluluk ve kurulum sonrası destek."
+      },
+      {
+        "icon": "Globe",
+        "title": "Çok Dilli Danışma",
+        "description": "Farklı dillerde küresel yatırımcı deneyimi."
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Fujairah Yaratıcı Şehri hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "FCC uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+      "whatsappMessage": "Merhaba! Fujairah Yaratıcı Şehir Serbest Bölgesi hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "Birleşik Arap Emirlikleri dışından FCC işletmesi kurmak mümkün mü?",
+        "a": "Evet. FCC, yeni kurulan şirketlerin uzaktan çalışmasına izin veriyor. Süreç çoğunlukla çevrimiçi olarak veya vekaletname (POA) yoluyla tamamlanıyor ve bu da siz yokken işlerinizi yürütmenize olanak tanıyor."
+      },
+      {
+        "q": "FCC lisansımla kaç vize alabilirim?",
+        "a": "Vize kontenjanları, lisans paketiniz ve ofis türünüze bağlıdır. Doğru kombinasyonu seçmenize yardımcı oluyoruz."
+      },
+      {
+        "q": "Bu, serbest çalışanlar için uygun bir seçenek mi?",
+        "a": "Kesinlikle. FCC, uygun fiyatlı serbest çalışan lisansları ve ofis gerektirmeyen paketleriyle serbest çalışanlar için en dostane Serbest Bölgelerden biridir."
+      },
+      {
+        "q": "Lisans almak için ofis kiralamam gerekiyor mu?",
+        "a": "Hayır. FCC, ofis gerektirmeyen paketler sunuyor, bu nedenle fiziksel bir alan kiralamadan uzaktan çalışarak yasal olarak faaliyet gösterebilirsiniz."
+      },
+      {
+        "q": "İşletme faaliyetimi daha sonra güncelleyebilir veya değiştirebilir miyim?",
+        "a": "Evet. FCC, faaliyet değişikliklerine ve güncellemelerine izin veriyor. Süreci sizin için biz hallediyoruz."
+      },
+      {
+        "q": "Kayıt olmak için hangi belgelere ihtiyacım var?",
+        "a": "Pasaport fotokopileri, pasaport boyutunda fotoğraflar, önerilen işletme adları ve aktif bir e-posta/iletişim numarası. Her belge konusunda size rehberlik ediyoruz."
+      },
+      {
+        "q": "Kurulum süreci ne kadar hızlı?",
+        "a": "Belgelerin tamamı hazır olduğunda genellikle 3-7 iş günü sürer."
+      },
+      {
+        "q": "FCC, e-ticaret veya dijital hizmetler için uygun mu?",
+        "a": "Evet. FCC, esnek lisanslama ile e-ticaret destek hizmetlerini, dijital pazarlamayı ve teknoloji şirketlerini desteklemektedir."
+      },
+      {
+        "q": "Bankacılık ve KDV konularında destek alabilir miyim?",
+        "a": "Evet. Kurulum sonrası desteğimizin bir parçası olarak banka hesabı açma ve KDV kaydı konusunda yardımcı oluyoruz."
+      },
+      {
+        "q": "FCC uluslararası alanda tanınıyor mu?",
+        "a": "Evet. FCC, BAE hükümeti tarafından desteklenen ve küresel olarak tanınan bir Serbest Bölge'dir."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "FCC kurulumunuzla uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Altın Vize",
+        "description": "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-yellow-400 to-amber-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Dijital Pazarlama",
+        "description": "Sosyal medya, ücretli reklamlar ve içerik stratejisi.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-orange-400 to-amber-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bugün Başlatın",
+    "title": "Fujairah Yaratıcı Şehri'nde Lansmana Hazır mısınız?",
+    "titleHighlight": "Fujairah Yaratıcı Şehri?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisanslamadan lansmana kadar tüm kurulum sürecinde size rehberlik edeceğiz.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "Ofise gerek yok.",
+      "3-7 Gün Kurulum"
+    ],
+    "whatsappMessage": "Merhaba! Fujairah Creative City kurulumu için ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! Fujairah Yaratıcı Şehir yapılanması hakkında görüşmek istiyorum."
+  }
+}

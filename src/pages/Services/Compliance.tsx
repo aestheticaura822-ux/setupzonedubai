@@ -13,6 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import complianceData from '../../content/services/compliance.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Ban, ShieldCheck, FileText, Users, Scale, Receipt, Building2,
   Fingerprint, UserCheck, ClipboardCheck, FileSearch, TrendingUp,
@@ -22,7 +24,9 @@ const iconMap: any = {
 };
 
 export default function Compliance({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || complianceData;
+  const { language } = useLanguage();
+  const complianceFallback = loadContent('services/compliance', language);
+  const data = tinaData?.data?.services || complianceFallback;
 
   return (
     <div className="min-h-screen bg-white">

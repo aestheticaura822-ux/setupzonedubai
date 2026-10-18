@@ -11,7 +11,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import marinaData from '../../content/service-areas/dubai-marina.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, Users, DollarSign, MapPin, Briefcase, Zap,
   Clock, Award, Layers, Landmark, Ship, Sparkles, ArrowRight,
@@ -19,7 +20,9 @@ const iconMap: any = {
 };
 
 export default function DubaiMarina({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || marinaData;
+  const { language } = useLanguage();
+  const marinaFallback = loadContent('service-areas/dubai-marina', language);
+  const data = tinaData?.data?.serviceAreas || marinaFallback;
   const AREA_NAME = data.areaName;
 
   return (

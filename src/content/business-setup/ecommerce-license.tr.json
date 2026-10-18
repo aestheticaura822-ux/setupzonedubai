@@ -1,0 +1,575 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1600&q=80",
+  "heroBadge": "Çevrimiçi İşletme Kurulumu",
+  "heroTitle": "Dubai'de E-ticaret Lisansı",
+  "heroTitleHighlight": "Dubai'de",
+  "heroSubtitle": "Dubai'de %100 sahiplik, %0 vergi ve BAE ile küresel pazarlara tam erişimle çevrimiçi işinize başlayın. Sadece 1-5 gün içinde faaliyete geçin.",
+  "heroChips": [
+    "7.500 AED'den başlayan fiyatlarla",
+    "1-5 Gün Kurulum",
+    "%100 Sahiplik",
+    "%0 Vergi"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "1-5",
+      "label": "Kurulum Günleri",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "7.500 AED",
+      "label": "Başlangıç Maliyeti",
+      "color": "from-pink-400 to-rose-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-rose-400 to-red-600"
+    },
+    {
+      "icon": "Percent",
+      "value": "%0",
+      "label": "Kurumlar Vergisi",
+      "color": "from-red-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Birleşik Arap Emirlikleri'nde E-Ticaretin Başlaması",
+    "title": "Dubai'de E-ticaret Lisansı Nedir?",
+    "titleHighlight": "E-ticaret Lisansı",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+    "imageBadgeTitle": "Çevrimiçi Mağaza",
+    "imageBadgeText": "İşletmenizi Yasallaştırın",
+    "paragraphs": [
+      "E-ticaret işletme lisansı, Dubai Ekonomik Kalkınma Departmanı (DED) veya ilgili Serbest Bölge yetkilileri tarafından verilen ve çevrimiçi bir işletme kurmanıza ve yürütmenize olanak tanıyan yasal bir lisanstır.",
+      "Bu, işletmelerin ürün veya hizmetlerini çevrimiçi olarak, mobil uygulamalar veya pazar yerleri aracılığıyla tanıtmalarına, satmalarına ve teslim etmelerine olanak tanır. E-Ticaret Lisansı, yetki alanınıza bağlı olarak, BAE genelinde yerel olarak veya küresel olarak ticaret yapmanıza izin verir.",
+      "E-ticaret lisansları için en iyi serbest bölge seçenekleri arasında IFZA, Shams, Dubai CommerCity ve RAKEZ yer alıyor; bu bölgeler düşük maliyetli başlangıç, %100 yabancı mülkiyet ve minimum kısıtlamalar sunuyor."
+    ],
+    "highlights": [
+      "%100 Sahiplik",
+      "%0 Vergi",
+      "1-5 Gün Kurulum",
+      "BAE + Küresel Pazarlar",
+      "Ödeme Ağ Geçitleri",
+      "Lojistik Ortakları"
+    ]
+  },
+  "whoNeedsItSection": {
+    "badge": "Bu lisansa kimin ihtiyacı var?",
+    "title": "Dubai'de İnternet Üzerinden Satış Yapan Herkes",
+    "titleHighlight": "Dubai'de çevrimiçi",
+    "subtitle": "Geçerli bir lisans olmadan BAE'de çevrimiçi tanıtım yapmak veya işlem gerçekleştirmek yasa dışıdır; ağır para cezaları veya yasaklar uygulanır.",
+    "items": [
+      {
+        "icon": "Package",
+        "label": "Dropshipping Mağaza Sahipleri",
+        "desc": "Stok yönetimi olmadan satış yapın",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ShoppingBag",
+        "label": "Amazon FBA ve Noon Satıcıları",
+        "desc": "Pazaryerlerinde yasal olarak satış yapın",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Hizmetleri Olan Serbest Çalışanlar",
+        "desc": "Hizmetleri çevrimiçi olarak paketleyin ve satın.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Camera",
+        "label": "Sosyal Medya Etkileyicileri",
+        "desc": "Sosyal platformlar aracılığıyla ürün satışı yapın.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Dijital Danışmanlar ve Koçlar",
+        "desc": "Danışmanlık veya koçluk programları satmak",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Boxes",
+        "label": "Abonelik Kutusu Hizmetleri",
+        "desc": "Tekrarlayan ürün teslimat modelleri",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Code",
+        "label": "Dijital Ürünler ve Yazılımlar",
+        "desc": "Kurslar, indirmeler, SaaS satışı yapın.",
+        "color": "from-yellow-400 to-lime-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "İhtiyacınız olup olmadığından emin değil misiniz?",
+      "text": "Uzmanlarımızla konuşun",
+      "buttonText": "Uzmana Sor",
+      "whatsappMessage": "Merhaba! Dubai'de e-ticaret lisansına ihtiyacım olup olmadığını öğrenmek istiyorum."
+    }
+  },
+  "benefitsSection": {
+    "badge": "Çevrimiçi Mağazanızı Yasallaştırın",
+    "title": "E-ticaret Lisansının Faydaları",
+    "titleHighlight": "E-ticaret Lisansı",
+    "subtitle": "Dubai'de çevrimiçi girişiminizi başlatmanın dokuz güçlü avantajı.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "description": "Yerel sponsora ihtiyaç duymadan işletmenizin tam kontrolünü elinizde tutun. Kararlar üzerinde tam yetki ve %100 kar elde etme imkanı.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "%0 Gelir ve Kurumlar Vergisi",
+        "description": "Uygun Serbest Bölgelerde faaliyet gösteren e-ticaret işletmeleri %0 kişisel gelir vergisi ve %0 kurumlar vergisinden yararlanır. Kazançlarınızı büyümeye yeniden yatırın.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Hızlı Kurulum",
+        "description": "Lisanslama süreci, yetki alanına bağlı olarak 1-5 gün sürer. Faaliyet seçimi, belgeler, isim rezervasyonu ve onay işlemlerini biz üstleniyoruz.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "Birleşik Arap Emirlikleri ve Dünya Pazarlarına Erişim",
+        "description": "Birleşik Arap Emirlikleri genelinde sevkiyat yapın ve Orta Doğu, Afrika, Avrupa ve Asya'ya genişleyin. Dubai limanlarından ve serbest ticaret yetki alanından yararlanın.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Uygun Fiyatlı Kurulum ve Yenilemeler",
+        "description": "En uygun fiyatlı işletme lisansı seçeneklerinden biri; serbest çalışanlar, tek başına çalışan girişimciler ve küçük işletmeler için ideal.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Çevrimiçi Ödeme Geçidi Erişimi",
+        "description": "PayTabs, Telr, Stripe ve Network International ile entegre olun; kartları, dijital cüzdanları ve banka havalelerini kabul edin.",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Lojistik Entegrasyonu",
+        "description": "Gönderim, takip, depolama ve sipariş karşılama konularında Aramex, Fetchr, DHL ve Emirates Post ile ortaklık kurun.",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Dijital Ofis ve Esnek Masa Seçenekleri",
+        "description": "Fiziksel bir mekana veya depoya ihtiyaç yok. Esnek çalışma masaları ve paylaşımlı çalışma alanlarından yararlanabilirsiniz.",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Başlangıcınızı Kolaylaştırıyoruz",
+    "title": "E-ticaret Lisansı Nasıl Alınır?",
+    "titleHighlight": "E-ticaret Lisansı",
+    "subtitle": "Faaliyetten lansmana kadar 10 basit adım.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Faaliyetlerinizi Tanımlayın",
+        "description": "Lütfen ilgili e-ticaret faaliyetini seçin (çevrimiçi ticaret, web portalı, çevrimiçi hizmetler).",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "02",
+        "icon": "MapPin",
+        "title": "Yargı Yetkisini Seçin",
+        "description": "Hedef pazarınız ve bütçenize göre Anakara ve Serbest Bölge arasında karar verin.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "03",
+        "icon": "FileSignature",
+        "title": "Ticari Adı Tescil Et",
+        "description": "Çevrimiçi işletmeniz için benzersiz, marka değeri taşıyan bir isim seçin.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "04",
+        "icon": "FileCheck",
+        "title": "Başvuruyu Gönder",
+        "description": "Pasaport fotokopilerini, vizeyi, iş planını (gerekliyse) ve fotoğrafları hazırlayın.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "step": "05",
+        "icon": "Building2",
+        "title": "Dijital Ofis Kiralama",
+        "description": "Lisans verilmesi için gereklidir. Esnek çalışma masası veya paylaşımlı çalışma alanı.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "step": "06",
+        "icon": "ScrollText",
+        "title": "Ehliyetinizi Alın",
+        "description": "Yetkili mahkemeye bağlı olarak 1-5 gün içinde düzenlenir.",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "step": "09",
+        "icon": "CreditCard",
+        "title": "Ödeme Ağ Geçitlerini Bağlayın",
+        "description": "Stripe, Telr, PayTabs veya tercih ettiğiniz ödeme işlemcisi.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "10",
+        "icon": "Rocket",
+        "title": "Mağazanızı Açın",
+        "description": "Satışa başlayın! Tam platform entegrasyon desteği mevcuttur.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "jurisdictionsSection": {
+    "badge": "Karşılaştırın, Seçin, Akıllıca Başlayın",
+    "title": "Anakara mı, Serbest Bölge mi?",
+    "titleHighlight": "Serbest Bölge mi?",
+    "subtitle": "Yetki alanlarını karşılaştırmak ve işletmenize uygun olanı seçmek için kaydırın.",
+    "items": [
+      {
+        "id": "freezone",
+        "icon": "Factory",
+        "title": "Serbest Bölge",
+        "tagline": "Uluslararası ve B2B için ideal",
+        "description": "%100 sahiplik, vergi yok, düşük maliyet sunar. Uluslararası satış veya B2B için idealdir. Popüler Serbest Bölgeler: IFZA, SHAMS, CommerCity, SPC.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "%100 Yabancı Mülkiyeti",
+          "Kurumlar Vergisi Yok",
+          "Daha düşük kurulum maliyeti",
+          "IFZA · SHAMS · CommerCity · SPC"
+        ],
+        "bestFor": "Uluslararası Satıcılar"
+      },
+      {
+        "id": "mainland",
+        "icon": "Building",
+        "title": "Anakara",
+        "tagline": "Yerel B2C Satışları İçin Gereklidir",
+        "description": "Birleşik Arap Emirlikleri içindeki müşterilere doğrudan satış yapmak (B2C) istiyorsanız gereklidir. Artık çoğu sektörde yerel bir ortağa ihtiyaç duymadan işletmenizin %100'üne sahip olabilirsiniz.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "Doğrudan Yerel B2C Satışları",
+          "%100 Sahiplik (Çoğu Sektör)",
+          "BAE Pazarına Erişim",
+          "Devlet Sözleşmeleri"
+        ],
+        "bestFor": "Birleşik Arap Emirlikleri'ndeki Yerel Satıcılar"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "İhtiyacınız Olanlar",
+    "title": "Gerekli Belgeler",
+    "titleHighlight": "Belgeler",
+    "subtitle": "Tüm evrak işlemlerini ve onayları sizin adınıza biz hallediyoruz.",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "Vize veya Giriş Damgası",
+        "desc": "Uygulanabilirse"
+      },
+      {
+        "icon": "Camera",
+        "label": "Pasaport Boyutunda Fotoğraflar",
+        "desc": "Son dönem, beyaz arka plan"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Üç Önerilen Ticari İsim",
+        "desc": "Benzersiz ve markalaştırılabilir"
+      },
+      {
+        "icon": "Home",
+        "label": "Ofis Kiralama Sözleşmesi",
+        "desc": "Bazı Serbest Bölgeler veya Anakara için"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "NOC Sertifikası",
+        "desc": "Mevcut vizesi olan BAE sakinleri için"
+      }
+    ]
+  },
+  "platformsSection": {
+    "badge": "Her Yerde Satış Yapın",
+    "title": "Herhangi bir platformda satış yapın.",
+    "titleHighlight": "Herhangi bir platform",
+    "subtitle": "Büyük pazar yerlerinde ve sosyal platformlarda kayıt olun, satış yapın ve pazarlama faaliyetlerinde bulunun.",
+    "items": [
+      {
+        "name": "Amazon.ae",
+        "icon": "ShoppingBag",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "name": "Öğlen.com",
+        "icon": "Store",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "name": "Shopify",
+        "icon": "ShoppingCart",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "name": "WooCommerce",
+        "icon": "Laptop",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "name": "Wix Mağazası",
+        "icon": "Globe",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "name": "AliExpress Dropship",
+        "icon": "Package",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "integrationsSection": {
+    "title": "Ödeme Ağ Geçitleri ve Lojistik Ortakları",
+    "paymentGateways": [
+      {
+        "name": "Şerit",
+        "icon": "CreditCard",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "name": "PayTabs",
+        "icon": "CreditCard",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "name": "Telr",
+        "icon": "CreditCard",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "name": "Uluslararası Ağ",
+        "icon": "CreditCard",
+        "color": "from-red-400 to-orange-600"
+      }
+    ],
+    "logisticsPartners": [
+      {
+        "name": "Aramex",
+        "icon": "Truck",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "name": "Fetchr",
+        "icon": "Truck",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "name": "DHL",
+        "icon": "Truck",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "name": "Emirates Postanesi",
+        "icon": "Truck",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "İşletme Kurma Uzmanları",
+    "titleHighlight": "Uzmanlar",
+    "subtitle": "Girişimcilerin e-ticaret kurulumları için bize güvenmelerinin sekiz nedeni.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "label": "İşletme Kurma Uzmanları",
+        "desc": "Eğitimli personel size A'dan Z'ye rehberlik eder."
+      },
+      {
+        "icon": "Rocket",
+        "label": "Hızlı Lisans Onayları",
+        "desc": "Kanıtlanmış yöntemimizle 2-5 gün."
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Tam Hükümet Koordinasyonu",
+        "desc": "Doğru başvurular, sorunsuz onaylar"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "Güvenli Ödeme Ağ Geçitleri",
+        "desc": "İlk günden itibaren kurulum"
+      },
+      {
+        "icon": "Laptop",
+        "label": "Platform Eğitimi",
+        "desc": "Shopify, Amazon, Noon rehberliği"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Özel Müşteri Temsilcisi",
+        "desc": "Kişisel ilişkiler yöneticisi"
+      },
+      {
+        "icon": "Palette",
+        "label": "Markalaşma, CRM ve Web Sitesi",
+        "desc": "Tamamen dijital kurulum"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "İşletme Büyüme Beklentisi",
+    "title": "Hayalinizdeki İşletmeyi Kurun",
+    "titleHighlight": "Hayalinizdeki İşletme",
+    "subtitle": "Çevrimiçi işletmeniz uzman ellerde.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10.000+",
+        "label": "Kurulan Şirketler",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "Küresel",
+        "label": "Satıcı Erişimi",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Önde gelen",
+        "label": "E-ticaret Merkezi",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "7.500 AED",
+        "label": "Başlangıç Maliyeti",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "1-5",
+        "label": "Kurulum Günleri",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Tercih edilen",
+        "label": "Satıcı Ortağı",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Dubai'de E-ticaret Lisansı hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "E-ticaret uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+      "whatsappMessage": "Merhaba! Dubai'de e-ticaret lisansı hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "E-ticaret işletmemi Dubai dışından yönetebilir miyim?",
+        "a": "Evet. Birçok Serbest Bölge uzaktan işlem yapmanıza izin veriyor. Eğer BAE'de ikamet ediyorsanız ve banka hesabı açmak istiyorsanız, kimlik doğrulama (KYC) işlemleri için geçici olarak Dubai'yi ziyaret etmeniz gerekebilir."
+      },
+      {
+        "q": "E-ticaret lisansı için depo gerekli mi?",
+        "a": "Hayır. Çoğu e-ticaret lisansı yalnızca esnek çalışma masası veya paylaşımlı çalışma alanı gerektirir. Depolar isteğe bağlıdır ve fiziksel depolama alanına ihtiyacınız varsa daha sonra eklenebilir."
+      },
+      {
+        "q": "Aynı lisansı kullanarak hem ürün hem de hizmet satabilir miyim?",
+        "a": "Evet. E-ticaret lisansı hem fiziksel ürünleri hem de dijital hizmetleri kapsar; bunlar arasında çevrimiçi ticaret, web portalları ve indirilebilir ürünler yer alır."
+      },
+      {
+        "q": "Hangi ödeme yöntemlerini kullanabilirim?",
+        "a": "Stripe, PayTabs, Telr, Network International ve diğer bölgesel ve uluslararası ödeme işlemcileriyle entegrasyon sağlayabilirsiniz. Kurulum ve entegrasyon konusunda size yardımcı oluyoruz."
+      },
+      {
+        "q": "Birleşik Arap Emirlikleri'nde banka hesabına ihtiyacım var mı?",
+        "a": "Şiddetle tavsiye edilir. Birleşik Arap Emirlikleri'nde kurumsal banka hesabı, yerel ödemeleri kabul etmenize, ödeme ağ geçitleriyle entegre olmanıza ve mali işlerinizi verimli bir şekilde yönetmenize olanak tanır."
+      },
+      {
+        "q": "Bu lisansla personel çalıştırabilir miyim?",
+        "a": "Evet. E-ticaret lisansı, vize kotanıza bağlı olarak personeliniz için çalışma vizesi ve aile üyeleriniz için bağımlı vizesi sponsorluğu yapmanıza olanak tanır."
+      },
+      {
+        "q": "Bu ehliyetle vize alabilir miyim?",
+        "a": "Evet. Yatırımcı vizesi (sahip olarak) ve ekibiniz için çalışan vizesi başvurusunda bulunabilirsiniz. Sağlık kontrolleri ve Emirates Kimlik Kartı dahil tüm vize sürecini biz hallediyoruz."
+      },
+      {
+        "q": "İşletmem Dubai'de vergilendiriliyor mu?",
+        "a": "Uygun Serbest Bölgelerde faaliyet gösteren e-ticaret işletmeleri %0 kişisel gelir vergisi ve %0 kurumlar vergisinden yararlanır. Tam kapsamlı vergi danışmanlığı ve KDV kayıt rehberliği hizmeti sunuyoruz."
+      },
+      {
+        "q": "Lisansı almak ne kadar sürüyor?",
+        "a": "Genellikle, bulunduğunuz yargı bölgesine ve belgelerin ne kadar hızlı sağlandığına bağlı olarak 1-5 iş günü sürer. Tüm süreci hızlandırıyoruz."
+      },
+      {
+        "q": "Lisansımı daha sonra yükseltebilir veya genişletebilir miyim?",
+        "a": "Evet. İşletmeniz büyüdükçe yeni faaliyetler ekleyebilir, ofis alanınızı yükseltebilir, vize kotanızı artırabilir veya birden fazla yargı bölgesine yayabilirsiniz."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "E-ticaret lisansınızla uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "company-registration",
+        "title": "Dubai'de Şirket Kaydı",
+        "description": "Hızlı ve uygun fiyatlı kayıt, 5.750 AED'den başlayan fiyatlarla.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "slug": "residence-visa",
+        "title": "BAE Oturma Vizesi",
+        "description": "Girişimciler için 2-10 yıllık ikamet programı.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-pink-400 to-rose-600"
+      },
+      {
+        "slug": "free-zone-company-setup",
+        "title": "Serbest Bölge Şirketi Kurulumu",
+        "description": "Vergisiz bölgelerde %100 mülkiyet hakkı.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-rose-400 to-red-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Çevrimiçi Mağazanızı Yasallaştırın",
+    "title": "E-ticaret işletmenizi kurmaya hazır mısınız?",
+    "titleHighlight": "E-ticaret İşletmesi mi?",
+    "subtitle": "Dubai'de kendi işinizi kolaylıkla kurun. Lisanslama ve vizeden ödeme ağ geçitlerine ve banka hesaplarına kadar her şeyi biz hallediyoruz.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "7.500 AED'den başlayan fiyatlarla",
+      "1-5 Gün Kurulum"
+    ],
+    "whatsappMessage": "Merhaba! E-ticaret lisansı için ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! E-ticaret lisansı hakkında görüşmek istiyorum."
+  }
+}

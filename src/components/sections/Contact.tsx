@@ -24,13 +24,16 @@ import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import contactData from '../../content/home/contact.json';
 import WhatsAppIcon from '../icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Phone, Mail, MapPin, Zap, Lock, CheckCircle2,
 };
 
 export default function Contact({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || contactData;
+const { language } = useLanguage();
+const contactFallback = loadContent('home/contact', language);
+const data = tinaData?.data?.home || contactFallback;
   const [formData, setFormData] = useState({
     name: '',
     email: '',

@@ -1,0 +1,150 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1600&q=80",
+  "heroBadge": "Build a Website That Works",
+  "heroTitle": "Web Development in Dubai",
+  "heroTitleHighlight": "Dubai",
+  "heroSubtitle": "Professional web design and development solutions to boost brand presence, enhance user experience, and drive conversions. Custom websites that work 24/7 for your business.",
+  "heroChips": ["Fast Loading", "Mobile-First", "SEO Ready"],
+
+  "stats": [
+    { "icon": "Gauge", "value": "90+", "label": "PageSpeed Score", "color": "from-amber-400 to-orange-600" },
+    { "icon": "Smartphone", "value": "100%", "label": "Mobile Responsive", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Search", "value": "SEO", "label": "Ready Built-In", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Users", "value": "500+", "label": "Websites Built", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whyEssentialSection": {
+    "badge": "Why It Matters",
+    "title": "Why Is a Professional Website Important?",
+    "titleHighlight": "Important?",
+    "subtitle": "In today's digital-first economy, your website is the first impression customers have of your brand. Make it count.",
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&q=80",
+    "imageBadgeTitle": "First Impression",
+    "imageBadgeText": "Your Website Matters",
+    "items": [
+      { "icon": "Eye", "title": "First Impression Matters", "description": "Your website is the first thing customers see. A slow or outdated site loses credibility instantly." },
+      { "icon": "TrendingUp", "title": "24/7 Digital Salesperson", "description": "A great website works day and night — attracting, engaging, and converting visitors into customers." },
+      { "icon": "Smartphone", "title": "Mobile-First Experience", "description": "Over 70% of UAE traffic is mobile. Your site must look and work perfectly on every device." },
+      { "icon": "Gauge", "title": "Speed = Revenue", "description": "Every 1-second delay reduces conversions by 7%. Fast websites make more money." },
+      { "icon": "Search", "title": "SEO-Ready Structure", "description": "Search-engine-optimized code helps you rank higher on Google and attract organic traffic." },
+      { "icon": "Target", "title": "Conversion-Focused Design", "description": "Strategic layouts, CTAs, and user flows that turn visitors into paying customers." }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "What We Offer",
+    "title": "Web Development Services We Provide",
+    "titleHighlight": "We Provide",
+    "subtitle": "Complete range of web development solutions for UAE businesses.",
+    "items": [
+      { "icon": "Palette", "title": "Custom Website Development", "description": "Completely custom designs reflecting your brand identity, delivering your value proposition, and meeting your business needs.", "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80" },
+      { "icon": "ShoppingCart", "title": "E-commerce Development", "description": "Secure, scalable online stores on Shopify, WooCommerce, Magento — with payment gateways and inventory integration.", "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80" },
+      { "icon": "Building2", "title": "Corporate Websites", "description": "Professional corporate sites that build credibility, present your services, and reflect your reputation.", "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80" },
+      { "icon": "Target", "title": "Landing Page Design", "description": "High-impact, conversion-centric pages for campaigns, product launches, and lead generation.", "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80" },
+      { "icon": "Layout", "title": "Content Management Systems", "description": "Flexible CMS platforms — WordPress, Drupal, Joomla. You control your content, easy to update.", "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" },
+      { "icon": "Database", "title": "Web Application Development", "description": "Powerful web apps to streamline processes, enhance customer experience, and improve efficiency.", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Where Innovation Meets Functionality",
+    "titleHighlight": "Functionality",
+    "subtitle": "We specialize in high-performance, scalable, and SEO-ready websites designed for long-term success — blending local UAE market expertise with international best practices.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&q=80",
+    "ctaText": "Talk to a Developer",
+    "ctaMessage": "Hi! I'd like to discuss a website project for my business.",
+    "features": [
+      { "icon": "Award", "label": "Local Market Expertise + Global Standards" },
+      { "icon": "Smartphone", "label": "Mobile-First Approach Always" },
+      { "icon": "Gauge", "label": "Speed, Security & Reliability First" },
+      { "icon": "Search", "label": "SEO-Ready From Day One" },
+      { "icon": "TrendingUp", "label": "Future-Ready & Scalable" },
+      { "icon": "ShieldCheck", "label": "Ongoing Maintenance & Support" }
+    ],
+    "browserMockup": {
+      "url": "https://yourbusiness.ae",
+      "brand": "YourBrand",
+      "navLinks": ["Home", "Services", "About"],
+      "ctaButton": "Contact",
+      "stats": [
+        { "value": "98", "label": "Speed", "bg": "bg-emerald-500/20", "border": "border-emerald-400/30" },
+        { "value": "100%", "label": "Mobile", "bg": "bg-sky-500/20", "border": "border-sky-400/30" },
+        { "value": "A+", "label": "SEO", "bg": "bg-violet-500/20", "border": "border-violet-400/30" }
+      ]
+    }
+  },
+
+  "processSection": {
+    "badge": "Our Process",
+    "title": "From Planning to Performance",
+    "titleHighlight": "Performance",
+    "subtitle": "A structured, transparent, and results-focused process.",
+    "steps": [
+      { "step": "01", "title": "Discovery & Strategy", "description": "In-depth consultation to define your brand, audience, business goals, and create a strategic roadmap.", "icon": "MessageCircle", "color": "from-amber-400 to-orange-600" },
+      { "step": "02", "title": "Design & Prototype", "description": "We create wireframes and visual mockups for approval before development begins.", "icon": "Palette", "color": "from-violet-400 to-purple-600" },
+      { "step": "03", "title": "Development & Testing", "description": "Clean code, responsive layouts, and rigorous testing across all devices and browsers.", "icon": "Code", "color": "from-sky-400 to-blue-600" },
+      { "step": "04", "title": "Launch & Support", "description": "Deploy to your domain, integrate tools, and provide ongoing maintenance and improvements.", "icon": "Rocket", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "revenueSection": {
+    "badge": "Revenue Driver",
+    "title": "Turning Your Website into a Profit Engine",
+    "titleHighlight": "Profit Engine",
+    "subtitle": "A well-developed website isn't just an online presence — it's a powerful business channel that builds brand trust, enhances credibility, and drives measurable revenue growth.",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+    "imageBadgeTitle": "Revenue Engine",
+    "imageBadgeText": "+156% Average Growth",
+    "items": [
+      { "icon": "Eye", "title": "Brand Trust", "description": "Professional design builds immediate credibility with visitors." },
+      { "icon": "Target", "title": "Better Conversions", "description": "Strategic CTAs and layouts turn visitors into customers." },
+      { "icon": "Gauge", "title": "Faster Load Times", "description": "Speed reduces bounce rate and increases engagement." },
+      { "icon": "Lock", "title": "Secure Payments", "description": "Safe checkout processes boost customer confidence." }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about web development in Dubai. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free website audit and consultation with our team.",
+      "whatsappMessage": "Hi! I have a question about web development in Dubai."
+    },
+    "items": [
+      { "q": "How much will it cost to build a website in Dubai?", "a": "Costs vary based on project type, design complexity, and features. We offer packages for basic corporate sites to large e-commerce platforms — every budget can be accommodated." },
+      { "q": "How long will it take to get a website developed?", "a": "Landing page: 1-2 weeks. Business website: 3-4 weeks. E-commerce: 6-8 weeks. Timeline depends on your requirements and how fast content is provided." },
+      { "q": "Will my website be mobile-ready?", "a": "Absolutely. Every website we build is mobile-first and tested on smartphones, tablets, and desktops." },
+      { "q": "Do you build SEO-ready websites?", "a": "Yes. All our websites come with clean code, optimized meta tags, fast loading times, and mobile responsiveness — all SEO fundamentals built-in." },
+      { "q": "I already have a website — can you redesign it?", "a": "Yes. We offer website redesign services to modernize outdated sites, improve speed, and enhance user experience." },
+      { "q": "Do you also do e-commerce website development?", "a": "Yes. We build e-commerce stores on Shopify, WooCommerce, and Magento with full payment gateway and inventory integration." },
+      { "q": "Will I be able to update my website myself?", "a": "Yes. We use CMS platforms like WordPress so you can easily update content, add pages, and manage your site without technical skills." },
+      { "q": "Do you provide website maintenance and support?", "a": "Yes. We offer ongoing maintenance packages that include updates, backups, security monitoring, and technical support." },
+      { "q": "Can you integrate payment gateways and other tools?", "a": "Absolutely. We integrate payment gateways (Stripe, PayPal, Telr, etc.), CRM systems, booking tools, and marketing platforms." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with web development.",
+    "items": [
+      { "slug": "seo", "title": "SEO Services", "description": "Rank higher on Google and drive organic traffic.", "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80", "gradient": "from-lime-400 to-green-600" },
+      { "slug": "digital-marketing", "title": "Digital Marketing", "description": "Custom campaigns, social media, and content strategy.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80", "gradient": "from-pink-400 to-rose-600" },
+      { "slug": "accounting", "title": "Accounting", "description": "Bookkeeping, VAT, and financial reporting.", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80", "gradient": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Let's Build Together",
+    "title": "Ready to Build Your Future-Ready Website?",
+    "titleHighlight": "Future-Ready Website?",
+    "subtitle": "Your audience is searching for you right now. Partner with us and get a website that works as hard as you do — 24/7.",
+    "chips": ["Free Website Audit", "500+ Sites Built", "Ongoing Support"],
+    "whatsappMessage": "Hi! I'd like a free website consultation for my business.",
+    "whatsappCardMessage": "Hi! I'd like to discuss a web development project."
+  }
+}

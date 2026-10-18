@@ -1,0 +1,129 @@
+{
+  "areaName": "Dubai Marina",
+  "areaShort": "Marina",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Service Area",
+  "heroTitle": "Business Setup in Dubai Marina",
+  "heroTitleHighlight": "Dubai Marina",
+  "heroSubtitle": "Dubai Marina is one of the city's most desirable business addresses: a waterfront district of towers, restaurants, and professionals, located minutes from DMCC's Jumeirah Lakes Towers (JLT) cluster and Dubai Media City.",
+
+  "stats": [
+    { "icon": "Building2", "value": "300+", "label": "Companies Setup", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Ownership", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "DollarSign", "value": "AED 9,500", "label": "Starting From", "color": "from-indigo-400 to-violet-600" }
+  ],
+
+  "whyChooseSection": {
+    "badge": "Why Businesses Choose Dubai Marina",
+    "title": "A Waterfront Business Address",
+    "titleHighlight": "Business Address",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&q=80",
+    "imageBadgeTitle": "Location",
+    "imageBadgeText": "Dubai Marina, Dubai",
+    "paragraph": "Companies setting up in the Marina usually choose a free zone license from the nearby JLT authorities, a mainland DED license, or one of the city's business districts — each with different costs and permissions.",
+    "items": [
+      { "icon": "MapPin", "title": "Prime Postal Address", "desc": "A Marina tower address carries prestige for clients and banks" },
+      { "icon": "Users", "title": "Fast-Growing SME Community", "desc": "Consultancies, real estate, marketing, and trading firms cluster here" },
+      { "icon": "Zap", "title": "Excellent Transport", "desc": "Sheikh Zayed Road, Metro (JLT/Sobha Realty stations), and Dubai Harbour nearby" },
+      { "icon": "Landmark", "title": "Walkable Lifestyle", "desc": "Client meetings, co-working spaces, and residential options within minutes" }
+    ]
+  },
+
+  "jurisdictionsSection": {
+    "badge": "Best Jurisdictions",
+    "title": "Best Jurisdictions for a Marina Business",
+    "titleHighlight": "Marina Business",
+    "subtitle": "Choose the right license type for your business goals.",
+    "items": [
+      {
+        "icon": "Globe",
+        "name": "DMCC Free Zone (JLT)",
+        "bestFor": "Trading, commodities, and international companies",
+        "cost": "from AED 9,500",
+        "notes": "Two minutes from the Marina; world-class trading infrastructure.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Layers",
+        "name": "Dubai Multi Commodities other zones",
+        "bestFor": "Media, tech, and creative businesses",
+        "cost": "from AED 9,000",
+        "notes": "Adjacent to the Marina on the same strip of Sheikh Zayed Road.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Landmark",
+        "name": "Mainland (DED)",
+        "bestFor": "Retail, restaurants, gyms, and local trade",
+        "cost": "from AED 14,500",
+        "notes": "Requires a registered office (Ejari) and allows trading anywhere in the UAE.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+
+  "costGuideSection": {
+    "badge": "Cost Guide 2026",
+    "title": "Typical Marina Setup Costs",
+    "titleHighlight": "Setup Costs",
+    "paragraph1": "A free zone license for a Marina-based services company typically lands between AED 9,000 and AED 15,000 including the trade license, activity fees, and a flexi-desk.",
+    "paragraph2": "Adding a residency visa raises the total by roughly AED 5,000–8,000 (visa, Emirates ID, medical, and typing).",
+    "note": "Mainland costs start higher because of the mandatory office lease."
+  },
+
+  "processSection": {
+    "badge": "Process",
+    "title": "Steps to Register in the Marina Area",
+    "titleHighlight": "Marina Area",
+    "steps": [
+      { "num": "01", "title": "Choose Your Activity", "desc": "Confirm it fits a free zone or mainland license.", "color": "from-cyan-400 to-sky-600" },
+      { "num": "02", "title": "Reserve a Trade Name", "desc": "Check availability with the authority.", "color": "from-sky-400 to-blue-600" },
+      { "num": "03", "title": "Prepare Documents", "desc": "Passport copies and, for mainland, your tenancy contract.", "color": "from-blue-400 to-indigo-600" },
+      { "num": "04", "title": "Submit Application", "desc": "Free zones approve in 3–7 days, mainland in 2–4 weeks.", "color": "from-indigo-400 to-violet-600" },
+      { "num": "05", "title": "Collect License", "desc": "Apply for your visa and open a corporate bank account.", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "areaFaqsSection": {
+    "badge": "Area FAQs",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "items": [
+      { "q": "Can I use a Marina residential address as my business address?", "a": "Free zones require their own registered address (typically a flexi-desk or office). A residential apartment cannot serve as the licensed commercial address." },
+      { "q": "Is Dubai Marina in a free zone?", "a": "No – the Marina itself is mainland Dubai. Businesses use the surrounding free zones (DMCC JLT, Media City) or a mainland DED license." },
+      { "q": "What is the fastest way to get a Marina business license?", "a": "A DMCC free zone license can be issued within a week when documents are complete." },
+      { "q": "Do I need to visit Dubai to incorporate?", "a": "No – most free zones allow remote setup with electronic document processing and a representative on the ground." }
+    ]
+  },
+
+  "quickAnswersSection": {
+    "badge": "Quick Answers",
+    "title": "Quick Answers",
+    "titleHighlight": "Answers",
+    "subtitle": "Common questions about business setup in Dubai. Still have questions? We're one message away.",
+    "relatedServicesTitle": "Related Services & Guides",
+    "items": [
+      { "q": "How much does it cost to start a business in Dubai?", "a": "Business setup in Dubai starts from AED 9,500 for a basic free zone license. Mainland setup starts from AED 14,500." },
+      { "q": "Can a foreigner 100% own a company in Dubai?", "a": "Yes, foreigners can 100% own companies in most free zones and many mainland activities." },
+      { "q": "What is the cheapest free zone in Dubai?", "a": "RAK ICC, Ajman FTZ, and SRTIP offer the most affordable packages starting from AED 5,900." },
+      { "q": "How long does company registration take in Dubai?", "a": "Free zone registration takes 3-7 business days. Mainland takes 2-4 weeks." },
+      { "q": "Do I need a local partner in Dubai?", "a": "Not in free zones. In mainland, many activities now allow 100% foreign ownership." }
+    ],
+    "relatedServices": [
+      { "icon": "FileText", "title": "Dubai Company Registration Checklist", "desc": "Free downloadable PDF guide", "color": "from-cyan-400 to-sky-600", "link": "#" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Ready to Start?",
+    "title": "Ready to Start Your Business in Dubai Marina?",
+    "titleHighlight": "Dubai Marina",
+    "subtitle": "Contact our team of business setup experts today for a free consultation. We'll guide you through every step of the company formation process.",
+    "primaryCta": "Contact Us Now",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I want to setup my business in Dubai Marina."
+  }
+}

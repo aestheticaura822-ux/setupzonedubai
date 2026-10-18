@@ -1,0 +1,83 @@
+{
+  "badge": "我们的流程",
+  "heading": {
+    "line1": "从构思到产品发布",
+    "highlight": "6 个简单步骤"
+  },
+  "subtitle": "我们负责一切——从首次咨询到后续支持。我们拥有成熟透明的流程，深受500多家阿联酋企业的信赖。",
+  "stepsLabel": "步",
+  "stepsLabelSuffix": "的",
+  "steps": [
+    {
+      "number": "01",
+      "icon": "MessageCircle",
+      "title": "免费咨询",
+      "description": "我们了解您的业务目标、行业和签证需求，并推荐最佳的自由区或大陆设立方案。",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+    },
+    {
+      "number": "02",
+      "icon": "FileText",
+      "title": "文件准备",
+      "description": "我们的团队负责处理所有文书工作——从许可证申请到公司章程的起草和翻译，全部按照阿联酋法规量身定制。",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+    },
+    {
+      "number": "03",
+      "icon": "Building2",
+      "title": "公司注册",
+      "description": "我们会向相关机构（自由区、大陆等）注册您的公司，并获得所有必要的批准。",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800&q=80"
+    },
+    {
+      "number": "04",
+      "icon": "UserCheck",
+      "title": "签证和阿联酋身份证",
+      "description": "我们会为您申请居留签证、入境许可、体检、阿联酋身份证，以及必要的工作签证。",
+      "gradient": "from-emerald-400 to-teal-600",
+      "glow": "rgba(16,185,129,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+    },
+    {
+      "number": "05",
+      "icon": "CreditCard",
+      "title": "公司银行账户",
+      "description": "根据您的企业概况，为您引荐合适的银行合作伙伴——并提供全面的文件准备指导。",
+      "gradient": "from-cyan-400 to-blue-600",
+      "glow": "rgba(34,211,238,0.5)",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+    },
+    {
+      "number": "06",
+      "icon": "Headphones",
+      "title": "持续支持",
+      "description": "我们将继续协助提供专业服务、合规性、许可证续期和企业咨询服务。",
+      "gradient": "from-pink-400 to-rose-600",
+      "glow": "rgba(236,72,153,0.5)",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80"
+    }
+  ],
+  "bottomCTA": {
+    "icon": "Rocket",
+    "title": "准备好在迪拜开展业务了吗？",
+    "subtitle": "首先，您可以享受免费咨询服务。我们将指导您完成整个流程的每一步。",
+    "primaryCta": "立即开始",
+    "secondaryCta": "致电我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想在迪拜设立公司。我们可以安排一次免费咨询吗？",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "trustIndicators": [
+      "500多家企业成功上线",
+      "平均搭建时间：3-5天",
+      "免费咨询",
+      "符合FTA规定"
+    ]
+  }
+}

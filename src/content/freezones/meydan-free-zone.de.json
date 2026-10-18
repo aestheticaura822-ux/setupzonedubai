@@ -1,0 +1,381 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Medien leicht gemacht",
+  "heroTitle": "Freihandelszone Meydan",
+  "heroTitleHighlight": "Freizone",
+  "heroSubtitle": "Ihr Weg zu 100 % Eigentum, Steuervorteilen und einer unkomplizierten Unternehmensgründung. Im Herzen von Dubai gelegen – ideal für Startups, Freiberufler und internationale Unternehmen.",
+  "heroChips": [
+    "100% Eigentum",
+    "0 % Steuer",
+    "1-3 Tage Aufbauzeit"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "1-3",
+      "label": "Tagesaufbau",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Target",
+      "value": "1500+",
+      "label": "Geschäftstätigkeit",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyMeydanSection": {
+    "badge": "Für Erweiterung ausgelegt",
+    "title": "Warum Sie die Meydan Free Zone wählen sollten",
+    "titleHighlight": "Freihandelszone Meydan",
+    "subtitle": "Eine innovative und effiziente Option für Startups, Freiberufler und internationale Unternehmen.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "description": "Vollständige Eigentümerschaft ohne lokalen emiratischen Sponsor – uneingeschränkte Kontrolle über Gewinne und Entscheidungen.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "klein"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Keine persönliche und Unternehmenssteuer",
+        "description": "0 % Steuern auf persönliches und Unternehmenseinkommen – mehr Gewinn behalten und in Wachstum reinvestieren.",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "klein"
+      },
+      {
+        "icon": "Package",
+        "title": "Keine Ein- oder Ausfuhrzölle",
+        "description": "Befreiung von Import- und Exportzöllen – erleichtert den globalen Handel und die Logistik.",
+        "color": "from-cyan-400 to-sky-600",
+        "size": "klein"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle und ortsunabhängige Einrichtung",
+        "description": "Erledigen Sie den gesamten Prozess online – beantragen, einreichen, bezahlen und erhalten Sie Ihre Lizenz in nur wenigen Tagen, ohne die VAE besuchen zu müssen.",
+        "color": "from-violet-500 to-purple-600",
+        "size": "groß"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Kostengünstige Pakete",
+        "description": "Wettbewerbsfähige Lizenzierung mit flexiblen Paketen für Startups, Freiberufler und etablierte Unternehmen.",
+        "color": "from-sky-400 to-blue-600",
+        "size": "klein"
+      },
+      {
+        "icon": "Building2",
+        "title": "Seriöse Geschäftsadresse",
+        "description": "Eine prestigeträchtige Adresse in einer prominenten Lage in Dubai schafft Vertrauen bei den Kunden.",
+        "color": "from-emerald-500 to-green-600",
+        "size": "klein"
+      }
+    ]
+  },
+  "readyToLaunchSection": {
+    "badge": "Bereit für den Start?",
+    "title": "Gründen Sie Ihr Unternehmen in der Freihandelszone Meydan",
+    "titleHighlight": "Freihandelszone Meydan",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Einrichtungszeit",
+    "imageBadgeText": "1-3 Werktage",
+    "paragraphs": [
+      "Profitieren Sie von 100 % ausländischem Eigentum, steuerfreien Gewinnen und einer beschleunigten Online-Firmengründung in nur wenigen Tagen. Die Meydan Free Zone ist einer der strategisch wichtigsten und unternehmerfreundlichsten Standorte in Dubai.",
+      "Wir übernehmen den gesamten Prozess für Sie – von der Auswahl des passenden Lizenzpakets und der Erstellung der Dokumente bis hin zur Visabeschaffung, Bürolösungen und sogar der Eröffnung Ihres Firmenbankkontos.",
+      "Egal ob Startup, KMU oder globaler Investor – die Meydan Free Zone bietet alles, was Sie für Ihr Wachstum benötigen, und wir sorgen dafür, dass Ihre Reise vom ersten Tag an reibungslos verläuft."
+    ],
+    "highlights": [
+      "100% Eigentum",
+      "Steuerfreie Gewinne",
+      "Vollständige Fernkonfiguration",
+      "Keine versteckten Kosten"
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lizenzarten",
+    "title": "Gründen Sie hier Ihr Unternehmen",
+    "titleHighlight": "Hier",
+    "subtitle": "Eine Vielzahl von Lizenzen für verschiedene Geschäftstätigkeiten.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Gewerbelizenz",
+        "description": "Handel und allgemeine Geschäftstätigkeit.",
+        "code": "COM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Dienstleistungslizenz",
+        "description": "Beratung, Marketing, IT und professionelle Dienstleistungen.",
+        "code": "SRV",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Medienlizenz",
+        "description": "Werbung, Content-Erstellung und digitale Dienstleistungen.",
+        "code": "MEDIZIN",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce-Lizenz",
+        "description": "Produkte und Dienstleistungen legal online in den VAE verkaufen.",
+        "code": "ECM",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "badge": "Wichtigste Vorteile",
+    "title": "Schnelle Lizenzierung. Einfacher Start.",
+    "titleHighlight": "Einfacher Start.",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "Schnelle Anmeldung",
+        "description": "Firmenlizenz in 1-3 Tagen.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Kein Büro erforderlich",
+        "description": "Flexi-Desk-Option verfügbar.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "Vollständig online",
+        "description": "Dokumenteneinreichung, Unterzeichnung, Zahlung – alles online.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Crown",
+        "title": "Professionelle Adresse",
+        "description": "Hochkarätige, erstklassige Lage in Dubai.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Kostentransparenz",
+        "description": "Keine versteckten Gebühren oder Kosten.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Einrichtungsprozess",
+    "title": "Schrittweise Unternehmensgründung",
+    "titleHighlight": "Firmengründung",
+    "subtitle": "Ihr kompletter Weg von der Beratung bis zum Produktlaunch.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Wählen Sie Ihre Geschäftstätigkeit",
+        "description": "Wählen Sie aus über 1.500 von der Meydan Free Zone Authority genehmigten Aktivitäten – Beratung, Medien, Technologie, E-Commerce oder Handel.",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "Kostenlose Beratung",
+        "description": "Wir verstehen Ihre Ziele, Ihre Aktivitäten, Ihre Visabestimmungen und Ihr Budget – und beraten Sie zu den besten Optionen.",
+        "icon": "MessageCircle",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "Dokumenteneinreichung",
+        "description": "Wir bereiten Antragsformulare vor, stellen Passkopien zusammen und kümmern uns um die Namensgenehmigung – und gewährleisten so die vollständige Einhaltung aller Vorschriften.",
+        "icon": "FileText",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "Unterstützung bei der Lizenzbeantragung",
+        "description": "Wir kümmern uns um Ihre Lizenz für die Meydan Free Zone von A bis Z – von der Auswahl über die Einreichung bis hin zur schnellen Genehmigung.",
+        "icon": "BadgeCheck",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "Unterstützung nach der Lizenzierung",
+        "description": "Einrichtung eines Bankkontos, Visa, Emirates ID, medizinische Untersuchungen und Dokumentenbeglaubigung – ein reibungsloser Start für Ihr Unternehmen.",
+        "icon": "Users",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Unterlagen",
+    "title": "Welche Dokumente müssen Sie einreichen?",
+    "titleHighlight": "Müssen Sie etwas einreichen?",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "Passkopie",
+        "description": "Eine gut lesbare Kopie Ihres Reisepasses."
+      },
+      {
+        "icon": "Camera",
+        "label": "Passfoto",
+        "description": "Aktuelles Foto mit weißem Hintergrund."
+      },
+      {
+        "icon": "FileBadge",
+        "label": "3 vorgeschlagene Firmennamen",
+        "description": "Zur Bewertung und Genehmigung."
+      },
+      {
+        "icon": "Monitor",
+        "label": "E-Mail-Adresse und Telefonnummer",
+        "description": "Aktive E-Mail-Adresse und Telefonnummer für die Kommunikation."
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Warum Setup Zone Dubai wählen?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "Ihr zuverlässiger Partner für die Unternehmensgründung in der Meydan Free Zone.",
+    "items": [
+      {
+        "icon": "MessageCircle",
+        "title": "Kostenlose Beratung",
+        "description": "Wir beginnen mit einem kostenlosen Beratungsgespräch, um Ihre Geschäftsziele, Ihre Aktivitäten, Ihren Visabedarf und Ihr Budget zu verstehen – damit Sie vom ersten Tag an fundierte Entscheidungen treffen können.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Dokumenteneinreichung",
+        "description": "Unser Team übernimmt den gesamten Dokumentationsprozess – Antragsformulare, Passkopien, Namensgenehmigungen – alles in Übereinstimmung mit den Anforderungen der Freihandelszone.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "Unterstützung bei der Lizenzbeantragung",
+        "description": "Wir kümmern uns um Ihre Lizenz für die Meydan Free Zone von Anfang bis Ende – von der Auswahl der richtigen Lizenz über die Einreichung der Dokumente bis hin zur Gewährleistung einer schnellen Genehmigung.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Unterstützung nach der Lizenzierung",
+        "description": "Nach der Ausstellung Ihrer Lizenz unterstützen wir Sie bei der Einrichtung eines Bankkontos, Visaangelegenheiten, der Ausstellung der Emirates ID, medizinischen Untersuchungen und der Beglaubigung von Dokumenten – für einen reibungslosen Start.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Meydan Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren Meydan-Spezialisten beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zur Meydan Free Zone."
+    },
+    "items": [
+      {
+        "q": "Was ist die Meydan Free Zone und für wen ist sie geeignet?",
+        "a": "Die Meydan Free Zone ist eine führende Gewerbezone im Zentrum von Dubai mit vollständiger ausländischer Beteiligung, Steuerfreiheit und beschleunigter Genehmigungserteilung. Sie ist ideal für Startups, Unternehmer, Freiberufler und internationale Unternehmen, die sich kostengünstig und mit maximaler Freiheit in den VAE etablieren möchten."
+      },
+      {
+        "q": "Kann ich aus dem Ausland ein Unternehmen in der Freihandelszone Meydan gründen?",
+        "a": "Ja. Der gesamte Prozess kann online und aus der Ferne abgewickelt werden – Sie müssen nicht in die VAE reisen. Beantragen Sie Ihre Lizenz, reichen Sie die Dokumente ein, bezahlen Sie und erhalten Sie sie innerhalb weniger Tage online."
+      },
+      {
+        "q": "Welche Arten von Gewerbelizenzen kann ich in der Meydan Free Zone erhalten?",
+        "a": "Gewerbe-, Dienstleistungs-, Medien- und E-Commerce-Lizenzen – für mehr als 1.500 Geschäftsaktivitäten."
+      },
+      {
+        "q": "Wie lange dauert es, eine Gewerbeerlaubnis zu erhalten?",
+        "a": "In der Regel 1-3 Werktage, vorausgesetzt, alle Dokumente sind ordnungsgemäß vorbereitet."
+      },
+      {
+        "q": "Wird in der Meydan Free Zone physische Bürofläche benötigt?",
+        "a": "Nein. Meydan bietet eine Flexi-Desk-Option an – perfekt für Startups und Remote-Unternehmen."
+      },
+      {
+        "q": "Wie viele Visa sind im Rahmen der Lizenzen der Meydan Free Zone zulässig?",
+        "a": "Die Visakontingente hängen von Ihrem Lizenzpaket und der Art Ihres Büros ab. Wir helfen Ihnen, die richtige Kombination zu finden."
+      },
+      {
+        "q": "Ist es möglich, mit einer Lizenz für die Meydan Free Zone ein Firmenbankkonto zu eröffnen?",
+        "a": "Ja. Wir unterstützen Sie bei der Eröffnung von Firmenbankkonten bei führenden Banken in den VAE."
+      },
+      {
+        "q": "Kann ich Familienangehörige/Mitarbeiter im Rahmen der Meydan Free Zone sponsern?",
+        "a": "Ja. Meydan erlaubt die Sponsoring von Familienangehörigen und Mitarbeitern, abhängig von Ihrem Visakontingent."
+      },
+      {
+        "q": "Welche Dokumente werden für die Unternehmensgründung benötigt?",
+        "a": "Passkopie, Passfoto (weißer Hintergrund), 3 Vorschläge für Firmennamen und eine gültige E-Mail-Adresse/Telefonnummer."
+      },
+      {
+        "q": "Warum sollte ich Setup Zone Dubai für meine Firmengründung wählen?",
+        "a": "Wir bieten kostenlose Beratung, komplette Dokumentenabwicklung, schnelle Lizenzgenehmigung und umfassende Unterstützung nach der Lizenzerteilung, einschließlich Bankkonto, Visa und Emirates ID."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrem Meydan-System passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Digitales Marketing",
+        "description": "Soziale Medien, bezahlte Werbung und Content-Strategie.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Heute starten",
+    "title": "Bereit für den Start in Meydan?",
+    "titleHighlight": "Meydan?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess – von der Lizenzierung bis zum Launch.",
+    "chips": [
+      "Kostenlose Beratung",
+      "Über 1500 Aktivitäten",
+      "1-3 Tage Aufbauzeit"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung von Meydan.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über die Einrichtung von Meydan sprechen."
+  }
+}

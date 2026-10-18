@@ -1,0 +1,423 @@
+{
+  "slug": "mainland-visa",
+  "hero": {
+    "badge": "简化您的中国大陆签证",
+    "title": "迪拜及阿联酋大陆签证",
+    "titleHighlight": "在迪拜和阿联酋",
+    "subtitle": "在所有七个酋长国生活、工作和创业，不受自由区限制。完全灵活，无限机遇。",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+    "breadcrumbLabel": "阿联酋大陆签证",
+    "breadcrumbParent": "大陆",
+    "ctaPrimaryText": "获取免费咨询",
+    "ctaPrimaryLink": "＃接触",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对阿联酋大陆签证感兴趣。",
+    "badges": [
+      "2年有效期",
+      "7 阿联酋航空通道",
+      "可再生能源",
+      "家庭赞助"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2年",
+      "label": "可续签签证",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "7",
+      "label": "阿联酋航空通道",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Users",
+      "value": "无限",
+      "label": "员工签证",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "5-10",
+      "label": "处理天数",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "whatIsVisa": {
+    "badge": "无限机遇",
+    "title": "什么是阿联酋本土签证？",
+    "titleHighlight": "阿联酋大陆签证？",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "完全访问阿联酋",
+    "imageBadgeText": "无限制",
+    "paragraph1": "阿联酋大陆签证允许外国公民在阿联酋境内任何地方居住和工作，不受自由区限制。对于希望在阿联酋设立或拓展业务的专业人士、企业家和投资者而言，这是最灵活的签证选择。",
+    "items": [
+      {
+        "icon": "Landmark",
+        "title": "在阿联酋任何地方工作",
+        "description": "在阿联酋境内任何地方开展业务和服务，完全可以进入所有酋长国，实现无限增长和合作。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Award",
+        "title": "竞标政府合同",
+        "description": "获得参与高价值政府项目竞标的资格，从而提高收入、信誉、增长和机遇。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "担保家属和员工",
+        "description": "通过担保您的家人和家政人员在阿联酋获得长期稳定，同时轻松拓展您的业务并招聘员工。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "长期居住与稳定性",
+        "description": "有效期为2年，可无限期续签，并可获得黄金签证等长期签证选择。",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "advantages": {
+    "badge": "阿联酋大陆，无限潜力",
+    "title": "阿联酋大陆签证的优势",
+    "titleHighlight": "阿联酋大陆签证",
+    "subtitle": "与自由区签证或其他签证类型相比，具有六大优势。",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "在阿联酋境内自由运营",
+        "description": "在阿联酋七个酋长国开展和运营您的业务——充分灵活地进入阿联酋竞争激烈的市场。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "无限的增长潜力",
+        "description": "根据办公室规模招聘多名员工——实现团队无缝成长和业务从小到大的规模扩展。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Landmark",
+        "title": "参与政府项目的机会",
+        "description": "竞标政府在建筑、医疗保健、能源和技术领域的合同——在公共项目中建立信誉。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Heart",
+        "title": "家庭赞助",
+        "description": "担保家庭成员和家政人员——确保您在阿联酋发展事业和生活的同时，享有安全和稳定。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "银行与金融稳定",
+        "description": "内地公司被视为信誉良好——更容易获得银行服务、信贷，并与客户、供应商和投资者建立合作关系。",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "长期稳定性",
+        "description": "有效期为两年，可无限期续签，为获得阿联酋黄金签证、实现持久的商业和个人稳定提供途径。",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "licenseTypes": {
+    "badge": "你的事业，你的方式",
+    "title": "阿联酋大陆签证类型",
+    "titleHighlight": "阿联酋大陆签证",
+    "subtitle": "滑动浏览 4 种签证类别——找到适合您个人情况的签证类别。",
+    "items": [
+      {
+        "id": "investor",
+        "icon": "Briefcase",
+        "title": "投资者/合伙人签证",
+        "description": "专为企业家和投资者设计的阿联酋本土签证，让您可以在阿联酋生活、工作、管理您的业务、进入本地和全球市场，并获得信誉，从而在阿联酋取得长期成功。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": [
+          "在阿联酋生活和工作",
+          "管理您的业务",
+          "本地 + 全球访问",
+          "长期成功"
+        ],
+        "bestFor": "企业家与投资者"
+      },
+      {
+        "id": "employment",
+        "icon": "UserCheck",
+        "title": "工作签证",
+        "description": "此签证适用于受雇于阿联酋本土公司的专业人士，允许合法工作、获得阿联酋身份证、享受医疗保健，并有权担保家属。",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "合法工作许可",
+          "阿联酋身份证",
+          "医疗保健服务",
+          "家属担保"
+        ],
+        "bestFor": "熟练的专业人员"
+      },
+      {
+        "id": "dependent",
+        "icon": "UsersRound",
+        "title": "家属签证",
+        "description": "该签证允许阿联酋大陆签证持有者担保家庭成员，确保他们在阿联酋追求事业或业务发展的同时，也能享有安全和团聚。",
+        "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "家庭赞助",
+          "安全合法",
+          "团结",
+          "职业发展"
+        ],
+        "bestFor": "家庭成员"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "家政工人签证",
+        "description": "该签证允许合法雇用家政人员，确保其获得居留权、保障权益并遵守阿联酋劳动法。",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "法律招聘",
+          "全面保护",
+          "阿联酋劳动法",
+          "完全住院医师"
+        ],
+        "bestFor": "家政人员"
+      }
+    ]
+  },
+  "setupProcessSection": {
+    "badge": "准备文件，办理签证",
+    "title": "大陆签证申请步骤详解",
+    "titleHighlight": "大陆签证",
+    "subtitle": "五个简单步骤，即可获得阿联酋居留权。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Building2",
+        "title": "公司注册及营业执照",
+        "description": "您的阿联酋企业必须合法注册。选择公司类型，预留商号，提交文件，获得批准，必要时起草公司章程，并支付费用。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileText",
+        "title": "文件准备",
+        "description": "我们会为您准备有效护照、照片、入境许可、营业执照复印件、营业执照、劳动合同和体检证明。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "step": "03",
+        "icon": "BadgeCheck",
+        "title": "申请提交",
+        "description": "我们将直接协调您向阿联酋移民局提交完整的申请，以加快审批速度。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "step": "04",
+        "icon": "Fingerprint",
+        "title": "体检及阿联酋身份证",
+        "description": "在阿联酋指定中心完成所有体检和阿联酋身份证生物识别信息采集。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "step": "05",
+        "icon": "Camera",
+        "title": "签证盖章",
+        "description": "您的护照上已盖有最终居留签证章——您现在是阿联酋大陆的合法居民。",
+        "color": "from-pink-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "文档",
+    "title": "所需文件",
+    "titleHighlight": "文件",
+    "subtitle": "申请阿联酋大陆签证通常需要以下文件。",
+    "items": [
+      {
+        "icon": "Camera",
+        "label": "护照照片",
+        "desc": "近期，白色背景"
+      },
+      {
+        "icon": "FileText",
+        "label": "入境许可",
+        "desc": "如有需要"
+      },
+      {
+        "icon": "Building2",
+        "label": "营业执照副本",
+        "desc": "对于投资者或员工"
+      },
+      {
+        "icon": "IdCard",
+        "label": "营业执照",
+        "desc": "如有要求"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "雇佣合同",
+        "desc": "或合伙协议"
+      },
+      {
+        "icon": "Heart",
+        "label": "医疗证明",
+        "desc": "住院医师"
+      },
+      {
+        "icon": "Fingerprint",
+        "label": "阿联酋身份证表格",
+        "desc": "已完成的申请"
+      }
+    ]
+  },
+  "whyChooseUsSimple": {
+    "badge": "为什么选择迪拜Setup Zone",
+    "title": "为什么选择我们办理中国大陆签证服务？",
+    "titleHighlight": "大陆签证服务？",
+    "subtitle": "从始至终，合规、准确、快速。",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "全方位住院医师解决方案",
+        "desc": "旨在取得长期成功"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速审批",
+        "desc": "强大的阿联酋当局网络"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明收费",
+        "desc": "无任何隐藏费用"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "家庭赞助",
+        "desc": "端到端支持"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "续订及专业版",
+        "desc": "持续援助"
+      },
+      {
+        "icon": "Globe",
+        "label": "合规与速度",
+        "desc": "每次都准确无误"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于阿联酋大陆签证，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "items": [
+      {
+        "q": "什么是阿联酋本土签证？",
+        "a": "阿联酋本土签证是根据本土公司许可证签发的居留许可，允许外国公民在阿联酋境内任何地方生活、工作和经商，不受自由区限制。"
+      },
+      {
+        "q": "哪些人可以申请阿联酋大陆签证？",
+        "a": "企业家、投资者、企业主、技术专业人士、大陆公司员工及其家属或家政工人均可申请。"
+      },
+      {
+        "q": "阿联酋大陆签证主要有哪些类型？",
+        "a": "主要有 4 种类型：投资/合伙人签证、工作签证、家属签证和家庭佣工签证——每种签证都针对特定人群量身定制。"
+      },
+      {
+        "q": "阿联酋大陆签证有哪些优势？",
+        "a": "主要优势包括：可在全部 7 个酋长国自由运营、无限的增长潜力、参与政府项目的机会、家庭担保、银行信誉以及长期稳定性。"
+      },
+      {
+        "q": "阿联酋本土签证有效期有多长？",
+        "a": "阿联酋大陆签证有效期为两年，可无限期续签。它也是申请阿联酋黄金签证以实现长期稳定的途径。"
+      },
+      {
+        "q": "申请阿联酋大陆签证需要哪些文件？",
+        "a": "您通常需要有效期为 6 个月以上的护照、近期照片、入境许可、营业执照副本、营业执照、雇佣合同、体检证明和填妥的阿联酋身份证表格。"
+      },
+      {
+        "q": "如何一步步获得阿联酋大陆签证？",
+        "a": "包括：公司注册和营业执照 → 文件准备 → 申请提交 → 体检和阿联酋身份证 → 签证盖章。"
+      },
+      {
+        "q": "持有阿联酋大陆签证的人可以担保其家庭成员吗？",
+        "a": "是的。内地签证持有者可以担保配偶、子女和符合条件的家属。我们提供全程家庭担保流程服务。"
+      },
+      {
+        "q": "Setup Zone Dubai 如何协助办理阿联酋本土签证？",
+        "a": "我们提供全方位协助——咨询、文件准备、申请提交、医疗协调、阿联酋身份证办理和最终盖章。此外，还提供家庭担保、续签和公共关系服务。"
+      },
+      {
+        "q": "持有阿联酋大陆签证的人可以在所有酋长国开展业务吗？",
+        "a": "是的。持有阿联酋本土签证，您可以在所有七个酋长国自由活动，不受自由区签证的地域限制。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "相关服务",
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的中国大陆签证需求完美契合的服务。",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "大陆活动",
+        "description": "在迪拜和阿联酋境内，有超过 2000 项活动获得了迪拜经济发展局 (DED) 的批准。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "office-space-solutions",
+        "title": "阿联酋办公空间解决方案",
+        "description": "迪拜及阿联酋各地的优质办公空间。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "hiring-employee-management",
+        "title": "阿联酋招聘",
+        "description": "招聘与员工管理解决方案。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "立即办理签证",
+    "title": "准备好办理阿联酋大陆签证了吗？",
+    "titleHighlight": "阿联酋大陆签证？",
+    "subtitle": "预约咨询，获取定制化的阿联酋大陆签证报价。让您的阿联酋居留之旅更加明智、快捷、安心。",
+    "primaryCta": "WhatsApp 联系我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想咨询一下阿联酋大陆签证的相关事宜，可以免费咨询一下。",
+    "badges": [
+      "免费咨询",
+      "快速审批",
+      "完全合规"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

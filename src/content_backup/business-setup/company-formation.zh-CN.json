@@ -1,0 +1,432 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "开启您的阿联酋事业",
+  "heroTitle": "在迪拜注册公司",
+  "heroTitleHighlight": "在迪拜",
+  "heroSubtitle": "自由区、大陆及离岸架构。在阿联酋境内快速、合规、经济高效地设立公司——从首次咨询到正式运营。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "2-5天完成安装",
+    "自由区 + 大陆"
+  ],
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "10,000+",
+      "label": "公司成立",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-5",
+      "label": "设置天数",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "企业所得税",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyDubaiSection": {
+    "badge": "机遇从这里开始",
+    "title": "为什么要在迪拜创业？",
+    "titleHighlight": "在迪拜？",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "全球枢纽",
+    "imageBadgeText": "东西方交汇",
+    "paragraphs": [
+      "迪拜已成为全球商业中心，这得益于其优越的营商环境、免税地位以及连接东西方的战略位置。",
+      "由于外资100%控股、企业所得税为零、签证和许可证审批速度加快，以及所有这些优势，每个月都有成千上万家新公司注册成立。",
+      "该市拥有无与伦比的基础设施、世界一流的自由贸易区、高效可靠的政府以及健全的法治体系，使得企业设立流程简便快捷。资本和利润可以自由汇回，数字化政府门户网站也让申请流程变得轻松便捷。"
+    ],
+    "highlights": [
+      "全球商业中心",
+      "免税地位",
+      "100% 外资所有",
+      "战略位置",
+      "现代基础设施",
+      "强有力的法治"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "你无法忽视的优势",
+    "title": "在迪拜设立公司的好处",
+    "titleHighlight": "一家位于迪拜的公司",
+    "subtitle": "企业家和跨国公司选择迪拜的六大理由。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "在对投资者友好的自由区内，您可以完全拥有所有权，无需当地担保人——完全掌控您的业务。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "企业零税",
+        "description": "免税待遇，无需缴纳公司所得税或个人所得税——保留100%的利润。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速办理驾照和签证",
+        "description": "利用简化的数字化政府门户网站加快审批速度——几天内即可投入运营，而不是几个月。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "世界一流的基础设施",
+        "description": "无与伦比的自由区、现代化的商业中心以及可靠的政府支持，助力企业顺利设立。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "资本和利润汇回",
+        "description": "资本和利润可完全自由汇回——是全球投资者和国际企业的理想选择。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Users",
+        "title": "多元文化人才库",
+        "description": "汇聚全球顶尖专业人才——在全球商业中心打造您的梦之队。",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "jurisdictionsSection": {
+    "badge": "迪拜商业设立方案",
+    "title": "选择您的管辖区",
+    "titleHighlight": "管辖权",
+    "subtitle": "滑动浏览 3 个设置选项——选择最适合您业务模式的选项。",
+    "items": [
+      {
+        "id": "mainland",
+        "icon": "Building",
+        "title": "迪拜大陆设立",
+        "tagline": "全面进入阿联酋市场",
+        "description": "完全进入阿联酋市场，不受经营场所限制。非常适合零售、餐饮、物流和服务型企业，并可申请无限量签证。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": [
+          "全面进入阿联酋市场",
+          "场所无限制",
+          "适用于零售、餐饮、物流",
+          "无限签证（视办事处情况而定）",
+          "某些许可证需要 LSA"
+        ],
+        "bestFor": "零售、餐饮、物流"
+      },
+      {
+        "id": "freezone",
+        "icon": "Factory",
+        "title": "迪拜自由区设立",
+        "tagline": "100% 外资所有",
+        "description": "IFZA、DMCC、DIFC、JAFZA等免税区允许100%外资控股。这些区域提供多种许可证选择，是电子商务、咨询、媒体和科技公司的理想之选。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "100% 外资所有",
+          "免税区",
+          "IFZA、DMCC、DIFC、JAFZA",
+          "贸易、服务、工业许可证",
+          "快速安装"
+        ],
+        "bestFor": "电子商务、咨询、科技"
+      },
+      {
+        "id": "offshore",
+        "icon": "Anchor",
+        "title": "迪拜离岸",
+        "tagline": "国际控股结构",
+        "description": "非常适合跨国公司和控股公司，无需缴纳税款，也无需实体办公场所。提供在知名司法管辖区的海外银行服务和资产保护。",
+        "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "非常适合控股公司",
+          "零税",
+          "无需实体场所",
+          "外国银行及资产保护",
+          "RAK ICC，JAFZA 海上"
+        ],
+        "bestFor": "控股及国际"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "完整的迪拜公司设立服务",
+    "title": "我们负责每一个步骤",
+    "titleHighlight": "每一步",
+    "subtitle": "八项端到端服务，让您可以专注于发展业务。",
+    "items": [
+      {
+        "icon": "FileSignature",
+        "title": "公司名称预留及文件办理",
+        "description": "协助选择符合规定且易于品牌化的公司名称，并向迪拜相关许可机构提交文件。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "商业计划及监管审批",
+        "description": "根据需要起草商业计划（尤其是在自由区），并遵守反洗钱、企业社会责任和最终受益所有人政策方面的监管规定。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "许可和注册",
+        "description": "2-5个工作日内即可完成迪拜公司注册的全部流程，价格透明，无任何隐藏费用。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Banknote",
+        "title": "公司银行账户开立",
+        "description": "协助对接阿联酋顶级银行——文件准备、预约安排和后续跟进，以快速获得批准。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "办公室设立及租赁",
+        "description": "在自由区或迪拜市区寻找灵活办公桌、私人办公室或联合办公空间。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Receipt",
+        "title": "企业合规与税务登记",
+        "description": "迪拜增值税注册、簿记和会计服务——确保您的企业完全合规。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "数字化架构与品牌支持",
+        "description": "为您的新公司开发网站，包括 CRM 结构、电子邮件集成和企业简介设置。",
+        "color": "from-rose-400 to-red-600"
+      }
+    ]
+  },
+  "audienceSection": {
+    "badge": "非常适合创新者和投资者",
+    "title": "在迪拜Setup Zone开启您的梦想之旅",
+    "titleHighlight": "与迪拜设置区",
+    "subtitle": "无论您是创业者、自由职业者还是全球投资者，我们都能为您提供服务。",
+    "items": [
+      {
+        "icon": "Rocket",
+        "title": "创业公司创始人及企业家",
+        "description": "最适合利用孵化器、资金支持和免税优惠来开发令人兴奋的商业模式。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "color": "from-cyan-500 to-blue-700"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务和数字服务提供商",
+        "description": "最适合希望快速获得完全所有权的在线商店、SaaS 公司和 IT 服务提供商。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-blue-500 to-indigo-700"
+      },
+      {
+        "icon": "Laptop",
+        "title": "自由职业者和顾问",
+        "description": "在 IFZA 和 SHAMS 等自由区获得媒体、营销、法律或教育服务的专业执照。",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+        "color": "from-indigo-500 to-violet-700"
+      },
+      {
+        "icon": "Container",
+        "title": "国际贸易公司",
+        "description": "在自由区和大陆地区经营一般贸易许可证，并可使用迪拜港口和过境物流。",
+        "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800&q=80",
+        "color": "from-violet-500 to-purple-700"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "投资者涌入中小企业",
+        "description": "借助不断发展壮大的、已做好企业准备的阿联酋中小企业生态系统和简化的合规流程，启动可扩展的业务。",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-purple-500 to-fuchsia-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "快速、可靠、专为您打造",
+    "title": "为什么选择迪拜Setup Zone？",
+    "titleHighlight": "迪拜建站区？",
+    "subtitle": "我们集速度、精准和专业于一体，提供无与伦比的企业设立服务。",
+    "items": [
+      {
+        "icon": "Target",
+        "label": "定制套餐",
+        "desc": "根据您的预算和活动"
+      },
+      {
+        "icon": "Key",
+        "label": "交钥匙服务",
+        "desc": "从授权到品牌推广"
+      },
+      {
+        "icon": "Globe2",
+        "label": "自由区及大陆专家",
+        "desc": "加上海上结构"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语种咨询",
+        "desc": "团队会说您的语言"
+      },
+      {
+        "icon": "Shield",
+        "label": "完全透明",
+        "desc": "绝无任何隐藏费用"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速安装",
+        "desc": "2-5天内即可获得执照"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千用户信赖",
+    "titleHighlight": "数千",
+    "subtitle": "我们的过往业绩足以证明一切。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10,000+",
+        "label": "公司成立",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "全球的",
+        "label": "客户覆盖范围",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "形成专家",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "生长",
+        "label": "成功案例",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "重要的",
+        "label": "区域影响",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "设置合作伙伴",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于在迪拜注册公司，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的培训专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于在迪拜注册公司的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜设立公司需要多少成本？",
+        "a": "费用因司法管辖区（自由区、大陆、离岸）、许可证类型和业务活动而异。自由区注册费用通常从 5,750 迪拉姆起。大陆企业需支付更高的政府费用和当地担保人费用。我们提供透明的全包式服务，以满足您的预算和目标。"
+      },
+      {
+        "q": "在迪拜获得营业执照需要多长时间？",
+        "a": "自由区牌照通常在2-5个工作日内发放。内地牌照则需2-4周，具体时间取决于审批情况。我们会为客户提供快速办理服务。"
+      },
+      {
+        "q": "外国人可以在迪拜拥有公司100%的股份吗？",
+        "a": "是的。根据阿联酋最近的改革，大多数自由区和许多大陆地区的业务现在允许100%外资控股，无需当地合作伙伴。"
+      },
+      {
+        "q": "我的迪拜业务需要哪种类型的许可证？",
+        "a": "这取决于您的业务活动。主要类型包括商业（贸易）、专业（服务）、工业（制造）和电子商务许可证。我们会帮助您选择合适的许可证。"
+      },
+      {
+        "q": "我在迪拜创业需要办公场所吗？",
+        "a": "大多数许可证都需要注册地址。自由区提供灵活办公桌套餐。内地企业需要实体办公室（例如 Ejari）。我们帮您找到合适的办公空间。"
+      },
+      {
+        "q": "公司注册成立后，我可以在迪拜开设公司银行账户吗？",
+        "a": "是的。我们为企业在阿联酋顶级银行开设银行账户提供全方位支持——包括文件准备、预约安排和后续跟进，以确保快速审批。"
+      },
+      {
+        "q": "我的迪拜公司可以帮我申请多少个签证？",
+        "a": "签证配额取决于您的营业执照类型和办公面积。自由区通常每个营业执照允许1-6个签证名额，而内地则根据办公面积允许不限签证名额。"
+      },
+      {
+        "q": "在迪拜设立公司对我的税收有什么好处？",
+        "a": "迪拜自由区内个人所得税和企业所得税均为0%，而迪拜大陆地区的企业所得税也极低。此外，您还可以将100%的利润和资本汇回国内。"
+      },
+      {
+        "q": "我可以在迪拜开办网上企业吗？",
+        "a": "是的。在自由区（如IFZA、SHAMS、迪拜商业城）获得的电子商务许可证允许您以100%外资所有权经营在线业务。"
+      },
+      {
+        "q": "安装完成后还需要哪些持续的合规性要求？",
+        "a": "年度营业执照续期、增值税登记（营业额超过 375,000 迪拉姆时）、ESR/UBO 申报和簿记。我们提供持续的合规支持。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的公司成立完美搭配的服务。",
+    "items": [
+      {
+        "slug": "mainland-company-formation",
+        "title": "大陆公司成立",
+        "description": "持有DED许可证，可完全进入阿联酋市场。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "free-zone-company-setup",
+        "title": "自由区公司设立",
+        "description": "免税区内允许100%外资所有权。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "迪拜贸易许可证",
+        "description": "获取您的贸易许可证、服务许可证或工业许可证。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "在迪拜开业？",
+    "title": "快速办理许可证。免税。全面支持。",
+    "titleHighlight": "全力支持。",
+    "subtitle": "想创办您的电子商务品牌、科技初创公司、咨询公司或贸易公司吗？Setup Zone Dubai 将作为您的一站式设立合作伙伴。",
+    "chips": [
+      "免费咨询",
+      "2-5天完成安装",
+      "零税"
+    ],
+    "whatsappMessage": "您好！我想咨询一下在迪拜注册公司的相关事宜，希望能获得免费咨询。",
+    "whatsappCardMessage": "您好！我想咨询一下在迪拜注册公司的相关事宜。"
+  }
+}

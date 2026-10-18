@@ -1,0 +1,208 @@
+{
+  "slug": "dic",
+  "hero": {
+    "badge": "Business Begins with Tech",
+    "title": "Dubai Internet City",
+    "titleHighlight": "Free Zone",
+    "subtitle": "The UAE's leading innovation hub for IT, telecom, digital media, and software development companies. Part of TECOM Group — with first-class infrastructure and modern tech facilities.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80",
+    "breadcrumbParent": "Free Zones",
+    "breadcrumbLabel": "DIC",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Dubai Internet City Free Zone setup.",
+    "badges": ["100% Ownership", "0% Tax", "TECOM Group"]
+  },
+
+  "stats": [
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "Cpu", "value": "Tech", "label": "Innovation Hub", "color": "from-sky-400 to-cyan-600" }
+  ],
+
+  "dashboardCard": {
+    "title": "DIC Terminal",
+    "statusLabel": "License Type",
+    "totalLabel": "License Type",
+    "totalValue": "Tech & Innovation",
+    "statusBadge": "Active",
+    "metrics": [
+      { "label": "Setup Time", "value": "3-7 Days", "color": "text-cyan-600" },
+      { "label": "Tax Rate", "value": "0%", "color": "text-blue-600" }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Strategic Base for Tech",
+    "title": "Benefits of Forming in Dubai Internet City",
+    "titleHighlight": "Dubai Internet City",
+    "subtitle": "One of the most appealing technology services hub free zones in the Middle East.",
+    "smallCards": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full control of operations, decisions, and profits — no local sponsor needed.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Tax", "description": "Zero tax on corporate profits and personal income — reinvest more into growth.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Package", "title": "No Customs Duties", "description": "Fully exempt from import/export duties — perfect for software, IT hardware, cloud services.", "color": "from-indigo-400 to-violet-600" }
+    ],
+    "largeCard": {
+      "icon": "UserCheck",
+      "title": "Efficient Visa Quota Allocation",
+      "description": "DIC's axs platform provides smooth approvals for owners, employees, and dependents — solo traders or full teams.",
+      "color": "from-cyan-500 to-indigo-700"
+    },
+    "smallCard2": {
+      "icon": "MapPin",
+      "title": "Strategic Location",
+      "description": "On Sheikh Zayed Road — near metro stations, airports, and commercial areas.",
+      "color": "from-violet-500 to-violet-700"
+    },
+    "smallCard3": {
+      "icon": "Building2",
+      "title": "Strong Business Infrastructure",
+      "description": "High-tech coworking at D/Quarters, expandable private offices, light industrial units, commercial studios.",
+      "color": "from-cyan-500 to-teal-600"
+    }
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "Flexible Licenses, Global Reach",
+    "titleHighlight": "Global Reach",
+    "subtitle": "We help you identify the appropriate DIC license for your industry and business model.",
+    "items": [
+      { "icon": "ShoppingCart", "title": "DIC Commercial License", "description": "Standard trade (goods) online sale and e-commerce businesses.", "code": "COM", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Code", "title": "IT License", "description": "Software, SaaS, artificial intelligence, and cloud computing companies.", "code": "IT", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Wifi", "title": "Telecom License", "description": "Connectivity, satellite, or telecom infrastructure companies.", "code": "TEL", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Palette", "title": "Digital Media License", "description": "Media agencies, content creators, and advertising businesses.", "code": "MED", "color": "from-sky-400 to-cyan-600" },
+      { "icon": "UserCheck", "title": "DIC Freelance Permit", "description": "Individuals (single operator) via GoFreelance.", "code": "FRL", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Server", "title": "Data Centre License", "description": "Data hosting, storage, and enterprise IT businesses.", "code": "DTC", "color": "from-cyan-500 to-teal-600" }
+    ]
+  },
+
+  "facilitiesSection": {
+    "badge": "Facilities",
+    "title": "What Facilities Can You Access in DIC?",
+    "titleHighlight": "Access in DIC?",
+    "subtitle": "Modern infrastructure and all-inclusive workspace options for all organizations.",
+    "items": [
+      { "icon": "Monitor", "title": "Fitted Office Spaces", "description": "Flexible office leases with fully fitted spaces for all sizes.", "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80" },
+      { "icon": "Users", "title": "Coworking at D/Quarters", "description": "Plug-and-play office solutions for collaboration and creativity.", "image": "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=800&q=80" },
+      { "icon": "Layers", "title": "Light Industrial Units", "description": "For production, testing, and logistics support.", "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80" },
+      { "icon": "Store", "title": "Commercial Retail Spaces", "description": "Customer-facing outlets in a vibrant tech ecosystem.", "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80" }
+    ]
+  },
+
+  "howWeHelpSection": {
+    "badge": "How We Help",
+    "title": "Start Fast in DIC with Setup Zone Dubai",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "We handle everything from activity selection to bank account opening.",
+    "steps": [
+      { "step": "01", "title": "Business Activities Selection", "description": "We help you choose the right DIC-approved activity aligned with your tech business model.", "icon": "Target", "color": "from-cyan-400 to-blue-600" },
+      { "step": "02", "title": "Company Name Reservation", "description": "Reserve your trade name quickly in accordance with DIC regulations.", "icon": "FileText", "color": "from-blue-400 to-indigo-600" },
+      { "step": "03", "title": "Document Preparation", "description": "Complete documentation — passport copies, business plan, and required forms.", "icon": "FileCheck", "color": "from-indigo-400 to-violet-600" },
+      { "step": "04", "title": "DIC License Approval", "description": "Direct submission through TECOM and axs for fast approval.", "icon": "BadgeCheck", "color": "from-sky-400 to-cyan-600" },
+      { "step": "05", "title": "Establishment Card & Visa Quota", "description": "Apply for the DIC establishment card and visa quota applications.", "icon": "Users", "color": "from-violet-400 to-purple-600" },
+      { "step": "06", "title": "Bank Account Opening", "description": "Corporate bank account setup with top UAE banks.", "icon": "CreditCard", "color": "from-cyan-500 to-teal-600" },
+      { "step": "07", "title": "License Renewal & Compliance", "description": "Ongoing renewal, PRO services, and medical registration.", "icon": "RefreshCw", "color": "from-blue-500 to-indigo-600" }
+    ],
+    "ctaCard": {
+      "icon": "Rocket",
+      "title": "Ready to Launch?",
+      "ctaText": "Start Now",
+      "whatsappMessage": "Hi! I'm ready to launch my DIC business."
+    }
+  },
+
+  "digitalScaleSection": {
+    "badge": "Scale Digitally",
+    "title": "Can You Scale Your Business Digitally in DIC?",
+    "titleHighlight": "Digitally in DIC?",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80",
+    "imageBadgeTitle": "Growth Path",
+    "imageBadgeText": "Startup to Scale-up",
+    "intro": "Indeed. As the premier tech ecosystem in the Middle East, DIC provides a full innovation ecosystem for your business to grow, develop, and dominate the digital space.",
+    "items": [
+      { "icon": "Monitor", "title": "Professional Websites", "description": "Custom websites and e-commerce platforms tailored to your business." },
+      { "icon": "Layers", "title": "CRM & CMS Integration", "description": "Smart platforms to keep your business digitally operational." },
+      { "icon": "Search", "title": "SEO Services", "description": "More Google searches and organic traffic for your DIC business." },
+      { "icon": "Megaphone", "title": "Social Media Marketing", "description": "Build your brand voice and tone across channels." },
+      { "icon": "Palette", "title": "Logo & Brand Design", "description": "Creative branding advice and design assets." },
+      { "icon": "Award", "title": "Trademark Registration", "description": "Protect your intellectual property and brand." }
+    ]
+  },
+
+  "activitiesCloudSection": {
+    "badge": "Business Activities",
+    "title": "Activities for Modern Enterprises",
+    "titleHighlight": "Modern Enterprises",
+    "subtitle": "Whether you're in innovation, tech, digital media, or telecom — DIC allows a wide range of activities.",
+    "items": [
+      { "icon": "Code", "label": "Software Development & SaaS" },
+      { "icon": "Smartphone", "label": "Web & Mobile App Development" },
+      { "icon": "Megaphone", "label": "Digital Advertising & Content" },
+      { "icon": "Server", "label": "Data Centre Management & Hosting" },
+      { "icon": "Terminal", "label": "IT Consulting & Systems Integration" },
+      { "icon": "Wifi", "label": "Telecom & Network Infrastructure" },
+      { "icon": "Camera", "label": "Creative Media & Filmmaking" },
+      { "icon": "Binary", "label": "Academic Research & R&D" },
+      { "icon": "ShoppingCart", "label": "E-commerce & Tech Retail" },
+      { "icon": "Package", "label": "Enterprise Hardware & Software" },
+      { "icon": "Bot", "label": "AI & Machine Learning" },
+      { "icon": "Cloud", "label": "Cloud Services" }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Internet City. Still have questions? We're one message away.",
+    "items": [
+      { "q": "Why is Dubai Internet City (DIC) the most attractive free zone for technology companies?", "a": "DIC is the UAE's leading innovation hub for IT, telecom, digital media, and software development — part of TECOM Group with first-class infrastructure, proximity to startup centres, and modern office facilities." },
+      { "q": "What is the cost of setting up a business in Dubai Internet City?", "a": "Costs vary based on license type, office size, and visa requirements. Contact us for a transparent breakdown tailored to your business." },
+      { "q": "What types of licenses are available in Dubai Internet City?", "a": "DIC Commercial, IT, Telecom, Digital Media, Freelance Permit, and Data Centre licenses." },
+      { "q": "Can freelancers or solo professionals register in DIC?", "a": "Yes. DIC offers the Freelance Permit through GoFreelance — perfect for individual tech professionals." },
+      { "q": "What are the benefits of being a DIC Free Zone company regarding visas?", "a": "DIC provides efficient visa quota allocation through the axs platform — for owners, employees, and dependents." },
+      { "q": "Does DIC Free Zone have space for startups and SMEs?", "a": "Yes. D/Quarters coworking spaces and flexible office options are perfect for startups and SMEs." },
+      { "q": "Can I open a corporate bank account with a DIC entity?", "a": "Yes. We help you open a corporate bank account with top UAE banks — with all documents in place." },
+      { "q": "What continued support does Setup Zone Dubai provide after company setup?", "a": "We provide license renewal, compliance, PRO services, medical registration, and digital growth services like websites, SEO, and branding." },
+      { "q": "How long does it take to establish a commercial license in DIC?", "a": "Typically 3-7 business days with all documents ready. Our end-to-end coordination makes it faster." }
+    ]
+  },
+
+  "relatedServices": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DIC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "web-development", "title": "Web Development", "description": "Modern websites for tech businesses.", "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80", "gradient": "from-blue-400 to-indigo-600" },
+      { "slug": "digital-marketing", "title": "Digital Marketing", "description": "Social media, paid ads, and content strategy.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80", "gradient": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Today",
+    "title": "Ready to Launch in DIC?",
+    "titleHighlight": "DIC?",
+    "subtitle": "Get a free consultation. We'll guide you through the setup process — from license selection to bank account opening.",
+    "primaryCta": "WhatsApp Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like a free consultation for DIC setup.",
+    "badges": ["Free Consultation", "TECOM Group", "3-7 Days Setup"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

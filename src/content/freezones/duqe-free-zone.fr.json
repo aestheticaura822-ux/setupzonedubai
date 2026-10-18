@@ -1,0 +1,468 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1600&q=80",
+  "heroBadge": "Démarrez rapidement. Croissez intelligemment.",
+  "heroTitle": "Zone franche DUQE",
+  "heroTitleHighlight": "Zone franche",
+  "heroSubtitle": "Le centre d'affaires le plus moderne de Dubaï, situé à bord du paquebot emblématique Queen Elizabeth 2 à Port Rashid. Entièrement numérique et sans papier, il est conçu pour l'entrepreneur d'aujourd'hui.",
+  "heroChips": [
+    "Propriété à 100 %",
+    "Taxe de 0 %",
+    "Installation en 3 à 5 jours",
+    "Inscription à distance"
+  ],
+  "heroCard": {
+    "headerTitle": "DUQE QE2",
+    "headerStatus": "En direct",
+    "icon": "Anchor",
+    "zoneLabel": "Emplacement",
+    "zoneValue": "Port Rashid, Dubaï",
+    "statusBadge": "Actif",
+    "setupTimeLabel": "Installation",
+    "setupTimeValue": "3 à 5 jours",
+    "taxLabel": "Processus",
+    "taxValue": "100% numérique",
+    "footerText": "Lancer maintenant"
+  },
+  "stats": [
+    {
+      "icon": "Ship",
+      "value": "QE2",
+      "label": "Lieu emblématique",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Taux d'imposition",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Installation des jours",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Qu'est-ce que la zone franche DUQE ?",
+    "title": "La porte d'entrée commerciale la plus intelligente de Dubaï",
+    "titleHighlight": "Passerelle d'affaires",
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80",
+    "imageBadgeTitle": "Lieu emblématique",
+    "imageBadgeText": "Le QE2 à Port Rashid",
+    "paragraphs": [
+      "DUQE signifie officiellement Dubai Queen Elizabeth 2 Free Zone (Zone franche de Dubaï Reine Elizabeth 2) ; il s’agit d’un écosystème d’affaires géré par le gouvernement et opérant sous l’égide de l’Autorité des zones franches de Dubaï. DUQE se distingue des zones franches traditionnelles par sa plateforme entièrement numérique qui permet aux entrepreneurs de créer et de gérer leur entreprise depuis n’importe où dans le monde.",
+      "Située sur l'emblématique paquebot QE2 à Port Rashid, la zone franche DUQE offre des services aux entreprises prestigieux et flexibles aux particuliers, aux travailleurs indépendants, aux PME et aux grandes entreprises, avec une notoriété et une compétitivité de premier ordre.",
+      "Ce lieu exceptionnel allie patrimoine et innovation, offrant un processus entièrement numérique, sans papier et facile à mettre en place, qui parle à l'entrepreneur moderne."
+    ],
+    "highlights": [
+      "Propriété étrangère à 100 %",
+      "Environnement fiscal zéro",
+      "Inscription à distance",
+      "Processus sans papier",
+      "Adresse emblématique du QE2",
+      "Écosystème axé sur le numérique"
+    ]
+  },
+  "advantagesSection": {
+    "badge": "Pérennisez votre entreprise",
+    "title": "Avantages de la création d'une entreprise dans la zone franche de DUQE",
+    "titleHighlight": "dans la zone franche de DUQE",
+    "subtitle": "Des avantages considérables, conçus sur mesure pour le chef d'entreprise d'aujourd'hui.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Propriété étrangère à 100 %",
+        "description": "Aucun sponsor local n'est requis — vous gardez le contrôle total de votre entreprise, de vos bénéfices et de vos prises de décision.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Pas d'impôt sur le revenu des sociétés ni des particuliers",
+        "description": "Opérer en franchise d'impôt avec rapatriement intégral des bénéfices et des capitaux.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Rapatriement intégral des bénéfices et des capitaux",
+        "description": "Faites circuler librement vos bénéfices et votre capital – aucune restriction sur les transferts de fonds.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Laptop",
+        "title": "Inscription d'entreprise facile et numérique",
+        "description": "Tout, de la documentation aux approbations en passant par les paiements, peut se faire en ligne.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Grande variété d'activités commerciales",
+        "description": "Conseil, négoce, médias, services numériques et bien plus encore — tout est approuvé.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Ship",
+        "title": "Adresse professionnelle sur l'emblématique QE2",
+        "description": "Un navire historique amarré au centre de Dubaï – une reconnaissance de marque de premier ordre.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Conçu pour la réussite des entreprises",
+    "title": "Processus de création d'entreprise DUQE étape par étape",
+    "titleHighlight": "Processus de création d'entreprise",
+    "subtitle": "Six étapes simples pour lancer votre entreprise sur l'emblématique QE2.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Choisir une activité commerciale",
+        "description": "Sélectionnez une ou plusieurs activités parmi la liste approuvée par DUQE : le conseil, le commerce, les médias et les services numériques sont courants.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "Scale",
+        "title": "Choisir la structure juridique",
+        "description": "Choisissez FZE (fondateur unique), FZCO (actionnaires multiples) ou succursale d'une entité existante des Émirats arabes unis ou d'une entité étrangère.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "PenTool",
+        "title": "Choisissez votre nom commercial",
+        "description": "Respectez les directives de dénomination des Émirats arabes unis : aucune référence offensante, religieuse ou politique ne sera acceptée. Le nom doit être disponible dans le registre de DUQE.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "04",
+        "icon": "FileText",
+        "title": "Soumettre des documents",
+        "description": "Copie du passeport, photo numérique, visa de résidence des Émirats arabes unis (le cas échéant), formulaire de demande dûment rempli et plan d'affaires (le cas échéant).",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "05",
+        "icon": "BadgeCheck",
+        "title": "Obtenez votre licence commerciale",
+        "description": "Choisissez parmi la licence commerciale, la licence de conseil, la licence médias et freelance ou la licence commerciale générale.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "06",
+        "icon": "CreditCard",
+        "title": "Demande de visa et ouverture d'un compte bancaire",
+        "description": "Demandez des visas d'investisseur, d'employé et de partenaire. Ouvrez un compte bancaire professionnel auprès d'une banque basée aux Émirats arabes unis ou à l'étranger.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Conditionnement d'entreprise",
+    "title": "Activités commerciales disponibles à DUQE",
+    "titleHighlight": "Disponible en DUQE",
+    "subtitle": "Un large éventail d'activités pour les entrepreneurs et les entreprises d'aujourd'hui.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "label": "Conseil en gestion et en affaires",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Services informatiques et transformation numérique",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "Opérations de commerce électronique",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Marketing, publicité et design",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Palette",
+        "label": "Services de travail indépendant et créatifs",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Code",
+        "label": "Développement de logiciels et de SaaS",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Package",
+        "label": "Commerce général et services",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "label": "Éducation et formation professionnelle",
+        "color": "from-rose-400 to-red-600"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Licences disponibles",
+    "title": "Types de licences de zone franche DUQE",
+    "titleHighlight": "Types de licences",
+    "subtitle": "Chaque licence est applicable à des fonctions commerciales spécifiques.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licence commerciale",
+        "description": "Pour le commerce, l'import/export et les activités commerciales générales.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licence de consultant",
+        "description": "Pour des services de conseil et d'assistance professionnels.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Camera",
+        "title": "Licence Médias et Travailleurs indépendants",
+        "description": "Pour la production audiovisuelle, les services créatifs et les travailleurs indépendants.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Licence générale de commerce",
+        "description": "Pour la commercialisation de plusieurs catégories de produits sous une seule licence.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "À qui cela s'adresse-t-il ?",
+    "title": "Qui peut créer une entreprise dans la zone franche de DUQE ?",
+    "titleHighlight": "dans la zone franche DUQE ?",
+    "subtitle": "Conçu pour la prochaine génération d'entrepreneurs qui recherchent flexibilité et facilité d'utilisation numérique.",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "Entreprises créatives et médiatiques",
+        "description": "Profitez des options de bureau et de licence flexibles de DUQE pour les entreprises de marketing, de design et de contenu.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "PME et succursales internationales",
+        "description": "Établissez une présence enregistrée aux Émirats arabes unis en tant qu'entité étrangère à Dubaï — un enregistrement rapide en quelques mois, et non en quelques années.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Laptop",
+        "title": "Travailleurs indépendants et télétravailleurs",
+        "description": "Ouvrez une entreprise légalement enregistrée à Dubaï avec un investissement minimal.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Start-ups technologiques et entreprises SaaS",
+        "description": "Une approche opérationnelle axée sur le numérique — pas de papier, pas de files d'attente pour démarrer votre entreprise.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Entrepreneurs du commerce électronique",
+        "description": "Solutions logistiques flexibles et solutions hybrides pour les entreprises de commerce électronique qui souhaitent se développer efficacement.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Consultants et cabinets de conseil",
+        "description": "Travaillez depuis une adresse incroyable et profitez de la liberté de choisir votre type de licence.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "locationSection": {
+    "badge": "Concept d'emplacement et de bureau",
+    "title": "Une adresse prestigieuse sur l'emblématique QE2",
+    "titleHighlight": "l'emblématique QE2",
+    "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200&q=80",
+    "imageBadgeTitle": "Centre d'affaires flottant",
+    "imageBadgeText": "Le QE2 à Port Rashid",
+    "paragraphs": [
+      "DUQE est un lieu unique en son genre, car il est situé sur le paquebot historique QE2 à Port Rashid, à Dubaï. Bien plus qu'un simple espace de bureaux à louer, DUQE offre à votre entreprise une adresse prestigieuse qui s'accorde parfaitement avec toute marque emblématique.",
+      "Imaginez la surprise sur le visage de vos clients lorsqu'ils verront le QE2 comme siège social — l'un des navires les plus célèbres au monde.",
+      "DUQE propose également d'excellentes solutions de bureaux numériques, notamment des espaces de coworking et des formules hybrides pour les entreprises de commerce électronique, les consultants et les équipes travaillant à distance."
+    ],
+    "features": [
+      {
+        "icon": "Ship",
+        "label": "À bord du navire emblématique QE2"
+      },
+      {
+        "icon": "Anchor",
+        "label": "Amarré au port Rashid, à Dubaï"
+      },
+      {
+        "icon": "MapPin",
+        "label": "Emplacement central de Dubaï"
+      },
+      {
+        "icon": "Star",
+        "label": "Reconnaissance de marque premium"
+      },
+      {
+        "icon": "Users",
+        "label": "Bureaux de coworking disponibles"
+      },
+      {
+        "icon": "Layers",
+        "label": "Offres commerciales hybrides"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "La porte d'entrée numérique de Dubaï",
+    "titleHighlight": "Passerelle d'affaires",
+    "subtitle": "Un écosystème en pleine expansion pour les entrepreneurs du numérique et les entreprises internationales.",
+    "items": [
+      {
+        "icon": "Ship",
+        "value": "QE2",
+        "label": "Lieu emblématique",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "Mondial",
+        "label": "Configuration à distance",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Rapide",
+        "label": "Création d'entreprise",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Faible",
+        "label": "coût d'entrée",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "Numérique",
+        "label": "Processus sans papier",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Préféré",
+        "label": "Pour une approche numérique prioritaire",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche DUQE. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes DUQE.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant la zone franche DUQE."
+    },
+    "items": [
+      {
+        "q": "Que signifie l'acronyme DUQE Free Zone ?",
+        "a": "DUQE signifie Dubai Queen Elizabeth 2 Free Zone (Zone franche de Dubaï Reine Elizabeth 2) — située sur le paquebot QE2 à Dubaï. Il s'agit d'un écosystème d'entreprises géré par le gouvernement et opérant sous l'autorité de la Dubai Free Zone Authority."
+      },
+      {
+        "q": "Que signifie « zone franche » aux Émirats arabes unis ?",
+        "a": "Une zone franche aux Émirats arabes unis est une zone désignée où les entreprises bénéficient d'avantages spéciaux tels que la propriété étrangère à 100 %, des exonérations fiscales et des réglementations simplifiées pour encourager le commerce et l'investissement internationaux."
+      },
+      {
+        "q": "DUQE est-elle une zone franche financière ?",
+        "a": "Non. DUQE est une zone franche à vocation générale axée sur les entrepreneurs du numérique, les travailleurs indépendants, les PME et les entreprises internationales — et non une zone franche financière spécifique comme DIFC ou ADGM."
+      },
+      {
+        "q": "Comment DUQE se compare-t-il à IFZA ou RAKEZ ?",
+        "a": "DUQE est plus récent et plus axé sur le numérique qu'IFZA et RAKEZ. Ses atouts majeurs sont son emplacement emblématique sur le quai QE2 à Port Rashid, une procédure entièrement dématérialisée et l'inscription à distance possible depuis n'importe où dans le monde."
+      },
+      {
+        "q": "Quels types d'emplois sont disponibles dans la zone franche de DUQE ?",
+        "a": "DUQE propose des services de conseil, des services informatiques, du commerce électronique, du marketing et de la publicité, du travail indépendant, du développement de logiciels et de SaaS, du commerce général et de l'éducation/formation professionnelle."
+      },
+      {
+        "q": "La zone franche DUQE est-elle nouvelle ?",
+        "a": "Oui. La zone franche DUQE est l'une des plus récentes de Dubaï, établie sur l'emblématique paquebot QE2 à Port Rashid. Elle allie tradition et innovation et propose un processus d'installation entièrement numérique et sans papier."
+      },
+      {
+        "q": "Quelles licences sont disponibles dans la zone franche de DUQE ?",
+        "a": "DUQE propose une licence commerciale, une licence de conseil, une licence médias et freelance, et une licence de commerce général — chacune étant adaptée à des fonctions commerciales spécifiques."
+      },
+      {
+        "q": "Puis-je enregistrer ma société DUQE à distance ?",
+        "a": "Oui. DUQE est conçu pour les chefs d'entreprise travaillant à distance : tout, de la documentation aux approbations en passant par les paiements, peut être effectué en ligne depuis n'importe où dans le monde."
+      },
+      {
+        "q": "Quelles structures juridiques sont disponibles à DUQE ?",
+        "a": "Vous pouvez créer une Free Zone Establishment (FZE) pour les fondateurs uniques, une Free Zone Company (FZCO) pour plusieurs actionnaires ou une succursale d'une entité existante des Émirats arabes unis ou étrangère."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour l'installation de votre DUQE ?",
+        "a": "Nous vous accompagnons de A à Z : création d’entreprise, obtention des licences et permis, visas, conformité et services bancaires. Chaque étape est personnalisée selon vos objectifs, pour un processus fluide et des bases solides pour votre croissance."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui s'accordent parfaitement avec votre installation DUQE.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa d'or",
+        "description": "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Services de conformité",
+        "description": "Conseils en matière d'UBO, d'ESR, de LBC et de TVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Embarquez avec DUQE",
+    "title": "Prêt à vous lancer dans la zone franche DUQE ?",
+    "titleHighlight": "Zone franche DUQE ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous accompagnerons tout au long du processus de configuration, de l'obtention de la licence au lancement.",
+    "chips": [
+      "Consultation gratuite",
+      "Installation en 3 à 5 jours",
+      "Inscription à distance"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour la mise en place d'une zone franche DUQE.",
+    "whatsappCardMessage": "Salut ! J'aimerais discuter de la configuration de la zone franche DUQE."
+  }
+}

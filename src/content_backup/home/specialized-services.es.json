@@ -1,0 +1,146 @@
+{
+  "badge": "Servicios especializados",
+  "heading": {
+    "line1": "Centrado en tu",
+    "highlight": "Éxito"
+  },
+  "subtitle": "Más allá de la constituciÁ³n de empresas, ofrecemos una gama completa de servicios especializados para que su negocio en los Emiratos Árabes Unidos siga creciendo y cumpliendo con la normativa.",
+  "hoverHint": "â† Pasa el cursor sobre la tarjeta para ver los detalles â†’",
+  "services": [
+    {
+      "slug": "corporate-tax-vat",
+      "icon": "Receipt",
+      "title": "Impuesto de sociedades e IVA",
+      "description": "Asesoramiento fiscal especializado, registro y presentaciÁ³n de declaraciones de IVA, y cumplimiento de la normativa fiscal.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+      "gradient": "from-emerald-400 to-teal-600",
+      "points": [
+        "Registro y presentaciÁ³n del IVA",
+        "declaraciones de impuestos corporativos",
+        "Apoyo a las auditorÁ­as de la FTA",
+        "servicios de asesorÁ­a fiscal",
+        "Enmiendas y correcciones"
+      ]
+    },
+    {
+      "slug": "bank-account",
+      "icon": "CreditCard",
+      "title": "Apertura de cuenta bancaria",
+      "description": "Abra cuentas bancarias comerciales en los Emiratos Árabes Unidos con bancos de primer nivel. Soporte completo para la verificaciÁ³n de identidad (KYC).",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+      "gradient": "from-sky-400 to-blue-600",
+      "points": [
+        "Cuentas en el territorio continental y en la zona franca",
+        "PreparaciÁ³n del archivo KYC",
+        "ProgramaciÁ³n de entrevistas bancarias",
+        "ConfiguraciÁ³n multidivisa (AED/USD)",
+        "VinculaciÁ³n de cuentas WPS y de IVA"
+      ]
+    },
+    {
+      "slug": "accounting",
+      "icon": "Calculator",
+      "title": "Contabilidad",
+      "description": "Contabilidad, nÁ³minas, auditorÁ­as y conciliaciones gestionadas por expertos.",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+      "gradient": "from-violet-400 to-purple-600",
+      "points": [
+        "Contabilidad diaria",
+        "Procesamiento de nÁ³minas de WPS",
+        "ConciliaciÁ³n del IVA",
+        "estados financieros",
+        "PreparaciÁ³n de auditorÁ­as"
+      ]
+    },
+    {
+      "slug": "digital-marketing",
+      "icon": "Megaphone",
+      "title": "Marketing digital",
+      "description": "Campañas personalizadas, redes sociales y estrategia de contenido que generan conversiones.",
+      "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+      "gradient": "from-pink-400 to-rose-600",
+      "points": [
+        "GestiÁ³n de redes sociales",
+        "Google y Meta Ads",
+        "Estrategia de contenido",
+        "Marketing por correo electrÁ³nico",
+        "Análisis e informes"
+      ]
+    },
+    {
+      "slug": "web-development",
+      "icon": "Code",
+      "title": "Desarrollo web",
+      "description": "Sitios web modernos y adaptables: desde páginas de destino hasta plataformas de comercio electrÁ³nico completas.",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+      "gradient": "from-amber-400 to-orange-600",
+      "points": [
+        "Sitios web empresariales personalizados",
+        "Tiendas de comercio electrÁ³nico",
+        "Páginas de destino con alta tasa de conversiÁ³n",
+        "Diseño adaptable a dispositivos mÁ³viles",
+        "OptimizaciÁ³n de velocidad"
+      ]
+    },
+    {
+      "slug": "seo",
+      "icon": "Search",
+      "title": "Servicios SEO",
+      "description": "OptimizaciÁ³n SEO on-page y off-page, segmentaciÁ³n por palabras clave y seguimiento del rendimiento.",
+      "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80",
+      "gradient": "from-lime-400 to-green-600",
+      "points": [
+        "InvestigaciÁ³n de palabras clave",
+        "OptimizaciÁ³n en la página",
+        "AuditorÁ­a SEO técnica",
+        "CreaciÁ³n de enlaces de calidad",
+        "SEO local (Google Maps)"
+      ]
+    },
+    {
+      "slug": "compliance",
+      "icon": "ShieldCheck",
+      "title": "Servicios de cumplimiento",
+      "description": "PresentaciÁ³n de documentos UBO, informes ESR, renovaciones de licencias y asistencia regulatoria.",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+      "gradient": "from-cyan-400 to-blue-600",
+      "points": [
+        "Presentaciones y actualizaciones de UBO",
+        "PresentaciÁ³n de informes ESR",
+        "RenovaciÁ³n de licencias",
+        "Cumplimiento de las normas contra el blanqueo de capitales",
+        "PresentaciÁ³n de declaraciones anuales"
+      ]
+    },
+    {
+      "slug": "golden-visa",
+      "icon": "Crown",
+      "title": "Asistencia para la Visa Dorada",
+      "description": "Obtén tu visa de residencia de 10 años en los Emiratos Árabes Unidos con asistencia completa en la tramitaciÁ³n de la documentaciÁ³n.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "gradient": "from-yellow-400 to-amber-600",
+      "points": [
+        "Visa Dorada para Inversionistas",
+        "CategorÁ­a de propietario de la propiedad",
+        "Visa de emprendedor",
+        "visa de talento especializado",
+        "Patrocinio familiar"
+      ]
+    },
+    {
+      "slug": "pro-services",
+      "icon": "FileText",
+      "title": "Servicios PRO",
+      "description": "Documento de identidad de los Emiratos Árabes Unidos, tarjetas de trabajo, sellado de visados y renovaciones de empresas.",
+      "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+      "gradient": "from-indigo-400 to-purple-600",
+      "points": [
+        "TramitaciÁ³n de la identificaciÁ³n de los Emiratos",
+        "Sellado y renovaciÁ³n de visas",
+        "Tarjetas laborales (MOHRE)",
+        "RenovaciÁ³n de licencias comerciales",
+        "CertificaciÁ³n de documentos del Ministerio de Asuntos Exteriores"
+      ]
+    }
+  ]
+}

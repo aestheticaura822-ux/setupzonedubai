@@ -1,0 +1,470 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+  "heroBadge": "您值得信赖的阿联酋合作伙伴",
+  "heroTitle": "阿联酋本地业务合作伙伴",
+  "heroTitleHighlight": "业务合作伙伴",
+  "heroSubtitle": "选择可靠的本地合作伙伴，保障您在大陆的业务安全。我们提供全面的法律保护、100% 的运营自主权以及固定的年费——无需利润分成。",
+  "heroChips": [
+    "100% 控制",
+    "固定年费",
+    "法律保护",
+    "不分享利润"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "51/49",
+      "label": "法律分裂",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "控制（通过协议）",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "固定的",
+      "label": "年费",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "0%",
+      "label": "利润分享",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "了解设置",
+    "title": "什么是本地商业伙伴？",
+    "titleHighlight": "本地商业伙伴？",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+    "imageBadgeTitle": "法律合伙人",
+    "imageBadgeText": "大陆设置",
+    "paragraphs": [
+      "本地商业伙伴（也称为本地担保人）是指持有阿联酋本土企业 51% 股份的阿联酋国民或阿联酋公司，而外国投资者持有 49% 的股份。",
+      "这种安排适用于阿联酋本土的某些商业和工业活动。与个人赞助不同，企业赞助能够提供更专业的法律架构和具有约束力的合同。",
+      "通过结构化的代理人协议和补充协议，您可以合法地对业务运营、财务和决策保持100%的控制权。这是进入迪拜本土经济的有效且合规的方式。"
+    ],
+    "highlights": [
+      "公司实体",
+      "提名协议",
+      "授权书",
+      "附加协议",
+      "固定年费",
+      "合法合规"
+    ]
+  },
+  "partnerTypesSection": {
+    "badge": "合作伙伴类型",
+    "title": "本地合作伙伴类型",
+    "titleHighlight": "当地合作伙伴",
+    "subtitle": "滑动浏览 3 种合作伙伴类型——选择适合您业务的合作伙伴。",
+    "items": [
+      {
+        "id": "corporate",
+        "icon": "Building2",
+        "title": "企业赞助商",
+        "tagline": "阿联酋所有公司",
+        "description": "一家总部位于阿联酋（100%阿联酋控股）的公司持有您本土企业51%的股份。该公司提供专业的法律架构、具有约束力的合同以及代理人安排，使您能够完全掌控企业。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-sky-500 to-blue-700",
+        "features": [
+          "专业法律结构",
+          "具有约束力的合同",
+          "受托人安排",
+          "全面运营控制"
+        ],
+        "bestFor": "商业和工业活动"
+      },
+      {
+        "id": "individual",
+        "icon": "UserIcon",
+        "title": "个人赞助商",
+        "tagline": "阿联酋国民",
+        "description": "一名阿联酋公民以个人身份持有51%的股份。这类似于企业赞助，但赞助对象是个人而非公司。此类赞助需要进行严格的背景调查和法律保障。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "阿联酋个人",
+          "51% 法定股份",
+          "附加协议",
+          "POA保护"
+        ],
+        "bestFor": "商业活动"
+      },
+      {
+        "id": "lsa",
+        "icon": "Handshake",
+        "title": "本地服务代理",
+        "tagline": "无股权合伙人",
+        "description": "一家阿联酋国民或阿联酋控股的公司将作为与政府部门的行政联络机构。该公司不持有任何股份——您拥有100%的所有权。这是申请专业执照和设立分支机构的必要条件。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "零股权",
+          "100% 外资所有",
+          "行政联络员",
+          "固定年费"
+        ],
+        "bestFor": "专业服务及分支机构"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "为什么选择本地合作伙伴",
+    "title": "本地合作的益处",
+    "titleHighlight": "地方伙伴关系",
+    "subtitle": "六大优势助力您在大陆开展业务。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "完全市场准入",
+        "description": "业务遍及阿联酋七个酋长国，不受地域限制——进入阿联酋本地市场、政府合同以及 B2B/B2C 客户。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Landmark",
+        "title": "政府合同",
+        "description": "参与政府招标和公共部门项目竞标——这是自由区公司所不具备的一项主要优势。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "法律保护",
+        "description": "包含公司章程、补充协议、授权委托书和代理人协议等全面的法律结构——所有协议均经过公证，具有法律约束力。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "100%利润留存",
+        "description": "通过法律协议，您可以保留100%的利润。赞助商仅收取固定的年费，不参与任何收益分成。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Gavel",
+        "title": "全面运营控制",
+        "description": "授权委托书赋予您在所有商业事务上的唯一决策权——不受担保人干预。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "实现100%所有权的途径",
+        "description": "随着阿联酋法律的不断发展，许多行业现在允许外资全资拥有。我们将协助您根据情况转换许可证。",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "legalProtectionSection": {
+    "badge": "法律保护",
+    "title": "我们如何保护您的利益",
+    "titleHighlight": "保护您的利益",
+    "subtitle": "六项法律保障，让您完全安心。",
+    "items": [
+      {
+        "icon": "ScrollText",
+        "title": "谅解备忘录起草",
+        "desc": "为遵守阿联酋法律并保障您的权利而起草的公司章程。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Handshake",
+        "title": "受益所有权协议",
+        "desc": "证明您是实际唯一受益所有人的私人法律文件。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Gavel",
+        "title": "商业授权委托书",
+        "desc": "经公证的授权委托书，赋予您对所有商业决策和银行账户的完全控制权。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "赞助商限制协议",
+        "desc": "法律条款禁止赞助商干预您的业务运营。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Banknote",
+        "title": "固定年费",
+        "desc": "赞助商每年收取固定费用，不参与利润、收入或支出分成。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "公证文件",
+        "desc": "所有文件均已签署并公证，确保内容清晰透明，具有法律效力。",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "六步流程",
+    "title": "我们如何保障您的业务安全",
+    "titleHighlight": "保障您的业务安全",
+    "subtitle": "六个简单步骤，即可全面保障大陆企业运营。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "活动评估",
+        "description": "我们会确定您的业务活动是否需要当地合作伙伴、企业赞助商或当地服务代理商。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "UserPlus",
+        "title": "合作伙伴选择",
+        "description": "我们会为您匹配一位可靠、经过验证且拥有良好业绩记录的阿联酋合作伙伴或企业赞助商。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "FileSignature",
+        "title": "法律文件",
+        "description": "起草和公证合作备忘录、补充协议、授权委托书和代理人协议，以保护您的利益。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "许可证申请",
+        "description": "我们会向DED提交您的营业执照申请，并协调所有政府审批事宜。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "05",
+        "icon": "ClipboardCheck",
+        "title": "企业银行账户",
+        "description": "协助您在阿联酋顶级银行开设公司银行账户。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "06",
+        "icon": "RefreshCw",
+        "title": "持续支持",
+        "description": "许可证续期、PRO 服务、合规性以及符合条件时未来转换为 100% 所有权。",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "主要要求",
+    "title": "你需要知道什么",
+    "titleHighlight": "须知",
+    "items": [
+      {
+        "icon": "Percent",
+        "title": "51% 法定股份",
+        "description": "当地合作伙伴持有 51% 的法定股份，而您在账面上保留 49% 的股份。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "附加协议",
+        "description": "法律协议确保您保留完全的控制权和利润。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "固定年费",
+        "description": "赞助商每年支付固定金额——不参与利润分成。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "退出选项",
+        "description": "灵活的转让、赞助商变更或100%所有权转换。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "您值得信赖的本地合作伙伴",
+    "titleHighlight": "本地合作伙伴",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "可靠合作伙伴",
+        "desc": "经核实且业绩卓著的阿联酋赞助商"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "法律文件",
+        "desc": "所有协议均经公证，具有法律约束力。"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "无任何隐藏费用或佣金"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语、乌尔都语"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速审批",
+        "desc": "直接DED和政府网络"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "持续支持",
+        "desc": "续订、专业版和转换协助"
+      },
+      {
+        "icon": "Users",
+        "label": "深受数千用户信赖",
+        "desc": "拥有成功搭建系统的良好记录"
+      },
+      {
+        "icon": "Crown",
+        "label": "长期合作关系",
+        "desc": "我们保护的是您的未来，而不仅仅是您的现有设备。"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千用户信赖",
+    "titleHighlight": "数千",
+    "subtitle": "您的企业安全，由专家守护。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "10,000+",
+        "label": "公司成立",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "100%",
+        "label": "控制权得以保留",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "赞助专家",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "固定的",
+        "label": "年费",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "合规",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "伙伴",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "您需要了解的关于阿联酋本地商业伙伴的一切信息。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们当地合作伙伴的专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于阿联酋本地商业伙伴的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜，所有企业都必须有本地商业伙伴吗？",
+        "a": "不。自2021年改革以来，中国大陆大部分商业活动允许外商100%控股。只有特定的商业或工业活动才需要本地担保人。专业服务公司和自由区公司可以享有100%控股权。"
+      },
+      {
+        "q": "本地合作伙伴和本地服务代理商有什么区别？",
+        "a": "本地合作伙伴（赞助商）持有贵公司 51% 的法定股份。本地服务代理 (LSA) 不持有任何股份——他们仅作为与政府部门的行政联络人，并收取固定的年费。"
+      },
+      {
+        "q": "我能否通过本地合作伙伴保留100%的控制权？",
+        "a": "是的。通过结构化的代理人协议、授权委托书和补充协议，您可以保留100%的运营、财务和管理控制权。发起人是隐名合伙人，不参与任何事务。"
+      },
+      {
+        "q": "本地合作伙伴的费用是多少？",
+        "a": "企业赞助费通常为每年 8,000 至 20,000 迪拉姆，具体金额取决于服务范围和赞助商的声誉。这是一笔固定费用，不涉及利润分成。"
+      },
+      {
+        "q": "如果我想退出或转让所有权该怎么办？",
+        "a": "我们提供灵活的退出和转让选择——出售您的企业、引入新的合伙人、转让赞助权，或者在法律允许的情况下升级为 100% 所有权。"
+      },
+      {
+        "q": "赞助商会干预我的业务运营吗？",
+        "a": "不。我们的赞助商限制协议明确禁止任何干预行为。赞助商是隐名合伙人，无权参与运营、财务或决策。"
+      },
+      {
+        "q": "未来我可以转为100%所有权吗？",
+        "a": "是的。随着阿联酋法律的不断发展，许多行业现在允许外资完全控股。我们会密切关注法律更新，并在符合条件时协助您变更经营许可，包括移除担保人并更新您的文件。"
+      },
+      {
+        "q": "哪些法律文件可以保护我的权益？",
+        "a": "关键文件包括合作备忘录、受益所有权协议、授权委托书和发起人限制协议。所有文件均经过公证，具有法律约束力。"
+      },
+      {
+        "q": "有当地担保人对获得政府批准有帮助吗？",
+        "a": "是的。我们现有的企业赞助商有助于加快DED许可证的发放、续期、市政审批、民防和行业监管审批。"
+      },
+      {
+        "q": "为什么选择 Setup Zone Dubai 作为您的本地合作伙伴服务商？",
+        "a": "我们提供可靠的阿联酋合作伙伴、全面的法律文件、透明的定价和端到端的支持。凭借良好的业绩记录和与政府部门的直接联系，我们确保快速、合规且安全地完成设置。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与本地商业伙伴完美搭配的服务。",
+    "items": [
+      {
+        "slug": "local-corporate-sponsor",
+        "title": "本地企业赞助商",
+        "description": "通过值得信赖的赞助商获得100%的控制权。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "mainland-company-formation",
+        "title": "大陆公司成立",
+        "description": "持有DET许可证，可完全进入阿联酋市场。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸结构。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "保障您的业务安全",
+    "title": "准备好寻找值得信赖的本地合作伙伴了吗？",
+    "titleHighlight": "值得信赖的本地合作伙伴？",
+    "subtitle": "获取免费咨询。我们将帮助您在中国大陆设立公司，为您寻找可靠的当地合作伙伴，并提供全面的法律保障。",
+    "chips": [
+      "免费咨询",
+      "100% 控制",
+      "固定费用"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于阿联酋本地商业合作伙伴的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想探讨一下阿联酋本地商业合作伙伴的相关事宜。"
+  }
+}

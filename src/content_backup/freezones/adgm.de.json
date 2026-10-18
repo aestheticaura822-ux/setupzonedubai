@@ -1,0 +1,463 @@
+{
+    "slug":  "adgm",
+    "hero":  {
+                 "badge":  "Billionen-Dollar-Finanzzone",
+                 "title":  "ADGM Freizone",
+                 "titleHighlight":  "Freizone",
+                 "subtitle":  "Abu Dhabi Global Market "“ eine weltweit anerkannte Finanzfreizone, die bei fortschrittlichen Regulierungen eine Vorreiterrolle einnimmt. Ideal für Fintechs, Kryptowí¤hrungen, Zweckgesellschaften und Holdinggesellschaften.",
+                 "image":  "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Freizonen",
+                 "breadcrumbLabel":  "ADGM",
+                 "ctaPrimaryText":  "Vereinbaren Sie eine kostenlose Beratung",
+                 "ctaPrimaryLink":  "#Kontakt",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Hallo! Ich interessiere mich für die Einrichtung der ADGM Free Zone.",
+                 "badges":  [
+                                "100% Eigentum",
+                                "0 % Steuer",
+                                "FSRA-reguliert"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Krone",
+                      "value":  "íœber 1 Billion US-Dollar",
+                      "label":  "Billionen-Dollar-Zone",
+                      "color":  "von Indigo-400 bis Violett-600"
+                  },
+                  {
+                      "icon":  "Globus",
+                      "value":  "100%",
+                      "label":  "Auslí¤ndisches Eigentum",
+                      "color":  "von Violett-400 bis Lila-600"
+                  },
+                  {
+                      "icon":  "Dollarzeichen",
+                      "value":  "0 %",
+                      "label":  "Einkommensteuer",
+                      "color":  "von Smaragdgrün 400 bis Türkis 600"
+                  },
+                  {
+                      "icon":  "Uhr",
+                      "value":  "Schnell",
+                      "label":  "Anmeldung",
+                      "color":  "von Bernstein-400 bis Orange-600"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "ADGM-Dashboard",
+                          "statusLabel":  "Live",
+                          "balanceLabel":  "Geschí¤ftszone",
+                          "balanceValue":  "Mehr als 1 Billion US-Dollar",
+                          "balanceSubtext":  "Globales Finanzzentrum",
+                          "metrics":  [
+                                          {
+                                              "label":  "Eigentum",
+                                              "value":  "100%",
+                                              "color":  "text-indigo-600"
+                                          },
+                                          {
+                                              "label":  "Steuersatz",
+                                              "value":  "0 %",
+                                              "color":  "text-emerald-600"
+                                          }
+                                      ],
+                          "chartLabel":  "Finanzwachstum",
+                          "chartValue":  "â†‘ 240%",
+                          "chartBars":  [
+                                            30,
+                                            50,
+                                            40,
+                                            65,
+                                            55,
+                                            80,
+                                            95,
+                                            75,
+                                            100
+                                        ]
+                      },
+    "whyADGM":  {
+                    "badge":  "Warum ADGM?",
+                    "title":  "Warum ein Unternehmen in der ADGM-Freizone gründen?",
+                    "titleHighlight":  "ADGM-freie Zone?",
+                    "subtitle":  "Eines der anspruchsvollsten und angesehensten Regulierungsumfelder im Nahen Osten.",
+                    "items":  [
+                                  {
+                                      "icon":  "Globus",
+                                      "title":  "100% auslí¤ndisches Eigentum",
+                                      "description":  "Volle Inhaberschaft an Ihrem Unternehmen "“ kein lokaler Sponsor erforderlich.",
+                                      "color":  "von Indigo-400 bis Violett-600"
+                                  },
+                                  {
+                                      "icon":  "Dollarzeichen",
+                                      "title":  "Null Einkommensteuer",
+                                      "description":  "Keine Kí¶rperschafts- oder Einkommensteuer "“ maximale Rentabilití¤t.",
+                                      "color":  "von Violett-400 bis Lila-600"
+                                  },
+                                  {
+                                      "icon":  "Wahrzeichen",
+                                      "title":  "Globaler Bankzugang",
+                                      "description":  "Weltweit anerkannte Bank-, Rechts- und Finanzsysteme.",
+                                      "color":  "von Lila-400 bis Fuchsia-600"
+                                  },
+                                  {
+                                      "icon":  "Zap",
+                                      "title":  "Vereinfachte Registrierung",
+                                      "description":  "Schneller und effizienter Prozess zur Unternehmensregistrierung.",
+                                      "color":  "von Bernstein-400 bis Orange-600"
+                                  },
+                                  {
+                                      "icon":  "Skala",
+                                      "title":  "Englisches Common Law",
+                                      "description":  "Reguliert durch eine weltweit anerkannte Behí¶rde nach englischem Common Law.",
+                                      "color":  "von Cyan-400 bis Blau-600"
+                                  },
+                                  {
+                                      "icon":  "Münzen",
+                                      "title":  "Perfekt für Fintech-Unternehmen",
+                                      "description":  "Ideal für Fintech, Vermí¶gensverwaltung, Krypto und professionelle Dienstleistungen.",
+                                      "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                  }
+                              ]
+                },
+    "beginJourney":  {
+                         "badge":  "Beginnen Sie Ihre ADGM-Reise",
+                         "title":  "Gründen Sie Ihr Unternehmen in ADGM",
+                         "titleHighlight":  "ADGM",
+                         "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200\u0026q=80",
+                         "imageBadgeTitle":  "Befindet sich in",
+                         "imageBadgeText":  "Al Maryah Island, Abu Dhabi",
+                         "paragraph1":  "Bei der Gründung Ihres Unternehmens im ADGM (Abu Dhabi Global Market) geht es nicht nur um die Unternehmensregistrierung "“ es geht darum, sich in einem der angesehensten und dynamischsten Finanzzentren der Welt zu engagieren.",
+                         "paragraph2":  "Der ADGM, der als Billionen-Dollar-Finanzzone bezeichnet wird, ist ein exklusiver Marktplatz für Unternehmer, Investoren und Unternehmensführer, die vertrauensvoll Geschí¤fte tí¤tigen mí¶chten.",
+                         "paragraph3":  "Egal ob Sie ein Startup-Gründer, ein erfahrener Investor oder ein Unternehmensstratege sind "“ ADGM bietet das perfekte Umfeld, um Ihre Trí¤ume mit einem kollaborativen í–kosystem und einem erstklassigen regulatorischen Rahmen zu verwirklichen.",
+                         "features":  [
+                                          "Prestigetrí¤chtiges Finanzzentrum",
+                                          "Reguliert durch die FSRA",
+                                          "Globaler Zugang",
+                                          "Innovationsí¶kosystem"
+                                      ]
+                     },
+    "licenseTypes":  {
+                         "badge":  "Lizenzoptionen",
+                         "title":  "ADGM-Gewerbelizenzarten",
+                         "titleHighlight":  "Lizenzarten",
+                         "subtitle":  "Besorgen Sie sich die für Ihre Geschí¤ftstí¤tigkeit passende Lizenz.",
+                         "items":  [
+                                       {
+                                           "icon":  "Speichern",
+                                           "title":  "ADGM-Gewerbelizenz",
+                                           "description":  "Für Unternehmen, die Handel treiben und Dienstleistungen anbieten.",
+                                           "code":  "COM",
+                                           "color":  "von Indigo-400 bis Violett-600"
+                                       },
+                                       {
+                                           "icon":  "Aktentasche",
+                                           "title":  "ADGM-Berufslizenz",
+                                           "description":  "Für Berater, professionelle Dienstleister, Rechtsanwí¤lte oder IT-Unternehmen.",
+                                           "code":  "PRO",
+                                           "color":  "von Violett-400 bis Lila-600"
+                                       },
+                                       {
+                                           "icon":  "Gebí¤ude 2",
+                                           "title":  "Lizenz der ADGM Holdinggesellschaft",
+                                           "description":  "Zum Schutz von Vermí¶genswerten und für grenzüberschreitende Investitionen.",
+                                           "code":  "HLD",
+                                           "color":  "von Lila-400 bis Fuchsia-600"
+                                       },
+                                       {
+                                           "icon":  "Kisten",
+                                           "title":  "ADGM SPV",
+                                           "description":  "Zweckgesellschaft für die Strukturierung und den Betrieb von Beteiligungsgesellschaften.",
+                                           "code":  "SPV",
+                                           "color":  "von Bernstein-400 bis Orange-600"
+                                       },
+                                       {
+                                           "icon":  "CPU",
+                                           "title":  "ADGM Fintech-Lizenz",
+                                           "description":  "Für modernes digitales Finanzwesen und Innovation.",
+                                           "code":  "FLOSSE",
+                                           "color":  "von Cyan-400 bis Blau-600"
+                                       },
+                                       {
+                                           "icon":  "Blí¶cke",
+                                           "title":  "Lizenz für digitale Vermí¶genswerte und Kryptowí¤hrungen",
+                                           "description":  "Für regulierte Blockchain-Unternehmen.",
+                                           "code":  "WEINEN",
+                                           "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                       }
+                                   ]
+                     },
+    "visaServices":  {
+                         "badge":  "Visadienstleistungen",
+                         "title":  "Visa- und Einwanderungshilfe",
+                         "titleHighlight":  "Hilfe",
+                         "subtitle":  "Schnellere Visabearbeitung für Investoren und Mitarbeiter.",
+                         "items":  [
+                                       {
+                                           "icon":  "Benutzerprüfung",
+                                           "title":  "Investoren- und Partnervisa",
+                                           "description":  "Für Geschí¤ftsinhaber und Aktioní¤re von ADGM.",
+                                           "stampColor":  "von Indigo 500 bis Violett 600"
+                                       },
+                                       {
+                                           "icon":  "Aktentasche",
+                                           "title":  "Arbeitsvisa",
+                                           "description":  "Für Mitarbeiter, die von Ihrem ADGM-Unternehmen gesponsert werden.",
+                                           "stampColor":  "von Violett-500 bis Lila-600"
+                                       },
+                                       {
+                                           "icon":  "Benutzer",
+                                           "title":  "Familienvisumantrí¤ge",
+                                           "description":  "Für Ehepartner, Kinder und Angehí¶rige.",
+                                           "stampColor":  "von Lila-500 bis Fuchsia-600"
+                                       },
+                                       {
+                                           "icon":  "RefreshCw",
+                                           "title":  "Visaverlí¤ngerungen \u0026 -übertragungen",
+                                           "description":  "Umfassende Unterstützung wí¤hrend des gesamten Lebenszyklus für alle Visatypen.",
+                                           "stampColor":  "von Bernstein-500 bis Orange-600"
+                                       }
+                                   ]
+                     },
+    "officeSolutions":  {
+                            "badge":  "Bürolí¶sungen",
+                            "title":  "Moderne Bürolí¶sungen in ADGM",
+                            "titleHighlight":  "Lí¶sungen in ADGM",
+                            "subtitle":  "Premium-Coworking-Spaces, flexible Arbeitsplí¤tze, private Büros und virtuelle Büros auf Al Maryah Island.",
+                            "smallItems":  [
+                                               {
+                                                   "icon":  "Monitor",
+                                                   "title":  "Coworking-Spaces",
+                                                   "description":  "Flexible Gemeinschaftsarbeitsplí¤tze für Startups und Freiberufler.",
+                                                   "color":  "von Indigo-400 bis Violett-600"
+                                               },
+                                               {
+                                                   "icon":  "Aktentasche",
+                                                   "title":  "Flexible Schreibtische",
+                                                   "description":  "Kostengünstige Gemeinschaftsarbeitsplí¤tze mit erstklassiger Ausstattung.",
+                                                   "color":  "von Violett-400 bis Lila-600"
+                                               },
+                                               {
+                                                   "icon":  "Globus",
+                                                   "title":  "Virtuelle Büros",
+                                                   "description":  "Ideal für ortsunabhí¤ngige Unternehmen, die eine ADGM-Rechtsprí¤senz bení¶tigen.",
+                                                   "color":  "von Cyan-400 bis Blau-600"
+                                               }
+                                           ],
+                            "largeItem":  {
+                                              "icon":  "Gebí¤ude 2",
+                                              "title":  "Privatbüros",
+                                              "description":  "Individuell anpassbare, sichere Bürorí¤ume auf Al Maryah Island "“ ideal für wachsende Unternehmen. Wir beraten Sie gerne zur optimalen Bürolí¶sung, abgestimmt auf Ihr Visakontingent, Ihr Budget und Ihre betrieblichen Anforderungen."
+                                          }
+                        },
+    "businessSupport":  {
+                            "badge":  "Dienstleistungen zur Unterstützung von Unternehmen",
+                            "title":  "Umfassender Support durch Setup Zone Dubai",
+                            "titleHighlight":  "von Setup Zone Dubai",
+                            "subtitle":  "Wir unterstützen Sie weiterhin, um den Erfolg Ihres Unternehmens sicherzustellen.",
+                            "items":  [
+                                          {
+                                              "icon":  "Skala",
+                                              "title":  "Rechtsberatung",
+                                              "description":  "Vertrí¤ge, Compliance und behí¶rdliche Meldungen."
+                                          },
+                                          {
+                                              "icon":  "Kreditkarte",
+                                              "title":  "Bankdienstleistungen",
+                                              "description":  "Firmen- und Privatkonten bei Banken in den VAE."
+                                          },
+                                          {
+                                              "icon":  "Balkendiagramm 3",
+                                              "title":  "Rechnungswesen \u0026 Wirtschaftsprüfung",
+                                              "description":  "Mehrwertsteuerkonformití¤t und Finanzberichterstattung."
+                                          },
+                                          {
+                                              "icon":  "Dateiabzeichen",
+                                              "title":  "PRO-Dienstleistungen",
+                                              "description":  "Dokumentation, Lizenzverlí¤ngerungen und Genehmigungen."
+                                          },
+                                          {
+                                              "icon":  "MonitorPlay",
+                                              "title":  "Webseitenentwicklung",
+                                              "description":  "SEO-optimierte Websites und CRM-Einrichtung."
+                                          },
+                                          {
+                                              "icon":  "Megaphon",
+                                              "title":  "Digitales Branding",
+                                              "description":  "Unterstützung bei Markenidentití¤t und Leadgenerierung."
+                                          }
+                                      ]
+                        },
+    "strategicAdvantages":  {
+                                "badge":  "Strategische Vorteile",
+                                "title":  "Wichtigste Vorteile des Standorts und des í–kosystems von ADGM",
+                                "titleHighlight":  "Standort \u0026 í–kosystem",
+                                "items":  [
+                                              {
+                                                  "icon":  "MapPin",
+                                                  "title":  "Al Maryah Island",
+                                                  "description":  "Im führenden Finanzviertel von Abu Dhabi gelegen."
+                                              },
+                                              {
+                                                  "icon":  "Blí¶cke",
+                                                  "title":  "Digital Asset-freundlich",
+                                                  "description":  "Eine der wenigen Zonen, die digitale Vermí¶genswerte und Zweckgesellschaften (SPVs) rechtlich unterstützen."
+                                              },
+                                              {
+                                                  "icon":  "Flugzeug",
+                                                  "title":  "Flughafenní¤he",
+                                                  "description":  "In unmittelbarer Ní¤he zum internationalen Flughafen Abu Dhabi, Botschaften und Regierungsbehí¶rden."
+                                              },
+                                              {
+                                                  "icon":  "Globus",
+                                                  "title":  "Globaler Investitionshub",
+                                                  "description":  "Ein zentraler Knotenpunkt für internationale Geschí¤fte und Investitionen."
+                                              },
+                                              {
+                                                  "icon":  "ShieldCheck",
+                                                  "title":  "FSRA-reguliert",
+                                                  "description":  "Reguliert durch die Finanzdienstleistungsaufsichtsbehí¶rde."
+                                              },
+                                              {
+                                                  "icon":  "Wahrzeichen",
+                                                  "title":  "Prestigetrí¤chtige Adresse",
+                                                  "description":  "Stí¤rkt die Glaubwürdigkeit der Marke und das Vertrauen der Investoren."
+                                              }
+                                          ]
+                            },
+    "whyChooseUs":  {
+                        "badge":  "Warum Sie sich für uns entscheiden sollten",
+                        "title":  "Warum Setup Zone Dubai wí¤hlen?",
+                        "titleHighlight":  "Setup Zone Dubai?",
+                        "subtitle":  "Transparenz, Effizienz und persí¶nlicher Service für Ihre ADGM-Reise.",
+                        "items":  [
+                                      {
+                                          "icon":  "Vergeben",
+                                          "title":  "Komplettpakete",
+                                          "description":  "Komplette ADGM-Einrichtung, Lizenzierung und Visabearbeitung.",
+                                          "color":  "von Indigo-400 bis Violett-600"
+                                      },
+                                      {
+                                          "icon":  "Ziel",
+                                          "title":  "Expertenberatung",
+                                          "description":  "MaíŸgeschneiderte Beratung, die auf Ihre Branche und Ihre rechtlichen Bedürfnisse zugeschnitten ist.",
+                                          "color":  "von Violett-400 bis Lila-600"
+                                      },
+                                      {
+                                          "icon":  "Quittung",
+                                          "title":  "Transparente Preise",
+                                          "description":  "Transparente Preisgestaltung ohne versteckte Kosten.",
+                                          "color":  "von Lila-400 bis Fuchsia-600"
+                                      },
+                                      {
+                                          "icon":  "Rakete",
+                                          "title":  "Volle Unterstützung",
+                                          "description":  "Digitales Branding, CRM-Einrichtung, SEO und Leadgenerierung.",
+                                          "color":  "von Bernstein-400 bis Orange-600"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Hí¤ufig gestellte Fragen",
+                 "title":  "Hí¤ufig gestellte Fragen",
+                 "titleHighlight":  "Fragen",
+                 "subtitle":  "Alles, was Sie über die ADGM Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                 "items":  [
+                               {
+                                   "q":  "Wie gründe ich ein Unternehmen in ADGM?",
+                                   "a":  "Registrieren Sie sich über die Registrierungsbehí¶rde. Wir übernehmen für Sie die Reservierung des Handelsnamens, die Beantragung von Lizenzen, die Wahl der Rechtsform und die Visumbeantragung "“ von Anfang bis Ende."
+                               },
+                               {
+                                   "q":  "Welche Lizenzarten sind in ADGM verfügbar?",
+                                   "a":  "Gewerbe-, Berufs-, Holding-, SPV-, Fintech- und Digital Assets/Krypto-Lizenzen "“ jede zugeschnitten auf unterschiedliche Geschí¤ftsmodelle."
+                               },
+                               {
+                                   "q":  "Ist ADGM nur für Startups oder auch für internationale Unternehmen gedacht?",
+                                   "a":  "ADGM ist für beides geeignet. Von Fintech-Startups bis hin zu multinationalen Konzernen, Zweckgesellschaften und Holdinggesellschaften "“ ADGM unterstützt Unternehmen jeder Grí¶íŸe und Entwicklungsphase."
+                               },
+                               {
+                                   "q":  "Was ist eine ADGM SPV und wer kann sie nutzen?",
+                                   "a":  "SPV (Special Purpose Vehicle) wird zur Strukturierung, zum Halten von Beteiligungen und zum Schutz von Vermí¶genswerten eingesetzt "“ ideal für grenzüberschreitende Investoren."
+                               },
+                               {
+                                   "q":  "Kann ich ein Bankkonto für ein ADGM-Unternehmen erí¶ffnen?",
+                                   "a":  "Ja. Dank der globalen Bankverbindungen von ADGM wird die Erí¶ffnung von Firmenkonten bei führenden Banken in den VAE und international erleichtert."
+                               },
+                               {
+                                   "q":  "Bení¶tige ich Bürorí¤ume, um mich bei ADGM zu registrieren?",
+                                   "a":  "Ja, Sie bení¶tigen eine physische oder virtuelle Büroprí¤senz. Wir bieten flexible Optionen wie Coworking, flexible Arbeitsplí¤tze, Einzelbüros und virtuelle Büros."
+                               },
+                               {
+                                   "q":  "Wie lí¤uft das ADGM-Visumverfahren ab?",
+                                   "a":  "Wir übernehmen den gesamten Prozess: Einreisegenehmigungen, medizinische Tests, Emirates ID und die Beantragung des Aufenthaltsvisums "“ für Investoren, Mitarbeiter und Familienangehí¶rige."
+                               },
+                               {
+                                   "q":  "Wie schnell kann ich ein ADGM-Unternehmen gründen?",
+                                   "a":  "Die Bearbeitungszeit betrí¤gt in der Regel 1"“2 Wochen, abhí¤ngig von den Unterlagen und der Art der Lizenz. Wo mí¶glich, beschleunigen wir den Prozess."
+                               },
+                               {
+                                   "q":  "Unterliegt ADGM den Regulierungen für Finanzunternehmen?",
+                                   "a":  "Ja. ADGM wird von der Financial Services Regulatory Authority (FSRA) reguliert und folgt dem englischen Common Law."
+                               },
+                               {
+                                   "q":  "Warum sollte ich Setup Zone Dubai für die ADGM-Einrichtung beauftragen?",
+                                   "a":  "Wir bieten Komplettpakete, fachkundige Beratung, transparente Preisgestaltung und umfassende Unterstützung nach der Einrichtung "“ mit Verbindungen zu Regierungsbehí¶rden für eine schnelle Bearbeitung."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "Verwandte Dienstleistungen",
+                            "titleHighlight":  "Dienstleistungen",
+                            "subtitle":  "Dienstleistungen, die gut zu Ihrer Freizonenkonfiguration passen.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Erí¶ffnung eines Bankkontos",
+                                              "description":  "Erí¶ffnen Sie Geschí¤ftskonten in den VAE mit umfassender KYC-Unterstützung.",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "von Indigo-400 bis Violett-600"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Compliance-Dienstleistungen",
+                                              "description":  "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "von Cyan-400 bis Blau-600"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Goldenes Visum",
+                                              "description":  "10-jí¤hrige Aufenthaltsgenehmigung in den VAE für Investoren.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "von Bernstein-400 bis Gelb-500"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Starten Sie noch heute!",
+                     "title":  "Bereit für den Start in ADGM?",
+                     "titleHighlight":  "ADGM?",
+                     "subtitle":  "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess "“ von der Lizenzauswahl bis zur Kontoerí¶ffnung.",
+                     "primaryCta":  "WhatsApp uns",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "Tel.: +971566556645",
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Beratung zur Einrichtung von ADGM.",
+                     "badges":  [
+                                    "Kostenlose Beratung",
+                                    "FSRA-reguliert",
+                                    "Schnelle Einrichtung"
+                                ],
+                     "office":  {
+                                    "label":  "Besuchen Sie unser Büro in Dubai",
+                                    "line1":  "Büro M08-27, M1-Etage, Crystal Tower",
+                                    "line2":  "Business Bay, Dubai, Vereinigte Arabische Emirate "“ Postfach: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Arbeitszeit",
+                                   "monFri":  "9:00 "“ 18:00 Uhr",
+                                   "saturday":  "10:00 "“ 17:00 Uhr",
+                                   "sunday":  "Geschlossen"
+                               }
+                 }
+}

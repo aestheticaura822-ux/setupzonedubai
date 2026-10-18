@@ -1,0 +1,571 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "45+ Serbest Bölge. %100 Mülkiyet.",
+    "heroTitle":  "BAE Serbest Bölge Şirketi Kurulumu",
+    "heroTitleHighlight":  "Serbest Bölge",
+    "heroSubtitle":  "Şirketinizi BAE\u0027deki 45\u0027ten fazla Serbest Bölgeden birinde kurun. %100 yabancı mülkiyet, %0 vergi ve karın tamamının geri gönderilmesi - hepsi sadece 3-7 gün içinde.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "%0 Vergi",
+                      "3-7 Gün Kurulum",
+                      "45+ Ücretsiz Bölgeler"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Küre",
+                      "value":  "45+",
+                      "label":  "Serbest Bölgeler",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Globe2",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Kurumlar Vergisi",
+                      "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-7",
+                      "label":  "Kurulum Günleri",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Nedir?",
+                          "title":  "Serbest Bölge Şirketi Nedir?",
+                          "titleHighlight":  "Serbest Bölge Şirketi mi?",
+                          "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Vergisiz Bölge",
+                          "imageBadgeText":  "%100 Sahiplik",
+                          "paragraphs":  [
+                                             "Birleşik Arap Emirlikleri Serbest Bölge Şirketi, Dubai, Abu Dabi, Şarjah ve diğer emirliklerdeki 45\u0027ten fazla Serbest Bölgeden biri tarafından lisanslandırılmış bir işletmedir. %100 yabancı mülkiyetiyle vergisiz bir ortam sunar.",
+                                             "Serbest Bölge şirketleri, Serbest Bölge içinde, BAE genelinde (dağıtımcılar aracılığıyla) ve uluslararası alanda serbestçe ticaret yapabilirler. Ancak BAE anakara pazarında doğrudan ticaret yapamazlar.",
+                                             "Popüler Serbest Bölgeler arasında IFZA, DMCC, Meydan, DAFZA, JAFZA, RAKEZ, SHAMS ve Dubai CommerCity yer almaktadır; her birinin farklı iş faaliyetleri için benzersiz avantajları vardır. Setup Zone Dubai\u0027de, hedeflerinize göre doğru olanı seçmenize yardımcı oluyoruz."
+                                         ],
+                          "highlights":  [
+                                             "%100 Yabancı Mülkiyeti",
+                                             "%0 Kurumlar Vergisi",
+                                             "Kar Geri Dönüşü",
+                                             "Gümrüksüz Alışverişin Avantajları",
+                                             "Hızlı Kurulum",
+                                             "45\u0027ten fazla bölge mevcut."
+                                         ]
+                      },
+    "licenseTypesSection":  {
+                                "badge":  "Lisans Seçenekleri",
+                                "title":  "Hangi Serbest Bölge Lisanslarını Alabilirsiniz?",
+                                "titleHighlight":  "Serbest Bölge Lisansları",
+                                "subtitle":  "6 farklı lisans türü arasından işletmeniz için en uygun olanı seçin.",
+                                "items":  [
+                                              {
+                                                  "id":  "reklam",
+                                                  "icon":  "Mağaza Simgesi",
+                                                  "title":  "Ticari Lisans",
+                                                  "tagline":  "Alım Satım ve Takas",
+                                                  "description":  "Ticaret şirketleri, ithalat/ihracat işletmeleri, toptancılar, perakendeciler ve distribütörler için. Serbest Bölge içinde, BAE genelinde ve uluslararası alanda serbestçe ticaret yapın.",
+                                                  "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200\u0026q=80",
+                                                  "color":  "zümrüt-500\u0027den turkuaz-700\u0027e",
+                                                  "features":  [
+                                                                   "İthalat/İhracat",
+                                                                   "Toptan ve Perakende",
+                                                                   "Genel Ticaret",
+                                                                   "Küresel Satışlar"
+                                                               ],
+                                                  "bestFor":  "Tüccarlar"
+                                              },
+                                              {
+                                                  "id":  "profesyonel",
+                                                  "icon":  "Evrak çantası",
+                                                  "title":  "Profesyonel / Hizmet Lisansı",
+                                                  "tagline":  "Uzmanlık ve Danışmanlık",
+                                                  "description":  "Danışmanlar, BT hizmetleri, pazarlama ajansları, eğitimciler, koçlar ve profesyonel hizmet sağlayıcılar için %100 sahiplik imkanı.",
+                                                  "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                                  "color":  "turkuaz-500\u0027den camgöbeği-700\u0027e",
+                                                  "features":  [
+                                                                   "Danışmanlar",
+                                                                   "BT Hizmetleri",
+                                                                   "Pazarlama",
+                                                                   "Eğitim"
+                                                               ],
+                                                  "bestFor":  "Danışmanlar"
+                                              },
+                                              {
+                                                  "id":  "endüstriyel",
+                                                  "icon":  "Fabrika",
+                                                  "title":  "Sanayi Lisansı",
+                                                  "tagline":  "İmalat ve Üretim",
+                                                  "description":  "Belirlenmiş Serbest Bölgeler içerisinde, sanayi arazisine ve altyapısına erişimi olan imalat, üretim, montaj ve endüstriyel faaliyetler için.",
+                                                  "image":  "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200\u0026q=80",
+                                                  "color":  "siyan-500\u0027den-mavi-700\u0027e",
+                                                  "features":  [
+                                                                   "Üretme",
+                                                                   "Üretme",
+                                                                   "Toplantı",
+                                                                   "Sanayi Arazisi"
+                                                               ],
+                                                  "bestFor":  "Üreticiler"
+                                              },
+                                              {
+                                                  "id":  "e-ticaret",
+                                                  "icon":  "Alışveriş Sepeti",
+                                                  "title":  "E-ticaret Lisansı",
+                                                  "tagline":  "Dijital Odaklı İşletme",
+                                                  "description":  "%100 sahiplik, düşük maliyet ve vergisiz ortam sunan çevrimiçi mağazalar, dijital pazaryerleri, dropshipping ve e-ticaret platformları için.",
+                                                  "image":  "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200\u0026q=80",
+                                                  "color":  "mavi-500\u0027den çivit-700\u0027e",
+                                                  "features":  [
+                                                                   "Çevrimiçi Mağaza",
+                                                                   "Dijital Pazar Yeri",
+                                                                   "Dropshipping",
+                                                                   "Küresel Erişim"
+                                                               ],
+                                                  "bestFor":  "E-ticaret Satıcıları"
+                                              },
+                                              {
+                                                  "id":  "serbest çalışan",
+                                                  "icon":  "Dizüstü bilgisayar",
+                                                  "title":  "Serbest Çalışan İzni",
+                                                  "tagline":  "Bireysel Profesyoneller",
+                                                  "description":  "Serbest çalışanlar, danışmanlar, tasarımcılar, geliştiriciler, yazarlar ve dijital göçebeler için. Yasal tanınma, faturalama ve vize uygunluğu isteyen bağımsız profesyoneller için mükemmel.",
+                                                  "image":  "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200\u0026q=80",
+                                                  "color":  "indigo-500\u0027den mor-700\u0027e",
+                                                  "features":  [
+                                                                   "Bireysel Profesyoneller",
+                                                                   "Yasal Faturalama",
+                                                                   "Vizeye Uygun",
+                                                                   "Düşük Maliyet"
+                                                               ],
+                                                  "bestFor":  "Serbest çalışanlar"
+                                              },
+                                              {
+                                                  "id":  "tutma",
+                                                  "icon":  "Taç",
+                                                  "title":  "Holding Lisansı",
+                                                  "tagline":  "Kurumsal Yapılandırma",
+                                                  "description":  "Holding şirketleri, yatırım araçları ve varlık yöneticileri için. Ticari faaliyetlerde bulunmadan iştirakleri, gayrimenkulleri, fikri mülkiyeti ve yatırımları yönetir.",
+                                                  "image":  "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200\u0026q=80",
+                                                  "color":  "from-violet-500 to-purple-700",
+                                                  "features":  [
+                                                                   "Holding Şirketi",
+                                                                   "Yatırım Aracı",
+                                                                   "Varlık Yönetimi",
+                                                                   "Servet Yapılandırması"
+                                                               ],
+                                                  "bestFor":  "Yatırımcılar ve Yüksek Net Değerli Bireyler"
+                                              }
+                                          ]
+                            },
+    "topFreeZonesSection":  {
+                                "badge":  "45+ Ücretsiz Bölgeler",
+                                "title":  "Hizmet Verdiğimiz En İyi Ücretsiz Bölgeler",
+                                "titleHighlight":  "Serbest Bölgeler",
+                                "subtitle":  "IFZA\u0027dan Dubai CommerCity\u0027ye kadar, BAE\u0027deki tüm serbest bölgelerde uzmanlığımız var.",
+                                "items":  [
+                                              {
+                                                  "name":  "IFZA",
+                                                  "tagline":  "Esnek ve Uygun Fiyatlı",
+                                                  "color":  "zümrüt-500\u0027den turkuaz-700\u0027e"
+                                              },
+                                              {
+                                                  "name":  "DMCC",
+                                                  "tagline":  "Emtia ve Ticaret",
+                                                  "color":  "turkuaz-500\u0027den camgöbeği-700\u0027e"
+                                              },
+                                              {
+                                                  "name":  "Meydan",
+                                                  "tagline":  "Düşük Maliyetli Kurulum",
+                                                  "color":  "siyan-500\u0027den gökyüzü-700\u0027e"
+                                              },
+                                              {
+                                                  "name":  "DAFZA",
+                                                  "tagline":  "Havacılık ve Lojistik",
+                                                  "color":  "gökyüzünden-500\u0027den maviye-700\u0027e"
+                                              },
+                                              {
+                                                  "name":  "JAFZA",
+                                                  "tagline":  "Sanayi ve Ticaret",
+                                                  "color":  "mavi-500\u0027den çivit-700\u0027e"
+                                              },
+                                              {
+                                                  "name":  "RAKEZ",
+                                                  "tagline":  "Düşük Maliyetli Çok Sektörlü",
+                                                  "color":  "indigo-500\u0027den mor-700\u0027e"
+                                              },
+                                              {
+                                                  "name":  "SAHTEKARLIKLAR",
+                                                  "tagline":  "Serbest Çalışanlar ve KOBİ\u0027ler",
+                                                  "color":  "from-violet-500 to-purple-700"
+                                              },
+                                              {
+                                                  "name":  "Dubai Ticaret Şehri",
+                                                  "tagline":  "E-ticaret Merkezi",
+                                                  "color":  "mor-500\u0027den fuşya-700\u0027e"
+                                              }
+                                          ]
+                            },
+    "benefitsSection":  {
+                            "badge":  "Serbest Bölge Avantajları",
+                            "title":  "Serbest Bölge Kurulumunun Faydaları",
+                            "titleHighlight":  "Serbest Bölge Kurulumu",
+                            "subtitle":  "Birleşik Arap Emirlikleri Serbest Bölgesi şirketinin sekiz güçlü avantajı.",
+                            "items":  [
+                                          {
+                                              "icon":  "Globe2",
+                                              "title":  "%100 Yabancı Mülkiyeti",
+                                              "description":  "Birleşik Arap Emirlikleri\u0027ndeki işletmenizin tam mülkiyetine sahip olacaksınız; yerel bir Emirlik sponsoru veya BAE vatandaşı ortağına gerek yok.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Dolar İşareti",
+                                              "title":  "%0 Kurumlar ve Kişisel Vergi",
+                                              "description":  "Kurumlar vergisinin %0, kişisel gelir vergisinin %0 ve karın tamamının elde tutulduğu vergisiz bir ortam.",
+                                              "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Cüzdan",
+                                              "title":  "Tam Kar Geri Gönderme",
+                                              "description":  "Sermayenizin ve kÃ¢rınızın %100\u0027ünü herhangi bir döviz kısıtlaması olmadan ülkenize geri gönderin.",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Paket",
+                                              "title":  "Gümrüksüz Alışverişin Avantajları",
+                                              "description":  "Serbest Bölge içinde ithalat veya ihracat vergisi yok; ticaret, e-ticaret ve lojistik için mükemmel.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Hızlı Kurulum",
+                                              "description":  "Basitleştirilmiş dokümantasyon ve uzaktan kayıt imkanıyla 3-7 gün içinde lisans alabilirsiniz.",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Esnek Ofis Çözümleri",
+                                              "description":  "Esnek çalışma masaları, ortak çalışma alanları, özel ofisler veya depolar arasından seçim yapabilirsiniz; hepsi kullanıma hazır.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Banka",
+                                              "title":  "Kurumsal Banka Hesabı",
+                                              "description":  "Önde gelen bankalarla BAE kurumsal banka hesapları açın "” KYC ve belgeleme konusunda tam destek.",
+                                              "color":  "from-purple-400 to-fuchsia-600"
+                                          }
+                                      ]
+                        },
+    "processSection":  {
+                           "badge":  "6 Adımlı Süreç",
+                           "title":  "Serbest Bölge Lisansınızı Nasıl Alabilirsiniz?",
+                           "titleHighlight":  "Serbest Bölge Lisansı",
+                           "subtitle":  "Serbest Bölge şirketinizi kurmak için altı basit adım.",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Hedef",
+                                             "title":  "Serbest Bölgenizi Seçin",
+                                             "description":  "Faaliyet alanınıza, bütçenize ve uzun vadeli hedeflerinize göre en uygun Serbest Bölgeyi seçmenize yardımcı oluyoruz.",
+                                             "color":  "from-emerald-400 to-teal-600"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "Dosyaİmzası",
+                                             "title":  "Rezerv Ticari Adı",
+                                             "description":  "İşletme adınızı Serbest Bölge yetkililerinden ayırtın "” genellikle birkaç saat içinde onaylanır.",
+                                             "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Pano Kontrolü",
+                                             "title":  "Lisans Başvurusu",
+                                             "description":  "Başvurunuzu pasaport fotokopileri, iş planı ve gerekli belgelerle birlikte gönderin.",
+                                             "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "Bina 2",
+                                             "title":  "Ofis Alanı Seçin",
+                                             "description":  "Lisansınıza göre esnek çalışma masası, ortak çalışma alanı, özel ofis veya depo seçeneklerinden birini seçin.",
+                                             "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "Kaydırma Metni",
+                                             "title":  "Lisansınızı Alın",
+                                             "description":  "Serbest Bölge ticaret lisansınızı alın "” genellikle 3-7 iş günü içinde verilir.",
+                                             "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                         }
+                                     ]
+                       },
+    "comparisonSection":  {
+                              "badge":  "Serbest Bölgeye Karşı Anakara",
+                              "title":  "Seçeneklerinizi Karşılaştırın",
+                              "titleHighlight":  "Karşılaştırmak",
+                              "subtitle":  "Farklılıkları bir bakışta görerek doğru seçimi yapın.",
+                              "items":  [
+                                            {
+                                                "factor":  "Mülkiyet",
+                                                "freezone":  "%100 Yabancı",
+                                                "mainland":  "%100 (Çoğunlukla)",
+                                                "color":  "from-emerald-400 to-teal-600"
+                                            },
+                                            {
+                                                "factor":  "Kurulum Süresi",
+                                                "freezone":  "3-7 Gün",
+                                                "mainland":  "2-4 Hafta",
+                                                "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                            },
+                                            {
+                                                "factor":  "Maliyet",
+                                                "freezone":  "Daha düşük",
+                                                "mainland":  "Daha yüksek",
+                                                "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                            },
+                                            {
+                                                "factor":  "Vergi",
+                                                "freezone":  "%0 Kurumsal",
+                                                "mainland":  "%0-9 Kurumsal",
+                                                "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                            },
+                                            {
+                                                "factor":  "BAE Pazarı",
+                                                "freezone":  "Sınırlı",
+                                                "mainland":  "Tam Erişim",
+                                                "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                            },
+                                            {
+                                                "factor":  "Devlet Sözleşmeleri",
+                                                "freezone":  "HAYIR",
+                                                "mainland":  "Evet",
+                                                "color":  "indigo-400\u0027den mor-600\u0027e"
+                                            }
+                                        ]
+                          },
+    "documentsSection":  {
+                             "badge":  "Gerekli Belgeler",
+                             "title":  "Göndermeniz Gerekenler",
+                             "titleHighlight":  "Göndermeniz Gerekiyor",
+                             "items":  [
+                                           {
+                                               "icon":  "Kamera",
+                                               "label":  "Pasaport Fotoğrafları",
+                                               "desc":  "Beyaz arka plan"
+                                           },
+                                           {
+                                               "icon":  "DosyaMetni",
+                                               "label":  "İş Planı",
+                                               "desc":  "Bazı Serbest Bölgeler İçin"
+                                           },
+                                           {
+                                               "icon":  "Dosyaİmzası",
+                                               "label":  "3 Önerilen İsim",
+                                               "desc":  "Tercih sırasına göre"
+                                           },
+                                           {
+                                               "icon":  "Evrak çantası",
+                                               "label":  "İş Faaliyeti",
+                                               "desc":  "Onaylı listeden"
+                                           },
+                                           {
+                                               "icon":  "Kredi Kartı",
+                                               "label":  "Adres Kanıtı",
+                                               "desc":  "Fatura / banka ekstresi"
+                                           },
+                                           {
+                                               "icon":  "Dosya Kontrolü",
+                                               "label":  "NOC Sertifikası",
+                                               "desc":  "Birleşik Arap Emirlikleri sakinleri için"
+                                           },
+                                           {
+                                               "icon":  "Kaydırma Metni",
+                                               "label":  "Özgeçmiş / Profesyonel Profil",
+                                               "desc":  "Profesyonel faaliyetler için"
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Güvenilir Serbest Bölge Ortağınız",
+                               "titleHighlight":  "Serbest Bölge Ortağı",
+                               "items":  [
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "label":  "45+ Serbest Bölge Uzmanlığı",
+                                                 "desc":  "Birleşik Arap Emirlikleri\u0027ndeki tüm serbest bölgeler hakkında derin bilgi."
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "3-7 Günde Hızlı Kurulum",
+                                                 "desc":  "Hızlı lansman için basitleştirilmiş süreç"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "label":  "Şeffaf Fiyatlandırma",
+                                                 "desc":  "Gizli ücret yok, asla."
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcı Kontrolü",
+                                                 "label":  "Özel Danışman",
+                                                 "desc":  "Kişisel danışman"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "label":  "Çok Dilli Ekip",
+                                                 "desc":  "İngilizce, Arapça, Hintçe, Urduca"
+                                             },
+                                             {
+                                                 "icon":  "Banka",
+                                                 "label":  "Kurumsal Bankacılık Desteği",
+                                                 "desc":  "Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarının ağı"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Devam Eden Uyumluluk",
+                                                 "desc":  "Yenilemeler, PRO ve güncellemeler"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "İşletme Büyüme Beklentisi",
+                               "title":  "Binlerce kişi tarafından güvenilen",
+                               "titleHighlight":  "Binlerce",
+                               "subtitle":  "Serbest bölgenizin kurulumu uzman ellerde.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bina 2",
+                                                 "value":  "10.000+",
+                                                 "label":  "Kurulan Şirketler",
+                                                 "color":  "from-emerald-400 to-teal-600"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "value":  "45+",
+                                                 "label":  "Serbest Bölgeler",
+                                                 "color":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Trend Yükseliyor",
+                                                 "value":  "Önde gelen",
+                                                 "label":  "Kurulum Uzmanı",
+                                                 "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "3-7",
+                                                 "label":  "Kurulum Günleri",
+                                                 "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "value":  "%100",
+                                                 "label":  "Uyumlu",
+                                                 "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "value":  "Tercih edilen",
+                                                 "label":  "Kurulum Ortağı",
+                                                 "color":  "indigo-400\u0027den mor-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Birleşik Arap Emirlikleri Serbest Bölgesi Şirket Kurulumu hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Serbest Bölge uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+                                            "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri Serbest Bölgesi\u0027nde şirket kurulumu hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri Serbest Bölge Şirketi nedir?",
+                                          "a":  "Serbest Bölge Şirketi, BAE\u0027deki 45\u0027ten fazla Serbest Bölgeden biri tarafından lisanslandırılmış bir işletmedir. %100 yabancı mülkiyete, %0 kurumlar vergisine ve tam kar transferine izin verir; ancak genellikle BAE anakara pazarında doğrudan ticaret yapamaz."
+                                      },
+                                      {
+                                          "q":  "İşletmem için en uygun Serbest Bölge hangisi?",
+                                          "a":  "Bu, faaliyet alanınıza, bütçenize ve hedeflerinize bağlıdır. IFZA ve Meydan, yeni kurulan şirketler ve KOBİ\u0027ler için harika seçeneklerdir. DMCC, emtia sektörüne uygundur. DAFZA ise havacılık ve lojistik sektörüne uyar. İş modelinize göre doğru olanı seçmenize yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge şirketi kurmanın maliyeti ne kadar?",
+                                          "a":  "Serbest Bölge\u0027de şirket kurulumu, temel lisans paketi için yaklaşık 5.750 AED\u0027den başlamaktadır. Nihai maliyet, Serbest Bölge\u0027ye, lisans türüne, ofis alanına ve vize kotasına bağlıdır. Şeffaf ve her şey dahil fiyatlandırma sunuyoruz."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge lisansı almak ne kadar sürer?",
+                                          "a":  "Gerekli belgelerle genellikle 3-7 iş günü sürer. Bazı Serbest Bölgeler, öncelikli ağımız aracılığıyla aynı gün veya ertesi gün lisans imkanı sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge şirketinin %100\u0027üne sahip olabilir miyim?",
+                                          "a":  "Evet. Tüm BAE Serbest Bölgeleri %100 yabancı mülkiyete izin veriyor; yerel sponsor veya BAE vatandaşı ortak gerekmiyor."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge şirketim aracılığıyla aile üyelerime sponsor olabilir miyim?",
+                                          "a":  "Evet. Serbest Bölgeye ve vize kotanıza bağlı olarak, kendiniz için yatırımcı vizesi, personeliniz için çalışan vizesi ve aile üyeleriniz için bağımlı vizesi sponsorluğu yapabilirsiniz."
+                                      },
+                                      {
+                                          "q":  "Serbest bölge şirketi Birleşik Arap Emirlikleri anakarasında ticaret yapabilir mi?",
+                                          "a":  "Hayır. Serbest Bölge şirketleri doğrudan BAE anakara pazarında ticaret yapamazlar. Ancak, yerel bir distribütör veya acente aracılığıyla çalışabilirler ve bazı Serbest Bölgeler çift lisanslama seçenekleri sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölgelerde hangi ofis alanı seçenekleri mevcuttur?",
+                                          "a":  "Serbest Bölgeler, işletme faaliyetinize ve lisans türünüze bağlı olarak esnek çalışma masaları, ortak çalışma alanları, özel ofisler, yönetici süitleri, depolar ve endüstriyel birimler sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge lisansı ile kurumsal banka hesabı açabilir miyim?",
+                                          "a":  "Evet. Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarında kurumsal banka hesabı açma konusunda, KYC hazırlığı, belge düzenleme ve takip işlemleri de dahil olmak üzere tam destek sağlıyoruz."
+                                      },
+                                      {
+                                          "q":  "Serbest bölge kurulumu için neden Setup Zone Dubai\u0027yi seçmelisiniz?",
+                                          "a":  "Birleşik Arap Emirlikleri\u0027ndeki 45\u0027ten fazla Serbest Bölgenin tamamında uzmanlığımız var, şeffaf fiyatlandırma sunuyoruz, uçtan uca destek sağlıyoruz (lisans, vize, bankacılık, PRO, uyumluluk) ve 10.000\u0027den fazla başarılı kurulumla kanıtlanmış bir geçmişe sahibiz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Serbest Bölge Şirketi Kurulumu ile iyi uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Dubai\u0027de Şirket Kurulumu",
+                                                     "description":  "Serbest Bölge, Anakara ve Açık Deniz yapıları.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "free-zone-locations",
+                                                     "title":  "Serbest Bölge Konumları Rehberi",
+                                                     "description":  "Birleşik Arap Emirlikleri\u0027ndeki 45\u0027ten fazla serbest bölgeyi karşılaştırın.",
+                                                     "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800\u0026q=80",
+                                                     "gradient":  "turkuaz-400\u0027den camgöbeği-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "ecommerce-license",
+                                                     "title":  "Dubai\u0027de E-ticaret Lisansı",
+                                                     "description":  "Dubai\u0027de çevrimiçi işletmenizi kurun.",
+                                                     "image":  "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "3-7 Gün İçinde Lansman",
+                     "title":  "Serbest Bölge Şirketinizi Kurmaya Hazır mısınız?",
+                     "titleHighlight":  "Serbest Bölge Şirketi mi?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Doğru Serbest Bölgeyi seçmekten lisans verilmesine ve banka hesabı açılmasına kadar tüm süreçte size rehberlik edeceğiz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "3-7 Gün Kurulum",
+                                   "%100 Sahiplik"
+                               ],
+                     "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri Serbest Bölgesi\u0027nde şirket kurulumu konusunda ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Birleşik Arap Emirlikleri Serbest Bölgesi\u0027nde şirket kurulumu hakkında görüşmek istiyorum."
+                 }
+}

@@ -14,7 +14,8 @@ import {
 import { getWhatsAppLink } from '../lib/whatsapp';
 import calculatorData from '../content/pages/calculator.json';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 // Icon map — JSON me string hoti hai, yahan actual icon
 const iconMap: any = {
   FileText, Briefcase, Building2, Package, Phone,
@@ -23,7 +24,9 @@ const iconMap: any = {
 };
 
 export default function Calculator({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.pages || calculatorData;
+  const { language } = useLanguage();
+  const calculatorFallback = loadContent('pages/calculator', language);
+  const data = tinaData?.data?.pages || calculatorFallback;
 
   const [currentStep, setCurrentStep] = useState(1);
   const [selectedLicense, setSelectedLicense] = useState<string | null>(null);

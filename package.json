@@ -4,9 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "translate-api": "node server/translate-api.js",
     "dev:frontend": "tinacms dev -c \"vite\"",
-    "dev": "concurrently -n \"api,fe\" -c \"cyan,magenta\" \"npm:translate-api\" \"npm:dev:frontend\"",
+    "dev": "npm run dev:frontend",
     "build": "tinacms build && vite build",
     "tina:build": "tinacms build",
     "lint": "eslint .",

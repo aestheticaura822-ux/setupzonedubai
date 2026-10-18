@@ -1,0 +1,511 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1600&q=80",
+  "heroBadge": "Les médias simplifiés",
+  "heroTitle": "Zone franche de Dubai Media City",
+  "heroTitleHighlight": "Zone franche",
+  "heroSubtitle": "Développez votre entreprise créative au cœur du principal pôle médiatique de Dubaï. Abritant plus de 2 000 entreprises de médias, dont CNN, Sony et Reuters, Dubaï offre un écosystème exceptionnel pour les médias, la communication et le contenu numérique.",
+  "heroChips": [
+    "Propriété à 100 %",
+    "Taxe de 0 %",
+    "Installation en 3 à 7 jours",
+    "Communauté créative"
+  ],
+  "heroCard": {
+    "headerTitle": "Studio DMC",
+    "headerStatus": "En direct",
+    "icon": "Camera",
+    "zoneLabel": "Zone",
+    "zoneValue": "Dubaï, Émirats arabes unis",
+    "statusBadge": "Actif",
+    "setupTimeLabel": "Entreprises",
+    "setupTimeValue": "2K+",
+    "taxLabel": "Activités",
+    "taxValue": "Plus de 100",
+    "footerText": "Lancer maintenant"
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Plus de 2 000",
+      "label": "Entreprises de médias",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Taux d'imposition",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whyDmcSection": {
+    "badge": "Pourquoi choisir DMC ?",
+    "title": "Un écosystème médiatique qui alimente la croissance",
+    "titleHighlight": "Écosystème",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&q=80",
+    "imageBadgeTitle": "Écosystème médiatique",
+    "imageBadgeText": "Faites connaître votre marque",
+    "paragraphs": [
+      "Dubai Media City Free Zone offre bien plus qu'une simple licence commerciale : c'est un écosystème médiatique qui favorise la croissance, la collaboration et la créativité. Que vous souhaitiez créer une agence de relations publiques, lancer un studio de podcast ou fonder une société de production de contenu, DMC est le partenaire idéal.",
+      "Les principaux avantages comprennent une propriété 100 % étrangère, une fiscalité avantageuse, des bureaux haut de gamme et une infrastructure de pointe avec services d'assistance intégrés. Vous ferez partie d'une communauté d'entreprises dynamique et bénéficierez de nombreuses opportunités de réseautage grâce à des événements, des ateliers et des programmes dédiés.",
+      "Votre entreprise sera toujours au cœur de l'action, au rythme de la croissance continue du secteur des médias dans la région. De l'octroi de licences à la création de votre marque, nous simplifions et facilitons la mise en place."
+    ],
+    "highlights": [
+      "Propriété étrangère à 100 %",
+      "Environnement fiscal zéro",
+      "Infrastructure de qualité supérieure",
+      "Accès à la communauté créative",
+      "Événements de réseautage",
+      "Opportunités de croissance"
+    ]
+  },
+  "licensesSection": {
+    "badge": "Licencez votre métier",
+    "title": "Types de licences pour Dubai Media City",
+    "titleHighlight": "Types de licences",
+    "subtitle": "DMC sait que les entreprises de médias ne sont pas uniformes. Choisissez parmi différents types de licences adaptés à votre modèle économique.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licence commerciale",
+        "description": "Pour les entités qui se livrent à la vente ou à la distribution de produits liés aux médias.",
+        "code": "LMC",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permis de travailleur indépendant",
+        "description": "Pour les créatifs individuels — écrivains, designers, vidéastes et photographes.",
+        "code": "FRL",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Services d'information commerciale",
+        "description": "Pour les entreprises spécialisées dans les études de marché, les rapports et l'analyse de données.",
+        "code": "BIS",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Licence de conseil et de vente au détail",
+        "description": "Pour les relations publiques, la publicité, le conseil en image de marque et la vente au détail de médias.",
+        "code": "CRL",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Calendar",
+        "title": "Licence pour événements et loisirs",
+        "description": "Pour les événements médiatiques, les concerts, les spectacles en direct et les productions de divertissement.",
+        "code": "EVL",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Services de soutien aux nouveaux médias",
+        "description": "Pour les technologies back-end des médias — cloud, automatisation et infrastructure numérique.",
+        "code": "NMS",
+        "color": "from-violet-500 to-purple-700"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "À qui cela s'adresse-t-il ?",
+    "title": "Qui devrait envisager Dubai Media City ?",
+    "titleHighlight": "Dubai Media City ?",
+    "subtitle": "L'écosystème idéal pour les professionnels créatifs et les entreprises médiatiques de toutes tailles.",
+    "items": [
+      {
+        "icon": "Tv",
+        "label": "Production télévisuelle et cinématographique"
+      },
+      {
+        "icon": "Mic",
+        "label": "Studios de podcast et audio"
+      },
+      {
+        "icon": "Camera",
+        "label": "Photographie et vidéographie"
+      },
+      {
+        "icon": "Palette",
+        "label": "Agences de design et de création"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Agences de relations publiques et de publicité"
+      },
+      {
+        "icon": "Monitor",
+        "label": "Créateurs de contenu numérique"
+      },
+      {
+        "icon": "Music",
+        "label": "Musique et divertissement"
+      },
+      {
+        "icon": "Newspaper",
+        "label": "Édition et journalisme"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Du concept à l'entreprise",
+    "title": "Processus de création de la société DMC",
+    "titleHighlight": "Processus",
+    "subtitle": "Un processus simple et sans tracas lorsque vous travaillez avec Setup Zone Dubai.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Choisir une activité et une licence",
+        "description": "Déterminez votre activité commerciale et sélectionnez le type de licence approprié pour votre entreprise médiatique.",
+        "icon": "Target"
+      },
+      {
+        "step": "02",
+        "title": "Nom commercial et demande",
+        "description": "Nous réservons votre nom commercial et déposons la demande auprès de l'autorité compétente en matière de DMC pour examen.",
+        "icon": "FileText"
+      },
+      {
+        "step": "03",
+        "title": "Approbation initiale et bail",
+        "description": "Une fois l'approbation obtenue, nous sécurisons votre bail de bureau et complétons toute la documentation juridique.",
+        "icon": "CheckCircle2"
+      },
+      {
+        "step": "04",
+        "title": "Délivrance et configuration des licences",
+        "description": "Une fois les frais réglés, votre licence est délivrée. Nous nous chargeons ensuite des visas, de l'ouverture des comptes bancaires et de la mise en place opérationnelle.",
+        "icon": "Rocket"
+      }
+    ]
+  },
+  "officesSection": {
+    "badge": "Espaces de bureaux",
+    "title": "Travailler. Collaborer. Inspirer.",
+    "titleHighlight": "Inspirer.",
+    "subtitle": "Des espaces haut de gamme conçus pour valoriser votre marque et booster la productivité.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "Bureaux de coworking",
+        "description": "Pour les travailleurs indépendants et les petits groupes souhaitant se constituer un réseau et collaborer.",
+        "color": "from-violet-400 to-purple-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Building2",
+        "title": "Bureaux meublés de direction",
+        "description": "Pour les agences de branding, les sociétés de médias et les studios de production.",
+        "color": "from-purple-400 to-fuchsia-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Video",
+        "title": "Studios et plateaux de tournage",
+        "description": "Des espaces entièrement équipés pour les podcasts, YouTube, les publicités ou les émissions de télévision. Hauts plafonds, traitement acoustique et éclairage professionnel disponibles.",
+        "color": "from-violet-500 via-purple-600 to-fuchsia-700",
+        "size": "grand"
+      },
+      {
+        "icon": "Store",
+        "title": "Espaces commerciaux",
+        "description": "Pour la vente de contenus médiatiques, de livres, de technologies et de produits dérivés créatifs.",
+        "color": "from-pink-400 to-rose-600",
+        "size": "petit"
+      },
+      {
+        "icon": "Presentation",
+        "title": "Lieux d'événements",
+        "description": "Pour les lancements, les expositions, les sommets médiatiques et les événements de réseautage.",
+        "color": "from-rose-500 via-pink-600 to-fuchsia-700",
+        "size": "petit"
+      }
+    ]
+  },
+  "legalEntitiesSection": {
+    "badge": "Structures juridiques",
+    "title": "Types d'entités juridiques dans le DMC",
+    "titleHighlight": "Types de DMC",
+    "subtitle": "Il est important d'adopter la structure juridique appropriée. Choisissez la bonne structure pour votre entreprise.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "SARL de zone franche (FZ-LLC)",
+        "description": "L'entité juridique la plus établie, avec un ou plusieurs actionnaires. Propriété étrangère intégrale et responsabilité limitée.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Succursale d'une société étrangère",
+        "description": "Pour les entreprises souhaitant s'implanter aux Émirats arabes unis tout en conservant leur appartenance à une société mondiale et leur identité de marque.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permis de travailleur indépendant",
+        "description": "Pour les professionnels indépendants qui recherchent une reconnaissance légale, des capacités de facturation et l'éligibilité à un visa.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Conçu pour l'expansion",
+    "title": "Activités commerciales autorisées au DMC",
+    "titleHighlight": "à DMC",
+    "subtitle": "Plus de 100 activités commerciales approuvées pour soutenir les secteurs des médias, de la communication et de la création.",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "Production télévisuelle et cinématographique",
+        "description": "Idéal pour les sociétés de production, les cinéastes et les réalisateurs de documentaires."
+      },
+      {
+        "icon": "Headphones",
+        "title": "Audio et podcasting",
+        "description": "Pour les ingénieurs du son, les producteurs de podcasts et les comédiens de doublage."
+      },
+      {
+        "icon": "Share2",
+        "title": "Gestion des médias sociaux",
+        "description": "Idéal pour les spécialistes du marketing numérique, les planificateurs de contenu et les gestionnaires d'influenceurs."
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Publicité et image de marque",
+        "description": "Agences de publicité, studios de design et spécialistes des campagnes."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Marketing numérique et d'influence",
+        "description": "Pour les consultants en image de marque, les agences d'influenceurs et les créateurs de contenu numérique."
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Conseil en relations publiques et médias",
+        "description": "Idéal pour les agences de relations publiques, les services de presse et les professionnels de la communication stratégique."
+      },
+      {
+        "icon": "Calendar",
+        "title": "Gestion d'événements et couverture médiatique",
+        "description": "Pour les organisateurs d'événements et les sociétés de production audiovisuelle."
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Édition, correction et traduction",
+        "description": "Auteurs, éditeurs, maisons d'édition et consultants en localisation."
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "Soutien créatif en matière de visa",
+    "title": "Services de visa de Dubai Media City",
+    "titleHighlight": "Services de visa",
+    "subtitle": "Après l'enregistrement de votre entreprise, nous nous occupons de tout : les visas pour vous, vos partenaires et vos employés.",
+    "items": [
+      {
+        "icon": "CreditCard",
+        "label": "Délivrance de la carte d'établissement"
+      },
+      {
+        "icon": "FileText",
+        "label": "Ouverture de dossier d'immigration"
+      },
+      {
+        "icon": "Heart",
+        "label": "Test médical aux Émirats arabes unis"
+      },
+      {
+        "icon": "Fingerprint",
+        "label": "Demande de carte d'identité des Émirats"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "Estampillage du visa de résidence"
+      },
+      {
+        "icon": "Calendar",
+        "label": "Rappels de renouvellement"
+      },
+      {
+        "icon": "Users",
+        "label": "Approbations de travail"
+      },
+      {
+        "icon": "Globe",
+        "label": "Parrainage familial"
+      }
+    ],
+    "footerText": "Nous proposons également une assistance pour les visas de travailleur indépendant, les visas de personne à charge et le parrainage familial – un accompagnement complet en matière de visas et d'immigration."
+  },
+  "whyPartnerSection": {
+    "badge": "Votre partenaire de confiance",
+    "title": "Pourquoi Setup Zone Dubai est votre partenaire DMC de confiance",
+    "titleHighlight": "Partenaire DMC de confiance",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1200&q=80",
+    "imageBadgeTitle": "Partenaire de confiance",
+    "imageBadgeText": "Assistance de bout en bout",
+    "paragraphs": [
+      "DMC fournit l'infrastructure, tandis que Setup Zone Dubai élabore la stratégie. Nous allons bien au-delà des formalités administratives : nous favorisons votre réussite à long terme grâce à un accompagnement complet.",
+      "Notre équipe prend en charge tout, de la création d'entreprise aux opérations numériques — nous bâtissons des entreprises qui se développent et prospèrent dans la capitale médiatique de Dubaï."
+    ],
+    "features": [
+      "Création de marque",
+      "Développement de sites web SEO",
+      "Intégration CRM et CMS",
+      "Assistance en matière de TVA et de comptabilité",
+      "Conseil aux entreprises",
+      "Modèles de services évolutifs"
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Le principal centre médiatique de Dubaï",
+    "titleHighlight": "Centre des médias",
+    "subtitle": "Un écosystème en pleine expansion pour les médias, les communications et les entreprises créatives.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Plus de 2 000",
+        "label": "Entreprises de médias",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "Mondial",
+        "label": "Marques médiatiques",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Menant",
+        "label": "Centre des médias",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Croissance",
+        "label": "Économie créative",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "Significatif",
+        "label": "Impact régional",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Préféré",
+        "label": "Pour la configuration des médias",
+        "color": "from-violet-500 to-purple-700"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche de Dubai Media City. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes DMC.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant la zone franche de Dubai Media City."
+    },
+    "items": [
+      {
+        "q": "Qu’est-ce que Dubai Media City (DMC) et pourquoi est-ce un lieu idéal pour les entreprises créatives ?",
+        "a": "Dubai Media City Free Zone est une zone franche stratégique créée par le groupe TECOM pour accompagner les entreprises des médias, des communications et du numérique. Abritant plus de 2 000 entreprises, dont CNN, Sony et Reuters, DMC offre un environnement idéal aux jeunes pousses créatives et aux indépendants pour développer leur activité médiatique grâce à une propriété à 100 %, un régime fiscal avantageux et des infrastructures de pointe."
+      },
+      {
+        "q": "Quels types de licences sont disponibles dans la zone franche de Dubai Media City ?",
+        "a": "DMC propose des licences commerciales, des permis de travailleur indépendant, des licences de services d'information commerciale, des licences de conseil et de vente au détail, des licences d'événements et de loisirs, ainsi que des licences de services de soutien aux nouveaux médias — toutes adaptées aux différents modèles commerciaux des médias."
+      },
+      {
+        "q": "Les travailleurs indépendants et les professionnels exerçant une activité indépendante peuvent-ils s'inscrire auprès d'un DMC ?",
+        "a": "Absolument. DMC propose des permis de travailleur indépendant spécialement conçus pour les créatifs individuels — rédacteurs, designers, vidéastes, photographes et créateurs de contenu — qui souhaitent une reconnaissance légale et la possibilité de facturer leurs activités."
+      },
+      {
+        "q": "Quelles activités commerciales puis-je exercer à DMC ?",
+        "a": "DMC héberge plus de 100 activités commerciales agréées, notamment la production télévisuelle et cinématographique, l'audio et le podcasting, la gestion des médias sociaux, la publicité et l'image de marque, le marketing numérique, les relations publiques et le conseil en médias, la gestion d'événements et l'édition."
+      },
+      {
+        "q": "Combien de temps faut-il pour s'installer dans la zone franche de Dubai Media City ?",
+        "a": "Le délai est généralement de 3 à 7 jours ouvrables, selon le type de licence, les documents requis et le choix de l'espace de bureau. Notre équipe prend tout en charge pour un processus simple et rapide."
+      },
+      {
+        "q": "Quelles sont les formes juridiques possibles pour les sociétés DMC ?",
+        "a": "Les principales structures juridiques sont la société à responsabilité limitée de zone franche (FZ-LLC), la succursale d'une société étrangère et le permis de travailleur indépendant — chacune offrant des avantages différents pour différents besoins commerciaux."
+      },
+      {
+        "q": "DMC propose-t-il des solutions d'espaces de bureaux pour les startups ?",
+        "a": "Oui. DMC propose des espaces de coworking, des bureaux meublés de direction, des studios et des plateaux de tournage, des espaces commerciaux et des lieux événementiels – des solutions flexibles pour les entreprises de toutes tailles."
+      },
+      {
+        "q": "Puis-je faire une demande de visa après avoir créé mon entreprise à DMC ?",
+        "a": "Oui. Nous prenons en charge la délivrance des cartes d'établissement, l'ouverture des dossiers d'immigration, les examens médicaux, la carte d'identité des Émirats, l'apposition du visa de résidence et le parrainage familial – un accompagnement complet de A à Z."
+      },
+      {
+        "q": "Quels sont les coûts d'installation dans la zone franche de Dubai Media City ?",
+        "a": "Les coûts varient selon le type de licence, la superficie des bureaux et les exigences en matière de visa. Contactez-nous pour obtenir un devis personnalisé : nous proposons des formules compétitives adaptées à votre budget et à vos besoins."
+      },
+      {
+        "q": "Existe-t-il une assistance après la configuration avec Setup Zone Dubai ?",
+        "a": "Oui. Nous offrons un soutien continu comprenant la création de marque, le développement de sites web optimisés pour le référencement naturel, l'intégration de CRM et de CMS, le soutien en matière de TVA et de comptabilité, ainsi que des conseils aux entreprises pour favoriser leur croissance."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui s'accordent parfaitement avec votre configuration DMC.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa d'or",
+        "description": "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Services de conformité",
+        "description": "Conseils en matière d'UBO, d'ESR, de LBC et de TVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lancement aujourd'hui",
+    "title": "Prêt à vous lancer à Dubai Media City ?",
+    "titleHighlight": "Dubai Media City ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous accompagnerons tout au long du processus de configuration, de l'obtention de la licence au lancement.",
+    "chips": [
+      "Consultation gratuite",
+      "Installation en 3 à 7 jours",
+      "Communauté créative"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour la mise en place de Dubai Media City.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais discuter de la mise en place de Dubai Media City."
+  }
+}

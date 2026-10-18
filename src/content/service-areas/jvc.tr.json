@@ -1,0 +1,226 @@
+{
+  "areaName": "JVC (Jumeirah Village Circle)",
+  "areaShort": "JVC",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Hizmet Alanı",
+  "heroTitle": "JVC'de İş Kurma",
+  "heroTitleHighlight": "JVC",
+  "heroSubtitle": "Jumeirah Village Circle (JVC), Dubai'nin en hızlı büyüyen konut ve ticari bölgelerinden biridir. Stratejik konumu ve uygun kurulum maliyetleriyle JVC, Dubai'de iş kurmak isteyen girişimciler için popüler bir tercih haline geliyor.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "250+",
+      "label": "Şirket Kurulumu",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Kurulum Günleri",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Mülkiyet",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "Başlangıç Noktası",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "Neden JVC'yi Seçmelisiniz?",
+    "title": "Hızla Büyüyen Bir Topluluk",
+    "titleHighlight": "Toplum",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Konum",
+    "imageBadgeText": "JVC, Dubai",
+    "paragraph": "JVC, her ölçekteki işletme için olağanüstü avantajlar sunmaktadır. Dünya standartlarında altyapısı, stratejik konumu ve destekleyici iş ekosistemiyle, Dubai'de şirketinizi kurmak için ideal bir yerdir.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Mükemmel Konum",
+        "desc": "Dubai genelinde mükemmel ulaşım bağlantıları."
+      },
+      {
+        "icon": "Users",
+        "title": "Yetenek Havuzu",
+        "desc": "Çeşitli profesyonel yeteneklere erişim"
+      },
+      {
+        "icon": "Layers",
+        "title": "Altyapı",
+        "desc": "Dünya standartlarında olanaklar ve tesisler"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "İş Dünyası",
+        "desc": "Küresel şirketlerden oluşan gelişen bir ekosistem"
+      },
+      {
+        "icon": "Zap",
+        "title": "Ulaşım Bağlantıları",
+        "desc": "Önemli metro ve otoyollara yakınlık"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Hizmetlerimiz",
+    "title": "JVC'de İşletme Kurulum Hizmetleri",
+    "titleHighlight": "JVC",
+    "subtitle": "Birleşik Arap Emirlikleri'ndeki işletmeniz için uçtan uca eksiksiz çözümler.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Serbest Bölge Şirketi Kuruluşu",
+        "desc": "En uygun serbest bölgede kurulacak şirket — %100 sahiplik, sıfır kurumlar vergisi ve karın tamamının ülkeye geri gönderilmesi.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Anakara Şirketi Kuruluşu",
+        "desc": "Birleşik Arap Emirlikleri anakarasında geçerli bir lisansla doğrudan pazarda ticaret yapın. Tüm DED evrak işlerini ve lisanslama işlemlerini biz hallediyoruz.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Dubai'de Ticaret Lisansı",
+        "desc": "Ticari, profesyonel veya endüstriyel ticaret lisansınızı mevzuata tam uyumlulukla hızlıca alın.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Vize İşlemleri ve PRO Hizmetleri",
+        "desc": "Yatırımcı, çalışan ve bakmakla yükümlü olunan kişi vizeleri — tıbbi testler, Emirates Kimlik Kartı ve vize damgalama işlemlerini biz hallediyoruz.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Kurumsal Banka Hesabı Açma",
+        "desc": "Birleşik Arap Emirlikleri'nin önde gelen bankalarında ticari banka hesabı açın — evrak işlerini ve kimlik doğrulama işlemlerini biz hallediyoruz.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Muhasebe ve Vergi Hizmetleri",
+        "desc": "Birleşik Arap Emirlikleri kurumlar vergisi ve KDV mevzuatına uyumlu kalın — muhasebe, KDV beyannameleri ve raporlama.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "Fiyatlandırma",
+    "title": "İşletme Kurulum Paketlerimiz",
+    "titleHighlight": "Paketler",
+    "subtitle": "Şeffaf, her şey dahil iş kurma paketleri şu fiyatlardan başlıyor:",
+    "items": [
+      {
+        "name": "Serbest Bölge Lisansı",
+        "price": "5.999 AED",
+        "note": "İkametgah Yok",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "name": "Serbest Bölge Lisansı + Oturma İzni",
+        "price": "11.999 AED",
+        "note": "Birleşik Arap Emirlikleri'nde ikamet izni ile",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "name": "Anakara Lisansı + İkamet İzni",
+        "price": "16.999 AED",
+        "note": "Anakara + İkamet",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "SetupZoneDubai'yi Neden Seçmelisiniz?",
+    "titleHighlight": "SetupZoneDubai",
+    "items": [
+      "Uçtan uca iş kurulumu desteği",
+      "Dubai serbest bölgeleri ve ana kara düzenlemeleri konusunda uzman bilgi.",
+      "Şeffaf fiyatlandırma, gizli ücret yok.",
+      "Özel müşteri ilişkileri yöneticisi",
+      "Lisans sonrası destek — PRO, muhasebe ve uyumluluk",
+      "Hızlı işlem süreci — 3-5 iş günü içinde lisans"
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "Bölgeyle İlgili Sıkça Sorulan Sorular",
+    "title": "JVC'de İş Kurma Hakkında Sıkça Sorulan Sorular",
+    "titleHighlight": "JVC'de İş Kurma",
+    "items": [
+      {
+        "q": "Jumeirah Village Circle'da (JVC) bir işletme kurmak ne kadar sürer?",
+        "a": "Lisans türüne ve gerekli onaylara bağlı olarak, işletmelerin çoğu 3-5 iş günü içinde tamamen kayıt altına alınır ve faaliyete geçer."
+      },
+      {
+        "q": "Yabancı uyruklu biri olarak JVC'de (Jumeirah Village Circle) iş kurabilir miyim?",
+        "a": "Evet, yabancılar Dubai serbest bölgelerinde %100 sahiplikle işletme kurabilirler. Anakara şirketleri, faaliyet türüne bağlı olarak yerel bir sponsora ihtiyaç duyabilirler."
+      },
+      {
+        "q": "Dubai'de fiziksel olarak bulunmam gerekiyor mu?",
+        "a": "Kayıt işleminin büyük bir kısmı uzaktan yapılabilir. Ekibimiz evrak işlerini ve devlet başvurularını sizin adınıza halleder."
+      },
+      {
+        "q": "JVC'de (Jumeirah Village Circle) ne tür işletmeler kurabilirim?",
+        "a": "Seçtiğiniz lisans türüne bağlı olarak Dubai'de ticari, profesyonel, endüstriyel, e-ticaret ve serbest meslek işletmeleri kurabilirsiniz."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Hızlı Cevaplar",
+    "title": "Hızlı Cevaplar",
+    "titleHighlight": "Cevaplar",
+    "subtitle": "Dubai'de iş kurma hakkında sıkça sorulan sorular. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "relatedServicesTitle": "İlgili Hizmetler ve Kılavuzlar",
+    "items": [
+      {
+        "q": "Dubai'de iş kurmanın maliyeti ne kadar?",
+        "a": "Dubai'de iş kurmanın maliyeti, temel serbest bölge lisansı için 9.500 AED'den başlıyor. Ana karada ise bu maliyet 14.500 AED'den başlıyor."
+      },
+      {
+        "q": "Bir yabancı Dubai'de bir şirketin %100'üne sahip olabilir mi?",
+        "a": "Evet, yabancılar çoğu serbest bölgede ve anakara Çin'deki birçok faaliyette şirketlerin %100'üne sahip olabilirler."
+      },
+      {
+        "q": "Dubai'deki en ucuz serbest bölge hangisidir?",
+        "a": "RAK ICC, Ajman FTZ ve SRTIP, 5.900 AED'den başlayan en uygun fiyatlı paketleri sunmaktadır."
+      },
+      {
+        "q": "Dubai'de şirket kaydı ne kadar sürer?",
+        "a": "Serbest bölgeye kayıt işlemi 3-7 iş günü sürer. Anakara için bu süre 2-4 haftadır."
+      },
+      {
+        "q": "Dubai'de yerel bir ortağa ihtiyacım var mı?",
+        "a": "Serbest bölgelerde durum böyle değil. Anakara'da ise birçok faaliyet artık %100 yabancı mülkiyetine izin veriyor."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "Dubai Silikon Vahası'nda İş Kurma",
+        "desc": "Silicon Oasis'te kurulum seçeneklerini keşfedin.",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/silicon-oasis"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Başlamaya hazır mısınız?",
+    "title": "JVC'de İş Kurmaya Hazır Mısınız?",
+    "titleHighlight": "JVC",
+    "subtitle": "İşletme kurulumu konusunda uzman ekibimizle bugün iletişime geçin ve ücretsiz danışmanlık hizmetimizden yararlanın. Şirket kuruluş sürecinin her adımında size rehberlik edecek ve işletmeniz için en uygun yargı bölgesini seçmenize yardımcı olacağız.",
+    "primaryCta": "Hemen bizimle iletişime geçin",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971 56 655 6645",
+    "whatsappMessage": "Merhaba! İşletmemi JVC'de kurmak istiyorum."
+  }
+}

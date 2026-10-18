@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import mainlandData from '../../content/mainland/mainland-activities.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Target, Crown, Store, UserCheck, Factory, Ship, Anchor,
@@ -26,7 +27,9 @@ const iconMap: any = {
 };
 
 export default function MainlandActivities({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.mainland || mainlandData;
+  const { language } = useLanguage();
+  const activitiesFallback = loadContent('mainland/mainland-activities', language);
+  const data = tinaData?.data?.mainland || activitiesFallback;
 
   return (
     <div className="min-h-screen bg-white">

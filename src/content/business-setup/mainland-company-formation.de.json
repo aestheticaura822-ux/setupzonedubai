@@ -1,0 +1,473 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Gestalte deine Zukunft mit Setup Zone Dubai",
+  "heroTitle": "Firmengründung auf dem Festland in Dubai",
+  "heroTitleHighlight": "Ausbildung in Dubai",
+  "heroSubtitle": "Ihr Weg zur gesamten Wirtschaft der VAE. Geschäftslizenz, Unterstützung bei der Beantragung des Aufenthaltsvisums, Bankdienstleistungen und Serviceleistungen nach der Gründung – alles aus einer Hand.",
+  "heroChips": [
+    "7 Emirates Access",
+    "100% Eigentum",
+    "Regierungsaufträge",
+    "2-5 Tage Lizenz"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "7",
+      "label": "Emirates Access",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Landmark",
+      "value": "Offen",
+      "label": "Regierungsaufträge",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-5",
+      "label": "Tageslizenzierung",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "introSection": {
+    "badge": "Ihr Weg zur Wirtschaft der VAE",
+    "title": "Vollständiger Marktzugang in den VAE",
+    "titleHighlight": "Marktzugang in den VAE",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "DET-genehmigt",
+    "imageBadgeText": "Festlandlizenz",
+    "paragraphs": [
+      "Die Gründung einer Firma auf dem Festland von Dubai ist Ihr Weg zur gesamten Wirtschaft der VAE und ermöglicht es Ihnen, Geschäfte in Dubai, den Emiraten und international zu tätigen.",
+      "Das Festland ist nicht nur ein hervorragendes Tor zu Geschäften in Dubai, sondern bietet Ihnen auch einen unvergleichlichen Zugang zu Kunden, Investoren und Regierungsaufträgen.",
+      "Ob Sie Ihr erstes Unternehmen gründen oder die Reichweite Ihres globalen Konzerns ausbauen möchten: Die Gründung einer Niederlassung auf dem Festland von Dubai bietet Ihnen eine hervorragende Möglichkeit, Zugang zur Wirtschaft der VAE zu erhalten. Setup Zone Dubai unterstützt Sie bei der Gründung Ihres Unternehmens auf dem Festland und gewährleistet dabei die vollständige Einhaltung aller Vorschriften – von der Gewerbelizenz über die Beantragung des Aufenthaltsvisums und Bankdienstleistungen bis hin zu Services nach der Gründung."
+    ],
+    "highlights": [
+      "Voller Zugang zu den VAE",
+      "Investorenzugang",
+      "Regierungsaufträge",
+      "Bankdienstleistungen",
+      "Visabearbeitung",
+      "Dienstleistungen nach der Einrichtung"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "Lizenzoptionen für das Festland",
+    "title": "Welche Lizenzen für das Festland können Sie erwerben?",
+    "titleHighlight": "Festlandlizenzen",
+    "subtitle": "Wischen Sie durch 5 Lizenztypen – wählen Sie den richtigen für Ihre Aktivität.",
+    "items": [
+      {
+        "id": "trade",
+        "icon": "StoreIcon",
+        "title": "Gewerbelizenz",
+        "tagline": "Kaufen, Verkaufen & Verteilen",
+        "description": "Geeignet für Import-/Exportunternehmen, Großhändler, Einzelhändler und Vertriebshändler – die in den VAE und international handeln.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-orange-700",
+        "features": [
+          "Import/Export",
+          "Großhandel",
+          "Einzelhandelsgeschäfte",
+          "Vertriebspartner"
+        ],
+        "bestFor": "Händler"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Berufs-/Dienstleistungslizenz",
+        "tagline": "Expertise & Beratung",
+        "description": "Ideal geeignet für Berater, IT-Dienstleister, Marketingagenturen, Pädagogen und Angehörige der Gesundheitsberufe – mit der Möglichkeit zum 100%igen Eigentum.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "Berater",
+          "IT-Dienstleistungen",
+          "Marketing",
+          "Gesundheitspflege"
+        ],
+        "bestFor": "Dienstleister"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Industrielizenz",
+        "tagline": "Herstellung & Produktion",
+        "description": "Für Fertigungs-, Produktions- und industrielle Montagebetriebe mit Zugang zu Industrieflächen und staatlicher Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "Herstellung",
+          "Produktion",
+          "Montage",
+          "Industriegebiet"
+        ],
+        "bestFor": "Hersteller"
+      },
+      {
+        "id": "tourism",
+        "icon": "Plane",
+        "title": "Tourismuslizenz",
+        "tagline": "Reise & Gastgewerbe",
+        "description": "Für Reisebüros, Reiseveranstalter und Hotels, die Dienstleistungen für Kunden im gesamten Tourismussektor der VAE anbieten.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "Reisebüros",
+          "Reiseveranstalter",
+          "Hotels",
+          "Gastfreundschaft"
+        ],
+        "bestFor": "Tourismusunternehmen"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "E-Commerce-Lizenz",
+        "tagline": "Digital-First-Unternehmen",
+        "description": "Für die Gründung eines digital ausgerichteten Unternehmens mit physischer Präsenz – die Kombination von Online-Verkäufen mit Showroom- oder Lagerbetrieb.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "Online-Shop",
+          "Physische Präsenz",
+          "Lagerung",
+          "Mehrkanal"
+        ],
+        "bestFor": "E-Commerce-Marken"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Was ist im Lieferumfang enthalten?",
+    "title": "Unsere Dienstleistungen zur Festlandformation",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Acht Komplettservices – alles aus einer Hand.",
+    "items": [
+      {
+        "icon": "Target",
+        "title": "Klassifizierung der Geschäftstätigkeit",
+        "description": "Ermitteln Sie Ihren Führerscheintyp bei der DET und vermeiden Sie Bußgelder.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Firmennamenreservierung",
+        "description": "Sorgen Sie für einen eindeutigen Namen und ein gesetzeskonformes Vorgehen bei der Einholung von Genehmigungen.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Gewerbelizenzantrag",
+        "description": "Registrierung beim DET einschließlich Erstgenehmigung, MoA, Mietvertrag und endgültiger Lizenz.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Einhaltung der Vorschriften nach der Einrichtung",
+        "description": "Anleitung zur Umsatzsteuerregistrierung, ESR/UBO-Meldung und Einrichtung der Buchhaltung.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Unterstützung bei der Büroflächensuche",
+        "description": "Unterstützung bei der Beschaffung von Mietverträgen für genehmigte Standorte auf dem Festland von Dubai.",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Handshake",
+        "title": "Lokaler Serviceagent (falls erforderlich)",
+        "description": "Transparente Agenturvereinbarungen für Aktivitäten, die die Beteiligung von Emiratis erfordern.",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Wir erleichtern die Eröffnung eines Firmenkontos bei führenden Banken in den VAE.",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Warum Festland?",
+    "title": "Vorteile der Unternehmensgründung auf dem Festland",
+    "titleHighlight": "Unternehmensgründung auf dem Festland",
+    "subtitle": "Sieben entscheidende Vorteile für skalierbare Unternehmen.",
+    "items": [
+      {
+        "icon": "StoreIcon",
+        "label": "Vertrieb in den gesamten VAE und im GCC",
+        "desc": "Produkte/Dienstleistungen mit voller kommerzieller Freiheit",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "label": "Weltweit tätig",
+        "desc": "Keine geografischen Beschränkungen",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Wallet",
+        "label": "Rückgeführte Gewinne und Kapital",
+        "desc": "Vollständige finanzielle Freiheit",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Users",
+        "label": "Zugang zu B2B- und B2C-Kunden",
+        "desc": "lokaler Kundenstamm der VAE",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Landmark",
+        "label": "Angebot für Regierungsaufträge",
+        "desc": "Öffentliche und halbstaatliche Ausschreibungen",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "Langzeitaufenthalt",
+        "desc": "Berechtigung für ein Investorenvisum",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Null Unternehmenssteuer",
+        "desc": "Bei den aktuellen Schwellenwerten",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "Bereit für die Skalierung?",
+      "text": "Sprechen Sie mit unseren Experten",
+      "buttonText": "Los geht's",
+      "whatsappMessage": "Hallo! Ich bin bereit, mein Geschäft auf dem Festland auszubauen."
+    }
+  },
+  "whoShouldConsiderSection": {
+    "badge": "Für wen ist das gedacht?",
+    "title": "Für wen ist ein Unternehmen vom Festland geeignet?",
+    "titleHighlight": "Festlandgesellschaft?",
+    "subtitle": "Eine Lizenz vom Festland eignet sich für nahezu jedes seriöse Geschäftsmodell.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "E-Commerce-Marken",
+        "description": "Wir suchen flexible Büro- und Lagerflächen für unseren Online-Shop mit logistischer Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Rechts-, Medien-, Technologie- und Marketingberatungen",
+        "description": "Wir streben die vollständige Eigentümerschaft und operative Reichweite in den gesamten Vereinigten Arabischen Emiraten an.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "icon": "Utensils",
+        "title": "Gastronomie, Salons, Kliniken, Fitnessstudios",
+        "description": "Wir benötigen einen landesweiten Zugang zu lokalen Kunden in der ganzen Stadt.",
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "icon": "StoreIcon",
+        "title": "Einzelhändler & Großhändler",
+        "description": "Wir planen die Eröffnung von physischen Verkaufsstellen, Geschäften und Ausstellungsräumen.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "icon": "Laptop",
+        "title": "Fachleute und Freiberufler",
+        "description": "Als juristische Person tätig und mit lokalen Kunden vernetzt.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Setup Zone Dubai wählen?",
+    "title": "Wir entwickeln Marken, Systeme und Erfolg",
+    "titleHighlight": "Marken, Systeme & Erfolg",
+    "subtitle": "Sechs Säulen, die uns zum vertrauenswürdigen Einrichtungspartner machen.",
+    "items": [
+      {
+        "icon": "Target",
+        "label": "Benutzerdefinierte Installationspakete",
+        "desc": "Auf Aktivität und Budget zugeschnitten"
+      },
+      {
+        "icon": "Building2",
+        "label": "Leasingunterstützung",
+        "desc": "Büro-, Lager- und Ausstellungsflächen"
+      },
+      {
+        "icon": "Bank",
+        "label": "Unterstützung bei der Kontoeröffnung",
+        "desc": "Eröffnung von Geschäftskonten in den VAE"
+      },
+      {
+        "icon": "Zap",
+        "label": "Schnelle Lizenzierung",
+        "desc": "2-5 Werktage"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Dienstleistungen nach dem Marktstart",
+        "desc": "Digitales Marketing, CRM & Branding"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "DET-Vorschriftenexperte",
+        "desc": "Migration in Freizonen und Offshore-Strukturierung"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Geschäftswachstumsaussichten",
+    "title": "Von Tausenden vertraut",
+    "titleHighlight": "Tausende",
+    "subtitle": "Unsere Erfolgsbilanz spricht für sich.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Mehr als 10.000",
+        "label": "Gegründete Unternehmen",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "7",
+        "label": "Emirates Access",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Führend",
+        "label": "Einrichtungsexperte",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Schnell",
+        "label": "Lizenzierung",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Konform",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Bevorzugt",
+        "label": "Einrichtungspartner",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Gründung einer Mainland Company wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren Spezialisten auf dem Festland beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zur Unternehmensgründung auf dem Festland."
+    },
+    "items": [
+      {
+        "q": "Was ist ein Festlandunternehmen in Dubai?",
+        "a": "Ein Unternehmen vom Festland in Dubai ist ein vom Ministerium für Wirtschaft und Tourismus (DET) lizenziertes Unternehmen mit uneingeschränkter Geschäftstätigkeit in allen Teilen der VAE. Im Gegensatz zu Unternehmen in Freizonen kann ein Unternehmen vom Festland direkt mit dem lokalen Markt handeln, sich um Regierungsaufträge bewerben und Büro- oder Einzelhandelsflächen überall in Dubai anmieten."
+      },
+      {
+        "q": "Können Ausländer ein Unternehmen vom chinesischen Festland in Dubai vollständig besitzen?",
+        "a": "Ja. Seit 2021 ist für die meisten Geschäftsaktivitäten auf dem chinesischen Festland eine hundertprozentige ausländische Beteiligung zulässig. Für bestimmte strategische Aktivitäten kann jedoch weiterhin ein lokaler Partner erforderlich sein. Wir unterstützen Sie bei der Klärung Ihres individuellen Falls."
+      },
+      {
+        "q": "Welche Vorteile bietet die Gründung eines Unternehmens auf dem Festland im Vergleich zu einer Freizone?",
+        "a": "Unternehmen vom Festland können direkt mit dem lokalen Markt der VAE handeln, sich um Regierungsaufträge bewerben, in allen 7 Emiraten tätig sein, unbegrenzt Mitarbeiter je nach Bürofläche einstellen und unterliegen keinen geografischen Beschränkungen."
+      },
+      {
+        "q": "Wie lange dauert es, eine Gewerbelizenz für das Festland zu erhalten?",
+        "a": "Die Ausstellung der Lizenz dauert in der Regel 2-5 Werktage, die gesamte Einrichtung (einschließlich Büromiete und Visabearbeitung) nimmt 2-4 Wochen in Anspruch."
+      },
+      {
+        "q": "Welche Lizenzen gibt es für die Gründung eines Unternehmens auf dem Festland?",
+        "a": "Gewerbelizenz, Berufs-/Dienstleistungslizenz, Industrielizenz, Tourismuslizenz und E-Commerce-Lizenz – jede davon ist auf bestimmte Geschäftstätigkeiten zugeschnitten."
+      },
+      {
+        "q": "Benötige ich Büroräume, um ein Unternehmen auf dem Festland zu gründen?",
+        "a": "Ja. Unternehmen auf dem chinesischen Festland benötigen einen eingetragenen Firmensitz (Ejari). Wir unterstützen Sie bei der Suche nach den passenden Büro-, Lager- oder Ausstellungsräumen für Ihr Unternehmen."
+      },
+      {
+        "q": "Kann ein Unternehmen vom Festland in allen Emiraten Geschäfte tätigen und Niederlassungen eröffnen?",
+        "a": "Ja. Eine Lizenz vom Festland berechtigt Sie, in allen 7 Emiraten frei tätig zu sein und ohne Einschränkungen überall in den VAE Filialen zu eröffnen."
+      },
+      {
+        "q": "Haben Unternehmen auf dem Festland von Dubai steuerliche Auswirkungen?",
+        "a": "Unternehmen auf dem chinesischen Festland unterliegen den Körperschaftsteuerbestimmungen der VAE. Bei den derzeitigen Schwellenwerten können qualifizierte Kleinunternehmen von einer Steuerbefreiung profitieren. Wir bieten umfassende Beratung zur Einhaltung der Vorschriften und zur Mehrwertsteuerregistrierung."
+      },
+      {
+        "q": "Wie läuft das Visumverfahren für ein Unternehmen vom Festland ab?",
+        "a": "Wir kümmern uns um Investoren-, Partner- und Mitarbeitervisa – inklusive Emirates ID, medizinischen Tests und umfassenden PRO-Services. Die Visaquote richtet sich nach der Größe Ihrer Büroräume."
+      },
+      {
+        "q": "Warum sollte ich Setup Zone Dubai für die Registrierung eines Unternehmens auf dem Festland wählen?",
+        "a": "Wir bieten umfassende Unterstützung – von der Tätigkeitsklassifizierung über Lizenzierung, Büromiete, Visabearbeitung und Kontoeröffnung bis hin zu Dienstleistungen nach der Einrichtung, einschließlich CRM, Branding und digitalem Marketing."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut mit der Unternehmensgründung auf dem Festland harmonieren.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Firmengründung in Dubai",
+        "description": "Freizonen-, Festland- und Offshore-Strukturen.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "trade-license",
+        "title": "Handelslizenz in Dubai",
+        "description": "Erhalten Sie Ihre DET-Handelslizenz in 2-5 Tagen.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-corporate-sponsor",
+        "title": "Lokaler Unternehmenssponsor",
+        "description": "Sichern Sie sich die volle Kontrolle mit einem vertrauenswürdigen Sponsor.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bereit, sich auf dem Festland von Dubai niederzulassen?",
+    "title": "Strategische Lage. Keine Handelsbeschränkungen.",
+    "titleHighlight": "Keine Handelsbeschränkungen.",
+    "subtitle": "Starten Sie Ihr Geschäft auf dem Festland mit Setup Zone Dubai – dem vertrauenswürdigen Partner für langfristigen Geschäftserfolg in den VAE.",
+    "chips": [
+      "Kostenlose Beratung",
+      "2-5 Tage Aufbauzeit",
+      "100% Eigentum"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Firmengründung auf dem Festland.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über die Gründung einer Mainland Company sprechen."
+  }
+}

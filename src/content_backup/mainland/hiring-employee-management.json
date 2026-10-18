@@ -1,0 +1,252 @@
+{
+  "slug": "hiring-employee-management",
+  "hero": {
+    "badge": "Find & Recruit the Best Talent",
+    "title": "Hiring in UAE — Employee Management",
+    "titleHighlight": "Employee Management",
+    "subtitle": "Professional recruitment and hiring solutions in Dubai and across the UAE. From sourcing to onboarding — we find the talent that grows your business.",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+    "breadcrumbLabel": "Hiring in UAE",
+    "breadcrumbParent": "Mainland",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Hiring services in UAE.",
+    "badges": ["10,000+ Placements", "MOHRE Compliant", "Bulk Hiring", "Emiratisation"]
+  },
+
+  "stats": [
+    { "icon": "Users", "value": "10,000+", "label": "Placements Made", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "Globe", "value": "4", "label": "Continents Sourced", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "Shield", "value": "100%", "label": "MOHRE Compliant", "color": "from-violet-400 to-purple-600" },
+    { "icon": "Clock", "value": "48hrs", "label": "Avg Shortlist Time", "color": "from-purple-400 to-fuchsia-600" }
+  ],
+
+  "intro": {
+    "badge": "Why It Matters",
+    "title": "Why Is Hiring the Right Talent So Important?",
+    "titleHighlight": "So Important?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "Right Talent",
+    "imageBadgeText": "Right Growth",
+    "paragraph1": "The UAE's highly competitive and fast-moving business climate shows that the basis for success hinges not only on hiring employees, but hiring the right skilled, qualified, and motivated people who can link directly to your business growth story.",
+    "paragraph2": "In finance, banking, technology, IT services, e-commerce, retail, hospitality, tourism, construction, logistics, healthcare, education, and creative industries — finding and keeping the right talent is one of the key differentiators that drives growth in leading businesses.",
+    "paragraph3": "With Setup Zone Dubai's recruitment solutions, we simplify hiring through end-to-end services — profile matching, screening, background checks, skill assessments, visa processing, and contract management.",
+    "features": [
+      "Right Skills",
+      "Cultural Fit",
+      "Industry Knowledge",
+      "Productivity Boost",
+      "Stability",
+      "Sustainable Growth"
+    ]
+  },
+
+  "industriesSection": {
+    "badge": "Talent Solutions, Every Industry",
+    "title": "What Industries Do We Hire For?",
+    "titleHighlight": "Hire For?",
+    "subtitle": "Swipe through our industry expertise — 7 sectors, endless possibilities.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Corporate & Administrative",
+        "description": "Executive administrators, accountants, HR managers, office administrators, corporate secretaries, and senior executive support.",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "roles": ["Executive Admin", "Accountants", "HR Managers", "Corporate Secretaries"]
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Sales & Marketing",
+        "description": "Business development, digital marketing, marketing managers, sales managers, account executives, and brand specialists.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "roles": ["Business Dev", "Digital Marketing", "Sales Managers", "Brand Specialists"]
+      },
+      {
+        "icon": "Cpu",
+        "title": "IT & Technology",
+        "description": "Developers, IT engineers, data analysts, cybersecurity experts, cloud computing, and digital transformation consultants.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "roles": ["Developers", "IT Engineers", "Data Analysts", "Cybersecurity"]
+      },
+      {
+        "icon": "Crown",
+        "title": "Hospitality & Tourism",
+        "description": "Hotel managers, executive chefs, guest relations, event managers, housekeeping managers, and travel consultants.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "roles": ["Hotel Managers", "Executive Chefs", "Guest Relations", "Event Managers"]
+      },
+      {
+        "icon": "Factory",
+        "title": "Construction & Engineering",
+        "description": "Project managers, civil/mechanical/electrical engineers, architects, site supervisors, and skilled labourers.",
+        "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "roles": ["Project Managers", "Engineers", "Architects", "Site Supervisors"]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Healthcare & Wellness",
+        "description": "Doctors, nurses, physiotherapists, pharmacists, therapists, medical technicians, and clinic managers.",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "roles": ["Doctors", "Nurses", "Pharmacists", "Therapists"]
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Education & Training",
+        "description": "Qualified teachers, academic coordinators, curriculum developers, lecturers, trainers, and learning specialists.",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-rose-500 to-red-700",
+        "roles": ["Teachers", "Coordinators", "Lecturers", "Trainers"]
+      }
+    ]
+  },
+
+  "processSection": {
+    "badge": "Efficient Hiring, Reduced Risk",
+    "title": "How Does Our UAE Hiring Process Work?",
+    "titleHighlight": "UAE Hiring Process",
+    "subtitle": "Click on each step to expand and see full details.",
+    "steps": [
+      { "step": "01", "icon": "UserPlus", "title": "Talent Sourcing", "description": "Access a network of highly-skilled professionals in Dubai, Abu Dhabi, and internationally using various recruitment platforms and industry connections.", "color": "from-blue-400 to-indigo-600" },
+      { "step": "02", "icon": "FileSearch", "title": "Candidate Screening", "description": "Pre-qualifying, thorough vetting, background checks, reference checks, and testing technical skills to weed out disqualified candidates.", "color": "from-indigo-400 to-violet-600" },
+      { "step": "03", "icon": "Users", "title": "Interview Management", "description": "Complete interview process — scheduling, candidate follow-up, and gathering employer feedback for smooth, efficient hiring.", "color": "from-violet-400 to-purple-600" },
+      { "step": "04", "icon": "Handshake", "title": "Offer Management", "description": "Negotiate salary, build benefits packages, structure employment terms, and develop contracts within your budget.", "color": "from-purple-400 to-fuchsia-600" },
+      { "step": "05", "icon": "CreditCard", "title": "Visa & Onboarding", "description": "Pre-employment visa process, medical tests, Emirates ID, residency paperwork, and labor contract preparation.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "benefits": {
+    "badge": "Why Partner With Us",
+    "title": "Benefits of Hiring with Setup Zone Dubai",
+    "titleHighlight": "with Setup Zone Dubai",
+    "subtitle": "Six powerful benefits that make us your ideal recruitment partner.",
+    "items": [
+      { "icon": "Globe2", "title": "Access to Local & International Talent", "description": "Connect with top UAE professionals and global talent — Emiratis, GCC executives, or international hires.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Shield", "title": "Compliance with UAE Labour Laws", "description": "100% compliant with UAE Labour Laws, MOHRE regulations, free zone authority rules, and visa regulations.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Zap", "title": "Faster Recruitment Timeline", "description": "Efficient sourcing and advanced screening shorten time-to-hire and quickly match you with the right talent.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Cpu", "title": "Industry-Specific Knowledge", "description": "Industry-expert consultants ensure you hire professionals with the right skills, qualifications, and cultural fit.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Layers", "title": "All Hiring & Visa Solutions", "description": "End-to-end recruitment — contracts, approvals, visas, medicals, Emirates ID, and onboarding, all managed in-house.", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "Target", "title": "Tailor-Made for the Business", "description": "Customized hiring solutions matching your goals, budget, and workforce plans — startup or multinational.", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "emiratisationSection": {
+    "badge": "Emiratisation Support",
+    "title": "Do We Support Emiratisation Hiring?",
+    "titleHighlight": "Emiratisation Hiring?",
+    "paragraph1": "At Setup Zone Dubai, we help employer groups meet their Emiratisation commitments and government hiring quotas — engaging in sourcing, vetting, and placement of qualified UAE Nationals across all levels.",
+    "paragraph2": "Employing Emiratis enables compliance while connecting to the community — with the added benefit of improving corporate reputation and contributing to workforce development for the nation.",
+    "paragraph3": "We offer tailored onboarding programs, cultural integration support, and ongoing training initiatives designed to empower UAE Nationals within your organization.",
+    "features": [
+      { "icon": "UsersRound", "label": "Emiratisation Compliance", "desc": "Meet government hiring quotas" },
+      { "icon": "Trophy", "label": "UAE National Hiring", "desc": "Sourcing & placing Emirati talent" },
+      { "icon": "BookOpen", "label": "Onboarding Programs", "desc": "Tailored cultural integration" },
+      { "icon": "TrendingUp", "label": "Career Development", "desc": "Ongoing training & growth" },
+      { "icon": "Award", "label": "Corporate Reputation", "desc": "Community engagement" },
+      { "icon": "Scale", "label": "Full Compliance", "desc": "UAE employment laws" }
+    ],
+    "visualCards": [
+      { "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80", "tag": "Compliance", "title": "Government Quotas" },
+      { "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80", "tag": "Development", "title": "Career Growth" },
+      { "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80", "tag": "Integration", "title": "Cultural Onboarding" },
+      { "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80", "tag": "Leadership", "title": "Executive Roles" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose Setup Zone Dubai for Recruitment?",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "Four pillars that make us the trusted recruitment partner for UAE businesses.",
+    "items": [
+      { "icon": "Trophy", "title": "Proven Recruitment Success", "description": "Strong record of placing qualified candidates within leading UAE organisations across many industries." },
+      { "icon": "Target", "title": "Customised Hiring Solutions", "description": "Every business is unique — we customize each hire to your industry and culture for the right fit." },
+      { "icon": "Eye", "title": "Total Transparency", "description": "Fully transparent recruitment with no hidden fees. Clear updates at every stage for full confidence." },
+      { "icon": "Heart", "title": "Post-Hire Integration & Support", "description": "Support continues after hiring with follow-up for smooth onboarding, cultural fit, and retention." }
+    ]
+  },
+
+  "bulkOverseasSection": {
+    "bulk": {
+      "icon": "UsersRound",
+      "tag": "Mass Recruitment",
+      "title": "Can We Handle Mass Hiring for UAE Projects?",
+      "description": "We deliver mass recruitment solutions for organizations that need to scale effectively across multiple departments. From offices and hotels to free zones and large projects — handling sourcing to onboarding with full compliance.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+      "gradient": "from-blue-900/90 via-indigo-900/85 to-violet-900/80",
+      "accentColor": "text-blue-300",
+      "tags": ["Offices", "Hotels", "Free Zones", "Large Projects"]
+    },
+    "overseas": {
+      "icon": "Globe2",
+      "tag": "Global Talent",
+      "title": "Do We Assist with Overseas Recruitment?",
+      "description": "Yes — we provide local and international talent sourcing from Asia, Europe, Africa, and the Americas. Our end-to-end overseas hiring covers sourcing, vetting, MOHRE compliance, employment visas, work permits, and relocation support.",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&q=80",
+      "gradient": "from-violet-900/90 via-purple-900/85 to-fuchsia-900/80",
+      "accentColor": "text-violet-300",
+      "tags": ["Asia", "Europe", "Africa", "Americas"]
+    }
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Hiring in the UAE. Still have questions? We're one message away.",
+    "items": [
+      { "q": "What is involved in the process of hiring employees in the UAE?", "a": "Hiring in the UAE involves candidate sourcing, job offer preparation, employment contract preparation, obtaining work permits and visas, medicals, Emirates ID registration, and MOHRE approval for the employment contract. Every step must comply with UAE labour laws." },
+      { "q": "Can foreign companies hire employees in the UAE?", "a": "Yes. Foreign companies with a valid UAE entity (free zone or mainland) can hire employees. We help you navigate all legal requirements including work permits, visas, and MOHRE compliance." },
+      { "q": "How long does it take to hire someone in the UAE?", "a": "Typically, sourcing and shortlisting takes 1-2 weeks, interviews and offers 1-2 weeks, and visa processing 2-4 weeks. Our efficient process shortens time-to-hire significantly." },
+      { "q": "Does Emiratisation affect companies when hiring?", "a": "Yes. Certain companies must meet Emiratisation quotas for hiring UAE Nationals. We help you comply with these requirements while finding the best talent for your business." },
+      { "q": "Can employers hire talent outside of the UAE?", "a": "Absolutely. We provide local and international talent sourcing from Asia, Europe, Africa, and the Americas with full compliance with MOHRE and immigration laws." },
+      { "q": "What industries do you recruit for in the UAE?", "a": "We recruit across corporate & administrative, sales & marketing, IT & technology, hospitality & tourism, construction & engineering, healthcare & wellness, and education & training." },
+      { "q": "What are the costs associated with onboarding employees in UAE?", "a": "Costs include visa processing, medical tests, Emirates ID, labour contracts, and mandatory benefits. We provide transparent pricing with no hidden fees." },
+      { "q": "Can Setup Zone Dubai help with bulk recruitment projects?", "a": "Yes. We specialize in mass recruitment for offices, hotels, free zones, and large projects — handling sourcing to onboarding with full compliance." },
+      { "q": "Do you support overseas recruitment for UAE jobs?", "a": "Yes. Our end-to-end overseas hiring covers sourcing, vetting, MOHRE compliance, employment visas, work permits, and relocation support." },
+      { "q": "Why use Setup Zone Dubai to hire in the UAE?", "a": "We offer proven recruitment success, customized solutions, total transparency, post-hire support, and full compliance — saving you time and mitigating risk." }
+    ]
+  },
+
+  "relatedServices": {
+    "badge": "Related Services",
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Hiring needs.",
+    "items": [
+      { "slug": "mainland-activities", "title": "Mainland Activities", "description": "2,000+ DED-approved activities across Dubai & UAE.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "office-space-solutions", "title": "UAE Office Space Solutions", "description": "Premium office spaces across Dubai & UAE.", "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80", "gradient": "from-teal-400 to-cyan-600" },
+      { "slug": "mainland-visa", "title": "Mainland UAE Visa Services", "description": "Investor, employment, and family visas.", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80", "gradient": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Build Your Dream Team",
+    "title": "Ready to Hire the Right Talent?",
+    "titleHighlight": "Right Talent?",
+    "subtitle": "Get a free consultation. We'll help you find, screen, and onboard the best professionals for your UAE business.",
+    "primaryCta": "WhatsApp Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like a free consultation for hiring in UAE.",
+    "badges": ["Free Consultation", "10K+ Placements", "Full Compliance"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

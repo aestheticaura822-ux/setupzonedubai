@@ -1,0 +1,571 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Más de 45 zonas francas. Propiedad al 100%.",
+  "heroTitle": "ConstituciÁ³n de una empresa en una zona franca de los EAU",
+  "heroTitleHighlight": "Zona Franca",
+  "heroSubtitle": "Establezca su empresa en una de las más de 45 zonas francas de los EAU. Propiedad extranjera al 100%, 0% de impuestos y repatriaciÁ³n total de beneficios, todo en tan solo 3 a 7 dÁ­as.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "0% de impuestos",
+    "InstalaciÁ³n en 3-7 dÁ­as",
+    "Zonas francas para mayores de 45 años"
+  ],
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "45+",
+      "label": "Zonas francas",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "Propiedad extranjera",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Impuesto sobre sociedades",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "ConfiguraciÁ³n de dÁ­as",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "¿Qué es?",
+    "title": "¿Qué es una empresa de zona franca?",
+    "titleHighlight": "¿Empresa en zona franca?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Zona libre de impuestos",
+    "imageBadgeText": "Propiedad al 100%",
+    "paragraphs": [
+      "Una empresa de zona franca de los EAU es un negocio con licencia de una de las más de 45 zonas francas de Dubái, Abu Dabi, Sharjah y otros emiratos. Ofrece un entorno libre de impuestos con propiedad 100% extranjera.",
+      "Las empresas de la Zona Franca pueden comerciar libremente dentro de la Zona Franca, en todo Emiratos Árabes Unidos (a través de distribuidores) e internacionalmente. No pueden comerciar directamente en el mercado continental de Emiratos Árabes Unidos.",
+      "Entre las zonas francas más populares se encuentran IFZA, DMCC, Meydan, DAFZA, JAFZA, RAKEZ, SHAMS y Dubai CommerCity, cada una con ventajas Áºnicas para diferentes actividades comerciales. En Setup Zone Dubai, le ayudamos a elegir la más adecuada segÁºn sus objetivos."
+    ],
+    "highlights": [
+      "Propiedad 100% extranjera",
+      "0% de impuesto de sociedades",
+      "RepatriaciÁ³n de beneficios",
+      "Beneficios libres de impuestos",
+      "ConfiguraciÁ³n rápida",
+      "Más de 45 zonas disponibles"
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "Opciones de licencia",
+    "title": "¿Qué licencias de zona franca puedes obtener?",
+    "titleHighlight": "Licencias de Zona Franca",
+    "subtitle": "Desliza el dedo para ver los 6 tipos de licencia y elige la que mejor se adapte a tu negocio.",
+    "items": [
+      {
+        "id": "commercial",
+        "icon": "StoreIcon",
+        "title": "Licencia comercial",
+        "tagline": "Compra, vende e intercambia",
+        "description": "Para empresas comerciales, negocios de importaciÁ³n/exportaciÁ³n, mayoristas, minoristas y distribuidores. Opere libremente dentro de la Zona Franca, en todo Emiratos Árabes Unidos e internacionalmente.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": [
+          "ImportaciÁ³n/ExportaciÁ³n",
+          "Venta al por mayor y al por menor",
+          "Comercio general",
+          "Ventas globales"
+        ],
+        "bestFor": "Comerciantes"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Licencia profesional/de servicios",
+        "tagline": "Experiencia y consultorÁ­a",
+        "description": "Para consultores, empresas de servicios informáticos, agencias de marketing, educadores, coaches y proveedores de servicios profesionales con propiedad al 100%.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": [
+          "Consultores",
+          "Servicios de TI",
+          "Marketing",
+          "EducaciÁ³n"
+        ],
+        "bestFor": "Consultores"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Licencia industrial",
+        "tagline": "FabricaciÁ³n y producciÁ³n",
+        "description": "Para actividades de fabricaciÁ³n, producciÁ³n, ensamblaje y operaciones industriales dentro de las Zonas Francas designadas, con acceso a terrenos e infraestructura industrial.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "FabricaciÁ³n",
+          "ProducciÁ³n",
+          "Asamblea",
+          "Terreno industrial"
+        ],
+        "bestFor": "fabricantes"
+      },
+      {
+        "id": "ecommerce",
+        "icon": "ShoppingCart",
+        "title": "Licencia de comercio electrÁ³nico",
+        "tagline": "Negocio con prioridad digital",
+        "description": "Para tiendas online, mercados digitales, dropshipping y plataformas de comercio electrÁ³nico con propiedad al 100%, bajo coste y un entorno libre de impuestos.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "Tienda online",
+          "Mercado digital",
+          "Dropshipping",
+          "Alcance global"
+        ],
+        "bestFor": "Vendedores de comercio electrÁ³nico"
+      },
+      {
+        "id": "freelancer",
+        "icon": "Laptop",
+        "title": "Permiso de autÁ³nomo",
+        "tagline": "Profesionales individuales",
+        "description": "Para autÁ³nomos, consultores, diseñadores, desarrolladores, escritores y nÁ³madas digitales. Ideal para profesionales independientes que buscan reconocimiento legal, facturaciÁ³n y elegibilidad para visados.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "Profesionales individuales",
+          "FacturaciÁ³n legal",
+          "Elegible para visa",
+          "Bajo costo"
+        ],
+        "bestFor": "Trabajadores autÁ³nomos"
+      },
+      {
+        "id": "holding",
+        "icon": "Crown",
+        "title": "Licencia de titular",
+        "tagline": "EstructuraciÁ³n corporativa",
+        "description": "Para sociedades holding, vehÁ­culos de inversiÁ³n y gestores de activos. Gestionar filiales, bienes inmuebles, propiedad intelectual e inversiones sin realizar actividades comerciales.",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Holding",
+          "VehÁ­culo de inversiÁ³n",
+          "GestiÁ³n de activos",
+          "EstructuraciÁ³n de la riqueza"
+        ],
+        "bestFor": "Inversores y personas de alto patrimonio neto"
+      }
+    ]
+  },
+  "topFreeZonesSection": {
+    "badge": "Zonas francas para mayores de 45 años",
+    "title": "Principales zonas francas a las que prestamos servicio.",
+    "titleHighlight": "Zonas francas",
+    "subtitle": "Desde IFZA hasta Dubai CommerCity, contamos con experiencia en todas las zonas francas de los EAU.",
+    "items": [
+      {
+        "name": "IFZA",
+        "tagline": "Flexible y asequible",
+        "color": "from-emerald-500 to-teal-700"
+      },
+      {
+        "name": "DMCC",
+        "tagline": "Materias primas y comercio",
+        "color": "from-teal-500 to-cyan-700"
+      },
+      {
+        "name": "Meydan",
+        "tagline": "ConfiguraciÁ³n de bajo costo",
+        "color": "from-cyan-500 to-sky-700"
+      },
+      {
+        "name": "DAFZA",
+        "tagline": "AviaciÁ³n y logÁ­stica",
+        "color": "from-sky-500 to-blue-700"
+      },
+      {
+        "name": "JAFZA",
+        "tagline": "Industria y comercio",
+        "color": "from-blue-500 to-indigo-700"
+      },
+      {
+        "name": "Raquetas",
+        "tagline": "Multisectorial de bajo costo",
+        "color": "from-indigo-500 to-violet-700"
+      },
+      {
+        "name": "SHAMS",
+        "tagline": "Profesionales independientes y pymes",
+        "color": "from-violet-500 to-purple-700"
+      },
+      {
+        "name": "Dubai Commercial City",
+        "tagline": "Centro de comercio electrÁ³nico",
+        "color": "from-purple-500 to-fuchsia-700"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Ventajas de la zona franca",
+    "title": "Beneficios de establecer una zona franca",
+    "titleHighlight": "ConfiguraciÁ³n de zona franca",
+    "subtitle": "Ocho poderosas ventajas de una empresa ubicada en una Zona Franca de los EAU.",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "Propiedad 100% extranjera",
+        "description": "Propiedad total de su negocio en los Emiratos Árabes Unidos: no se requiere ningÁºn patrocinador emiratÁ­ local ni socio nacional de los Emiratos Árabes Unidos.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% de impuestos corporativos y personales",
+        "description": "Entorno libre de impuestos con 0% de impuesto de sociedades, 0% de impuesto sobre la renta personal y retenciÁ³n Á­ntegra de beneficios.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "RepatriaciÁ³n total de beneficios",
+        "description": "Repatria el 100% de tu capital y ganancias sin restricciones cambiarias.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Beneficios libres de impuestos",
+        "description": "Sin aranceles de importaciÁ³n ni de exportaciÁ³n dentro de la Zona Franca: ideal para el comercio, el comercio electrÁ³nico y la logÁ­stica.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "ConfiguraciÁ³n acelerada",
+        "description": "ObtenciÁ³n de la licencia en 3-7 dÁ­as con documentaciÁ³n simplificada y posibilidad de registro remoto.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Soluciones de oficina flexibles",
+        "description": "Puedes elegir entre escritorios flexibles, espacios de coworking, oficinas privadas o almacenes, todos listos para usar.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Cuenta bancaria corporativa",
+        "description": "Abra cuentas bancarias corporativas en los Emiratos Árabes Unidos con los principales bancos: le brindamos asistencia completa con el proceso KYC y la documentaciÁ³n.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Proceso de 6 pasos",
+    "title": "CÁ³mo obtener su licencia de zona franca",
+    "titleHighlight": "Licencia de Zona Franca",
+    "subtitle": "Seis sencillos pasos para lanzar su empresa en una zona franca.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Elige tu zona libre",
+        "description": "Te ayudamos a seleccionar la mejor Zona Franca en funciÁ³n de tu actividad, presupuesto y objetivos a largo plazo.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Reservar nombre comercial",
+        "description": "Reserve el nombre de su empresa ante la autoridad de la Zona Franca; la aprobaciÁ³n suele ser en cuestiÁ³n de horas.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Solicitud de licencia",
+        "description": "EnvÁ­e su solicitud con copias de su pasaporte, plan de negocios y los documentos requeridos.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "icon": "Building2",
+        "title": "Elija espacio de oficina",
+        "description": "Seleccione un puesto de trabajo flexible, un espacio de coworking, una oficina privada o un almacén, segÁºn lo permita su licencia.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "05",
+        "icon": "ScrollText",
+        "title": "Reciba su licencia",
+        "description": "Obtenga su licencia comercial de Zona Franca; normalmente se emite en un plazo de 3 a 7 dÁ­as hábiles.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "Zona Franca vs. Continente",
+    "title": "Compara tus opciones",
+    "titleHighlight": "Comparar",
+    "subtitle": "Comprueba las diferencias de un vistazo para tomar la decisiÁ³n correcta.",
+    "items": [
+      {
+        "factor": "Propiedad",
+        "freezone": "100% Extranjero",
+        "mainland": "100% (La mayorÁ­a)",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "factor": "Tiempo de configuraciÁ³n",
+        "freezone": "3-7 dÁ­as",
+        "mainland": "2-4 semanas",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "factor": "Costo",
+        "freezone": "Más bajo",
+        "mainland": "Más alto",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "factor": "Impuesto",
+        "freezone": "0% Corporativo",
+        "mainland": "0-9% Corporativo",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "factor": "Mercado de los EAU",
+        "freezone": "Limitado",
+        "mainland": "Acceso completo",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "factor": "Contratos gubernamentales",
+        "freezone": "No",
+        "mainland": "SÁ­",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Documentos requeridos",
+    "title": "Lo que necesitas enviar",
+    "titleHighlight": "Es necesario enviarlo",
+    "items": [
+      {
+        "icon": "Camera",
+        "label": "Fotos de pasaporte",
+        "desc": "fondo blanco"
+      },
+      {
+        "icon": "FileText",
+        "label": "Plan de negocios",
+        "desc": "Para algunas zonas francas"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "3 nombres propuestos",
+        "desc": "En orden de preferencia"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Actividad empresarial",
+        "desc": "De la lista aprobada"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "Comprobante de domicilio",
+        "desc": "Factura de servicios pÁºblicos / extracto bancario"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Certificado NOC",
+        "desc": "Para residentes de los EAU"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "CV / Perfil profesional",
+        "desc": "Para actividades profesionales"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Su socio de confianza en la zona franca.",
+    "titleHighlight": "Socio de la Zona Franca",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Más de 45 zonas francas con amplia experiencia.",
+        "desc": "Amplio conocimiento de todas las zonas francas de los EAU."
+      },
+      {
+        "icon": "Zap",
+        "label": "InstalaciÁ³n rápida en 3-7 dÁ­as",
+        "desc": "Proceso optimizado para un lanzamiento rápido"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Precios transparentes",
+        "desc": "Sin cargos ocultos, nunca."
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Consultor especializado",
+        "desc": "Asesor personal durante todo el proceso"
+      },
+      {
+        "icon": "Globe",
+        "label": "Equipo multilingüe",
+        "desc": "Inglés, árabe, hindi, urdu"
+      },
+      {
+        "icon": "Bank",
+        "label": "Soporte de banca corporativa",
+        "desc": "Red de los principales bancos de los EAU"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Cumplimiento continuo",
+        "desc": "Renovaciones, PRO y actualizaciones"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectivas de crecimiento empresarial",
+    "title": "Con la confianza de miles de personas",
+    "titleHighlight": "Miles",
+    "subtitle": "La configuraciÁ³n de su Zona Franca, en manos expertas.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Más de 10.000",
+        "label": "Empresas formadas",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "45+",
+        "label": "Zonas francas",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Principal",
+        "label": "Experto en configuraciÁ³n",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "3-7",
+        "label": "ConfiguraciÁ³n de dÁ­as",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Obediente",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Privilegiado",
+        "label": "Socio de configuraciÁ³n",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la creaciÁ³n de una empresa en una zona franca de los EAU. ¿AÁºn tienes preguntas? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "¿AÁºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas en zonas francas.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la constituciÁ³n de una empresa en una zona franca de los EAU."
+    },
+    "items": [
+      {
+        "q": "¿Qué es una empresa de zona franca en los EAU?",
+        "a": "Una empresa de zona franca es un negocio con licencia de una de las más de 45 zonas francas de los EAU. Permite la propiedad extranjera al 100%, un impuesto de sociedades del 0% y la repatriaciÁ³n total de los beneficios, pero normalmente no puede operar directamente en el mercado continental de los EAU."
+      },
+      {
+        "q": "¿Qué zona franca es la mejor para mi negocio?",
+        "a": "Depende de tu actividad, presupuesto y objetivos. IFZA y Meydan son ideales para startups y pymes. DMCC es adecuada para materias primas. DAFZA es ideal para aviaciÁ³n y logÁ­stica. Te ayudamos a elegir la más adecuada segÁºn tu modelo de negocio."
+      },
+      {
+        "q": "¿Cuánto cuesta constituir una empresa en una zona franca?",
+        "a": "La creaciÁ³n de una empresa en una Zona Franca tiene un precio inicial de aproximadamente 5750 AED para un paquete de licencia básico. El costo final depende de la Zona Franca, el tipo de licencia, el espacio de oficina y la cuota de visas. Ofrecemos precios transparentes con todo incluido."
+      },
+      {
+        "q": "¿Cuánto tiempo se tarda en obtener una licencia de Zona Franca?",
+        "a": "Normalmente, el plazo es de 3 a 7 dÁ­as laborables con la documentaciÁ³n adecuada. Algunas zonas francas ofrecen licencias para el mismo dÁ­a o el dÁ­a siguiente a través de nuestra red prioritaria."
+      },
+      {
+        "q": "¿Puedo ser propietario del 100% de una empresa en una zona franca?",
+        "a": "SÁ­. Todas las zonas francas de los EAU permiten la propiedad extranjera al 100%, sin necesidad de un patrocinador local ni de un socio nacional de los EAU."
+      },
+      {
+        "q": "¿Puedo patrocinar a mi familia con mi empresa en la Zona Franca?",
+        "a": "SÁ­. Dependiendo de la Zona Franca y de tu cupo de visas, puedes patrocinar visas de inversionista para ti, visas de empleado para tu personal y visas de dependientes para tus familiares."
+      },
+      {
+        "q": "¿Puede una empresa de una zona franca comerciar dentro del territorio continental de los Emiratos Árabes Unidos?",
+        "a": "No. Las empresas de las zonas francas no pueden operar directamente en el mercado continental de los EAU. Sin embargo, pueden trabajar a través de un distribuidor o agente local, y algunas zonas francas ofrecen opciones de doble licencia."
+      },
+      {
+        "q": "¿Qué opciones de espacio de oficinas hay disponibles en las Zonas Francas?",
+        "a": "Las zonas francas ofrecen puestos de trabajo flexibles, espacios de coworking, oficinas privadas, suites ejecutivas, almacenes y naves industriales, dependiendo de la actividad de su negocio y del tipo de licencia."
+      },
+      {
+        "q": "¿Puedo abrir una cuenta bancaria corporativa con una licencia de Zona Franca?",
+        "a": "SÁ­. Ofrecemos asistencia integral para la apertura de cuentas bancarias corporativas en los principales bancos de los EAU, incluyendo la preparaciÁ³n del KYC, la documentaciÁ³n y el seguimiento."
+      },
+      {
+        "q": "¿Por qué elegir Setup Zone Dubai para la creaciÁ³n de una zona franca?",
+        "a": "Contamos con experiencia en las más de 45 zonas francas de los EAU, ofrecemos precios transparentes, brindamos soporte integral (licencias, visas, servicios bancarios, gestiÁ³n de trámites, cumplimiento normativo) y tenemos un historial comprobado de más de 10 000 establecimientos exitosos."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que combinan bien con la constituciÁ³n de una empresa en una zona franca.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "ConstituciÁ³n de empresas en Dubái",
+        "description": "Estructuras en zonas francas, en tierra firme y en alta mar.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "free-zone-locations",
+        "title": "GuÁ­a de ubicaciones de zonas francas",
+        "description": "Compara las más de 45 zonas francas de los EAU.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "ecommerce-license",
+        "title": "Licencia de comercio electrÁ³nico en Dubái",
+        "description": "Crea tu negocio online en Dubái.",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lanzamiento en 3-7 dÁ­as",
+    "title": "¿Listo para establecer tu empresa en la zona franca?",
+    "titleHighlight": "¿Empresa en zona franca?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso, desde la elecciÁ³n de la Zona Franca adecuada hasta la emisiÁ³n de la licencia y la apertura de la cuenta bancaria.",
+    "chips": [
+      "Consulta gratuita",
+      "InstalaciÁ³n en 3-7 dÁ­as",
+      "Propiedad al 100%"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarÁ­a una consulta gratuita sobre la constituciÁ³n de una empresa en una zona franca de los EAU.",
+    "whatsappCardMessage": "¡Hola! Me gustarÁ­a hablar sobre la constituciÁ³n de una empresa en una zona franca de los EAU."
+  }
+}

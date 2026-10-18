@@ -1,0 +1,128 @@
+{
+  "badge": "Nos forfaits",
+  "heading": {
+    "line1": "Tarification transparente,",
+    "highlight": "Aucun frais caché"
+  },
+  "subtitle": "Choisissez la formule qui convient à votre entreprise. Tous les prix sont tout compris : pas de frais cachés, pas de mauvaises surprises.",
+  "toggle": {
+    "oneTimeLabel": "Paiement unique",
+    "installmentLabel": "versements",
+    "installmentSuffix": "Ou 3x"
+  },
+  "packages": [
+    {
+      "id": "freezone",
+      "name": "Licence de zone franche",
+      "badge": null,
+      "price": "5 999",
+      "currency": "DEA",
+      "period": "une seule fois",
+      "tagline": "Idéal pour les travailleurs indépendants et les entreprises à distance",
+      "icon": "Building2",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0,3)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "iconBg": "from-sky-400 to-blue-600",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "features": [
+        "5 activités commerciales gratuites",
+        "Propriété à 100 %",
+        "Impôt sur le revenu et impôt personnel à 0 %",
+        "Faible impôt sur les sociétés",
+        "Consultation gratuite",
+        "Garantie du prix le plus bas"
+      ],
+      "cta": "Commencez dès maintenant",
+      "highlighted": false
+    },
+    {
+      "id": "freezone-residency",
+      "name": "Zone franche avec résidence",
+      "badge": "Les plus populaires",
+      "price": "11 999",
+      "currency": "DEA",
+      "period": "une seule fois",
+      "tagline": "Idéal pour les entrepreneurs qui s'installent à Dubaï",
+      "icon": "Globe",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "iconBg": "from-violet-400 to-purple-600",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "features": [
+        "Licence de zone franche tout compris",
+        "5 activités commerciales gratuites",
+        "Propriété à 100 %",
+        "Impôt sur le revenu et impôt personnel à 0 %",
+        "Faible impôt sur les sociétés",
+        "Consultation gratuite",
+        "Contrat de location gratuit",
+        "1 Visa de résidence/investisseur aux Émirats arabes unis",
+        "Certificat médical, carte d'identité émirienne, changement de statut"
+      ],
+      "cta": "Commencez dès maintenant",
+      "highlighted": true
+    },
+    {
+      "id": "mainland-residency",
+      "name": "Continent avec résidence",
+      "badge": "Meilleure valeur",
+      "price": "16 999",
+      "currency": "DEA",
+      "period": "une seule fois",
+      "tagline": "Pour les entreprises ciblant le marché local des Émirats arabes unis",
+      "icon": "Crown",
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0,4)",
+      "accentText": "text-amber-600",
+      "accentBg": "bg-amber-50",
+      "accentBorder": "border-amber-200",
+      "iconBg": "from-amber-400 to-orange-600",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "features": [
+        "Licence continentale",
+        "Propriété à 100 %",
+        "Impôt sur le revenu et impôt personnel à 0 %",
+        "Faible impôt sur les sociétés",
+        "Consultation gratuite",
+        "1 Visa de résidence/investisseur aux Émirats arabes unis",
+        "Certificat médical, carte d'identité émirienne, changement de statut"
+      ],
+      "cta": "Commencez dès maintenant",
+      "highlighted": false
+    }
+  ],
+  "customPackageCTA": {
+    "title": "Besoin d'un forfait personnalisé ?",
+    "subtitle": "Nous adapterons une offre à vos besoins commerciaux précis — sur le continent, en zone franche ou en mer.",
+    "primaryCta": "Obtenez un devis personnalisé",
+    "secondaryCta": "Appelez-nous",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! J'ai besoin d'un forfait personnalisé pour la création de mon entreprise aux Émirats arabes unis.",
+    "backgroundImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+  },
+  "trustLine": [
+    {
+      "label": "Aucun frais caché",
+      "color": "emerald"
+    },
+    {
+      "label": "Tarification transparente",
+      "color": "sky"
+    },
+    {
+      "label": "Conforme à l'ALE",
+      "color": "violet"
+    },
+    {
+      "label": "Consultation gratuite",
+      "color": "amber"
+    }
+  ]
+}

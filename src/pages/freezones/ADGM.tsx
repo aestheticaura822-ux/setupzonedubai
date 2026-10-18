@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import adgmData from '../../content/freezones/adgm.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Crown, Globe, DollarSign, Clock, Landmark, Bank: Landmark, Zap, Scale,
   Coins, Store, Briefcase, Building2, Boxes, Cpu, Blocks, UserCheck,
@@ -26,8 +27,9 @@ const iconMap: any = {
 };
 
 export default function ADGM({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freeZones || adgmData;
-
+  const { language } = useLanguage();
+  const adgmFallback = loadContent('freezones/adgm', language);
+  const data = tinaData?.data?.freeZones || adgmFallback;
   return (
     <div className="min-h-screen bg-white">
 

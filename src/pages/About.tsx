@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../lib/whatsapp';
 import aboutData from '../content/pages/about.json';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 
 // Icon map — JSON me string hota hai, yahan actual icon
 const iconMap: any = {
@@ -36,8 +37,9 @@ const softColors = [
 ];
 
 export default function About({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.pages || aboutData;
-
+  const { language } = useLanguage();
+  const aboutFallback = loadContent('pages/about', language);
+  const data = tinaData?.data?.pages || aboutFallback;
   return (
     <div className="min-h-screen bg-white">
 

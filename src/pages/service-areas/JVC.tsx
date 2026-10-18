@@ -11,7 +11,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import jvcData from '../../content/service-areas/jvc.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, Users, DollarSign, MapPin, Briefcase, Zap,
   Clock, Award, Layers, Landmark, Sparkles, ArrowRight, CheckCircle2,
@@ -19,7 +20,9 @@ const iconMap: any = {
 };
 
 export default function JVC({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || jvcData;
+  const { language } = useLanguage();
+  const jvcFallback = loadContent('service-areas/jvc', language);
+  const data = tinaData?.data?.serviceAreas || jvcFallback;
   const AREA_NAME = data.areaName;
   const AREA_SHORT = data.areaShort;
 

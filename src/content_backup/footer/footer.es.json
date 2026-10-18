@@ -1,0 +1,202 @@
+{
+    "brand":  {
+                  "name":  "Zona de instalaciÁ³n en Dubái",
+                  "shortName":  "SZ",
+                  "operatedBy":  "Operado por Brightlink",
+                  "description":  "Su socio de confianza en los EAU para la creaciÁ³n de empresas, la residencia y los servicios profesionales, que le ofrece una orientaciÁ³n clara y un apoyo integral en cada etapa del proceso.",
+                  "badges":  [
+                                 {
+                                     "icon":  "ShieldCheck",
+                                     "label":  "Con licencia"
+                                 },
+                                 {
+                                     "icon":  "Estrella",
+                                     "label":  "CalificaciÁ³n de 4.9"
+                                 },
+                                 {
+                                     "icon":  "Edificio 2",
+                                     "label":  "Aprobado por DET"
+                                 }
+                             ],
+                  "socialsTitle":  "Conéctate con nosotros"
+              },
+    "ctaBanner":  {
+                      "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600\u0026q=80",
+                      "badge":  "Con la confianza de más de 500 empresas.",
+                      "title":  "Inicie su negocio en Dubái hoy mismo.",
+                      "titleHighlight":  "Hoy",
+                      "subtitle":  "Obtén una consulta gratuita con nuestros expertos. Desde la constituciÁ³n de empresas hasta visados, servicios bancarios y cumplimiento normativo, nos encargamos de todo.",
+                      "primaryCta":  "Obtén una consulta gratuita",
+                      "secondaryCta":  "Llama ahora",
+                      "stats":  [
+                                    {
+                                        "value":  "Más de 10 000",
+                                        "label":  "Clientes satisfechos"
+                                    },
+                                    {
+                                        "value":  "15+",
+                                        "label":  "Años de experiencia"
+                                    },
+                                    {
+                                        "value":  "Más de 25 años",
+                                        "label":  "Consultores expertos"
+                                    },
+                                    {
+                                        "value":  "24/7",
+                                        "label":  "AtenciÁ³n al cliente"
+                                    }
+                                ]
+                  },
+    "quickLinksTitle":  "Enlaces rápidos",
+    "quickLinks":  [
+                       {
+                           "name":  "Hogar",
+                           "href":  "/",
+                           "icon":  "Icono de inicio"
+                       },
+                       {
+                           "name":  "Sobre nosotros",
+                           "href":  "/about",
+                           "icon":  "Usuarios"
+                       },
+                       {
+                           "name":  "Nuestros paquetes",
+                           "href":  "/#packages",
+                           "icon":  "Billetera"
+                       },
+                       {
+                           "name":  "Recursos",
+                           "href":  "/resources",
+                           "icon":  "Texto del archivo"
+                       },
+                       {
+                           "name":  "Contáctanos",
+                           "href":  "/contact",
+                           "icon":  "CÁ­rculo de mensajes"
+                       }
+                   ],
+    "servicesTitle":  "Nuestros servicios",
+    "serviceLinks":  [
+                         {
+                             "name":  "ConfiguraciÁ³n de zona franca",
+                             "slug":  "freezone"
+                         },
+                         {
+                             "name":  "ConfiguraciÁ³n continental",
+                             "slug":  "mainland"
+                         },
+                         {
+                             "name":  "Impuesto de sociedades e IVA",
+                             "slug":  "corporate-tax-vat"
+                         },
+                         {
+                             "name":  "Apertura de cuenta bancaria",
+                             "slug":  "bank-account"
+                         },
+                         {
+                             "name":  "Visa Dorada",
+                             "slug":  "golden-visa"
+                         },
+                         {
+                             "name":  "Servicios PRO",
+                             "slug":  "pro-services"
+                         },
+                         {
+                             "name":  "Servicios de cumplimiento",
+                             "slug":  "compliance"
+                         }
+                     ],
+    "contactTitle":  "Ponte en contacto",
+    "contact":  {
+                    "phone":  {
+                                  "label":  "Llámenos",
+                                  "value":  "+971 56 655 6645",
+                                  "hours":  "De lunes a sábado: de 9:00 a 18:00.",
+                                  "href":  "tel:+971566556645"
+                              },
+                    "email":  {
+                                  "label":  "EnvÁ­anos un correo electrÁ³nico",
+                                  "value":  "setupzonedubai@gmail.com",
+                                  "href":  "mailto:setupzonedubai@gmail.com"
+                              },
+                    "address":  {
+                                    "label":  "VisÁ­tanos",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado de correos 554552",
+                                    "href":  "https://maps.app.goo.gl/LNRyUy4djwMDFsQ46"
+                                },
+                    "whatsapp":  {
+                                     "label":  "Contáctanos por WhatsApp",
+                                     "message":  "¡Hola! Me gustarÁ­a saber más sobre sus servicios."
+                                 }
+                },
+    "socials":  [
+                    {
+                        "name":  "Facebook",
+                        "icon":  "Facebook",
+                        "href":  "https://www.facebook.com/brightlinkconsulting.uae/",
+                        "color":  "de azul 500 a azul 700"
+                    },
+                    {
+                        "name":  "Instagram",
+                        "icon":  "FaInstagram",
+                        "href":  "https://www.instagram.com/brightlink.consulting/",
+                        "color":  "de rosa 500 a fucsia 600"
+                    },
+                    {
+                        "name":  "TikTok",
+                        "icon":  "FaTiktok",
+                        "href":  "https://www.tiktok.com/@brightlink.consulting",
+                        "color":  "de pizarra 800 a negro"
+                    },
+                    {
+                        "name":  "YouTube",
+                        "icon":  "FaYoutube",
+                        "href":  "https://www.youtube.com/@brightlinkconsulting",
+                        "color":  "de rojo 500 a rojo 700"
+                    },
+                    {
+                        "name":  "LinkedIn",
+                        "icon":  "FaLinkedinIn",
+                        "href":  "https://www.linkedin.com/company/brightlink-management-consultancy/",
+                        "color":  "del cielo 500 al azul 700"
+                    },
+                    {
+                        "name":  "X (Twitter)",
+                        "icon":  "FaxTwitter",
+                        "href":  "https://x.com/BRIGHTLINKCONS1",
+                        "color":  "de pizarra 700 a negro"
+                    },
+                    {
+                        "name":  "Telegrama",
+                        "icon":  "FaTelegramPlane",
+                        "href":  "https://t.me/brightlinkgroup",
+                        "color":  "del cielo 400 al azul 600"
+                    },
+                    {
+                        "name":  "Pinterest",
+                        "icon":  "FaPinterestP",
+                        "href":  "https://www.pinterest.com/brightlinkconsulting/",
+                        "color":  "de rojo 500 a rojo 700"
+                    }
+                ],
+    "reviews":  {
+                    "rating":  "4.9",
+                    "outOf":  "/ 5.0",
+                    "reviewCount":  "Más de 75 reseñas verificadas",
+                    "googleLabel":  "Reseñas de Google",
+                    "ctaText":  "Escribe una reseña",
+                    "ctaHref":  "https://g.page/r/CdQ9UxY-AOkxEAE/review"
+                },
+    "bottomBar":  {
+                      "copyright":  "© 2026 Setup Zone Dubai "” Operado por Brightlink.",
+                      "rightsText":  "Reservados todos los derechos.",
+                      "madeWithText":  "Hecho con â¤ï¸ en Dubái"
+                  },
+    "disclaimer":  {
+                       "title":  "Descargo de responsabilidad: ",
+                       "text":  "Setupzonedubai.ae es operado por Brightlink Management Consultancy LLC, un proveedor de servicios privado con licencia en Dubái. No somos una autoridad gubernamental ni tenemos afiliaciÁ³n ni respaldo del Gobierno de los EAU ni de ninguno de sus departamentos. Ayudamos a nuestros clientes con la creaciÁ³n de empresas, la redacciÁ³n de documentos relacionados con visas, la documentaciÁ³n, el llenado y la presentaciÁ³n de solicitudes a través de los canales oficiales pertinentes (DET, GDRFA Dubai, ICP, MOFA), actuando en nombre del cliente y con su consentimiento. Las tarifas gubernamentales son establecidas por las autoridades y se les pagan a ellas; nuestra tarifa de servicio se cobra por separado y se informa antes de cualquier compromiso. Los solicitantes pueden completar las mismas solicitudes directamente a través de los portales oficiales: icp.gov.ae, gdrfad.gov.ae, u.ae. Las estimaciones mostradas son solo a tÁ­tulo informativo y no constituyen asesoramiento legal.",
+                       "lastReviewed":  "Ášltima revisiÁ³n del contenido: 01-09-2026",
+                       "verifiedText":  "Negocio verificado"
+                   }
+}

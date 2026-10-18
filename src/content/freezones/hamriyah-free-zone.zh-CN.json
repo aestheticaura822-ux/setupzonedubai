@@ -1,0 +1,439 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+  "heroBadge": "在哈姆里亚启动智能",
+  "heroTitle": "哈姆里亚自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "沙迦首屈一指的工业和商业中心。为初创企业、中小企业和制造商提供低成本的建厂方案、完善的物流体系和世界一流的基础设施。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "3-5天安装完成"
+  ],
+  "heroCard": {
+    "headerTitle": "HFZA工业",
+    "headerStatus": "居住",
+    "icon": "Warehouse",
+    "zoneLabel": "区",
+    "zoneValue": "阿联酋沙迦",
+    "statusBadge": "积极的",
+    "setupTimeLabel": "设置时间",
+    "setupTimeValue": "3-5天",
+    "taxLabel": "税率",
+    "taxValue": "0%",
+    "footerText": "立即启动",
+    "color": "from-slate-500 to-indigo-600"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-slate-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-indigo-400 to-blue-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-blue-400 to-cyan-600"
+    },
+    {
+      "icon": "Factory",
+      "value": "工业的",
+      "label": "中心",
+      "color": "from-slate-400 to-indigo-600"
+    }
+  ],
+  "readySection": {
+    "badge": "准备建立",
+    "title": "在沙迦首屈一指的中心地带开启您的创业之旅",
+    "titleHighlight": "沙迦首屈一指的中心",
+    "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=1200&q=80",
+    "imageBadgeTitle": "工业中心",
+    "imageBadgeText": "沙迦高级区",
+    "paragraphs": [
+      "无论您是开设工业企业、建立物流中心，还是创办线上业务——哈姆利亚自由区都能满足您的所有需求。这里拥有世界一流的基础设施、税收优惠政策以及位于全球贸易路线上的优越地理位置。",
+      "HFZA 以工业制造而闻名——提供即用型仓库、定制单元用地，以及通往沙迦机场和港口设施的便利。",
+      "在迪拜Setup Zone，我们确保您的团队能够顺利完成启动工作，免除后顾之忧。从许可证和签证到办公空间、仓库或土地——我们为您包办一切繁琐事务。"
+    ],
+    "highlights": [
+      "工业制造",
+      "物流中心",
+      "电子商务",
+      "全球贸易路线"
+    ]
+  },
+  "formationSection": {
+    "badge": "灵活许可",
+    "title": "公司成立及许可证类型",
+    "titleHighlight": "许可证类型",
+    "subtitle": "无论是组建初创企业还是扩大业务规模，HFZA 都能提供灵活的架构。",
+    "structuresTitle": "公司结构",
+    "structures": [
+      {
+        "icon": "UserCheck",
+        "title": "自由区设立 (FZE)",
+        "description": "适用于寻求完全所有权和控制权的单一股东。",
+        "code": "FZE",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "自由区公司 (FZC)",
+        "description": "适用于 2-5 名股东，共同拥有所有权和管理权的公司。",
+        "code": "FZC",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "分支",
+        "description": "适用于本地或国际公司向HFZA扩展业务。",
+        "code": "巴林",
+        "color": "from-blue-400 to-cyan-600"
+      }
+    ],
+    "licensesTitle": "许可证类型",
+    "licenses": [
+      {
+        "icon": "Store",
+        "title": "商业许可",
+        "description": "在本地或国际范围内购买、销售和分销产品。",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "提供专业咨询服务。",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "适用于轻型和重型制造或装配作业。",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "非常适合线上商店和跨境平台。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "自由职业许可证",
+        "description": "适用于独立顾问或数字服务提供商。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "registerSection": {
+    "badge": "如何注册",
+    "title": "在HFZA注册公司",
+    "titleHighlight": "在 HFZA",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "imageBadgeTitle": "在线门户网站",
+    "imageBadgeText": "简单易用",
+    "paragraphs": [
+      "哈姆里亚自由区通过其在线门户网站和对创业者的指导支持，简化了创业流程。",
+      "虽然手续看似简单，但许多初次创业者却会在股东结构、公司活动和公共关系义务等细节问题上迷失方向。而这正是我们能提供帮助的地方。",
+      "我们负责您HFZA注册所需的所有表格、费用和时间安排。我们还会主动与HFZA沟通，因此您绝不会因合规性或文件效率低下而遇到审批延误。"
+    ],
+    "features": [
+      "表格和费用管理",
+      "时间线跟踪",
+      "HFZA通讯",
+      "主动合规"
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "设施选项",
+    "title": "办公及设施选择——专为增长而设计",
+    "titleHighlight": "专为增长而设计",
+    "subtitle": "可随业务发展而扩展的灵活基础设施。",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "行政办公室",
+        "description": "提供全方位服务的即插即用空间，配备接待员、会议室、IT基础设施和行政支持。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+        "color": "from-slate-600 to-indigo-700"
+      },
+      {
+        "icon": "Monitor",
+        "title": "灵活办公桌",
+        "description": "低成本共享办公桌，拥有沙迦合法商业地址和签证资格。",
+        "image": "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=1200&q=80",
+        "color": "from-indigo-600 to-blue-700"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "仓库",
+        "description": "标准或可定制单元——非常适合物流、冷藏、组装和配送，并可直接通往港口。",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80",
+        "color": "from-blue-600 to-cyan-700"
+      },
+      {
+        "icon": "Landmark",
+        "title": "工业用地",
+        "description": "永久产权土地，适合大规模生产、工厂建设或长期开发，且公用设施接入方便。",
+        "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=1200&q=80",
+        "color": "from-cyan-600 to-teal-700"
+      },
+      {
+        "icon": "Users2",
+        "title": "工人宿舍",
+        "description": "价格实惠的现场或附近住宿安排，符合阿联酋法规——节省时间和交通成本。",
+        "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?w=1200&q=80",
+        "color": "from-violet-600 to-purple-700"
+      }
+    ],
+    "helperCard": {
+      "title": "需要帮助吗？",
+      "text": "Setup Zone Dubai负责整个场地搜索和租赁流程。我们负责协商条款并确保协议符合HFZA的规定。"
+    }
+  },
+  "sectorsSection": {
+    "badge": "行业与活动",
+    "title": "适用范围广，安装简便。",
+    "titleHighlight": "安装简便。",
+    "subtitle": "HFZA支持广泛的行业领域。",
+    "items": [
+      {
+        "icon": "Fuel",
+        "label": "石油和天然气交易"
+      },
+      {
+        "icon": "Anchor",
+        "label": "物流与海运"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "电子商务与分销"
+      },
+      {
+        "icon": "Flame",
+        "label": "食品加工和冷藏"
+      },
+      {
+        "icon": "Cog",
+        "label": "金属加工和钢结构制造"
+      },
+      {
+        "icon": "Cog",
+        "label": "汽车零部件及电子产品"
+      },
+      {
+        "icon": "Factory",
+        "label": "先进制造"
+      },
+      {
+        "icon": "Sun",
+        "label": "可再生能源"
+      },
+      {
+        "icon": "Cpu",
+        "label": "IT服务与咨询"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "自由职业"
+      }
+    ],
+    "footerText": "我们将根据 HFZA 批准的认可清单对您的业务活动进行分类，以便快速获得批准并根据需要灵活扩展。"
+  },
+  "visaSection": {
+    "badge": "签证与移民",
+    "title": "HFZA签证和移民服务",
+    "titleHighlight": "HFZA 的服务",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "全生命周期",
+    "imageBadgeText": "Visa 和 PRO 支持",
+    "paragraphs": [
+      "HFZA为投资者和员工提供简化的移民服务。我们负责整个流程的端到端处理。",
+      "无论您是在公司内部还是在国外——我们都会确保您的签证流程快速、合规且无压力。"
+    ],
+    "features": [
+      "投资者和合伙人签证",
+      "就业签证",
+      "家庭赞助",
+      "阿联酋身份证和体检",
+      "签证盖章",
+      "专业服务及续订"
+    ]
+  },
+  "digitalServicesSection": {
+    "badge": "数字服务",
+    "title": "HFZA 数字与商业支持",
+    "titleHighlight": "数字与业务支持",
+    "subtitle": "HFZA是阿联酋数字化程度最高的自由区之一，拥有实时追踪、电子签名和智能门户等功能。我们通过以下方式提升您的体验：",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "公司品牌及标志设计套装",
+        "description": "专业品牌形象和设计素材。",
+        "color": "from-slate-400 to-indigo-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "网站开发与搜索引擎优化",
+        "description": "通过内容策略优化搜索引擎的网站。",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM/ERP集成",
+        "description": "平台整合以简化操作。",
+        "color": "from-blue-400 to-cyan-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "增值税登记与会计",
+        "description": "遵守阿联酋税务法规和申报要求。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "市场营销方案制定及投资者推介",
+        "description": "营销材料和可供投资者使用的路演演示文稿。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择与我们合作",
+    "title": "我们的独特之处是什么？",
+    "titleHighlight": "分开？",
+    "subtitle": "哈姆利亚自由区企业设立的全程专业服务。",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "端到端专业知识",
+        "description": "提供完整的HFZA企业设立专业知识。"
+      },
+      {
+        "icon": "Rocket",
+        "title": "已注册且可融资",
+        "description": "一家已注册、可在网上查看、拥有完善系统支持且已做好融资准备的企业。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "透明定价",
+        "description": "绝无任何隐藏费用——价格始终清晰透明。"
+      },
+      {
+        "icon": "Users",
+        "title": "本地合作伙伴关系",
+        "description": "与HFZA当局保持着良好的关系。"
+      },
+      {
+        "icon": "Clock",
+        "title": "全天候支持",
+        "description": "全天候为您的业务提供服务。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "专为规模化而打造",
+        "description": "可持续发展，并能与您的业务共同成长。"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于哈姆里亚自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的HFZA专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于哈姆利亚自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在哈姆利亚自由区注册公司通常需要多长时间？",
+        "a": "如果所有文件齐全且您的业务活动明确，公司注册可在 3-5 个工作日内完成。我们能更快地处理文件和审批流程。"
+      },
+      {
+        "q": "在HFZA，外国投资者可以拥有公司100%的股权吗？",
+        "a": "是的。HFZA允许100%外资所有权——无需当地担保人。"
+      },
+      {
+        "q": "哈姆利亚自由区有哪些类型的许可证？",
+        "a": "商业许可证、服务许可证、工业许可证、电子商务许可证和自由职业许可证——每一种都针对不同的商业活动量身定制。"
+      },
+      {
+        "q": "哈姆利亚自由区对工业企业来说是一个好的选择吗？",
+        "a": "当然。HFZA 以工业制造而闻名，拥有即用型仓库、定制地块，并且可便捷通往沙迦的机场和港口设施。"
+      },
+      {
+        "q": "与其他自由区相比，HFZA有哪些优势？",
+        "a": "低廉的设立成本、完善的物流基础设施、灵活的商业条款以及位于全球贸易路线上的优越地理位置。"
+      },
+      {
+        "q": "我可以通过HFZA为自己和我的员工申请签证吗？",
+        "a": "是的。HFZA 为投资者和员工提供简化的移民流程——包括投资签证、工作签证和家庭担保。"
+      },
+      {
+        "q": "我是否必须在HFZA签订实体办公空间租赁合同？",
+        "a": "不。我们提供灵活办公桌选项——这是一种低成本的替代方案，拥有合法的商业地址和签证资格。"
+      },
+      {
+        "q": "注册需要哪些文件？",
+        "a": "护照复印件、护照尺寸照片、拟定的公司名称以及有效的电子邮件/联系电话。"
+      },
+      {
+        "q": "HFZA是否支持线上或数字化商业模式？",
+        "a": "是的。HFZA通过适当的许可，支持电子商务、数字服务和在线商业模式。"
+      },
+      {
+        "q": "我的驾照发放后，你会支持我吗？",
+        "a": "是的。我们提供持续的支持——签证办理、公共关系服务、续签、合规和数字化业务增长。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的 HFZA 设置完美搭配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-slate-400 to-indigo-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在哈姆里亚启动？",
+    "titleHighlight": "哈姆里亚？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "3-5天安装完成",
+      "工业中心"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于设立哈姆里亚自由贸易区的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一下Hamriyah的设置。"
+  }
+}

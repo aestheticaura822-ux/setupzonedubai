@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import offshoreData from '../../../content/business-setup/offshore-company-setup.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Award, FileText,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function OffshoreCompanySetup({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || offshoreData;
+  const { language } = useLanguage();
+  const offshoreFallback = loadContent('business-setup/offshore-company-setup', language);
+  const data = tinaData?.data?.businessSetup || offshoreFallback;
   const [activeJurisdiction, setActiveJurisdiction] = useState(0);
 
   const jurisdictions = data.jurisdictionsSection.items;

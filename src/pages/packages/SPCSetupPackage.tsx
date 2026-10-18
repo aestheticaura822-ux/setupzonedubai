@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import spcPackageData from '../../content/packages/spc-setup-package.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, Target, Crown, Store, UserCheck, Landmark,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function SPCSetupPackage({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || spcPackageData;
+  const { language } = useLanguage();
+  const spcFallback = loadContent('packages/spc-setup-package', language);
+  const data = tinaData?.data?.packages || spcFallback;
 
   return (
     <div className="min-h-screen bg-white">

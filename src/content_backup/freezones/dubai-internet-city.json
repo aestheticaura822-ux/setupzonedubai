@@ -1,0 +1,200 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&q=80",
+    "breadcrumbParent": "Free Zones",
+    "breadcrumbLabel": "Dubai Internet City",
+    "badge": "Middle East's Largest Tech Hub",
+    "title": "Dubai Internet City",
+    "titleHighlight": "Internet City",
+    "subtitle": "The Middle East's largest ICT hub — home to global tech giants, startups, and digital innovators. Launch your tech business next to Google, Microsoft, and Oracle.",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Dubai Internet City Free Zone setup.",
+    "badges": ["100% Ownership", "0% Tax", "Tech Ecosystem", "3-5 Days Setup"]
+  },
+
+  "stats": [
+    { "icon": "Building2", "value": "3,500+", "label": "Tech Companies", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-sky-400 to-cyan-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "dashboardCard": {
+    "title": "DIC Tech Hub",
+    "totalLabel": "Zone",
+    "totalValue": "Dubai, UAE",
+    "statusBadge": "Active",
+    "metrics": [
+      { "label": "Setup Time", "value": "3-5 Days", "color": "text-cyan-600" },
+      { "label": "Companies", "value": "3.5K+", "color": "text-blue-600" }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Why DIC",
+    "title": "Why Choose Dubai Internet City?",
+    "titleHighlight": "Dubai Internet City?",
+    "subtitle": "The region's most established tech free zone with unmatched ecosystem and talent.",
+    "smallCards": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership with no local sponsor — complete control over your business.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "DollarSign", "title": "0% Tax & Full Repatriation", "description": "No corporate or personal income tax — repatriate 100% of profits and capital.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Users", "title": "World-Class Talent Pool", "description": "Access to skilled tech professionals, developers, and digital marketers in Dubai.", "color": "from-violet-400 to-purple-600" }
+    ],
+    "largeCard": {
+      "icon": "UserCheck",
+      "title": "Next to Global Tech Giants",
+      "description": "Located beside Google, Microsoft, Oracle, IBM, and 3,500+ tech companies — the region's most connected tech community.",
+      "color": "from-cyan-500 via-blue-600 to-indigo-700"
+    },
+    "smallCard2": {
+      "icon": "MapPin",
+      "title": "Prime Location",
+      "description": "Minutes from Dubai Marina, Palm Jumeirah, and Dubai's business districts — with metro connectivity.",
+      "color": "from-violet-500 via-purple-600 to-fuchsia-700"
+    }
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "DIC License Types",
+    "titleHighlight": "License Types",
+    "subtitle": "Choose the right license for your tech or digital business activity.",
+    "items": [
+      { "icon": "Code", "title": "Software Development", "description": "For software companies, SaaS platforms, and app development businesses.", "code": "SFT", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Cpu", "title": "IT Services", "description": "For IT consulting, managed services, and tech support companies.", "code": "ITS", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Megaphone", "title": "Digital Marketing", "description": "For SEO, SEM, social media, and digital advertising agencies.", "code": "DMK", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Database", "title": "Data & Cloud Services", "description": "For data centers, cloud hosting, and big data businesses.", "code": "DCS", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Server", "title": "E-Commerce & Platforms", "description": "For online marketplaces, e-commerce platforms, and web businesses.", "code": "ECM", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Briefcase", "title": "Professional & Consulting", "description": "For tech consultants, business advisors, and management firms.", "code": "PRO", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "facilitiesSection": {
+    "badge": "Facilities",
+    "title": "World-Class Tech Infrastructure",
+    "titleHighlight": "Tech Infrastructure",
+    "subtitle": "Everything your tech business needs to operate and scale efficiently.",
+    "items": [
+      { "icon": "Monitor", "title": "Flexi-Desks & Coworking", "description": "Modern shared workspaces for startups and freelancers.", "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80" },
+      { "icon": "Building2", "title": "Executive Offices", "description": "Premium fitted offices for growing tech teams.", "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80" },
+      { "icon": "Server", "title": "Data Centers", "description": "Tier-III certified data centers with 24/7 uptime.", "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80" },
+      { "icon": "Wifi", "title": "High-Speed Connectivity", "description": "Fiber-optic internet and redundant network infrastructure.", "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80" }
+    ]
+  },
+
+  "howWeHelpSection": {
+    "badge": "How We Help",
+    "title": "Your DIC Setup Partner",
+    "titleHighlight": "Setup Partner",
+    "subtitle": "End-to-end support from license application to launch.",
+    "steps": [
+      { "step": "01", "icon": "FileText", "title": "Business Activity Selection", "description": "We help you choose the right activity and license for your tech business.", "color": "from-cyan-400 to-blue-600" },
+      { "step": "02", "icon": "FileCheck", "title": "Trade Name Reservation", "description": "Reserve your company name with DIC and get quick approvals.", "color": "from-blue-400 to-indigo-600" },
+      { "step": "03", "icon": "BadgeCheck", "title": "License Issuance", "description": "Submit your application and receive your DIC trade license.", "color": "from-violet-400 to-purple-600" },
+      { "step": "04", "icon": "CreditCard", "title": "Visa & Bank Account", "description": "Full visa processing and corporate bank account setup.", "color": "from-emerald-400 to-teal-600" }
+    ],
+    "ctaCard": {
+      "title": "Ready to Launch in DIC?",
+      "ctaText": "Talk to an Expert",
+      "whatsappMessage": "Hi! I'd like to discuss DIC setup."
+    }
+  },
+
+  "digitalScaleSection": {
+    "badge": "Digital Scale",
+    "title": "Scale Your Tech Business in DIC",
+    "titleHighlight": "Tech Business",
+    "intro": "DIC gives you everything you need to build, launch, and scale a successful tech company from Dubai — the region's digital capital.",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+    "imageBadgeTitle": "Growth Hub",
+    "imageBadgeText": "Scale Globally",
+    "items": [
+      { "icon": "TrendingUp", "title": "Access to VC Funding", "description": "Connect with regional and global investors actively funding Dubai tech." },
+      { "icon": "Globe", "title": "Global Market Access", "description": "Reach 2 billion+ consumers across MENA, Africa, and Asia from one location." },
+      { "icon": "Users", "title": "Networking Events", "description": "Regular meetups, hackathons, and tech conferences for the DIC community." },
+      { "icon": "Rocket", "title": "Startup Accelerators", "description": "Access to in5, Dubai's premier startup incubator, and other programs." },
+      { "icon": "Award", "title": "Government Support", "description": "Backing from Dubai Internet City and Dubai Holding for tech initiatives." }
+    ]
+  },
+
+  "activitiesCloudSection": {
+    "badge": "Activities Allowed",
+    "title": "What Activities Can You Run in DIC?",
+    "titleHighlight": "Run in DIC?",
+    "subtitle": "A wide range of tech and digital business activities are permitted.",
+    "items": [
+      { "icon": "Code", "label": "Software Development" },
+      { "icon": "Smartphone", "label": "Mobile App Development" },
+      { "icon": "Cloud", "label": "Cloud Services" },
+      { "icon": "Cpu", "label": "AI & Machine Learning" },
+      { "icon": "Database", "label": "Data Analytics" },
+      { "icon": "Server", "label": "IT Infrastructure" },
+      { "icon": "Globe", "label": "Web Development" },
+      { "icon": "ShoppingCart", "label": "E-Commerce" },
+      { "icon": "Megaphone", "label": "Digital Marketing" },
+      { "icon": "Palette", "label": "UI/UX Design" },
+      { "icon": "Bot", "label": "Robotics & Automation" },
+      { "icon": "Camera", "label": "Content Production" },
+      { "icon": "Terminal", "label": "DevOps" },
+      { "icon": "Binary", "label": "Blockchain" },
+      { "icon": "Wifi", "label": "IoT Solutions" },
+      { "icon": "Monitor", "label": "Game Development" }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Internet City Free Zone.",
+    "items": [
+      { "q": "What is Dubai Internet City and who is it for?", "a": "Dubai Internet City (DIC) is the Middle East's largest ICT free zone, home to 3,500+ tech companies including Google, Microsoft, Oracle, and IBM. It's ideal for software, IT services, digital marketing, e-commerce, and tech startups." },
+      { "q": "What licenses are available in DIC?", "a": "Software Development, IT Services, Digital Marketing, Data & Cloud Services, E-Commerce, and Professional/Consulting licenses." },
+      { "q": "How long does it take to set up a company in DIC?", "a": "Typically 3-5 working days with proper documentation. Our team ensures a fast and smooth process." },
+      { "q": "Can I get 100% foreign ownership in DIC?", "a": "Yes. DIC allows 100% foreign ownership — no local sponsor required." },
+      { "q": "What are the tax benefits of DIC?", "a": "0% corporate and personal income tax with full repatriation of profits and capital — one of the UAE's most favorable tax regimes." },
+      { "q": "Can I open a corporate bank account with a DIC license?", "a": "Yes. We help open corporate bank accounts with top UAE banks based on your business profile." },
+      { "q": "What office spaces are available in DIC?", "a": "Flexi-desks, coworking spaces, executive offices, and premium fitted offices. Data centers and server hosting are also available." },
+      { "q": "Is DIC suitable for startups and freelancers?", "a": "Yes. DIC offers cost-effective flexi-desks and virtual office options perfect for startups, freelancers, and remote-first tech teams." },
+      { "q": "What support does Setup Zone Dubai provide?", "a": "We handle company registration, trade name approval, license issuance, visas, bank account opening, compliance, and digital launch services." },
+      { "q": "Can I sponsor my family with a DIC license?", "a": "Yes. DIC supports family visa sponsorship for dependents, along with investor and employment visas." }
+    ]
+  },
+
+  "relatedServices": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DIC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-violet-400 to-purple-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Dubai Internet City?",
+    "titleHighlight": "Dubai Internet City?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire DIC setup process — from license to launch.",
+    "primaryCta": "WhatsApp Us",
+    "whatsappMessage": "Hi! I'd like a free consultation for DIC setup.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": ["Free Consultation", "3,500+ Clients", "3-5 Days Setup"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

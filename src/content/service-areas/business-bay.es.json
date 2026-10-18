@@ -1,0 +1,233 @@
+{
+  "areaName": "Bahí­a de negocios",
+  "areaShort": "Bahí­a de negocios",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Ví­a de Serví­cio",
+  "heroTitle": "Creación de empresas en Business Bay",
+  "heroTitleHighlight": "Bahí­a de negocios",
+  "heroSubtitle": "Business Bay es el principal centro comercial de Dubái, sede de empresas Fortune 500, startups y emprendedores de todo el mundo. Establecerse aquí­ le brinda acceso a oficinas de primera categorí­a, infraestructura de clase mundial y una ubicación estratégica en la avenida Sheikh Zayed.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Más de 500",
+      "label": "Constitución de empresas",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Configuración de dí­as",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "A partir de",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "¿Por qué elegir Business Bay?",
+    "title": "El principal centro comercial de Dubái",
+    "titleHighlight": "Premier Commercial",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Ubicación",
+    "imageBadgeText": "Business Bay, Dubái",
+    "paragraph": "Business Bay ofrece ventajas excepcionales para empresas de todos los tamaños. Con una infraestructura de primer nivel, una ubicación estratégica y un ecosistema empresarial favorable, es el lugar ideal para establecer su empresa en Dubái.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Ubicación privilegiada",
+        "desc": "Excelente conectividad a lo largo de la carretera Sheikh Zayed."
+      },
+      {
+        "icon": "Users",
+        "title": "Grupo de talentos",
+        "desc": "Acceso a talento profesional diverso"
+      },
+      {
+        "icon": "Layers",
+        "title": "Infraestructura",
+        "desc": "Servicios e instalaciones de primera clase"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Comunidad de negocios",
+        "desc": "Un próspero ecosistema de empresas globales"
+      },
+      {
+        "icon": "Zap",
+        "title": "Enlaces de transporte",
+        "desc": "Proximidad a las principales lí­neas de metro y autopistas."
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Nuestros servicios",
+    "title": "Servicios de creación de empresas en Business Bay",
+    "titleHighlight": "Bahí­a de negocios",
+    "subtitle": "Soluciones integrales de principio a fin para su negocio en los Emiratos írabes Unidos.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Constitución de empresas en zonas francas",
+        "desc": "Ubicada en la zona franca más adecuada: propiedad al 100%, cero impuestos corporativos y repatriación total de beneficios.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Constitución de una empresa en el territorio continental",
+        "desc": "Opere directamente en el mercado de los EAU con una licencia del territorio continental de EE. UU. Nos encargamos de toda la documentación y las licencias del Departamento de Desarrollo Económico (DED).",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Licencia comercial en Dubái",
+        "desc": "Obtenga su licencia comercial, profesional o industrial rápidamente y cumpliendo plenamente con la normativa vigente.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Servicios de tramitación de visados y servicios de gestión de trámites",
+        "desc": "Visados para inversores, empleados y dependientes: nos encargamos de las pruebas médicas, el documento de identidad de los Emiratos írabes Unidos y el sellado de los visados.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Apertura de cuenta bancaria corporativa",
+        "desc": "Abra una cuenta bancaria empresarial en los principales bancos de los EAU; nosotros nos encargamos de la documentación y del proceso KYC (Conozca a su cliente).",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Calculator",
+        "title": "Servicios de contabilidad e impuestos",
+        "desc": "Cumpla con las obligaciones fiscales y del IVA de las empresas en los EAU: contabilidad, declaraciones de IVA e informes.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "Precios",
+    "title": "Nuestros paquetes de creación de empresas",
+    "titleHighlight": "Paquetes",
+    "subtitle": "Paquetes transparentes y todo incluido para la creación de empresas a partir de:",
+    "items": [
+      {
+        "name": "Licencia de Zona Franca",
+        "price": "5.999 AED",
+        "note": "Sin residencia",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "name": "Licencia de Zona Franca + Residencia",
+        "price": "11.999 AED",
+        "note": "Con residencia en los Emiratos írabes Unidos",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "name": "Licencia de conducir y residencia en el territorio continental de EE. UU.",
+        "price": "16.999 AED",
+        "note": "Continente + Residencia",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "¿Por qué elegir SetupZoneDubai?",
+    "titleHighlight": "SetupZoneDubai",
+    "items": [
+      "Soporte integral para la configuración de su negocio",
+      "Conocimiento experto de las zonas francas de Dubái y de la normativa del territorio continental.",
+      "Precios transparentes sin cargos ocultos.",
+      "Gestor de relaciones dedicado",
+      "Soporte posterior a la obtención de la licencia: PRO, contabilidad y cumplimiento normativo.",
+      "Tramitación rápida: licencia en 3-5 dí­as laborables."
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "Preguntas frecuentes de la zona",
+    "title": "Preguntas frecuentes sobre la creación de una empresa en Business Bay",
+    "titleHighlight": "Creación de empresas en Business Bay",
+    "items": [
+      {
+        "q": "¿Cuánto tiempo se tarda en establecer un negocio en Business Bay?",
+        "a": "La mayorí­a de las empresas se registran y entran en funcionamiento en un plazo de 3 a 5 dí­as hábiles, dependiendo del tipo de licencia y las aprobaciones requeridas."
+      },
+      {
+        "q": "¿Puedo establecer un negocio en Business Bay siendo extranjero?",
+        "a": "Sí­, los extranjeros pueden establecer negocios en las zonas francas de Dubái con el 100% de la propiedad. Las empresas del territorio continental de Estados Unidos pueden requerir un patrocinador local, dependiendo de la actividad comercial."
+      },
+      {
+        "q": "¿Necesito estar fí­sicamente presente en Dubái?",
+        "a": "La mayor parte del proceso de registro se puede realizar de forma remota. Nuestro equipo se encarga del papeleo y de las gestiones gubernamentales en su nombre."
+      },
+      {
+        "q": "¿Qué tipos de negocios puedo establecer en Business Bay?",
+        "a": "En Dubái, segíºn el tipo de licencia que elijas, puedes establecer negocios comerciales, profesionales, industriales, de comercio electrónico o de autónomo."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Respuestas rápidas",
+    "title": "Respuestas rápidas",
+    "titleHighlight": "Respuestas",
+    "subtitle": "Preguntas frecuentes sobre la creación de una empresa en Dubái. ¿Aíºn tienes dudas? Contáctanos.",
+    "relatedServicesTitle": "Servicios y guí­as relacionados",
+    "items": [
+      {
+        "q": "¿Cuánto cuesta iniciar un negocio en Dubái?",
+        "a": "Establecer un negocio en Dubái tiene un costo inicial de 9500 AED para una licencia básica de zona franca. En el territorio continental de Estados Unidos, el costo inicial es de 14 500 AED."
+      },
+      {
+        "q": "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+        "a": "Sí­, los extranjeros pueden ser propietarios al 100% de las empresas en la mayorí­a de las zonas francas y en muchas actividades en China continental."
+      },
+      {
+        "q": "¿Cuál es la zona franca más barata de Dubái?",
+        "a": "RAK ICC, Ajman FTZ y SRTIP ofrecen los paquetes más económicos a partir de 5.900 AED."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda el proceso de registro de una empresa en Dubái?",
+        "a": "El registro en la zona franca tarda de 3 a 7 dí­as hábiles. En el territorio continental, de 2 a 4 semanas."
+      },
+      {
+        "q": "¿Necesito un socio local en Dubái?",
+        "a": "No en las zonas francas. En China continental, muchas actividades ahora permiten la propiedad extranjera al 100%."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "Establecimiento de negocios en Dubai Marina",
+        "desc": "Explore las opciones de instalación en Dubai Marina.",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/dubai-marina"
+      },
+      {
+        "icon": "FileText",
+        "title": "Constitución de empresas en Dubai Marina",
+        "desc": "Guí­a de formación para Dubai Marina",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/dubai-marina"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "¿Listo para empezar?",
+    "title": "¿Listo para iniciar tu negocio en Business Bay?",
+    "titleHighlight": "Bahí­a de negocios",
+    "subtitle": "Contacta hoy mismo con nuestro equipo de expertos en creación de empresas para una consulta gratuita. Te guiaremos en cada paso del proceso de constitución de tu empresa.",
+    "primaryCta": "Contáctanos ahora",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Quiero establecer mi negocio en Business Bay."
+  }
+}

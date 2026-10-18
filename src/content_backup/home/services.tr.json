@@ -1,0 +1,75 @@
+{
+    "badge":  "Temel Hizmetlerimiz",
+    "heading":  {
+                    "line1":  "İşletme Kurulumunda Kapsamlı Hizmet",
+                    "highlight":  "Dubai ve Birleşik Arap Emirlikleri"
+                },
+    "subtitle":  "Serbest Bölge, Ana Kara ve Tam İşletme Desteği "” BAE\u0027de iş kurmak ve büyümek için ihtiyacınız olan her şey tek bir yerde.",
+    "services":  [
+                     {
+                         "id":  "serbest bölge",
+                         "icon":  "Bina 2",
+                         "title":  "Serbest Bölge Kurulumu",
+                         "tagline":  "Uluslararası ve uzaktan çalışan işletmeler için",
+                         "description":  "%100 mülkiyet, sıfır vergi, uzaktan çalışma imkanı "” faaliyetinize ve bütçenize en uygun serbest bölgeyi sizin için buluyoruz.",
+                         "image":  "https://images.pexels.com/photos/36260007/pexels-photo-36260007.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1200",
+                         "features":  [
+                                          "%100 yabancı mülkiyeti",
+                                          "%0 kişisel ve kurumlar vergisi",
+                                          "5 ücretsiz iş etkinliği",
+                                          "Uzaktan erişime uygun kurulum"
+                                      ],
+                         "gradient":  "from-sky-400 via-blue-500 to-blue-600",
+                         "glowColor":  "rgba(14,165,233,0.4)",
+                         "accentColor":  "metin-gökyüzü-600",
+                         "bgAccent":  "bg-sky-50",
+                         "borderAccent":  "sınır-gökyüzü-200",
+                         "number":  "01"
+                     },
+                     {
+                         "id":  "anakara",
+                         "icon":  "Küre",
+                         "title":  "Anakara Kurulumu",
+                         "tagline":  "Birleşik Arap Emirlikleri yerel pazar operasyonları için",
+                         "description":  "Birleşik Arap Emirlikleri genelinde ticaret yapın, özgürce işçi alın ve etki alanınızı genişletin. Tüm DED evrak işlerini, lisanslamayı ve ofis desteğini biz hallediyoruz.",
+                         "image":  "https://images.pexels.com/photos/32761488/pexels-photo-32761488.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1200",
+                         "features":  [
+                                          "Birleşik Arap Emirlikleri pazarına tam erişim",
+                                          "Ticaret kısıtlaması yok.",
+                                          "Çalışanları serbestçe işe alın",
+                                          "Devlet ihalelerine uygunluk"
+                                      ],
+                         "gradient":  "from-violet-400 via-purple-500 to-purple-600",
+                         "glowColor":  "rgba(139,92,246,0.4)",
+                         "accentColor":  "metin-mor-600",
+                         "bgAccent":  "bg-violet-50",
+                         "borderAccent":  "border-violet-200",
+                         "number":  "02"
+                     },
+                     {
+                         "id":  "Destek",
+                         "icon":  "Evrak çantası",
+                         "title":  "İş Desteği",
+                         "tagline":  "Birleşik Arap Emirlikleri\u0027nde faaliyet gösteren şirketler için",
+                         "description":  "Şirket mi yönetiyorsunuz? Arka plan işlemlerini biz hallediyoruz: KDV, bankacılık, yenilemeler, bordro, vizeler, yasal belgeler ve daha fazlası.",
+                         "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200\u0026q=80",
+                         "features":  [
+                                          "KDV ve kurumlar vergisi beyannamesi",
+                                          "Banka hesabı yönetimi",
+                                          "Lisans ve vize yenilemeleri",
+                                          "Bordro ve muhasebe"
+                                      ],
+                         "gradient":  "from-amber-400 via-orange-500 to-orange-600",
+                         "glowColor":  "rgba(245,158,11,0.4)",
+                         "accentColor":  "metin-kehribar-600",
+                         "bgAccent":  "bg-amber-50",
+                         "borderAccent":  "border-amber-200",
+                         "number":  "03"
+                     }
+                 ],
+    "bottomCTA":  {
+                      "question":  "Hangisinin size uygun olduğundan emin değil misiniz?",
+                      "buttonText":  "Bir Uzmanla Konuşun",
+                      "buttonLink":  "#temas etmek"
+                  }
+}

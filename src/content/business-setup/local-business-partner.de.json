@@ -1,0 +1,470 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+  "heroBadge": "Ihr vertrauenswürdiger Partner in den VAE",
+  "heroTitle": "Lokaler Geschäftspartner in den VAE",
+  "heroTitleHighlight": "Geschäftspartner",
+  "heroSubtitle": "Sichern Sie Ihr Geschäft auf dem Festland mit einem zuverlässigen Partner vor Ort. Umfassender Rechtsschutz, volle operative Kontrolle und feste Jahresgebühren – keine Gewinnbeteiligung.",
+  "heroChips": [
+    "100% Kontrolle",
+    "Feste Jahresgebühr",
+    "Rechtsschutz",
+    "Keine Gewinnbeteiligung"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "51/49",
+      "label": "Rechtliche Spaltung",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Kontrolle (über Vereinbarungen)",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "Behoben",
+      "label": "Jahresgebühr",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "0 %",
+      "label": "Gewinnbeteiligung",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Die Einrichtung verstehen",
+    "title": "Was ist ein lokaler Geschäftspartner?",
+    "titleHighlight": "Lokaler Geschäftspartner?",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+    "imageBadgeTitle": "Rechtspartner",
+    "imageBadgeText": "Einrichtung auf dem Festland",
+    "paragraphs": [
+      "Ein lokaler Geschäftspartner (auch lokaler Sponsor genannt) ist ein Staatsangehöriger der VAE oder ein Unternehmen im Besitz der VAE, der 51 % der Anteile an einem Unternehmen auf dem Festland hält, während der ausländische Investor 49 % hält.",
+      "Diese Regelung gilt für bestimmte Handels- und Industrieaktivitäten auf dem Festland der VAE. Im Gegensatz zur individuellen Förderung bietet eine Unternehmensförderung eine professionellere rechtliche Struktur und verbindliche Verträge.",
+      "Mithilfe strukturierter Treuhandverträge und Nebenabreden behalten Sie rechtlich die volle Kontrolle über Geschäftsabläufe, Finanzen und Entscheidungsfindung. Dies ist ein effektiver und rechtskonformer Weg, um Zugang zur Wirtschaft des Festlandes von Dubai zu erhalten."
+    ],
+    "highlights": [
+      "Körperschaft",
+      "Nominierungsvereinbarung",
+      "Vollmacht",
+      "Nebenabreden",
+      "Feste Jahresgebühr",
+      "Rechtskonform"
+    ]
+  },
+  "partnerTypesSection": {
+    "badge": "Arten von Partnern",
+    "title": "Arten von lokalen Partnern",
+    "titleHighlight": "Lokale Partner",
+    "subtitle": "Wischen Sie durch 3 Partnertypen – wählen Sie den richtigen für Ihr Unternehmen.",
+    "items": [
+      {
+        "id": "corporate",
+        "icon": "Building2",
+        "title": "Unternehmenssponsor",
+        "tagline": "Unternehmen im Besitz der VAE",
+        "description": "Ein in den VAE ansässiges Unternehmen (zu 100 % in emiratischem Besitz) hält 51 % der Anteile an Ihrem Unternehmen auf dem Festland. Es bietet eine professionelle Rechtsstruktur, rechtsverbindliche Verträge und Treuhandvereinbarungen, die die volle Kontrolle gewährleisten.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-sky-500 to-blue-700",
+        "features": [
+          "Professionelle Rechtsstruktur",
+          "Verbindliche Verträge",
+          "Nominierungsvereinbarungen",
+          "Vollständige operative Kontrolle"
+        ],
+        "bestFor": "Handels- und Industrieaktivitäten"
+      },
+      {
+        "id": "individual",
+        "icon": "UserIcon",
+        "title": "Einzelsponsor",
+        "tagline": "Staatsangehöriger der Vereinigten Arabischen Emirate",
+        "description": "Ein emiratischer Staatsbürger hält als Privatperson 51 % der Anteile. Ähnlich wie bei einer Unternehmensbeteiligung, jedoch mit einer Einzelperson statt einem Unternehmen. Erfordert gründliche Hintergrundprüfungen und rechtliche Absicherungen.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "Emirati-Person",
+          "51 % gesetzliche Anteile",
+          "Nebenabreden",
+          "POA-Schutz"
+        ],
+        "bestFor": "Kommerzielle Aktivitäten"
+      },
+      {
+        "id": "lsa",
+        "icon": "Handshake",
+        "title": "Lokaler Serviceagent",
+        "tagline": "Kein Equity-Partner",
+        "description": "Ein emiratischer Staatsbürger oder ein Unternehmen im Besitz der VAE fungiert als administrativer Ansprechpartner für Regierungsbehörden. Es hält KEINE Anteile – Sie behalten 100 % des Eigentums. Erforderlich für Berufslizenzen und Zweigstellen.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "Eigenkapitalfrei",
+          "100% ausländisches Eigentum",
+          "Verwaltungsverbindungsperson",
+          "Feste Jahresgebühr"
+        ],
+        "bestFor": "Professionelle Dienstleistungen & Niederlassungen"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Warum ein lokaler Partner",
+    "title": "Vorteile lokaler Partnerschaften",
+    "titleHighlight": "Lokale Partnerschaft",
+    "subtitle": "Sechs überzeugende Vorteile für Ihr Unternehmen auf dem Festland.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Voller Marktzugang",
+        "description": "Agieren Sie in allen sieben Emiraten ohne geografische Einschränkungen – erhalten Sie Zugang zum lokalen Markt der VAE, zu Regierungsaufträgen und zu B2B/B2C-Kunden.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Regierungsaufträge",
+        "description": "Die Möglichkeit, sich um staatliche Ausschreibungen und Projekte des öffentlichen Sektors zu bewerben – ein großer Vorteil, den Unternehmen in Freizonen nicht haben.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Rechtsschutz",
+        "description": "Umfassende Rechtsstruktur mit Gründungsurkunde, Nebenabreden, Vollmacht und Treuhandvereinbarungen – alle notariell beglaubigt und rechtsverbindlich.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "100 % Gewinnrücklage",
+        "description": "Durch separate rechtliche Vereinbarungen behalten Sie 100 % der Gewinne. Der Sponsor erhält lediglich eine feste Jahresgebühr – keine Umsatzbeteiligung.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Gavel",
+        "title": "Vollständige operative Kontrolle",
+        "description": "Mit einer Vollmacht erhalten Sie die alleinige Entscheidungsbefugnis in allen Geschäftsangelegenheiten – ohne Einmischung des Sponsors.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Der Weg zu 100% Eigentum",
+        "description": "Da sich die Gesetze der VAE weiterentwickeln, ist für viele Geschäftsbereiche nun die vollständige ausländische Eigentümerschaft möglich. Wir unterstützen Sie bei der Umschreibung Ihrer Lizenz, sofern Sie die Voraussetzungen erfüllen.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "legalProtectionSection": {
+    "badge": "Rechtsschutz",
+    "title": "Wie wir Ihre Interessen schützen",
+    "titleHighlight": "Schützen Sie Ihre Interessen",
+    "subtitle": "Sechs rechtliche Schutzmaßnahmen für absolute Sorgenfreiheit.",
+    "items": [
+      {
+        "icon": "ScrollText",
+        "title": "MOA-Entwurf",
+        "desc": "Satzung, die unter Einhaltung des Rechts der VAE und unter Wahrung Ihrer Rechte verfasst wurde.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Handshake",
+        "title": "Vereinbarung über wirtschaftliches Eigentum",
+        "desc": "Private Rechtsdokumente, die bestätigen, dass Sie der tatsächliche alleinige wirtschaftliche Eigentümer sind.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Gavel",
+        "title": "Geschäftsvollmacht",
+        "desc": "Notariell beglaubigte Vollmacht, die Ihnen die alleinige Verfügungsgewalt über alle Geschäftsentscheidungen und Bankkonten einräumt.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Sponsoren-Beschränkungsvereinbarung",
+        "desc": "Klauseln, die dem Sponsor rechtlich untersagen, in Ihre Geschäftstätigkeit einzugreifen.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Banknote",
+        "title": "Feste Jahresgebühr",
+        "desc": "Der Sponsor erhält eine feste Jahresgebühr – keine Beteiligung an Gewinnen, Einnahmen oder Ausgaben.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "Notariell beglaubigte Dokumente",
+        "desc": "Alle Dokumente sind unterzeichnet und notariell beglaubigt, wodurch volle Klarheit und Rechtssicherheit gewährleistet sind.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "6-stufiger Prozess",
+    "title": "Wie wir Ihr Unternehmen gesichert haben",
+    "titleHighlight": "Sichern Sie Ihr Unternehmen",
+    "subtitle": "Sechs einfache Schritte zu einem rundum geschützten Unternehmen auf dem Festland.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Aktivitätsbewertung",
+        "description": "Wir ermitteln, ob Ihre Geschäftstätigkeit einen lokalen Partner, einen Unternehmenssponsor oder einen lokalen Serviceagenten erfordert.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "UserPlus",
+        "title": "Partnerauswahl",
+        "description": "Wir vermitteln Ihnen einen zuverlässigen, geprüften emiratischen Partner oder Unternehmenssponsor mit nachweislicher Erfolgsbilanz.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "FileSignature",
+        "title": "Rechtsdokumentation",
+        "description": "Ausarbeitung und notarielle Beglaubigung von Gesellschaftsverträgen, Nebenabreden, Vollmachten und Treuhandvereinbarungen zum Schutz Ihrer Interessen.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Lizenzantrag",
+        "description": "Wir reichen Ihren Antrag auf Gewerbelizenz beim DED ein und koordinieren alle behördlichen Genehmigungen.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "05",
+        "icon": "ClipboardCheck",
+        "title": "Geschäftskonto",
+        "description": "Unterstützung bei der Eröffnung Ihres Firmenbankkontos bei führenden Banken in den VAE.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "06",
+        "icon": "RefreshCw",
+        "title": "Kontinuierliche Unterstützung",
+        "description": "Lizenzverlängerungen, PRO-Dienstleistungen, Compliance und zukünftige Umwandlung in 100%iges Eigentum, sobald die Voraussetzungen erfüllt sind.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "Wichtigste Anforderungen",
+    "title": "Was Sie wissen müssen",
+    "titleHighlight": "Wichtig zu wissen",
+    "items": [
+      {
+        "icon": "Percent",
+        "title": "51% gesetzlicher Anteil",
+        "description": "Der lokale Partner hält 51 % der rechtlichen Anteile, während Sie formal 49 % behalten.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Nebenabreden",
+        "description": "Rechtliche Vereinbarungen gewährleisten, dass Sie die volle Kontrolle und die Gewinne behalten.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Feste Jahresgebühr",
+        "description": "Der Sponsor zahlte einen festen Betrag pro Jahr – keine Gewinnbeteiligung.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Ausstiegsoptionen",
+        "description": "Flexibler Transfer, Sponsorenwechsel oder 100%ige Eigentumsumwandlung.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Ihr vertrauenswürdiger Partner vor Ort",
+    "titleHighlight": "Lokaler Partner",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Zuverlässige Partner",
+        "desc": "Verifizierte emiratische Sponsoren mit nachweislicher Erfolgsbilanz"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Rechtsdokumentation",
+        "desc": "Alle Vereinbarungen sind notariell beglaubigt und rechtsverbindlich."
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Transparente Preise",
+        "desc": "Keine versteckten Gebühren oder Provisionen"
+      },
+      {
+        "icon": "Globe",
+        "label": "Mehrsprachiges Team",
+        "desc": "Englisch, Arabisch, Hindi, Urdu"
+      },
+      {
+        "icon": "Zap",
+        "label": "Schnelle Genehmigungen",
+        "desc": "Direktes DED- und Regierungsnetzwerk"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Kontinuierliche Unterstützung",
+        "desc": "Verlängerungen, PRO und Umstellungshilfe"
+      },
+      {
+        "icon": "Users",
+        "label": "Von Tausenden vertraut",
+        "desc": "Nachweislich erfolgreiche Projektabwicklung"
+      },
+      {
+        "icon": "Crown",
+        "label": "Langfristige Partnerschaft",
+        "desc": "Wir schützen Ihre Zukunft, nicht nur Ihre Infrastruktur."
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Geschäftswachstumsaussichten",
+    "title": "Von Tausenden vertraut",
+    "titleHighlight": "Tausende",
+    "subtitle": "Ihr Geschäftsschutz – in Expertenhänden.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Mehr als 10.000",
+        "label": "Gegründete Unternehmen",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "100%",
+        "label": "Kontrolle erhalten",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Führend",
+        "label": "Sponsoring-Experte",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Behoben",
+        "label": "Jahresgebühr",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Konform",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Bevorzugt",
+        "label": "Partner",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über lokale Geschäftspartner in den VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren lokalen Partnerspezialisten beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zu UAE Local Business Partner."
+    },
+    "items": [
+      {
+        "q": "Ist ein lokaler Geschäftspartner für alle Unternehmen in Dubai Pflicht?",
+        "a": "Nein. Seit den Reformen von 2021 ist für die meisten Geschäftsaktivitäten auf dem chinesischen Festland eine hundertprozentige ausländische Beteiligung möglich. Lokale Sponsoren sind nur für bestimmte Handels- oder Industriezweige erforderlich. Unternehmen im Bereich professioneller Dienstleistungen und in Freizonen können ebenfalls hundertprozentige Beteiligungen genießen."
+      },
+      {
+        "q": "Worin besteht der Unterschied zwischen einem lokalen Partner und einem lokalen Serviceagenten?",
+        "a": "Ein lokaler Partner (Sponsor) hält 51 % der rechtlichen Anteile an Ihrem Unternehmen. Ein lokaler Serviceagent (LSA) hält keine Anteile – er fungiert lediglich als administrativer Ansprechpartner für Behörden gegen eine feste Jahresgebühr."
+      },
+      {
+        "q": "Kann ich mit einem lokalen Partner die volle Kontrolle behalten?",
+        "a": "Ja. Durch strukturierte Treuhandverträge, Vollmachten und Nebenabreden behalten Sie die volle operative, finanzielle und geschäftsführende Kontrolle. Der Sponsor ist ein stiller Teilhaber ohne jegliche Beteiligung."
+      },
+      {
+        "q": "Was kostet ein lokaler Partner?",
+        "a": "Die Gebühren für Unternehmenssponsoring liegen üblicherweise zwischen 8.000 und 20.000 AED pro Jahr, abhängig vom Leistungsumfang und dem Ruf des Sponsors. Es handelt sich um eine feste Gebühr – eine Gewinnbeteiligung findet nicht statt."
+      },
+      {
+        "q": "Was passiert, wenn ich aussteigen oder die Eigentumsrechte übertragen möchte?",
+        "a": "Wir bieten flexible Ausstiegs- und Übertragungsoptionen – verkaufen Sie Ihr Unternehmen, holen Sie sich einen neuen Partner ins Boot, übertragen Sie die Sponsorenschaft oder steigen Sie, sofern gesetzlich zulässig, auf 100 % Eigentum auf."
+      },
+      {
+        "q": "Wird der Sponsor in meine Geschäftstätigkeit eingreifen?",
+        "a": "Nein. Unsere Sponsorenvereinbarung verbietet jegliche Einmischung. Der Sponsor ist ein stiller Teilhaber ohne Zugang zu operativen Abläufen, Finanzen oder Entscheidungsfindung."
+      },
+      {
+        "q": "Kann ich in Zukunft 100% Eigentum erwerben?",
+        "a": "Ja. Da sich die Gesetze der VAE weiterentwickeln, ist für viele Geschäftsbereiche mittlerweile die vollständige ausländische Eigentümerschaft möglich. Wir verfolgen die Aktualisierungen und unterstützen Sie bei der Umstellung Ihrer Lizenz, sobald Sie die Voraussetzungen erfüllen, indem wir den Bürgen entfernen und Ihre Dokumente aktualisieren."
+      },
+      {
+        "q": "Welche Rechtsdokumente schützen meine Interessen?",
+        "a": "Zu den wichtigsten Dokumenten gehören die Satzung (MOA), die Vereinbarung über die wirtschaftlichen Eigentümer, die Vollmacht und die Sponsoren-Beschränkungsvereinbarung. Alle Dokumente sind notariell beglaubigt und rechtsverbindlich."
+      },
+      {
+        "q": "Hilft ein lokaler Sponsor bei der Genehmigung durch die Behörden?",
+        "a": "Ja. Unsere etablierten Unternehmenssponsoren tragen dazu bei, die Genehmigungsverfahren für DED-Lizenzen, Verlängerungen, kommunale Genehmigungen, Zivilschutz und branchenspezifische behördliche Genehmigungen zu beschleunigen."
+      },
+      {
+        "q": "Warum sollten Sie sich für Setup Zone Dubai als lokalen Partner entscheiden?",
+        "a": "Wir bieten Ihnen zuverlässige Partner aus den Emiraten, umfassende Rechtsdokumentation, transparente Preise und Komplettbetreuung. Dank unserer nachweislichen Erfolgsbilanz und des direkten Zugangs zu Regierungsstellen gewährleisten wir eine schnelle, gesetzeskonforme und sichere Einrichtung."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu lokalen Geschäftspartnern passen.",
+    "items": [
+      {
+        "slug": "local-corporate-sponsor",
+        "title": "Lokaler Unternehmenssponsor",
+        "description": "Sichern Sie sich die volle Kontrolle mit einem vertrauenswürdigen Sponsor.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "mainland-company-formation",
+        "title": "Unternehmensgründung auf dem Festland",
+        "description": "Voller Marktzugang in den VAE mit DET-Lizenz.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "Firmengründung in Dubai",
+        "description": "Freizonen-, Festland- und Offshore-Strukturen.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Sichern Sie Ihr Unternehmen",
+    "title": "Bereit für einen vertrauenswürdigen Partner vor Ort?",
+    "titleHighlight": "Vertrauenswürdiger Partner vor Ort?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir helfen Ihnen, Ihr Unternehmen auf dem Festland mit einem zuverlässigen lokalen Partner und umfassendem Rechtsschutz zu gründen.",
+    "chips": [
+      "Kostenlose Beratung",
+      "100% Kontrolle",
+      "Festgebühr"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zum Thema „Lokaler Geschäftspartner in den VAE“.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über lokale Geschäftspartner in den VAE sprechen."
+  }
+}

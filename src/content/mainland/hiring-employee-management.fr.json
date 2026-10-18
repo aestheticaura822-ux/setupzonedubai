@@ -1,0 +1,479 @@
+{
+  "slug": "hiring-employee-management",
+  "hero": {
+    "badge": "Trouver et recruter les meilleurs talents",
+    "title": "Recrutement aux Émirats arabes unis — Gestion du personnel",
+    "titleHighlight": "Gestion des employés",
+    "subtitle": "Solutions de recrutement et d'embauche professionnelles à Dubaï et dans l'ensemble des Émirats arabes unis. De la recherche de candidats à leur intégration, nous trouvons les talents qui contribueront à la croissance de votre entreprise.",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+    "breadcrumbLabel": "Recrutement aux Émirats arabes unis",
+    "breadcrumbParent": "continent",
+    "ctaPrimaryText": "Obtenez une consultation gratuite",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Bonjour ! Je suis intéressé par les services de recrutement aux Émirats arabes unis.",
+    "badges": [
+      "Plus de 10 000 placements",
+      "Conforme au MOHRE",
+      "Recrutement en masse",
+      "Émiratisation"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "Plus de 10 000",
+      "label": "Placements effectués",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "4",
+      "label": "Continents d'origine",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "Conforme au MOHRE",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "48 heures",
+      "label": "Temps moyen de présélection",
+      "color": "from-purple-400 to-fuchsia-600"
+    }
+  ],
+  "intro": {
+    "badge": "Pourquoi c'est important",
+    "title": "Pourquoi est-il si important de recruter les bons talents ?",
+    "titleHighlight": "Si important ?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "Les bons talents",
+    "imageBadgeText": "Croissance saine",
+    "paragraph1": "Le climat des affaires extrêmement concurrentiel et dynamique des Émirats arabes unis démontre que la réussite repose non seulement sur l'embauche d'employés, mais aussi sur le recrutement de personnes compétentes, qualifiées et motivées, capables de contribuer directement à la croissance de votre entreprise.",
+    "paragraph2": "Dans les secteurs de la finance, de la banque, des technologies, des services informatiques, du commerce électronique, du commerce de détail, de l'hôtellerie, du tourisme, de la construction, de la logistique, de la santé, de l'éducation et des industries créatives, trouver et fidéliser les bons talents est l'un des principaux facteurs de différenciation qui stimulent la croissance des entreprises leaders.",
+    "paragraph3": "Avec les solutions de recrutement de Setup Zone Dubai, nous simplifions l'embauche grâce à des services complets : correspondance des profils, sélection, vérification des antécédents, évaluation des compétences, traitement des visas et gestion des contrats.",
+    "features": [
+      "Compétences adéquates",
+      "Adéquation culturelle",
+      "Connaissance du secteur",
+      "Amélioration de la productivité",
+      "Stabilité",
+      "Croissance durable"
+    ]
+  },
+  "industriesSection": {
+    "badge": "Solutions de recrutement, pour tous les secteurs d'activité",
+    "title": "Dans quels secteurs recrutons-nous ?",
+    "titleHighlight": "Embaucher pour ?",
+    "subtitle": "Découvrez notre expertise sectorielle — 7 secteurs, des possibilités infinies.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Affaires et administration",
+        "description": "Administrateurs de direction, comptables, responsables des ressources humaines, administrateurs de bureau, secrétaires d'entreprise et personnel de soutien aux cadres supérieurs.",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "roles": [
+          "Administration exécutive",
+          "Comptables",
+          "Responsables RH",
+          "Secrétaires d'entreprise"
+        ]
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Ventes et marketing",
+        "description": "Développement commercial, marketing numérique, responsables marketing, responsables des ventes, chargés de clientèle et spécialistes de marque.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "roles": [
+          "Développement commercial",
+          "Marketing numérique",
+          "Directeurs des ventes",
+          "Spécialistes de la marque"
+        ]
+      },
+      {
+        "icon": "Cpu",
+        "title": "Informatique et technologies",
+        "description": "Développeurs, ingénieurs informatiques, analystes de données, experts en cybersécurité, spécialistes du cloud computing et consultants en transformation numérique.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "roles": [
+          "Développeurs",
+          "Ingénieurs informatiques",
+          "Analystes de données",
+          "cybersécurité"
+        ]
+      },
+      {
+        "icon": "Crown",
+        "title": "Hôtellerie et tourisme",
+        "description": "Directeurs d'hôtel, chefs cuisiniers, responsables des relations clients, organisateurs d'événements, responsables du service d'entretien ménager et conseillers en voyages.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "roles": [
+          "Directeurs d'hôtel",
+          "Chefs exécutifs",
+          "Relations avec les clients",
+          "Organisateurs d'événements"
+        ]
+      },
+      {
+        "icon": "Factory",
+        "title": "Construction et ingénierie",
+        "description": "Chefs de projet, ingénieurs civils/mécaniciens/électriciens, architectes, superviseurs de chantier et ouvriers qualifiés.",
+        "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "roles": [
+          "Chefs de projet",
+          "Ingénieurs",
+          "Architectes",
+          "Superviseurs de chantier"
+        ]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Santé et bien-être",
+        "description": "Médecins, infirmières, physiothérapeutes, pharmaciens, thérapeutes, techniciens médicaux et gestionnaires de cliniques.",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "roles": [
+          "médecins",
+          "infirmières",
+          "Pharmaciens",
+          "Thérapeutes"
+        ]
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Éducation et formation",
+        "description": "Enseignants qualifiés, coordinateurs pédagogiques, concepteurs de programmes, conférenciers, formateurs et spécialistes de l'apprentissage.",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-rose-500 to-red-700",
+        "roles": [
+          "Enseignants",
+          "Coordinateurs",
+          "Conférenciers",
+          "Entraîneurs"
+        ]
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Recrutement efficace, risques réduits",
+    "title": "Comment fonctionne notre processus de recrutement aux Émirats arabes unis ?",
+    "titleHighlight": "Processus de recrutement aux Émirats arabes unis",
+    "subtitle": "Cliquez sur chaque étape pour la développer et afficher tous les détails.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "UserPlus",
+        "title": "Recherche de talents",
+        "description": "Accédez à un réseau de professionnels hautement qualifiés à Dubaï, à Abu Dhabi et à l'international grâce à diverses plateformes de recrutement et à des contacts dans l'industrie.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSearch",
+        "title": "Sélection des candidats",
+        "description": "Présélection, examen approfondi, vérification des antécédents, vérification des références et évaluation des compétences techniques pour éliminer les candidats disqualifiés.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "03",
+        "icon": "Users",
+        "title": "Gestion des entretiens",
+        "description": "Processus d'entretien complet — planification, suivi des candidats et collecte des commentaires des employeurs pour un recrutement fluide et efficace.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "icon": "Handshake",
+        "title": "Gestion des offres",
+        "description": "Négocier les salaires, élaborer des programmes d'avantages sociaux, structurer les conditions d'emploi et rédiger des contrats en respectant votre budget.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "05",
+        "icon": "CreditCard",
+        "title": "Visa et intégration",
+        "description": "Procédure de visa de pré-embauche, examens médicaux, carte d'identité émirienne, documents de résidence et préparation du contrat de travail.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "Pourquoi devenir partenaire ?",
+    "title": "Avantages de faire appel à Setup Zone Dubai",
+    "titleHighlight": "avec Setup Zone Dubaï",
+    "subtitle": "Six atouts majeurs qui font de nous votre partenaire idéal en matière de recrutement.",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "Accès aux talents locaux et internationaux",
+        "description": "Entrez en contact avec les meilleurs professionnels des Émirats arabes unis et les talents internationaux : Émiratis, cadres du CCG ou recrues internationales.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Conformité avec la législation du travail des Émirats arabes unis",
+        "description": "Conforme à 100% aux lois du travail des Émirats arabes unis, aux réglementations du ministère des Affaires religieuses et de l'Émiratisation, aux règles de l'autorité des zones franches et aux réglementations en matière de visas.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Délai de recrutement plus rapide",
+        "description": "Un sourcing efficace et une sélection avancée permettent de réduire les délais d'embauche et de vous trouver rapidement les talents adéquats.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Connaissances spécifiques à l'industrie",
+        "description": "Des consultants experts du secteur vous garantissent l'embauche de professionnels possédant les compétences, les qualifications et l'adéquation culturelle requises.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Toutes les solutions de recrutement et de visa",
+        "description": "Recrutement de A à Z — contrats, approbations, visas, examens médicaux, carte d'identité émirienne et intégration, le tout géré en interne.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Target",
+        "title": "Conçu sur mesure pour l'entreprise",
+        "description": "Des solutions de recrutement personnalisées, adaptées à vos objectifs, votre budget et vos plans de main-d'œuvre — startup ou multinationale.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "emiratisationSection": {
+    "badge": "Soutien à l'émiratisation",
+    "title": "Soutenons-nous l'embauche de travailleurs émiratis ?",
+    "titleHighlight": "Émiratisation Recrutement ?",
+    "paragraph1": "Chez Setup Zone Dubai, nous aidons les groupes d'employeurs à respecter leurs engagements en matière d'émiratisation et les quotas d'embauche gouvernementaux, en nous chargeant de la recherche, de la sélection et du placement de ressortissants émiratis qualifiés à tous les niveaux.",
+    "paragraph2": "L'emploi d'Émiratis permet de se conformer à la réglementation tout en créant des liens avec la communauté, avec l'avantage supplémentaire d'améliorer la réputation de l'entreprise et de contribuer au développement de la main-d'œuvre nationale.",
+    "paragraph3": "Nous proposons des programmes d'intégration personnalisés, un soutien à l'intégration culturelle et des initiatives de formation continue conçues pour autonomiser les ressortissants des Émirats arabes unis au sein de votre organisation.",
+    "features": [
+      {
+        "icon": "UsersRound",
+        "label": "Conformité à l'émiratisation",
+        "desc": "Respecter les quotas d'embauche du gouvernement"
+      },
+      {
+        "icon": "Trophy",
+        "label": "Recrutement de ressortissants des Émirats arabes unis",
+        "desc": "Recherche et placement de talents émiratis"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "Programmes d'intégration",
+        "desc": "Intégration culturelle sur mesure"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "Développement de carrière",
+        "desc": "Formation et développement continus"
+      },
+      {
+        "icon": "Award",
+        "label": "Réputation de l'entreprise",
+        "desc": "Engagement communautaire"
+      },
+      {
+        "icon": "Scale",
+        "label": "Conformité totale",
+        "desc": "lois du travail des Émirats arabes unis"
+      }
+    ],
+    "visualCards": [
+      {
+        "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80",
+        "tag": "Conformité",
+        "title": "Quotas gouvernementaux"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+        "tag": "Développement",
+        "title": "Évolution de carrière"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
+        "tag": "Intégration",
+        "title": "Intégration culturelle"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+        "tag": "Direction",
+        "title": "Rôles de direction"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Pourquoi choisir Setup Zone Dubai pour votre recrutement ?",
+    "titleHighlight": "Zone d'installation Dubaï",
+    "subtitle": "Quatre piliers qui font de nous le partenaire de recrutement de confiance des entreprises des Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "Succès avéré en matière de recrutement",
+        "description": "Solide expérience en matière de placement de candidats qualifiés au sein d'organisations de premier plan aux Émirats arabes unis, et ce dans de nombreux secteurs d'activité."
+      },
+      {
+        "icon": "Target",
+        "title": "Solutions de recrutement personnalisées",
+        "description": "Chaque entreprise est unique — nous personnalisons chaque recrutement en fonction de votre secteur d'activité et de votre culture pour une intégration parfaite."
+      },
+      {
+        "icon": "Eye",
+        "title": "Transparence totale",
+        "description": "Un recrutement entièrement transparent, sans frais cachés. Des mises à jour claires à chaque étape pour une confiance totale."
+      },
+      {
+        "icon": "Heart",
+        "title": "Intégration et soutien après l'embauche",
+        "description": "L'accompagnement se poursuit après l'embauche avec un suivi pour faciliter l'intégration, l'adéquation à la culture d'entreprise et la fidélisation."
+      }
+    ]
+  },
+  "bulkOverseasSection": {
+    "bulk": {
+      "icon": "UsersRound",
+      "tag": "Recrutement de masse",
+      "title": "Pouvons-nous gérer des embauches massives pour des projets aux Émirats arabes unis ?",
+      "description": "Nous proposons des solutions de recrutement à grande échelle pour les organisations qui doivent adapter efficacement leurs effectifs à différents départements. Des bureaux et hôtels aux zones franches et grands projets, nous prenons en charge le sourcing et l'intégration des candidats dans le respect total des réglementations.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+      "gradient": "from-blue-900/90 via-indigo-900/85 to-violet-900/80",
+      "accentColor": "texte-bleu-300",
+      "tags": [
+        "Bureaux",
+        "Hôtels",
+        "Zones franches",
+        "Grands projets"
+      ]
+    },
+    "overseas": {
+      "icon": "Globe2",
+      "tag": "Talents mondiaux",
+      "title": "Proposons-nous une assistance pour le recrutement à l'étranger ?",
+      "description": "Oui, nous proposons des services de recrutement de talents locaux et internationaux en provenance d'Asie, d'Europe, d'Afrique et des Amériques. Notre service complet de recrutement à l'international inclut la recherche de candidats, la vérification des antécédents, la conformité aux réglementations du ministère des Ressources humaines et de l'Émiratisation (MOHRE), l'obtention des visas de travail et des permis de travail, ainsi que l'aide à la relocalisation.",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&q=80",
+      "gradient": "from-violet-900/90 via-purple-900/85 to-fuchsia-900/80",
+      "accentColor": "texte-violet-300",
+      "tags": [
+        "Asie",
+        "Europe",
+        "Afrique",
+        "Amériques"
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur le recrutement aux Émirats arabes unis. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "items": [
+      {
+        "q": "En quoi consiste le processus d'embauche de personnel aux Émirats arabes unis ?",
+        "a": "Le recrutement aux Émirats arabes unis comprend la recherche de candidats, la préparation des offres d'emploi et des contrats de travail, l'obtention des permis de travail et des visas, les examens médicaux, l'enregistrement de la carte d'identité émirienne et l'approbation du contrat de travail par le ministère des Affaires religieuses (MOHRE). Chaque étape doit être conforme à la législation du travail des Émirats arabes unis."
+      },
+      {
+        "q": "Les entreprises étrangères peuvent-elles embaucher des employés aux Émirats arabes unis ?",
+        "a": "Oui. Les entreprises étrangères disposant d'une entité juridique valide aux Émirats arabes unis (zone franche ou territoire continental) peuvent embaucher du personnel. Nous vous accompagnons dans toutes vos démarches légales, notamment l'obtention des permis de travail, des visas et la conformité aux exigences du ministère des Affaires étrangères et de la Réforme émirienne (MOHRE)."
+      },
+      {
+        "q": "Combien de temps faut-il pour embaucher quelqu'un aux Émirats arabes unis ?",
+        "a": "En règle générale, la recherche et la présélection des candidats prennent 1 à 2 semaines, les entretiens et les offres 1 à 2 semaines également, et le traitement des visas 2 à 4 semaines. Notre processus efficace réduit considérablement les délais d'embauche."
+      },
+      {
+        "q": "L’émiratisation a-t-elle une incidence sur les entreprises en matière d’embauche ?",
+        "a": "Oui. Certaines entreprises doivent respecter des quotas d'émiratisation pour l'embauche de ressortissants des Émirats arabes unis. Nous vous aidons à vous conformer à ces exigences tout en trouvant les meilleurs talents pour votre entreprise."
+      },
+      {
+        "q": "Les employeurs peuvent-ils recruter des talents en dehors des Émirats arabes unis ?",
+        "a": "Absolument. Nous proposons des services de recrutement de talents locaux et internationaux en provenance d'Asie, d'Europe, d'Afrique et des Amériques, dans le respect total des lois du ministère des Ressources humaines et de l'Émiratisation (MOHRE) et des réglementations en matière d'immigration."
+      },
+      {
+        "q": "Dans quels secteurs recrutez-vous aux Émirats arabes unis ?",
+        "a": "Nous recrutons dans les secteurs suivants : administration et entreprises, ventes et marketing, informatique et technologies, hôtellerie et tourisme, construction et ingénierie, santé et bien-être, et éducation et formation."
+      },
+      {
+        "q": "Quels sont les coûts associés à l'intégration des employés aux Émirats arabes unis ?",
+        "a": "Les frais comprennent le traitement du visa, les examens médicaux, la carte d'identité émirienne, les contrats de travail et les prestations obligatoires. Nous pratiquons une tarification transparente, sans frais cachés."
+      },
+      {
+        "q": "Setup Zone Dubai peut-elle vous aider pour vos projets de recrutement en masse ?",
+        "a": "Oui. Nous sommes spécialisés dans le recrutement de masse pour les bureaux, les hôtels, les zones franches et les grands projets — nous prenons en charge l'ensemble du processus, de la recherche de candidats à leur intégration, dans le respect total des réglementations."
+      },
+      {
+        "q": "Soutenez-vous le recrutement à l'étranger pour les emplois aux Émirats arabes unis ?",
+        "a": "Oui. Notre service de recrutement international complet inclut la recherche de candidats, la vérification des antécédents, la conformité aux exigences du MOHRE, les visas de travail, les permis de travail et l'aide à la relocalisation."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour louer un logement aux Émirats arabes unis ?",
+        "a": "Nous offrons des résultats éprouvés en matière de recrutement, des solutions personnalisées, une transparence totale, un soutien après l'embauche et une conformité complète, ce qui vous permet de gagner du temps et d'atténuer les risques."
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "Services connexes",
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services parfaitement adaptés à vos besoins en matière de recrutement.",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "Activités sur le continent",
+        "description": "Plus de 2 000 activités approuvées par le DED à Dubaï et aux Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "office-space-solutions",
+        "title": "Solutions d'espaces de bureaux aux Émirats arabes unis",
+        "description": "Espaces de bureaux haut de gamme à Dubaï et dans les Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "Services de visa pour les Émirats arabes unis continentaux",
+        "description": "Visas d'investisseur, de travail et familiaux.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Constituez votre équipe de rêve",
+    "title": "Prêt à recruter les bons talents ?",
+    "titleHighlight": "Le bon talent ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous aiderons à trouver, sélectionner et intégrer les meilleurs professionnels pour votre entreprise aux Émirats arabes unis.",
+    "primaryCta": "Contactez-nous sur WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite concernant un recrutement aux Émirats arabes unis.",
+    "badges": [
+      "Consultation gratuite",
+      "Plus de 10 000 placements",
+      "Conformité totale"
+    ],
+    "office": {
+      "label": "Visitez notre bureau de Dubaï",
+      "line1": "Bureau M08-27, 1er étage, Crystal Tower",
+      "line2": "Business Bay, Dubaï, Émirats arabes unis — Boîte postale : 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Heures de travail",
+      "monFri": "9h00 – 18h00",
+      "saturday": "10h00 – 17h00",
+      "sunday": "Fermé"
+    }
+  }
+}

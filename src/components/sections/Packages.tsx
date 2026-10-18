@@ -18,7 +18,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useTina, tinaField } from 'tinacms/dist/react';
 import WhatsAppIcon from '../icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 import packagesData from '../../content/home/packages.json';
 
 const iconMap: any = {
@@ -33,7 +34,9 @@ const trustColorMap: Record<string, { bg: string; border: string; text: string }
 };
 
 export default function Packages({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.home || packagesData;
+const { language } = useLanguage();
+const packagesFallback = loadContent('home/packages', language);
+const data = tinaData?.data?.home || packagesFallback;
   const [period, setPeriod] = useState<'one-time' | 'installment'>('one-time');
 
   return (

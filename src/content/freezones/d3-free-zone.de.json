@@ -1,0 +1,406 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80",
+    "breadcrumbParent": "Freizonen",
+    "breadcrumbLabel": "Dubai Design District",
+    "badge": "Dubai Design District",
+    "title": "Dubai Design District",
+    "titleHighlight": "Designviertel",
+    "subtitle": "Die erste kreative Freihandelszone im Nahen Osten, die sich Design, Mode, Kunst und Kultur widmet. Gründen Sie Ihr Kreativunternehmen in Dubais führendem Designzentrum.",
+    "ctaPrimaryText": "Vereinbaren Sie eine kostenlose Beratung",
+    "ctaPrimaryLink": "#Kontakt",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für die Einrichtung der Freihandelszone im Dubai Design District.",
+    "badges": [
+      "100% Eigentum",
+      "0 % Steuer",
+      "Kreativzentrum",
+      "3-5 Tage Aufbauzeit"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "Kreative Marken",
+      "color": "from-rose-400 to-pink-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-pink-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Tagesaufbau",
+      "color": "from-fuchsia-400 to-purple-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "D3 Kreativzentrum",
+    "totalLabel": "Zone",
+    "totalValue": "Dubai, Vereinigte Arabische Emirate",
+    "statusBadge": "Aktiv",
+    "metrics": [
+      {
+        "label": "Einrichtungszeit",
+        "value": "3-5 Tage",
+        "color": "text-rose-600"
+      },
+      {
+        "label": "Marken",
+        "value": "500+",
+        "color": "text-pink-600"
+      }
+    ]
+  },
+  "startInStyle": {
+    "badge": "Starten Sie stilvoll",
+    "title": "Starten Sie stilvoll im Dubai Design District",
+    "titleHighlight": "Dubai Design District",
+    "subtitle": "Die kreative Hauptstadt der Region für Designer, Künstler und Modeunternehmer.",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "description": "Volle Eigentümerschaft ohne lokale Sponsoren – vollständige Kontrolle über Ihre kreative Marke.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% Steuerumfeld",
+        "description": "Keine Körperschafts- oder Einkommensteuer – maximieren Sie Ihre Gewinne aus Ihrem kreativen Unternehmen.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Kreative Gemeinschaft",
+        "description": "Schließen Sie sich einem florierenden Ökosystem von Designern, Künstlern und kreativen Unternehmern aus aller Welt an.",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ],
+    "largeCard": {
+      "title": "Wo Design auf Wirtschaft trifft",
+      "description": "D3 ist das kreative Zentrum der Region – Heimat von Modehäusern, Designstudios, Kunstgalerien und Kreativagenturen. Ein eigens für die Kreativwirtschaft errichtetes Viertel.",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80"
+    }
+  },
+  "activitiesSection": {
+    "badge": "Geschäftstätigkeit",
+    "title": "Kreative Aktivitäten in D3",
+    "titleHighlight": "in D3",
+    "subtitle": "Eine breite Palette kreativer und designorientierter Geschäftstätigkeiten ist zulässig.",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "Design & Branding",
+        "description": "Grafikdesign-, Marken- und Kreativagenturen.",
+        "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Shirt",
+        "title": "Mode & Textilien",
+        "description": "Modehäuser, Textildesign und Bekleidungsmarken.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Camera",
+        "title": "Bildende Kunst & Fotografie",
+        "description": "Fotostudios, visuelle Kunst und kreative Inhalte.",
+        "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&q=80",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "workspacesSection": {
+    "badge": "Arbeitsbereiche",
+    "title": "Arbeitsbereiche in D3",
+    "titleHighlight": "in D3",
+    "subtitle": "Speziell konzipierte, kreative Arbeitsbereiche für jede Phase Ihres Unternehmens.",
+    "items": [
+      {
+        "icon": "Sparkles",
+        "title": "Flexible Arbeitsplätze",
+        "description": "Flexibles Coworking für Freiberufler.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Studios",
+        "description": "Kreativstudios für Design und Mode.",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Ausgestattete Büros",
+        "description": "Bezugsfertige Büros für kreative Teams.",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Store",
+        "title": "Einzelhandelsflächen",
+        "description": "Boutique-Einzelhandel für Modemarken.",
+        "color": "from-purple-400 to-violet-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Hülle und Kern",
+        "description": "Individuell gestaltbare Räume für kreative Konzepte.",
+        "color": "from-violet-400 to-indigo-600"
+      }
+    ]
+  },
+  "visaServicesSection": {
+    "badge": "Visadienstleistungen",
+    "title": "Visadienstleistungen bei D3",
+    "titleHighlight": "bei D3",
+    "subtitle": "Umfassende Visumunterstützung für Sie und Ihr Kreativteam.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "Investorenvisum",
+        "description": "Für Unternehmer und Aktionäre.",
+        "stampColor": "von 500 bis 600 Rosa"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Arbeitsvisum",
+        "description": "Für kreative Mitarbeiter und Teammitglieder.",
+        "stampColor": "von Rosa 500 bis Fuchsia 600"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "Freelancer-Visum",
+        "description": "Für unabhängige Kreative und Berater.",
+        "stampColor": "von Fuchsia-500 bis Lila-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Familienvisum",
+        "description": "Für Ehepartner, Kinder und Angehörige.",
+        "stampColor": "von Lila-500 bis Violett-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Visumserneuerung",
+        "description": "Visamanagement über den gesamten Lebenszyklus hinweg.",
+        "stampColor": "von Violett-500 bis Indigo-600"
+      },
+      {
+        "icon": "Send",
+        "title": "Visumstornierung",
+        "description": "Konforme Visastornierungsdienste.",
+        "stampColor": "von Indigo 500 bis Blau 600"
+      }
+    ]
+  },
+  "growthSupportSection": {
+    "badge": "Wachstumsförderung",
+    "title": "Erweitere dein Kreativunternehmen",
+    "titleHighlight": "Kreatives Geschäft",
+    "subtitle": "Über die reine Einrichtung hinaus – wir helfen Ihrer kreativen Marke mit strategischen Dienstleistungen beim Wachstum.",
+    "items": [
+      {
+        "icon": "Megaphone",
+        "title": "Marketing & PR",
+        "description": "Markenmarketing und PR-Unterstützung für kreative Marken.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Geschäftsentwicklung",
+        "description": "Wachstumsstrategie und Partnerschaftsmöglichkeiten.",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Marktforschung",
+        "description": "Einblicke in die regionale Kreativwirtschaft.",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Digitale Transformation",
+        "description": "E-Commerce-, Web- und Technologielösungen für kreative Marken.",
+        "color": "from-purple-400 to-violet-600"
+      }
+    ]
+  },
+  "strategicSection": {
+    "badge": "Strategische Lage",
+    "title": "Im Herzen von Dubai gelegen",
+    "titleHighlight": "das Herz von Dubai",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Standort",
+    "imageBadgeText": "Innenstadt von Dubai",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Erstklassige Lage",
+        "description": "Direkt neben dem Burj Khalifa, der Dubai Mall und dem Dubai Canal."
+      },
+      {
+        "icon": "Plane",
+        "title": "20 Minuten bis Dubai",
+        "description": "Schneller Zugang zum internationalen Flughafen Dubai."
+      },
+      {
+        "icon": "Building2",
+        "title": "Vernetzte Gemeinschaft",
+        "description": "Fußgängerfreundliches Viertel mit Galerien, Cafés und Designzentren."
+      },
+      {
+        "icon": "Globe",
+        "title": "Globale Reichweite",
+        "description": "Direkter Zugang zu regionalen und internationalen Märkten."
+      },
+      {
+        "icon": "Heart",
+        "title": "Kreativer Lebensstil",
+        "description": "Leben, arbeiten und genießen Sie die Freizeit in einem pulsierenden, kreativen Viertel."
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Ihr D3-Einrichtungspartner",
+    "titleHighlight": "Einrichtungspartner",
+    "subtitle": "Von Hunderten von Kreativunternehmen in Dubai geschätzt.",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Fachkompetenz in der Kreativbranche",
+        "description": "Wir verstehen die besonderen Bedürfnisse von Designern, Künstlern und Modemarken.",
+        "color": "from-rose-400 to-pink-600",
+        "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Bearbeitungszeit",
+        "description": "Die Einrichtung wird dank prioritärer Bearbeitung in 3-5 Tagen abgeschlossen.",
+        "color": "from-pink-400 to-fuchsia-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "icon": "Compass",
+        "title": "Strategische Leitlinien",
+        "description": "Expertenberatung zu Tätigkeitswahl, Lizenzierung und kreativer Unternehmensgründung.",
+        "color": "from-fuchsia-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Dubai Design District Free Zone wissen müssen.",
+    "items": [
+      {
+        "q": "Was ist der Dubai Design District (D3)?",
+        "a": "D3 ist die erste kreative Freihandelszone im Nahen Osten, die sich Design, Mode, Kunst und Kultur widmet. Sie beherbergt über 500 kreative Unternehmen aus aller Welt."
+      },
+      {
+        "q": "Welche Aktivitäten kann ich in D3 durchführen?",
+        "a": "Design & Branding, Mode & Textilien, visuelle Kunst & Fotografie, Kreativagenturen, Architektur und digitale Medien sind allesamt zulässige Tätigkeiten."
+      },
+      {
+        "q": "Wie lange dauert die Einrichtung von D3?",
+        "a": "In der Regel 3–5 Werktage bei vollständiger Dokumentation. Unser Team sorgt für einen reibungslosen Ablauf."
+      },
+      {
+        "q": "Kann ich bei D3 100% ausländisches Eigentum erwerben?",
+        "a": "Ja. D3 erlaubt 100% ausländisches Eigentum – kein lokaler Sponsor ist erforderlich."
+      },
+      {
+        "q": "Welche steuerlichen Vorteile bietet D3?",
+        "a": "0 % Körperschafts- und Einkommensteuer bei vollständiger Rückführung von Gewinnen und Kapital."
+      },
+      {
+        "q": "Welche Büroflächen stehen im D3 zur Verfügung?",
+        "a": "Flexible Arbeitsplätze, Kreativstudios, möblierte Büros, Verkaufsflächen und Rohbauoptionen."
+      },
+      {
+        "q": "Kann ich mit einem D3-Führerschein ein Bankkonto eröffnen?",
+        "a": "Ja. Wir helfen Ihnen, basierend auf Ihrem Unternehmensprofil Firmenkonten bei führenden Banken in den VAE zu eröffnen."
+      },
+      {
+        "q": "Ist D3 für Freiberufler geeignet?",
+        "a": "Ja. D3 bietet Freiberuflergenehmigungen und flexible Arbeitsplätze, die speziell für unabhängige Kreative konzipiert sind."
+      },
+      {
+        "q": "Kann ich meine Familie mit einer D3-Lizenz sponsern?",
+        "a": "Ja. D3 unterstützt die Beantragung von Familienvisa sowie von Investoren- und Arbeitsvisa."
+      },
+      {
+        "q": "Welche Unterstützung bietet Setup Zone Dubai?",
+        "a": "Wir übernehmen die Unternehmensregistrierung, die Lizenzerteilung, Visaangelegenheiten, Bankkonten und die laufende Unternehmensberatung."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienste, die gut zu Ihrer D3-Konfiguration passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-rose-400 to-pink-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Heute starten",
+    "title": "Bereit für den Start in D3?",
+    "titleHighlight": "D3?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten D3-Einrichtungsprozess – von der Lizenzierung bis zum Launch.",
+    "primaryCta": "WhatsApp uns",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur D3-Einrichtung.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "Kostenlose Beratung",
+      "Mehr als 500 Kunden",
+      "3-5 Tage Aufbauzeit"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

@@ -14,6 +14,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import seoData from '../../content/services/seo.json';
  import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
+ import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   TrendingUp, Eye, Search, Users, FileSearch, Target, Settings, Link2,
   MapPin, ShoppingCart, Code, FileText, Lightbulb, Rocket, Award,
@@ -24,7 +26,9 @@ const iconMap: any = {
 };
 
 export default function SEO({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || seoData;
+  const { language } = useLanguage();
+  const seoFallback = loadContent('services/seo', language);
+  const data = tinaData?.data?.services || seoFallback;
 
   return (
     <div className="min-h-screen bg-white">

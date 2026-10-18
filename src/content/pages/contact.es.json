@@ -1,0 +1,222 @@
+{
+  "heroBadge": "Ponte en contacto",
+  "heroTitle": "Contáctanos",
+  "heroTitleHighlight": "A nosotros",
+  "heroSubtitle": "¿Tienes preguntas o necesitas ayuda? Nuestro equipo está aquí para ayudarte; contáctanos y te responderemos en breve.",
+  "contactCards": [
+    {
+      "icon": "Headset",
+      "title": "Soporte 24/7",
+      "lines": [
+        "+971 56 655 6645",
+        "setupzonedubai@gmail.com"
+      ],
+      "color": "from-rose-400 to-pink-600",
+      "actions": [
+        {
+          "label": "Llama ahora",
+          "link": "tel:+971566556645",
+          "icon": "Phone"
+        },
+        {
+          "label": "Correo electrónico",
+          "link": "mailto:setupzonedubai@gmail.com",
+          "icon": "Mail"
+        }
+      ]
+    },
+    {
+      "icon": "Building2",
+      "title": "Oficina principal – Dubái (sede central)",
+      "lines": [
+        "Oficina M08-27, planta M1, Torre Crystal",
+        "Business Bay, Dubái, Emiratos írabes Unidos — Apartado de correos 554552"
+      ],
+      "color": "from-amber-400 to-orange-600",
+      "actions": [
+        {
+          "label": "Llamar",
+          "link": "tel:+971566556645",
+          "icon": "Phone"
+        },
+        {
+          "label": "Instrucciones",
+          "link": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+          "icon": "MapPin"
+        }
+      ]
+    },
+    {
+      "icon": "Globe",
+      "title": "Horario laboral",
+      "lines": [
+        "De lunes a viernes: de 8:00 a 18:00.",
+        "Sábado: 10:00 - 17:00 • Domingo: Cerrado"
+      ],
+      "color": "from-emerald-400 to-teal-600",
+      "actions": [
+        {
+          "label": "WhatsApp",
+          "link": "whatsapp",
+          "icon": "MessageCircle"
+        },
+        {
+          "label": "Correo electrónico",
+          "link": "mailto:setupzonedubai@gmail.com",
+          "icon": "Mail"
+        }
+      ]
+    }
+  ],
+  "trustBar": {
+    "ratingText": "Calificación: 4,5 sobre 5",
+    "scoreLabel": "Puntuación de confianza: 4,5",
+    "awardText": "Los mejores expertos cualificados en la creación de empresas."
+  },
+  "formSection": {
+    "badge": "¿Tienes alguna pregunta?",
+    "title": "Comencemos la conversación.",
+    "titleHighlight": "Conversación",
+    "subtitle": "Desde empresas emergentes hasta grandes corporaciones, las empresas de Dubái confían en la innovación para impulsar su éxito.",
+    "submitButton": "Enviar mensaje",
+    "secureNote": "Su información está segura y protegida.",
+    "successTitle": "¡Gracias!",
+    "successText": "Hemos recibido su mensaje. Nuestro equipo se pondrá en contacto con usted en breve.",
+    "successWhatsappText": "Chatea en WhatsApp",
+    "successWhatsappMessage": "¡Hola! Acabo de enviar el formulario de contacto.",
+    "subjects": [
+      "Configuración de zona franca",
+      "Configuración continental",
+      "Servicios de visado",
+      "Cuenta bancaria",
+      "Visa Dorada",
+      "Servicios PRO",
+      "Consulta general"
+    ]
+  },
+  "sidebar": {
+    "instantCard": {
+      "availableBadge": "Disponible las 24 horas, los 7 días de la semana.",
+      "title": "Ponte en contacto al instante",
+      "text": "Comunícate con nuestros expertos por teléfono o WhatsApp.",
+      "callLabel": "Llámenos",
+      "callNumber": "+971 56 655 6645",
+      "callHref": "tel:+971566556645",
+      "whatsappLabel": "WhatsApp",
+      "whatsappValue": "Respuesta instantánea",
+      "whatsappMessage": "¡Hola! Me gustaría hablar sobre cómo establecer un negocio en los Emiratos írabes Unidos."
+    },
+    "officeCard": {
+      "title": "Visite nuestra oficina",
+      "officeLabel": "Dubái — Sede central",
+      "addressLine1": "Oficina M08-27, planta M1, Torre Crystal",
+      "addressLine2": "Business Bay, Dubái, Emiratos írabes Unidos — Apartado postal: 554552",
+      "phone": "+971 56 655 6645",
+      "phoneHref": "tel:+971566556645",
+      "directionsHref": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "emailLabel": "Envíanos un correo electrónico",
+      "email1": "setupzonedubai@gmail.com",
+      "email1Href": "Correo electrónico: setupzonedubai@gmail.com",
+      "email2": "setupzonedubai@gmail.com",
+      "email2Href": "Correo electrónico: setupzonedubai@gmail.com",
+      "hoursLabel": "Horario laboral",
+      "hours": [
+        {
+          "day": "De lunes a viernes",
+          "time": "8:00 - 18:00"
+        },
+        {
+          "day": "Sábado",
+          "time": "10:00 - 17:00"
+        },
+        {
+          "day": "Domingo",
+          "time": "Cerrado",
+          "closed": true
+        }
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "Respuestas rápidas",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber antes de iniciar tu negocio en los Emiratos írabes Unidos. ¿Tienes alguna pregunta? Contáctanos.",
+    "relatedServicesTitle": "Servicios y guías relacionados",
+    "items": [
+      {
+        "q": "¿Cuánto cuesta iniciar un negocio en Dubái?",
+        "a": "Establecer un negocio en Dubái tiene un costo inicial de 9500 AED para una licencia básica de zona franca. En el territorio continental de Estados Unidos, el costo inicial es de 14 500 AED."
+      },
+      {
+        "q": "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+        "a": "Sí, los extranjeros pueden ser propietarios al 100% de las empresas en la mayoría de las zonas francas y en muchas actividades en China continental."
+      },
+      {
+        "q": "¿Cuál es la zona franca más barata de Dubái?",
+        "a": "RAK ICC, Ajman FTZ y SRTIP ofrecen los paquetes más económicos a partir de 5.900 AED."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda el proceso de registro de una empresa en Dubái?",
+        "a": "El registro en la zona franca tarda de 3 a 7 días hábiles. En el territorio continental, de 2 a 4 semanas."
+      },
+      {
+        "q": "¿Necesito un socio local en Dubái?",
+        "a": "No en las zonas francas. En China continental, muchas actividades ahora permiten la propiedad extranjera al 100%."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "FileText",
+        "title": "Lista de verificación para el registro de empresas en Dubái",
+        "desc": "Guía en PDF descargable gratuitamente",
+        "color": "from-sky-400 to-blue-600",
+        "cta": "Descarga gratuita",
+        "link": "#"
+      },
+      {
+        "icon": "Gift",
+        "title": "Programa de recomendación: gana 500 AED.",
+        "desc": "Recomienda a un amigo y obtén una recompensa.",
+        "color": "from-amber-400 to-orange-600",
+        "cta": "Más información",
+        "link": "/referral"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "¡Comencemos!",
+    "title": "Comencemos con nosotros",
+    "titleHighlight": "A nosotros",
+    "subtitle": "Para obtener más información y contactar con nuestro equipo de soporte, una sola llamada será suficiente.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "¡Hola! Me gustaría una consulta gratuita.",
+    "chips": [
+      "Más de 10.000 empresas",
+      "Más de 15 años",
+      "Propiedad al 100%"
+    ],
+    "cards": {
+      "call": {
+        "label": "Llámenos directamente",
+        "value": "+971 56 655 6645",
+        "note": "● Lunes a sábado: 9:00 a 18:00",
+        "href": "tel:+971566556645"
+      },
+      "email": {
+        "label": "Envíanos un correo electrónico",
+        "value": "setupzonedubai@gmail.com",
+        "note": "● Responder en 24 horas",
+        "href": "mailto:setupzonedubai@gmail.com"
+      },
+      "office": {
+        "label": "Visite nuestra oficina",
+        "line1": "Oficina M08-27, planta M1, Torre Crystal",
+        "line2": "Business Bay, Dubái, Emiratos írabes Unidos — Apartado postal: 554552"
+      }
+    }
+  },
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+}

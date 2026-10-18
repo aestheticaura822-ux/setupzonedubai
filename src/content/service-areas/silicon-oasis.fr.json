@@ -1,0 +1,287 @@
+{
+  "areaName": "Oasis de la Silicon Valley de Dubaï",
+  "areaShort": "Oasis de silicium",
+  "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80",
+  "heroBadge": "Aire de service",
+  "heroTitle": "Création d'entreprise dans la Silicon Oasis de Dubaï",
+  "heroTitleHighlight": "Oasis de la Silicon Valley de Dubaï",
+  "heroSubtitle": "Dubai Silicon Oasis (DSO) est la zone franche de Dubaï dédiée aux technologies, créée et gérée par la Dubai Integrated Economic Zones Authority (DIEZ). Elle est conçue pour les entreprises des secteurs de l'électronique, des technologies de l'information, des logiciels, du commerce électronique, de l'intelligence artificielle et de l'industrie, au sein d'un parc technologique autonome de 7 kilomètres carrés.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Plus de 400",
+      "label": "Création d'entreprises",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Possession",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "9 000 AED",
+      "label": "À partir de",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "Pourquoi s'installer dans la Silicon Oasis ?",
+    "title": "Parc technologique de Dubaï",
+    "titleHighlight": "Parc technologique",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+    "imageBadgeTitle": "Emplacement",
+    "imageBadgeText": "Silicon Oasis, Dubaï",
+    "paragraph": "Dubai Silicon Oasis est un parc technologique autonome où bureaux, entrepôts et villas résidentielles se côtoient.",
+    "items": [
+      {
+        "icon": "Cpu",
+        "title": "Convivial pour les technologies et la fabrication",
+        "desc": "Autorisations pour les logiciels, l'électronique, l'entreposage et la R&D"
+      },
+      {
+        "icon": "Building2",
+        "title": "Autorité appartenant au gouvernement",
+        "desc": "DSOA/DIEZ délivre la licence directement — de manière numérique et transparente"
+      },
+      {
+        "icon": "Users",
+        "title": "Communauté intégrée",
+        "desc": "Bureaux, entrepôts et villas résidentielles dans un seul parc"
+      },
+      {
+        "icon": "Globe",
+        "title": "Propriété étrangère à 100 %",
+        "desc": "Impôt sur le revenu à 0 % — avantages standard des zones franches"
+      }
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "Types de licences",
+    "title": "Types de licences DSO",
+    "titleHighlight": "Types de licences",
+    "subtitle": "Choisissez la licence adaptée à votre activité.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "name": "Commerce",
+        "desc": "Électronique, matériel informatique, commerce général",
+        "cost": "à partir de 9 000 AED",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Briefcase",
+        "name": "Service / Conseil",
+        "desc": "Logiciels, services numériques, conseil, marketing",
+        "cost": "à partir de 9 000 AED",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "name": "Industrie / Fabrication",
+        "desc": "Assemblage, production, entreposage",
+        "cost": "à partir de 12 000 AED",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "name": "commerce électronique",
+        "desc": "Vente au détail en ligne avec option d'entreposage",
+        "cost": "à partir de 10 000 AED",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "officeOptionsSection": {
+    "badge": "Options de bureau",
+    "title": "Options Office dans DSO",
+    "titleHighlight": "DSO",
+    "subtitle": "Bureaux flexibles, bureaux dédiés, bureaux privés et unités équipées.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "Bureaux flexibles",
+        "desc": "solution d'espace de travail flexible"
+      },
+      {
+        "icon": "Building2",
+        "title": "Bureaux dédiés",
+        "desc": "Votre propre espace de travail dédié"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Bureaux privés",
+        "desc": "espaces de bureaux privés"
+      },
+      {
+        "icon": "Server",
+        "title": "Unités entretenues",
+        "desc": "Unités entièrement entretenues"
+      },
+      {
+        "icon": "Factory",
+        "title": "Espace d'entrepôt",
+        "desc": "Pour les licences industrielles"
+      },
+      {
+        "icon": "HardDrive",
+        "title": "Espace de fabrication",
+        "desc": "À l'intérieur du parc"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "Comparaison",
+    "title": "Zones franches DSO ou autres zones franches : comment choisir ?",
+    "titleHighlight": "Comment choisir",
+    "items": [
+      {
+        "name": "DSO",
+        "desc": "Choisissez l'option qui correspond à vos besoins : technologies, commerce électronique avec entreposage ou production légère.",
+        "color": "from-cyan-400 to-sky-600",
+        "highlight": true
+      },
+      {
+        "name": "DMCC (JLT)",
+        "desc": "Choix pour le négoce de matières premières et les infrastructures du commerce international",
+        "color": "from-sky-400 to-blue-600",
+        "highlight": false
+      },
+      {
+        "name": "IFZA",
+        "desc": "Choisissez la solution de consultant/freelance la moins chère avec une adresse à Dubaï.",
+        "color": "from-blue-400 to-indigo-600",
+        "highlight": false
+      },
+      {
+        "name": "continent",
+        "desc": "Choisissez si vous devez commercer avec le gouvernement des Émirats arabes unis ou ouvrir un magasin de détail.",
+        "color": "from-indigo-400 to-violet-600",
+        "highlight": false
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Processus",
+    "title": "Processus de configuration dans DSO",
+    "titleHighlight": "DSO",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Confirmer le code d'activité",
+        "desc": "Vérifier la conformité de la juridiction (zone franche vs territoire continental)",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "num": "02",
+        "title": "Nom commercial réservé",
+        "desc": "Avec l'autorisation DSOA",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "num": "03",
+        "title": "Préparer les documents",
+        "desc": "Copies de passeport et documents commerciaux",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "num": "04",
+        "title": "Soumettre une candidature",
+        "desc": "L'approbation prend généralement de 3 à 7 jours ouvrables.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "num": "05",
+        "title": "Obtenir une licence",
+        "desc": "Demander un visa et ouvrir un compte bancaire",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "FAQ sur la région",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "q": "Dubai Silicon Oasis fait-elle partie du gouvernement de Dubaï ?",
+        "a": "Elle est gérée par la Dubai Integrated Economic Zones Authority (DIEZ), une entité gouvernementale de Dubaï ; la licence est donc délivrée directement par une autorité officielle."
+      },
+      {
+        "q": "Puis-je vivre et travailler à DSO ?",
+        "a": "Oui – DSO inclut des complexes résidentiels, vous pouvez donc louer un logement à proximité de votre bureau."
+      },
+      {
+        "q": "Une licence DSO autorise-t-elle l'importation et l'exportation ?",
+        "a": "Oui – les licences commerciales incluent les activités d'import/export des marchandises listées sur votre licence."
+      },
+      {
+        "q": "Quel est le coût minimum pour débuter dans le DSO ?",
+        "a": "Une licence de services ou de commerce coûte à partir d'environ 9 000 AED, les services de visa et de PRO étant facturés séparément."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Réponses rapides",
+    "title": "Réponses rapides",
+    "titleHighlight": "Réponses",
+    "subtitle": "Questions fréquentes sur la création d'entreprise à Dubaï. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "relatedServicesTitle": "Services et guides associés",
+    "items": [
+      {
+        "q": "Combien coûte la création d'une entreprise à Dubaï ?",
+        "a": "Créer une entreprise à Dubaï coûte à partir de 9 500 AED pour une licence de base en zone franche. Sur le continent, les frais débutent à 14 500 AED."
+      },
+      {
+        "q": "Un étranger peut-il posséder à 100 % une entreprise à Dubaï ?",
+        "a": "Oui, les étrangers peuvent posséder à 100 % des entreprises dans la plupart des zones franches et pour de nombreuses activités sur le continent."
+      },
+      {
+        "q": "Quelle est la zone franche la moins chère de Dubaï ?",
+        "a": "RAK ICC, Ajman FTZ et SRTIP proposent les forfaits les plus abordables à partir de 5 900 AED."
+      },
+      {
+        "q": "Combien de temps dure l'enregistrement d'une entreprise à Dubaï ?",
+        "a": "L'enregistrement en zone franche prend de 3 à 7 jours ouvrables. Sur le continent, cela prend de 2 à 4 semaines."
+      },
+      {
+        "q": "Ai-je besoin d'un partenaire local à Dubaï ?",
+        "a": "Pas dans les zones franches. Sur le territoire continental, de nombreuses activités autorisent désormais la détention à 100 % par des étrangers."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "Création d'entreprise à Al Barsha",
+        "desc": "Explorez les options d'installation à Al Barsha",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/al-barsha"
+      },
+      {
+        "icon": "FileText",
+        "title": "Création d'entreprise chez JVC",
+        "desc": "Explorez les options de configuration de JVC",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/jvc"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Prêt à commencer ?",
+    "title": "Prêt à lancer votre entreprise dans la Silicon Oasis ?",
+    "titleHighlight": "Oasis de silicium",
+    "subtitle": "Contactez dès aujourd'hui notre équipe d'experts en création d'entreprise pour une consultation gratuite. Nous vous aiderons à choisir la juridiction la plus adaptée à votre entreprise technologique ou industrielle.",
+    "primaryCta": "Contactez-nous dès maintenant",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Salut ! Je souhaite créer mon entreprise à Silicon Oasis."
+  }
+}

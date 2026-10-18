@@ -1,0 +1,239 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Unlock Full Residency Benefits",
+  "heroTitle": "UAE Residence Visa Services",
+  "heroTitleHighlight": "Visa Services",
+  "heroSubtitle": "Get your UAE residence visa sorted — with expert guidance on eligibility, documentation, medicals, Emirates ID, and family sponsorship. Fully compliant, rejection-free.",
+  "heroChips": ["5 Visa Types", "2-10 Years Validity", "Family Sponsorship", "Tax-Free"],
+
+  "stats": [
+    { "icon": "Clock", "value": "2-10", "label": "Years Validity", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Users", "value": "5", "label": "Visa Categories", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "Globe", "value": "180+", "label": "Nationalities Served", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Zap", "value": "Fast", "label": "Processing", "color": "from-sky-400 to-blue-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "Why It Matters",
+    "title": "What Is a UAE Residence Visa?",
+    "titleHighlight": "UAE Residence Visa?",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Legal Residency",
+    "imageBadgeText": "2-10 Years",
+    "paragraphs": [
+      "A UAE residence visa is a government document that permits foreign nationals to reside in the UAE for a valid duration between 2 and 10 years.",
+      "Unlike a tourist visa, a residence visa lets you legally live, work, own property, access public health, and sponsor dependents in Dubai and any emirate. It is a requirement for anyone wishing to reside long-term in the UAE — by business, employment, family, investment, or retirement.",
+      "At Setup Zone Dubai, we provide personalized, compliant, and time-efficient residence visa solutions to individuals, investors, families, and business owners."
+    ],
+    "highlights": ["Legal Long-Term Stay", "Work Rights", "Property Ownership", "Banking Access", "Family Sponsorship", "Healthcare Access"]
+  },
+
+  "benefitsSection": {
+    "badge": "Live Better with UAE Visa",
+    "title": "Benefits of a UAE Residence Visa",
+    "titleHighlight": "UAE Residence Visa",
+    "subtitle": "Nine powerful advantages of living, working, and thriving in the UAE.",
+    "items": [
+      { "icon": "Clock", "title": "Long-Term Residency", "description": "Enjoy 2 to 10 years of uninterrupted legal stay in Dubai or other Emirates, renewable upon expiration.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "TrendingUp", "title": "Business & Investment Freedom", "description": "Start a business, own property, and invest in UAE — with full legal ownership and freedom to grow.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Users", "title": "Sponsor Your Family", "description": "Bring your spouse, children, parents, or domestic staff to the UAE with full sponsorship support.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Bank", "title": "Banking Access", "description": "Open UAE bank accounts, access credit facilities, and manage your finances with complete freedom.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Stethoscope", "title": "Healthcare & Education", "description": "Access world-class healthcare facilities and premium education for you and your family.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Plane", "title": "Visa-Free Travel Benefits", "description": "Easy travel in and out of the UAE with access to GCC countries and visa-free destinations worldwide.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Coins", "title": "Tax-Free Income", "description": "Enjoy 0% personal income tax — retain 100% of your earnings and maximize your wealth.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Car", "title": "Driver's License & SIM", "description": "Get your UAE driver's license, mobile SIM, and utility connections with your residence visa.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "IdCard", "title": "Emirates ID", "description": "Obtain your official Emirates ID — the key to all government and private services in the UAE.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "visaTypesSection": {
+    "badge": "Choose the Right Visa for You",
+    "title": "Types of UAE Residence Visas",
+    "titleHighlight": "UAE Residence Visas",
+    "subtitle": "Swipe through 6 categories — find the right one for your goals.",
+    "items": [
+      {
+        "id": "investor",
+        "icon": "TrendingUp",
+        "title": "Investor Visa",
+        "tagline": "Property or Business",
+        "description": "Ideal for those investing in UAE property (AED 750K–2M) or company shares. Provides 2–10 years residency, family sponsorship, and a path to permanent residency.",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": ["Property AED 750K–2M", "Company Shares", "2–10 Years Residency", "Family Sponsorship"],
+        "bestFor": "Investors"
+      },
+      {
+        "id": "freelancer",
+        "icon": "Laptop",
+        "title": "Freelancer / Remote Worker",
+        "tagline": "Digital Nomads",
+        "description": "Perfect for freelancers, remote workers, and digital nomads. Options include Free Zone freelance visa, residence permit, or the Virtual Work Program.",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": ["Free Zone Freelance Visa", "Virtual Work Program", "Portfolio Validation", "Legal Work Rights"],
+        "bestFor": "Freelancers & Nomads"
+      },
+      {
+        "id": "employment",
+        "icon": "Briefcase",
+        "title": "Employment Visa",
+        "tagline": "Most Common",
+        "description": "The most common visa, sponsored by an employer, valid for 2 years (Mainland) or 3 years (Free Zone). Includes Emirates ID, bank account, insurance, and dependent sponsorship.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": ["Employer Sponsored", "2-3 Years Validity", "Emirates ID", "Insurance Included"],
+        "bestFor": "Employees"
+      },
+      {
+        "id": "family",
+        "icon": "HeartHandshake",
+        "title": "Family Visa",
+        "tagline": "Dependent Employment",
+        "description": "Lets employment or investor visa holders sponsor their spouse, children, parents, or domestic staff. Requires minimum salary, housing, and insurance.",
+        "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": ["Spouse Sponsorship", "Children & Parents", "Domestic Staff", "Full Family Support"],
+        "bestFor": "Families"
+      },
+      {
+        "id": "retiree",
+        "icon": "Home",
+        "title": "UAE Retiree Visa",
+        "tagline": "For Expats 55+",
+        "description": "Available for expats 55+. Valid for 5 years with renewal options. Requires property worth AED 1M, savings of AED 1M, or AED 20K monthly income. Covers dependents and healthcare.",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": ["Expats 55+", "5 Years Validity", "Property/Savings/Income", "Covers Dependents"],
+        "bestFor": "Retirees"
+      },
+      {
+        "id": "golden",
+        "icon": "Crown",
+        "title": "Golden Visa",
+        "tagline": "10-Year Residency",
+        "description": "The UAE's premium residency option for investors, entrepreneurs, scientists, academics, and talents. Offers 100% company ownership, long-term residency, family sponsorship, and multiple entries.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": ["10-Year Residency", "100% Company Ownership", "Family Sponsorship", "Multiple Entries"],
+        "bestFor": "High-Net-Worth & Talent"
+      }
+    ]
+  },
+
+  "whoNeedsSection": {
+    "badge": "Who Is This For?",
+    "title": "Who Needs a UAE Residence Visa?",
+    "titleHighlight": "UAE Residence Visa?",
+    "subtitle": "7 categories — whichever describes you, we have a solution.",
+    "items": [
+      { "icon": "TrendingUp", "label": "Investors", "desc": "Real estate, startups, or commercial ventures", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Briefcase", "label": "Expats", "desc": "Professionals relocating for work", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Laptop", "label": "Digital Nomads", "desc": "Freelancers working remotely from Dubai", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Building2", "label": "Business Owners", "desc": "Entrepreneurs establishing mainland or free zone companies", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Users2", "label": "Families", "desc": "Spouses, children, and elderly dependents", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Home", "label": "Retirees", "desc": "Individuals looking to live comfortably post-retirement", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Crown", "label": "Golden Visa Applicants", "desc": "High-net-worth individuals and talent-based applicants", "color": "from-violet-400 to-purple-600" }
+    ],
+    "ctaCard": {
+      "title": "Not Sure Which Visa?",
+      "text": "Talk to our experts — free assessment.",
+      "buttonText": "Ask Expert",
+      "whatsappMessage": "Hi! I need help choosing the right UAE Residence Visa."
+    }
+  },
+
+  "packageInclusionsSection": {
+    "badge": "What's Included",
+    "title": "Our Visa Package Includes",
+    "titleHighlight": "Package Includes",
+    "subtitle": "Complete end-to-end service covering the entire visa lifecycle.",
+    "items": [
+      { "icon": "Target", "title": "Eligibility Assessment", "description": "Complete assessment based on your background and category", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Building2", "title": "Business / Property Setup", "description": "Assistance to meet base requirements for your visa", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "FileText", "title": "Document Collection", "description": "Preparation and submission of all documentation", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "ScrollText", "title": "Trade License Issuance", "description": "For investor and freelancer visa categories", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Send", "title": "ICA / GDRFA Application", "description": "We handle the entire application process", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Stethoscope", "title": "Medical Examinations", "description": "Managing your medical tests required for visa purposes", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Fingerprint", "title": "Biometrics & Emirates ID", "description": "Biometric scanning and Emirates ID processing", "color": "from-violet-400 to-purple-600" },
+      { "icon": "HeartHandshake", "title": "Family Sponsorship", "description": "Assistance with dependent visa applications", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Bank", "title": "Business Bank Account", "description": "Setup assistance for business banking needs", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "RefreshCw", "title": "Renewal & Cancellation", "description": "Ongoing renewal, cancellation, and re-issue services", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Visa Services You Can Count On",
+    "title": "Why Choose Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "Six reasons clients trust us with their UAE residency.",
+    "items": [
+      { "icon": "DollarSign", "title": "100% Transparency", "description": "Clear pricing structures with no hidden costs. All fees disclosed upfront.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "UserCheck", "title": "Dedicated Visa Consultant", "description": "A dedicated expert and PRO liaison responsible for all government dealings.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Zap", "title": "Fast Processing", "description": "Priority government portals with fast processing times for applications and medicals.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Shield", "title": "GDRFA, ICA Compliant", "description": "Strictly compliant with all UAE visa, residency, and immigration regulations.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Globe", "title": "Multilingual Support", "description": "English, Arabic, Hindi, Urdu — our team speaks your language.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Layers", "title": "Visa, License & Banking", "description": "Everything you need in one place — no running from agency to agency.", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Your residency, in expert hands.",
+    "items": [
+      { "icon": "Users", "value": "10,000+", "label": "Visas Processed", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Globe", "value": "180+", "label": "Nationalities", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Visa Expert", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Zap", "value": "Fast", "label": "Processing", "color": "from-sky-400 to-blue-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Visa Partner", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about UAE Residence Visas. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our visa specialists.",
+      "whatsappMessage": "Hi! I have a question about UAE Residence Visa."
+    },
+    "items": [
+      { "q": "How long does a UAE Residence Visa last?", "a": "Duration depends on the type. Employment or family visas are typically 2-3 years. Investor or retirement visas are 5 or 10 years. Golden Visa is 10 years, renewable after that. We help you determine the right duration for your goals." },
+      { "q": "Does a UAE residence visa allow me to work in the UAE?", "a": "Yes. A residence visa allows you to legally live and work in the UAE. The type of work depends on your visa category (employment, investor, freelancer, etc.)." },
+      { "q": "What is the difference between a tourist visa and a residence visa?", "a": "A tourist visa allows short-term visits (typically 30-90 days) with no work rights. A residence visa allows long-term legal stay, work rights, banking, property ownership, family sponsorship, and healthcare access." },
+      { "q": "Can I sponsor my family members if I have a residence visa?", "a": "Yes. Employment and investor visa holders can sponsor spouse, children, and in some cases parents and domestic staff. We handle the entire family sponsorship process." },
+      { "q": "What are the salary requirements for sponsoring my family?", "a": "Requirements vary. Generally you need a minimum monthly salary (typically AED 4,000–5,000+) plus adequate housing and insurance. We assess your specific case and advise." },
+      { "q": "Is medical testing required for a residence visa in the UAE?", "a": "Yes. Medical fitness tests (blood test + chest X-ray) are mandatory for all residence visas. We coordinate the entire medical process for you." },
+      { "q": "Can freelancers or digital nomads apply for UAE residency?", "a": "Yes. Options include Free Zone freelance visa, freelance residence permit, or the Virtual Work Program. We help validate your portfolio and income proof." },
+      { "q": "What if I need to cancel or renew my visa?", "a": "We handle all renewals, cancellations, and re-issues end-to-end — ensuring your stay in the UAE remains legal and hassle-free." },
+      { "q": "Do I have to be physically in Dubai to apply?", "a": "Most steps can be initiated remotely, but medical tests and Emirates ID biometrics require you to be physically present. We coordinate everything so your visit is quick and efficient." },
+      { "q": "How can Setup Zone Dubai help me obtain my UAE residence visa?", "a": "We provide end-to-end visa services — eligibility assessment, documentation, application filing, medicals, Emirates ID, family sponsorship, and ongoing renewals. A dedicated consultant guides you throughout." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your UAE Residence Visa.",
+    "items": [
+      { "slug": "golden-visa-services", "title": "Golden Visa Services", "description": "10-year UAE residency for investors & talent.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "dependent-visa", "title": "UAE Dependent Residence Visa", "description": "Family sponsorship made easy.", "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Get Started Today",
+    "title": "Ready to Secure Your UAE Residence Visa?",
+    "titleHighlight": "UAE Residence Visa?",
+    "subtitle": "Contact us today and let our experts guide you with full legal transparency, fixed fees, and no hidden costs.",
+    "chips": ["Free Consultation", "Fixed Fees", "No Hidden Costs"],
+    "whatsappMessage": "Hi! I'd like a free consultation for UAE Residence Visa.",
+    "whatsappCardMessage": "Hi! I'd like to discuss UAE Residence Visa."
+  }
+}

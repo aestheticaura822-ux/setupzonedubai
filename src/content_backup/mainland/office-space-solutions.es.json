@@ -1,0 +1,506 @@
+{
+    "slug":  "office-space-solutions",
+    "hero":  {
+                 "badge":  "Espacios de oficina para todos",
+                 "title":  "Soluciones de espacios de oficina en los Emiratos Árabes Unidos, en Dubái.",
+                 "titleHighlight":  "Soluciones en Dubái",
+                 "subtitle":  "Espacios de oficina flexibles, de alta calidad y asequibles para todo tipo de empresas. Desde puestos de trabajo compartidos hasta sedes corporativas completas.",
+                 "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "Soluciones para espacios de oficina",
+                 "breadcrumbParent":  "Continente",
+                 "ctaPrimaryText":  "Obtén una consulta gratuita",
+                 "ctaPrimaryLink":  "#contacto",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "¡Hola! Estoy interesado en soluciones de espacios de oficina en Dubái.",
+                 "badges":  [
+                                "Más de 500 opciones",
+                                "Más de 8 ubicaciones",
+                                "Condiciones flexibles",
+                                "Cumplimiento total"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Edificio 2",
+                      "value":  "Más de 500",
+                      "label":  "Opciones de oficina",
+                      "color":  "de cian 400 a azul 600"
+                  },
+                  {
+                      "icon":  "Pin del mapa",
+                      "value":  "8+",
+                      "label":  "Ubicaciones privilegiadas",
+                      "color":  "de azul 400 a Á­ndigo 600"
+                  },
+                  {
+                      "icon":  "Usuarios",
+                      "value":  "Más de 10.000",
+                      "label":  "Empresas a las que prestamos servicio",
+                      "color":  "de Á­ndigo 400 a violeta 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "48 horas",
+                      "label":  "Tiempo promedio de configuraciÁ³n",
+                      "color":  "de violeta 400 a pÁºrpura 600"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "¿Por qué es esencial?",
+                  "title":  "¿Por qué es esencial un espacio de oficina para la puesta en marcha de un negocio?",
+                  "titleHighlight":  "¿Imprescindible para la puesta en marcha de un negocio?",
+                  "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "Establece presencia",
+                  "imageBadgeText":  "y credibilidad",
+                  "paragraph1":  "Los modernos centros de negocios de Dubái y los Emiratos Árabes Unidos se encuentran entre los más dinámicos del mundo. Más allá de las licencias y los visados, contar con un espacio de oficina profesional es fundamental para la presencia empresarial.",
+                  "paragraph2":  "Para la mayorÁ­a de las licencias comerciales y profesionales, es obligatorio por ley contar con una direcciÁ³n de oficina registrada, lo que refuerza la credibilidad de su empresa. Cuando clientes, inversores y autoridades analizan su negocio, una oficina adecuada demuestra estabilidad y profesionalismo.",
+                  "paragraph3":  "Ya se trate de un puesto de trabajo flexible, una oficina con servicios o una sede corporativa, la elecciÁ³n de la soluciÁ³n de oficina tiene una relaciÁ³n directa con su eficiencia, sus costes y su éxito a largo plazo.",
+                  "features":  [
+                                   "Requisito legal",
+                                   "Confianza del cliente",
+                                   "Confianza de los inversores",
+                                   "Imagen profesional",
+                                   "Eficiencia empresarial",
+                                   "OptimizaciÁ³n de costos"
+                               ]
+              },
+    "officeTypesSection":  {
+                               "badge":  "Varias opciones de oficina",
+                               "title":  "¿Qué tipos de espacios de oficina están disponibles?",
+                               "titleHighlight":  "Espacios de oficina",
+                               "subtitle":  "Descubre 6 soluciones de oficina de primera calidad, desde escritorios asequibles hasta oficinas corporativas completas.",
+                               "items":  [
+                                             {
+                                                 "id":  "flexible",
+                                                 "icon":  "Computadora portátil",
+                                                 "title":  "Escritorio flexible (Escritorio compartido)",
+                                                 "short":  "Espacio de trabajo compartido asequible",
+                                                 "description":  "Un escritorio flexible es la opciÁ³n de oficina más asequible en Dubái, ideal para startups, autÁ³nomos y emprendedores individuales. Ofrece un espacio de trabajo compartido, licencia comercial, direcciÁ³n comercial y acceso a recepciÁ³n, zonas comunes y salas de reuniones, sin los elevados costes de una oficina tradicional.",
+                                                 "image":  "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200\u0026q=80",
+                                                 "color":  "de cian 500 a azul 700",
+                                                 "features":  [
+                                                                  "EstaciÁ³n de trabajo compartida",
+                                                                  "Soporte para licencias comerciales",
+                                                                  "DirecciÁ³n comercial",
+                                                                  "Acceso a la sala de reuniones",
+                                                                  "Rentable"
+                                                              ],
+                                                 "price":  "Costo más bajo"
+                                             },
+                                             {
+                                                 "id":  "dedicado",
+                                                 "icon":  "SillÁ³n",
+                                                 "title":  "Escritorio dedicado",
+                                                 "short":  "Espacio de trabajo privado permanente",
+                                                 "description":  "Un escritorio fijo ofrece un espacio de trabajo privado y permanente en una oficina compartida, ideal para quienes buscan estabilidad y privacidad. A diferencia de los escritorios compartidos, es tu espacio personal para organizarlo a tu gusto. Incluye servicio de correo, servicios pÁºblicos y comodidades de oficina.",
+                                                 "image":  "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200\u0026q=80",
+                                                 "color":  "de azul 500 a Á­ndigo 700",
+                                                 "features":  [
+                                                                  "Escritorio permanente",
+                                                                  "GestiÁ³n de correo",
+                                                                  "Servicios incluidos",
+                                                                  "ConfiguraciÁ³n privada",
+                                                                  "Servicios de oficina"
+                                                              ],
+                                                 "price":  "Gran valor"
+                                             },
+                                             {
+                                                 "id":  "privado",
+                                                 "icon":  "Puerta abierta",
+                                                 "title":  "Oficinas privadas",
+                                                 "short":  "Completamente amueblado y cerrado",
+                                                 "description":  "Una oficina privada ofrece a las pymes y empresas en crecimiento un espacio totalmente cerrado y amueblado, con total privacidad y control. Ideal para la imagen de marca, reuniones con clientes y operaciones profesionales, con una direcciÁ³n prestigiosa en torres de negocios de primera categorÁ­a.",
+                                                 "image":  "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200\u0026q=80",
+                                                 "color":  "de Á­ndigo-500 a violeta-700",
+                                                 "features":  [
+                                                                  "Totalmente cerrado",
+                                                                  "Totalmente amueblado",
+                                                                  "Privacidad total",
+                                                                  "Libertad de marca",
+                                                                  "DirecciÁ³n de alto nivel"
+                                                              ],
+                                                 "price":  "Más populares"
+                                             },
+                                             {
+                                                 "id":  "revisado",
+                                                 "icon":  "Corona",
+                                                 "title":  "Oficinas con servicios",
+                                                 "short":  "Totalmente equipado y listo para usar.",
+                                                 "description":  "Las oficinas con servicios son espacios de trabajo totalmente equipados y listos para usar que cubren todas las necesidades de su negocio: desde recepciÁ³n e internet de alta velocidad hasta salas de reuniones, limpieza y servicios pÁºblicos. Ahorre tiempo y costes de instalaciÁ³n mientras se centra en el crecimiento.",
+                                                 "image":  "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200\u0026q=80",
+                                                 "color":  "de violeta 500 a pÁºrpura 700",
+                                                 "features":  [
+                                                                  "Servicios de recepciÁ³n",
+                                                                  "Internet de alta velocidad",
+                                                                  "Salas de reuniones",
+                                                                  "Limpieza y servicios pÁºblicos",
+                                                                  "Conectar y usar"
+                                                              ],
+                                                 "price":  "De primera calidad"
+                                             },
+                                             {
+                                                 "id":  "espacio de coworking",
+                                                 "icon":  "UsuariosRound",
+                                                 "title":  "Espacios de coworking",
+                                                 "short":  "Espacio moderno colaborativo",
+                                                 "description":  "Los espacios de coworking son lugares modernos y dinámicos diseñados para la colaboraciÁ³n, el networking y la innovaciÁ³n. Ideales para autÁ³nomos, startups y emprendedores digitales, ofrecen membresÁ­as flexibles, infraestructura de calidad y un entorno creativo.",
+                                                 "image":  "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=1200\u0026q=80",
+                                                 "color":  "de morado 500 a fucsia 700",
+                                                 "features":  [
+                                                                  "MembresÁ­as flexibles",
+                                                                  "Acceso a la red",
+                                                                  "Entorno creativo",
+                                                                  "Infraestructura moderna",
+                                                                  "Eventos comunitarios"
+                                                              ],
+                                                 "price":  "Flexible"
+                                             },
+                                             {
+                                                 "id":  "comercial",
+                                                 "icon":  "Edificio 2",
+                                                 "title":  "Oficinas comerciales en alquiler",
+                                                 "short":  "Espacio en una ubicaciÁ³n privilegiada a largo plazo",
+                                                 "description":  "Las oficinas en alquiler comercial son ideales para empresas y multinacionales que buscan espacio a largo plazo en zonas privilegiadas como Business Bay, DIFC, Sheikh Zayed Road y JLT. Totalmente personalizables con opciones de marca y distribuciÁ³n.",
+                                                 "image":  "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200\u0026q=80",
+                                                 "color":  "de fucsia-500 a rosa-700",
+                                                 "features":  [
+                                                                  "Arrendamiento a largo plazo",
+                                                                  "PersonalizaciÁ³n completa",
+                                                                  "Ubicaciones privilegiadas",
+                                                                  "Libertad de marca",
+                                                                  "Sede regional lista"
+                                                              ],
+                                                 "price":  "Corporativo"
+                                             }
+                                         ]
+                           },
+    "benefits":  {
+                     "badge":  "La oficina adecuada impulsa el éxito",
+                     "title":  "Ventajas de tener una oficina en Dubái",
+                     "titleHighlight":  "Oficina en Dubái",
+                     "subtitle":  "Seis razones de peso para asegurar el espacio de oficina adecuado para su negocio.",
+                     "items":  [
+                                   {
+                                       "icon":  "Blindaje",
+                                       "title":  "Cumplimiento legal simplificado.",
+                                       "description":  "En Dubái, todas las licencias comerciales requieren una direcciÁ³n oficial registrada o Ejari. Contar con la oficina adecuada garantiza que su empresa cumpla con todas las normativas.",
+                                       "color":  "de cian 400 a azul 600"
+                                   },
+                                   {
+                                       "icon":  "Otorgar",
+                                       "title":  "Imagen de marca profesional y credibilidad",
+                                       "description":  "Una oficina visible en una ubicaciÁ³n prestigiosa genera confianza en los clientes y fortalece la imagen de su empresa en mercados competitivos.",
+                                       "color":  "de azul 400 a Á­ndigo 600"
+                                   },
+                                   {
+                                       "icon":  "Red",
+                                       "title":  "Fantástica oportunidad para establecer contactos.",
+                                       "description":  "Las oficinas compartidas, los espacios de coworking y los centros de negocios te conectan de forma natural con emprendedores y socios con ideas afines.",
+                                       "color":  "de Á­ndigo 400 a violeta 600"
+                                   },
+                                   {
+                                       "icon":  "Tendencia al alza",
+                                       "title":  "Escalabilidad para el crecimiento",
+                                       "description":  "Empiece con un escritorio flexible y, a medida que su negocio crezca, podrá actualizarlo fácilmente a oficinas privadas o comerciales.",
+                                       "color":  "de violeta 400 a pÁºrpura 600"
+                                   },
+                                   {
+                                       "icon":  "Borrar",
+                                       "title":  "Eficiencia operativa y ahorro de costes",
+                                       "description":  "Las oficinas con servicios incluidos le brindan infraestructura, recepciÁ³n y servicios pÁºblicos listos para usar, lo que le ahorra tiempo y costos.",
+                                       "color":  "de morado 400 a fucsia 600"
+                                   },
+                                   {
+                                       "icon":  "Pin del mapa",
+                                       "title":  "Ubicaciones estratégicas para negocios",
+                                       "description":  "Business Bay, Downtown, Dubai Marina, JLT y las Zonas Francas: sitÁºese en el centro de los florecientes sectores comerciales de los EAU.",
+                                       "color":  "de fucsia-400 a rosa-600"
+                                   }
+                               ]
+                 },
+    "simplifySection":  {
+                            "badge":  "CÁ³mo simplificamos",
+                            "title":  "¿CÁ³mo simplifica Setup Zone Dubai la configuraciÁ³n de la oficina?",
+                            "titleHighlight":  "¿Simplificar la configuraciÁ³n de la oficina?",
+                            "subtitle":  "Tres sencillos pasos para conseguir el espacio de oficina perfecto.",
+                            "steps":  [
+                                          {
+                                              "step":  "01",
+                                              "icon":  "ComprobaciÁ³n del portapapeles",
+                                              "title":  "Gestionar toda la documentaciÁ³n y el cumplimiento normativo.",
+                                              "description":  "Nos encargamos de todo el proceso: registro en Ejari, contratos de arrendamiento, aprobaciones de las autoridades y toda la documentaciÁ³n relacionada con su licencia.",
+                                              "color":  "de cian 400 a azul 600"
+                                          },
+                                          {
+                                              "step":  "02",
+                                              "icon":  "Capas",
+                                              "title":  "Ofrecemos soluciones de oficina flexibles y escalables.",
+                                              "description":  "Empiece con un escritorio flexible o un escritorio fijo, y luego pase a un espacio de oficina privado: una actualizaciÁ³n sin complicaciones a medida que su empresa crece.",
+                                              "color":  "de azul 400 a Á­ndigo 600"
+                                          },
+                                          {
+                                              "step":  "03",
+                                              "icon":  "Objetivo",
+                                              "title":  "Realizar una evaluaciÁ³n exhaustiva de las necesidades empresariales.",
+                                              "description":  "Dedicamos tiempo a comprender las actividades, el tamaño y las intenciones futuras de su empresa antes de recomendarle el tipo de oficina más adecuado.",
+                                              "color":  "de Á­ndigo 400 a violeta 600"
+                                          }
+                                      ]
+                        },
+    "locationsSection":  {
+                             "badge":  "Ubicaciones más solicitadas",
+                             "title":  "¿DÁ³nde se puede alquilar una oficina en Dubái y los Emiratos Árabes Unidos?",
+                             "titleHighlight":  "Alquila una oficina",
+                             "subtitle":  "Descubre nuestras 7 ubicaciones privilegiadas, cada una con ventajas Áºnicas.",
+                             "items":  [
+                                           {
+                                               "id":  "bahÁ­a de negocios",
+                                               "name":  "BahÁ­a de negocios",
+                                               "tagline":  "Distrito Central de Negocios de Dubái",
+                                               "description":  "Conocido por sus torres de oficinas ultramodernas y servicios de primer nivel. Cerca del DIFC y de las principales instituciones financieras. Ideal para todo tipo de empresas, desde startups hasta multinacionales.",
+                                               "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                               "color":  "de cian 500 a azul 700",
+                                               "icon":  "Edificio 2",
+                                               "features":  [
+                                                                "Centro de operaciones",
+                                                                "Torres emblemáticas",
+                                                                "Cerca del DIFC",
+                                                                "Servicios de primera calidad"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "centro",
+                                               "name":  "Centro de Dubái",
+                                               "tagline":  "Espacios exclusivos para eventos corporativos",
+                                               "description":  "Oficinas prestigiosas y de alta gama con vistas icÁ³nicas cerca del Burj Khalifa y el Dubai Mall. La direcciÁ³n ideal para empresas que buscan credibilidad, lujo y una presencia destacada.",
+                                               "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                                               "color":  "de azul 500 a Á­ndigo 700",
+                                               "icon":  "Corona",
+                                               "features":  [
+                                                                "Vistas del Burj Khalifa",
+                                                                "Oficinas de lujo",
+                                                                "Perfil alto",
+                                                                "Prime Address"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "jlt",
+                                               "name":  "Torres del Lago Jumeirah (JLT)",
+                                               "tagline":  "Oficinas asequibles y acceso al metro",
+                                               "description":  "La combinaciÁ³n perfecta de asequibilidad y comodidad: ideal para startups, pymes, autÁ³nomos y contratistas. Excelentes conexiones por carretera y metro, con una dinámica comunidad empresarial.",
+                                               "image":  "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200\u0026q=80",
+                                               "color":  "de Á­ndigo-500 a violeta-700",
+                                               "icon":  "Tendencia al alza",
+                                               "features":  [
+                                                                "Asequible",
+                                                                "Metro conectado",
+                                                                "Enfocado en las PYMES",
+                                                                "Comunidad vibrante"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "jeque zayed",
+                                               "name":  "Carretera Sheikh Zayed",
+                                               "tagline":  "Calle comercial emblemática",
+                                               "description":  "Uno de los distritos de negocios más prestigiosos de Dubái, conocido por sus emblemáticos rascacielos y su ubicaciÁ³n privilegiada. Ofrece gran visibilidad, fácil acceso y una sÁ³lida reputaciÁ³n.",
+                                               "image":  "https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1200\u0026q=80",
+                                               "color":  "de violeta 500 a pÁºrpura 700",
+                                               "icon":  "Edificio",
+                                               "features":  [
+                                                                "DirecciÁ³n emblemática",
+                                                                "Alta visibilidad",
+                                                                "Marcas globales",
+                                                                "UbicaciÁ³n privilegiada"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "puerto pequeño",
+                                               "name":  "Dubai Marina",
+                                               "tagline":  "Centro creativo frente al mar",
+                                               "description":  "Oficinas elegantes en un entorno dinámico frente al mar. Muy populares entre las industrias creativas, las startups tecnolÁ³gicas y los proveedores de servicios, con tiendas, restaurantes y viviendas de primer nivel en las cercanÁ­as.",
+                                               "image":  "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=1200\u0026q=80",
+                                               "color":  "de morado 500 a fucsia 700",
+                                               "icon":  "Paleta",
+                                               "features":  [
+                                                                "Frente marÁ­timo",
+                                                                "Centro creativo",
+                                                                "Empresas emergentes tecnolÁ³gicas",
+                                                                "Servicios y comodidades para un estilo de vida cÁ³modo"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "zonas francas",
+                                               "name":  "Zonas Francas de Dubái",
+                                               "tagline":  "Instalaciones de oficina vinculadas a licencias",
+                                               "description":  "DMCC, IFZA, DAFZA, RAKEZ, Meydan y Shams ofrecen espacios de oficina rentables con licencias comerciales, propiedad 100% extranjera, beneficios fiscales y ecosistemas industriales.",
+                                               "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200\u0026q=80",
+                                               "color":  "de fucsia-500 a rosa-700",
+                                               "icon":  "Fábrica",
+                                               "features":  [
+                                                                "Licencia comercial incluida",
+                                                                "Propiedad al 100%",
+                                                                "Beneficios fiscales",
+                                                                "Ecosistemas industriales"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "Abu Dabi y Sharjah",
+                                               "name":  "Abu Dabi y Sharjah",
+                                               "tagline":  "Operaciones regionales asequibles",
+                                               "description":  "Espacios de oficina econÁ³micos con infraestructura sÁ³lida y ubicaciones estratégicas cerca de centros comerciales, ideales para expandirse o establecer sucursales fuera de Dubái.",
+                                               "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                               "color":  "de rosa 500 a rosa 700",
+                                               "icon":  "Marca",
+                                               "features":  [
+                                                                "EconÁ³mico",
+                                                                "Acceso al centro comercial",
+                                                                "ConfiguraciÁ³n de la sucursal",
+                                                                "Operaciones regionales"
+                                                            ]
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSimple":  {
+                              "badge":  "Socio confiable para la instalaciÁ³n de oficinas",
+                              "title":  "¿Por qué elegir Setup Zone Dubai para su espacio de oficinas?",
+                              "titleHighlight":  "Zona de instalaciÁ³n en Dubái",
+                              "subtitle":  "Acceso directo para las partes interesadas, precios transparentes y soporte integral.",
+                              "footer":  "Ofrecemos nuestros servicios a emprendedores, inversores y empresas internacionales que buscan una soluciÁ³n práctica, asequible y profesional para el alquiler de oficinas en Dubái y los Emiratos Árabes Unidos.",
+                              "items":  [
+                                            {
+                                                "icon":  "Signo de dÁ³lar",
+                                                "label":  "Precios transparentes",
+                                                "desc":  "Sin cargos ocultos"
+                                            },
+                                            {
+                                                "icon":  "Usuarios",
+                                                "label":  "Acceso directo de las partes interesadas",
+                                                "desc":  "Zonas francas y centros de negocios"
+                                            },
+                                            {
+                                                "icon":  "Firma del archivo",
+                                                "label":  "RedacciÁ³n de contratos",
+                                                "desc":  "Todos los documentos legales"
+                                            },
+                                            {
+                                                "icon":  "ComprobaciÁ³n del portapapeles",
+                                                "label":  "Registro de Ejari",
+                                                "desc":  "Cumplimiento total"
+                                            },
+                                            {
+                                                "icon":  "ActualizarCw",
+                                                "label":  "Renovaciones y aprobaciones",
+                                                "desc":  "Apoyo continuo"
+                                            },
+                                            {
+                                                "icon":  "Tendencia al alza",
+                                                "label":  "Paquetes escalables",
+                                                "desc":  "Empieza poco a poco, crece mucho"
+                                            }
+                                        ]
+                          },
+    "faqs":  {
+                 "badge":  "Preguntas frecuentes",
+                 "title":  "Preguntas frecuentes",
+                 "titleHighlight":  "Preguntas",
+                 "subtitle":  "Todo lo que necesitas saber sobre Office Space Solutions. ¿AÁºn tienes preguntas? Contáctanos.",
+                 "items":  [
+                               {
+                                   "q":  "¿Qué tipo de espacios de oficina se ofrecen en Dubái y los Emiratos Árabes Unidos?",
+                                   "a":  "En funciÁ³n del tamaño de su empresa, su presupuesto y los requisitos de licencia, puede elegir entre puestos de trabajo flexibles, puestos de trabajo dedicados, oficinas privadas, oficinas con servicios, espacios de coworking o espacios de oficina comerciales arrendados a largo plazo."
+                               },
+                               {
+                                   "q":  "¿Necesito una oficina para obtener una licencia comercial en Dubái?",
+                                   "a":  "SÁ­. Todas las licencias comerciales en Dubái requieren una direcciÁ³n oficial registrada o Ejari. Las licencias de zona franca ofrecen la opciÁ³n de paquetes de escritorio flexible que proporcionan una direcciÁ³n comercial sin necesidad de una oficina fÁ­sica."
+                               },
+                               {
+                                   "q":  "¿Cuál es la diferencia entre un escritorio flexible y un escritorio fijo?",
+                                   "a":  "Un escritorio flexible (o de uso compartido) es un espacio de trabajo compartido que se utiliza segÁºn disponibilidad, ideal para trabajadores autÁ³nomos. Un escritorio dedicado es un escritorio fijo en una oficina compartida, que ofrece estabilidad y privacidad."
+                               },
+                               {
+                                   "q":  "¿Puedo mejorar mi espacio de oficina a medida que mi empresa crece?",
+                                   "a":  "Por supuesto. Ofrecemos soluciones escalables: comience con un escritorio flexible o una membresÁ­a de coworking, y luego actualice sin problemas a una oficina privada o un espacio comercial a medida que su negocio crezca."
+                               },
+                               {
+                                   "q":  "¿Los paquetes de oficina incluyen los servicios pÁºblicos e internet?",
+                                   "a":  "SÁ­. La mayorÁ­a de nuestros paquetes de oficinas con servicios y espacios de coworking incluyen servicios pÁºblicos, internet de alta velocidad, recepciÁ³n, limpieza y acceso a salas de reuniones, todo en una Áºnica cuota mensual."
+                               },
+                               {
+                                   "q":  "¿Qué ubicaciones son las más adecuadas para alquilar una oficina en Dubái?",
+                                   "a":  "Depende del tipo de negocio. Business Bay y DIFC para empresas, Downtown para empresas de prestigio, JLT para empresas más asequibles, Dubai Marina para empresas creativas/tecnolÁ³gicas y las Zonas Francas para empresas comerciales e internacionales."
+                               },
+                               {
+                                   "q":  "¿Cuánto cuesta el espacio de oficinas en Dubái?",
+                                   "a":  "Los precios varÁ­an desde escritorios flexibles asequibles (a partir de unos 5000 AED al año) hasta oficinas privadas de primera categorÁ­a y espacios comerciales. Te ofrecemos opciones que se ajustan a tu presupuesto."
+                               },
+                               {
+                                   "q":  "¿Puedo compartir oficinas con otra empresa?",
+                                   "a":  "SÁ­. Los espacios de coworking y las oficinas compartidas te permiten compartir áreas comunes con otras empresas, manteniendo al mismo tiempo tu propio espacio de trabajo y direcciÁ³n exclusivos."
+                               },
+                               {
+                                   "q":  "¿Cuánto tiempo se suele tardar en acondicionar un espacio de oficina en Dubái?",
+                                   "a":  "Normalmente, el plazo de entrega para escritorios flexibles y oficinas con servicios es de 2 a 5 dÁ­as laborables. Las oficinas comerciales en alquiler y las adaptaciones a medida pueden tardar más, dependiendo de los requisitos."
+                               },
+                               {
+                                   "q":  "¿Qué ventajas tiene utilizar Setup Zone Dubai para mis necesidades de espacio de oficina?",
+                                   "a":  "Ofrecemos precios transparentes, acceso directo a las partes interesadas, redacciÁ³n integral de contratos, registro en Ejari, renovaciones continuas y aprobaciones de las autoridades, asÁ­ como paquetes escalables adaptados a su negocio."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "badge":  "Servicios relacionados",
+                            "title":  "Servicios relacionados",
+                            "titleHighlight":  "Servicios",
+                            "subtitle":  "Servicios que se adaptan perfectamente a las necesidades de su espacio de oficina.",
+                            "items":  [
+                                          {
+                                              "slug":  "mainland-activities",
+                                              "title":  "Actividades en el continente",
+                                              "description":  "Más de 2000 actividades aprobadas por el Departamento de Desarrollo EconÁ³mico (DED) en Dubái y los Emiratos Árabes Unidos.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "de esmeralda 400 a verde azulado 600"
+                                          },
+                                          {
+                                              "slug":  "hiring-employee-management",
+                                              "title":  "ContrataciÁ³n de personal en los Emiratos Árabes Unidos",
+                                              "description":  "Soluciones de reclutamiento y gestiÁ³n de personal.",
+                                              "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80",
+                                              "gradient":  "de azul 400 a Á­ndigo 600"
+                                          },
+                                          {
+                                              "slug":  "mainland-visa",
+                                              "title":  "Servicios de visado para los Emiratos Árabes Unidos continentales",
+                                              "description":  "Visados de inversor, de trabajo y familiares.",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                                              "gradient":  "de cian 400 a cielo 600"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Encuentra tu oficina perfecta",
+                     "title":  "¿Listo para encontrar el espacio de oficina perfecto?",
+                     "titleHighlight":  "¿El espacio de oficina perfecto?",
+                     "subtitle":  "Tu negocio merece algo más que un escritorio: necesita un espacio que impulse el crecimiento, la credibilidad y el éxito.",
+                     "primaryCta":  "Contáctanos por WhatsApp",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "¡Hola! Me gustarÁ­a una consulta gratuita sobre espacios de oficina en Dubái.",
+                     "badges":  [
+                                    "Consulta gratuita",
+                                    "Más de 500 opciones",
+                                    "Cumplimiento total"
+                                ],
+                     "office":  {
+                                    "label":  "Visite nuestra oficina en Dubái.",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado postal: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Horario laboral",
+                                   "monFri":  "De 9:00 a 18:00.",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Cerrado"
+                               }
+                 }
+}

@@ -1,0 +1,427 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "掌控您的大陆实体",
+  "heroTitle": "迪拜当地企业赞助商",
+  "heroTitleHighlight": "迪拜赞助商",
+  "heroSubtitle": "通过值得信赖的企业担保人，确保您对您在大陆的业务拥有100%的控制权。通过法律代理人协议、授权委托书和全面的运营控制，您将拥有所有利润。",
+  "heroChips": [
+    "100% 控制",
+    "0% 利润分成",
+    "法律协议",
+    "固定费用"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "49/51",
+      "label": "法律分裂",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Users",
+      "value": "100%",
+      "label": "运行控制",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Bank",
+      "value": "0",
+      "label": "利润分享",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-4",
+      "label": "数周设置",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "了解设置",
+    "title": "什么是本地企业赞助商？",
+    "titleHighlight": "本地企业赞助商？",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "法律合伙人",
+    "imageBadgeText": "大陆设置",
+    "paragraphs": [
+      "在迪拜，本地企业赞助商是指一家阿联酋所有（100%阿联酋人拥有）的公司，持有阿联酋本土企业51%的股份，而外国投资者持有剩余的49%股份。这种安排适用于某些商业和工业活动。",
+      "与个人赞助不同，企业赞助方是一家注册公司，而非个人。这能够建立更专业的合作关系，签订具有法律约束力的合同，并通过代理人安排，使外国企业家能够对公司行使完全控制权。",
+      "通过结构化的代理股东协议和补充协议，您可以合法地对运营、财务和决策保持 100% 的控制权——在保护自身利益的同时，进入迪拜的本土经济。"
+    ],
+    "highlights": [
+      "公司实体",
+      "提名协议",
+      "授权书",
+      "附加协议",
+      "固定年费",
+      "合法合规"
+    ]
+  },
+  "whoNeedsSponsorSection": {
+    "badge": "大陆牌照所需",
+    "title": "谁需要本地企业赞助商？",
+    "titleHighlight": "本地企业赞助商？",
+    "subtitle": "并非所有企业都需要它。但如果你从事这些活动，你就需要它。",
+    "items": [
+      {
+        "icon": "Store",
+        "label": "一般贸易及零售",
+        "desc": "从事商品进口、出口或销售的企业"
+      },
+      {
+        "icon": "Building2",
+        "label": "建筑与承包",
+        "desc": "执行建筑和基础设施项目的公司"
+      },
+      {
+        "icon": "Home",
+        "label": "房地产及物业管理",
+        "desc": "经纪公司和物业管理公司"
+      },
+      {
+        "icon": "Truck",
+        "label": "汽车、运输和货运",
+        "desc": "维修、物流和配送服务"
+      },
+      {
+        "icon": "Factory",
+        "label": "制造业和工业",
+        "desc": "生产和工业企业"
+      }
+    ],
+    "ctaCard": {
+      "title": "不确定你是否需要？",
+      "text": "请咨询我们的专家——我们会在5分钟内告诉您答案。",
+      "buttonText": "专家解答",
+      "whatsappMessage": "您好！我想知道我的企业是否需要本地企业赞助商。"
+    }
+  },
+  "flipCardsSection": {
+    "badge": "合法保障您的所有权",
+    "title": "如何合法保护自己？",
+    "titleHighlight": "如何通过法律保护自己？",
+    "subtitle": "点击任意卡片即可翻转查看法律详情。",
+    "items": [
+      {
+        "id": 1,
+        "icon": "ContractIcon",
+        "frontTitle": "谅解备忘录起草",
+        "frontTag": "法律基础",
+        "backTitle": "章程细则",
+        "backDescription": "公司章程是记录贵公司组织结构、股权结构和合作伙伴关系的法律文件。我们根据阿联酋法律起草公司章程，同时通过内部协议保障您的运营权利。",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "id": 2,
+        "icon": "Handshake",
+        "frontTitle": "受益所有权",
+        "frontTag": "私人协议",
+        "backTitle": "受益所有权协议",
+        "backDescription": "与谅解备忘录一同签署的私人法律文件确认，您——外国投资者——是唯一的实际受益所有人。当地担保人仅是名义上的所有人，不享有利润、运营或决策权。",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "id": 3,
+        "icon": "Gavel",
+        "frontTitle": "商业授权委托书",
+        "frontTag": "全权",
+        "backTitle": "经公证的授权委托书",
+        "backDescription": "一份经公证的法律文件，赋予您对所有商业决策的完全控制权——包括银行账户、人员招聘和日常运营。日常业务无需担保人批准。",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "id": 4,
+        "icon": "Shield",
+        "frontTitle": "赞助商限制",
+        "frontTag": "沉默合伙人",
+        "backTitle": "赞助商限制协议",
+        "backDescription": "条款应以法律形式禁止担保人干预您的业务。明确要求担保人为隐名合伙人，不参与运营、财务或管理。",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "id": 5,
+        "icon": "Banknote",
+        "frontTitle": "固定利率协议",
+        "frontTag": "无收益分成",
+        "backTitle": "固定年度赞助费",
+        "backDescription": "您的企业赞助商将预先获得一笔固定的年度赞助费，无需参与利润或收益分成。完全透明——无任何隐藏费用，付款方式清晰明确，所有利润均归您所有。",
+        "color": "from-pink-500 to-fuchsia-700"
+      },
+      {
+        "id": 6,
+        "icon": "Scale",
+        "frontTitle": "法律合规",
+        "frontTag": "已完全公证",
+        "backTitle": "具有法律约束力的合同",
+        "backDescription": "所有文件均由律师起草并经公证，包括公司章程、补充协议、代理人合同和授权委托书。具有法律约束力的公司合同可为您提供长期的法律和财务保障。",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "controlSection": {
+    "badge": "我可以保留100%的控制权吗？",
+    "title": "是的——100% 运营控制权保证",
+    "titleHighlight": "100% 运营控制",
+    "subtitle": "通过我们的代理服务协议，您将保留对业务的100%运营、财务和管理控制权。我们的协议明确规定：",
+    "items": [
+      {
+        "icon": "EyeOff",
+        "label": "赞助商无权参与业务决策。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Banknote",
+        "label": "所有利润均由外国所有者保留",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Gavel",
+        "label": "授权委托书仍由您保管。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "固定年度赞助费——不参与收益分成",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ],
+    "footerText": "我们严格按照阿联酋法律标准起草这些协议，并由专业法律顾问审核。"
+  },
+  "exitOptionsSection": {
+    "badge": "灵活退出和转会",
+    "title": "想要退出或转让所有权？",
+    "titleHighlight": "退出还是转让所有权？",
+    "subtitle": "我们提供灵活的选择——平稳过渡，无风险、无纠纷。",
+    "items": [
+      {
+        "icon": "Banknote",
+        "label": "出售您的企业",
+        "desc": "顺利过户给新业主"
+      },
+      {
+        "icon": "UserPlus",
+        "label": "引入新合伙人",
+        "desc": "重组股权结构"
+      },
+      {
+        "icon": "Repeat",
+        "label": "转让赞助",
+        "desc": "更换赞助商"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "升级至100%所有权",
+        "desc": "法律变更时"
+      }
+    ],
+    "footerText": "我们的团队会顺利处理所有重组和文件工作，确保过程中不会出现任何风险或纠纷。"
+  },
+  "licensingSection": {
+    "badge": "许可和批准",
+    "title": "赞助商协助办理许可证和审批手续",
+    "titleHighlight": "许可和批准",
+    "subtitle": "更快捷的许可、续期和外部审批。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "迪拜经济发展局 (DED) 营业执照",
+        "description": "迪拜大陆地区主要的政府机构，负责颁发贸易许可证。业务范围包括活动审批、名称预留、续期以及商业法律合规。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Home",
+        "title": "市政和民防",
+        "description": "初步审批确认您的营业地点符合安全、分区、卫生和环境要求——包括消防安全检查。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "贸易许可证管理机构",
+        "description": "根据您选择的业务活动，您可能需要获得经济部、旅游部、卫生部或TRA的批准。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "行业监管机构",
+        "description": "获得 DHA、KHDA 或 SCA 的特别批准，适用于医疗保健、教育或金融企业——确保完全符合监管规定。",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "为什么选择 Trust Setup Zone Dubai 作为赞助平台？",
+    "titleHighlight": "迪拜安装区",
+    "subtitle": "我们不仅满足要求，更保障您的未来。",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "合法合规且安全",
+        "desc": "完全合规的企业赞助"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明的年度费用",
+        "desc": "无任何隐藏费用或佣金"
+      },
+      {
+        "icon": "Handshake",
+        "label": "具有约束力的代理人协议",
+        "desc": "你拥有全部控制权和利润。"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语和乌尔都语"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "端到端支持",
+        "desc": "法律、合规和文件"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "长期保护",
+        "desc": "面向未来的配置"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "完全控制与合规",
+    "titleHighlight": "控制与合规",
+    "subtitle": "您的企业——全面保护，完全合规，完全属于您。",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "100%",
+        "label": "控制",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Bank",
+        "value": "0",
+        "label": "利润分享",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Handshake",
+        "value": "合法的",
+        "label": "提名协议",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "固定的",
+        "label": "年费",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Scale",
+        "value": "阿联酋",
+        "label": "符合法律规定",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "值得信赖",
+        "label": "赞助合作伙伴",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于本地企业赞助，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的赞助专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜本地企业赞助商的问题。"
+    },
+    "items": [
+      {
+        "q": "所有想在迪拜开展业务的企业都必须有本地企业赞助商吗？",
+        "a": "不。只有在中国大陆开展的特定商业或工业活动才需要本地企业担保。自由区公司和专业服务公司仍享有100%外资所有权。"
+      },
+      {
+        "q": "如果我有一个本地企业赞助商，我还能合法地保留完全控制权吗？",
+        "a": "是的。通过结构化的代理人协议、授权委托书和补充协议，您可以合法、安全地保留对企业的 100% 运营、财务和管理控制权。"
+      },
+      {
+        "q": "个人赞助商和企业赞助商有什么区别？",
+        "a": "个人担保人是指个人。公司担保人是指阿联酋拥有的公司（100%阿联酋所有），提供更专业的法律结构、具有约束力的合同和代理人安排。"
+      },
+      {
+        "q": "什么是代理人协议？它的内容是什么？",
+        "a": "代理人协议是一份私人法律文件，确认您（外国投资者）是实际的唯一受益所有人。发起人仅持有名义上的股份，不享有任何利润、运营或决策权。"
+      },
+      {
+        "q": "将来我可以更换或终止赞助商吗？",
+        "a": "是的。我们提供灵活的退出和转让方案——出售您的企业、引入新的合伙人、转让赞助权，或者在法律变更时升级为100%所有权。"
+      },
+      {
+        "q": "赞助商会干预我的公司财务或客户吗？",
+        "a": "不。我们的赞助商限制协议明确禁止任何干预行为。赞助商是隐名合伙人，不参与运营、财务或管理。"
+      },
+      {
+        "q": "赞助商会开展任何行动吗？",
+        "a": "不。所有运营、决策和管理都100%由您（外国投资者）全权负责。发起人仅持有账面上的法律股份。"
+      },
+      {
+        "q": "如果我的企业赞助公司的所有权或管理层发生变更，会发生什么情况？",
+        "a": "我们的协议结构确保其不受赞助公司变更的影响，始终有效。我们会负责所有必要的更新，并保证您的控制权始终不受影响。"
+      },
+      {
+        "q": "拥有成熟的企业赞助商是否有助于获得审批？",
+        "a": "是的。我们现有的企业赞助商有助于加快DED许可证的发放、续期、市政审批、民防和行业监管审批。"
+      },
+      {
+        "q": "在迪拜办理营业执照需要多长时间？",
+        "a": "通常情况下，在中国大陆完成注册需要 2-4 周，包括企业担保安排。我们利用我们在新加坡经济发展局 (DED) 的人脉关系和法律团队，加快办理流程。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与本地企业赞助相得益彰的服务。",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸结构。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "mainland-company-formation",
+        "title": "大陆公司成立",
+        "description": "持有DED许可证，可完全进入阿联酋市场。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-business-partner",
+        "title": "阿联酋本地业务合作伙伴",
+        "description": "您在阿联酋开展业务值得信赖的合作伙伴。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "准备在内地开展业务？",
+    "title": "借助值得信赖的企业赞助商，保障您的未来",
+    "titleHighlight": "值得信赖的企业赞助商",
+    "subtitle": "无需失去对自身业务的控制权，即可轻松进入迪拜蓬勃发展的本土经济。100% 运营控制，不受任何干扰，合法安全的代理人担保。",
+    "chips": [
+      "免费咨询",
+      "100% 控制",
+      "固定费用"
+    ],
+    "whatsappMessage": "您好！我想咨询一下本地企业赞助的相关事宜，可以获得免费咨询。",
+    "whatsappCardMessage": "您好！我想讨论一下本地企业赞助商的问题。"
+  }
+}

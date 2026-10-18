@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import fccData from '../../content/freezones/fujairah-creative-city-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock,
@@ -29,7 +30,9 @@ const iconMap: any = {
 };
 
 export default function FujairahCreativeCity({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || fccData;
+  const { language } = useLanguage();
+  const fccFallback = loadContent('freezones/fujairah-creative-city-free-zone', language);
+  const data = tinaData?.data?.freeZones || fccFallback;
 
   return (
     <div className="min-h-screen bg-white">

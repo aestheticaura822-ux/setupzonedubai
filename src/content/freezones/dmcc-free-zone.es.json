@@ -1,0 +1,447 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&q=80",
+  "heroBadge": "Dubái va en serio.",
+  "heroTitle": "Zona Franca DMCC",
+  "heroTitleHighlight": "Zona Franca",
+  "heroSubtitle": "La zona franca número 1 del mundo. Lanza tu negocio en la zona franca insignia de Dubái, sede de más de 21 000 empresas de 180 países en los sectores de materias primas, criptomonedas, tecnología y finanzas.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "Impuesto cero",
+    "Aprobado por VARA"
+  ],
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "Más de 21.000",
+      "label": "Empresas miembro",
+      "color": "from-amber-400 to-yellow-500"
+    },
+    {
+      "icon": "Globe",
+      "value": "Más de 180",
+      "label": "Nacionalidades",
+      "color": "from-yellow-400 to-amber-600"
+    },
+    {
+      "icon": "Award",
+      "value": "#1",
+      "label": "Zona Franca del Año",
+      "color": "from-amber-500 to-orange-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Impuesto sobre la renta personal",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "whyDmccSection": {
+    "badge": "¿Por qué DMCC?",
+    "title": "¿Por qué elegir la Zona Franca de DMCC?",
+    "titleHighlight": "¿Zona franca de DMCC?",
+    "subtitle": "Zona Franca Global del Año — galardón que ha recibido en múltiples ocasiones.",
+    "cards": [
+      {
+        "icon": "Globe",
+        "title": "La zona franca número 1 del mundo",
+        "description": "Más de 20.000 empresas de 180 países pertenecientes a los sectores de criptomonedas, materias primas, tecnología, finanzas y medios de comunicación.",
+        "color": "from-amber-500 via-yellow-500 to-amber-600",
+        "size": "grande"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Excelente ubicación en JLT",
+        "description": "A pocos minutos de Dubai Marina, con oficinas de primera categoría.",
+        "color": "from-violet-400 to-purple-600",
+        "size": "pequeño"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Fuertes vínculos bancarios",
+        "description": "Aprobación de cuentas corporativas más sencilla con bancos de los EAU.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "pequeño"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Beneficios clave",
+    "title": "Beneficios para los dueños de negocios",
+    "titleHighlight": "Propietarios de negocios",
+    "subtitle": "Establecer su negocio en DMCC ofrece muchas ventajas sobre la competencia.",
+    "items": [
+      {
+        "icon": "Truck",
+        "title": "Facilitación simplificada del comercio",
+        "description": "Servicios de apoyo a la exportación e importación con logística de primer nivel e integración aduanera en el puerto de Jebel Ali y el aeropuerto DXB.",
+        "color": "from-amber-400 to-yellow-500",
+        "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200&q=80"
+      },
+      {
+        "icon": "Gem",
+        "title": "Zonas de productos básicos especializados",
+        "description": "Zonas dedicadas al comercio de té, café, oro y diamantes: un ecosistema único sin parangón en la región.",
+        "color": "from-yellow-400 to-amber-600",
+        "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1200&q=80"
+      },
+      {
+        "icon": "Monitor",
+        "title": "Herramientas de cumplimiento digital",
+        "description": "Envíos en línea, renovaciones y documentación digital completa: gestione todo desde su panel de control.",
+        "color": "from-amber-500 to-orange-600",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+      },
+      {
+        "icon": "Share2",
+        "title": "Creación de redes y búsqueda de pareja",
+        "description": "Amplia gama de eventos empresariales, foros y plataformas de contactos para ayudarte a crecer.",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Tipos de licencia",
+    "title": "Licencias adecuadas para su propósito",
+    "titleHighlight": "Licencias",
+    "subtitle": "Tanto si eres un autónomo como una multinacional, existe una licencia que se adapta a tus necesidades.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licencia comercial",
+        "description": "Diseñado para facilitar la compra, venta o distribución de mercancías.",
+        "code": "TRD",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licencia de servicio",
+        "description": "Para la prestación de servicios profesionales: legales, de consultoría o de TI.",
+        "code": "SRV",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Licencia industrial",
+        "description": "Para empresas que se dedican a la fabricación ligera o a la producción en serie.",
+        "code": "INDIANA",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Licencia de comercio electrónico",
+        "description": "Diseñado a medida para el comercio minorista en línea, el dropshipping o los modelos de negocio en línea.",
+        "code": "ECM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permiso de autónomo",
+        "description": "Permite a las personas operar legalmente y facturar a los clientes como contratistas independientes.",
+        "code": "FRL",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "registrationSection": {
+    "badge": "Proceso de registro",
+    "title": "Cómo registrarse en 6 pasos",
+    "titleHighlight": "6 pasos",
+    "subtitle": "Sencillo, online y rápido. Nosotros nos encargamos de todo.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Documentar la actividad comercial",
+        "description": "Seleccione su actividad comercial y proponga el nombre de su empresa para su aprobación.",
+        "icon": "FileText",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "step": "02",
+        "title": "Seleccione licencia y dirección",
+        "description": "Seleccione su tipo de licencia y la dirección de la oficina de JLT (escritorio flexible, ejecutivo o privado).",
+        "icon": "Building2",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "step": "03",
+        "title": "Cargar solicitud",
+        "description": "Envíe su solicitud y documentos de identificación a través del portal DMCC.",
+        "icon": "FileCheck",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "step": "04",
+        "title": "Aprobación preliminar",
+        "description": "Recibir la aprobación preliminar y pagar las tasas de licencia para continuar.",
+        "icon": "BadgeCheck",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "title": "Recoja su licencia",
+        "description": "Obtén tu licencia comercial de DMCC y comienza a operar legalmente.",
+        "icon": "Award",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "06",
+        "title": "Visados y cuentas bancarias",
+        "description": "Solicitar la tarjeta de establecimiento, visados de residencia y abrir una cuenta bancaria corporativa.",
+        "icon": "CreditCard",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "officeSection": {
+    "badge": "Opciones de oficina",
+    "title": "Espacios de trabajo en Jumeirah Lakes Towers",
+    "titleHighlight": "Torres Jumeirah Lakes",
+    "subtitle": "Tu espacio de trabajo refleja tu marca: elige entre las mejores opciones en la vibrante zona de JLT.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Escritorios flexibles",
+        "description": "Ideal para empresas emergentes y autónomos con necesidades de oficina limitadas.",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Oficinas ejecutivas",
+        "description": "Espacios totalmente equipados con servicios empresariales de primera calidad.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Oficinas privadas",
+        "description": "Espacios seguros y personalizables para equipos en crecimiento.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Oficinas virtuales",
+        "description": "Ideal para empresas que trabajan a distancia y necesitan tener presencia legal.",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "globalGrowthSection": {
+    "badge": "Crecimiento global",
+    "title": "Un trampolín para el crecimiento global.",
+    "titleHighlight": "Crecimiento global",
+    "subtitle": "DMCC es más que una zona franca comercial: es su plataforma de lanzamiento a los mercados internacionales.",
+    "items": [
+      {
+        "icon": "Truck",
+        "title": "Exportaciones y reexportaciones",
+        "description": "Facilitación del comercio mundial a través del puerto de Jebel Ali y el aeropuerto DXB."
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Comercio electrónico transfronterizo",
+        "description": "Infraestructura logística y de pagos para el comercio minorista online global."
+      },
+      {
+        "icon": "Blocks",
+        "title": "Criptomonedas y Blockchain",
+        "description": "Actividades relacionadas con activos digitales aprobadas por VARA dentro de un marco que cumpla con la normativa."
+      },
+      {
+        "icon": "Gem",
+        "title": "Comercio de oro y diamantes",
+        "description": "Un ecosistema de productos básicos especializados sin parangón en la región."
+      },
+      {
+        "icon": "Landmark",
+        "title": "Servicios financieros",
+        "description": "Empresas de tecnología financiera y asesoría financiera con respaldo regulatorio."
+      },
+      {
+        "icon": "Cpu",
+        "title": "Inteligencia Artificial y Tecnología",
+        "description": "Infraestructura preparada para el futuro para la IA y las tecnologías emergentes."
+      }
+    ]
+  },
+  "postSetupSection": {
+    "badge": "Soporte posterior a la configuración",
+    "title": "Vamos más allá de la formación",
+    "titleHighlight": "Más allá de la formación",
+    "subtitle": "La constitución de la empresa es solo el principio. Ofrecemos una gama completa de servicios digitales y operativos para ayudarte a crecer.",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "Diseño de marca y logotipo",
+        "description": "Identidad corporativa y activos de marca."
+      },
+      {
+        "icon": "MonitorPlay",
+        "title": "Desarrollo de sitios web",
+        "description": "Sitios web optimizados para SEO y estrategia de contenido."
+      },
+      {
+        "icon": "Layers",
+        "title": "Implementación de CRM y CMS",
+        "description": "Integración de operaciones y flujos de trabajo."
+      },
+      {
+        "icon": "Percent",
+        "title": "Registro del IVA",
+        "description": "Cumplimiento de la FTA y presentaciones periódicas."
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Configuración de redes sociales",
+        "description": "Perfiles, automatización y campañas."
+      },
+      {
+        "icon": "FileBadge",
+        "title": "Presentación para inversores",
+        "description": "Documentación para la recaudación de fondos."
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "Para quién es",
+    "title": "¿Qué empresas eligen DMCC?",
+    "titleHighlight": "¿DMCC?",
+    "items": [
+      {
+        "icon": "Gem",
+        "title": "Comercio de materias primas",
+        "description": "Oro, diamantes, té, café y metales preciosos.",
+        "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=800&q=80",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Blocks",
+        "title": "Criptografía y Web3",
+        "description": "Empresas de criptomonedas, intercambio y blockchain con licencia de VARA.",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Tecnología e IA",
+        "description": "Tecnología, inteligencia artificial y negocios digitales.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Banknote",
+        "title": "Servicios financieros",
+        "description": "Empresas de tecnología financiera, seguros y asesoría financiera.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Consultorías",
+        "description": "Empresas de consultoría profesional y de gestión.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Medios de comunicación y marketing",
+        "description": "Agencias de medios, marketing y creatividad.",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Zona Franca DMCC. ¿Aún tienes preguntas? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "¿Aún tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas de DMCC.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la Zona Franca DMCC."
+    },
+    "items": [
+      {
+        "q": "¿Qué es la Zona Franca DMCC y por qué es ideal para establecer un negocio en Dubái?",
+        "a": "DMCC, ubicada en JLT Dubai, es considerada la zona franca número uno del mundo. Cuenta con una comunidad dinámica en los sectores de materias primas, criptomonedas, consultoría, comercio y servicios profesionales, con un registro sencillo, excelentes marcos legales e infraestructura de primer nivel."
+      },
+      {
+        "q": "¿Qué tipos de licencias están disponibles en la Zona Franca de DMCC?",
+        "a": "Licencia comercial (compra/venta de bienes), Licencia de servicios (legales, consultoría, informática), Licencia industrial (fabricación ligera), Licencia de comercio electrónico (venta minorista en línea) y Permiso de autónomo (contratistas individuales)."
+      },
+      {
+        "q": "¿Cuánto tiempo se tarda en registrar una empresa en la Zona Franca de DMCC?",
+        "a": "El registro en DMCC suele tardar entre 5 y 7 días hábiles para una solicitud estándar."
+      },
+      {
+        "q": "¿Puedo obtener el 100% de propiedad extranjera para mi empresa DMCC?",
+        "a": "Sí. DMCC permite la propiedad extranjera al 100%, sin necesidad de patrocinador local."
+      },
+      {
+        "q": "¿Qué sectores industriales son los más adecuados para la Zona Franca de DMCC?",
+        "a": "Materias primas (oro, diamantes, té, café), criptomonedas y Web3, tecnología e inteligencia artificial, servicios financieros, medios de comunicación, consultoría y comercio electrónico."
+      },
+      {
+        "q": "¿Puedo abrir una cuenta bancaria después de obtener una licencia DMCC?",
+        "a": "Sí. DMCC mantiene sólidas relaciones bancarias que facilitan la apertura de cuentas corporativas para las empresas miembro."
+      },
+      {
+        "q": "¿Es la Zona Franca de DMCC adecuada para autónomos y pequeñas empresas emergentes?",
+        "a": "Sí. DMCC ofrece permisos para trabajadores autónomos y paquetes económicos que incluyen espacios de trabajo flexibles diseñados para particulares y pequeñas empresas."
+      },
+      {
+        "q": "¿Qué opciones de oficinas hay disponibles en la Zona Franca de DMCC?",
+        "a": "Escritorios flexibles, oficinas ejecutivas, oficinas privadas y oficinas virtuales, todo ello en la vibrante zona de JLT en Dubái."
+      },
+      {
+        "q": "¿Cuál es el coste mínimo para configurar una cuenta en DMCC?",
+        "a": "La creación de una empresa DMCC tiene un costo inicial de 33 000 AED al año, incluyendo membresía, licencia y espacio de trabajo flexible. Una empresa comercial completa con una visa cuesta aproximadamente entre 30 000 y 45 000 AED."
+      },
+      {
+        "q": "¿Puedo obtener una visa con una licencia DMCC?",
+        "a": "Sí. DMCC permite cupos de visas según el espacio de oficina. Un escritorio flexible te da derecho a 1 visa, mientras que las oficinas dedicadas permiten más (hasta 6)."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se adaptan perfectamente a la configuración de su Zona Franca.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos írabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Servicios de cumplimiento",
+        "description": "Asesoramiento en materia de UBO, ESR, AML e IVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa Dorada",
+        "description": "Residencia de 10 años en los Emiratos írabes Unidos para inversores y profesionales con talento.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Empieza hoy",
+    "title": "¿Listo para lanzar en DMCC?",
+    "titleHighlight": "¿DMCC?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuración, desde la selección de la actividad hasta la emisión de la licencia y la apertura de la cuenta bancaria.",
+    "chips": [
+      "Consulta gratuita",
+      "Más de 21.000 clientes",
+      "Instalación en 5-7 días"
+    ],
+    "whatsappMessage": "¡Hola! Me gustaría una consulta gratuita para la configuración de DMCC.",
+    "whatsappCardMessage": "¡Hola! Me gustaría hablar sobre la configuración de DMCC."
+  }
+}

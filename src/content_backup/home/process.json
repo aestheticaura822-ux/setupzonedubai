@@ -1,0 +1,83 @@
+{
+  "badge": "Our Process",
+  "heading": {
+    "line1": "From Idea to Launch in",
+    "highlight": "6 Simple Steps"
+  },
+  "subtitle": "We handle everything — from your first consultation to ongoing support. A proven, transparent process trusted by 500+ UAE businesses.",
+  "stepsLabel": "Step",
+  "stepsLabelSuffix": "of",
+  "steps": [
+    {
+      "number": "01",
+      "icon": "MessageCircle",
+      "title": "Free Consultation",
+      "description": "We understand your business goals, industry, and visa needs — and recommend the best Free Zone or Mainland setup.",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+    },
+    {
+      "number": "02",
+      "icon": "FileText",
+      "title": "Document Preparation",
+      "description": "Our team handles all paperwork — from license applications to MoA drafting and translation, tailored to UAE regulations.",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+    },
+    {
+      "number": "03",
+      "icon": "Building2",
+      "title": "Company Registration",
+      "description": "We register your company with the appropriate authority (Free Zone, Mainland, etc.) and obtain all required approvals.",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800&q=80"
+    },
+    {
+      "number": "04",
+      "icon": "UserCheck",
+      "title": "Visa & Emirates ID",
+      "description": "We apply for your residency visa, entry permit, medical test, Emirates ID, and employee visas if required.",
+      "gradient": "from-emerald-400 to-teal-600",
+      "glow": "rgba(16,185,129,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+    },
+    {
+      "number": "05",
+      "icon": "CreditCard",
+      "title": "Corporate Bank Account",
+      "description": "Get introduced to the right banking partners based on your business profile — with full guidance on documents.",
+      "gradient": "from-cyan-400 to-blue-600",
+      "glow": "rgba(34,211,238,0.5)",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+    },
+    {
+      "number": "06",
+      "icon": "Headphones",
+      "title": "Ongoing Support",
+      "description": "We continue to assist with PRO services, compliance, license renewals, and corporate advisory.",
+      "gradient": "from-pink-400 to-rose-600",
+      "glow": "rgba(236,72,153,0.5)",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80"
+    }
+  ],
+  "bottomCTA": {
+    "icon": "Rocket",
+    "title": "Ready to Launch Your Dubai Business?",
+    "subtitle": "Start with a free consultation. We'll guide you through every step of the process.",
+    "primaryCta": "Start Now",
+    "secondaryCta": "Call Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like to start my Dubai business setup. Can we schedule a free consultation?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "trustIndicators": [
+      "500+ Businesses Launched",
+      "3-5 Days Average Setup",
+      "Free Consultation",
+      "FTA Compliant"
+    ]
+  }
+}

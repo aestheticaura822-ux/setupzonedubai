@@ -1,0 +1,265 @@
+{
+  "heroBadge": "即时成本估算",
+  "heroTitle": "计算您的企业设立成本",
+  "heroTitleHighlight": "企业设立成本",
+  "heroSubtitle": "回答几个问题，即可获得为您量身定制的即时报价。",
+  "steps": [
+    {
+      "id": 1,
+      "label": "执照",
+      "icon": "FileText"
+    },
+    {
+      "id": 2,
+      "label": "活动",
+      "icon": "Briefcase"
+    },
+    {
+      "id": 3,
+      "label": "办公室",
+      "icon": "Building2"
+    },
+    {
+      "id": 4,
+      "label": "额外内容",
+      "icon": "Package"
+    },
+    {
+      "id": 5,
+      "label": "接触",
+      "icon": "Phone"
+    }
+  ],
+  "stepTitles": {
+    "license": {
+      "title": "选择您的许可证类型",
+      "subtitle": "选择最符合您业务需求的许可证"
+    },
+    "activity": {
+      "title": "选择您的业务活动",
+      "subtitle": "选择与您的业务相匹配的行业"
+    },
+    "office": {
+      "title": "选择您的办公空间",
+      "subtitle": "选择适合您操作的工作区选项。"
+    },
+    "extras": {
+      "title": "添加可选服务",
+      "subtitle": "选择附加服务升级您的套餐（多选）"
+    },
+    "contact": {
+      "title": "我们应该把报价单寄到哪里？",
+      "subtitle": "请输入您的详细信息以获取完整的费用明细。"
+    }
+  },
+  "licenseTypes": [
+    {
+      "id": "freezone",
+      "icon": "Globe",
+      "title": "自由区",
+      "desc": "100% 所有权，0% 税收",
+      "basePrice": 5999,
+      "badge": "受欢迎的"
+    },
+    {
+      "id": "mainland",
+      "icon": "Building2",
+      "title": "大陆",
+      "desc": "在阿联酋境内进行贸易，签证无限制",
+      "basePrice": 14999
+    },
+    {
+      "id": "offshore",
+      "icon": "Ship",
+      "title": "离岸",
+      "desc": "控股公司，资产保护",
+      "basePrice": 12000
+    },
+    {
+      "id": "freelance",
+      "icon": "Laptop",
+      "title": "自由职业者",
+      "desc": "独立职业人士、创意人士",
+      "basePrice": 7500
+    }
+  ],
+  "activities": [
+    {
+      "id": "trading",
+      "icon": "ShoppingCart",
+      "title": "一般贸易",
+      "desc": "进口、出口、批发",
+      "price": 0,
+      "color": "from-amber-500 to-orange-700"
+    },
+    {
+      "id": "ecommerce",
+      "icon": "Store",
+      "title": "电子商务",
+      "desc": "在线零售和市场",
+      "price": 0,
+      "color": "from-cyan-500 to-blue-700"
+    },
+    {
+      "id": "it",
+      "icon": "Laptop",
+      "title": "IT与软件",
+      "desc": "技术服务和软件即服务 (SaaS)",
+      "price": 450,
+      "color": "from-indigo-500 to-violet-700"
+    },
+    {
+      "id": "consulting",
+      "icon": "Briefcase",
+      "title": "咨询",
+      "desc": "商业与管理",
+      "price": 0,
+      "color": "from-emerald-500 to-teal-700"
+    },
+    {
+      "id": "media",
+      "icon": "Camera",
+      "title": "媒体与摄影",
+      "desc": "创意服务",
+      "price": 500,
+      "color": "from-pink-500 to-rose-700"
+    },
+    {
+      "id": "tourism",
+      "icon": "Globe",
+      "title": "旅游",
+      "desc": "旅游咨询",
+      "price": 8500,
+      "color": "from-sky-500 to-blue-700"
+    },
+    {
+      "id": "fitness",
+      "icon": "Heart",
+      "title": "健身与生活方式",
+      "desc": "健康与运动",
+      "price": 0,
+      "color": "from-rose-500 to-pink-700"
+    },
+    {
+      "id": "women",
+      "icon": "Sparkles",
+      "title": "女性创业",
+      "desc": "女性创始人特别礼包",
+      "price": 0,
+      "color": "from-fuchsia-500 to-purple-700"
+    }
+  ],
+  "officeOptions": [
+    {
+      "id": "flexi",
+      "icon": "Users",
+      "title": "灵活办公桌",
+      "desc": "共享工作空间",
+      "price": 0,
+      "badge": "包括"
+    },
+    {
+      "id": "dedicated",
+      "icon": "Laptop",
+      "title": "专用办公桌",
+      "desc": "你自己的办公桌",
+      "price": 3000
+    },
+    {
+      "id": "private",
+      "icon": "Building2",
+      "title": "私人办公室",
+      "desc": "1-3人办公室",
+      "price": 12000
+    },
+    {
+      "id": "virtual",
+      "icon": "Globe",
+      "title": "虚拟办公室",
+      "desc": "公司地址",
+      "price": 1500
+    }
+  ],
+  "extrasList": [
+    {
+      "id": "visa1",
+      "icon": "UserCheck",
+      "title": "1. 居留签证",
+      "desc": "投资者签证（需体检及阿联酋身份证）",
+      "price": 5000
+    },
+    {
+      "id": "visa2",
+      "icon": "Users",
+      "title": "第二签证",
+      "desc": "额外就业签证",
+      "price": 4500
+    },
+    {
+      "id": "banking",
+      "icon": "Wallet",
+      "title": "银行账户协助",
+      "desc": "优先企业银行",
+      "price": 0,
+      "badge": "自由的"
+    },
+    {
+      "id": "vat",
+      "icon": "FileText",
+      "title": "增值税咨询",
+      "desc": "完整的增值税设置和指导",
+      "price": 0,
+      "badge": "自由的"
+    },
+    {
+      "id": "pro",
+      "icon": "ShieldCheck",
+      "title": "专业服务（1年）",
+      "desc": "政府文件处理",
+      "price": 3500
+    },
+    {
+      "id": "accounting",
+      "icon": "DollarSign",
+      "title": "会计（1年）",
+      "desc": "簿记和报告",
+      "price": 4000
+    },
+    {
+      "id": "trademark",
+      "icon": "Award",
+      "title": "商标注册",
+      "desc": "保护您的品牌",
+      "price": 6500
+    },
+    {
+      "id": "golden",
+      "icon": "Crown",
+      "title": "金卡升级",
+      "desc": "10年阿联酋居留权",
+      "price": 15000
+    }
+  ],
+  "quickAnswers": [
+    {
+      "q": "在迪拜创业需要多少成本？",
+      "a": "在迪拜设立公司，基本自由区许可证的起价为 9,500 迪拉姆。在阿联酋大陆设立公司的起价为 14,500 迪拉姆。"
+    },
+    {
+      "q": "外国人可以在迪拜拥有100%的公司所有权吗？",
+      "a": "是的，外国人可以在大多数自由区和大陆的许多行业中拥有100%的公司所有权。"
+    },
+    {
+      "q": "迪拜最便宜的自由区是哪个？",
+      "a": "RAK ICC、Ajman FTZ 和 SRTIP 提供最实惠的套餐，起价为 5,900 迪拉姆。"
+    },
+    {
+      "q": "在迪拜注册公司需要多长时间？",
+      "a": "自由贸易区注册需要3-7个工作日，大陆地区注册需要2-4周。"
+    },
+    {
+      "q": "我需要在迪拜寻找当地合作伙伴吗？",
+      "a": "自由区除外。在中国大陆，许多行业现在允许外商100%控股。"
+    }
+  ]
+}

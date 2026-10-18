@@ -1,0 +1,138 @@
+{
+    "badge":  "Preguntas frecuentes",
+    "heading":  {
+                    "line1":  "Tener un",
+                    "highlight":  "¿Pregunta?"
+                },
+    "headingLine3":  "Tenemos las respuestas.",
+    "description":  "Todo lo que necesitas saber sobre la creaciÁ³n de empresas en los Emiratos Árabes Unidos, impuestos, visados y cumplimiento normativo. ¿No encuentras lo que buscas? Nuestros expertos están a tu disposiciÁ³n.",
+    "searchPlaceholder":  "Busca tu pregunta...",
+    "contactCard":  {
+                        "icon":  "bombilla",
+                        "title":  "¿AÁºn tienes preguntas?",
+                        "subtitle":  "Obtén una consulta gratuita con nuestros expertos en negocios de los EAU. Te responderemos en 24 horas.",
+                        "whatsappText":  "WhatsApp",
+                        "whatsappMessage":  "¡Hola! Tengo una pregunta sobre cÁ³mo establecer un negocio en los Emiratos Árabes Unidos.",
+                        "callText":  "Llámenos",
+                        "phone":  "+971 56 655 6645",
+                        "phoneHref":  "tel:+971566556645",
+                        "statsResponseLabel":  "Respuesta",
+                        "statsResponseValue":  "\u003c 24 h",
+                        "statsConsultLabel":  "Consulta",
+                        "statsConsultValue":  "100% gratis"
+                    },
+    "expandAllLabel":  "Expandir todo",
+    "collapseAllLabel":  "Contraer todo",
+    "questionSingular":  "Pregunta",
+    "questionPlural":  "Preguntas",
+    "noResultsTitle":  "No se encontraron resultados",
+    "noResultsSubtitle":  "Prueba con una bÁºsqueda diferente o explora las categorÁ­as.",
+    "resetFiltersText":  "Restablecer filtros",
+    "categories":  [
+                       {
+                           "id":  "todo",
+                           "name":  "Todas las preguntas",
+                           "icon":  "CÁ­rculo de ayuda",
+                           "count":  12
+                       },
+                       {
+                           "id":  "negocio",
+                           "name":  "CreaciÁ³n de empresas",
+                           "icon":  "Edificio 2",
+                           "count":  4
+                       },
+                       {
+                           "id":  "impuesto",
+                           "name":  "Impuestos e IVA",
+                           "icon":  "Recibo",
+                           "count":  3
+                       },
+                       {
+                           "id":  "visa",
+                           "name":  "Visados y residencia",
+                           "icon":  "Corona",
+                           "count":  3
+                       },
+                       {
+                           "id":  "bancario",
+                           "name":  "Bancario",
+                           "icon":  "Marca",
+                           "count":  1
+                       },
+                       {
+                           "id":  "cumplimiento",
+                           "name":  "Cumplimiento",
+                           "icon":  "ShieldCheck",
+                           "count":  1
+                       }
+                   ],
+    "faqs":  [
+                 {
+                     "category":  "negocio",
+                     "q":  "¿Cuánto tiempo se tarda en establecer un negocio en Dubái?",
+                     "a":  "La mayorÁ­a de las empresas se registran y comienzan a operar en un plazo de 3 a 5 dÁ­as hábiles en la Zona Franca y de 2 a 4 semanas en el territorio continental, segÁºn el tipo de licencia y las aprobaciones requeridas. Garantizamos un proceso de configuraciÁ³n ágil y eficiente, lo que le permitirá comenzar a operar rápidamente."
+                 },
+                 {
+                     "category":  "negocio",
+                     "q":  "¿Cuál es la diferencia entre una empresa en una zona franca y una empresa en el territorio continental de Estados Unidos?",
+                     "a":  "Las empresas de la Zona Franca ofrecen propiedad total, ventajas fiscales y son ideales para el comercio internacional y la consultorÁ­a. Las empresas del territorio continental pueden operar libremente en todo el mercado de los EAU, contratar personal sin restricciones y son la mejor opciÁ³n para el comercio minorista local, la construcciÁ³n, los restaurantes y las agencias."
+                 },
+                 {
+                     "category":  "negocio",
+                     "q":  "¿Necesito estar fÁ­sicamente presente en los Emiratos Árabes Unidos para fundar mi empresa?",
+                     "a":  "No. Puedes crear tu empresa de forma remota desde cualquier lugar del mundo. Nosotros nos encargamos de todo el proceso "”documentaciÁ³n, presentaciÁ³n y aprobaciones"” a través de nuestro flujo de trabajo digital."
+                 },
+                 {
+                     "category":  "negocio",
+                     "q":  "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+                     "a":  "SÁ­. Los extranjeros pueden ser propietarios al 100% de empresas en la mayorÁ­a de las zonas francas y en muchas actividades en el territorio continental de los EAU. La propiedad extranjera total permite más de 1000 actividades comerciales e industriales."
+                 },
+                 {
+                     "category":  "impuesto",
+                     "q":  "¿Es obligatorio el impuesto de sociedades para las empresas de los Emiratos Árabes Unidos?",
+                     "a":  "SÁ­. El impuesto de sociedades es obligatorio para las empresas de los EAU con beneficios netos anuales superiores a 375.000 AED. Todas las empresas que cumplan los requisitos deben registrarse en la FTA y presentar declaraciones anuales."
+                 },
+                 {
+                     "category":  "impuesto",
+                     "q":  "¿Cuándo debe una empresa registrarse para el IVA?",
+                     "a":  "El registro del IVA es obligatorio cuando las operaciones sujetas a impuestos superan los 375 000 AED anuales. El registro voluntario está disponible para operaciones superiores a 187 500 AED. El IVA se aplica al 5 % a la mayorÁ­a de los bienes y servicios."
+                 },
+                 {
+                     "category":  "impuesto",
+                     "q":  "¿Qué sanciones existen en Dubái por mala contabilidad?",
+                     "a":  "Las multas oscilan entre 1000 y más de 50 000 AED, segÁºn la gravedad. El incumplimiento reiterado puede conllevar la suspensiÁ³n de la licencia. Garantizamos el cumplimiento total para evitar sanciones."
+                 },
+                 {
+                     "category":  "visa",
+                     "q":  "¿Qué es la Visa Dorada de los EAU y cÁ³mo puedo obtenerla?",
+                     "a":  "La Visa Dorada es una residencia renovable de 10 años para inversionistas, emprendedores y talentos excepcionales. Para obtenerla, se requiere una inversiÁ³n inmobiliaria superior a 2 millones de AED, una inversiÁ³n empresarial o el reconocimiento de un talento especializado."
+                 },
+                 {
+                     "category":  "visa",
+                     "q":  "¿Puedo patrocinar a mis familiares con una Visa Dorada?",
+                     "a":  "SÁ­. Los titulares de la Visa Dorada pueden patrocinar a su cÁ³nyuge, hijos, padres y personal doméstico. Los familiares reciben los mismos beneficios de residencia a largo plazo."
+                 },
+                 {
+                     "category":  "visa",
+                     "q":  "¿Necesito un patrocinador local para solicitar un visado de residencia en los Emiratos Árabes Unidos?",
+                     "a":  "No. Los visados de residencia en los EAU no requieren un patrocinador local para los solicitantes de visados para zonas francas, territorio continental o visados dorados. Puede patrocinarse a sÁ­ mismo a través de su propia empresa."
+                 },
+                 {
+                     "category":  "bancario",
+                     "q":  "¿Cuánto tiempo se tarda en abrir una cuenta bancaria corporativa?",
+                     "a":  "Normalmente, el plazo es de 5 a 20 dÁ­as hábiles, dependiendo del banco, el perfil de la empresa y la nacionalidad del accionista. Los bancos digitales como WIO pueden abrir cuentas en 2 a 5 dÁ­as."
+                 },
+                 {
+                     "category":  "cumplimiento",
+                     "q":  "¿Qué es la declaraciÁ³n de UBO y es obligatoria?",
+                     "a":  "La declaraciÁ³n del beneficiario final (UBO, por sus siglas en inglés) es obligatoria para todas las empresas registradas en los EAU. Esta declaraciÁ³n revela quién controla o se beneficia en Áºltima instancia de la empresa. El incumplimiento conlleva multas de hasta 100 000 AED y la cancelaciÁ³n de la licencia."
+                 }
+             ],
+    "bottomCTA":  {
+                      "icon":  "CÁ­rculo de ayuda",
+                      "title":  "¿No encontraste tu respuesta?",
+                      "subtitle":  "Nuestros expertos están a un mensaje de distancia.",
+                      "buttonText":  "Consulta a un experto",
+                      "whatsappMessage":  "¡Hola! Tengo una pregunta que no está en vuestras preguntas frecuentes."
+                  }
+}

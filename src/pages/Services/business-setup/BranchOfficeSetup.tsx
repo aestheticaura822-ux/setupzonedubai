@@ -32,7 +32,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import branchData from '../../../content/business-setup/branch-office-setup.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   GitBranch, Globe, Zap, Building2, Award, Landmark, Users, RefreshCw,
   Target, FileCheck, ClipboardCheck, ScrollText, FileSignature, FileText,
@@ -42,7 +43,9 @@ const iconMap: any = {
 };
 
 export default function BranchOfficeSetup({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || branchData;
+  const { language } = useLanguage();
+  const branchOfficeFallback = loadContent('business-setup/branch-office-setup', language);
+  const data = tinaData?.data?.businessSetup || branchOfficeFallback;
   const [activeType, setActiveType] = useState(0);
 
   const nextType = () => setActiveType((prev) => (prev + 1) % data.branchTypes.length);

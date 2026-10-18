@@ -1,0 +1,493 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "10年高级居留权",
+  "heroTitle": "黄金签证服务",
+  "heroTitleHighlight": "服务",
+  "heroSubtitle": "为投资者、企业家、杰出人才、科学家和顶尖专业人士提供长达十年的阿联酋居留权。享有完全所有权、家庭担保和稳定保障。",
+  "heroChips": [
+    "10年有效期",
+    "家庭赞助",
+    "100% 所有权",
+    "可再生能源"
+  ],
+  "stats": [
+    {
+      "icon": "Calendar",
+      "value": "10",
+      "label": "有效期年限",
+      "color": "from-amber-400 to-yellow-600"
+    },
+    {
+      "icon": "Users",
+      "value": "家庭",
+      "label": "赞助",
+      "color": "from-yellow-400 to-lime-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "公司所有权",
+      "color": "from-lime-400 to-emerald-600"
+    },
+    {
+      "icon": "RefreshCw",
+      "value": "可再生能源",
+      "label": "长期",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "它是什么？",
+    "title": "什么是阿联酋黄金签证？",
+    "titleHighlight": "阿联酋黄金签证？",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "高级签证",
+    "imageBadgeText": "十年住院医师培训",
+    "paragraphs": [
+      "阿联酋黄金签证是一种可续签的长期居留签证，有效期为10年，面向投资者、企业家、专业人才、研究人员、优秀学生和专业人士。",
+      "为吸引全球人才和投资，该基金提供 100% 的企业所有权、家庭担保和无与伦比的稳定性——无需当地担保人或合作伙伴。",
+      "黄金签证持有者可以在阿联酋生活、工作和学习 10 年，并可担保家庭成员在相同时间内享有签证，同时可全面享受阿联酋的医疗保健、教育和商业机会。"
+    ],
+    "highlights": [
+      "十年住院医师培训",
+      "可再生无限期",
+      "家庭赞助",
+      "100% 所有权",
+      "多重录入",
+      "海外生活与回归"
+    ]
+  },
+  "categoriesSection": {
+    "badge": "资格类别",
+    "title": "哪些人符合黄金签证申请资格？",
+    "titleHighlight": "符合条件",
+    "subtitle": "六大高级类别——助您找到通往 10 年住院医师资格的道路。",
+    "items": [
+      {
+        "id": "investors",
+        "icon": "TrendingUp",
+        "title": "投资者",
+        "tagline": "房地产或商业投资",
+        "description": "投资者需在房地产、企业或投资基金领域至少投资200万迪拉姆。您将获得完全所有权，并享有长期稳定的收益，保障您和家人的生活。",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-700",
+        "features": [
+          "价值超过200万迪拉姆的房产",
+          "商业投资",
+          "投资基金",
+          "100% 所有权"
+        ],
+        "bestFor": "房地产和商业投资者"
+      },
+      {
+        "id": "entrepreneurs",
+        "icon": "Rocket",
+        "title": "企业家",
+        "tagline": "企业主和创始人",
+        "description": "适用于年收入达 100 万迪拉姆或以上的中小企业主，以及经认可的孵化器批准、项目价值至少为 50 万迪拉姆的创始人。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "中小企业营收超过100万迪拉姆",
+          "已批准的孵化器",
+          "项目价值超过 50 万迪拉姆",
+          "企业所有权"
+        ],
+        "bestFor": "企业主"
+      },
+      {
+        "id": "talents",
+        "icon": "Palette",
+        "title": "杰出人才",
+        "tagline": "创意与文化领袖",
+        "description": "表彰在文化、艺术、体育、媒体和创意产业领域表现卓越的人才，并获得阿联酋文化部门的认可。其中包括有影响力的人物、艺术家、演员和世界级运动员。",
+        "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "文化与艺术",
+          "体育成就",
+          "媒体与内容",
+          "创意产业"
+        ],
+        "bestFor": "艺术家与运动员"
+      },
+      {
+        "id": "scientists",
+        "icon": "Microscope",
+        "title": "科学家和研究人员",
+        "tagline": "学术卓越",
+        "description": "授予在各自领域取得杰出成就的科学家、研究人员和顶尖学者——由阿联酋科学家理事会认可。",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "顶级研究员",
+          "博士学位 + 出版物",
+          "理事会认可",
+          "学术卓越"
+        ],
+        "bestFor": "科学家和学者"
+      },
+      {
+        "id": "professionals",
+        "icon": "Stethoscope",
+        "title": "熟练的专业人员",
+        "tagline": "医生、工程师和高管",
+        "description": "面向医生、工程师、IT专家、高管等高技能专业人士，他们拥有卓越的经验和资质，月薪超过30,000迪拉姆。",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "医生和工程师",
+          "IT专家",
+          "高级管理人员",
+          "薪资3万迪拉姆以上"
+        ],
+        "bestFor": "顶尖专业人士"
+      },
+      {
+        "id": "students",
+        "icon": "GraduationCap",
+        "title": "优秀学生",
+        "tagline": "顶尖学术成就者",
+        "description": "对于来自阿联酋高中或大学、成绩优异且学业记录卓越的顶尖学生，将提供为期 10 年的黄金签证，帮助他们在阿联酋开创未来。",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-fuchsia-500 to-purple-700",
+        "features": [
+          "高中毕业生",
+          "大学荣誉",
+          "学业成就者",
+          "青年卓越"
+        ],
+        "bestFor": "优秀学生"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "为什么选择黄金签证",
+    "title": "阿联酋黄金签证的优势",
+    "titleHighlight": "阿联酋黄金签证",
+    "subtitle": "阿联酋高级居留计划的八大优势。",
+    "items": [
+      {
+        "icon": "Calendar",
+        "title": "十年住院医师培训",
+        "description": "为您和您的家人提供可续签的10年长期居留签证——无需频繁续签。",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Users",
+        "title": "家庭赞助",
+        "description": "在与您的黄金签证有效期相同的期限内，担保您的配偶、子女和受抚养父母。",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "100% 公司所有权",
+        "description": "完全拥有您在阿联酋的企业，无需当地担保人或阿联酋国民合作伙伴。",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "icon": "Home",
+        "title": "居住在阿联酋境外",
+        "description": "即使您在阿联酋境外停留很长时间，黄金签证仍然有效——这与普通签证不同。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "银行与金融自由",
+        "description": "使用您的黄金签证，即可轻松享受优质的银行、信贷和财富管理服务。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "入籍途径",
+        "description": "特殊情况下，可获得阿联酋公民身份的长期居留权——需经阿联酋当局批准。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "阿联酋全套福利",
+        "description": "享有医疗保健、教育、商业机会以及阿联酋政府提供的所有服务。",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "六步流程",
+    "title": "如何获得黄金签证",
+    "titleHighlight": "黄金签证",
+    "subtitle": "六个简单步骤即可获得阿联酋十年居留权。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "资格评估",
+        "description": "我们会根据黄金签证的标准评估您的个人资料，以确定最适合您的签证类别。",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "文件准备",
+        "description": "我们收集并准备所有必需的文件，包括投资证明、资质证明和推荐信。",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "申请提交",
+        "description": "您的申请将通过我们的优先政府网络提交给阿联酋相关部门。",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "审批与医疗",
+        "description": "一旦获得批准，我们将协调体检、生物识别和阿联酋身份证办理。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stamp",
+        "title": "签证盖章",
+        "description": "您的护照上已盖上10年黄金签证章——您现在正式成为黄金签证持有者。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "06",
+        "icon": "Users",
+        "title": "家庭赞助",
+        "description": "我们可为您担保的配偶、子女和受抚养人办理黄金签证。",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "你需要准备什么",
+    "title": "所需文件",
+    "titleHighlight": "文件",
+    "subtitle": "我们会代表您处理所有文书工作和审批事宜。",
+    "items": [
+      {
+        "icon": "Camera",
+        "label": "护照照片",
+        "desc": "白色背景"
+      },
+      {
+        "icon": "FileText",
+        "label": "投资证明",
+        "desc": "对于投资者而言"
+      },
+      {
+        "icon": "Award",
+        "label": "推荐信",
+        "desc": "面向人才和研究人员"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "学历证书",
+        "desc": "面向专业人士和科学家"
+      },
+      {
+        "icon": "Bank",
+        "label": "财务报表",
+        "desc": "银行对账单及证明"
+      },
+      {
+        "icon": "IdCard",
+        "label": "当前阿联酋身份证",
+        "desc": "如适用"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "NOC证书",
+        "desc": "对于现有签证持有者"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "您值得信赖的黄金签证合作伙伴",
+    "titleHighlight": "金卡合作伙伴",
+    "subtitle": "优秀人才信赖我们的八大理由。",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "直接权限访问",
+        "desc": "优先政府网络"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速处理",
+        "desc": "快速审批"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "专职专家",
+        "desc": "个人黄金签证专家"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "无任何隐藏费用"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语、乌尔都语"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "续约支持",
+        "desc": "持续的签证管理"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "家庭融合",
+        "desc": "全家人的支持"
+      },
+      {
+        "icon": "Award",
+        "label": "过往业绩卓著",
+        "desc": "数千项批准"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千用户信赖",
+    "titleHighlight": "数千",
+    "subtitle": "我们的过往业绩足以证明一切。",
+    "items": [
+      {
+        "icon": "Calendar",
+        "value": "10",
+        "label": "有效期年限",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Users",
+        "value": "5",
+        "label": "类别",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Building2",
+        "value": "1000+",
+        "label": "得到正式认可的",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "快速地",
+        "label": "加工",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "合规",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "优质的",
+        "label": "签证等级",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于阿联酋黄金签证，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的黄金签证专家，获取免费的资格评估。",
+      "whatsappMessage": "您好！我有一个关于黄金签证服务的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是阿联酋黄金签证？",
+        "a": "阿联酋黄金签证是一种可续签的长期居留签证，有效期为 10 年，面向投资者、企业家、专业人才、研究人员、优秀学生和专业人士——提供完全所有权、家庭担保和稳定性。"
+      },
+      {
+        "q": "哪些人有资格申请黄金签证？",
+        "a": "投资者（200万迪拉姆以上）、企业家（中小企业收入100万迪拉姆以上）、杰出人才、科学家和研究人员、技术娴熟的专业人士（月薪3万迪拉姆以上）以及优秀学生。"
+      },
+      {
+        "q": "黄金签证的有效期是多久？",
+        "a": "黄金签证有效期为10年，只要您继续符合资格标准，即可无限期续签。"
+      },
+      {
+        "q": "我可以用黄金签证担保我的家人吗？",
+        "a": "是的。您可以担保您的配偶、子女和受抚养的父母，担保期限与您的黄金签证有效期相同，均为10年。"
+      },
+      {
+        "q": "我能否持黄金签证拥有阿联酋企业100%的股份？",
+        "a": "是的。黄金签证持有者可以100%拥有其在阿联酋的企业，无需当地担保人或阿联酋国民合伙人。"
+      },
+      {
+        "q": "我必须留在阿联酋才能保留我的黄金签证吗？",
+        "a": "不。与普通居留签证不同，即使您在阿联酋境外停留较长时间，黄金签证仍然有效。"
+      },
+      {
+        "q": "申请黄金签证需要多长时间？",
+        "a": "通常需要 4-8 周，具体取决于类别和所需文件。我们通过政府优先网络加快处理速度。"
+      },
+      {
+        "q": "申请黄金签证需要哪些文件？",
+        "a": "有效护照、护照照片、投资证明或推荐信、学历或专业证书、银行对账单以及当前有效的阿联酋身份证（如适用）。"
+      },
+      {
+        "q": "我持有阿联酋黄金签证可以在阿联酋工作吗？",
+        "a": "是的。黄金签证赋予您完全的工作权利，并允许您担保雇员和家属。"
+      },
+      {
+        "q": "为什么选择Setup Zone Dubai办理黄金签证服务？",
+        "a": "我们提供全程支持——包括资格评估、文件准备、申请提交、医疗协调、签证盖章和家庭担保。凭借良好的过往记录和直接的审批权限，我们确保快速合规地完成审批流程。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的黄金签证完美搭配的服务。",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "阿联酋居留签证",
+        "description": "住院医师培训期限为2-10年。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "dependent-visa",
+        "title": "阿联酋家属签证",
+        "description": "家庭及家属担保。",
+        "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "查看您的资格",
+    "title": "准备好申请您的十年黄金签证了吗？",
+    "titleHighlight": "十年黄金签证？",
+    "subtitle": "获取免费资格评估。我们的专家将评估您的个人资料，并指导您完成整个流程。",
+    "chips": [
+      "免费评估",
+      "10年有效期",
+      "家庭成员包含在内"
+    ],
+    "whatsappMessage": "您好！我想申请黄金签证，需要进行免费的资格评估。",
+    "whatsappCardMessage": "您好！我想咨询一下黄金签证。"
+  }
+}

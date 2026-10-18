@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import ajmanData from '../../content/freezones/ajman-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Clock, Globe, DollarSign, Target, Store, Briefcase, Factory, UserCheck,
   Package, Truck, Cpu, Warehouse, ShoppingCart, Building2, TrendingUp,
@@ -22,7 +23,9 @@ const iconMap: any = {
 };
 
 export default function AjmanFreeZone({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freeZones || ajmanData;
+  const { language } = useLanguage();
+  const ajmanFallback = loadContent('freezones/ajman-free-zone', language);
+  const data = tinaData?.data?.freeZones || ajmanFallback;
 
   return (
     <div className="min-h-screen bg-white">

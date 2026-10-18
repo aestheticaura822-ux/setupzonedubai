@@ -1,0 +1,262 @@
+{
+  "heroBadge": "Yasal",
+  "heroTitle": "Gizlilik Politikası",
+  "heroTitleHighlight": "Politika",
+  "heroSubtitle": "Brightlink tarafından işletilen SetupZoneDubai'nin kişisel bilgilerinizi nasıl topladığını, kullandığını ve koruduğunu öğrenin. Gizliliğiniz bizim önceliğimizdir.",
+  "trustBadges": [
+    {
+      "icon": "Lock",
+      "label": "TLS 1.2 Güvenli",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Server",
+      "label": "Şifrelenmiş Veriler",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "ShieldCheck",
+      "label": "DET Lisanslı",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "CheckCircle2",
+      "label": "GDPR'ye Hazır",
+      "color": "from-indigo-400 to-purple-600"
+    }
+  ],
+  "tocTitle": "İçindekiler",
+  "tocSections": [
+    {
+      "id": "info-collection",
+      "title": "Bilgi Toplama ve Kullanımı"
+    },
+    {
+      "id": "disclosure",
+      "title": "Bilgilerin Açıklanması"
+    },
+    {
+      "id": "use-of-info",
+      "title": "Bilginin Kullanımı"
+    },
+    {
+      "id": "cookies",
+      "title": "Çerezler ve İzleme"
+    },
+    {
+      "id": "content-providers",
+      "title": "İçerik Sağlayıcılar, Reklamverenler ve Ortaklar"
+    },
+    {
+      "id": "opting",
+      "title": "Katılım ve Ayrılma Seçenekleri"
+    },
+    {
+      "id": "protection",
+      "title": "Kişisel Bilgilerinizin Korunması"
+    },
+    {
+      "id": "overseas",
+      "title": "Bilgilerin Yurtdışına Açıklanması"
+    },
+    {
+      "id": "holding",
+      "title": "Bilgilerin Saklanması, Düzeltilmesi ve Güncellenmesi"
+    },
+    {
+      "id": "amendments",
+      "title": "Değişiklikler"
+    },
+    {
+      "id": "acceptance",
+      "title": "Kabul"
+    },
+    {
+      "id": "contact",
+      "title": "Bize Nasıl Ulaşabilirsiniz?"
+    }
+  ],
+  "sidebarCard": {
+    "title": "Gizlilik Kaygıları?",
+    "text": "Gizlilikle ilgili sorularınız için lütfen bizimle iletişime geçin.",
+    "buttonText": "Bize e-posta gönderin",
+    "email": "setupzonedubai@gmail.com",
+    "emailHref": "mailto:setupzonedubaigmail.com"
+  },
+  "intro": {
+    "heading": "giriiş",
+    "subheading": "Lütfen Dikkatlice Okuyun",
+    "paragraphs": [
+      "Bu Gizlilik Politikası (bundan sonra \"Politika\" olarak anılacaktır), Brightlink tarafından işletilen SetupZoneDubai ve bağlı kuruluşlarının (topluca \"SetupZoneDubai\", \"biz\", \"bize\" veya \"bizim\" olarak anılacaktır) kişisel bilgileri toplama, kullanma, saklama ve ifşa etme şeklini düzenler. Ayrıca, kişisel verilerinize erişim, düzeltme ve kontrol etme haklarınızı da açıklar.",
+      "Bu Politika, web sitemiz (\"Web Sitesi\") aracılığıyla toplanan tüm kişisel bilgiler ve toplu bilgiler için geçerlidir ve Kullanım Şartlarımızla birlikte okunmalıdır."
+    ],
+    "importantNote": "Bu Web Sitesine erişerek, göz atarak veya kullanarak ve/veya bizden herhangi bir hizmet alarak, bu Politikanın şartlarını kabul etmiş ve onaylamış olursunuz. Kabul etmiyorsanız, lütfen Web Sitesini kullanmaktan veya erişmekten kaçının."
+  },
+  "section01": {
+    "label": "Bölüm 01",
+    "title": "Bilgi Toplama ve Kullanımı",
+    "intro": "Web sitemizi kullanırken, sizinle iletişime geçmek veya sizi tanımlamak için kullanılabilecek bazı kişisel bilgilerinizi bize vermenizi isteyebiliriz. Bu nedenle, sizin hakkınızda iki tür bilgi toplayabiliriz:",
+    "personalInfo": {
+      "title": "Kişisel Bilgiler",
+      "text": "Kişisel bilgileriniz, bunlarla sınırlı olmamak üzere, adınız, adresiniz, telefon numaranız, e-posta adresiniz, doğum tarihiniz ve ödeme bilgileriniz dahil olmak üzere, aşağıdaki yöntemlerle gönüllü olarak verdiğinizde sizden toplanabilir:",
+      "items": [
+        "Kayıt olma ve üyelik hesabı oluşturma",
+        "Web sitesinde sunulan anketlere ve diğer kampanyalara katılmak.",
+        "Bizimle İletişim Formu, Canlı Sohbet veya telefon aracılığıyla iletişime geçebilirsiniz.",
+        "Sosyal medya platformlarımızdaki etkileşim (Facebook, Instagram, Twitter, LinkedIn)",
+        "İş uygulamalarımız için makul ölçüde gerekli olduğu durumlarda üçüncü taraflar gibi diğer kaynaklar."
+      ]
+    },
+    "aggregateInfo": {
+      "title": "Toplu Bilgiler",
+      "text": "SetupZoneDubai sistemleri tarafından oluşturulan toplu bilgiler, sizinle doğrudan ilişkili değildir. SetupZoneDubai Ürünleri ve/veya Hizmetleriyle etkileşimde bulunduğunuz her an, IP adresiniz, cihaz tanımlama \"çerez\" bilgileriniz, tarayıcı/cihaz türünüz ve talep ettiğiniz sayfa veya özellik dahil olmak üzere bilgileri sunucu günlüklerimize otomatik olarak alır ve kaydederiz."
+    },
+    "note": "Talep edildiğinde gerekli kişisel bilgileri vermemeniz, bazı hizmetlerin size sunulmamasına neden olabilir."
+  },
+  "section02": {
+    "label": "Bölüm 02",
+    "title": "Bilgilerin Açıklanması",
+    "intro": "SetupZoneDubai, aşağıdaki hususlara yetki vermeniz koşuluyla hakkınızdaki Kişisel Bilgileri açıklayabilir:",
+    "items": [
+      "Bu Gizlilik Politikası'nda açıklanan amaçlar doğrultusunda, dünya çapındaki iştiraklerimiz, lisans sahiplerimiz ve ortak girişim ortaklarımızla bilgileri paylaşmak.",
+      "Sizden talep ettiğiniz hizmetleri sunmak amacıyla hakkınızda topladığı her türlü bilgiyi üçüncü taraflarla paylaşabilir.",
+      "Kişisel olarak sizi tanımlamayan toplu izleme bilgileri ve diğer bilgiler üçüncü taraflarla paylaşılır.",
+      "SetupZoneDubai, yasa veya hukuki süreç gerektirdiğine iyi niyetle inandığı durumlarda kişisel bilgilerinizi üçüncü taraflarla paylaşabilir.",
+      "Kişisel bilgilerinizin üçüncü taraflarla paylaşılmasına izin vermeniz, bu bilgilerin sizden toplanması sırasında elde edilecektir."
+    ]
+  },
+  "section03": {
+    "label": "Bölüm 03",
+    "title": "Bilginin Kullanımı",
+    "intro": "SetupZoneDubai, topladığı kişisel bilgileri şu amaçlarla kullanacaktır:",
+    "items": [
+      "Kimliğinizi doğrulamak ve şifrenizi veya giriş bilgilerinizi unutmanız durumunda size yardımcı olmak için.",
+      "Sizden talep ettiğiniz hizmetlerin sağlanmasına yardımcı olmak için",
+      "SetupZoneDubai'nin ilginizi çekebileceğini düşündüğü diğer web siteleri ve hizmetler hakkında daha fazla bilgi sağlamak.",
+      "Gelecekteki pazarlama, tanıtım ve reklam amaçları için, doğrudan pazarlama, pazar araştırması ve anketler dahil olmak üzere.",
+      "İç amaçlar, sitelerimizin geliştirilmesi ve yönetimi, veri analizi ve yasal yükümlülüklerimize uyum için.",
+      "Size en uygun ve ilgi alanlarınıza en çok uyan bilgilerin gösterilmesini sağlamak için.",
+      "Herhangi bir kötüye kullanımı veya dolandırıcılık faaliyetini önlemek ve tespit etmek; ve yetkilendirdiğiniz diğer tüm kullanımlar için."
+    ]
+  },
+  "section04": {
+    "label": "Bölüm 04",
+    "title": "Çerezler ve İzleme",
+    "paragraphs": [
+      "Bu web sitesi, bilgisayarınızın sabit diskine aktarılan ve IP adresiniz, işletim sisteminiz, tarayıcınız, konumunuz ve diğer kullanıcı bilgileriniz gibi ayrıntıları belirleyebilen bir \"Çerezler ve İzleme\" dosyası kullanmaktadır."
+    ],
+    "cookieUses": {
+      "title": "SetupZoneDubai aşağıdaki amaçlarla çerezleri kullanabilir:",
+      "items": [
+        "Web sitesine gelen ve giden trafik modellerini izleyin.",
+        "Reklamların en uygun kişiye gösterildiğinden emin olun.",
+        "Web sitesine girmenizi ve belirli hizmetleri kullanmanızı sağlar."
+      ]
+    },
+    "note": "Çerezleri kabul etmeyi reddetmek isterseniz, tarayıcınızda devre dışı bırakmayı seçebilirsiniz. Ancak, çerezler devre dışı bırakılırsa bazı web sayfaları düzgün çalışmayabilir.",
+    "analyticsText": "SetupZoneDubai'nin Google Analytics kullanımı, Google'ın Hizmet Şartları ve bu Gizlilik Politikası ile uyumludur."
+  },
+  "section05": {
+    "label": "Bölüm 05",
+    "title": "İçerik Sağlayıcılar, Reklamverenler ve Ortaklar",
+    "text": "Bu Gizlilik Politikası, bağlantı verdiğimiz diğer üçüncü taraf web siteleri için geçerli değildir. SetupZoneDubai, bu Web Sitesi dışındaki diğer web sitelerinin veri toplama uygulamalarından, gizlilik politikalarından veya içeriklerinden sorumlu değildir. Gizlilik uygulamaları hakkında bilgi edinmek isterseniz, ilgili web sitesinin operatörleriyle doğrudan iletişime geçmelisiniz."
+  },
+  "section06": {
+    "label": "Bölüm 06",
+    "title": "Katılım ve Ayrılma Seçenekleri",
+    "intro": "SetupZoneDubai'nin kişisel bilgilerinizi toplama, kullanma veya ifşa etme amacı bu Gizlilik Politikası'nda belirtilen toplama, kullanma veya ifşa etme şeklinin dışında kalırsa, SetupZoneDubai size şu seçeneği sunacaktır:",
+    "options": [
+      {
+        "title": "Vazgeçmek",
+        "desc": "Ne belirli hizmetlerden yararlanabiliyorlar ne de belirli etkileşimli alanlara katılabiliyorlar."
+      },
+      {
+        "title": "Katılım Seçeneği",
+        "desc": "Yeni özelliklerin duyurulması, beta testleri veya tanıtım faaliyetleri gibi belirli konularda sizinle iletişime geçilmesini kabul ediyorum."
+      }
+    ]
+  },
+  "section07": {
+    "label": "Bölüm 07",
+    "title": "Kişisel Bilgilerinizin Korunması",
+    "paragraphs": [
+      "SetupZoneDubai olarak kişisel bilgilerinizin güvenliğine önem veriyoruz. Sektör standartlarını dikkate alıyor ve kişisel bilgilerinizi korumak için uygun idari, teknik ve fiziksel güvenlik önlemleri uyguluyoruz."
+    ],
+    "protectionBadges": [
+      {
+        "icon": "Lock",
+        "label": "TLS 1.2 Şifreleme"
+      },
+      {
+        "icon": "Server",
+        "label": "Güvenli Sunucular"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "VeriSign Ağ Geçidi"
+      }
+    ],
+    "importantNote": "İnternet üzerinden hiçbir iletim yöntemi veya elektronik depolama yöntemi %100 güvenli değildir. SetupZoneDubai, kişisel bilgilerinizin mutlak güvenliğini garanti etmez."
+  },
+  "section08": {
+    "label": "Bölüm 08",
+    "title": "Bilgilerin Yurtdışına Açıklanması",
+    "text": "Topladığımız kişisel bilgilerinizi, bilgileri ilk verdiğiniz ülke dışında başka ülkelere aktarmamız gerekebilir. Bu ülkelerin veri koruma yasaları aynı olmayabilir. Bilgilerinizi başka ülkelere aktardığımızda, SetupZoneDubai bu Gizlilik Bildiriminde açıklanan şekilde bu bilgileri koruyacaktır."
+  },
+  "section09": {
+    "label": "Bölüm 09",
+    "title": "Bilgilerin Saklanması, Düzeltilmesi ve Güncellenmesi",
+    "text": "Toplanan bilgileri, belirli kısıtlı veri alanları hariç olmak üzere, istediğiniz zaman ve gerektiği sıklıkta düzeltme veya değiştirme olanağı sunuyoruz. Kısıtlı bir veri alanını değiştirmek isterseniz veya herhangi bir sorunuz varsa, lütfen SetupZoneDubai Müşteri Hizmetleri ile iletişime geçin."
+  },
+  "section10": {
+    "label": "Bölüm 10",
+    "title": "Değişiklikler",
+    "text": "SetupZoneDubai, bu Gizlilik Politikasını herhangi bir zamanda ve size bildirimde bulunmaksızın değiştirme hakkını saklı tutar. Web sitesini kullanmaya devam etmeniz, değiştirilmiş Gizlilik Politikasını kabul ettiğiniz anlamına gelir."
+  },
+  "section11": {
+    "label": "Bölüm 11",
+    "title": "Kabul",
+    "text": "SetupZoneDubai web sitesini kullanarak bu Politikayı kabul ettiğinizi beyan edersiniz."
+  },
+  "section12": {
+    "label": "Bölüm 12",
+    "title": "Bize Nasıl Ulaşabilirsiniz?",
+    "intro": "Gizlilik uygulamalarımızla ilgili herhangi bir sorunuz veya yorumunuz varsa, lütfen bizimle iletişime geçin:",
+    "emailLabel": "E-posta",
+    "email": "setupzonedubai@gmail.com",
+    "emailHref": "mailto:setupzonedubai@gmail.com",
+    "phoneLabel": "Telefon",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "Bizimle Anında Sohbet Edin",
+    "whatsappMessage": "Merhaba! Gizlilikle ilgili bir sorum var."
+  },
+  "faqs": {
+    "badge": "Hızlı Cevaplar",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "items": [
+      {
+        "q": "Dubai'de iş kurmanın maliyeti ne kadar?",
+        "a": "Dubai'de iş kurmanın başlangıç maliyeti, temel serbest bölge lisansı için 9.500 AED'den başlıyor. Ana karada ise bu maliyet 14.500 AED'den başlıyor."
+      },
+      {
+        "q": "Bir yabancı Dubai'de bir şirketin %100'üne sahip olabilir mi?",
+        "a": "Evet, yabancılar çoğu serbest bölgede ve anakara Çin'deki birçok faaliyette şirketlerin %100'üne sahip olabilirler."
+      },
+      {
+        "q": "Dubai'deki en ucuz serbest bölge hangisidir?",
+        "a": "RAK ICC, Ajman FTZ ve SRTIP, 5.900 AED'den başlayan en uygun fiyatlı paketleri sunmaktadır."
+      },
+      {
+        "q": "Dubai'de şirket kaydı ne kadar sürer?",
+        "a": "Serbest bölgeye kayıt işlemi 3-7 iş günü sürer. Anakara için bu süre 2-4 haftadır."
+      },
+      {
+        "q": "Dubai'de yerel bir ortağa ihtiyacım var mı?",
+        "a": "Serbest bölgelerde durum böyle değil. Anakara'da ise birçok faaliyet artık %100 yabancı mülkiyetine izin veriyor."
+      }
+    ]
+  }
+}

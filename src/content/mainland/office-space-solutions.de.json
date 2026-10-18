@@ -1,0 +1,506 @@
+{
+  "slug": "office-space-solutions",
+  "hero": {
+    "badge": "Büroräume für alle",
+    "title": "Büroraumlösungen in den VAE (Dubai)",
+    "titleHighlight": "Lösungen in Dubai",
+    "subtitle": "Flexible, hochwertige und erschwingliche Büroräume für jedes Unternehmen. Vom flexiblen Arbeitsplatz bis zur kompletten Firmenzentrale.",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=80",
+    "breadcrumbLabel": "Büroraumlösungen",
+    "breadcrumbParent": "Festland",
+    "ctaPrimaryText": "Vereinbaren Sie eine kostenlose Beratung",
+    "ctaPrimaryLink": "#Kontakt",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für Büroraumlösungen in Dubai.",
+    "badges": [
+      "Über 500 Optionen",
+      "8+ Standorte",
+      "Flexible Bedingungen",
+      "Vollständige Einhaltung"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "Bürooptionen",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "MapPin",
+      "value": "Ab 8 Jahren",
+      "label": "Top-Lagen",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Mehr als 10.000",
+      "label": "Bediente Unternehmen",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "48 Stunden",
+      "label": "Durchschnittliche Einrichtungszeit",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "intro": {
+    "badge": "Warum unerlässlich",
+    "title": "Warum sind Büroräume für die Unternehmensgründung unerlässlich?",
+    "titleHighlight": "Unverzichtbar für die Unternehmensgründung?",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Stellt Präsenz her",
+    "imageBadgeText": "& Glaubwürdigkeit",
+    "paragraph1": "Die modernen Geschäftszentren von Dubai und den VAE zählen zu den dynamischsten der Welt! Neben Lizenzen und Visa ist ein professionelles Büro die Grundlage für eine erfolgreiche Geschäftspräsenz.",
+    "paragraph2": "Für die meisten Gewerbe- und Berufslizenzen ist eine eingetragene Geschäftsadresse gesetzlich vorgeschrieben – und sie stärkt die Glaubwürdigkeit Ihres Unternehmens. Wenn Kunden, Investoren und Behörden Ihr Unternehmen prüfen, unterstreicht ein repräsentatives Büro Ihre Stabilität und Professionalität.",
+    "paragraph3": "Ob flexibler Arbeitsplatz, Serviced Office oder Firmenzentrale – die Wahl der Bürolösung hat direkten Einfluss auf Ihre Effizienz, Ihre Kosten und Ihren langfristigen Erfolg.",
+    "features": [
+      "Gesetzliche Verpflichtung",
+      "Kundenvertrauen",
+      "Anlegervertrauen",
+      "Professionelles Image",
+      "Geschäftseffizienz",
+      "Kostenoptimierung"
+    ]
+  },
+  "officeTypesSection": {
+    "badge": "Verschiedene Bürooptionen",
+    "title": "Welche Arten von Büroflächen stehen zur Verfügung?",
+    "titleHighlight": "Büroflächen",
+    "subtitle": "Entdecken Sie 6 Premium-Bürolösungen – von preiswerten Schreibtischen bis hin zu kompletten Firmenzentralen.",
+    "items": [
+      {
+        "id": "flexi",
+        "icon": "Laptop",
+        "title": "Flexi Desk (Hot Desk)",
+        "short": "Preisgünstiger Gemeinschaftsarbeitsplatz",
+        "description": "Ein flexibler Arbeitsplatz ist die günstigste Bürolösung in Dubai und ideal für Startups, Freiberufler und Einzelunternehmer. Er bietet einen geteilten Arbeitsplatz, eine Gewerbeerlaubnis, eine Geschäftsadresse sowie Zugang zu Empfang, Gemeinschaftsräumen und Besprechungsräumen – ohne die hohen Kosten eines kompletten Büros.",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "Gemeinsamer Arbeitsplatz",
+          "Unterstützung bei der Gewerbelizenz",
+          "Geschäftsadresse",
+          "Zugang zum Besprechungsraum",
+          "Kostengünstig"
+        ],
+        "price": "Niedrigster Preis"
+      },
+      {
+        "id": "dedicated",
+        "icon": "Armchair",
+        "title": "Fester Schreibtisch",
+        "short": "Permanenter privater Arbeitsbereich",
+        "description": "Ein fester Schreibtisch bietet einen permanenten, privaten Arbeitsplatz im Großraumbüro – ideal für alle, die Wert auf Beständigkeit und Privatsphäre legen. Im Gegensatz zu flexiblen Arbeitsplätzen können Sie Ihren Arbeitsplatz ganz nach Ihren Wünschen einrichten. Postbearbeitung, Nebenkosten und Büroausstattung sind inklusive.",
+        "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "Fester Schreibtisch",
+          "Postbearbeitung",
+          "Nebenkosten inklusive",
+          "Private Einrichtung",
+          "Büroausstattung"
+        ],
+        "price": "Hervorragendes Preis-Leistungs-Verhältnis"
+      },
+      {
+        "id": "private",
+        "icon": "DoorOpen",
+        "title": "Privatbüros",
+        "short": "Abgeschlossen, voll möbliert",
+        "description": "Ein privates Büro bietet kleinen und mittelständischen Unternehmen sowie wachsenden Firmen einen komplett abgeschlossenen, möblierten Raum mit absoluter Privatsphäre und Kontrolle. Ideal für Branding, Kundengespräche und professionelles Arbeiten in einer repräsentativen Adresse in erstklassigen Bürogebäuden.",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "Vollständig geschlossen",
+          "Vollständig möbliert",
+          "Absolute Privatsphäre",
+          "Markenfreiheit",
+          "gehobene Adresse"
+        ],
+        "price": "Am beliebtesten"
+      },
+      {
+        "id": "serviced",
+        "icon": "Crown",
+        "title": "Serviced Offices",
+        "short": "Vollständig ausgestattet und sofort einsatzbereit",
+        "description": "Serviced Offices sind voll ausgestattete, sofort nutzbare Arbeitsbereiche, die alle Ihre geschäftlichen Bedürfnisse abdecken – von Empfang und Highspeed-Internet bis hin zu Besprechungsräumen, Reinigung und Nebenkosten. Sparen Sie Zeit und Einrichtungskosten und konzentrieren Sie sich auf Ihr Wachstum.",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Empfangsdienste",
+          "Hochgeschwindigkeitsinternet",
+          "Tagungsräume",
+          "Reinigung & Versorgungseinrichtungen",
+          "Plug & Play"
+        ],
+        "price": "Prämie"
+      },
+      {
+        "id": "coworking",
+        "icon": "UsersRound",
+        "title": "Coworking-Bereiche",
+        "short": "Moderner Gemeinschaftsraum",
+        "description": "Coworking-Bereiche sind lebendige, moderne Räume, die für Zusammenarbeit, Networking und Innovation konzipiert sind. Sie eignen sich ideal für Freelancer, Startups und digitale Unternehmer und bieten flexible Mitgliedschaften, eine hochwertige Infrastruktur und ein kreatives Umfeld.",
+        "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "Flexible Mitgliedschaften",
+          "Netzwerkzugriff",
+          "Kreatives Umfeld",
+          "Moderne Infrastruktur",
+          "Gemeinschaftsveranstaltungen"
+        ],
+        "price": "Flexibel"
+      },
+      {
+        "id": "commercial",
+        "icon": "Building2",
+        "title": "Gewerbebüros zur Miete",
+        "short": "Langfristige Nutzung erstklassiger Lage",
+        "description": "Gewerbebüros sind ideal für Unternehmen und multinationale Konzerne, die langfristig Flächen in Toplagen wie Business Bay, DIFC, Sheikh Zayed Road und JLT suchen. Sie sind vollständig individualisierbar mit verschiedenen Branding- und Layoutoptionen.",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "Langzeitmietvertrag",
+          "Vollständige Anpassungsmöglichkeiten",
+          "Top-Lagen",
+          "Markenfreiheit",
+          "Regionalzentrale bereit"
+        ],
+        "price": "Unternehmen"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "Das richtige Büro steigert den Erfolg",
+    "title": "Vorteile eines Büros in Dubai",
+    "titleHighlight": "Büro in Dubai",
+    "subtitle": "Sechs überzeugende Gründe, warum Sie die richtigen Büroräume für Ihr Unternehmen sichern sollten.",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "Rechtliche Einhaltung leicht gemacht",
+        "description": "Für jede Geschäftslizenz in Dubai ist eine offizielle, registrierte Adresse (Ejari) erforderlich. Das richtige Büro gewährleistet, dass Ihr Unternehmen alle gesetzlichen Bestimmungen erfüllt.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Award",
+        "title": "Professionelles Markenimage & Glaubwürdigkeit",
+        "description": "Ein gut sichtbares Büro an einem prestigeträchtigen Standort schafft Vertrauen bei den Kunden und stärkt das Image Ihres Unternehmens in wettbewerbsintensiven Märkten.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Network",
+        "title": "Fantastische Networking-Möglichkeit",
+        "description": "Gemeinschaftsbüros, Coworking-Spaces und Business-Center bringen Sie auf natürliche Weise mit gleichgesinnten Unternehmern und Partnern in Kontakt.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Skalierbarkeit für Wachstum",
+        "description": "Beginnen Sie mit einem flexiblen Schreibtisch und steigen Sie dann ganz einfach auf private oder gewerbliche Büros um, wenn Ihr Unternehmen wächst.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Betriebliche Effizienz und Kosteneinsparungen",
+        "description": "Serviced Offices bieten Ihnen sofort nutzbare Infrastruktur, Empfang und Versorgungseinrichtungen – das spart Zeit und Kosten.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Strategische Geschäftsstandorte",
+        "description": "Business Bay, Downtown, Dubai Marina, JLT und Freizonen – seien Sie im Zentrum der boomenden Wirtschaftssektoren der VAE.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "simplifySection": {
+    "badge": "Wie wir vereinfachen",
+    "title": "Wie vereinfacht Setup Zone Dubai die Büroeinrichtung?",
+    "titleHighlight": "Büroeinrichtung vereinfachen?",
+    "subtitle": "Drei einfache Schritte zu Ihrem perfekten Büro.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "ClipboardCheck",
+        "title": "Verwaltung aller Dokumente und der Einhaltung der Vorschriften",
+        "description": "Wir übernehmen den gesamten Prozess – von der Ejari-Registrierung über Mietverträge und behördliche Genehmigungen bis hin zu allen Dokumenten, die mit Ihrer Lizenz in Verbindung stehen.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "Layers",
+        "title": "Bieten Sie flexible und skalierbare Bürolösungen an.",
+        "description": "Beginnen Sie mit einem flexiblen Schreibtisch oder einem festen Arbeitsplatz und wechseln Sie dann zu einem privaten Büro – nahtloses Upgrade, wenn Ihr Unternehmen wächst.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "Target",
+        "title": "Führen Sie eine detaillierte Bedarfsanalyse durch.",
+        "description": "Wir nehmen uns die Zeit, die Aktivitäten, die Größe und die Zukunftspläne Ihres Unternehmens zu verstehen, bevor wir Ihnen den optimalen Bürotyp empfehlen.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "locationsSection": {
+    "badge": "Die gefragtesten Standorte",
+    "title": "Wo kann man in Dubai und den VAE ein Büro mieten?",
+    "titleHighlight": "Büro mieten",
+    "subtitle": "Wischen Sie durch unsere 7 Top-Standorte – jeder mit einzigartigen Vorteilen.",
+    "items": [
+      {
+        "id": "business-bay",
+        "name": "Business Bay",
+        "tagline": "Dubais zentrales Geschäftsviertel",
+        "description": "Bekannt für hochmoderne Bürotürme und erstklassige Ausstattung. In unmittelbarer Nähe zum DIFC und bedeutenden Finanzinstituten. Geeignet für Startups bis hin zu multinationalen Konzernen.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "icon": "Building2",
+        "features": [
+          "Zentraler Knotenpunkt",
+          "Ikonische Türme",
+          "In der Nähe des DIFC",
+          "Premium-Ausstattung"
+        ]
+      },
+      {
+        "id": "downtown",
+        "name": "Innenstadt von Dubai",
+        "tagline": "Exklusive Veranstaltungsorte für Unternehmen",
+        "description": "Repräsentative, exklusive Büroräume mit atemberaubendem Ausblick in unmittelbarer Nähe des Burj Khalifa und der Dubai Mall. Die erste Adresse für Unternehmen, die Wert auf Glaubwürdigkeit, Luxus und eine prominente Präsenz legen.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "icon": "Crown",
+        "features": [
+          "Blick auf den Burj Khalifa",
+          "Luxusbüros",
+          "Hochkarätig",
+          "Hauptadresse"
+        ]
+      },
+      {
+        "id": "jlt",
+        "name": "Jumeirah Lake Towers (JLT)",
+        "tagline": "Bezahlbare Büros & U-Bahn-Anbindung",
+        "description": "Die perfekte Kombination aus Erschwinglichkeit und Komfort – ideal für Startups, KMUs, Freiberufler und Selbstständige. Hervorragende Anbindung an Straße und U-Bahn sowie ein dynamisches Geschäftsumfeld.",
+        "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "icon": "TrendingUp",
+        "features": [
+          "Erschwinglich",
+          "Metro Connected",
+          "KMU-orientiert",
+          "Lebendige Gemeinschaft"
+        ]
+      },
+      {
+        "id": "sheikh-zayed",
+        "name": "Sheikh Zayed Straße",
+        "tagline": "Legendäre Geschäftsstraße",
+        "description": "Eines der renommiertesten Geschäftsviertel Dubais, bekannt für seine ikonischen Wolkenkratzer und seine erstklassige Lage. Bietet hohe Sichtbarkeit, gute Erreichbarkeit und hohes Ansehen.",
+        "image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "icon": "Building",
+        "features": [
+          "Legendäre Adresse",
+          "Hohe Sichtbarkeit",
+          "Globale Marken",
+          "Erstklassige Lage"
+        ]
+      },
+      {
+        "id": "marina",
+        "name": "Dubai Marina",
+        "tagline": "Kreativzentrum am Wasser",
+        "description": "Stilvolle Büroräume in lebendiger Lage am Wasser. Beliebt bei Kreativunternehmen, Tech-Startups und Dienstleistungsanbietern – mit erstklassigen Einzelhandelsgeschäften, Restaurants und Wohnmöglichkeiten in unmittelbarer Nähe.",
+        "image": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "icon": "Palette",
+        "features": [
+          "Uferpromenade",
+          "Kreativzentrum",
+          "Technologie-Startups",
+          "Lifestyle-Annehmlichkeiten"
+        ]
+      },
+      {
+        "id": "free-zones",
+        "name": "Dubai Freizonen",
+        "tagline": "Büroflächen in Verbindung mit Lizenzen",
+        "description": "DMCC, IFZA, DAFZA, RAKEZ, Meydan und Shams bieten kostengünstige Büroflächen mit Handelslizenzen, 100% ausländischem Eigentum, Steuervorteilen und Branchenökosystemen.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "icon": "Factory",
+        "features": [
+          "Gewerbeschein inklusive",
+          "100% Eigentum",
+          "Steuervorteile",
+          "Industrieökosysteme"
+        ]
+      },
+      {
+        "id": "abu-dhabi-sharjah",
+        "name": "Abu Dhabi und Sharjah",
+        "tagline": "Kostengünstige regionale Betriebe",
+        "description": "Preisgünstige Büroräume mit solider Infrastruktur und strategisch günstiger Lage in der Nähe von Handelszentren – ideal für die Expansion oder die Gründung von Zweigstellen außerhalb von Dubai.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "icon": "Landmark",
+        "features": [
+          "Budgetfreundlich",
+          "Zugang zum Handelszentrum",
+          "Filialeinrichtung",
+          "Regionale Operationen"
+        ]
+      }
+    ]
+  },
+  "whyChooseUsSimple": {
+    "badge": "Zuverlässiger Partner für Büroeinrichtung",
+    "title": "Warum Setup Zone Dubai als Bürofläche wählen?",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "Direkter Zugang für Stakeholder, transparente Preisgestaltung und umfassender Support.",
+    "footer": "Wir betreuen Unternehmer, Investoren und internationale Unternehmen, die eine bequeme, erschwingliche und professionelle Lösung für Büroräume in Dubai und den VAE suchen.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Transparente Preise",
+        "desc": "Keine versteckten Gebühren"
+      },
+      {
+        "icon": "Users",
+        "label": "Direkter Zugang für Interessengruppen",
+        "desc": "Freizonen und Geschäftszentren"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Vertragsgestaltung",
+        "desc": "Alle Rechtsdokumente"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "label": "Ejari-Registrierung",
+        "desc": "Vollständige Einhaltung"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Verlängerungen & Genehmigungen",
+        "desc": "Kontinuierliche Unterstützung"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "Skalierbare Pakete",
+        "desc": "Klein anfangen, groß werden"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über Office Space Solutions wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "items": [
+      {
+        "q": "Welche Arten von Büroflächen werden in Dubai und den VAE angeboten?",
+        "a": "Je nach Unternehmensgröße, Budget und Lizenzanforderungen können Sie zwischen flexiblen Arbeitsplätzen, festen Arbeitsplätzen, Einzelbüros, Serviced Offices, Coworking Spaces oder langfristig gemieteten Gewerbebüroräumen wählen."
+      },
+      {
+        "q": "Benötige ich ein Büro, um in Dubai eine Gewerbelizenz zu erhalten?",
+        "a": "Ja. Jede Gewerbelizenz in Dubai erfordert eine offizielle, registrierte Adresse oder ein Ejari. Für Lizenzen in Freizonen gibt es die Möglichkeit von Flexi-Desk-Paketen, die eine Geschäftsadresse ohne physisches Büro bieten."
+      },
+      {
+        "q": "Worin besteht der Unterschied zwischen einem flexiblen Schreibtisch und einem festen Schreibtisch?",
+        "a": "Ein flexibler Arbeitsplatz (auch Hot Desk genannt) ist ein geteilter Arbeitsplatz, den Sie je nach Verfügbarkeit nutzen können – ideal für Freiberufler. Ein fester Arbeitsplatz hingegen ist Ihr eigener, permanenter Schreibtisch in einem Gemeinschaftsbüro und bietet Ihnen Beständigkeit und Privatsphäre."
+      },
+      {
+        "q": "Kann ich meine Büroräume vergrößern, wenn mein Unternehmen wächst?",
+        "a": "Absolut. Wir bieten skalierbare Lösungen – beginnen Sie mit einem flexiblen Schreibtisch oder einer Coworking-Mitgliedschaft und steigen Sie dann nahtlos auf ein privates Büro oder Gewerbeflächen um, wenn Ihr Unternehmen wächst."
+      },
+      {
+        "q": "Sind Strom, Wasser und Internet in den Büropaketen enthalten?",
+        "a": "Ja. Die meisten unserer Serviced Office- und Coworking-Pakete beinhalten Nebenkosten, Highspeed-Internet, Empfang, Reinigung und Zugang zu Besprechungsräumen – alles in einer monatlichen Gebühr."
+      },
+      {
+        "q": "Welche Standorte eignen sich am besten für die Anmietung eines Büros in Dubai?",
+        "a": "Das hängt von der Art Ihres Unternehmens ab. Business Bay und DIFC eignen sich für Konzerne, Downtown für Prestige, JLT für erschwingliche Preise, Dubai Marina für Kreativ- und Technologieunternehmen und die Freizonen für Handel und internationale Unternehmen."
+      },
+      {
+        "q": "Wie viel kostet Bürofläche in Dubai?",
+        "a": "Die Kosten reichen von günstigen flexiblen Arbeitsplätzen (ab ca. 5.000 AED/Jahr) bis hin zu hochwertigen Einzelbüros und Gewerbeflächen. Wir finden für Sie die passende Option, die zu Ihrem Budget passt."
+      },
+      {
+        "q": "Kann ich mir Büroräume mit einem anderen Unternehmen teilen?",
+        "a": "Ja. Coworking-Spaces und Gemeinschaftsbüros ermöglichen es Ihnen, Gemeinschaftsräume mit anderen Unternehmen zu teilen, während Sie gleichzeitig Ihren eigenen festen Arbeitsplatz und Ihre eigene Adresse behalten."
+      },
+      {
+        "q": "Wie lange dauert es üblicherweise, ein Büro in Dubai einzurichten?",
+        "a": "Für flexible Arbeitsplätze und Serviced Offices benötigen wir in der Regel 2–5 Werktage. Gewerbliche Mietbüros und individuelle Ausstattungen können je nach Anforderungen länger dauern."
+      },
+      {
+        "q": "Welche Vorteile bietet Setup Zone Dubai für meine Büroflächenbedürfnisse?",
+        "a": "Wir bieten transparente Preise, direkten Zugang zu den Stakeholdern, die komplette Vertragserstellung, die Ejari-Registrierung, laufende Verlängerungen und behördliche Genehmigungen sowie skalierbare Pakete, die auf Ihr Unternehmen zugeschnitten sind."
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "Verwandte Dienstleistungen",
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die optimal zu Ihren Büroflächenbedürfnissen passen.",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "Aktivitäten auf dem Festland",
+        "description": "Mehr als 2.000 vom DED genehmigte Aktivitäten in Dubai und den VAE.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "hiring-employee-management",
+        "title": "Stellenangebote in den VAE",
+        "description": "Lösungen für Personalbeschaffung und Mitarbeitermanagement.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "Visadienstleistungen für das Festland der VAE",
+        "description": "Investoren-, Arbeits- und Familienvisa.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Finden Sie Ihr perfektes Büro",
+    "title": "Bereit, die perfekten Büroräume zu finden?",
+    "titleHighlight": "Perfekte Büroräume?",
+    "subtitle": "Ihr Unternehmen verdient mehr als nur einen Schreibtisch – es braucht einen Raum, der Wachstum, Glaubwürdigkeit und Erfolg fördert.",
+    "primaryCta": "WhatsApp uns",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zu Büroräumen in Dubai.",
+    "badges": [
+      "Kostenlose Beratung",
+      "Über 500 Optionen",
+      "Vollständige Einhaltung"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "areaName": "Business Bay",
+  "areaShort": "Business Bay",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Servicegebiet",
+  "heroTitle": "Unternehmensgründung in Business Bay",
+  "heroTitleHighlight": "Business Bay",
+  "heroSubtitle": "Business Bay ist Dubais führendes Geschäftszentrum und Heimat von Fortune-500-Unternehmen, Startups und Unternehmern aus aller Welt. Hier erhalten Sie Zugang zu erstklassigen Büroflächen, einer hervorragenden Infrastruktur und einer strategischen Lage an der Sheikh Zayed Road.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "Unternehmensgründung",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Tagesaufbau",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Eigentum",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "Ausgehend von",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "Warum Business Bay wählen?",
+    "title": "Dubais führendes Handelszentrum",
+    "titleHighlight": "Premier Commercial",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Standort",
+    "imageBadgeText": "Business Bay, Dubai",
+    "paragraph": "Business Bay bietet außergewöhnliche Vorteile für Unternehmen jeder Größe. Mit erstklassiger Infrastruktur, strategischer Lage und einem förderlichen Geschäftsumfeld ist es der ideale Standort für die Gründung Ihres Unternehmens in Dubai.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Erstklassige Lage",
+        "desc": "Hervorragende Anbindung entlang der Sheikh Zayed Road"
+      },
+      {
+        "icon": "Users",
+        "title": "Talentpool",
+        "desc": "Zugang zu vielfältigen professionellen Talenten"
+      },
+      {
+        "icon": "Layers",
+        "title": "Infrastruktur",
+        "desc": "Weltklasse-Annehmlichkeiten und -Einrichtungen"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Geschäftswelt",
+        "desc": "Ein florierendes Ökosystem globaler Unternehmen"
+      },
+      {
+        "icon": "Zap",
+        "title": "Verkehrsverbindungen",
+        "desc": "Nähe zu wichtigen U-Bahn- und Autobahnanschlüssen"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Unsere Dienstleistungen",
+    "title": "Unternehmensgründungsdienste in Business Bay",
+    "titleHighlight": "Business Bay",
+    "subtitle": "Komplettlösungen aus einer Hand für Ihr Unternehmen in den VAE.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Unternehmensgründung in einer Freizone",
+        "desc": "Ansiedlung in der geeignetsten Freihandelszone – 100% Eigentum, keine Körperschaftsteuer und vollständige Gewinnrückführung.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Unternehmensgründung auf dem Festland",
+        "desc": "Handeln Sie direkt auf dem Markt der VAE mit einer Lizenz vom Festland. Wir kümmern uns um alle Formalitäten und die Lizenzierung durch das Department of Economic Development (DED).",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Handelslizenz in Dubai",
+        "desc": "Erhalten Sie Ihre Gewerbe-, Berufs- oder Industrielizenz schnell und unter voller Einhaltung aller gesetzlichen Bestimmungen.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Visabearbeitung & PRO-Dienstleistungen",
+        "desc": "Investoren-, Mitarbeiter- und Angehörigenvisa – wir kümmern uns um medizinische Tests, Emirates ID und die Visabeantragung.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Eröffnung eines Firmenbankkontos",
+        "desc": "Eröffnen Sie ein Geschäftskonto bei führenden Banken in den VAE – wir kümmern uns um die Dokumentation und die KYC-Prüfung.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Calculator",
+        "title": "Buchhaltungs- und Steuerberatungsleistungen",
+        "desc": "Halten Sie die Vorschriften zur Körperschaftsteuer und Mehrwertsteuer in den VAE ein – Buchhaltung, Mehrwertsteuererklärungen und Berichtspflichten.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "Preisgestaltung",
+    "title": "Unsere Pakete zur Unternehmensgründung",
+    "titleHighlight": "Pakete",
+    "subtitle": "Transparente, umfassende Business-Gründungspakete ab:",
+    "items": [
+      {
+        "name": "Freizonenlizenz",
+        "price": "5.999 AED",
+        "note": "Kein Wohnsitz",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "name": "Freizonenlizenz + Wohnsitz",
+        "price": "11.999 AED",
+        "note": "Mit Aufenthaltsgenehmigung in den VAE",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "name": "Festlandlizenz + Wohnsitz",
+        "price": "16.999 AED",
+        "note": "Festland + Wohnsitz",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Warum SetupZoneDubai wählen?",
+    "titleHighlight": "SetupZoneDubai",
+    "items": [
+      "Umfassende Unterstützung bei der Geschäftseinrichtung",
+      "Expertenkenntnisse der Freizonen in Dubai und der Vorschriften des Festlandes",
+      "Transparente Preisgestaltung ohne versteckte Gebühren",
+      "Persönlicher Kundenbetreuer",
+      "Unterstützung nach der Lizenzierung – PRO, Buchhaltung und Compliance",
+      "Expressbearbeitung – Lizenz in 3-5 Werktagen"
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "Häufig gestellte Fragen zu diesem Gebiet",
+    "title": "Häufig gestellte Fragen zur Unternehmensgründung in Business Bay",
+    "titleHighlight": "Unternehmensgründung in Business Bay",
+    "items": [
+      {
+        "q": "Wie lange dauert die Gründung eines Unternehmens in Business Bay?",
+        "a": "Die meisten Unternehmen sind innerhalb von 3-5 Werktagen vollständig registriert und betriebsbereit, abhängig von der Art der Lizenz und den erforderlichen Genehmigungen."
+      },
+      {
+        "q": "Kann ich als Ausländer ein Unternehmen in Business Bay gründen?",
+        "a": "Ja, Ausländer können in den Freizonen Dubais Unternehmen mit 100%iger Eigentümerschaft gründen. Unternehmen vom Festland benötigen je nach Geschäftstätigkeit möglicherweise einen lokalen Sponsor."
+      },
+      {
+        "q": "Muss ich physisch in Dubai anwesend sein?",
+        "a": "Der Großteil des Registrierungsprozesses kann online erledigt werden. Unser Team kümmert sich in Ihrem Namen um die Formalitäten und die Einreichung bei den Behörden."
+      },
+      {
+        "q": "Welche Arten von Unternehmen kann ich in Business Bay gründen?",
+        "a": "Je nach gewähltem Lizenztyp können Sie in Dubai Gewerbebetriebe, freiberufliche Unternehmen, Industrieunternehmen, E-Commerce-Unternehmen und freiberufliche Betriebe gründen."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Kurzantworten",
+    "title": "Kurzantworten",
+    "titleHighlight": "Antworten",
+    "subtitle": "Häufig gestellte Fragen zur Unternehmensgründung in Dubai. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "relatedServicesTitle": "Verwandte Dienstleistungen & Leitfäden",
+    "items": [
+      {
+        "q": "Wie viel kostet die Gründung eines Unternehmens in Dubai?",
+        "a": "Die Gründung eines Unternehmens in Dubai beginnt bei 9.500 AED für eine Basislizenz für eine Freizone. Auf dem Festland beginnen die Kosten bei 14.500 AED."
+      },
+      {
+        "q": "Kann ein Ausländer in Dubai ein Unternehmen zu 100 % besitzen?",
+        "a": "Ja, Ausländer können in den meisten Freizonen und bei vielen Aktivitäten auf dem Festland Unternehmen zu 100 % besitzen."
+      },
+      {
+        "q": "Welche ist die günstigste Freihandelszone in Dubai?",
+        "a": "RAK ICC, Ajman FTZ und SRTIP bieten die günstigsten Pakete ab 5.900 AED an."
+      },
+      {
+        "q": "Wie lange dauert die Unternehmensregistrierung in Dubai?",
+        "a": "Die Registrierung in der Freihandelszone dauert 3-7 Werktage. Auf dem Festland dauert es 2-4 Wochen."
+      },
+      {
+        "q": "Benötige ich einen lokalen Partner in Dubai?",
+        "a": "Nicht in Freihandelszonen. Auf dem Festland erlauben viele Aktivitäten mittlerweile 100% ausländisches Eigentum."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "Unternehmensgründung in Dubai Marina",
+        "desc": "Erkunden Sie die Einrichtungsmöglichkeiten in Dubai Marina",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/dubai-marina"
+      },
+      {
+        "icon": "FileText",
+        "title": "Firmengründung in Dubai Marina",
+        "desc": "Leitfaden zur Entstehung der Dubai Marina",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/dubai-marina"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bereit zum Start?",
+    "title": "Bereit, Ihr Unternehmen in Business Bay zu gründen?",
+    "titleHighlight": "Business Bay",
+    "subtitle": "Kontaktieren Sie noch heute unser Team von Experten für Unternehmensgründung für eine kostenlose Beratung. Wir begleiten Sie durch jeden Schritt des Gründungsprozesses.",
+    "primaryCta": "Kontaktieren Sie uns jetzt",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich möchte mein Unternehmen in Business Bay gründen."
+  }
+}

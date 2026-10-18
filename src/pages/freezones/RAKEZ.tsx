@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import rakezData from '../../content/freezones/rakez-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -27,8 +28,9 @@ const iconMap: any = {
 };
 
 export default function RAKEZ({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || rakezData;
-
+  const { language } = useLanguage();
+  const rakezFallback = loadContent('freezones/rakez-free-zone', language);
+  const data = tinaData?.data?.freeZones || rakezFallback;
   return (
     <div className="min-h-screen bg-white">
       {/* === 1. HERO === */}

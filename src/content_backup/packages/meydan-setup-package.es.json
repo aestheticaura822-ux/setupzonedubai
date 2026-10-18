@@ -1,0 +1,551 @@
+{
+    "slug":  "meydan-setup-package",
+    "hero":  {
+                 "badge":  "Destino de negocios de primera categorÁ­a",
+                 "title":  "Paquete de instalaciÁ³n de Meydan",
+                 "titleHighlight":  "Paquete",
+                 "subtitle":  "La prestigiosa Zona Franca de Meydan en Dubái. Paquetes asequibles desde tan solo 5999 AED: licencia, visa, cuenta bancaria y más.",
+                 "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "Paquete de instalaciÁ³n de Meydan",
+                 "ctaPrimaryText":  "Ver paquetes",
+                 "ctaPrimaryLink":  "#paquetes",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "¡Hola! Estoy interesado en el paquete de instalaciÁ³n de Meydan.",
+                 "badges":  [
+                                "Desde 5.999 AED",
+                                "11 paquetes",
+                                "InstalaciÁ³n en 3-7 dÁ­as",
+                                "Propiedad al 100%"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Signo de dÁ³lar",
+                      "value":  "5.999 AED",
+                      "label":  "A partir de",
+                      "color":  "de ámbar 400 a amarillo 600"
+                  },
+                  {
+                      "icon":  "Paquete",
+                      "value":  "11",
+                      "label":  "Paquetes",
+                      "color":  "de amarillo 400 a naranja 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "3-7",
+                      "label":  "ConfiguraciÁ³n de dÁ­as",
+                      "color":  "de naranja 400 a ámbar 600"
+                  },
+                  {
+                      "icon":  "Globo",
+                      "value":  "100%",
+                      "label":  "Propiedad",
+                      "color":  "de ámbar 400 a naranja 500"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "¡Estamos aquÁ­ para ayudar!",
+                  "title":  "Paquetes asequibles para la instalaciÁ³n de Meydan para su negocio en los Emiratos Árabes Unidos.",
+                  "titleHighlight":  "para su negocio en los Emiratos Árabes Unidos",
+                  "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "Zona Franca de Meydan",
+                  "imageBadgeText":  "Dubái, Emiratos Árabes Unidos",
+                  "paragraph1":  "¿Busca establecer su negocio en el prÁ³spero mercado de los EAU? Nuestro equipo de expertos se especializa en ayudar a emprendedores a crear empresas exitosas en más de 65 jurisdicciones.",
+                  "paragraph2":  "Tanto si prefiere la flexibilidad de una Zona Franca como el prestigio de una licencia comercial en el territorio continental de Estados Unidos, ofrecemos los mejores paquetes de creaciÁ³n de empresas en Dubái para satisfacer sus objetivos comerciales de alto nivel.",
+                  "paragraph3":  "Todos los paquetes ofrecen un punto de partida para su trayectoria empresarial y pueden personalizarse para adaptarse a sus necesidades.",
+                  "features":  [
+                                   "Más de 65 jurisdicciones",
+                                   "Zona Premium",
+                                   "Paquetes personalizables",
+                                   "Desde 5.999 AED",
+                                   "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                   "Soporte completo"
+                               ]
+              },
+    "businessIndustries":  {
+                               "badge":  "Ecosistema empresarial premium",
+                               "title":  "Diseñado para industrias de alta gama.",
+                               "titleHighlight":  "Industrias Premium",
+                               "subtitle":  "Seis sectores de alta gama que prosperan en la Zona Franca de Meydan.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Trofeo",
+                                                 "title":  "Deportes y equitaciÁ³n",
+                                                 "desc":  "Carreras, equitaciÁ³n, gestiÁ³n deportiva, eventos",
+                                                 "color":  "de ámbar 400 a amarillo 600"
+                                             },
+                                             {
+                                                 "icon":  "Hotel",
+                                                 "title":  "HostelerÁ­a y turismo",
+                                                 "desc":  "Hoteles, complejos turÁ­sticos, alimentos y bebidas, servicios de viajes",
+                                                 "color":  "de amarillo 400 a naranja 600"
+                                             },
+                                             {
+                                                 "icon":  "Auto",
+                                                 "title":  "AutomociÁ³n y lujo",
+                                                 "desc":  "AutomÁ³viles de lujo, concesionarios, productos de alta gama",
+                                                 "color":  "de naranja 400 a ámbar 600"
+                                             },
+                                             {
+                                                 "icon":  "Corona",
+                                                 "title":  "Lujo y estilo de vida",
+                                                 "desc":  "Moda, joyerÁ­a, venta minorista de alta gama",
+                                                 "color":  "de ámbar 400 a naranja 500"
+                                             },
+                                             {
+                                                 "icon":  "Utensilios",
+                                                 "title":  "Alimentos y bebidas y restaurantes",
+                                                 "desc":  "Restaurantes de alta cocina, cafeterÁ­as, servicios de catering",
+                                                 "color":  "de naranja 400 a rojo 600"
+                                             },
+                                             {
+                                                 "icon":  "Medalla",
+                                                 "title":  "Eventos y entretenimiento",
+                                                 "desc":  "Conciertos, exposiciones, eventos corporativos",
+                                                 "color":  "de rojo 400 a rosa 600"
+                                             }
+                                         ]
+                           },
+    "packages":  {
+                     "badge":  "Paquetes de instalaciÁ³n asequibles en Dubái",
+                     "title":  "Nuestros paquetes de instalaciÁ³n de Meydan",
+                     "titleHighlight":  "Paquetes de configuraciÁ³n de Meydan",
+                     "subtitle":  "11 paquetes premium diseñados para empresas premium. Todos personalizables.",
+                     "items":  [
+                                   {
+                                       "id":  1,
+                                       "icon":  "AviÁ³n",
+                                       "title":  "ConsultorÁ­a de viajes y turismo",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de ámbar 500 a amarillo 700",
+                                       "badge":  "Popular",
+                                       "badgeColor":  "de ámbar 500 a amarillo 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  2,
+                                       "icon":  "Cámara",
+                                       "title":  "GestiÁ³n de eventos",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de amarillo 500 a naranja 700",
+                                       "badge":  "De primera calidad",
+                                       "badgeColor":  "de amarillo 500 a naranja 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  3,
+                                       "icon":  "Carro de la compra",
+                                       "title":  "Comercio general",
+                                       "price":  "15.999 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de naranja 500 a ámbar 700",
+                                       "badge":  "Mejor relaciÁ³n calidad-precio",
+                                       "badgeColor":  "de naranja 500 a ámbar 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista en los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  4,
+                                       "icon":  "Paleta",
+                                       "title":  "Diseño de moda",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de ámbar 500 a naranja 700",
+                                       "badge":  "Creativo",
+                                       "badgeColor":  "de ámbar 500 a naranja 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  5,
+                                       "icon":  "Pesa",
+                                       "title":  "Fitness y estilo de vida",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de naranja 500 a rojo 700",
+                                       "badge":  "Asequible",
+                                       "badgeColor":  "de naranja 500 a rojo 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  6,
+                                       "icon":  "Carro de la compra",
+                                       "title":  "Comercio electrÁ³nico",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Listo para negocios en lÁ­nea",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de rojo 500 a rosa 700",
+                                       "badge":  "Popular",
+                                       "badgeColor":  "de rojo 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  7,
+                                       "icon":  "Computadora portátil",
+                                       "title":  "Servicios de TI",
+                                       "price":  "6.449 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "Profesional",
+                                       "color":  "de rosa 500 a rosa 700",
+                                       "badge":  "TecnologÁ­a",
+                                       "badgeColor":  "de rosa 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  8,
+                                       "icon":  "Almacenar",
+                                       "title":  "Comercio general",
+                                       "price":  "7.999 AED",
+                                       "tagline":  "Trading de nivel básico",
+                                       "category":  "Estándar",
+                                       "color":  "de rosa 500 a fucsia 700",
+                                       "badge":  "Mejor vendido",
+                                       "badgeColor":  "de rosa 500 a fucsia 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  9,
+                                       "icon":  "Corona",
+                                       "title":  "Licencia de zona franca con residencia vitalicia en los EAU.",
+                                       "price":  "11.999 AED",
+                                       "tagline":  "Residencia vitalicia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de fucsia-500 a pÁºrpura-700",
+                                       "badge":  "Exclusivo",
+                                       "badgeColor":  "de fucsia-500 a pÁºrpura-600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Residencia gratuita en los EAU / visa de inversionista de por vida",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  10,
+                                       "icon":  "Marca",
+                                       "title":  "Licencia de conducir continental con residencia en los Emiratos Árabes Unidos.",
+                                       "price":  "16.999 AED",
+                                       "tagline":  "Continente + Residencia",
+                                       "category":  "Continente",
+                                       "color":  "de pizarra-600 a pizarra-800",
+                                       "badge":  "Continente",
+                                       "badgeColor":  "de pizarra-600 a pizarra-700",
+                                       "includes":  [
+                                                        "Licencia continental",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento médico, identificaciÁ³n de los Emiratos Árabes Unidos y examen médico.",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "GestiÁ³n de proyectos",
+                                                                 "ConsultorÁ­a de gestiÁ³n",
+                                                                 "Agente comercial",
+                                                                 "GestiÁ³n de instalaciones",
+                                                                 "Servicios de limpieza",
+                                                                 "Mantenimiento de edificios"
+                                                             ]
+                                   },
+                                   {
+                                       "id":  11,
+                                       "icon":  "CorazÁ³n",
+                                       "title":  "Emprendimiento femenino",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Diseñado para mujeres emprendedoras.",
+                                       "category":  "Especial",
+                                       "color":  "de rosa 500 a rosa 700",
+                                       "badge":  "Especial",
+                                       "badgeColor":  "de rosa 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n de lujo en Dubái y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Coaching de estilo de vida",
+                                                                 "Marketing digital",
+                                                                 "Diseño de moda y ropa",
+                                                                 "GestiÁ³n de eventos",
+                                                                 "Servicios de consultorÁ­a"
+                                                             ]
+                                   }
+                               ]
+                 },
+    "customPackageCTA":  {
+                             "title":  "¿Necesitas un paquete Premium personalizado?",
+                             "subtitle":  "Cuéntenos su visiÁ³n empresarial de alta gama y crearemos el paquete perfecto.",
+                             "buttonText":  "CotizaciÁ³n personalizada",
+                             "whatsappMessage":  "¡Hola! Necesito un paquete de configuraciÁ³n personalizado para Meydan."
+                         },
+    "benefits":  {
+                     "badge":  "¿Por qué Meydan?",
+                     "title":  "Beneficios de la configuraciÁ³n de Meydan",
+                     "titleHighlight":  "ConfiguraciÁ³n de Meydan",
+                     "subtitle":  "Seis poderosas ventajas para las empresas de alta gama.",
+                     "items":  [
+                                   {
+                                       "icon":  "Corona",
+                                       "title":  "DirecciÁ³n prestigiosa",
+                                       "desc":  "La marca de lujo de Meydan",
+                                       "color":  "de ámbar 400 a amarillo 600"
+                                   },
+                                   {
+                                       "icon":  "Signo de dÁ³lar",
+                                       "title":  "ConfiguraciÁ³n de bajo costo",
+                                       "desc":  "Desde 5.999 AED",
+                                       "color":  "de amarillo 400 a naranja 600"
+                                   },
+                                   {
+                                       "icon":  "Globo",
+                                       "title":  "Propiedad 100% extranjera",
+                                       "desc":  "Propiedad extranjera total",
+                                       "color":  "de naranja 400 a ámbar 600"
+                                   },
+                                   {
+                                       "icon":  "Borrar",
+                                       "title":  "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                       "desc":  "ExpediciÁ³n rápida de licencias",
+                                       "color":  "de ámbar 400 a naranja 500"
+                                   },
+                                   {
+                                       "icon":  "Billetera",
+                                       "title":  "Entorno fiscal del 0%",
+                                       "desc":  "Beneficios libres de impuestos",
+                                       "color":  "de naranja 400 a rojo 600"
+                                   },
+                                   {
+                                       "icon":  "Estrella",
+                                       "title":  "Ecosistema Premium",
+                                       "desc":  "Red de negocios de lujo",
+                                       "color":  "de rojo 400 a rosa 600"
+                                   }
+                               ]
+                 },
+    "process":  {
+                    "badge":  "Proceso de 6 pasos",
+                    "title":  "CÁ³mo empezar",
+                    "titleHighlight":  "Comience",
+                    "subtitle":  "Desde la selecciÁ³n del paquete hasta la cuenta bancaria, nos encargamos de todo.",
+                    "steps":  [
+                                  {
+                                      "step":  "01",
+                                      "icon":  "Objetivo",
+                                      "title":  "Elige tu paquete",
+                                      "description":  "Seleccione entre nuestros paquetes premium.",
+                                      "color":  "de ámbar 400 a amarillo 600"
+                                  },
+                                  {
+                                      "step":  "02",
+                                      "icon":  "Firma del archivo",
+                                      "title":  "Enviar documentos",
+                                      "description":  "Copias del pasaporte, plan de negocios y fotografÁ­as.",
+                                      "color":  "de amarillo 400 a naranja 600"
+                                  },
+                                  {
+                                      "step":  "03",
+                                      "icon":  "ComprobaciÁ³n del portapapeles",
+                                      "title":  "Solicitud de licencia",
+                                      "description":  "Presentamos la solicitud ante la autoridad de Meydan.",
+                                      "color":  "de naranja 400 a ámbar 600"
+                                  },
+                                  {
+                                      "step":  "04",
+                                      "icon":  "Texto desplazable",
+                                      "title":  "Reciba su licencia",
+                                      "description":  "Se obtiene la licencia en un plazo de 3 a 7 dÁ­as.",
+                                      "color":  "de ámbar 400 a naranja 500"
+                                  }
+                              ]
+                },
+    "whyChooseUs":  {
+                        "badge":  "¿Por qué elegirnos?",
+                        "title":  "Su socio de confianza para la configuraciÁ³n de Meydan",
+                        "titleHighlight":  "Socio de configuraciÁ³n de Meydan",
+                        "subtitle":  "Ocho razones por las que las empresas de alta gama confÁ­an en nosotros.",
+                        "items":  [
+                                      {
+                                          "icon":  "Signo de dÁ³lar",
+                                          "label":  "Precios transparentes",
+                                          "desc":  "Sin cargos ocultos, nunca."
+                                      },
+                                      {
+                                          "icon":  "Borrar",
+                                          "label":  "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                          "desc":  "ExpediciÁ³n rápida de licencias"
+                                      },
+                                      {
+                                          "icon":  "ShieldCheck",
+                                          "label":  "Cumplimiento al 100%",
+                                          "desc":  "Totalmente aprobado por el gobierno."
+                                      },
+                                      {
+                                          "icon":  "VerificaciÁ³n de usuario",
+                                          "label":  "Consultor especializado",
+                                          "desc":  "Asesor personal"
+                                      },
+                                      {
+                                          "icon":  "Globo",
+                                          "label":  "Equipo multilingüe",
+                                          "desc":  "Inglés, árabe, hindi, urdu"
+                                      },
+                                      {
+                                          "icon":  "ActualizarCw",
+                                          "label":  "Consulta sobre el IVA",
+                                          "desc":  "Incluido gratis"
+                                      },
+                                      {
+                                          "icon":  "Otorgar",
+                                          "label":  "Más de 10.000 empresas",
+                                          "desc":  "Lanzado con éxito"
+                                      },
+                                      {
+                                          "icon":  "ApretÁ³n de manos",
+                                          "label":  "Soporte integral",
+                                          "desc":  "Licencia para abrir una cuenta bancaria"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Preguntas frecuentes",
+                 "title":  "Preguntas frecuentes",
+                 "titleHighlight":  "Preguntas",
+                 "subtitle":  "Todo lo que necesitas saber sobre la Zona Franca de Meydan. ¿AÁºn tienes preguntas? Estamos a un mensaje de distancia.",
+                 "items":  [
+                               {
+                                   "q":  "¿Qué es la Zona Franca de Meydan?",
+                                   "a":  "La Zona Franca de Meydan es una prestigiosa zona franca en Dubái, reconocida por su vÁ­nculo con el emblemático HipÁ³dromo de Meydan y su estilo de vida de lujo. Ofrece una instalaciÁ³n de bajo costo, propiedad 100% extranjera y obtenciÁ³n de licencias rápida en un plazo de 3 a 7 dÁ­as hábiles."
+                               },
+                               {
+                                   "q":  "¿DÁ³nde se encuentra la Zona Franca de Meydan?",
+                                   "a":  "La Zona Franca de Meydan está ubicada en Dubái, Emiratos Árabes Unidos, cerca del emblemático HipÁ³dromo de Meydan. Ofrece una excelente conectividad con el centro de Dubái, Business Bay y las principales autopistas y aeropuertos."
+                               },
+                               {
+                                   "q":  "¿Qué incluye el paquete de instalaciÁ³n de Meydan?",
+                                   "a":  "SegÁºn el paquete, obtendrá la licencia de Zona Franca, visa de residencia, documento de identidad emiratÁ­ (Examen médico), contrato de arrendamiento, asistencia para la apertura de cuenta bancaria, direcciÁ³n premium y consulta gratuita sobre el IVA."
+                               },
+                               {
+                                   "q":  "¿Cuánto cuesta un paquete Meydan?",
+                                   "a":  "Nuestros paquetes Meydan tienen precios que van desde 5999 AED (EconÁ³mico) hasta 16 999 AED (Tierra continental + Residencia). Los paquetes Premium con visa comienzan en 14 499 AED."
+                               },
+                               {
+                                   "q":  "¿Cuánto tiempo tarda la instalaciÁ³n?",
+                                   "a":  "Normalmente, la emisiÁ³n de la licencia tarda entre 3 y 7 dÁ­as hábiles, y la tramitaciÁ³n del visado y la apertura de la cuenta bancaria requieren entre 1 y 2 semanas adicionales."
+                               },
+                               {
+                                   "q":  "¿Puedo personalizar mi paquete?",
+                                   "a":  "SÁ­. Todos los paquetes son puntos de partida y se pueden personalizar para adaptarlos a su negocio, necesidades de visado y presupuesto."
+                               },
+                               {
+                                   "q":  "¿Puedo obtener un visado de residencia en los Emiratos Árabes Unidos?",
+                                   "a":  "SÁ­, algunos paquetes incluyen un visado de inversionista/residencia en los EAU con examen médico, documento de identidad de los Emiratos y cambio de estatus. La licencia de zona franca con residencia vitalicia en los EAU incluso ofrece residencia de por vida."
+                               },
+                               {
+                                   "q":  "¿Está incluida la apertura de una cuenta bancaria?",
+                                   "a":  "SÁ­. Todos los paquetes incluyen asistencia gratuita para la apertura de cuentas bancarias corporativas en los principales bancos de los Emiratos Árabes Unidos."
+                               },
+                               {
+                                   "q":  "¿Qué actividades puedo realizar en la Zona Franca de Meydan?",
+                                   "a":  "Meydan ofrece servicios para los sectores de deportes y equitaciÁ³n, hostelerÁ­a y turismo, automociÁ³n y lujo, lujo y estilo de vida, alimentaciÁ³n y bebidas y restaurantes, eventos y entretenimiento, y otras industrias de alta gama, con hasta 5 actividades en la mayorÁ­a de los paquetes econÁ³micos."
+                               },
+                               {
+                                   "q":  "¿Por qué elegir Setup Zone Dubai para la instalaciÁ³n en Meydan?",
+                                   "a":  "Ofrecemos precios transparentes, amplia experiencia en el sector, consultores especializados y soporte integral, desde la obtenciÁ³n de la licencia hasta la apertura de la visa y la apertura de la cuenta bancaria. Todo ello respaldado por más de 10 000 instalaciones exitosas."
+                               }
+                           ]
+             },
+    "finalCTA":  {
+                     "badge":  "Inicie hoy mismo su negocio premium.",
+                     "title":  "¿Listo para lanzar tu tienda en Meydan, Dubái?",
+                     "titleHighlight":  "¿Meydan Dubai?",
+                     "subtitle":  "Solicita una consulta gratuita. Te ayudaremos a elegir el paquete adecuado y a poner en marcha tu negocio premium en cuestiÁ³n de dÁ­as.",
+                     "primaryCta":  "Contáctanos por WhatsApp",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "¡Hola! Me gustarÁ­a una consulta gratuita sobre el paquete de configuraciÁ³n de Meydan.",
+                     "badges":  [
+                                    "Desde 5.999 AED",
+                                    "InstalaciÁ³n en 3-7 dÁ­as",
+                                    "Propiedad al 100%"
+                                ],
+                     "office":  {
+                                    "label":  "Visite nuestra oficina en Dubái.",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado postal: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Horario laboral",
+                                   "monFri":  "8:00 - 18:00",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Cerrado"
+                               }
+                 }
+}

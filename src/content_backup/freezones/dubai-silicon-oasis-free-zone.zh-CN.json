@@ -1,0 +1,413 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&q=80",
+  "heroBadge": "启动更智能，增长更快。",
+  "heroTitle": "迪拜硅谷绿洲自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "在迪拜的智能科技中心打造您的未来。这座专为企业家、创新者和未来企业（人工智能、机器人、电子商务和软件）而建的智慧城市。",
+  "heroChips": [
+    "100% 所有权",
+    "零税",
+    "3-5天安装完成"
+  ],
+  "heroCircles": {
+    "primary": {
+      "icon": "Cpu",
+      "value": "科技",
+      "label": "智慧城市中心",
+      "color": "from-indigo-400 to-purple-600"
+    },
+    "secondary": {
+      "icon": "Rocket",
+      "value": "5000+",
+      "label": "企业",
+      "color": "from-violet-400 to-purple-600"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-indigo-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "所得税",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "5000+",
+      "label": "公司",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "迪拜科技中心",
+    "title": "为什么选择迪拜硅谷绿洲自由区？",
+    "titleHighlight": "自由区？",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80",
+    "imageBadgeTitle": "位于",
+    "imageBadgeText": "迪拜硅谷绿洲",
+    "paragraphs": [
+      "迪拜硅谷绿洲自由区 (DSO) 是一个屡获殊荣的创新区，专为初创企业、科技公司和先进制造商而打造。",
+      "它融合了迪拜的黄金地段和智慧城市生活方式，为企业主提供了一个独具匠心的平台，助力其创新、互动和发展。人才资源、完善的法律框架、先进的智能基础设施以及更为友好的监管环境，使迪拜可持续发展办公室（DSO）成为一个能够帮助企业面向未来的平台。"
+    ],
+    "highlights": [
+      "屡获殊荣的地区",
+      "智慧城市生活",
+      "先进基础设施",
+      "全球市场准入"
+    ]
+  },
+  "bentoSection": {
+    "badge": "为什么选择 DSO",
+    "title": "通往科技创新的门户",
+    "titleHighlight": "技术创新",
+    "largeCards": [
+      {
+        "icon": "Cpu",
+        "title": "智能科技中心",
+        "description": "迪拜首屈一指的人工智能、软件、机器人和未来产业创新区。",
+        "color": "from-indigo-500 via-purple-600 to-indigo-700"
+      },
+      {
+        "icon": "Server",
+        "title": "先进基础设施",
+        "description": "数据中心、创新实验室、物流中心和安全工作空间，尽在一个生态系统中。",
+        "color": "from-cyan-500 via-teal-600 to-cyan-700"
+      }
+    ],
+    "smallCards": [
+      {
+        "icon": "GraduationCap",
+        "title": "人才获取",
+        "description": "毗邻顶尖大学和创新中心，拥有高技能人才。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速设置",
+        "description": "许可证办理只需 3-5 天——是科技自由区中最快的。",
+        "color": "from-amber-400 to-orange-600"
+      }
+    ]
+  },
+  "smartCitySection": {
+    "badge": "智慧城市特色",
+    "title": "智慧城市，应有尽有",
+    "titleHighlight": "智慧城市",
+    "subtitle": "商业、生活和创新——三者融为一体。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "办公基础设施",
+        "description": "联合办公空间、行政套房、创新实验室、物流中心和安全数据中心。"
+      },
+      {
+        "icon": "Home2",
+        "title": "社区与宜居性",
+        "description": "智能别墅、国际学校、健身房、商店和生态公园，打造平衡的生活方式。"
+      },
+      {
+        "icon": "Layers",
+        "title": "全方位支持",
+        "description": "网站建设、电子商务、客户关系管理、品牌推广、银行业务、增值税、簿记——全部由公司内部完成。"
+      },
+      {
+        "icon": "MapPin",
+        "title": "战略位置",
+        "description": "距迪拜国际机场仅 20 分钟路程，可直达主要高速公路。"
+      },
+      {
+        "icon": "Plane",
+        "title": "签证与移民",
+        "description": "签证全程服务——投资签证、雇员签证和家属签证。"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "设置过程",
+    "title": "智慧城市中的智能设置",
+    "titleHighlight": "智慧城市",
+    "subtitle": "从选择活动到开设银行账户，只需简化 6 个步骤。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "选择业务活动",
+        "description": "从DSO认可的技术和创新活动中进行选择，包括软件、人工智能和电子商务。",
+        "icon": "Target",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "title": "选择法律结构",
+        "description": "FZE适用于单一股东，FZCO适用于多个股东，分公司适用于现有公司。",
+        "icon": "Building2",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "03",
+        "title": "预留商标",
+        "description": "请按照DSO命名指南提交公司名称以供审核。",
+        "icon": "FileText",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "04",
+        "title": "提交文件",
+        "description": "护照复印件、照片、申请表以及任何其他所需文件。",
+        "icon": "FileCheck",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "title": "颁发许可证",
+        "description": "几天内即可获得您的贸易许可证、服务许可证、工业许可证或电子商务许可证。",
+        "icon": "BadgeCheck",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "step": "06",
+        "title": "Visa 和银行账户",
+        "description": "申请居留签证并开设公司银行账户以开始运营。",
+        "icon": "Landmark",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "DSO营业执照",
+    "titleHighlight": "许可证",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "营业执照",
+        "description": "用于买卖货物。",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "适用于咨询公司、软件公司和媒体公司。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "用于制造业和工业活动。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "适用于数字商店和在线商店。",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "商业活动",
+    "title": "创意起飞的地方",
+    "titleHighlight": "起飞",
+    "subtitle": "DSO 为众多前沿行业提供支持。如果您身处科技行业，DSO 就是您的竞争对手、合作伙伴和客户经常聚集的地方。",
+    "items": [
+      {
+        "icon": "Code",
+        "label": "软件及应用开发"
+      },
+      {
+        "icon": "Bot",
+        "label": "人工智能与机器学习"
+      },
+      {
+        "icon": "Cpu",
+        "label": "机器人与自动化"
+      },
+      {
+        "icon": "Wifi",
+        "label": "物联网和智能设备"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "网络安全"
+      },
+      {
+        "icon": "Layers",
+        "label": "区块链"
+      },
+      {
+        "icon": "Server",
+        "label": "数据中心"
+      },
+      {
+        "icon": "Cpu",
+        "label": "电子组装"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "电子商务"
+      },
+      {
+        "icon": "Truck",
+        "label": "物流平台"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "金融科技"
+      },
+      {
+        "icon": "Heart",
+        "label": "生物技术"
+      }
+    ],
+    "helperCard": {
+      "title": "需要帮忙挑选吗？",
+      "text": "我们帮助您明确业务活动，并确保其符合 DSO 批准的许可类别——同时保持灵活性，以适应未来的增长。"
+    }
+  },
+  "whoShouldSection": {
+    "badge": "适用人群",
+    "title": "谁应该在DSO设立机构？",
+    "titleHighlight": "DSO？",
+    "subtitle": "非常适合这些行业和企业类型。",
+    "items": [
+      {
+        "icon": "Cpu",
+        "title": "人工智能与机器人",
+        "description": "人工智能和机器人公司。",
+        "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Code",
+        "title": "软件和应用程序",
+        "description": "软件、应用和平台开发人员。",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "网络安全",
+        "description": "网络安全和区块链公司。",
+        "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务",
+        "description": "在线业务和数字平台。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "先进制造",
+        "description": "电子组装和芯片设计。",
+        "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "物流技术",
+        "description": "供应链和物流平台。",
+        "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜硅谷绿洲自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的DSO专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜硅谷绿洲自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是迪拜硅谷绿洲自由区？哪些企业适合在此设立公司？",
+        "a": "DSO是由政府支持的创新园区和自由区，专为科技型企业、初创公司和先进制造业而设计。是人工智能、软件、机器人、电子商务、金融科技和物联网公司的理想之选。"
+      },
+      {
+        "q": "DSO 提供哪些许可证？",
+        "a": "贸易许可证（买卖商品）、服务许可证（咨询、软件、媒体）、工业许可证（制造业）和电子商务许可证（网上商店）。"
+      },
+      {
+        "q": "自由职业者可以在DSO注册公司吗？",
+        "a": "是的。DSO为个人专业人士提供自由职业许可证和经济实惠的套餐。"
+      },
+      {
+        "q": "成立一家DSO公司需要多长时间？",
+        "a": "通常需要 3-5 个工作日，具体取决于文件和许可证类型。"
+      },
+      {
+        "q": "我需要哪些文件？",
+        "a": "护照复印件、数码照片、申请表、商业计划书（适用于某些活动）以及无异议证明（如适用）。"
+      },
+      {
+        "q": "我可以用我的DSO公司名义申请签证吗？",
+        "a": "是的。DSO 会根据办事处类型和规模设定签证配额——投资者签证、雇员签证和家属签证。"
+      },
+      {
+        "q": "有哪些类型的办公室可供选择？",
+        "a": "联合办公空间、行政套房、私人办公室、创新实验室、物流中心和数据中心。"
+      },
+      {
+        "q": "设置成本是多少？",
+        "a": "价格从大约 15,500 迪拉姆起，具体价格取决于活动内容、结构和套餐。请联系我们获取定制报价。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的自由区设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "web-development",
+        "title": "网站开发",
+        "description": "面向科技企业的现代化网站。",
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始",
+    "title": "准备好在迪拜硅谷绿洲启动项目了吗？",
+    "titleHighlight": "迪拜硅谷绿洲？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置流程——从选择业务类型到颁发许可证和开设银行账户。",
+    "chips": [
+      "免费咨询",
+      "5000+ 客户",
+      "3-5天安装完成"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于在迪拜硅谷绿洲自由区设立公司的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一下迪拜硅谷绿洲的建设方案。"
+  }
+}

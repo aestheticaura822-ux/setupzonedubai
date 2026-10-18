@@ -1,0 +1,345 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1600&q=80",
+  "heroBadge": "打造一个真正有效的网站",
+  "heroTitle": "迪拜网站开发",
+  "heroTitleHighlight": "迪拜",
+  "heroSubtitle": "专业的网站设计和开发解决方案，提升品牌知名度，改善用户体验，并提高转化率。定制网站，全天候为您的业务服务。",
+  "heroChips": [
+    "快速加载",
+    "移动优先",
+    "SEO 就绪"
+  ],
+  "stats": [
+    {
+      "icon": "Gauge",
+      "value": "90岁以上",
+      "label": "页面速度评分",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Smartphone",
+      "value": "100%",
+      "label": "移动响应式",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Search",
+      "value": "SEO",
+      "label": "内置式",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "网站建设",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyEssentialSection": {
+    "badge": "为什么这很重要",
+    "title": "为什么专业的网站很重要？",
+    "titleHighlight": "重要的？",
+    "subtitle": "在当今以数字优先的经济时代，您的网站是客户对您品牌的第一印象。务必重视它。",
+    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&q=80",
+    "imageBadgeTitle": "第一印象",
+    "imageBadgeText": "您的网站很重要。",
+    "items": [
+      {
+        "icon": "Eye",
+        "title": "第一印象很重要",
+        "description": "网站是客户首先看到的东西。速度慢或过时的网站会立即失去信誉。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "全天候数字销售员",
+        "description": "一个优秀的网站日夜不停地工作——吸引、互动并将访客转化为客户。"
+      },
+      {
+        "icon": "Smartphone",
+        "title": "移动优先体验",
+        "description": "阿联酋超过70%的流量来自移动设备。您的网站必须在所有设备上都能完美显示和运行。"
+      },
+      {
+        "icon": "Gauge",
+        "title": "速度 = 收入",
+        "description": "每延迟1秒，转化率就会降低7%。网站速度快，盈利能力强。"
+      },
+      {
+        "icon": "Search",
+        "title": "SEO 优化结构",
+        "description": "搜索引擎优化代码有助于提高您在谷歌上的排名，并吸引自然流量。"
+      },
+      {
+        "icon": "Target",
+        "title": "以转化率为导向的设计",
+        "description": "巧妙的布局、行动号召和用户流程，将访客转化为付费客户。"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "我们提供的服务",
+    "title": "我们提供的网站开发服务",
+    "titleHighlight": "我们提供",
+    "subtitle": "为阿联酋企业提供全方位的网站开发解决方案。",
+    "items": [
+      {
+        "icon": "Palette",
+        "title": "定制网站开发",
+        "description": "完全定制化的设计，体现您的品牌形象，传递您的价值主张，满足您的业务需求。",
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务开发",
+        "description": "基于 Shopify、WooCommerce、Magento 的安全、可扩展的在线商店——具备支付网关和库存集成功能。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80"
+      },
+      {
+        "icon": "Building2",
+        "title": "企业网站",
+        "description": "专业的企业网站，可以建立信誉、展示您的服务并体现您的声誉。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Target",
+        "title": "着陆页设计",
+        "description": "针对营销活动、产品发布和潜在客户开发，打造高影响力、以转化为中心的页面。",
+        "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800&q=80"
+      },
+      {
+        "icon": "Layout",
+        "title": "内容管理系统",
+        "description": "灵活的CMS平台——WordPress、Drupal、Joomla。您可以掌控自己的内容，轻松更新。",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80"
+      },
+      {
+        "icon": "Database",
+        "title": "Web应用程序开发",
+        "description": "功能强大的网络应用程序，可简化流程、提升客户体验并提高效率。",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "创新与功能的完美结合",
+    "titleHighlight": "功能",
+    "subtitle": "我们专注于打造高性能、可扩展且符合 SEO 标准的网站，旨在实现长期成功——将阿联酋本地市场专业知识与国际最佳实践相结合。",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&q=80",
+    "ctaText": "与开发人员交谈",
+    "ctaMessage": "您好！我想和您讨论一下我公司的网站项目。",
+    "features": [
+      {
+        "icon": "Award",
+        "label": "本地市场专长 + 全球标准"
+      },
+      {
+        "icon": "Smartphone",
+        "label": "始终采用移动优先策略"
+      },
+      {
+        "icon": "Gauge",
+        "label": "速度、安全性和可靠性至上"
+      },
+      {
+        "icon": "Search",
+        "label": "从第一天起就具备搜索引擎优化 (SEO) 功能"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "面向未来且可扩展"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "持续维护与支持"
+      }
+    ],
+    "browserMockup": {
+      "url": "https://yourbusiness.ae",
+      "brand": "你的品牌",
+      "navLinks": [
+        "家",
+        "服务",
+        "关于"
+      ],
+      "ctaButton": "接触",
+      "stats": [
+        {
+          "value": "98",
+          "label": "速度",
+          "bg": "bg-emerald-500/20",
+          "border": "border-emerald-400/30"
+        },
+        {
+          "value": "100%",
+          "label": "移动的",
+          "bg": "bg-sky-500/20",
+          "border": "边框天空-400/30"
+        },
+        {
+          "value": "A+",
+          "label": "SEO",
+          "bg": "bg-violet-500/20",
+          "border": "紫色边框-400/30"
+        }
+      ]
+    }
+  },
+  "processSection": {
+    "badge": "我们的流程",
+    "title": "从规划到执行",
+    "titleHighlight": "表现",
+    "subtitle": "一个结构化、透明且以结果为导向的流程。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "探索与战略",
+        "description": "深入咨询，帮助您明确品牌、受众、业务目标，并制定战略路线图。",
+        "icon": "MessageCircle",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "02",
+        "title": "设计与原型",
+        "description": "在开发开始之前，我们会制作线框图和视觉模型以供审批。",
+        "icon": "Palette",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "03",
+        "title": "开发与测试",
+        "description": "简洁的代码、响应式的布局，以及在所有设备和浏览器上的严格测试。",
+        "icon": "Code",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "04",
+        "title": "发布与支持",
+        "description": "部署到您的域，集成工具，并提供持续的维护和改进。",
+        "icon": "Rocket",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "revenueSection": {
+    "badge": "营收驱动因素",
+    "title": "将您的网站变成盈利引擎",
+    "titleHighlight": "利润引擎",
+    "subtitle": "一个精心打造的网站不仅仅是一个在线平台，更是一个强大的商业渠道，能够建立品牌信任、提升信誉，并推动可衡量的收入增长。",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+    "imageBadgeTitle": "收益引擎",
+    "imageBadgeText": "平均增长率 +156%",
+    "items": [
+      {
+        "icon": "Eye",
+        "title": "品牌信任",
+        "description": "专业的设计能够立即赢得访客的信任。"
+      },
+      {
+        "icon": "Target",
+        "title": "更高的转化率",
+        "description": "精心设计的行动号召和布局可以将访客转化为顾客。"
+      },
+      {
+        "icon": "Gauge",
+        "title": "更快的加载速度",
+        "description": "速度可以降低弹跳率并提高参与度。"
+      },
+      {
+        "icon": "Lock",
+        "title": "安全支付",
+        "description": "安全的结账流程可以增强顾客的信心。"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜网站开发，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "获取我们团队提供的免费网站审核和咨询服务。",
+      "whatsappMessage": "您好！我有一个关于迪拜网站开发的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜建一个网站需要多少钱？",
+        "a": "费用根据项目类型、设计复杂程度和功能而有所不同。我们提供从基础企业网站到大型电子商务平台的各种套餐——满足各种预算需求。"
+      },
+      {
+        "q": "开发一个网站需要多长时间？",
+        "a": "落地页：1-2周。企业网站：3-4周。电商网站：6-8周。具体时间取决于您的需求以及内容交付速度。"
+      },
+      {
+        "q": "我的网站是否支持移动设备访问？",
+        "a": "当然。我们开发的每个网站都以移动端优先，并在智能手机、平板电脑和台式电脑上进行过测试。"
+      },
+      {
+        "q": "你们是否构建符合搜索引擎优化 (SEO) 标准的网站？",
+        "a": "是的。我们所有的网站都采用简洁的代码、优化的元标签、快速的加载速度和移动响应式设计——所有SEO基本要素都已内置。"
+      },
+      {
+        "q": "我已经有网站了——你能帮我重新设计一下吗？",
+        "a": "是的。我们提供网站重新设计服务，以使过时的网站现代化，提高速度，并提升用户体验。"
+      },
+      {
+        "q": "你们也做电商网站开发吗？",
+        "a": "是的。我们使用 Shopify、WooCommerce 和 Magento 构建电子商务网站，并提供完整的支付网关和库存集成。"
+      },
+      {
+        "q": "我可以自己更新我的网站吗？",
+        "a": "是的。我们使用 WordPress 等内容管理系统平台，因此您无需任何技术技能即可轻松更新内容、添加页面和管理您的网站。"
+      },
+      {
+        "q": "你们提供网站维护和支持服务吗？",
+        "a": "是的。我们提供持续维护套餐，其中包括更新、备份、安全监控和技术支持。"
+      },
+      {
+        "q": "能否集成支付网关和其他工具？",
+        "a": "当然。我们集成了支付网关（Stripe、PayPal、Telr 等）、客户关系管理系统、预订工具和营销平台。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与网站开发相辅相成的服务。",
+    "items": [
+      {
+        "slug": "seo",
+        "title": "搜索引擎优化服务",
+        "description": "提高谷歌排名，带来自然流量。",
+        "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80",
+        "gradient": "from-lime-400 to-green-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "数字营销",
+        "description": "定制营销活动、社交媒体和内容策略。",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-pink-400 to-rose-600"
+      },
+      {
+        "slug": "accounting",
+        "title": "会计",
+        "description": "簿记、增值税和财务报告。",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "让我们携手共建",
+    "title": "准备好打造面向未来的网站了吗？",
+    "titleHighlight": "面向未来的网站？",
+    "subtitle": "您的目标受众现在正在搜索您。与我们合作，即可拥有一个像您一样努力工作的网站——全天候24小时不间断。",
+    "chips": [
+      "免费网站审核",
+      "已建成 500 多个网站",
+      "持续支持"
+    ],
+    "whatsappMessage": "您好！我想为我的企业获取一次免费的网站咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一个网站开发项目。"
+  }
+}

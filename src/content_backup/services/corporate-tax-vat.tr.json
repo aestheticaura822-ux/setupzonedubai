@@ -1,0 +1,326 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600\u0026q=80",
+    "heroBadge":  "Kurallara Uygun Kalın ve Cezadan Uzak Durun",
+    "heroTitle":  "Birleşik Arap Emirlikleri\u0027nde Kurumsal Vergi ve KDV Hizmetleri",
+    "heroTitleHighlight":  "Birleşik Arap Emirlikleri",
+    "heroSubtitle":  "İşletmenizin BAE\u0027de cezasız kalması için uzman vergi danışmanlığı, FTA kaydı ve uyumluluk hizmetleri. KDV beyannamelerinden Kurumlar Vergisi beyannamelerine kadar her şeyi biz hallediyoruz.",
+    "heroChips":  [
+                      "FTA Kayıtlı",
+                      "15+ Yıllık Deneyim",
+                      "500\u0027den fazla Müşteri"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Yüzde",
+                      "value":  "%9",
+                      "label":  "Kurumlar Vergisi Oranı",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Fiş",
+                      "value":  "%5",
+                      "label":  "KDV Oranı",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  },
+                  {
+                      "icon":  "Trend Yükseliyor",
+                      "value":  "375K",
+                      "label":  "AED Eşik Değeri",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "500+",
+                      "label":  "Dosyalama İşlemleri Tamamlandı",
+                      "color":  "from-amber-400 to-orange-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Temel Bilgileri Anlamak",
+                          "title":  "Birleşik Arap Emirlikleri\u0027nde Kurumlar Vergisi ve KDV Nedir?",
+                          "titleHighlight":  "Birleşik Arap Emirlikleri mi?",
+                          "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Yöneten",
+                          "imageBadgeText":  "Federal Vergi Otoritesi (FTA)",
+                          "paragraphs":  [
+                                             "Birleşik Arap Emirlikleri\u0027nde işletmeler için iki vergi düzenlemesi geçerlidir: Kurumlar Vergisi ve Katma Değer Vergisi (KDV). Kurumlar Vergisi, yıllık net karı 375.000 AED\u0027nin üzerinde olan şirketler için %9 olarak belirlenmiştir. KDV ise çoğu mal ve hizmet için %5 oranında uygulanmaktadır.",
+                                             "Her iki vergi de Federal Vergi Otoritesi (FTA) tarafından yönetilmektedir. FTA her ikisini de yönetse de, ayrı kayıt, doğru beyan ve düzgün kayıt tutma gerektirirler. Son teslim tarihlerinin kaçırılması cezalara yol açtığı için, belgelerin dikkatli bir şekilde yönetilmesi çok önemlidir."
+                                         ],
+                          "highlights":  [
+                                             "FTA\u0027ya kayıtlı.",
+                                             "Ceza gerektirmeyen uyumluluk",
+                                             "Uzman vergi danışmanlığı",
+                                             "Serbest Bölge uzmanlığı"
+                                         ]
+                      },
+    "whoNeedsSection":  {
+                            "badge":  "Birleşik Arap Emirlikleri İşletmeleri İçin Vazgeçilmez",
+                            "title":  "Kurumlar Vergisi ve KDV Hizmetlerine Kimler İhtiyaç Duyar?",
+                            "titleHighlight":  "KDV Hizmetleri?",
+                            "subtitle":  "İşletmeniz bu kategorilerden herhangi birine giriyorsa, profesyonel vergi hizmetleri şarttır.",
+                            "items":  [
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Birleşik Arap Emirlikleri\u0027nde Vergilendirilen İşletmeler",
+                                              "description":  "Anakara ve Serbest Bölge şirketlerinin tamamı kayıt yaptırmak, beyanname vermek ve BAE Kurumlar Vergisi ve KDV kanunlarına uymak zorundadır.",
+                                              "badge":  "Öncelik",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200\u0026q=80",
+                                              "gradient":  "zümrüt-600/95\u0027ten turkuaz-600/85\u0027e şeffaf"
+                                          },
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "375.000 AED\u0027nin Üzerindeki İşletmeler",
+                                              "description":  "Yıllık net karınız 375.000 AED\u0027yi aşarsa, Kurumlar Vergisi rejimine tabisiniz ve geçerli karlar üzerinden %9 vergi ödemeniz gerekir.",
+                                              "miniStat":  "375.000 AED+",
+                                              "miniStatLabel":  "Yıllık kar eşiği"
+                                          },
+                                          {
+                                              "icon":  "Fiş",
+                                              "title":  "375.000 AED üzeri KDV\u0027li ürünler",
+                                              "description":  "Vergilendirilebilir satışlarınız 12 ay içinde 375.000 AED\u0027yi aşarsa, üç aylık veya aylık beyannamelerle KDV kaydı yaptırmak zorunludur.",
+                                              "miniStat":  "Üç aylık",
+                                              "miniStatLabel":  "KDV beyannamesi verme zorunluluğu"
+                                          },
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "Küresel Genişleme Firmaları",
+                                              "description":  "Büyüme aşamasında olan, yeniden yapılanan veya vergi grupları oluşturan işletmelerin uyumluluk ve finansal raporlama konusunda uzman rehberliğine ihtiyaçları vardır.",
+                                              "badge":  "Küresel",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                                              "gradient":  "from-violet-600/95 via-purple-600/85 to-transparent"
+                                          }
+                                      ],
+                            "indicators":  [
+                                               {
+                                                   "icon":  "Kalkan Kontrolü",
+                                                   "label":  "FTA Kayıtlı"
+                                               },
+                                               {
+                                                   "icon":  "Ödül",
+                                                   "label":  "Sertifikalı Uzmanlar"
+                                               },
+                                               {
+                                                   "icon":  "Dosya Kontrolü",
+                                                   "label":  "Denetime Hazır Kayıtlar"
+                                               }
+                                           ]
+                        },
+    "servicesSection":  {
+                            "badge":  "Kapsamlı Vergi Desteği",
+                            "title":  "Hizmetlerimiz Neleri Kapsıyor?",
+                            "titleHighlight":  "Katmak?",
+                            "subtitle":  "Kayıttan denetim desteğine kadar eksiksiz vergi çözümleri.",
+                            "items":  [
+                                          {
+                                              "icon":  "Dosya Kontrolü",
+                                              "title":  "Vergi Kaydı ve Beyannamesi",
+                                              "description":  "FTA\u0027ya kaydolun, vergilendirilebilir kÃ¢rlarınızı belirleyin, doğru beyannamelerinizi zamanında gönderin."
+                                          },
+                                          {
+                                              "icon":  "Fiş",
+                                              "title":  "KDV Kurulumu ve Güncellemeleri",
+                                              "description":  "Gerekli durumlarda KDV kaydını, değişikliklerini ve iptalini tamamlayın."
+                                          },
+                                          {
+                                              "icon":  "Hesap Makinesi",
+                                              "title":  "KDV Beyannamesi Doldurma",
+                                              "description":  "Üç aylık veya aylık KDV beyannamelerinizi doğru bir şekilde hazırlayıp FTA\u0027ya gönderin."
+                                          },
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "KDV Takibi ve Mutabakatı",
+                                              "description":  "Giriş/çıkış KDV\u0027sini takip edin, mutabakatını yapın ve uygun krediler için belgeleyin."
+                                          },
+                                          {
+                                              "icon":  "Ödül",
+                                              "title":  "Vergi İadeleri ve Uyumluluk",
+                                              "description":  "Giriş KDV\u0027sinin çıkış KDV\u0027sini aştığı durumlarda veya yeni işletmeler için iade taleplerini yönetin."
+                                          },
+                                          {
+                                              "icon":  "DosyaMetni",
+                                              "title":  "Muhasebe ve Danışmanlık",
+                                              "description":  "FTA gerekliliklerini karşılamak için yapılandırılmış muhasebe ve kayıt tutma."
+                                          },
+                                          {
+                                              "icon":  "Kalkan Kontrolü",
+                                              "title":  "FTA Denetim Desteği",
+                                              "description":  "Eksiksiz dokümantasyon, mali tablolar ve denetimler sırasında temsil."
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "title":  "Vergi Danışmanlığı ve Yapılandırması",
+                                              "description":  "Vergi planlaması, grup yapıları ve mevzuatla ilgili üç aylık güncellemeler."
+                                          }
+                                      ]
+                        },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Güvenilir BAE Vergi Uzmanları",
+                               "titleHighlight":  "Uzmanlar",
+                               "subtitle":  "Birleşik Arap Emirlikleri Kurumsal Vergi Kanunu ve KDV kanunları konusunda kapsamlı bilgi birikimimiz sayesinde, işletmenizin her zaman uyumlu ve denetime hazır olmasını sağlıyoruz. Sertifikalı muhasebecilerimiz, hukuk danışmanlarımız ve uyumluluk uzmanlarımız, FTA kaydınızın ve vergi beyannamenizin her detayını yönetir.",
+                               "image":  "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=1200\u0026q=80",
+                               "features":  [
+                                                "Sertifikalı muhasebeciler ve vergi uzmanları",
+                                                "Şeffaf fiyatlandırma "” gizli ücret yok",
+                                                "Gerçek zamanlı takip ve son tarih bildirimleri",
+                                                "Serbest Bölge, Anakara ve Açık Deniz uzmanlığı",
+                                                "Denetime hazır kayıtlar sizin için tutulmaktadır."
+                                            ],
+                               "floatingCards":  {
+                                                     "experience":  {
+                                                                        "label":  "Deneyim",
+                                                                        "value":  "15+ Yıl"
+                                                                    },
+                                                     "clients":  {
+                                                                     "label":  "Müşteriler",
+                                                                     "value":  "500\u0027den fazla kişiye hizmet verildi."
+                                                                 }
+                                                 }
+                           },
+    "penaltiesSection":  {
+                             "badge":  "Uyarı "” Son Teslim Tarihlerini Göz Ardı Etmeyin",
+                             "title":  "Kurallara Uymama Cezaları",
+                             "titleHighlight":  "Uyumsuzluk",
+                             "subtitle":  "FTA, geç kayıt, eksik bildirim ve hatalı beyanname verme durumlarında önemli para cezaları uygulamaktadır.",
+                             "items":  [
+                                           {
+                                               "icon":  "Saat",
+                                               "title":  "Geç Kayıt",
+                                               "amount":  "10.000 AED",
+                                               "description":  "Kurumlar vergisi kaydını zamanında yapmamanın cezası sabittir."
+                                           },
+                                           {
+                                               "icon":  "DosyaMetni",
+                                               "title":  "Geç KDV Beyannamesi",
+                                               "amount":  "500-1.000 AED/ay",
+                                               "description":  "KDV beyannamesinin her gecikmeli teslimi için aylık ceza uygulanacaktır."
+                                           },
+                                           {
+                                               "icon":  "Uyarı Üçgeni",
+                                               "title":  "Yanlış İadeler",
+                                               "amount":  "1.000-5.000 AED",
+                                               "description":  "Yanlış beyan veya eksik beyan edilen vergi miktarları için ceza."
+                                           }
+                                       ]
+                         },
+    "freeZoneSection":  {
+                            "badge":  "Serbest Bölgeler İçin Özel Kurallar",
+                            "title":  "Serbest Bölge Şirketleri Kurumlar Vergisi Öder mi?",
+                            "titleHighlight":  "Kurumlar Vergisi?",
+                            "subtitle":  "Serbest Bölge vergi kuralları karmaşıktır; bilmeniz gerekenler şunlardır.",
+                            "items":  [
+                                          {
+                                              "icon":  "CheckCircle2",
+                                              "title":  "Serbest Bölge Vergi Muafiyeti",
+                                              "description":  "Bazı Serbest Bölge kuruluşları, BAE Maliye Bakanlığı tarafından belirlenen koşullara bağlı olarak %0 Kurumlar Vergisi\u0027nden yararlanabilir.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Uyarı Üçgeni",
+                                              "title":  "Vergilendirilebilir Dış Gelir",
+                                              "description":  "Anakara işlemlerinden veya nitelikli olmayan kaynaklardan (pasif gelir, faiz) elde edilen gelirler standart %9 oranında vergilendirilebilir.",
+                                              "color":  "from-amber-400 to-orange-600"
+                                          },
+                                          {
+                                              "icon":  "Kalkan Kontrolü",
+                                              "title":  "Muafiyet Kontrolü ve Tavsiyesi",
+                                              "description":  "İşletme modelinizi, gelir kaynaklarınızı ve yapınızı değerlendirerek muafiyet uygunluğunu ve yeniden yapılandırma seçeneklerini belirliyoruz.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Birleşik Arap Emirlikleri\u0027nde Kurumlar Vergisi ve KDV hakkında bilmeniz gereken her şey. Aradığınızı bulamadınız mı? Uzmanlarımız bir mesaj uzağınızda.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Vergi uzmanlarımız size yardımcı olmaya hazır. Bugün ücretsiz danışmanlık hizmetimizden yararlanın."
+                                        },
+                        "miniStats":  [
+                                          {
+                                              "value":  "24 saat",
+                                              "label":  "Yanıt Süresi"
+                                          },
+                                          {
+                                              "value":  "%100",
+                                              "label":  "Ücretsiz Danışmanlık"
+                                          }
+                                      ],
+                        "items":  [
+                                      {
+                                          "q":  "Dubai\u0027de işletmeler için kurumlar vergisi zorunlu mu?",
+                                          "a":  "Evet. Kurumlar vergisi, yıllık net karı 375.000 AED\u0027yi aşan BAE işletmeleri için zorunludur. Şartları karşılayan tüm işletmelerin FTA\u0027ya kayıt yaptırması ve beyanname vermesi gerekmektedir."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde bir işletmenin KDV kaydı yaptırması ne zaman gereklidir?",
+                                          "a":  "Yıllık vergilendirilebilir satışlar 375.000 AED\u0027yi aştığında KDV kaydı zorunludur. 187.500 AED\u0027nin üzerindeki satışlar için isteğe bağlı kayıt mümkündür."
+                                      },
+                                      {
+                                          "q":  "Kurumlar Vergisi ve KDV kaydı için hangi belgelere ihtiyacım var?",
+                                          "a":  "Ticaret ruhsatı, şirket ana sözleşmesi, pasaport fotokopileri, Emirates kimlik kartı, mali tablolar ve banka bilgileri. Tüm belgeleri sizin için hazırlıyor ve doğruluyoruz."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge şirketlerine Kurumlar Vergisi uygulanır mı?",
+                                          "a":  "Evet, ancak bazı şartlarla. Serbest Bölge statüsüne sahip kuruluşlar, nitelikli gelirleri için %0 oranında vergi alabilirler. Nitelikli olmayan gelirler ise %9 oranında vergilendirilir."
+                                      },
+                                      {
+                                          "q":  "KDV beyannamesi verme süresini kaçırmanın cezası nedir?",
+                                          "a":  "Vergi beyannamesini geç verenlere aylık 500 AED ile 1.000 AED arasında para cezası uygulanırken, tekrarlanan ihlallerde ek para cezaları da söz konusu."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde KDV iadesi talep edebilir miyim?",
+                                          "a":  "Evet. Giriş KDV\u0027niz çıkış KDV\u0027nizi aşarsa, iade talebinde bulunabilirsiniz. Tüm iade sürecini biz yönetiyoruz."
+                                      },
+                                      {
+                                          "q":  "Setup Zone Dubai, FTA denetimi sırasında nasıl yardımcı olur?",
+                                          "a":  "Tüm belgeleri hazırlıyoruz, FTA yetkilileriyle koordinasyon sağlıyoruz ve denetim süreci boyunca sizi temsil ediyoruz."
+                                      },
+                                      {
+                                          "q":  "Kurumlar vergisi ve KDV hizmetleriyle ilgili maliyetler nelerdir?",
+                                          "a":  "Fiyatlarımız şeffaftır ve işletmenizin büyüklüğüne ve karmaşıklığına bağlıdır. Gizli ücretler içermeyen özel bir fiyat teklifi için bizimle iletişime geçin."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Kurumsal vergi ve KDV uyumluluğuyla iyi bir şekilde uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "accounting",
+                                                     "title":  "Muhasebe",
+                                                     "description":  "Muhasebe, bordro ve finansal raporlama.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                                                     "gradient":  "from-violet-400 to-purple-600"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı bildirimleri, ESR raporları ve düzenleyici destek.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "İletişime Geçin",
+                     "title":  "Vergi mevzuatına uygun hareket etmeye hazır mısınız?",
+                     "titleHighlight":  "Vergi mevzuatına uygun musunuz?",
+                     "subtitle":  "Vergi uzmanlarımızdan ücretsiz danışmanlık hizmeti alın ve FTA son tarihleri konusunda bir daha asla endişelenmeyin. Business Bay ofisimizi ziyaret edin veya çevrimiçi olarak iletişime geçin "” her şeyi biz hallediyoruz.",
+                     "chips":  [
+                                   "15+ Yıllık Deneyim",
+                                   "500\u0027den fazla Mutlu Müşteri",
+                                   "FTA Kayıtlı"
+                               ],
+                     "whatsappMessage":  "Merhaba! Kurumsal Vergi ve KDV hizmetleri konusunda ücretsiz danışmanlık almak istiyorum."
+                 }
+}

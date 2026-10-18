@@ -1,0 +1,506 @@
+{
+  "slug": "office-space-solutions",
+  "hero": {
+    "badge": "面向所有人的办公空间",
+    "title": "迪拜阿联酋办公空间解决方案",
+    "titleHighlight": "迪拜解决方案",
+    "subtitle": "灵活、优质且价格合理的办公空间，满足各种类型企业的需求。从共享办公桌到整套企业总部办公方案，应有尽有。",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=80",
+    "breadcrumbLabel": "办公空间解决方案",
+    "breadcrumbParent": "大陆",
+    "ctaPrimaryText": "获取免费咨询",
+    "ctaPrimaryLink": "＃接触",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对迪拜的办公空间解决方案很感兴趣。",
+    "badges": [
+      "500多种选择",
+      "8个以上地点",
+      "灵活条款",
+      "完全合规"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "办公选项",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "MapPin",
+      "value": "8岁以上",
+      "label": "黄金地段",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Users",
+      "value": "10,000+",
+      "label": "服务对象",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "48小时",
+      "label": "平均设置时间",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "intro": {
+    "badge": "为什么至关重要",
+    "title": "为什么办公空间对企业设立至关重要？",
+    "titleHighlight": "企业设立必备？",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "建立存在感",
+    "imageBadgeText": "及信誉",
+    "paragraph1": "迪拜和阿联酋的现代化商业中心位列全球最具活力的商业中心之列！除了许可证和签证之外，拥有专业的办公空间是企业立足的基石。",
+    "paragraph2": "大多数行业和专业执照都要求提供注册办公地址，这不仅符合法律规定，还能提升公司的信誉度。客户、投资者和监管机构在考察您的企业时，一个正规的办公地址能够增强您的稳定性和专业性。",
+    "paragraph3": "无论是灵活办公桌、服务式办公室还是公司总部——办公解决方案的选择都与您的效率、成本和长期成功息息相关。",
+    "features": [
+      "法律要求",
+      "客户信任",
+      "投资者信心",
+      "专业形象",
+      "业务效率",
+      "成本优化"
+    ]
+  },
+  "officeTypesSection": {
+    "badge": "多种办公选择",
+    "title": "有哪些类型的办公空间可供选择？",
+    "titleHighlight": "办公空间",
+    "subtitle": "滑动浏览 6 款优质办公解决方案——从经济实惠的办公桌到完整的企业总部。",
+    "items": [
+      {
+        "id": "flexi",
+        "icon": "Laptop",
+        "title": "灵活办公桌（共享办公桌）",
+        "short": "经济实惠的共享办公空间",
+        "description": "在迪拜，灵活办公桌是最经济实惠的办公选择，非常适合初创公司、自由职业者和个体创业者。它提供共享工作站、营业执照、商业地址，以及接待处、公共区域和会议室的使用权——而无需承担整间办公室的高昂费用。",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "共享工作站",
+          "贸易许可证支持",
+          "公司地址",
+          "会议室使用权限",
+          "经济实惠"
+        ],
+        "price": "最低成本"
+      },
+      {
+        "id": "dedicated",
+        "icon": "Armchair",
+        "title": "专用办公桌",
+        "short": "永久私人工作空间",
+        "description": "专属办公桌在共享办公空间中提供固定、私密的办公区域，非常适合需要稳定工作环境和隐私的人士。与共享办公桌不同，您可以根据自己的喜好布置办公桌，打造专属空间。服务包含邮件处理、水电煤气等公用设施以及办公配套设施。",
+        "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "固定办公桌",
+          "邮件处理",
+          "包含水电煤气费",
+          "私人设置",
+          "办公设施"
+        ],
+        "price": "超值"
+      },
+      {
+        "id": "private",
+        "icon": "DoorOpen",
+        "title": "私人办公室",
+        "short": "封闭式全套家具",
+        "description": "私人办公室为中小企业和成长型企业提供完全封闭、配备齐全的办公空间，确保完全的私密性和自主性。是品牌推广、客户会议和专业运营的理想之选，办公地点位于高档商务大厦，尽享尊贵体验。",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "全封闭式",
+          "家具齐全",
+          "完全隐私",
+          "品牌自由",
+          "高档地址"
+        ],
+        "price": "最受欢迎"
+      },
+      {
+        "id": "serviced",
+        "icon": "Crown",
+        "title": "服务式办公室",
+        "short": "设备齐全，即买即用",
+        "description": "服务式办公室是设施齐全、即刻可用的办公空间，满足您的所有业务需求——从接待、高速网络到会议室、清洁和水电煤气等一应俱全。节省时间和前期投入成本，让您专注于业务增长。",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "接待服务",
+          "高速互联网",
+          "会议室",
+          "清洁和公用设施",
+          "即插即用"
+        ],
+        "price": "优质的"
+      },
+      {
+        "id": "coworking",
+        "icon": "UsersRound",
+        "title": "联合办公区域",
+        "short": "协作式现代空间",
+        "description": "联合办公空间是充满活力、现代化的场所，旨在促进协作、人脉拓展和创新。这里是自由职业者、初创企业和数字企业家的理想之选，提供灵活的会员方案、优质的基础设施和充满创意的环境。",
+        "image": "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "灵活会员资格",
+          "网络接入",
+          "创意环境",
+          "现代基础设施",
+          "社区活动"
+        ],
+        "price": "灵活的"
+      },
+      {
+        "id": "commercial",
+        "icon": "Building2",
+        "title": "商业租赁办公室",
+        "short": "长期黄金地段空间",
+        "description": "商业租赁办公室是企业和跨国公司在黄金地段（如商业湾、迪拜国际金融中心、谢赫扎耶德路和朱美拉湖塔）寻求长期办公空间的理想之选。可完全定制，包括品牌推广和布局选择。",
+        "image": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "长期租赁",
+          "完全定制",
+          "黄金地段",
+          "品牌自由",
+          "区域总部准备就绪"
+        ],
+        "price": "公司的"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "合适的办公室能提升成功率",
+    "title": "在迪拜设立办公室的好处",
+    "titleHighlight": "迪拜办事处",
+    "subtitle": "为您的企业选择合适的办公空间的六大理由。",
+    "items": [
+      {
+        "icon": "Shield",
+        "title": "轻松实现合规",
+        "description": "在迪拜，所有商业执照都需要一个官方注册地址或Ejari地址。合适的办公地址能确保您的公司完全合规。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Award",
+        "title": "专业品牌形象与信誉",
+        "description": "在黄金地段设立醒目的办公室，能够建立客户信任，并在竞争激烈的市场中提升公司形象。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Network",
+        "title": "绝佳的人脉拓展机会",
+        "description": "共享办公室、联合办公空间和商务中心自然而然地将你与志同道合的企业家和合作伙伴联系起来。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "增长的可扩展性",
+        "description": "先从灵活办公桌开始，然后随着业务的增长，可以轻松升级到私人办公室或商业办公室。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "运营效率与成本节约",
+        "description": "服务式办公室为您提供即用型基础设施、接待服务和公用设施——节省时间和成本。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "MapPin",
+        "title": "战略商业选址",
+        "description": "商业湾、市中心、迪拜码头、朱美拉湖塔 (JLT) 和自由区——置身于阿联酋蓬勃发展的商业区中心。",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "simplifySection": {
+    "badge": "我们如何简化",
+    "title": "Setup Zone Dubai 如何简化办公室搭建？",
+    "titleHighlight": "简化办公设置？",
+    "subtitle": "打造完美办公空间，只需三步。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "ClipboardCheck",
+        "title": "管理所有文档和合规性",
+        "description": "我们负责整个流程——Ejari 注册、租赁合同、当局批准以及与您的许可证相关的所有文件。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "Layers",
+        "title": "提供灵活且可扩展的办公解决方案",
+        "description": "先从灵活办公桌或专用办公桌开始，然后升级到私人办公室空间——随着公司的发展，可以无缝升级。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "Target",
+        "title": "开展深入的业务需求评估",
+        "description": "我们会花时间了解贵公司的业务活动、规模和未来发展规划，然后再推荐最合适的办公空间类型。",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "locationsSection": {
+    "badge": "最热门的地点",
+    "title": "在迪拜和阿联酋哪里可以租到办公室？",
+    "titleHighlight": "租用办公室",
+    "subtitle": "滑动浏览我们的 7 个黄金地段——每个地段都有其独特的优势。",
+    "items": [
+      {
+        "id": "business-bay",
+        "name": "商业湾",
+        "tagline": "迪拜中央商务区",
+        "description": "以超现代化的办公大楼和世界一流的配套设施而闻名。毗邻迪拜国际金融中心 (DIFC) 和各大金融机构。适合从初创企业到跨国公司的各类企业。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "icon": "Building2",
+        "features": [
+          "中央枢纽",
+          "标志性塔楼",
+          "靠近迪拜国际金融中心",
+          "高级设施"
+        ]
+      },
+      {
+        "id": "downtown",
+        "name": "迪拜市中心",
+        "tagline": "专属企业场地",
+        "description": "毗邻哈利法塔和迪拜购物中心，坐拥标志性景观的尊贵高端办公空间。是追求信誉、奢华和高端形象的企业的理想之选。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "icon": "Crown",
+        "features": [
+          "哈利法塔景观",
+          "豪华办公室",
+          "高调人物",
+          "主地址"
+        ]
+      },
+      {
+        "id": "jlt",
+        "name": "朱美拉湖塔 (JLT)",
+        "tagline": "经济实惠的办公空间和便捷的地铁交通",
+        "description": "兼具价格实惠和交通便利的完美组合——是初创企业、中小企业、自由职业者和承包商的理想之选。四通八达的公路和地铁网络，以及充满活力的商业社区。",
+        "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "icon": "TrendingUp",
+        "features": [
+          "价格实惠",
+          "地铁连接",
+          "专注于中小企业",
+          "充满活力的社区"
+        ]
+      },
+      {
+        "id": "sheikh-zayed",
+        "name": "谢赫扎耶德路",
+        "tagline": "标志性商业巷",
+        "description": "迪拜最负盛名的商业区之一，以标志性摩天大楼和优越的地理位置而闻名。这里拥有极高的曝光度、便捷的交通和强大的信誉。",
+        "image": "https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "icon": "Building",
+        "features": [
+          "标志性地址",
+          "高可见度",
+          "全球品牌",
+          "黄金地段"
+        ]
+      },
+      {
+        "id": "marina",
+        "name": "迪拜码头",
+        "tagline": "滨水创意中心",
+        "description": "位于充满活力的滨水地带，拥有时尚的办公空间。深受创意产业、科技初创公司和服务提供商的青睐——附近还有一流的零售、餐饮和住宅区。",
+        "image": "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "icon": "Palette",
+        "features": [
+          "滨水区",
+          "创意中心",
+          "科技创业公司",
+          "生活配套设施"
+        ]
+      },
+      {
+        "id": "free-zones",
+        "name": "迪拜自由区",
+        "tagline": "与许可证相关的办公设施",
+        "description": "DMCC、IFZA、DAFZA、RAKEZ、Meydan 和 Shams 提供具有贸易许可证、100% 外资所有权、税收优惠和产业生态系统的成本效益高的办公空间。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "icon": "Factory",
+        "features": [
+          "包含营业执照",
+          "100% 所有权",
+          "税收优惠",
+          "产业生态系统"
+        ]
+      },
+      {
+        "id": "abu-dhabi-sharjah",
+        "name": "阿布扎比和沙迦",
+        "tagline": "经济实惠的区域运营",
+        "description": "价格实惠的办公空间，拥有完善的基础设施和靠近贸易中心的战略位置——是迪拜以外地区扩展或设立分支机构的理想选择。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "icon": "Landmark",
+        "features": [
+          "经济实惠",
+          "贸易枢纽通道",
+          "分支设置",
+          "区域运营"
+        ]
+      }
+    ]
+  },
+  "whyChooseUsSimple": {
+    "badge": "可靠的办公室搭建合作伙伴",
+    "title": "为什么选择迪拜Setup Zone作为办公空间？",
+    "titleHighlight": "迪拜安装区",
+    "subtitle": "直接与利益相关者沟通、价格透明、全程支持。",
+    "footer": "我们为希望在迪拜和阿联酋获得便捷、经济、专业的办公空间解决方案的企业家、投资者和国际公司提供服务。",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "无任何隐藏费用"
+      },
+      {
+        "icon": "Users",
+        "label": "直接利益相关者访问",
+        "desc": "自由区和商务中心"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "合同起草",
+        "desc": "所有法律文件"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "label": "Ejari注册",
+        "desc": "完全合规"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "续期与审批",
+        "desc": "持续支持"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "可扩展软件包",
+        "desc": "从小做起，逐步发展壮大"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "您需要了解的关于办公空间解决方案的一切信息。还有疑问？欢迎随时联系我们。",
+    "items": [
+      {
+        "q": "迪拜和阿联酋提供哪些类型的办公空间？",
+        "a": "根据您企业的规模、预算和许可证要求，您可以选择灵活办公桌、专用办公桌、私人办公室、服务式办公室、联合办公空间或长期商业租赁办公空间。"
+      },
+      {
+        "q": "我在迪拜申请营业执照需要办公场所吗？",
+        "a": "是的。迪拜所有商业执照都需要一个官方注册地址或Ejari地址。自由区执照可以选择灵活办公套餐，无需实际办公场所即可获得商业地址。"
+      },
+      {
+        "q": "灵活办公桌和固定办公桌有什么区别？",
+        "a": "灵活办公桌（共享办公桌）是指您可以根据实际情况使用的共享工作站，最适合自由职业者。专属办公桌则是您在共享办公空间中拥有的固定办公桌，提供稳定性和私密性。"
+      },
+      {
+        "q": "随着公司发展壮大，我可以升级办公空间吗？",
+        "a": "当然可以。我们提供可扩展的解决方案——您可以先从灵活办公桌或联合办公会员资格开始，然后随着业务的增长无缝升级到私人办公室或商业空间。"
+      },
+      {
+        "q": "办公套餐包含水电费和网络费吗？",
+        "a": "是的。我们的大部分服务式办公室和联合办公套餐都包含水电费、高速互联网、接待、清洁和会议室使用权——所有这些都包含在每月费用中。"
+      },
+      {
+        "q": "在迪拜，哪些地点最适合租用办公室？",
+        "a": "这取决于您的业务类型。商业湾和迪拜国际金融中心适合企业，市中心代表着高端形象，朱美拉湖塔 (JLT) 则更注重性价比，迪拜码头适合创意/科技企业，而自由区则适合贸易和国际企业。"
+      },
+      {
+        "q": "迪拜的办公空间租金是多少？",
+        "a": "价格从经济实惠的灵活办公桌（每年约 5,000 迪拉姆起）到高端私人办公室和商业空间不等。我们会根据您的预算为您匹配合适的方案。"
+      },
+      {
+        "q": "我可以与其他公司共用办公室吗？",
+        "a": "是的。联合办公空间和共享办公室允许您与其他企业共享公共区域，同时保留您自己的专属工作空间和地址。"
+      },
+      {
+        "q": "在迪拜设立办公空间通常需要多长时间？",
+        "a": "通常情况下，灵活办公桌和配套服务式办公室的交付时间为 2-5 个工作日。商业租赁办公室和定制装修项目可能需要更长时间，具体取决于需求。"
+      },
+      {
+        "q": "使用 Setup Zone Dubai 来满足我的办公空间需求有哪些好处？",
+        "a": "我们提供透明的定价、直接的利益相关者沟通渠道、端到端的合同起草、Ejari 注册、持续的续约和授权审批，以及根据您的业务量身定制的可扩展套餐。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "相关服务",
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的办公空间需求完美匹配的服务。",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "大陆活动",
+        "description": "在迪拜和阿联酋境内，有超过 2000 项活动获得了迪拜经济发展局 (DED) 的批准。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "hiring-employee-management",
+        "title": "阿联酋招聘",
+        "description": "招聘与员工管理解决方案。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "阿联酋大陆签证服务",
+        "description": "投资签证、工作签证和家庭签证。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "找到您理想的办公室",
+    "title": "准备好寻找理想的办公空间了吗？",
+    "titleHighlight": "理想的办公空间？",
+    "subtitle": "您的企业需要的不仅仅是一张办公桌——它需要一个能够促进增长、提升信誉和取得成功的空间。",
+    "primaryCta": "WhatsApp 联系我们",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想咨询一下迪拜的办公空间，可以获得免费咨询。",
+    "badges": [
+      "免费咨询",
+      "500多种选择",
+      "完全合规"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

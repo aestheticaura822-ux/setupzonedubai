@@ -1,0 +1,197 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Hassle-Free Company Formation",
+  "heroTitle": "Umm Al Quwain Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "One of the most small-business friendly free zones in the UAE. Affordable, flexible, and stress-free setup with 100% foreign ownership and low-cost license packages.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-5 Days Setup", "Low-Cost Packages"],
+
+  "stats": [
+    { "icon": "DollarSign", "value": "Low", "label": "Entry Cost", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "Percent", "value": "0%", "label": "Tax Rate", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-sky-400 to-blue-600" }
+  ],
+
+  "introSection": {
+    "badge": "Launch Your Business",
+    "title": "One of the UAE's Most Small-Business Friendly Zones",
+    "titleHighlight": "Small-Business Friendly Zones",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Free Trade Zone",
+    "imageBadgeText": "Umm Al Quwain, UAE",
+    "paragraphs": [
+      "Want an affordable, flexible, and stress-free way to establish your business in the UAE? Umm Al Quwain Free Trade Zone (UAQ FTZ) is one of the most small-business friendly free zones in the Emirates.",
+      "Known for 100% foreign ownership, 0% income tax, quick company registration, and incredibly low-cost license packages — UAQ FTZ is ideally located between Dubai and Sharjah, just off major highways and close to seaports and airports.",
+      "Whether you're a freelancer, consultant, trading company, or tech-based business, UAQ FTZ offers an abundance of license types, office solutions, and visa opportunities. With Setup Zone Dubai, we make the entire setup journey fast, legal, and hassle-free."
+    ],
+    "highlights": ["100% Foreign Ownership", "Zero Tax Environment", "Fast Registration", "Low-Cost Packages", "Strategic Location", "Global Connectivity"]
+  },
+
+  "whyChooseSection": {
+    "badge": "Business-Friendly Environment",
+    "title": "Why Choose UAQ Free Trade Zone?",
+    "titleHighlight": "UAQ Free Trade Zone?",
+    "subtitle": "One of the most cost-effective and business-friendly free zones in the UAE.",
+    "items": [
+      { "icon": "DollarSign", "title": "Cost-Effective Setup", "description": "One of the most affordable free zones in the UAE with very streamlined processes and low-cost license packages — perfect for start-ups, SMEs, and international entrepreneurs.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Enjoy complete control over your company structure, operations, and profits without needing a local Emirati sponsor.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Percent", "title": "Tax Exemptions", "description": "Full tax exemptions on personal and corporate income — retain all your profits and repatriate capital freely.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Route", "title": "Strategic Connectivity", "description": "Ideally located between Dubai and Sharjah, just off major highways, close to seaports and airports — with great global connectivity.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Zap", "title": "Quick Company Registration", "description": "Simplified procedures with very little documentation and accelerated approvals — get your business running in 3-5 working days.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Building2", "title": "No Barriers to Start", "description": "Start a consultancy, trading business, or digital agency — there are literally no barriers under the same structure many world-class companies use.", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "formationServicesSection": {
+    "badge": "Fast, Reliable Formation Support",
+    "title": "Company Formation Services at UAQ FTZ",
+    "titleHighlight": "Services at UAQ FTZ",
+    "subtitle": "We make the setup process fast, compliant, and painless — regardless of your business size.",
+    "items": [
+      { "icon": "Briefcase", "label": "Initial Consultation & Business Activity Selection" },
+      { "icon": "FileText", "label": "Company Name Approval & Licence Applications" },
+      { "icon": "ClipboardCheck", "label": "Document Preparation & Submission" },
+      { "icon": "CreditCard", "label": "Immigration Card & Establishment Registration" },
+      { "icon": "UserCheck", "label": "Visa Allocation & Stamping for Owners & Staff" },
+      { "icon": "Shield", "label": "Post-Registration Compliance & VAT Advisory" },
+      { "icon": "DollarSign", "label": "Corporate Bank Account Opening Assistance" }
+    ],
+    "footerText": "Whether you're a freelancer or a team of 10+, we help you register your UAQ company quickly, legally, and affordably."
+  },
+
+  "licenseTypesSection": {
+    "badge": "Easy & Fast Approvals",
+    "title": "Licensing Options in UAQ Free Zone",
+    "titleHighlight": "in UAQ Free Zone",
+    "subtitle": "A variety of licenses across different sectors.",
+    "items": [
+      { "icon": "Store", "title": "Commercial License", "description": "For general trading, retail, and import/export businesses.", "code": "CML", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Factory", "title": "Industrial License", "description": "For manufacturing, production, and storage businesses.", "code": "IND", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Briefcase", "title": "Consultancy License", "description": "For business, marketing, and legal consultants.", "code": "CNS", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Users", "title": "Service License", "description": "For a wide variety of B2B and B2C services.", "code": "SRV", "color": "from-sky-400 to-blue-600" },
+      { "icon": "UserCheck", "title": "Freelance Permit", "description": "For individuals and remote professionals.", "code": "FRL", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Layers", "title": "Dual License Option", "description": "For combining Free Zone benefits with Mainland access.", "code": "DUAL", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "facilitiesSection": {
+    "badge": "Facilities & Infrastructure",
+    "title": "Scalable Infrastructure for Every Business Size",
+    "titleHighlight": "for Every Business Size",
+    "subtitle": "Purpose-built facilities to meet your operational requirements.",
+    "items": [
+      { "icon": "Building2", "title": "Office Space for Rent", "description": "Flexible rental agreements with plug-and-play setup.", "color": "from-emerald-400 to-teal-600", "size": "small" },
+      { "icon": "Crown", "title": "Executive Offices", "description": "Prestige office space for productive team and investor meetings.", "color": "from-teal-400 to-cyan-600", "size": "small" },
+      { "icon": "Users", "title": "Co-Working Spaces", "description": "Affordable shared workspace for freelancers and startups.", "color": "from-cyan-500 to-sky-600", "size": "large" },
+      { "icon": "Warehouse", "title": "Warehouses", "description": "Units purpose-built for logistics, storage, and production.", "color": "from-sky-400 to-blue-600", "size": "small" },
+      { "icon": "Factory", "title": "Industrial Land for Lease", "description": "Land opportunities for longer leases and larger facilities.", "color": "from-blue-400 to-indigo-600", "size": "small" },
+      { "icon": "Truck", "title": "Logistics Hub", "description": "Great infrastructure for import/export and freight forwarding.", "color": "from-indigo-400 to-violet-600", "size": "small" }
+    ]
+  },
+
+  "taxBenefitsSection": {
+    "badge": "Tax & Ownership Benefits",
+    "title": "Cost-Efficient Operations with Global Reach",
+    "titleHighlight": "with Global Reach",
+    "subtitle": "These benefits make UAQ FTZ a preferred destination for entrepreneurs.",
+    "items": [
+      { "icon": "Globe", "label": "100% Foreign Ownership", "detail": "No local Emirati partner required" },
+      { "icon": "Percent", "label": "0% Personal & Corporate Tax", "detail": "Full profit retention" },
+      { "icon": "Wallet", "label": "Repatriation of Capital & Profits", "detail": "Move money freely" },
+      { "icon": "DollarSign", "label": "No Currency Restrictions", "detail": "Ideal for global transactions" },
+      { "icon": "Shield", "label": "VAT Registration Assistance", "detail": "Stay fully compliant with UAE tax laws" }
+    ]
+  },
+
+  "visaServicesSection": {
+    "badge": "Access Made Easy",
+    "title": "Visa & Immigration Services",
+    "titleHighlight": "Services",
+    "subtitle": "We handle all immigration formalities — whether you're launching solo or expanding your team.",
+    "items": [
+      { "icon": "UserCheck", "label": "Investor & Partner Visas" },
+      { "icon": "Users", "label": "Employment Visas for Staff" },
+      { "icon": "HeartHandshake", "label": "Family Sponsorship Support" },
+      { "icon": "CreditCard", "label": "Emirates ID & Medical Testing" },
+      { "icon": "BadgeCheck", "label": "Visa Stamping" },
+      { "icon": "Shield", "label": "End-to-End PRO Services" },
+      { "icon": "RefreshCw", "label": "Renewal & Compliance Tracking" }
+    ]
+  },
+
+  "supportServicesSection": {
+    "badge": "Post-Licensing & Support",
+    "title": "You Don't Just Get a License — You Get Long-Term Support",
+    "titleHighlight": "You Get Long-Term Support",
+    "subtitle": "With Setup Zone Dubai, we support you beyond setup.",
+    "items": [
+      { "icon": "Palette", "label": "Company Branding & Profile Creation" },
+      { "icon": "Globe", "label": "Website & Digital Tools Setup" },
+      { "icon": "FileText", "label": "VAT Registration & Bookkeeping" },
+      { "icon": "Scale", "label": "Legal Document Support & Drafting" },
+      { "icon": "DollarSign", "label": "Corporate Bank Account Assistance" },
+      { "icon": "RefreshCw", "label": "License Renewal & Compliance Monitoring" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "A Preferred Destination for Startups & SMEs",
+    "titleHighlight": "for Startups & SMEs",
+    "subtitle": "Rapidly growing ecosystem for entrepreneurs and international businesses.",
+    "items": [
+      { "icon": "Building2", "value": "1000+", "label": "Companies Registered", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Globe", "value": "Global", "label": "Business Reach", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "TrendingUp", "value": "Fast", "label": "Company Formation", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "DollarSign", "value": "Low", "label": "Entry Cost", "color": "from-sky-400 to-blue-600" },
+      { "icon": "BarChart3", "value": "Growing", "label": "Business Economy", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "For Startups & SMEs", "color": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about UAQ Free Trade Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our UAQ FTZ specialists.",
+      "whatsappMessage": "Hi! I have a question about UAQ Free Zone."
+    },
+    "items": [
+      { "q": "What is the time frame to register a company in UAQ FTZ?", "a": "The usual time to register a company in Umm Al Quwain Free Trade Zone is 3-5 working days, assuming documentation is submitted correctly. We help ensure your paperwork is pre-checked and follow up on approvals to expedite the process." },
+      { "q": "Will I get a visa with my UAQ Free Zone license?", "a": "Yes. UAQ FTZ offers visa quota based on your license and office space. We handle investor, partner, employment, and family visas — along with Emirates ID, medical testing, and visa stamping." },
+      { "q": "Is UAQ FTZ good for freelancers?", "a": "Absolutely. UAQ FTZ offers an affordable Freelance Permit designed specifically for individuals and remote professionals — perfect for consultants, designers, developers, and creatives." },
+      { "q": "Do I need a physical office for registration?", "a": "Not necessarily. UAQ FTZ offers flexible options including co-working spaces and flexi-desks, so you can start without a large physical office. However, certain licenses and visa quotas may require a physical presence." },
+      { "q": "Is UAQ Free Trade Zone for trading businesses?", "a": "Yes. UAQ FTZ offers a Commercial License specifically for general trading, retail, and import/export businesses — with excellent logistics infrastructure and connectivity to seaports and airports." },
+      { "q": "What are the tax benefits of UAQ Free Zone?", "a": "UAQ FTZ offers 0% personal and corporate income tax, full repatriation of capital and profits, no currency restrictions, and VAT registration assistance — making it ideal for cost-efficient operations with global reach." },
+      { "q": "Can I open a bank account with my UAQ license?", "a": "Yes. We provide complete assistance with corporate bank account opening — with UAE-based and international banks — as part of our post-licensing support services." },
+      { "q": "Is annual auditing mandatory?", "a": "Audit requirements depend on your license type and business activity. We provide VAT registration, bookkeeping, and compliance support to keep your business fully compliant with UAE regulations." },
+      { "q": "Can I operate outside of the UAE with this license?", "a": "Yes. UAQ FTZ companies can operate internationally, and with the Dual License option, you can also access the UAE mainland market. This makes it perfect for global trading and cross-border businesses." },
+      { "q": "Why should I choose Setup Zone Dubai for UAQ FTZ setup?", "a": "We provide end-to-end support — business license, visas, office amenities, banking, branding, website, VAT, and compliance. With over a decade of experience, we make your setup fast, legal, and hassle-free." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services & Guides",
+    "titleHighlight": "Services & Guides",
+    "subtitle": "Services that pair well with your UAQ FTZ setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Ready to Launch?",
+    "title": "Ready to Incorporate in UAQ Free Zone?",
+    "titleHighlight": "UAQ Free Zone?",
+    "subtitle": "Low-cost setup, full ownership, and quick approvals — all in one location. Get a free consultation today.",
+    "chips": ["Free Consultation", "3-5 Days Setup", "Low-Cost Packages"],
+    "whatsappMessage": "Hi! I'd like a free consultation for UAQ Free Zone setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss UAQ Free Zone setup."
+  }
+}

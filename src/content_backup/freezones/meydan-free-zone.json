@@ -1,0 +1,155 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Media Made Simple",
+  "heroTitle": "Meydan Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "Your gateway to 100% ownership, tax benefits, and hassle-free business setup. Located in the heart of Dubai — perfect for startups, freelancers, and international companies.",
+  "heroChips": ["100% Ownership", "0% Tax", "1-3 Days Setup"],
+
+  "stats": [
+    { "icon": "Clock", "value": "1-3", "label": "Days Setup", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Target", "value": "1500+", "label": "Business Activities", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whyMeydanSection": {
+    "badge": "Built for Expansion",
+    "title": "Why You Should Select Meydan Free Zone",
+    "titleHighlight": "Meydan Free Zone",
+    "subtitle": "An innovative and efficient option for startups, freelancers, and international companies.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership with no local Emirati sponsor — complete control over profits and decisions.", "color": "from-emerald-400 to-teal-600", "size": "small" },
+      { "icon": "DollarSign", "title": "No Personal & Corporate Tax", "description": "0% tax on personal and corporate income — keep more profit and reinvest in growth.", "color": "from-teal-400 to-cyan-600", "size": "small" },
+      { "icon": "Package", "title": "No Import or Export Duties", "description": "Free from import and export duties — facilitates global trade and logistics.", "color": "from-cyan-400 to-sky-600", "size": "small" },
+      { "icon": "Zap", "title": "Quick & Remote Setup", "description": "Complete the entire process online — apply, submit, pay, and receive your license in just a few days without visiting the UAE.", "color": "from-violet-500 to-purple-600", "size": "large" },
+      { "icon": "DollarSign", "title": "Cost-Effective Packages", "description": "Competitive licensing with flexible packages for startups, freelancers, and established entities.", "color": "from-sky-400 to-blue-600", "size": "small" },
+      { "icon": "Building2", "title": "Reputable Business Address", "description": "Prestigious address in a high-profile Dubai location — builds trust with clients.", "color": "from-emerald-500 to-green-600", "size": "small" }
+    ]
+  },
+
+  "readyToLaunchSection": {
+    "badge": "Get Ready to Launch",
+    "title": "Start Your Business in Meydan Free Zone",
+    "titleHighlight": "Meydan Free Zone",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "Setup Time",
+    "imageBadgeText": "1-3 Working Days",
+    "paragraphs": [
+      "Enjoy 100% foreign ownership, tax-free profits, and fast-track online company setup in just a few days. Meydan Free Zone is one of Dubai's most strategic and entrepreneur-friendly hubs.",
+      "We handle the entire process for you — from choosing the right license package and preparing documents to securing visas, office solutions, and even opening your corporate bank account.",
+      "Whether you're a startup, an SME, or a global investor — Meydan Free Zone offers everything you need to scale, and we're here to make sure your journey is smooth from day one."
+    ],
+    "highlights": ["100% Ownership", "Tax-Free Profits", "Fully Remote Setup", "No Hidden Costs"]
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "Start Any Business Here",
+    "titleHighlight": "Here",
+    "subtitle": "A variety of licenses for different business activities.",
+    "items": [
+      { "icon": "Store", "title": "Commercial License", "description": "Trading and general commercial activity.", "code": "COM", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Briefcase", "title": "Service License", "description": "Consultancy, marketing, IT, and professional services.", "code": "SRV", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Megaphone", "title": "Media License", "description": "Advertising, content creation, and digital services.", "code": "MED", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "ShoppingCart", "title": "E-Commerce License", "description": "Legally sell products and services online in the UAE.", "code": "ECM", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "keyBenefitsSection": {
+    "badge": "Key Benefits",
+    "title": "Fast Licensing. Easy Launch.",
+    "titleHighlight": "Easy Launch.",
+    "items": [
+      { "icon": "Zap", "title": "Fast Registration", "description": "Company license in 1-3 days.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Building2", "title": "No Office Required", "description": "Flexi-desk option available.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Monitor", "title": "Fully Online", "description": "Document submission, signing, payment — all online.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Crown", "title": "Professional Address", "description": "High-profile, premier Dubai location.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "DollarSign", "title": "Cost Transparency", "description": "No hidden fees or charges.", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "setupStepsSection": {
+    "badge": "Setup Process",
+    "title": "Step-by-Step Company Setup",
+    "titleHighlight": "Company Setup",
+    "subtitle": "Your complete journey from consultation to launch.",
+    "steps": [
+      { "step": "01", "title": "Choose Your Business Activity", "description": "Select from 1,500+ approved Meydan Free Zone Authority activities — consultancy, media, technology, e-commerce, or trading.", "icon": "Target", "color": "from-emerald-400 to-teal-600", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" },
+      { "step": "02", "title": "Free Consultation", "description": "We understand your goals, activity, visa needs, and budget — and guide you through the best setup options.", "icon": "MessageCircle", "color": "from-teal-400 to-cyan-600", "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80" },
+      { "step": "03", "title": "Document Submission", "description": "We prepare application forms, compile passport copies, arrange name approvals — ensuring full compliance.", "icon": "FileText", "color": "from-cyan-400 to-sky-600", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80" },
+      { "step": "04", "title": "License Application Support", "description": "We handle your Meydan Free Zone license end-to-end — from selection to submission and fast approval.", "icon": "BadgeCheck", "color": "from-violet-400 to-purple-600", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80" },
+      { "step": "05", "title": "Post-License Support", "description": "Bank account setup, visas, Emirates ID, medicals, and document attestation — a smooth start to your business.", "icon": "Users", "color": "from-sky-400 to-blue-600", "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80" }
+    ]
+  },
+
+  "documentsSection": {
+    "badge": "Documents",
+    "title": "What Documents Do You Need to Submit?",
+    "titleHighlight": "Need to Submit?",
+    "items": [
+      { "icon": "FileText", "label": "Passport Copy", "description": "Clear copy of your passport." },
+      { "icon": "Camera", "label": "Passport-Size Photo", "description": "Recent photo with white background." },
+      { "icon": "FileBadge", "label": "3 Proposed Business Names", "description": "For evaluation and approval." },
+      { "icon": "Monitor", "label": "Email & Contact Number", "description": "Active email and phone for communication." }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "subtitle": "Your trusted partner for Meydan Free Zone business setup.",
+    "items": [
+      { "icon": "MessageCircle", "title": "Free Consultation", "description": "We start with a free consultation to understand your business goals, activity, visa needs, and budget — helping you make informed decisions from day one.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "FileText", "title": "Document Submission", "description": "Our team manages the entire documentation process — application forms, passport copies, name approvals — all compliant with Free Zone requirements.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "BadgeCheck", "title": "License Application Support", "description": "We handle your Meydan Free Zone license from start to finish — choosing the right license, submitting documents, and ensuring fast approval.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "ShieldCheck", "title": "Post-License Support", "description": "After your license is issued, we help with bank account setup, visas, Emirates ID, medicals, and document attestation — for a smooth start.", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Meydan Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our Meydan specialists.",
+      "whatsappMessage": "Hi! I have a question about Meydan Free Zone."
+    },
+    "items": [
+      { "q": "What is Meydan Free Zone and who is it suitable for?", "a": "Meydan Free Zone is a leading business zone in central Dubai with full foreign ownership, zero tax, and rapid licensing. Ideal for startups, entrepreneurs, freelancers, and international businesses wanting to establish in the UAE at low cost with maximum freedom." },
+      { "q": "Can I open a company in Meydan Free Zone from abroad?", "a": "Yes. The entire process can be done remotely and online — you don't need to visit the UAE. Apply, submit documents, pay, and receive your license online in just a few days." },
+      { "q": "What types of business licenses can I get in Meydan Free Zone?", "a": "Commercial, Service, Media, and E-Commerce licenses — covering 1,500+ business activities." },
+      { "q": "How long does it take to get a business license?", "a": "Typically 1-3 business days with all documents properly prepared." },
+      { "q": "Is physical office space required in Meydan Free Zone?", "a": "No. Meydan offers a Flexi-desk option — perfect for startups and remote businesses." },
+      { "q": "How many visa allocations are permitted under Meydan Free Zone licenses?", "a": "Visa quotas depend on your license package and office type. We help you choose the right combination." },
+      { "q": "Is it possible to open a corporate bank account with a Meydan Free Zone license?", "a": "Yes. We assist with corporate bank account opening with top UAE banks." },
+      { "q": "Can I sponsor family/employee members under Meydan Free Zone?", "a": "Yes. Meydan allows sponsoring family and employees depending on your visa quota." },
+      { "q": "What are the document requirements for company setup?", "a": "Passport copy, passport-size photo (white background), 3 proposed business names, and an active email/contact number." },
+      { "q": "Why should I choose Setup Zone Dubai for my company formation?", "a": "We offer free consultation, complete document handling, fast license approval, and full post-license support including bank account, visas, and Emirates ID." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Meydan setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "digital-marketing", "title": "Digital Marketing", "description": "Social media, paid ads, and content strategy.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80", "gradient": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Meydan?",
+    "titleHighlight": "Meydan?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "1500+ Activities", "1-3 Days Setup"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Meydan setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Meydan setup."
+  }
+}

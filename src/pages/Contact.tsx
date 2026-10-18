@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../lib/whatsapp';
 import contactData from '../content/pages/contact.json';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 // Icon map — JSON me string hoti hai, yahan actual icon
 const iconMap: any = {
   Headset, Building2, Globe, Phone, Mail, MapPin, MessageCircle,
@@ -23,8 +24,9 @@ const iconMap: any = {
 };
 
 export default function Contact({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.pages || contactData;
-
+  const { language } = useLanguage();
+  const contactFallback = loadContent('pages/contact', language);
+  const data = tinaData?.data?.pages || contactFallback;
   const [formData, setFormData] = useState({
     name: '', email: '', phone: '', subject: '', message: '',
   });

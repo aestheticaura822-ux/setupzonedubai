@@ -1,0 +1,491 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1600&q=80",
+  "heroBadge": "Lanzamiento rápido. Crecimiento inteligente.",
+  "heroTitle": "Zona Franca SHAMS",
+  "heroTitleHighlight": "Zona Franca",
+  "heroSubtitle": "Sharjah Media City: el centro creativo, digital y para profesionales independientes de los Emiratos írabes Unidos. Diseñado para creadores de contenido, consultores, startups tecnológicas y plataformas de comercio electrónico.",
+  "heroChips": [
+    "Propiedad al 100%",
+    "0% de impuestos",
+    "Configuración remota"
+  ],
+  "stats": [
+    {
+      "icon": "Zap",
+      "value": "3-5",
+      "label": "Configuración de dí­as",
+      "color": "from-rose-400 to-pink-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad extranjera",
+      "color": "from-pink-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Tasa impositiva",
+      "color": "from-fuchsia-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Más de 1000",
+      "label": "Empresas creativas",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyShamsSection": {
+    "badge": "¿Por qué SHAMS?",
+    "title": "¿Qué hace de SHAMS una zona libre de contaminantes excepcional?",
+    "titleHighlight": "¿Zona libre de caracterí­sticas excepcionales?",
+    "subtitle": "La Zona Franca está diseñada para empresas creativas, de servicios y con un enfoque prioritario en lo digital.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Propiedad 100% extranjera",
+        "description": "Propiedad total: no se necesita patrocinador local.",
+        "color": "from-rose-400 to-pink-600",
+        "size": "pequeño"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Sin impuestos",
+        "description": "Impuesto cero sobre la renta e impuesto de sociedades: quédese con todo lo que gana.",
+        "color": "from-pink-400 to-fuchsia-600",
+        "size": "pequeño"
+      },
+      {
+        "icon": "Zap",
+        "title": "Procesamiento rápido",
+        "description": "El registro de la empresa se completa en tan solo unos dí­as hábiles.",
+        "color": "from-fuchsia-400 to-purple-600",
+        "size": "pequeño"
+      },
+      {
+        "icon": "Video",
+        "title": "Diseñado para creadores",
+        "description": "Ideal para influencers, desarrolladores, consultores, diseñadores y comerciantes de comercio electrónico: la mejor opción en los Emiratos írabes Unidos para empresas con prioridad digital.",
+        "color": "from-violet-400 to-purple-600",
+        "size": "grande"
+      },
+      {
+        "icon": "Home2",
+        "title": "No se requiere oficina",
+        "description": "Empieza con un espacio de trabajo flexible o trabaja desde casa.",
+        "color": "from-purple-400 to-indigo-600",
+        "size": "pequeño"
+      }
+    ]
+  },
+  "readyToLaunchSection": {
+    "badge": "¿Listo para el lanzamiento?",
+    "title": "Inicie su negocio en la Zona Franca de SHAMS.",
+    "titleHighlight": "Negocios en la Zona Franca",
+    "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&q=80",
+    "imageBadgeTitle": "Lanzamiento en",
+    "imageBadgeText": "3-5 dí­as laborables",
+    "paragraphs": [
+      "Tanto si eres autónomo, creador de contenido o emprendedor de comercio electrónico, la Zona Franca de SHAMS es la mejor opción en los EAU para la constitución de empresas de forma flexible, rápida y preparada para el futuro.",
+      "Te ayudamos con todos los trámites necesarios, incluyendo la obtención de la licencia comercial, la visa y la apertura de una cuenta bancaria para tu negocio. Con aprobaciones rápidas, costos preestablecidos y sin cargos ocultos, SHAMS es el lugar ideal para creadores digitales, consultores y propietarios de pequeñas empresas.",
+      "Nos encargamos de todo, desde la licencia hasta el lanzamiento, para que usted pueda centrarse en el crecimiento de su marca."
+    ],
+    "highlights": [
+      "Licencia para lanzar",
+      "Sin cargos ocultos",
+      "Aprobaciones rápidas",
+      "Listo para cumplir con la normativa"
+    ]
+  },
+  "licensesSection": {
+    "badge": "Categorí­as de licencia",
+    "title": "Una zona. Muchas posibilidades.",
+    "titleHighlight": "Muchas posibilidades.",
+    "subtitle": "Cada licencia se puede personalizar para incluir una o varias actividades.",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "Licencia de medios",
+        "description": "Para creadores digitales, producción cinematográfica, publicación y radiodifusión.",
+        "code": "MEDICINA",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "Licencia de comercio electrónico",
+        "description": "Ideal para vendedores online, dropshipping y propietarios de marketplaces.",
+        "code": "ECM",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licencia de consultorí­a",
+        "description": "Para asesores en gestión, finanzas, recursos humanos y educación.",
+        "code": "SNC",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Store",
+        "title": "Licencia comercial",
+        "description": "Adecuado para la importación/exportación de productos y el almacenamiento.",
+        "code": "TRD",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permiso de autónomo",
+        "description": "Para personas que ofrecen servicios creativos, técnicos o de consultorí­a.",
+        "code": "FRL",
+        "color": "from-purple-400 to-indigo-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Licencia de servicio",
+        "description": "Abarca una amplia gama de servicios profesionales y operaciones de apoyo.",
+        "code": "SRV",
+        "color": "from-indigo-400 to-blue-600"
+      }
+    ]
+  },
+  "workspacesSection": {
+    "badge": "Opciones de espacio de trabajo",
+    "title": "Flexibilidad de oficina diseñada para el trabajo moderno.",
+    "titleHighlight": "Diseñado para el trabajo moderno",
+    "subtitle": "Trabaja desde casa, un espacio de coworking o, si lo necesitas, traslada tus operaciones a una oficina privada.",
+    "items": [
+      {
+        "icon": "Laptop",
+        "title": "Escritorios inteligentes y escritorios flexibles",
+        "description": "Para emprendedores que trabajan de forma remota o hí­brida.",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Unidades de Oficina Ejecutiva",
+        "description": "Para equipos o empresas que trabajan directamente con clientes.",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Podcast",
+        "title": "Estudios y salas de podcasts",
+        "description": "Espacios totalmente equipados para la producción de audio y medios audiovisuales.",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "icon": "Wifi",
+        "title": "Entornos de coworking",
+        "description": "Conectividad de alta velocidad y espacios de colaboración.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Coffee",
+        "title": "Servicios y comodidades para un estilo de vida cómodo",
+        "description": "Cafeterí­as, salones y zonas de fitness en las instalaciones.",
+        "color": "from-purple-400 to-indigo-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Cómo te ayudamos",
+    "title": "Cómo te ayudamos a lanzar tu proyecto en SHAMS",
+    "titleHighlight": "Lanzamiento en SHAMS",
+    "subtitle": "Un servicio integral y guiado para la constitución de su empresa, desde la primera reunión hasta el apoyo posterior a la puesta en marcha.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Consulta y selección de actividades",
+        "description": "Le ayudamos a decidir qué actividad empresarial se ajusta mejor a sus objetivos y a reservar un nombre para su empresa de acuerdo con la normativa SHAMS.",
+        "icon": "MessageCircle",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "step": "02",
+        "title": "Solicitud y tramitación de licencias",
+        "description": "Nos encargamos de tramitar todas las solicitudes, gestionar el proceso de obtención de licencias y obtener su tarjeta de establecimiento.",
+        "icon": "FileText",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "title": "Creación de expedientes de inmigración",
+        "description": "Creamos su expediente de inmigración y gestionamos todos los trámites para la obtención del visado.",
+        "icon": "Users",
+        "color": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "title": "Tramitación de visados y documento de identidad de los Emiratos írabes Unidos",
+        "description": "Solicitudes completas de visado para inversores y empleados, además de la identificación de los Emiratos írabes Unidos y los trámites médicos.",
+        "icon": "UserCheck",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "05",
+        "title": "Cuenta bancaria y cumplimiento normativo",
+        "description": "Apertura de cuenta bancaria con la documentación en regla, además de renovación de licencias y cumplimiento de la normativa.",
+        "icon": "CreditCard",
+        "color": "from-purple-400 to-indigo-600"
+      },
+      {
+        "step": "06",
+        "title": "Soporte para el crecimiento posterior a la configuración",
+        "description": "Creación de marca, desarrollo de perfiles y planificación web: te ayudamos a crecer.",
+        "icon": "Rocket",
+        "color": "from-indigo-400 to-blue-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Actividades principales",
+    "title": "SHAMS potencia tu nicho de mercado.",
+    "titleHighlight": "Tu nicho",
+    "subtitle": "SHAMS continíºa expandiéndose como centro neurálgico para empresas creativas y digitales.",
+    "items": [
+      {
+        "icon": "Film",
+        "label": "Producción cinematográfica y videografí­a"
+      },
+      {
+        "icon": "Camera",
+        "label": "Postproducción"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "Mercados de comercio electrónico"
+      },
+      {
+        "icon": "Package",
+        "label": "Ventas de productos digitales"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Publicidad y relaciones píºblicas"
+      },
+      {
+        "icon": "Radio",
+        "label": "Compra de medios"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "Consultorí­a empresarial"
+      },
+      {
+        "icon": "GraduationCap",
+        "label": "Consultorí­a educativa"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Consultorí­a financiera"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Desarrollo de aplicaciones"
+      },
+      {
+        "icon": "Monitor",
+        "label": "Servicios de TI"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "Casas editoriales"
+      },
+      {
+        "icon": "Music",
+        "label": "Empresas de contenido"
+      },
+      {
+        "icon": "Sparkles",
+        "label": "Diseño de juegos"
+      },
+      {
+        "icon": "MonitorPlay",
+        "label": "Servicios de streaming"
+      },
+      {
+        "icon": "Palette",
+        "label": "Animación y diseño web"
+      },
+      {
+        "icon": "Pen",
+        "label": "Servicios de creación de marca"
+      }
+    ],
+    "footerText": "Identificamos su actividad con los códigos de licencia SHAMS correctos."
+  },
+  "visaServicesSection": {
+    "badge": "Visados e Inmigración",
+    "title": "Servicios de visado para empresas SHAMS",
+    "titleHighlight": "Empresas SHAMS",
+    "subtitle": "Nos aseguramos de que su equipo cumpla con la normativa y de que sus operaciones nunca se interrumpan.",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "Visados para inversores y accionistas",
+        "description": "Para propietarios de negocios y accionistas de SHAMS.",
+        "stampColor": "de rosa 500 a rosa 600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Visados de trabajo",
+        "description": "Para empleados patrocinados por su empresa SHAMS.",
+        "stampColor": "de rosa 500 a fucsia 600"
+      },
+      {
+        "icon": "Users",
+        "title": "Patrocinio familiar",
+        "description": "Patrocinador: cónyuge, hijos y dependientes.",
+        "stampColor": "de fucsia-500 a píºrpura-600"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "Identificación y reconocimiento médico de los Emiratos",
+        "description": "Coordinación completa para pruebas médicas y el documento de identidad de los Emiratos írabes Unidos.",
+        "stampColor": "de violeta 500 a píºrpura 600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Renovación de visas",
+        "description": "Soporte para renovaciones y seguimiento del estado.",
+        "stampColor": "de morado 500 a í­ndigo 600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Inmigración y PRO",
+        "description": "Creación de tarjetas de inmigración y servicios de gestión de trámites.",
+        "stampColor": "de í­ndigo 500 a azul 600"
+      }
+    ]
+  },
+  "taxAdvantagesSection": {
+    "badge": "Ventajas fiscales y financieras",
+    "title": "Incentivos financieros atractivos",
+    "titleHighlight": "Incentivos financieros",
+    "subtitle": "Le ayudamos a estructurar sus finanzas para garantizar el cumplimiento normativo y la escalabilidad.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Impuesto sobre la renta corporativa y personal del 0%",
+        "description": "Quédese con todo lo que gane, sin deducciones de impuestos."
+      },
+      {
+        "icon": "Send",
+        "title": "Repatriación total de beneficios",
+        "description": "Traslada tus ganancias libremente a tu paí­s de origen."
+      },
+      {
+        "icon": "FileCheck",
+        "title": "No se requiere auditorí­a",
+        "description": "La mayorí­a de las empresas no requieren auditorí­as."
+      },
+      {
+        "icon": "Package",
+        "title": "Sin aranceles aduaneros",
+        "description": "No se aplican aranceles aduaneros dentro de la Zona Franca."
+      },
+      {
+        "icon": "Percent",
+        "title": "Registro de IVA opcional",
+        "description": "Dependiendo de su umbral de facturación."
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Con bancos de los EAU e internacionales."
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Zona Franca de SHAMS. ¿Aíºn tienes preguntas? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "¿Aíºn tienes preguntas?",
+      "text": "Solicite una consulta gratuita con nuestros especialistas de SHAMS.",
+      "whatsappMessage": "¡Hola! Tengo una pregunta sobre la Zona Franca de SHAMS."
+    },
+    "items": [
+      {
+        "q": "¿Qué tan rápido puedo obtener mi licencia SHAMS?",
+        "a": "El proceso completo de constitución de la empresa, con toda la documentación debidamente preparada, dura entre 3 y 5 dí­as laborables. Gracias a nuestra coordinación integral, su negocio puede estar operativo en menos de una semana."
+      },
+      {
+        "q": "¿Puedo obtener una visa con mi licencia SHAMS?",
+        "a": "Sí­. SHAMS permite cuotas de visado segíºn su licencia y expediente. Gestionamos visados de inversionista, empleo y reunificación familiar de principio a fin."
+      },
+      {
+        "q": "¿Qué ocurre si trabajo desde una ubicación fí­sica fuera de los Emiratos írabes Unidos?",
+        "a": "SHAMS permite una configuración 100% remota. Puede operar desde cualquier lugar del mundo; nosotros nos encargamos de todo digitalmente."
+      },
+      {
+        "q": "¿Necesito una licencia comercial para mi tienda online?",
+        "a": "Sí­. Las actividades de comercio electrónico requieren una licencia de comercio electrónico de SHAMS. Le ayudamos a elegir el tipo de licencia adecuado."
+      },
+      {
+        "q": "¿Cuántas actividades comerciales puedo incluir en una sola licencia?",
+        "a": "Depende del tipo de licencia. Muchas licencias de SHAMS permiten realizar míºltiples actividades; le ayudamos a maximizar su valor."
+      },
+      {
+        "q": "¿Tengo que preparar un plan de negocios para registrarme?",
+        "a": "Normalmente no. Algunas actividades pueden requerir documentación adicional; le orientaremos sobre lo que necesita."
+      },
+      {
+        "q": "¿Es SHAMS rentable para las nuevas empresas?",
+        "a": "Por supuesto. SHAMS es una de las zonas libres más asequibles para empresas creativas, digitales y de autónomos, sin cargos ocultos."
+      },
+      {
+        "q": "¿Puedo constituir una empresa SHAMS sin estar en los Emiratos írabes Unidos?",
+        "a": "Sí­. SHAMS permite la configuración 100% remota; no es necesario viajar a los Emiratos írabes Unidos."
+      },
+      {
+        "q": "¿Puedo registrar una marca de influencer o una empresa de creación de contenido?",
+        "a": "¡Sí­! SHAMS está diseñado especí­ficamente para influencers, creadores de contenido y empresas de medios."
+      },
+      {
+        "q": "¿Me ayudarás después de que tenga mi licencia?",
+        "a": "Sí­. Ofrecemos soporte posterior a la configuración, que incluye renovación de licencias, cumplimiento normativo, desarrollo de marca y servicios para el crecimiento empresarial."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que combinan a la perfección con la configuración de su Zona Franca SHAMS.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos írabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-rose-400 to-pink-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Marketing digital",
+        "description": "Redes sociales, publicidad de pago y estrategia de contenidos.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-purple-600"
+      },
+      {
+        "slug": "web-development",
+        "title": "Desarrollo web",
+        "description": "Sitios web modernos para empresas creativas.",
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lanzamiento hoy",
+    "title": "¿Listo para lanzar en SHAMS?",
+    "titleHighlight": "¿FARSAS?",
+    "subtitle": "Solicita una consulta gratuita. Te guiaremos durante todo el proceso de configuración, desde la obtención de la licencia hasta el lanzamiento.",
+    "chips": [
+      "Consulta gratuita",
+      "Sin cargos ocultos",
+      "Instalación en 3-5 dí­as"
+    ],
+    "whatsappMessage": "¡Hola! Me gustarí­a una consulta gratuita para la configuración de SHAMS.",
+    "whatsappCardMessage": "¡Hola! Me gustarí­a hablar sobre la configuración de SHAMS."
+  }
+}

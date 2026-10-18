@@ -19,7 +19,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import difcPackageData from '../../content/packages/difc-company-setup.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Gavel, DollarSign, Clock, Scale, TrendingUp, Globe2, Globe,
   Landmark, FileText, Receipt, Store: StoreIcon, Laptop, Crown, Target,
@@ -29,8 +30,9 @@ const iconMap: any = {
 };
 
 export default function DIFCCompanySetup({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || difcPackageData;
-
+  const { language } = useLanguage();
+  const difcFallback = loadContent('packages/difc-company-setup', language);
+  const data = tinaData?.data?.packages || difcFallback;
   return (
     <div className="min-h-screen bg-white">
 

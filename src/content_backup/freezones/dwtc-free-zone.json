@@ -1,0 +1,134 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Prestigious Free Zone",
+  "heroTitle": "Dubai World Trade Centre Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "One of the most prestigious free zones in Dubai — hosting global exhibitions, conferences, and business events. Set up at the center of Dubai's business district.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-5 Days Setup"],
+
+  "heroCard": {
+    "headerTitle": "DWTC Business",
+    "headerStatus": "Live",
+    "icon": "Crown",
+    "zoneLabel": "District",
+    "zoneValue": "Trade Centre 1",
+    "statusBadge": "Active",
+    "setupTimeLabel": "Setup Time",
+    "setupTimeValue": "3-5 Days",
+    "taxLabel": "Tax Rate",
+    "taxValue": "0%",
+    "footerText": "Launch Now"
+  },
+
+  "stats": [
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-slate-400 to-indigo-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-violet-400 to-purple-600" },
+    { "icon": "Award", "value": "Prestigious", "label": "Business District", "color": "from-sky-400 to-cyan-600" }
+  ],
+
+  "whyDwtcSection": {
+    "badge": "Why DWTC",
+    "title": "Why Choose Dubai World Trade Centre?",
+    "titleHighlight": "Dubai World Trade Centre?",
+    "subtitle": "Exceptional advantages with world-class infrastructure and a supportive business ecosystem.",
+    "smallCards": [
+      { "icon": "MapPin", "title": "Prime Location", "description": "In the heart of Dubai's business district with excellent connectivity.", "color": "from-slate-400 to-indigo-600" },
+      { "icon": "Users", "title": "Diverse Talent Pool", "description": "Access to a wide range of skilled professionals and industry experts.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Building2", "title": "World-Class Infrastructure", "description": "State-of-the-art facilities, modern offices, and premium amenities.", "color": "from-violet-400 to-purple-600" }
+    ],
+    "largeCard": {
+      "icon": "Crown",
+      "title": "Thriving Business Community",
+      "description": "Join global exhibitions, conferences, and business events throughout the year — at the center of Dubai's business ecosystem.",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80",
+      "color": "from-slate-700 via-indigo-700 to-violet-700"
+    },
+    "transportCard": {
+      "icon": "Plane",
+      "title": "Transport Links",
+      "description": "Metro, highways, and airports — all nearby.",
+      "color": "from-cyan-500 via-blue-600 to-cyan-700"
+    }
+  },
+
+  "servicesSection": {
+    "badge": "Our Services",
+    "title": "Business Setup Services at DWTC",
+    "titleHighlight": "at DWTC",
+    "subtitle": "Complete end-to-end support for every aspect of your business setup.",
+    "items": [
+      { "icon": "Globe", "title": "Free Zone Company Formation", "description": "100% ownership, zero corporate tax, and full repatriation of profits — set up in the most suitable free zone.", "color": "from-slate-400 to-indigo-600" },
+      { "icon": "Building2", "title": "Mainland Company Formation", "description": "Trade directly in the UAE market — DED paperwork, local sponsorship arrangements, and licensing.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "FileText", "title": "Trade License in Dubai", "description": "Commercial, professional, or industrial trade license — quick application and regulatory compliance.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "UserCheck", "title": "Visa Processing & PRO Services", "description": "Investor, employee, and dependent visas — medical tests, Emirates ID, and visa stamping.", "color": "from-sky-400 to-cyan-600" },
+      { "icon": "CreditCard", "title": "Corporate Bank Account Opening", "description": "Business bank accounts with leading UAE banks — documentation, KYC, and bank introductions.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Calculator", "title": "Accounting & Tax Services", "description": "Stay compliant with UAE corporate tax and VAT — bookkeeping, VAT returns, and financial reporting.", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "packagesSection": {
+    "badge": "Our Packages",
+    "title": "Transparent All-Inclusive Packages",
+    "titleHighlight": "All-Inclusive Packages",
+    "subtitle": "No hidden fees — clear, upfront pricing.",
+    "items": [
+      { "icon": "Globe", "name": "Free Zone License", "badge": null, "price": "5,999", "currency": "AED", "description": "No residency — ideal for remote businesses and freelancers.", "color": "from-slate-400 to-indigo-600", "highlighted": false },
+      { "icon": "Crown", "name": "Free Zone with Residency", "badge": "Most Popular", "price": "11,999", "currency": "AED", "description": "Best for entrepreneurs relocating to Dubai.", "color": "from-indigo-400 to-violet-600", "highlighted": true },
+      { "icon": "Building2", "name": "Mainland with Residency", "badge": "Best Value", "price": "16,999", "currency": "AED", "description": "For businesses targeting the local UAE market.", "color": "from-violet-400 to-purple-600", "highlighted": false }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose Setup Zone Dubai?",
+    "titleHighlight": "Setup Zone Dubai?",
+    "items": [
+      { "icon": "Rocket", "title": "End-to-End Support", "description": "Complete business setup support — from license to launch." },
+      { "icon": "Award", "title": "Expert Knowledge", "description": "Deep understanding of Dubai free zones and mainland regulations." },
+      { "icon": "DollarSign", "title": "Transparent Pricing", "description": "No hidden fees — clear, upfront pricing always." },
+      { "icon": "UserCheck", "title": "Dedicated Manager", "description": "A dedicated relationship manager for your entire journey." },
+      { "icon": "ShieldCheck", "title": "Post-Licensing Support", "description": "PRO, accounting, and compliance services after setup." },
+      { "icon": "Zap", "title": "Fast Track Processing", "description": "License issued in 3-5 working days." }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about DWTC. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our DWTC specialists.",
+      "whatsappMessage": "Hi! I have a question about DWTC Free Zone."
+    },
+    "items": [
+      { "q": "How long does it take to set up a business in DWTC?", "a": "Most businesses are fully registered and operational within 3-5 working days, depending on the license type and required approvals." },
+      { "q": "Can I set up a business in DWTC as a foreigner?", "a": "Yes. Foreigners can set up businesses in Dubai free zones with 100% ownership. Mainland companies may require a local sponsor depending on the business activity." },
+      { "q": "Do I need to be physically present in Dubai?", "a": "Most of the registration process can be done remotely. Our team handles the paperwork and government submissions on your behalf." },
+      { "q": "What types of businesses can I set up in DWTC?", "a": "Commercial, professional, industrial, e-commerce, and freelance businesses — depending on your chosen license type." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DWTC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-slate-400 to-indigo-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Today",
+    "title": "Ready to Launch in DWTC?",
+    "titleHighlight": "DWTC?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process and help you choose the best jurisdiction for your business.",
+    "chips": ["Free Consultation", "3-5 Days Setup", "No Hidden Fees"],
+    "whatsappMessage": "Hi! I'd like a free consultation for DWTC setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss DWTC setup."
+  }
+}

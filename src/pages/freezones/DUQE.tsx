@@ -15,7 +15,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import duqeData from '../../content/freezones/duqe-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function DUQE({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || duqeData;
+  const { language } = useLanguage();
+  const duqeFallback = loadContent('freezones/duqe-free-zone', language);
+  const data = tinaData?.data?.freeZones || duqeFallback;
 
   return (
     <div className="min-h-screen bg-white">

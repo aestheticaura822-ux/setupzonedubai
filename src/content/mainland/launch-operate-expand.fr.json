@@ -1,0 +1,408 @@
+{
+  "slug": "launch-operate-expand",
+  "hero": {
+    "badge": "Démarrez, opérez, développez-vous sans crainte",
+    "title": "Lancez, exploitez et développez votre entreprise aux Émirats arabes unis.",
+    "titleHighlight": "Votre entreprise aux Émirats arabes unis",
+    "subtitle": "La licence continentale est l'une des licences commerciales les plus flexibles et les plus puissantes des Émirats arabes unis, vous permettant d'opérer dans les sept émirats sans restrictions géographiques.",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+    "breadcrumbLabel": "Lancement, exploitation et expansion",
+    "breadcrumbParent": "continent",
+    "ctaPrimaryText": "Obtenez une consultation gratuite",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Bonjour ! Je suis intéressé par une licence continentale pour mon entreprise aux Émirats arabes unis.",
+    "badges": [
+      "Les 7 Émirats",
+      "Propriété à 100 %",
+      "Contrats gouvernementaux",
+      "Stabilité à long terme"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Globe",
+      "value": "7",
+      "label": "Emirates Access",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe2",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Landmark",
+      "value": "Ouvrir",
+      "label": "Contrats gouvernementaux",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Illimité",
+      "label": "Parrainage des employés",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "intro": {
+    "badge": "Services d'expansion commerciale aux Émirats arabes unis",
+    "title": "Une licence continentale — Votre avantage stratégique",
+    "titleHighlight": "Avantage stratégique",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Expansion de l'entreprise",
+    "imageBadgeText": "Commencez sans crainte",
+    "paragraph1": "La licence continentale est l'une des licences commerciales les plus flexibles et les plus puissantes des Émirats arabes unis, permettant aux entrepreneurs, aux investisseurs et aux entreprises de mener leurs activités dans n'importe lequel des sept émirats sans restrictions géographiques.",
+    "paragraph2": "Contrairement aux licences de zone franche qui limitent les activités à certaines frontières, une licence continentale donne à votre entreprise le droit de traiter avec des clients et de travailler avec des organismes gouvernementaux partout dans le pays, vous permettant ainsi de commercer librement, sans restrictions.",
+    "paragraph3": "Une licence d'exploitation sur le territoire continental des Émirats arabes unis constitue un atout majeur pour quiconque souhaite s'implanter durablement dans le pays, que ce soit pour créer une start-up, développer une PME ou étendre son activité à l'international. Grâce à une réglementation assouplie en matière de participation étrangère, les Émirats arabes unis autorisent désormais la détention à 100 % du capital par des étrangers dans la plupart des secteurs.",
+    "features": [
+      "Accès complet aux Émirats arabes unis",
+      "Propriété étrangère à 100 %",
+      "Contrats gouvernementaux",
+      "Droits de libre-échange",
+      "Renforcement de la crédibilité",
+      "Opportunités de réseautage"
+    ]
+  },
+  "whyChooseSection": {
+    "badge": "Choisissez le continent pour la croissance",
+    "title": "Pourquoi choisir un permis de conduire du continent ?",
+    "titleHighlight": "Permis de conduire du continent ?",
+    "subtitle": "Six atouts majeurs qui font de la licence continentale le choix judicieux.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Accès illimité au marché",
+        "description": "Opérez librement dans tous les Émirats — et atteignez les marchés locaux, régionaux et mondiaux sans limites.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Critères d'admissibilité aux marchés publics",
+        "description": "Soumettez directement vos offres aux appels d'offres gouvernementaux et aux projets du secteur public, contrairement aux entreprises des zones franches.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Parrainage des employés",
+        "description": "Recruter et parrainer des employés en toute conformité, en constituant une main-d'œuvre qualifiée à long terme.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Heart",
+        "title": "Parrainage familial",
+        "description": "Parrainer des visas de résidence pour la famille et le personnel, assurant ainsi une vie stable aux Émirats arabes unis.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Crédibilité auprès des banques et des partenaires",
+        "description": "Les entreprises du continent sont perçues comme plus crédibles — facilitant l'accès aux comptes bancaires, aux prêts, aux investisseurs et aux partenariats.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Stabilité à long terme",
+        "description": "Des licences renouvelables offrant une continuité d'activité à long terme et des options de résidence comme le Golden Visa des Émirats arabes unis.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "licenseTypes": {
+    "badge": "Explorez les options de licence pour le continent.",
+    "title": "Types de permis continentaux",
+    "titleHighlight": "Licences continentales",
+    "subtitle": "Parcourez les 3 catégories de licences et trouvez celle qui convient à votre entreprise.",
+    "items": [
+      {
+        "id": "commercial",
+        "icon": "Store",
+        "title": "Licence commerciale",
+        "description": "Une licence commerciale permet aux entreprises de commerce, de vente au détail, d'import/export et de commerce électronique d'opérer librement aux Émirats arabes unis et à l'international.",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": [
+          "Commerce",
+          "Vente au détail",
+          "Import/Export",
+          "commerce électronique"
+        ],
+        "bestFor": "Commerçants et détaillants"
+      },
+      {
+        "id": "professional",
+        "icon": "Briefcase",
+        "title": "Licence professionnelle",
+        "description": "La licence professionnelle est destinée aux entreprises de services et aux consultants, leur permettant d'exercer pleinement leur activité et renforçant leur crédibilité aux Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": [
+          "Consultants",
+          "Services",
+          "Propriété totale",
+          "Haute crédibilité"
+        ],
+        "bestFor": "Consultants et services"
+      },
+      {
+        "id": "industrial",
+        "icon": "Factory",
+        "title": "Licence industrielle",
+        "description": "Une licence industrielle permet aux entreprises de fabrication et de production d'opérer localement, d'accéder à des terrains industriels, au soutien gouvernemental et aux plateformes logistiques pour la production de masse et les exportations.",
+        "image": "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "Fabrication",
+          "Production",
+          "Terrain industriel",
+          "Prêt pour l'exportation"
+        ],
+        "bestFor": "Fabricants"
+      }
+    ]
+  },
+  "eligibilitySection": {
+    "badge": "Éligibilité à une licence continentale",
+    "title": "Qui peut demander un permis de conduire pour le continent ?",
+    "titleHighlight": "Permis de conduire du continent ?",
+    "paragraph1": "Une licence continentale est idéale pour les entrepreneurs et les investisseurs souhaitant accéder pleinement au marché des Émirats arabes unis sans restrictions. Elle permet de commercer dans les sept émirats, de travailler avec des clients publics et privés, et de favoriser la croissance des PME au-delà des zones franches.",
+    "paragraph2": "Pour les entreprises internationales, elle offre l'accès à une économie en forte croissance, la pleine propriété étrangère dans la plupart des secteurs et des options de résidence à long terme comme le Golden Visa.",
+    "groups": [
+      {
+        "icon": "Briefcase",
+        "title": "Entrepreneurs et investisseurs",
+        "description": "Nous recherchons un accès total au marché des Émirats arabes unis, sans restrictions. Nous souhaitons commercer dans les sept émirats, collaborer avec des clients publics et privés, et nous développer au-delà des zones franches.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "Entreprises internationales",
+        "description": "Accès à une économie en forte croissance avec une propriété étrangère intégrale dans la plupart des secteurs et des options de résidence à long terme comme le Golden Visa.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "PME en croissance",
+        "description": "L'implantation sur le continent offre flexibilité, visibilité et crédibilité, permettant à votre entreprise de croître et de prospérer sur le marché dynamique des Émirats arabes unis.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "visualCards": [
+      {
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80",
+        "tag": "Pour",
+        "title": "Entrepreneurs et investisseurs"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
+        "tag": "Pour",
+        "title": "PME en croissance"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "tag": "Pour",
+        "title": "Entreprises internationales"
+      },
+      {
+        "image": "",
+        "tag": "Prime",
+        "title": "Voie d'accès au visa doré"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "Avantages clés de la licence continentale",
+    "title": "Avantages d'une licence continentale",
+    "titleHighlight": "Licence continentale",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Une clientèle plus large et des marchés plus vastes",
+        "description": "Une licence continentale supprime les restrictions commerciales, donnant accès à tous les marchés des Émirats et aux marchés mondiaux pour une portée plus large et une croissance durable.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Award",
+        "title": "Reconnaissance et confiance internationales",
+        "description": "Une licence continentale renforce votre présence mondiale, améliorant ainsi votre crédibilité, la confiance et les opportunités auprès des clients et des investisseurs du monde entier.",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "services": {
+    "badge": "Services de création d'entreprise sur le continent",
+    "title": "Nos services de permis de conduire sur le continent",
+    "titleHighlight": "Services de permis de la partie continentale",
+    "subtitle": "Assistance complète pour votre demande et gestion de licence continentale.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Consultation en création d'entreprise",
+        "description": "Vous accompagne dans le choix de la licence, de la structure et de la juridiction appropriées aux Émirats arabes unis, garantissant ainsi la conformité, l'efficacité et une croissance à long terme.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "Réservation et approbation du nom commercial",
+        "description": "Nous nous chargeons de la réservation du nom commercial et de l'approbation du DED — garantissant ainsi que le nom de votre entreprise est conforme, disponible et légalement enregistré.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Demande de licence et documentation",
+        "description": "Gérez votre demande de licence pour le continent de bout en bout — documentation, coordination gouvernementale et approbations — pour une mise en place simple et rapide.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "UserPlus",
+        "title": "Assistance en matière de visas et d'immigration",
+        "description": "Gérer l'ensemble des procédures de visa et d'immigration — en assurant un parrainage fluide des employés, de leur famille et des personnes à charge, dans le respect total des réglementations.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Scale",
+        "title": "Services et conformité PRO",
+        "description": "Nos services PRO gèrent les approbations gouvernementales, les renouvellements et la conformité, assurant ainsi le bon fonctionnement de votre entreprise.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Assistance après-vente",
+        "description": "Assistance continue après l'obtention de la licence, y compris les renouvellements, les modifications et les mises à jour — pour garantir la conformité de votre entreprise et sa préparation à la croissance.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Choisissez Setup Zone Dubai pour réussir",
+    "title": "Pourquoi devenir partenaire de Setup Zone Dubai ?",
+    "titleHighlight": "Zone de configuration Dubaï ?",
+    "subtitle": "Créer une entreprise aux Émirats arabes unis implique de se frayer un chemin à travers un système complexe de règles et de réglementations. Nous vous simplifions la tâche à chaque étape.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "title": "Conseils d'experts sur la réglementation des Émirats arabes unis",
+        "description": "Nous vous aidons à comprendre l'environnement des affaires, les options de licence et la structure juridique la mieux adaptée à vos objectifs."
+      },
+      {
+        "icon": "FileText",
+        "title": "Assistance complète à l'installation",
+        "description": "De la demande de licence commerciale et de la documentation aux approbations gouvernementales, nous nous occupons de tout."
+      },
+      {
+        "icon": "UsersRound",
+        "title": "Visa et parrainage familial",
+        "description": "Gérer les visas des employés, les parrainages familiaux et les procédures relatives aux personnes à charge en toute conformité."
+      },
+      {
+        "icon": "Network",
+        "title": "Réseau d'autorités solide des Émirats arabes unis",
+        "description": "Nos relations avec les autorités des Émirats arabes unis permettent des approbations plus rapides et des procédures plus fluides – sans retards inutiles."
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur le permis de conduire du continent. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "items": [
+      {
+        "q": "Qu'est-ce qu'un permis de conduire continental aux Émirats arabes unis ?",
+        "a": "Une licence continentale est une licence commerciale qui autorise une entreprise à exercer ses activités dans les sept Émirats, y compris Dubaï, Abou Dabi et Sharjah. Contrairement à une licence de zone franche, elle permet de commercer librement avec les consommateurs, les entités gouvernementales et les entreprises partout aux Émirats arabes unis, sans restriction."
+      },
+      {
+        "q": "Qui peut demander une licence pour le continent ?",
+        "a": "Les entrepreneurs, les investisseurs, les PME et les entreprises internationales peuvent tous candidater. Les récentes réformes des Émirats arabes unis autorisent la détention à 100 % par des étrangers dans la plupart des secteurs, ce qui rend le pays très attractif pour les entreprises internationales."
+      },
+      {
+        "q": "Est-il possible pour des expatriés de détenir des parts dans une entreprise du continent américain basée aux Émirats arabes unis ?",
+        "a": "Oui. Grâce aux récentes réformes commerciales des Émirats arabes unis, la plupart des activités sur le territoire continental autorisent désormais une propriété étrangère à 100 % — aucun partenaire local n'est requis."
+      },
+      {
+        "q": "Quels sont les avantages de posséder un permis de conduire du continent ?",
+        "a": "Ses principaux avantages comprennent un accès illimité au marché dans tous les Émirats, l'éligibilité aux marchés publics, le parrainage des employés et de leur famille, la crédibilité auprès des banques et une stabilité à long terme avec des options de renouvellement."
+      },
+      {
+        "q": "La licence pour le continent américain exige-t-elle la présence d'un bureau physique ?",
+        "a": "Oui, la plupart des licences du continent exigent un bureau physique enregistré ou un Ejari. Nous vous aidons à trouver l'espace de bureau idéal, adapté à votre budget et à vos besoins."
+      },
+      {
+        "q": "Est-il possible de parrainer des employés et des membres de leur famille sous une licence du continent ?",
+        "a": "Oui. Une licence continentale vous permet de parrainer des employés, des membres de votre famille et du personnel domestique, en toute conformité avec les lois du travail et de l'immigration des Émirats arabes unis."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir un permis de conduire du continent ?",
+        "a": "Généralement, 2 à 4 semaines selon l'activité, la documentation et l'espace de bureau. Nous accélérons le processus pour nos clients."
+      },
+      {
+        "q": "Une entreprise du continent peut-elle soumissionner pour des marchés publics ?",
+        "a": "Oui. Contrairement aux entreprises des zones franches, les entreprises du continent peuvent soumissionner directement pour les appels d'offres gouvernementaux et les projets du secteur public."
+      },
+      {
+        "q": "Setup Zone Dubai propose-t-il une assistance pour les services post-licence ?",
+        "a": "Oui. Nous offrons un soutien continu après l'obtention de la licence : renouvellements, modifications, conformité, services PRO et conseils en matière de croissance d'entreprise."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour ma licence continentale ?",
+        "a": "Nous offrons un soutien complet, des relations solides avec les autorités des Émirats arabes unis pour des approbations plus rapides, une tarification transparente et des conseils d'experts à chaque étape."
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "Services connexes",
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui complètent parfaitement votre permis de conduire du continent.",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "Activités sur le continent",
+        "description": "Plus de 2 000 activités approuvées par le DED à Dubaï et aux Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "office-space-solutions",
+        "title": "Solutions d'espaces de bureaux aux Émirats arabes unis",
+        "description": "Espaces de bureaux haut de gamme à Dubaï et dans les Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "Visa pour les Émirats arabes unis continentaux",
+        "description": "Visas d'investisseur, de travail et familiaux.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lancez votre entreprise aux Émirats arabes unis",
+    "title": "Prêt à lancer votre activité avec une licence continentale ?",
+    "titleHighlight": "Permis de conduire du continent ?",
+    "subtitle": "Contactez-nous dès aujourd'hui pour une consultation personnalisée. Obtenez votre permis de conduire continental rapidement et efficacement, avec un accompagnement d'experts à chaque étape.",
+    "primaryCta": "Contactez-nous sur WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour un permis de conduire du continent.",
+    "badges": [
+      "Consultation gratuite",
+      "Approbation rapide",
+      "Soutien complet"
+    ],
+    "office": {
+      "label": "Visitez notre bureau de Dubaï",
+      "line1": "Bureau M08-27, 1er étage, Crystal Tower",
+      "line2": "Business Bay, Dubaï, Émirats arabes unis — Boîte postale : 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Heures de travail",
+      "monFri": "9h00 – 18h00",
+      "saturday": "10h00 – 17h00",
+      "sunday": "Fermé"
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1600&q=80",
+  "heroBadge": "Media Made Simple",
+  "heroTitle": "Dubai Media City Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "Launch your creative business in Dubai's leading media hub. Home to 2,000+ media companies including CNN, Sony, and Reuters — the ultimate ecosystem for media, communications, and digital content.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-7 Days Setup", "Creative Community"],
+
+  "heroCard": {
+    "headerTitle": "DMC Studio",
+    "headerStatus": "Live",
+    "icon": "Camera",
+    "zoneLabel": "Zone",
+    "zoneValue": "Dubai, UAE",
+    "statusBadge": "Active",
+    "setupTimeLabel": "Companies",
+    "setupTimeValue": "2K+",
+    "taxLabel": "Activities",
+    "taxValue": "100+",
+    "footerText": "Launch Now"
+  },
+
+  "stats": [
+    { "icon": "Building2", "value": "2,000+", "label": "Media Companies", "color": "from-violet-400 to-purple-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-purple-400 to-fuchsia-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-fuchsia-400 to-pink-600" },
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-pink-400 to-rose-600" }
+  ],
+
+  "whyDmcSection": {
+    "badge": "Why Choose DMC",
+    "title": "A Media Ecosystem That Fuels Growth",
+    "titleHighlight": "Ecosystem",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&q=80",
+    "imageBadgeTitle": "Media Ecosystem",
+    "imageBadgeText": "Broadcast Your Brand",
+    "paragraphs": [
+      "Dubai Media City Free Zone offers more than a trade license — it's a media ecosystem that promotes growth, collaboration, and creativity. Whether you're starting a PR agency, launching a podcast studio, or establishing a content production house, DMC is the perfect fit.",
+      "Key advantages include 100% foreign ownership, zero tax, premium offices, and cutting-edge infrastructure with integrated support services. You'll be part of a thriving community of businesses with opportunities for connections through events, workshops, and networking programs.",
+      "Your company will always be in the middle of the action as the region's media movement continues to grow. From licensing to branding, we make setup simple and hassle-free."
+    ],
+    "highlights": ["100% Foreign Ownership", "Zero Tax Environment", "Premium Infrastructure", "Creative Community Access", "Networking Events", "Growth Opportunities"]
+  },
+
+  "licensesSection": {
+    "badge": "License Your Craft",
+    "title": "Dubai Media City License Types",
+    "titleHighlight": "License Types",
+    "subtitle": "DMC understands media enterprises aren't uniform. Choose from diverse license types tailored to your business model.",
+    "items": [
+      { "icon": "Store", "title": "Commercial License", "description": "For entities engaged in the sale or distribution of media-related products.", "code": "CML", "color": "from-violet-400 to-purple-600" },
+      { "icon": "UserCheck", "title": "Freelancer Permit", "description": "For individual creatives — writers, designers, videographers, and photographers.", "code": "FRL", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "BarChart3", "title": "Business Information Services", "description": "For businesses engaged in market research, reporting, and data analysis.", "code": "BIS", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "Megaphone", "title": "Consultancy & Retail License", "description": "For PR, advertising, branding consultancies, and media retail.", "code": "CRL", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Calendar", "title": "Event & Leisure License", "description": "For media events, concerts, live shows, and entertainment productions.", "code": "EVL", "color": "from-rose-400 to-red-600" },
+      { "icon": "Cpu", "title": "New Media Support Services", "description": "For media back-end technology — cloud, automation, and digital infrastructure.", "code": "NMS", "color": "from-violet-500 to-purple-700" }
+    ]
+  },
+
+  "whoShouldSection": {
+    "badge": "Who It's For",
+    "title": "Who Should Consider Dubai Media City?",
+    "titleHighlight": "Dubai Media City?",
+    "subtitle": "The perfect ecosystem for creative professionals and media businesses of all sizes.",
+    "items": [
+      { "icon": "Tv", "label": "TV & Film Production" },
+      { "icon": "Mic", "label": "Podcast & Audio Studios" },
+      { "icon": "Camera", "label": "Photography & Videography" },
+      { "icon": "Palette", "label": "Design & Creative Agencies" },
+      { "icon": "Megaphone", "label": "PR & Advertising Firms" },
+      { "icon": "Monitor", "label": "Digital Content Creators" },
+      { "icon": "Music", "label": "Music & Entertainment" },
+      { "icon": "Newspaper", "label": "Publishing & Journalism" }
+    ]
+  },
+
+  "setupStepsSection": {
+    "badge": "From Concept to Company",
+    "title": "DMC Company Formation Process",
+    "titleHighlight": "Process",
+    "subtitle": "Simple, hassle-free process when working with Setup Zone Dubai.",
+    "steps": [
+      { "step": "01", "title": "Choose Activity & License", "description": "Decide on your business activity and select the appropriate license type for your media business.", "icon": "Target" },
+      { "step": "02", "title": "Trade Name & Application", "description": "We reserve your trade name and lodge the application with DMC authority for review.", "icon": "FileText" },
+      { "step": "03", "title": "Initial Approval & Lease", "description": "Upon approval, we secure your office lease and complete all legal documentation.", "icon": "CheckCircle2" },
+      { "step": "04", "title": "License Issuance & Setup", "description": "After fee payment, your license is issued. We then initiate visas, bank accounts, and operational setup.", "icon": "Rocket" }
+    ]
+  },
+
+  "officesSection": {
+    "badge": "Office Spaces",
+    "title": "Work. Collaborate. Inspire.",
+    "titleHighlight": "Inspire.",
+    "subtitle": "High-value spaces designed to elevate your brand and boost productivity.",
+    "items": [
+      { "icon": "Users", "title": "Co-working Desks", "description": "For freelancers and small groups wishing to network and collaborate.", "color": "from-violet-400 to-purple-600", "size": "small" },
+      { "icon": "Building2", "title": "Executive Furnished Offices", "description": "For branding agencies, media companies, and production facilities.", "color": "from-purple-400 to-fuchsia-600", "size": "small" },
+      { "icon": "Video", "title": "Studios & Sound Stages", "description": "Fully equipped spaces for podcasts, YouTube, commercials, or TV shows. High ceilings, acoustic treatment, and professional lighting rigs available.", "color": "from-violet-500 via-purple-600 to-fuchsia-700", "size": "large" },
+      { "icon": "Store", "title": "Retail Spaces", "description": "For selling media property, books, technology, and creative merchandise.", "color": "from-pink-400 to-rose-600", "size": "small" },
+      { "icon": "Presentation", "title": "Event Venues", "description": "For launches, exhibitions, media summits, and networking events.", "color": "from-rose-500 via-pink-600 to-fuchsia-700", "size": "small" }
+    ]
+  },
+
+  "legalEntitiesSection": {
+    "badge": "Legal Structures",
+    "title": "Legal Entity Types in DMC",
+    "titleHighlight": "Types in DMC",
+    "subtitle": "Getting the appropriate legal structure is important. Choose the right foundation for your business.",
+    "items": [
+      { "icon": "Building2", "title": "Free Zone LLC (FZ-LLC)", "description": "The most established legal entity with 1 or more shareholders. Full foreign ownership and limited liability protection.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Globe", "title": "Branch of Foreign Company", "description": "For firms wanting to establish presence in the UAE while maintaining global ownership and brand identity.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "UserCheck", "title": "Freelancer Permit", "description": "For solo professionals seeking legal recognition, invoicing capabilities, and visa eligibility.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "activitiesSection": {
+    "badge": "Built for Expansion",
+    "title": "Business Activities Permitted in DMC",
+    "titleHighlight": "in DMC",
+    "subtitle": "Over 100 approved business activities to support media, communication, and creative sectors.",
+    "items": [
+      { "icon": "Film", "title": "TV and Film Production", "description": "Ideal for production companies, filmmakers, and documentary makers." },
+      { "icon": "Headphones", "title": "Audio and Podcasting", "description": "For audio engineers, podcast producers, and voice-over artists." },
+      { "icon": "Share2", "title": "Social Media Management", "description": "Suited for digital marketers, content planners, and influencer managers." },
+      { "icon": "Megaphone", "title": "Advertising & Branding", "description": "Ad agencies, design studios, and campaign specialists." },
+      { "icon": "TrendingUp", "title": "Digital & Influencer Marketing", "description": "For brand consultants, influencer agencies, and digital creators." },
+      { "icon": "Newspaper", "title": "PR and Media Consulting", "description": "Perfect for PR firms, press offices, and strategic communicators." },
+      { "icon": "Calendar", "title": "Event Management & Media Coverage", "description": "For event planners and media production companies." },
+      { "icon": "BookOpen", "title": "Publishing, Editing & Translation", "description": "Writers, editors, publishers, and localization consultants." }
+    ]
+  },
+
+  "visaSection": {
+    "badge": "Creative Visa Support",
+    "title": "Dubai Media City Visa Services",
+    "titleHighlight": "Visa Services",
+    "subtitle": "After registering your company, we take care of everything — visas for you, your partners, and employees.",
+    "items": [
+      { "icon": "CreditCard", "label": "Establishment Card Issuance" },
+      { "icon": "FileText", "label": "Immigration File Opening" },
+      { "icon": "Heart", "label": "UAE Medical Test" },
+      { "icon": "Fingerprint", "label": "Emirates ID Application" },
+      { "icon": "BadgeCheck", "label": "Residency Visa Stamping" },
+      { "icon": "Calendar", "label": "Renewal Reminders" },
+      { "icon": "Users", "label": "Labor Approvals" },
+      { "icon": "Globe", "label": "Family Sponsorship" }
+    ],
+    "footerText": "We also assist with freelancer visas, dependant visas, and family sponsorship — complete visa and immigration compliance support."
+  },
+
+  "whyPartnerSection": {
+    "badge": "Your Trusted Partner",
+    "title": "Why Setup Zone Dubai Is Your Trusted DMC Partner",
+    "titleHighlight": "Trusted DMC Partner",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1200&q=80",
+    "imageBadgeTitle": "Trusted Partner",
+    "imageBadgeText": "End-to-End Support",
+    "paragraphs": [
+      "While DMC provides the infrastructure, Setup Zone Dubai provides the strategy. We do more than file paperwork — we enable your long-term success with comprehensive business support.",
+      "Our team handles everything from incorporation to digital operations — we build businesses that grow and thrive in Dubai's media capital."
+    ],
+    "features": ["Brand Creation", "SEO Website Development", "CRM & CMS Integration", "VAT & Accounting Support", "Business Consulting", "Scalable Service Models"]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Dubai's Leading Media Hub",
+    "titleHighlight": "Media Hub",
+    "subtitle": "Rapidly growing ecosystem for media, communications, and creative businesses.",
+    "items": [
+      { "icon": "Building2", "value": "2,000+", "label": "Media Companies", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Globe", "value": "Global", "label": "Media Brands", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Media Hub", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "DollarSign", "value": "Growing", "label": "Creative Economy", "color": "from-pink-400 to-rose-600" },
+      { "icon": "BarChart3", "value": "Significant", "label": "Regional Impact", "color": "from-rose-400 to-red-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "For Media Setup", "color": "from-violet-500 to-purple-700" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Media City Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our DMC specialists.",
+      "whatsappMessage": "Hi! I have a question about Dubai Media City Free Zone."
+    },
+    "items": [
+      { "q": "What is Dubai Media City (DMC) and why is it great for creative businesses?", "a": "Dubai Media City Free Zone is a strategic free zone established by TECOM Group to service media, communications, and digital companies. Home to over 2,000 companies including CNN, Sony, and Reuters, DMC is the natural environment for creative start-ups and freelancers to grow their media business with 100% ownership, a tax-free environment, and premium infrastructure." },
+      { "q": "What types of licenses are available in Dubai Media City Free Zone?", "a": "DMC offers Commercial License, Freelancer Permit, Business Information Services License, Consultancy & Retail License, Event & Leisure License, and New Media Support Services License — all tailored to different media business models." },
+      { "q": "Can freelancers and solo professionals register in DMC?", "a": "Absolutely. DMC offers Freelancer Permits specifically designed for individual creatives — writers, designers, videographers, photographers, and content creators who want legal recognition and invoicing capabilities." },
+      { "q": "What business activities can I do in DMC?", "a": "DMC hosts over 100 approved business activities including TV and film production, audio and podcasting, social media management, advertising and branding, digital marketing, PR and media consulting, event management, and publishing." },
+      { "q": "How long does it take to set up in Dubai Media City Free Zone?", "a": "Typically 3-7 working days depending on the license type, documentation, and office space selection. Our team handles everything to ensure a smooth and speedy process." },
+      { "q": "What are the legal entities available for DMC companies?", "a": "The main legal structures are Free Zone Limited Liability Company (FZ-LLC), Branch of a Foreign Company, and Freelancer Permit — each offering different benefits for different business needs." },
+      { "q": "Does DMC provide office space solutions for startups?", "a": "Yes. DMC offers co-working desks, executive furnished offices, studios and sound stages, retail spaces, and event venues — flexible options for businesses of all sizes." },
+      { "q": "Can I apply for a visa after setting up my business in DMC?", "a": "Yes. We handle establishment card issuance, immigration file opening, medical tests, Emirates ID, residency visa stamping, and family sponsorship — complete end-to-end support." },
+      { "q": "What are the setup costs in Dubai Media City Free Zone?", "a": "Costs vary based on license type, office space, and visa requirements. Contact us for a personalized quote — we offer competitive packages tailored to your budget and needs." },
+      { "q": "Is there any support after I setup with Setup Zone Dubai?", "a": "Yes. We provide ongoing support including brand creation, SEO-ready website development, CRM and CMS integration, VAT and accounting support, and business consulting for growth." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DMC setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-violet-400 to-purple-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Dubai Media City?",
+    "titleHighlight": "Dubai Media City?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "3-7 Days Setup", "Creative Community"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Dubai Media City setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Dubai Media City setup."
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "slug": "dic",
+  "hero": {
+    "badge": "Geschäft beginnt mit Technologie",
+    "title": "Dubai Internet City",
+    "titleHighlight": "Freizone",
+    "subtitle": "Das führende Innovationszentrum der VAE für IT-, Telekommunikations-, Digitalmedien- und Softwareentwicklungsunternehmen. Teil der TECOM Group – mit erstklassiger Infrastruktur und modernster Technologieausstattung.",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=80",
+    "breadcrumbParent": "Freizonen",
+    "breadcrumbLabel": "DIC",
+    "ctaPrimaryText": "Vereinbaren Sie eine kostenlose Beratung",
+    "ctaPrimaryLink": "#Kontakt",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für die Einrichtung der Dubai Internet City Free Zone.",
+    "badges": [
+      "100% Eigentum",
+      "0 % Steuer",
+      "TECOM-Gruppe"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Tagesaufbau",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Cpu",
+      "value": "Technik",
+      "label": "Innovationszentrum",
+      "color": "from-sky-400 to-cyan-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "DIC-Terminal",
+    "statusLabel": "Lizenztyp",
+    "totalLabel": "Lizenztyp",
+    "totalValue": "Technologie & Innovation",
+    "statusBadge": "Aktiv",
+    "metrics": [
+      {
+        "label": "Einrichtungszeit",
+        "value": "3-7 Tage",
+        "color": "text-cyan-600"
+      },
+      {
+        "label": "Steuersatz",
+        "value": "0 %",
+        "color": "text-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Strategische Basis für Technologie",
+    "title": "Vorteile der Gründung in Dubai Internet City",
+    "titleHighlight": "Dubai Internet City",
+    "subtitle": "Eine der attraktivsten Freihandelszonen für Technologiedienstleistungen im Nahen Osten.",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "description": "Volle Kontrolle über Betriebsabläufe, Entscheidungen und Gewinne – kein lokaler Sponsor erforderlich.",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0 % Unternehmens- und Einkommensteuer",
+        "description": "Keine Steuern auf Unternehmensgewinne und persönliches Einkommen – mehr in Wachstum reinvestieren.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Keine Zollgebühren",
+        "description": "Vollständig von Import-/Exportzöllen befreit – ideal für Software, IT-Hardware und Cloud-Dienste.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "UserCheck",
+      "title": "Effiziente Visaquotenzuteilung",
+      "description": "Die axs-Plattform von DIC ermöglicht reibungslose Genehmigungen für Eigentümer, Mitarbeiter und Angehörige – egal ob Einzelhändler oder ganze Teams.",
+      "color": "from-cyan-500 to-indigo-700"
+    },
+    "smallCard2": {
+      "icon": "MapPin",
+      "title": "Strategische Lage",
+      "description": "An der Sheikh Zayed Road – in der Nähe von U-Bahn-Stationen, Flughäfen und Gewerbegebieten.",
+      "color": "from-violet-500 to-violet-700"
+    },
+    "smallCard3": {
+      "icon": "Building2",
+      "title": "Starke Geschäftsinfrastruktur",
+      "description": "Hightech-Coworking im D/Quarters, erweiterbare Privatbüros, Gewerbeeinheiten, Studios.",
+      "color": "from-cyan-500 to-teal-600"
+    }
+  },
+  "licensesSection": {
+    "badge": "Lizenzarten",
+    "title": "Flexible Lizenzen, globale Reichweite",
+    "titleHighlight": "Globale Reichweite",
+    "subtitle": "Wir helfen Ihnen, die passende DIC-Lizenz für Ihre Branche und Ihr Geschäftsmodell zu finden.",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "title": "DIC-Gewerbelizenz",
+        "description": "Standardhandel (Waren), Online-Verkauf und E-Commerce-Unternehmen.",
+        "code": "COM",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Code",
+        "title": "IT-Lizenz",
+        "description": "Software-, SaaS-, KI- und Cloud-Computing-Unternehmen.",
+        "code": "ES",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Wifi",
+        "title": "Telekommunikationslizenz",
+        "description": "Konnektivitäts-, Satelliten- oder Telekommunikationsinfrastrukturunternehmen.",
+        "code": "TEL",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "Lizenz für digitale Medien",
+        "description": "Medienagenturen, Content-Ersteller und Werbeunternehmen.",
+        "code": "MEDIZIN",
+        "color": "from-sky-400 to-cyan-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "DIC-Freiberuflergenehmigung",
+        "description": "Einzelpersonen (Einzelunternehmer) über GoFreelance.",
+        "code": "FRL",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Server",
+        "title": "Rechenzentrumslizenz",
+        "description": "Datenhosting, Datenspeicherung und IT-Unternehmensdienstleistungen.",
+        "code": "DTC",
+        "color": "from-cyan-500 to-teal-600"
+      }
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "Einrichtungen",
+    "title": "Welche Einrichtungen stehen Ihnen im DIC zur Verfügung?",
+    "titleHighlight": "Zugang im DIC?",
+    "subtitle": "Moderne Infrastruktur und umfassende Arbeitsplatzoptionen für alle Organisationen.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Ausgestattete Büroräume",
+        "description": "Flexible Büromietverträge mit komplett ausgestatteten Räumlichkeiten für jede Größe.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "Coworking bei D/Quarters",
+        "description": "Sofort einsatzbereite Bürolösungen für Zusammenarbeit und Kreativität.",
+        "image": "https://images.unsplash.com/photo-1527192491265-7e15c55b1ed2?w=800&q=80"
+      },
+      {
+        "icon": "Layers",
+        "title": "Leichtindustrieanlagen",
+        "description": "Für Produktions-, Test- und Logistikunterstützung.",
+        "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&q=80"
+      },
+      {
+        "icon": "Store",
+        "title": "Gewerbeflächen",
+        "description": "Kundenorientierte Anlaufstellen in einem dynamischen Technologie-Ökosystem.",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "Wie wir helfen",
+    "title": "Starten Sie schnell im DIC mit Setup Zone Dubai",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "Wir kümmern uns um alles, von der Auswahl der Aktivitäten bis zur Eröffnung des Bankkontos.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Auswahl von Geschäftsaktivitäten",
+        "description": "Wir helfen Ihnen bei der Auswahl der richtigen, von DIC genehmigten Aktivität, die zu Ihrem Technologie-Geschäftsmodell passt.",
+        "icon": "Target",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "title": "Firmennamenreservierung",
+        "description": "Sichern Sie sich Ihren Handelsnamen schnell und gemäß den DIC-Vorschriften.",
+        "icon": "FileText",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "title": "Dokumentenerstellung",
+        "description": "Vollständige Dokumentation – Passkopien, Geschäftsplan und erforderliche Formulare.",
+        "icon": "FileCheck",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "04",
+        "title": "DIC-Lizenzgenehmigung",
+        "description": "Direkte Einreichung über TECOM und axs für eine schnelle Genehmigung.",
+        "icon": "BadgeCheck",
+        "color": "from-sky-400 to-cyan-600"
+      },
+      {
+        "step": "05",
+        "title": "Betriebsstättenkarte & Visa-Kontingent",
+        "description": "Beantragen Sie die DIC-Niederlassungskarte und Visakontingente.",
+        "icon": "Users",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "06",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Einrichtung eines Firmenbankkontos bei führenden Banken in den VAE.",
+        "icon": "CreditCard",
+        "color": "from-cyan-500 to-teal-600"
+      },
+      {
+        "step": "07",
+        "title": "Lizenzverlängerung & Einhaltung der Vorschriften",
+        "description": "Laufende Verlängerung, PRO-Dienstleistungen und medizinische Registrierung.",
+        "icon": "RefreshCw",
+        "color": "from-blue-500 to-indigo-600"
+      }
+    ],
+    "ctaCard": {
+      "icon": "Rocket",
+      "title": "Bereit für den Start?",
+      "ctaText": "Jetzt starten",
+      "whatsappMessage": "Hallo! Ich bin bereit, mein DIC-Geschäft zu starten."
+    }
+  },
+  "digitalScaleSection": {
+    "badge": "Digital skalieren",
+    "title": "Können Sie Ihr Unternehmen im DIC digital skalieren?",
+    "titleHighlight": "Digital im DIC?",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80",
+    "imageBadgeTitle": "Wachstumspfad",
+    "imageBadgeText": "Vom Startup zum Scale-up",
+    "intro": "In der Tat. Als führendes Technologie-Ökosystem im Nahen Osten bietet DIC ein umfassendes Innovationsökosystem, damit Ihr Unternehmen wachsen, sich entwickeln und den digitalen Raum dominieren kann.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Professionelle Websites",
+        "description": "Maßgeschneiderte Websites und E-Commerce-Plattformen, die auf Ihr Unternehmen zugeschnitten sind."
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM- und CMS-Integration",
+        "description": "Intelligente Plattformen für den reibungslosen digitalen Geschäftsbetrieb Ihres Unternehmens."
+      },
+      {
+        "icon": "Search",
+        "title": "SEO-Dienstleistungen",
+        "description": "Mehr Google-Suchanfragen und organischer Traffic für Ihr DIC-Unternehmen."
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Social-Media-Marketing",
+        "description": "Entwickeln Sie Ihre Markenstimme und Ihren Markenton über alle Kanäle hinweg."
+      },
+      {
+        "icon": "Palette",
+        "title": "Logo- und Markendesign",
+        "description": "Kreative Markenberatung und Designmaterialien."
+      },
+      {
+        "icon": "Award",
+        "title": "Markenanmeldung",
+        "description": "Schützen Sie Ihr geistiges Eigentum und Ihre Marke."
+      }
+    ]
+  },
+  "activitiesCloudSection": {
+    "badge": "Geschäftstätigkeit",
+    "title": "Aktivitäten für moderne Unternehmen",
+    "titleHighlight": "Moderne Unternehmen",
+    "subtitle": "Ob Innovation, Technologie, digitale Medien oder Telekommunikation – DIC ermöglicht ein breites Spektrum an Aktivitäten.",
+    "items": [
+      {
+        "icon": "Code",
+        "label": "Softwareentwicklung & SaaS"
+      },
+      {
+        "icon": "Smartphone",
+        "label": "Web- und Mobile-App-Entwicklung"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Digitale Werbung & Inhalte"
+      },
+      {
+        "icon": "Server",
+        "label": "Rechenzentrumsmanagement & Hosting"
+      },
+      {
+        "icon": "Terminal",
+        "label": "IT-Beratung & Systemintegration"
+      },
+      {
+        "icon": "Wifi",
+        "label": "Telekommunikations- und Netzwerkinfrastruktur"
+      },
+      {
+        "icon": "Camera",
+        "label": "Kreative Medien & Filmproduktion"
+      },
+      {
+        "icon": "Binary",
+        "label": "Akademische Forschung & F&E"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "E-Commerce & Technologie-Einzelhandel"
+      },
+      {
+        "icon": "Package",
+        "label": "Hardware und Software für Unternehmen"
+      },
+      {
+        "icon": "Bot",
+        "label": "KI und maschinelles Lernen"
+      },
+      {
+        "icon": "Cloud",
+        "label": "Cloud-Dienste"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über Dubai Internet City wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "items": [
+      {
+        "q": "Warum ist die Dubai Internet City (DIC) die attraktivste Freihandelszone für Technologieunternehmen?",
+        "a": "DIC ist das führende Innovationszentrum der VAE für IT, Telekommunikation, digitale Medien und Softwareentwicklung – Teil der TECOM Group mit erstklassiger Infrastruktur, Nähe zu Startup-Zentren und modernen Büroeinrichtungen."
+      },
+      {
+        "q": "Wie hoch sind die Kosten für die Gründung eines Unternehmens in Dubai Internet City?",
+        "a": "Die Kosten variieren je nach Lizenzart, Bürogröße und Visabestimmungen. Kontaktieren Sie uns für eine transparente, auf Ihr Unternehmen zugeschnittene Kostenaufstellung."
+      },
+      {
+        "q": "Welche Lizenzarten sind in Dubai Internet City erhältlich?",
+        "a": "DIC-Lizenzen für Gewerbe, IT, Telekommunikation, digitale Medien, Freiberufler und Rechenzentren."
+      },
+      {
+        "q": "Können sich Freiberufler oder Einzelunternehmer bei DIC registrieren?",
+        "a": "Ja. DIC bietet die Freelance-Genehmigung über GoFreelance an – perfekt für einzelne IT-Fachkräfte."
+      },
+      {
+        "q": "Welche Vorteile bietet die Zugehörigkeit zu einer DIC-Freizone hinsichtlich der Visabestimmungen?",
+        "a": "DIC bietet über die axs-Plattform eine effiziente Visa-Kontingentvergabe – für Eigentümer, Mitarbeiter und Angehörige."
+      },
+      {
+        "q": "Bietet die DIC Free Zone Platz für Startups und KMU?",
+        "a": "Ja. Die Coworking-Spaces und flexiblen Bürooptionen von D/Quarters sind perfekt für Startups und KMU."
+      },
+      {
+        "q": "Kann ich ein Firmenbankkonto bei einer DIC-Gesellschaft eröffnen?",
+        "a": "Ja. Wir helfen Ihnen bei der Eröffnung eines Firmenkontos bei führenden Banken in den VAE – inklusive aller erforderlichen Dokumente."
+      },
+      {
+        "q": "Welche weitere Unterstützung bietet Setup Zone Dubai nach der Unternehmensgründung?",
+        "a": "Wir bieten Lizenzverlängerung, Compliance-Services, PRO-Services, medizinische Registrierung und digitale Wachstumsdienstleistungen wie Webseiten, SEO und Branding an."
+      },
+      {
+        "q": "Wie lange dauert es, eine Gewerbelizenz in DIC zu erhalten?",
+        "a": "In der Regel dauert es 3–7 Werktage, bis alle Dokumente fertig sind. Dank unserer durchgängigen Koordination geht es schneller."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienste, die gut zu Ihrer DIC-Konfiguration passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "web-development",
+        "title": "Webentwicklung",
+        "description": "Moderne Websites für Technologieunternehmen.",
+        "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+        "gradient": "from-blue-400 to-indigo-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "Digitales Marketing",
+        "description": "Soziale Medien, bezahlte Werbung und Content-Strategie.",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute!",
+    "title": "Bereit für den Start im DIC?",
+    "titleHighlight": "DIC?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess – von der Lizenzauswahl bis zur Kontoeröffnung.",
+    "primaryCta": "WhatsApp uns",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung eines DIC-Systems.",
+    "badges": [
+      "Kostenlose Beratung",
+      "TECOM-Gruppe",
+      "3-7 Tage Einrichtungszeit"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

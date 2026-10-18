@@ -1,0 +1,349 @@
+{
+  "areaName": "DIFC (Centro Financiero Internacional de Dubái)",
+  "areaShort": "DIFC",
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Vía de Servício",
+  "heroTitle": "Establecimiento de negocios en DIFC",
+  "heroTitleHighlight": "DIFC",
+  "heroSubtitle": "El Centro Financiero Internacional de Dubái (DIFC) es el principal centro financiero de la región de Oriente Medio, ífrica y Asia Meridional (MEASA). Establecer un negocio en el DIFC es ideal para empresas de servicios financieros, startups fintech y compañías de servicios profesionales.",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "Más de 4000",
+      "label": "Empresas globales",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Configuración de días",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propiedad",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "25.000 AED",
+      "label": "A partir de",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "¿Por qué elegir DIFC?",
+    "title": "El principal centro financiero de MEASA",
+    "titleHighlight": "Centro financiero",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Ubicación",
+    "imageBadgeText": "DIFC, Dubái",
+    "paragraph": "El DIFC ofrece ventajas excepcionales para empresas de todos los tamaños. Con una infraestructura de primer nivel, una ubicación estratégica y un ecosistema empresarial favorable, es el lugar ideal para establecer su empresa en Dubái.",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "Ubicación privilegiada",
+        "desc": "Excelente conectividad en todo Dubái."
+      },
+      {
+        "icon": "Users",
+        "title": "Grupo de talentos",
+        "desc": "Acceso a talento profesional diverso"
+      },
+      {
+        "icon": "Layers",
+        "title": "Infraestructura",
+        "desc": "Servicios e instalaciones de primera clase"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Comunidad de negocios",
+        "desc": "Un próspero ecosistema de empresas globales"
+      },
+      {
+        "icon": "Zap",
+        "title": "Enlaces de transporte",
+        "desc": "Proximidad a las principales líneas de metro y autopistas."
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Nuestros servicios",
+    "title": "Servicios de creación de empresas en DIFC",
+    "titleHighlight": "DIFC",
+    "subtitle": "Soluciones integrales de principio a fin para su negocio en los Emiratos írabes Unidos.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "Constitución de empresas en zonas francas",
+        "desc": "Ubicada en la zona franca más adecuada: propiedad al 100%, cero impuestos corporativos y repatriación total de beneficios.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Constitución de una empresa en el territorio continental",
+        "desc": "Opere directamente en el mercado de los EAU con una licencia del territorio continental de EE. UU. Nos encargamos de toda la documentación y las licencias del Departamento de Desarrollo Económico (DED).",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "Licencia comercial en Dubái",
+        "desc": "Obtenga su licencia comercial, profesional o industrial rápidamente y cumpliendo plenamente con la normativa vigente.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Servicios de tramitación de visados y servicios de gestión de trámites",
+        "desc": "Visados para inversores, empleados y dependientes: nos encargamos de las pruebas médicas, el documento de identidad de los Emiratos írabes Unidos y el sellado de los visados.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Apertura de cuenta bancaria corporativa",
+        "desc": "Abra una cuenta bancaria empresarial en los principales bancos de los EAU; nosotros nos encargamos de la documentación y del proceso KYC (Conozca a su cliente).",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Calculator",
+        "title": "Servicios de contabilidad e impuestos",
+        "desc": "Cumpla con las obligaciones fiscales y del IVA de las empresas en los EAU: contabilidad, declaraciones de IVA e informes.",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "costSection": {
+    "badge": "Guía de costos 2026",
+    "title": "Creación de empresas en DIFC: Costes y paquetes",
+    "titleHighlight": "Costos y paquetes",
+    "subtitle": "El DIFC es una zona franca financiera de derecho consuetudinario: las empresas operan bajo la legislación inglesa, con los tribunales del DIFC y una sólida protección para los inversores.",
+    "items": [
+      {
+        "type": "Licencia comercial",
+        "cost": "25.000 – 40.000 AED",
+        "bestFor": "Comercio, tecnología financiera, servicios profesionales",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "type": "Licencia para startups tecnológicas",
+        "cost": "18.000 – 25.000 AED",
+        "bestFor": "Empresas de tecnología e innovación",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "type": "Licencia de sucursal",
+        "cost": "20.000 – 30.000 AED",
+        "bestFor": "Empresas globales existentes",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "type": "Visa (por persona)",
+        "cost": "5.000 – 7.000 AED",
+        "bestFor": "Incluye documento de identidad de los Emiratos írabes Unidos.",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "estimateLabel": "Estimación del año 1",
+    "estimateValue": "45.000 – 70.000 AED",
+    "estimateNote": "Dependiendo del tipo de licencia y la oficina. El índice de marca premium, en comparación con otras zonas, se refleja en el precio."
+  },
+  "whyDifcSection": {
+    "badge": "¿Por qué DIFC?",
+    "title": "¿Por qué establecer una empresa en el DIFC?",
+    "titleHighlight": "DIFC",
+    "items": [
+      {
+        "icon": "Scale",
+        "title": "Derecho consuetudinario inglés",
+        "desc": "Contratos, tribunales y estructuras familiares para los inversores internacionales.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Banknote",
+        "title": "Impuesto cero sobre la renta personal",
+        "desc": "Impuesto del 0% sobre las actividades que cumplan los requisitos.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "Más de 4000 empresas",
+        "desc": "Incluyendo a los principales bancos y fondos mundiales.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Tribunales del DIFC",
+        "desc": "Poder judicial independiente de derecho consuetudinario con reconocimiento mundial",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Amigable con los inversores",
+        "desc": "La mejor opción para oficinas familiares y gestores de patrimonio.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "Comparación",
+    "title": "DIFC vs Mainland vs JAFZA vs DMCC",
+    "titleHighlight": "JAFZA contra DMCC",
+    "headers": [
+      "Factor",
+      "DIFC",
+      "Continente",
+      "JAFZA",
+      "DMCC"
+    ],
+    "rows": [
+      {
+        "factor": "Sistema legal",
+        "difc": "Ley común",
+        "mainland": "Derecho civil",
+        "jafza": "reglamento de zona franca",
+        "dmcc": "reglamento de zona franca"
+      },
+      {
+        "factor": "Costo inicial",
+        "difc": "25.000 AED",
+        "mainland": "8.500 AED",
+        "jafza": "12.000 AED",
+        "dmcc": "15.000 AED"
+      },
+      {
+        "factor": "Comercio dentro de los Emiratos írabes Unidos",
+        "difc": "Sí (aprobado)",
+        "mainland": "Sí",
+        "jafza": "A través del distribuidor",
+        "dmcc": "A través de un socio"
+      },
+      {
+        "factor": "Lo mejor para",
+        "difc": "Finanzas, fondos, derecho",
+        "mainland": "Mercado local",
+        "jafza": "Logística",
+        "dmcc": "Materias primas, criptomonedas"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Proceso",
+    "title": "Proceso de constitución de empresas en DIFC",
+    "titleHighlight": "Proceso de formación",
+    "ctaTitle": "¿Quieres una configuración DIFC sin los dolores de cabeza habituales?",
+    "ctaSubtitle": "Hable con nuestros especialistas del DIFC: nos encargamos de la constitución de la empresa, la apertura de oficinas, los visados y los servicios bancarios de principio a fin.",
+    "ctaButton": "Hable con un especialista del DIFC.",
+    "ctaMessage": "¡Hola! Quiero una consulta sobre la configuración de DIFC.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Elija la estructura legal",
+        "desc": "Sociedad limitada por acciones, sucursal extranjera o vehículo de inversión",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "num": "02",
+        "title": "Reservar nombre y actividad",
+        "desc": "Solicita la aprobación del DIFC para tu actividad propuesta.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "num": "03",
+        "title": "Ejecutar documentos",
+        "desc": "Constituir ante el Registrador del DIFC",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "num": "04",
+        "title": "Obtener licencia comercial",
+        "desc": "Tras la confirmación de la oficina y del pago",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "num": "05",
+        "title": "Solicitar visados",
+        "desc": "Abra una cuenta corporativa en los bancos del DIFC.",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "Preguntas frecuentes de la zona",
+    "title": "Preguntas frecuentes sobre la creación de empresas en DIFC",
+    "titleHighlight": "Establecimiento de negocios en DIFC",
+    "items": [
+      {
+        "q": "¿Cuánto tiempo se tarda en establecer un negocio en el DIFC?",
+        "a": "La mayoría de las empresas se registran y entran en funcionamiento en un plazo de 3 a 5 días hábiles, dependiendo del tipo de licencia y las aprobaciones requeridas."
+      },
+      {
+        "q": "¿Puedo establecer un negocio en el DIFC siendo extranjero?",
+        "a": "Sí, los extranjeros pueden establecer negocios en las zonas francas de Dubái con el 100% de la propiedad. Las empresas del territorio continental de Estados Unidos pueden requerir un patrocinador local, dependiendo de la actividad comercial."
+      },
+      {
+        "q": "¿Necesito estar físicamente presente en Dubái?",
+        "a": "La mayor parte del proceso de registro se puede realizar de forma remota. Nuestro equipo se encarga del papeleo y de las gestiones gubernamentales en su nombre."
+      },
+      {
+        "q": "¿Qué tipo de negocios puedo establecer en el DIFC?",
+        "a": "En Dubái, según el tipo de licencia que elijas, puedes establecer negocios comerciales, profesionales, industriales, de comercio electrónico o de autónomo."
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "Respuestas rápidas",
+    "title": "Respuestas rápidas",
+    "titleHighlight": "Respuestas",
+    "subtitle": "Preguntas frecuentes sobre la creación de una empresa en Dubái. ¿Aún tienes dudas? Contáctanos.",
+    "relatedServicesTitle": "Servicios y guías relacionados",
+    "items": [
+      {
+        "q": "¿Cuánto cuesta iniciar un negocio en Dubái?",
+        "a": "Establecer un negocio en Dubái tiene un costo inicial de 9500 AED para una licencia básica de zona franca. En el territorio continental de Estados Unidos, el costo inicial es de 14 500 AED."
+      },
+      {
+        "q": "¿Puede un extranjero ser propietario al 100% de una empresa en Dubái?",
+        "a": "Sí, los extranjeros pueden ser propietarios al 100% de las empresas en la mayoría de las zonas francas y en muchas actividades en China continental."
+      },
+      {
+        "q": "¿Cuál es la zona franca más barata de Dubái?",
+        "a": "RAK ICC, Ajman FTZ y SRTIP ofrecen los paquetes más económicos a partir de 5.900 AED."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda el proceso de registro de una empresa en Dubái?",
+        "a": "El registro en la zona franca tarda de 3 a 7 días hábiles. En el territorio continental, de 2 a 4 semanas."
+      },
+      {
+        "q": "¿Necesito un socio local en Dubái?",
+        "a": "No en las zonas francas. En China continental, muchas actividades ahora permiten la propiedad extranjera al 100%."
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "Establecimiento de negocios en el centro comercial",
+        "desc": "Explora las opciones de configuración en DWTC.",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/trade-center"
+      },
+      {
+        "icon": "FileText",
+        "title": "Establecimiento de negocios en el centro de Dubái",
+        "desc": "Explora las opciones de configuración en el centro de la ciudad.",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/downtown-dubai"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "¿Listo para empezar?",
+    "title": "¿Listo para iniciar tu negocio en DIFC?",
+    "titleHighlight": "DIFC",
+    "subtitle": "Contacte hoy mismo con nuestro equipo de expertos en creación de empresas para una consulta gratuita. Le guiaremos en cada paso del proceso de constitución de su empresa en el DIFC.",
+    "primaryCta": "Contáctanos ahora",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Quiero establecer mi negocio en DIFC."
+  }
+}

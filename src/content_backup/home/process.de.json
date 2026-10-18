@@ -1,0 +1,83 @@
+{
+    "badge":  "Unser Prozess",
+    "heading":  {
+                    "line1":  "Von der Idee bis zum Marktstart",
+                    "highlight":  "6 einfache Schritte"
+                },
+    "subtitle":  "Wir kümmern uns um alles "“ von der ersten Beratung bis zur laufenden Betreuung. Ein bewí¤hrter, transparenter Prozess, dem über 500 Unternehmen in den VAE vertrauen.",
+    "stepsLabel":  "Schritt",
+    "stepsLabelSuffix":  "von",
+    "steps":  [
+                  {
+                      "number":  "01",
+                      "icon":  "MessageCircle",
+                      "title":  "Kostenlose Beratung",
+                      "description":  "Wir verstehen Ihre Geschí¤ftsziele, Ihre Branche und Ihre Visabestimmungen "“ und empfehlen Ihnen die beste Lí¶sung für eine Freihandelszone oder das Festland.",
+                      "gradient":  "von Himmel-400 bis Blau-600",
+                      "glow":  "rgba(14,165,233,0.5)",
+                      "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "02",
+                      "icon":  "DateiText",
+                      "title":  "Dokumentenerstellung",
+                      "description":  "Unser Team kümmert sich um alle Formalití¤ten "“ von Lizenzantrí¤gen über die Ausarbeitung von Gesellschaftsvertrí¤gen bis hin zu íœbersetzungen, die auf die Vorschriften der VAE zugeschnitten sind.",
+                      "gradient":  "von Violett-400 bis Lila-600",
+                      "glow":  "rgba(139,92,246,0.5)",
+                      "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "03",
+                      "icon":  "Gebí¤ude 2",
+                      "title":  "Firmenregistrierung",
+                      "description":  "Wir registrieren Ihr Unternehmen bei der zustí¤ndigen Behí¶rde (Freizone, Festland usw.) und holen alle erforderlichen Genehmigungen ein.",
+                      "gradient":  "von Bernstein-400 bis Orange-600",
+                      "glow":  "rgba(245,158,11,0.5)",
+                      "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "04",
+                      "icon":  "Benutzerprüfung",
+                      "title":  "Visum \u0026 Emirates ID",
+                      "description":  "Wir beantragen für Sie das Aufenthaltsvisum, die Einreiseerlaubnis, den medizinischen Test, die Emirates ID und gegebenenfalls das Mitarbeitervisum.",
+                      "gradient":  "von Smaragdgrün 400 bis Türkis 600",
+                      "glow":  "rgba(16,185,129,0.5)",
+                      "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "05",
+                      "icon":  "Kreditkarte",
+                      "title":  "Firmenbankkonto",
+                      "description":  "Wir vermitteln Ihnen die passenden Bankpartner basierend auf Ihrem Geschí¤ftsprofil "“ inklusive umfassender Beratung zu den erforderlichen Dokumenten.",
+                      "gradient":  "von Cyan-400 bis Blau-600",
+                      "glow":  "rgba(34,211,238,0.5)",
+                      "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                  },
+                  {
+                      "number":  "06",
+                      "icon":  "Kopfhí¶rer",
+                      "title":  "Kontinuierliche Unterstützung",
+                      "description":  "Wir unterstützen Sie weiterhin bei PRO-Dienstleistungen, Compliance, Lizenzverlí¤ngerungen und Unternehmensberatung.",
+                      "gradient":  "von rosa-400 bis rosé-600",
+                      "glow":  "rgba(236,72,153,0.5)",
+                      "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80"
+                  }
+              ],
+    "bottomCTA":  {
+                      "icon":  "Rakete",
+                      "title":  "Bereit, Ihr Unternehmen in Dubai zu gründen?",
+                      "subtitle":  "Beginnen Sie mit einer kostenlosen Beratung. Wir begleiten Sie durch jeden Schritt des Prozesses.",
+                      "primaryCta":  "Jetzt starten",
+                      "secondaryCta":  "Rufen Sie uns an",
+                      "phone":  "+971 56 655 6645",
+                      "phoneHref":  "Tel.: +971566556645",
+                      "whatsappMessage":  "Hallo! Ich mí¶chte mein Unternehmen in Dubai gründen. Kí¶nnen wir einen kostenlosen Beratungstermin vereinbaren?",
+                      "backgroundImage":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600\u0026q=80",
+                      "trustIndicators":  [
+                                              "Mehr als 500 Unternehmen wurden gegründet",
+                                              "Durchschnittliche Einrichtungszeit: 3-5 Tage",
+                                              "Kostenlose Beratung",
+                                              "FTA-konform"
+                                          ]
+                  }
+}

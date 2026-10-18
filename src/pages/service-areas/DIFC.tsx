@@ -12,7 +12,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import difcData from '../../content/service-areas/difc.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, Users, DollarSign, MapPin, Briefcase, Zap,
   Clock, Award, Layers, Landmark, Scale, Banknote, ShieldCheck, TrendingUp,
@@ -21,7 +22,9 @@ const iconMap: any = {
 };
 
 export default function DIFC({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || difcData;
+  const { language } = useLanguage();
+  const difcFallback = loadContent('service-areas/difc', language);
+  const data = tinaData?.data?.serviceAreas || difcFallback;
   const AREA_NAME = data.areaName;
   const AREA_SHORT = data.areaShort;
 

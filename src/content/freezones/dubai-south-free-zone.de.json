@@ -1,0 +1,415 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "Beyond Borders Business",
+  "heroTitle": "Firmengründung in der Dubai South Free Zone",
+  "heroTitleHighlight": "Firmengründung",
+  "heroSubtitle": "Ihr Tor zum globalen Wachstum. Strategische Lage direkt neben dem internationalen Flughafen Al Maktoum. 100 % ausländisches Eigentum, keine Steuern und beschleunigte Genehmigungsverfahren.",
+  "heroChips": [
+    "100% Eigentum",
+    "Nullsteuer",
+    "Aufbau in 2-4 Tagen"
+  ],
+  "heroCards": {
+    "primary": {
+      "badge": "Schnelle Einrichtung",
+      "icon": "Clock",
+      "label": "Einrichtungszeit",
+      "value": "2-4 Tage",
+      "highlight": "98 %",
+      "highlightLabel": "success",
+      "footer": "Schnellstes Ergebnis in den Freizonen der VAE",
+      "color": "from-sky-400 to-blue-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "Eigentum",
+      "value": "100 % ausländisch",
+      "title": "Kein Sponsor",
+      "subtext": "Volle Kontrolle",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "tertiary": {
+      "icon": "Plane",
+      "label": "Standort",
+      "value": "Direkt neben dem Flughafen",
+      "title": "Al Maktoum",
+      "subtext": "Globales Logistikzentrum",
+      "color": "from-amber-400 to-orange-500"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-4",
+      "label": "Tagesaufbau",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Einkommensteuer",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "Unternehmen",
+      "color": "from-amber-400 to-orange-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Zone für intelligentes Wachstum",
+    "title": "Dubai South Free Zone erklärt",
+    "titleHighlight": "Erklärt",
+    "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+    "imageBadgeTitle": "Befindet sich in",
+    "imageBadgeText": "Süd-Dubai, VAE",
+    "paragraphs": [
+      "Die Dubai South Free Zone ist eine vollständig staatlich geförderte Wirtschaftszone im Süden Dubais, direkt neben dem größten Flughafen der Welt. Sie bietet einen vereinfachten Rechts- und Regulierungsrahmen für lokale und internationale Unternehmen.",
+      "Unternehmer profitieren von der vollständigen Rückführung der Gewinne, dem Wegfall der Einkommen- und Körperschaftsteuer sowie von flexiblen Paketen für Startups, KMUs und multinationale Konzerne."
+    ],
+    "highlights": [
+      "Vollständige Gewinnrückführung",
+      "Keine Einkommensteuer",
+      "Keine Körperschaftssteuer",
+      "Flexible Pakete"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Wichtigste Vorteile",
+    "title": "Vorteile einer Niederlassung in Dubai Süd",
+    "titleHighlight": "Dubai Süd",
+    "subtitle": "Alles, was Sie benötigen, um Ihr Unternehmen global auszubauen.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "description": "Volle Kontrolle über Ihr Unternehmen – kein lokaler Sponsor erforderlich. Ideal für internationale Unternehmer.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Keine Steuervorteile",
+        "description": "Keine Einkommensteuer für Privatpersonen oder Unternehmen. Vollständige Rückführung von Gewinnen und Kapital.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Anmeldung",
+        "description": "Komplette Einrichtung in nur 2-4 Werktagen. Schnelle Genehmigungen und Lizenzierung.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Strategische Lage",
+        "description": "Direkt neben dem internationalen Flughafen Al Maktoum und dem Gelände der Expo 2020 – Logistikkorridor.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Flexible Pakete",
+        "description": "Lösungen für Startups, KMUs und multinationale Konzerne – maßgeschneidert auf Ihre Bedürfnisse.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Rocket",
+        "title": "Startup-Ökosystem",
+        "description": "Networking, Coworking-Spaces und Business-Acceleratoren – alles an einem Ort.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Einrichtungsprozess",
+    "title": "Wie Sie Ihr Unternehmen in 6 Schritten gründen",
+    "titleHighlight": "in 6 Schritten",
+    "subtitle": "Ein optimierter Prozess von der Auswahl der Aktivität bis zur Eröffnung des Bankkontos.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Geschäftsaktivitäten identifizieren",
+        "description": "Wählen Sie aus Logistik, Handel, Beratung, E-Commerce, IT-Dienstleistungen und mehr.",
+        "icon": "Target",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "Rechtsform wählen",
+        "description": "FZE (Einzelaktionär), FZCO (Mehrfachaktionär) oder Zweigniederlassung für bestehende Unternehmen.",
+        "icon": "Building2",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "Reserve-Handelsname",
+        "description": "Reichen Sie Ihren gewünschten Firmennamen zur Genehmigung ein – dieser muss den Namensrichtlinien der VAE entsprechen.",
+        "icon": "FileText",
+        "color": "from-amber-400 to-orange-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "Dokumente einreichen",
+        "description": "Passkopien, Fotos, Antragsformular und alle weiteren erforderlichen Dokumente.",
+        "icon": "FileCheck",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "Lizenz erteilt",
+        "description": "Sie erhalten Ihre Gewerbe-, Dienstleistungs- oder Industrielizenz – in der Regel innerhalb weniger Tage.",
+        "icon": "BadgeCheck",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "06",
+        "title": "Visa & Bankkonto",
+        "description": "Beantragen Sie eine Aufenthaltsgenehmigung und eröffnen Sie ein Firmenbankkonto, um Ihre Geschäftstätigkeit aufzunehmen.",
+        "icon": "Landmark",
+        "color": "from-pink-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "Warum es ideal ist",
+    "title": "Machen Sie Ihr Unternehmen zukunftssicher",
+    "titleHighlight": "Geschäft",
+    "subtitle": "Die Dubai South Free Zone wurde für den modernen Unternehmer geschaffen.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Flexibel & Erschwinglich",
+        "description": "Preisgünstige Lizenzpakete mit Optionen für Startups und unabhängige Unternehmer."
+      },
+      {
+        "icon": "Globe",
+        "title": "Strategische Vernetzung",
+        "description": "In der Nähe des internationalen Flughafens Al Maktoum und wichtiger Häfen für den Welthandel."
+      },
+      {
+        "icon": "Users",
+        "title": "100% ausländisches Eigentum",
+        "description": "Kein lokaler Sponsor erforderlich – Unternehmer können alles selbst in die Hand nehmen."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Startup-Ökosystem",
+        "description": "Networking, Coworking-Spaces und Zugang zu Business-Acceleratoren."
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Einrichtung",
+        "description": "Registrierung und Lizenzierung innerhalb von Tagen, nicht Wochen."
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Zukunftsfähige Infrastruktur",
+        "description": "Entwickelt für digitale Unternehmen, E-Commerce-Unternehmen und technologieorientierte Unternehmen."
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "Für wen es gedacht ist",
+    "title": "Wer sollte sich in Dubai South ansiedeln?",
+    "titleHighlight": "Dubai Süd?",
+    "subtitle": "Perfekt geeignet für diese Branchen und Unternehmenstypen.",
+    "items": [
+      {
+        "icon": "Truck",
+        "title": "Logistik & Fracht",
+        "description": "Speditions- und Logistikunternehmen, die im Golf-Kooperationsrat (GCC) und darüber hinaus tätig sind.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Package",
+        "title": "E-Commerce",
+        "description": "Online-Shops mit Fulfillment-Centern und Lieferdiensten.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Luftfahrtdienstleistungen",
+        "description": "Flugzeugwartung, Charterdienste und Luftfahrtunterstützung.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Store",
+        "title": "Handelsunternehmen",
+        "description": "Import-/Exportunternehmen, die auf den GCC-Markt und darüber hinaus abzielen.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Beratungsunternehmen",
+        "description": "Dienstleistungsorientierte Startups und professionelle Beratungsunternehmen.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Technologie & Software",
+        "description": "Softwareentwicklung, IT-Dienstleistungen und digitale Plattformen.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "noteText": "Strategischer Vorteil: In der Nähe des internationalen Flughafens Al Maktoum, des Hafens Jebel Ali und mit direktem Zugang zu Straße, Luft und See gelegen – eine Zone, die für Unternehmen geschaffen wurde, die Schnelligkeit, Erreichbarkeit und operative Effizienz benötigen."
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Ihr vertrauenswürdiger Partner für die Einrichtung in Dubai South",
+    "titleHighlight": "Dubai Süd-Einrichtung",
+    "description": "Wir gestalten Ihre Einrichtung in der Dubai South Free Zone einfach, transparent und stressfrei. Von der Auswahl der Aktivitäten über die Visabearbeitung bis hin zur Kontoeröffnung – wir kümmern uns um alles.",
+    "items": [
+      {
+        "icon": "Award",
+        "label": "Zertifizierte Freizonen-Spezialisten"
+      },
+      {
+        "icon": "Zap",
+        "label": "Beschleunigte Genehmigungen"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Transparente Preise"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "100%ige Einhaltung"
+      },
+      {
+        "icon": "Users",
+        "label": "Persönlicher Kundenbetreuer"
+      },
+      {
+        "icon": "Clock",
+        "label": "24/7-Support"
+      }
+    ],
+    "stats": [
+      {
+        "icon": "Clock",
+        "value": "2-4",
+        "label": "Durchschnittliche Einrichtungsdauer in Tagen",
+        "color": "from-sky-500 to-blue-500",
+        "bg": "von Himmelblau-500/30 bis Blau-500/30"
+      },
+      {
+        "icon": "Zap",
+        "value": "98 %",
+        "label": "Erfolgsquote",
+        "color": "from-violet-500 to-purple-500",
+        "bg": "von Violett-500/30 bis Lila-500/30"
+      },
+      {
+        "icon": "Users",
+        "value": "500+",
+        "label": "Betreute Kunden",
+        "color": "from-emerald-500 to-teal-500",
+        "bg": "von Smaragdgrün 500/30 bis Türkis 500/30"
+      },
+      {
+        "icon": "Award",
+        "value": "Ab 15 Jahren",
+        "label": "Jahre Erfahrung",
+        "color": "from-amber-500 to-orange-500",
+        "bg": "von-bernstein-500/30 bis-orange-500/30"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Dubai South Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren Spezialisten in Dubai Süd beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zur Dubai South Free Zone."
+    },
+    "items": [
+      {
+        "q": "Was ist die Dubai South Free Zone und warum ist sie ideal für Unternehmensgründungen?",
+        "a": "Die Dubai South Free Zone ist eine staatlich geförderte Wirtschaftszone neben dem internationalen Flughafen Al Maktoum und dem Gelände der Expo 2020. Sie unterstützt Logistik, E-Commerce, Luftfahrt und Handel mit 100% ausländischem Eigentum, Steuerfreiheit und erstklassiger Infrastruktur."
+      },
+      {
+        "q": "Was sind die wichtigsten Vorteile einer Ansiedlung in der Dubai South Free Zone?",
+        "a": "100% ausländisches Eigentum, keine Einkommen- und Körperschaftssteuer, schnelle Registrierung (2-4 Tage), flexible Pakete für Unternehmen jeder Größe und ein komplettes Startup-Ökosystem."
+      },
+      {
+        "q": "Welche Geschäftsaktivitäten sind in der Dubai South Free Zone zulässig?",
+        "a": "Logistik, Luftfahrtdienstleistungen, E-Commerce, Handel, Beratung, IT-Dienstleistungen, digitale Plattformen und vieles mehr. Die vollständige Liste finden Sie auf der offiziellen Website von Dubai South."
+      },
+      {
+        "q": "Benötige ich einen lokalen Sponsor, um ein Unternehmen in der Dubai South Free Zone zu gründen?",
+        "a": "Nein. In der Dubai South Free Zone ist 100% ausländisches Eigentum erlaubt – Sie benötigen keinen lokalen Sponsor, um Ihr Unternehmen zu gründen oder zu betreiben."
+      },
+      {
+        "q": "Welche Lizenzarten gibt es?",
+        "a": "Je nach Art Ihrer Geschäftstätigkeit benötigen Sie eine Gewerbe-, Dienstleistungs- oder Industrielizenz. Jede dieser Lizenzen hat unterschiedliche Visakontingente und Büroanforderungen."
+      },
+      {
+        "q": "Welche Rechtsformen sind zulässig?",
+        "a": "Freizonengründung (FZE) für Einzelaktionäre, Freizonengesellschaft (FZCO) für mehrere Aktionäre und Zweigstellen für bestehende Unternehmen aus den VAE oder dem Ausland."
+      },
+      {
+        "q": "Kann ich ein Unternehmen in der Dubai South Free Zone aus der Ferne gründen?",
+        "a": "Ja. Wir wickeln den gesamten Prozess aus der Ferne ab – von der Dokumentenerfassung bis zur Lizenzausstellung – ein Besuch in Dubai ist nicht erforderlich."
+      },
+      {
+        "q": "Welche Visumoptionen gibt es nach der Einrichtung des Visums?",
+        "a": "Sie können Aufenthaltsvisa für sich selbst, Ihre Familie und Ihre Mitarbeiter beantragen. Die Visakontingente hängen von der Größe Ihres Büros ab (flexibler Arbeitsplatz oder Einzelbüro)."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrer Freizonenkonfiguration passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "corporate-tax-vat",
+        "title": "Körperschaftsteuer & Mehrwertsteuer",
+        "description": "Kompetente Steuerberatung, FTA-Registrierung und Compliance.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute!",
+    "title": "Bereit für den Markteintritt in Dubai Süd?",
+    "titleHighlight": "Dubai Süd?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess – von der Auswahl der Tätigkeit bis zur Lizenzerteilung und Kontoeröffnung.",
+    "chips": [
+      "Kostenlose Beratung",
+      "Mehr als 10.000 Kunden",
+      "Aufbau in 2-4 Tagen"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung der Dubai South Free Zone.",
+    "whatsappCardMessage": "Hallo! Ich würde gerne über die Einrichtung der Dubai South Free Zone sprechen."
+  }
+}

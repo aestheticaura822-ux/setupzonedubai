@@ -1,0 +1,381 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "媒体简易指南",
+  "heroTitle": "迈丹自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "助您实现100%所有权、享受税收优惠并轻松设立公司。公司位于迪拜市中心，是初创企业、自由职业者和国际公司的理想之选。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "1-3天安装完成"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "1-3",
+      "label": "设置天数",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Target",
+      "value": "1500+",
+      "label": "商业活动",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyMeydanSection": {
+    "badge": "为扩展而建",
+    "title": "为什么你应该选择迈丹自由区",
+    "titleHighlight": "迈丹自由区",
+    "subtitle": "对于初创企业、自由职业者和国际公司而言，这是一个创新且高效的选择。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全所有权，没有当地阿联酋赞助商——完全掌控利润和决策。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "无个人及公司税",
+        "description": "个人和企业所得税为0%——保留更多利润并再投资于增长。",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Package",
+        "title": "无进出口关税",
+        "description": "免征进出口关税——有利于全球贸易和物流。",
+        "color": "from-cyan-400 to-sky-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速远程设置",
+        "description": "无需前往阿联酋，即可在线完成整个流程——申请、提交、付款，并在短短几天内收到您的驾照。",
+        "color": "from-violet-500 to-purple-600",
+        "size": "大的"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "经济实惠的套餐",
+        "description": "为初创公司、自由职业者和成熟企业提供具有竞争力的许可方案和灵活的套餐。",
+        "color": "from-sky-400 to-blue-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Building2",
+        "title": "信誉良好的商业地址",
+        "description": "位于迪拜黄金地段的尊贵地址——有助于建立客户信任。",
+        "color": "from-emerald-500 to-green-600",
+        "size": "小的"
+      }
+    ]
+  },
+  "readyToLaunchSection": {
+    "badge": "准备发射",
+    "title": "在迈丹自由区创业",
+    "titleHighlight": "迈丹自由区",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=80",
+    "imageBadgeTitle": "设置时间",
+    "imageBadgeText": "1-3个工作日",
+    "paragraphs": [
+      "享受100%外资所有权、免税利润，以及仅需几天即可快速完成的线上公司注册。迈丹自由区是迪拜最具战略意义且对创业者最为友好的区域之一。",
+      "我们为您处理整个流程——从选择合适的许可证套餐和准备文件，到获得签证、办公解决方案，甚至开设您的公司银行账户。",
+      "无论您是初创企业、中小企业还是全球投资者——迈丹自由区都能为您提供扩展业务所需的一切，我们将确保您从第一天起就能顺利发展。"
+    ],
+    "highlights": [
+      "100% 所有权",
+      "免税利润",
+      "完全远程设置",
+      "无隐藏费用"
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "在这里开展任何业务",
+    "titleHighlight": "这里",
+    "subtitle": "针对不同商业活动的各种许可证。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "商业许可",
+        "description": "贸易和一般商业活动。",
+        "code": "COM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "咨询、营销、IT 和专业服务。",
+        "code": "SRV",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "媒体许可",
+        "description": "广告、内容创作和数字服务。",
+        "code": "医学",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "在阿联酋合法在线销售产品和服务。",
+        "code": "细胞外基质",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "keyBenefitsSection": {
+    "badge": "主要优势",
+    "title": "快速授权，轻松上线。",
+    "titleHighlight": "轻松启动。",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "快速注册",
+        "description": "公司营业执照1-3天内即可办理。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "无需办公室",
+        "description": "提供灵活办公桌选项。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "完全在线",
+        "description": "文件提交、签署、付款——全部在线完成。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Crown",
+        "title": "专业地址",
+        "description": "位于迪拜黄金地段，备受瞩目。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "成本透明度",
+        "description": "无任何隐藏费用或收费。",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "设置过程",
+    "title": "公司设立分步指南",
+    "titleHighlight": "公司设立",
+    "subtitle": "从咨询到产品发布，您的完整旅程。",
+    "steps": [
+      {
+        "step": "01",
+        "title": "选择您的业务活动",
+        "description": "从迈丹自由区管理局批准的 1500 多项活动中进行选择——咨询、媒体、技术、电子商务或贸易。",
+        "icon": "Target",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "title": "免费咨询",
+        "description": "我们了解您的目标、活动、签证需求和预算，并指导您选择最佳的方案。",
+        "icon": "MessageCircle",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "title": "文件提交",
+        "description": "我们准备申请表格，整理护照复印件，安排姓名核准——确保完全合规。",
+        "icon": "FileText",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "title": "许可证申请支持",
+        "description": "我们提供迈丹自由区许可证的一站式服务——从选择到提交，再到快速审批。",
+        "icon": "BadgeCheck",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "title": "许可证后支持",
+        "description": "银行账户设立、签证、阿联酋身份证、体检和文件认证——助您顺利开启创业之路。",
+        "icon": "Users",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "文件",
+    "title": "需要提交哪些文件？",
+    "titleHighlight": "需要提交吗？",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "护照复印件",
+        "description": "护照清晰复印件。"
+      },
+      {
+        "icon": "Camera",
+        "label": "护照尺寸照片",
+        "description": "最近拍摄的白色背景照片。"
+      },
+      {
+        "icon": "FileBadge",
+        "label": "3 个拟定的公司名称",
+        "description": "供评估和批准。"
+      },
+      {
+        "icon": "Monitor",
+        "label": "电子邮件和联系电话",
+        "description": "保持电子邮件和电话畅通。"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "为什么选择迪拜Setup Zone？",
+    "titleHighlight": "迪拜建站区？",
+    "subtitle": "您在迈丹自由区设立公司的可靠合作伙伴。",
+    "items": [
+      {
+        "icon": "MessageCircle",
+        "title": "免费咨询",
+        "description": "我们首先提供免费咨询，了解您的业务目标、业务活动、签证需求和预算——帮助您从一开始就做出明智的决定。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "文件提交",
+        "description": "我们的团队负责管理整个文件流程——申请表、护照复印件、名称核准——所有流程均符合自由区要求。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "许可证申请支持",
+        "description": "我们全程为您办理迈丹自由区许可证——选择合适的许可证、提交文件并确保快速审批。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "许可证后支持",
+        "description": "驾照签发后，我们会协助您开设银行账户、办理签证、阿联酋身份证、体检和文件认证——让您顺利开始。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迈丹自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们迈丹的专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迈丹自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是迈丹自由区？它适合哪些人群？",
+        "a": "迈丹自由区是迪拜市中心领先的商业区，允许外资全资拥有，免税，并可快速办理许可证。对于希望以低成本和最大自由度在阿联酋设立公司的初创企业、企业家、自由职业者和国际企业而言，迈丹自由区是理想之选。"
+      },
+      {
+        "q": "我可以在国外注册迈丹自由区公司吗？",
+        "a": "是的。整个流程都可以远程在线完成——您无需前往阿联酋。在线申请、提交文件、付款，几天之内即可收到您的驾照。"
+      },
+      {
+        "q": "在迈丹自由区我可以获得哪些类型的营业执照？",
+        "a": "商业、服务、媒体和电子商务许可证——涵盖 1500 多种商业活动。"
+      },
+      {
+        "q": "办理营业执照需要多长时间？",
+        "a": "通常情况下，所有文件准备妥当后，需要 1-3 个工作日。"
+      },
+      {
+        "q": "在迈丹自由区是否需要实体办公空间？",
+        "a": "不。Meydan 提供灵活办公桌选项——非常适合初创公司和远程办公企业。"
+      },
+      {
+        "q": "根据迈丹自由区许可证，允许分配多少签证名额？",
+        "a": "签证配额取决于您的许可证套餐和办公地点类型。我们会帮助您选择合适的组合。"
+      },
+      {
+        "q": "持有迈丹自由区许可证是否可以开设公司银行账户？",
+        "a": "是的。我们协助客户在阿联酋各大银行开设公司银行账户。"
+      },
+      {
+        "q": "我可以为迈丹自由区内的家庭成员/员工提供担保吗？",
+        "a": "是的。迈丹公司允许企业担保家属和员工，具体取决于签证配额。"
+      },
+      {
+        "q": "公司设立需要哪些文件？",
+        "a": "护照复印件、护照尺寸照片（白色背景）、3 个拟定的公司名称以及有效的电子邮件/联系电话。"
+      },
+      {
+        "q": "为什么我应该选择迪拜创业中心（Setput Zone Dubai）来注册我的公司？",
+        "a": "我们提供免费咨询、完整的文件处理、快速的许可证审批以及全面的许可证后支持，包括银行账户、签证和阿联酋身份证。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的 Meydan 系统完美搭配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "数字营销",
+        "description": "社交媒体、付费广告和内容策略。",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在迈丹启动？",
+    "titleHighlight": "迈丹？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "1500+项活动",
+      "1-3天安装完成"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于Meydan系统设置的免费咨询。",
+    "whatsappCardMessage": "您好！我想讨论一下 Meydan 的配置。"
+  }
+}

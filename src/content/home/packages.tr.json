@@ -1,0 +1,128 @@
+{
+  "badge": "Paketlerimiz",
+  "heading": {
+    "line1": "Şeffaf Fiyatlandırma,",
+    "highlight": "Gizli Ücret Yok"
+  },
+  "subtitle": "İşletmenize uygun paketi seçin. Tüm fiyatlar her şey dahil olup, gizli maliyet veya sürpriz içermez.",
+  "toggle": {
+    "oneTimeLabel": "Tek Seferlik Ödeme",
+    "installmentLabel": "Taksitler",
+    "installmentSuffix": "Veya 3 katı"
+  },
+  "packages": [
+    {
+      "id": "freezone",
+      "name": "Serbest Bölge Lisansı",
+      "badge": null,
+      "price": "5.999",
+      "currency": "AED",
+      "period": "tek seferlik",
+      "tagline": "Serbest çalışanlar ve uzaktan çalışan işletmeler için mükemmel.",
+      "icon": "Building2",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.3)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "iconBg": "from-sky-400 to-blue-600",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "features": [
+        "5 Ücretsiz İş Faaliyeti",
+        "%100 Sahiplik",
+        "%0 Kişisel ve Gelir Vergisi",
+        "Düşük Kurumlar Vergisi",
+        "Ücretsiz Danışmanlık",
+        "En Düşük Fiyat Garantisi"
+      ],
+      "cta": "Hemen Başlayın",
+      "highlighted": false
+    },
+    {
+      "id": "freezone-residency",
+      "name": "Oturma İzni Olan Serbest Bölge",
+      "badge": "En Popüler",
+      "price": "11.999",
+      "currency": "AED",
+      "period": "tek seferlik",
+      "tagline": "Dubai'ye taşınan girişimciler için en iyisi",
+      "icon": "Globe",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "iconBg": "from-violet-400 to-purple-600",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "features": [
+        "Her Şeyi Kapsayan Serbest Bölge Lisansı",
+        "5 Ücretsiz İş Faaliyeti",
+        "%100 Sahiplik",
+        "%0 Kişisel ve Gelir Vergisi",
+        "Düşük Kurumlar Vergisi",
+        "Ücretsiz Danışmanlık",
+        "Ücretsiz Kiralama Sözleşmesi",
+        "1. Birleşik Arap Emirlikleri Oturma İzni / Yatırımcı Vizesi",
+        "Sağlık, Emirates Kimliği, Statü Değişikliği"
+      ],
+      "cta": "Hemen Başlayın",
+      "highlighted": true
+    },
+    {
+      "id": "mainland-residency",
+      "name": "İkametgahlı Anakara",
+      "badge": "En İyi Değer",
+      "price": "16.999",
+      "currency": "AED",
+      "period": "tek seferlik",
+      "tagline": "Birleşik Arap Emirlikleri yerel pazarını hedefleyen işletmeler için",
+      "icon": "Crown",
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentText": "text-amber-600",
+      "accentBg": "bg-amber-50",
+      "accentBorder": "border-amber-200",
+      "iconBg": "from-amber-400 to-orange-600",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "features": [
+        "Anakara Lisansı",
+        "%100 Sahiplik",
+        "%0 Kişisel ve Gelir Vergisi",
+        "Düşük Kurumlar Vergisi",
+        "Ücretsiz Danışmanlık",
+        "1. Birleşik Arap Emirlikleri Oturma İzni / Yatırımcı Vizesi",
+        "Sağlık, Emirates Kimliği, Statü Değişikliği"
+      ],
+      "cta": "Hemen Başlayın",
+      "highlighted": false
+    }
+  ],
+  "customPackageCTA": {
+    "title": "Özel bir pakete mi ihtiyacınız var?",
+    "subtitle": "İşletmenizin ihtiyaçlarına tam olarak uygun bir paket hazırlayacağız — Anakara, Serbest Bölge veya Açık Deniz.",
+    "primaryCta": "Özel Fiyat Teklifi Alın",
+    "secondaryCta": "Bizi Arayın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Merhaba! Birleşik Arap Emirlikleri'ndeki işletme kurulumum için özel bir pakete ihtiyacım var.",
+    "backgroundImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+  },
+  "trustLine": [
+    {
+      "label": "Gizli Ücret Yok",
+      "color": "emerald"
+    },
+    {
+      "label": "Şeffaf Fiyatlandırma",
+      "color": "sky"
+    },
+    {
+      "label": "FTA Uyumlu",
+      "color": "violet"
+    },
+    {
+      "label": "Ücretsiz Danışmanlık",
+      "color": "amber"
+    }
+  ]
+}

@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dubaiSouthData from '../../content/freezones/dubai-south-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock,
@@ -23,7 +24,9 @@ const iconMap: any = {
 };
 
 export default function DubaiSouth({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dubaiSouthData;
+  const { language } = useLanguage();
+  const dubaiSouthFallback = loadContent('freezones/dubai-south-free-zone', language);
+  const data = tinaData?.data?.freeZones || dubaiSouthFallback;
 
   return (
     <div className="min-h-screen bg-white">

@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import rakezPackageData from '../../content/packages/rakez-setup-package.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, Target, Crown, Store: StoreIcon, UserCheck,
@@ -30,7 +31,9 @@ const iconMap: any = {
 };
 
 export default function RAKEZSetupPackage({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || rakezPackageData;
+  const { language } = useLanguage();
+  const rakezFallback = loadContent('packages/rakez-setup-package', language);
+  const data = tinaData?.data?.packages || rakezFallback;
 
   return (
     <div className="min-h-screen bg-white">

@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import shamsData from '../../content/freezones/shams-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, Briefcase,
   ShieldCheck, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -28,7 +29,9 @@ const iconMap: any = {
 };
 
 export default function SHAMS({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || shamsData;
+  const { language } = useLanguage();
+  const shamsFallback = loadContent('freezones/shams-free-zone', language);
+  const data = tinaData?.data?.freeZones || shamsFallback;
 
   return (
     <div className="min-h-screen bg-white">

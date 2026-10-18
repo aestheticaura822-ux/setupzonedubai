@@ -1,0 +1,428 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1600&q=80",
+    "breadcrumbParent": "自由区",
+    "breadcrumbLabel": "迪拜医疗城",
+    "badge": "迪拜医疗城",
+    "title": "迪拜医疗城",
+    "titleHighlight": "医疗城",
+    "subtitle": "全球最大的医疗保健和健康自由区。在迪拜的旗舰医疗保健中心，开启您的医疗、制药或健康事业。",
+    "ctaPrimaryText": "获取免费咨询",
+    "ctaPrimaryLink": "＃接触",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对迪拜医疗城自由区的设立很感兴趣。",
+    "badges": [
+      "100% 所有权",
+      "0% 税率",
+      "医疗中心",
+      "3-5天安装完成"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "医疗保健合作伙伴",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "DHCC医疗中心",
+    "totalLabel": "区",
+    "totalValue": "阿联酋迪拜",
+    "statusBadge": "积极的",
+    "metrics": [
+      {
+        "label": "设置时间",
+        "value": "3-5天",
+        "color": "text-teal-600"
+      },
+      {
+        "label": "合作伙伴",
+        "value": "500+",
+        "color": "text-cyan-600"
+      }
+    ]
+  },
+  "whyDhcc": {
+    "badge": "为什么选择DHCC",
+    "title": "为什么选择迪拜医疗城？",
+    "titleHighlight": "迪拜医疗城？",
+    "subtitle": "该地区唯一一个专门致力于医疗保健、健康和医学教育的自由区。",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全所有权，无需当地担保人——完全掌控您的医疗实践。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 税收环境",
+        "description": "无需缴纳企业所得税或个人所得税——最大限度地提高您的医疗保健业务盈利能力。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "DHA监管支持",
+        "description": "直接获取迪拜卫生局的许可和监管框架。",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "HeartPulse",
+      "title": "全球最大的医疗保健自由区",
+      "description": "拥有 500 多家医疗保健合作伙伴、世界一流的医院、诊所和医学教育机构——具备一体化的许可和基础设施。",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80"
+    },
+    "smallCard2": {
+      "icon": "Building2",
+      "title": "综合医疗生态系统",
+      "description": "医院、诊所、药房、实验室和研究中心都集中在一个专门建造的区域内。",
+      "color": "from-teal-500 via-cyan-600 to-teal-700"
+    }
+  },
+  "whoCanOpenSection": {
+    "badge": "谁可以开",
+    "title": "哪些人可以在DHCC开设企业？",
+    "titleHighlight": "在DHCC开展业务？",
+    "subtitle": "各类医疗保健专业人员均可在此开设诊所。",
+    "items": [
+      {
+        "icon": "Stethoscope",
+        "label": "内科医生和外科医生"
+      },
+      {
+        "icon": "Pill",
+        "label": "药房和药剂师"
+      },
+      {
+        "icon": "Activity",
+        "label": "诊断实验室"
+      },
+      {
+        "icon": "Brain",
+        "label": "心理健康与治疗"
+      },
+      {
+        "icon": "HeartPulse",
+        "label": "专科诊所"
+      },
+      {
+        "icon": "Smile",
+        "label": "牙科诊所"
+      },
+      {
+        "icon": "Ambulance",
+        "label": "紧急服务"
+      },
+      {
+        "icon": "Dna",
+        "label": "研究与生物技术"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "护理和居家护理"
+      },
+      {
+        "icon": "Monitor",
+        "label": "健康科技与远程医疗"
+      },
+      {
+        "icon": "FileBadge",
+        "label": "医学教育"
+      },
+      {
+        "icon": "Package",
+        "label": "医疗设备贸易"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "DHCC许可证类型",
+    "titleHighlight": "许可证类型",
+    "items": [
+      {
+        "icon": "Stethoscope",
+        "title": "医疗执照",
+        "description": "适用于医生、诊所、医院和专科医疗中心。",
+        "code": "医学",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Pill",
+        "title": "药品许可证",
+        "description": "适用于药房、药品贸易和医疗用品分销企业。",
+        "code": "PHR",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Activity",
+        "title": "诊断和实验室许可证",
+        "description": "适用于诊断中心、病理实验室和影像设施。",
+        "code": "实验室",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "专业执照",
+        "description": "适用于医疗顾问、健康顾问和健康教练。",
+        "code": "专业版",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "健康技术许可证",
+        "description": "适用于远程医疗、数字健康和医疗SaaS平台。",
+        "code": "HTC",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "教育执照",
+        "description": "适用于医疗培训中心、护理学校和继续医学教育提供者。",
+        "code": "教育",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "documentsSectionDhcc": {
+    "badge": "所需文件",
+    "title": "DHCC设立所需文件",
+    "titleHighlight": "DHCC设置",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "护照复印件",
+        "description": "所有股东和管理人员的有效护照复印件。"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "商业计划",
+        "description": "详细的商业计划，包括服务和目标市场。"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "专业资格",
+        "description": "医疗从业人员的医学学位、执照和DHA资格。"
+      },
+      {
+        "icon": "FileBadge",
+        "label": "商标名称预留",
+        "description": "已获得德里住房和城市发展委员会（DHCC）颁发的商号注册证书。"
+      },
+      {
+        "icon": "MapPin",
+        "label": "地址证明",
+        "description": "股东的地址证明和联系方式。"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "照片和签名",
+        "description": "护照尺寸照片和签名样本。"
+      }
+    ]
+  },
+  "setupProcessSectionDhcc": {
+    "badge": "设置过程",
+    "title": "DHCC 五步安装指南",
+    "titleHighlight": "五步走",
+    "subtitle": "通过我们的指导流程，在迪拜开启您的医疗保健事业。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "选择活动和许可证",
+        "description": "选择适合您业务的医疗保健活动和许可证类型。",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "icon": "FileText",
+        "title": "预留商标",
+        "description": "请向DHCC预留您的医疗机构名称并支付预留费。",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "icon": "FileCheck",
+        "title": "提交文件",
+        "description": "请准备并提交所有必需文件，包括医疗资格证书。",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "许可证颁发",
+        "description": "获得DHCC医疗保健许可证和DHA批准。",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "icon": "CreditCard",
+        "title": "Visa 和银行账户",
+        "description": "完成签证办理并开设公司银行账户。",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      }
+    ]
+  },
+  "whyTrustUsSection": {
+    "badge": "为什么信任我们",
+    "title": "为什么选择迪拜信托设立区 (Trust Setup Zone Dubai) 为 DHCC 提供服务？",
+    "titleHighlight": "是DHCC吗？",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "10年以上经验",
+        "description": "在阿联酋医疗保健业务设立和许可方面拥有十余年的经验。"
+      },
+      {
+        "icon": "Users",
+        "title": "专业的医疗保健顾问",
+        "description": "拥有深入了解DHA法规和DHCC要求的专业团队。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "端到端支持",
+        "description": "从驾照申请到DHA批准、签证和银行账户开设。"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速周转",
+        "description": "流程精简，优先提交申请，加快审批速度。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "透明定价",
+        "description": "无任何隐藏费用——为各种类型的企业提供清晰透明、包含所有费用的套餐。"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜医疗城自由区，您需要了解的一切。",
+    "items": [
+      {
+        "q": "迪拜医疗城（DHCC）是什么？",
+        "a": "迪拜医疗保健城（DHCC）是全球最大的专注于医疗保健和健康领域的自由区，位于迪拜。这里汇聚了500多家医疗保健合作伙伴，包括医院、诊所、药房、实验室和医学教育机构。"
+      },
+      {
+        "q": "哪些人可以在DHCC开设企业？",
+        "a": "医生、外科医生、药剂师、诊断实验室、心理健康专业人员、牙科诊所、医学研究人员、护理服务机构、医疗科技公司和医学教育工作者都可以在DHCC设立机构。"
+      },
+      {
+        "q": "DHCC提供哪些许可证？",
+        "a": "医疗执照、药品执照、诊断和实验室执照、专业执照、医疗技术执照和教育执照。"
+      },
+      {
+        "q": "我在DHCC开展业务需要DHA批准吗？",
+        "a": "是的。医疗从业人员和医疗机构需要获得迪拜卫生局 (DHA) 的许可和监管批准，我们会协助您获得这些许可和批准。"
+      },
+      {
+        "q": "在DHCC设立办公室需要多长时间？",
+        "a": "公司设立通常需要 3-5 个工作日，而获得完整的 DHA 医疗保健许可证则需要 4-8 周，具体取决于业务活动。"
+      },
+      {
+        "q": "我可以实现DHCC 100%外资控股吗？",
+        "a": "是的。DHCC允许100%外资所有权——无需本地担保人。"
+      },
+      {
+        "q": "DHCC有哪些税收优惠？",
+        "a": "企业所得税和个人所得税均为0%，利润和资本可全额汇回。"
+      },
+      {
+        "q": "迪拜创业扶持中心为迪拜住房和城市发展公司 (DHCC) 提供哪些支持？",
+        "a": "我们负责办理许可证申请、DHA 批准、商号预留、文件准备、签证、银行账户开设和持续合规事宜。"
+      },
+      {
+        "q": "在DHCC开办医疗保健企业需要医疗资质吗？",
+        "a": "是的，临床活动需要医学学位、执照和DHA资格。非临床活动可能有不同的要求。"
+      },
+      {
+        "q": "DHCC有哪些办公空间可供选择？",
+        "a": "根据您的业务类型，我们提供灵活办公桌、行政办公室、诊所、实验室和专用医疗设施。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的 DHCC 设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备好在德里城际会议中心 (DHCC) 启动了吗？",
+    "titleHighlight": "DHCC？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个DHCC设立流程——从许可证申请到DHA批准和正式启动。",
+    "primaryCta": "WhatsApp 联系我们",
+    "whatsappMessage": "您好！我想咨询一下DHCC（家庭住房和通信中心）的安装事宜，需要免费咨询。",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "免费咨询",
+      "500+ 客户",
+      "3-5天安装完成"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

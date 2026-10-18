@@ -1,0 +1,146 @@
+{
+    "badge":  "Services spécialisés",
+    "heading":  {
+                    "line1":  "Axé sur votre",
+                    "highlight":  "Succès"
+                },
+    "subtitle":  "Au-delÀ  de la création d\u0027entreprise, nous proposons une gamme complète de services spécialisés pour assurer la croissance et la conformité de votre entreprise aux Émirats arabes unis.",
+    "hoverHint":  "â† Survolez la carte pour afficher les détails â†’",
+    "services":  [
+                     {
+                         "slug":  "corporate-tax-vat",
+                         "icon":  "ReÀ§u",
+                         "title":  "Impôt sur les sociétés et TVA",
+                         "description":  "Conseils fiscaux d\u0027experts, immatriculation À  la TVA, déclarations et conformité aux accords de libre-échange.",
+                         "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                         "gradient":  "de-émeraude-400 À -turquoise-600",
+                         "points":  [
+                                        "Inscription et déclaration À  la TVA",
+                                        "déclarations fiscales des sociétés",
+                                        "soutien À  l\u0027audit de la FTA",
+                                        "services de conseil fiscal",
+                                        "Modifications et corrections"
+                                    ]
+                     },
+                     {
+                         "slug":  "bank-account",
+                         "icon":  "Carte de crédit",
+                         "title":  "Ouverture de compte bancaire",
+                         "description":  "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis auprès de banques de premier plan. Assistance KYC complète.",
+                         "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                         "gradient":  "du ciel 400 au bleu 600",
+                         "points":  [
+                                        "Comptes continentaux et de zone franche",
+                                        "Préparation du dossier KYC",
+                                        "Planification des entretiens bancaires",
+                                        "Configuration multidevises (AED/USD)",
+                                        "Liaison des comptes WPS et TVA"
+                                    ]
+                     },
+                     {
+                         "slug":  "accounting",
+                         "icon":  "Calculatrice",
+                         "title":  "Comptabilité",
+                         "description":  "Comptabilité, paie, audits et rapprochements bancaires assurés par des experts.",
+                         "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                         "gradient":  "de violet 400 À  pourpre 600",
+                         "points":  [
+                                        "comptabilité quotidienne",
+                                        "Traitement de la paie WPS",
+                                        "rapprochement de TVA",
+                                        "états financiers",
+                                        "Préparation À  l\u0027audit"
+                                    ]
+                     },
+                     {
+                         "slug":  "digital-marketing",
+                         "icon":  "Mégaphone",
+                         "title":  "Marketing numérique",
+                         "description":  "Campagnes personnalisées, médias sociaux et stratégie de contenu qui convertissent.",
+                         "image":  "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800\u0026q=80",
+                         "gradient":  "de rose 400 À  rose 600",
+                         "points":  [
+                                        "Gestion des médias sociaux",
+                                        "Annonces Google et Meta",
+                                        "Stratégie de contenu",
+                                        "marketing par e-mail",
+                                        "Analyses et rapports"
+                                    ]
+                     },
+                     {
+                         "slug":  "web-development",
+                         "icon":  "Code",
+                         "title":  "Développement web",
+                         "description":  "Sites web modernes et adaptatifs "” des pages d\u0027accueil aux plateformes e-commerce complètes.",
+                         "image":  "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800\u0026q=80",
+                         "gradient":  "de l\u0027ambre 400 À  l\u0027orange 600",
+                         "points":  [
+                                        "Sites Web d\u0027entreprise personnalisés",
+                                        "Boutiques de commerce électronique",
+                                        "Pages de destination À  fort taux de conversion",
+                                        "conception adaptée aux mobiles",
+                                        "Optimisation de la vitesse"
+                                    ]
+                     },
+                     {
+                         "slug":  "seo",
+                         "icon":  "Recherche",
+                         "title":  "Services de référencement (SEO)",
+                         "description":  "Référencement sur page et hors page, ciblage des mots clés et suivi des performances.",
+                         "image":  "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800\u0026q=80",
+                         "gradient":  "de-citron vert-400 À -vert-600",
+                         "points":  [
+                                        "Recherche de mots clés",
+                                        "Optimisation sur page",
+                                        "Audit technique SEO",
+                                        "Création de liens de qualité",
+                                        "Référencement local (Google Maps)"
+                                    ]
+                     },
+                     {
+                         "slug":  "compliance",
+                         "icon":  "Vérification du bouclier",
+                         "title":  "Services de conformité",
+                         "description":  "Déclarations UBO, rapports ESR, renouvellements de licences et soutien réglementaire.",
+                         "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                         "gradient":  "de cyan 400 À  bleu 600",
+                         "points":  [
+                                        "Déclarations et mises À  jour concernant les bénéficiaires effectifs",
+                                        "soumission des rapports ESR",
+                                        "renouvellements de licences",
+                                        "Conformité en matière de lutte contre le blanchiment d\u0027argent",
+                                        "Déclaration annuelle"
+                                    ]
+                     },
+                     {
+                         "slug":  "golden-visa",
+                         "icon":  "Couronne",
+                         "title":  "Assistance pour le visa doré",
+                         "description":  "Obtenez votre visa de résidence de 10 ans aux Émirats arabes unis avec une assistance administrative complète.",
+                         "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                         "gradient":  "de jaune 400 À  orange 600",
+                         "points":  [
+                                        "Visa d\u0027or pour investisseurs",
+                                        "Catégorie de propriétaire",
+                                        "Visa d\u0027entrepreneur",
+                                        "Visa pour talents spécialisés",
+                                        "parrainage familial"
+                                    ]
+                     },
+                     {
+                         "slug":  "pro-services",
+                         "icon":  "Texte du fichier",
+                         "title":  "Services PRO",
+                         "description":  "Carte d\u0027identité des Émirats, cartes de travail, visas et renouvellements d\u0027entreprise.",
+                         "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80",
+                         "gradient":  "de l\u0027indigo 400 au violet 600",
+                         "points":  [
+                                        "Traitement de la carte d\u0027identité des Émirats",
+                                        "Estampillage et renouvellement des visas",
+                                        "Cartes de travail (MOHRE)",
+                                        "renouvellements de licences commerciales",
+                                        "Attestation de document du ministère des Affaires étrangères"
+                                    ]
+                     }
+                 ]
+}

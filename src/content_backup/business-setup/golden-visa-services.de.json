@@ -1,0 +1,493 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "10-jí¤hrige Premium-Residenz",
+    "heroTitle":  "Golden Visa Services",
+    "heroTitleHighlight":  "Dienstleistungen",
+    "heroSubtitle":  "Sichern Sie sich eine zehnjí¤hrige Aufenthaltsgenehmigung in den VAE für Investoren, Unternehmer, Ausnahmetalente, Wissenschaftler und Spitzenkrí¤fte. Volles Eigentum, familií¤re Unterstützung und Stabilití¤t.",
+    "heroChips":  [
+                      "10 Jahre Gültigkeit",
+                      "Familienpatenschaft",
+                      "100% Eigentum",
+                      "Verlí¤ngerbar"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Kalender",
+                      "value":  "10",
+                      "label":  "Gültigkeitsdauer",
+                      "color":  "von Bernstein-400 bis Gelb-600"
+                  },
+                  {
+                      "icon":  "Benutzer",
+                      "value":  "Familie",
+                      "label":  "Sponsoring",
+                      "color":  "von Gelb-400 bis Limette-600"
+                  },
+                  {
+                      "icon":  "Globus",
+                      "value":  "100%",
+                      "label":  "Unternehmenseigentum",
+                      "color":  "von Limette-400 bis Smaragd-600"
+                  },
+                  {
+                      "icon":  "RefreshCw",
+                      "value":  "Verlí¤ngerbar",
+                      "label":  "Langfristig",
+                      "color":  "von Smaragdgrün 400 bis Türkis 600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Was ist das?",
+                          "title":  "Was ist das Goldene Visum der VAE?",
+                          "titleHighlight":  "Goldenes Visum für die VAE?",
+                          "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Premium-Visum",
+                          "imageBadgeText":  "10-jí¤hriger Wohnsitz",
+                          "paragraphs":  [
+                                             "Das Goldene Visum der VAE ist ein langfristiges, auf 10 Jahre befristetes und verlí¤ngerbares Aufenthaltsvisum für Investoren, Unternehmer, Fachkrí¤fte, Forscher, herausragende Studenten und Experten.",
+                                             "Das Programm wurde eingeführt, um internationale Talente und Investitionen anzuziehen, und bietet 100%ige Unternehmensbeteiligung, Familienfí¶rderung und unübertroffene Stabilití¤t "“ ohne dass ein lokaler Sponsor oder Partner erforderlich ist.",
+                                             "Inhaber eines Goldenen Visums kí¶nnen 10 Jahre lang in den VAE leben, arbeiten und studieren, Familienmitglieder für die gleiche Dauer sponsern und haben vollen Zugang zum Gesundheitswesen, Bildungswesen und den Geschí¤ftsmí¶glichkeiten der VAE."
+                                         ],
+                          "highlights":  [
+                                             "10-jí¤hriger Wohnsitz",
+                                             "Unbegrenzt erneuerbar",
+                                             "Familienpatenschaft",
+                                             "100% Geschí¤ftseigentum",
+                                             "Mehrfacheingabe",
+                                             "Im Ausland leben \u0026 zurückkehren"
+                                         ]
+                      },
+    "categoriesSection":  {
+                              "badge":  "Zulassungskategorien",
+                              "title":  "Wer hat Anspruch auf ein Goldenes Visum?",
+                              "titleHighlight":  "Qualifiziert",
+                              "subtitle":  "Sechs Premium-Kategorien "“ finden Sie Ihren Weg zur 10-jí¤hrigen Facharztausbildung.",
+                              "items":  [
+                                            {
+                                                "id":  "Investoren",
+                                                "icon":  "Aufwí¤rtstrend",
+                                                "title":  "Investoren",
+                                                "tagline":  "Immobilien- oder Unternehmensinvestition",
+                                                "description":  "Für Anleger mit einer Mindestanlagesumme von 2 Millionen AED in Immobilien, Unternehmen oder Investmentfonds. Volles Eigentum und langfristige Stabilití¤t für Sie und Ihre Familie.",
+                                                "image":  "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200\u0026q=80",
+                                                "color":  "von Bernstein-500 bis Gelb-700",
+                                                "features":  [
+                                                                 "Immobilie im Wert von über 2 Mio. AED",
+                                                                 "Unternehmensinvestitionen",
+                                                                 "Investmentfonds",
+                                                                 "100% Eigentum"
+                                                             ],
+                                                "bestFor":  "Immobilien- und Unternehmensinvestoren"
+                                            },
+                                            {
+                                                "id":  "Unternehmer",
+                                                "icon":  "Rakete",
+                                                "title":  "Unternehmer",
+                                                "tagline":  "Geschí¤ftsinhaber \u0026 Gründer",
+                                                "description":  "Für Unternehmer, deren KMU einen Jahresumsatz von mindestens 1 Million AED erzielt. Ebenso für Gründer mit einem Projekt im Wert von mindestens 500.000 AED, das von einem akkreditierten Inkubator genehmigt wurde.",
+                                                "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                                "color":  "von Orange-500 bis Rot-700",
+                                                "features":  [
+                                                                 "KMU-Umsatz 1 Mio. AED+",
+                                                                 "Zugelassener Inkubator",
+                                                                 "Projektwert 500.000 AED+",
+                                                                 "Unternehmensbesitz"
+                                                             ],
+                                                "bestFor":  "Geschí¤ftsinhaber"
+                                            },
+                                            {
+                                                "id":  "Talente",
+                                                "icon":  "Palette",
+                                                "title":  "AuíŸergewí¶hnliche Talente",
+                                                "tagline":  "Kreative und kulturelle Führungskrí¤fte",
+                                                "description":  "Für herausragende Talente in Kultur, Kunst, Sport, Medien und Kreativwirtschaft, die von den Kulturbehí¶rden der VAE unterstützt werden. Dazu gehí¶ren Influencer, Künstler, Schauspieler und Weltklasse-Athleten.",
+                                                "image":  "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200\u0026q=80",
+                                                "color":  "von Rot-500 bis Rosé-700",
+                                                "features":  [
+                                                                 "Kultur \u0026 Kunst",
+                                                                 "Sportliche Erfolge",
+                                                                 "Medien \u0026 Inhalte",
+                                                                 "Kreativwirtschaft"
+                                                             ],
+                                                "bestFor":  "Künstler und Sportler"
+                                            },
+                                            {
+                                                "id":  "Wissenschaftler",
+                                                "icon":  "Mikroskop",
+                                                "title":  "Wissenschaftler und Forscher",
+                                                "tagline":  "Akademische Exzellenz",
+                                                "description":  "Für Wissenschaftler, Forscher und Spitzenwissenschaftler mit herausragenden Leistungen in ihren Fachgebieten "“ unterstützt vom Emirates Scientists Council.",
+                                                "image":  "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200\u0026q=80",
+                                                "color":  "von 500 bis 700 Rosa",
+                                                "features":  [
+                                                                 "Top-Forscher",
+                                                                 "Promotion + Publikationen",
+                                                                 "Zustimmung des Gemeinderats",
+                                                                 "Akademische Exzellenz"
+                                                             ],
+                                                "bestFor":  "Wissenschaftler und Akademiker"
+                                            },
+                                            {
+                                                "id":  "Fachleute",
+                                                "icon":  "Stethoskop",
+                                                "title":  "Fachkrí¤fte",
+                                                "tagline":  "í„rzte, Ingenieure und Führungskrí¤fte",
+                                                "description":  "Für hochqualifizierte Fachkrí¤fte wie í„rzte, Ingenieure, IT-Spezialisten und Führungskrí¤fte mit auíŸergewí¶hnlicher Erfahrung und Qualifikation "“ und einem Gehalt von über 30.000 AED pro Monat.",
+                                                "image":  "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200\u0026q=80",
+                                                "color":  "von rosa 500 bis fuchsia 700",
+                                                "features":  [
+                                                                 "í„rzte und Ingenieure",
+                                                                 "IT-Spezialisten",
+                                                                 "Führungskrí¤fte",
+                                                                 "Gehalt ab 30.000 AED"
+                                                             ],
+                                                "bestFor":  "Top-Profis"
+                                            },
+                                            {
+                                                "id":  "Studenten",
+                                                "icon":  "Absolventenmütze",
+                                                "title":  "Herausragende Studierende",
+                                                "tagline":  "Akademische Spitzenleistungen",
+                                                "description":  "Für hochbegabte Schüler und Studenten mit herausragenden akademischen Leistungen von Gymnasien oder Universití¤ten in den VAE "“ ein 10-jí¤hriges Goldenes Visum, um sich eine Zukunft in den VAE aufzubauen.",
+                                                "image":  "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200\u0026q=80",
+                                                "color":  "von Fuchsia-500 bis Lila-700",
+                                                "features":  [
+                                                                 "Absolventen der High School",
+                                                                 "Universití¤tsauszeichnungen",
+                                                                 "Akademische Leistungstrí¤ger",
+                                                                 "Jugend-Exzellenz"
+                                                             ],
+                                                "bestFor":  "Herausragende Studierende"
+                                            }
+                                        ]
+                          },
+    "benefitsSection":  {
+                            "badge":  "Warum das Goldene Visum?",
+                            "title":  "Vorteile des Goldenen Visums der VAE",
+                            "titleHighlight":  "Goldenes Visum für die VAE",
+                            "subtitle":  "Acht überzeugende Vorteile des Premium-Aufenthaltsprogramms der VAE.",
+                            "items":  [
+                                          {
+                                              "icon":  "Kalender",
+                                              "title":  "10-jí¤hriger Wohnsitz",
+                                              "description":  "Langfristiges, verlí¤ngerbares Aufenthaltsvisum über 10 Jahre für Sie und Ihre Familie "“ keine hí¤ufigen Verlí¤ngerungen erforderlich.",
+                                              "color":  "von Bernstein-400 bis Gelb-600"
+                                          },
+                                          {
+                                              "icon":  "Benutzer",
+                                              "title":  "Familienpatenschaft",
+                                              "description":  "Sie kí¶nnen Ihren Ehepartner, Ihre Kinder und Ihre unterhaltsberechtigten Eltern für die gleiche Dauer wie Ihr Goldenes Visum sponsern.",
+                                              "color":  "von Gelb-400 bis Limette-600"
+                                          },
+                                          {
+                                              "icon":  "Globus",
+                                              "title":  "100% Firmeneigentum",
+                                              "description":  "Volle Eigentümerschaft an Ihrem Unternehmen in den VAE ohne die Notwendigkeit eines lokalen Sponsors oder eines Partners aus den VAE.",
+                                              "color":  "von Limette-400 bis Smaragd-600"
+                                          },
+                                          {
+                                              "icon":  "Heim",
+                                              "title":  "Leben auíŸerhalb der VAE",
+                                              "description":  "Das Goldene Visum bleibt "“ anders als bei Standardvisa "“ auch dann gültig, wenn Sie sich lí¤ngere Zeit auíŸerhalb der VAE aufhalten.",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          },
+                                          {
+                                              "icon":  "Bank",
+                                              "title":  "Bankwesen und finanzielle Freiheit",
+                                              "description":  "Mit Ihrer Golden Visa haben Sie einfachen Zugang zu Premium-Banking-, Kredit- und Vermí¶gensverwaltungsdienstleistungen.",
+                                              "color":  "von Cyan 400 bis Himmelblau 600"
+                                          },
+                                          {
+                                              "icon":  "Schild",
+                                              "title":  "Weg zur Staatsbürgerschaft",
+                                              "description":  "Langfristiger Aufenthalt, der in Ausnahmefí¤llen zur Staatsbürgerschaft der VAE führen kann "“ genehmigt von den Behí¶rden der VAE.",
+                                              "color":  "von Himmel-400 bis Blau-600"
+                                          },
+                                          {
+                                              "icon":  "Herz-Handschlag",
+                                              "title":  "Volle Vorteile in den VAE",
+                                              "description":  "Zugang zu Gesundheitsversorgung, Bildung, Geschí¤ftsmí¶glichkeiten und allen staatlichen Dienstleistungen der VAE.",
+                                              "color":  "von Blau-400 bis Indigo-600"
+                                          }
+                                      ]
+                        },
+    "processSection":  {
+                           "badge":  "6-stufiger Prozess",
+                           "title":  "Wie Sie Ihr Goldenes Visum erhalten",
+                           "titleHighlight":  "Goldenes Visum",
+                           "subtitle":  "Sechs einfache Schritte zur 10-jí¤hrigen Aufenthaltsgenehmigung in den VAE.",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Ziel",
+                                             "title":  "Eignungsprüfung",
+                                             "description":  "Wir werten Ihr Profil anhand der Kriterien für das Goldene Visum aus, um die beste Kategorie für Sie zu ermitteln.",
+                                             "color":  "von Bernstein-400 bis Gelb-600"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "Dateiprüfung",
+                                             "title":  "Dokumentenerstellung",
+                                             "description":  "Wir sammeln und bereiten alle erforderlichen Dokumente auf, einschlieíŸlich Investitionsnachweise, Qualifikationsnachweise und Empfehlungen.",
+                                             "color":  "von Gelb-400 bis Limette-600"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Schicken",
+                                             "title":  "Einreichung des Antrags",
+                                             "description":  "Ihr Antrag wird über unser priorití¤res Regierungsnetzwerk an die zustí¤ndige Behí¶rde der VAE weitergeleitet.",
+                                             "color":  "von Limette-400 bis Smaragd-600"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "BadgeCheck",
+                                             "title":  "Genehmigung \u0026 Medizinische Untersuchung",
+                                             "description":  "Nach der Genehmigung koordinieren wir die medizinischen Eignungstests, die biometrischen Daten und die Bearbeitung des Emirates-Ausweises.",
+                                             "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "Stempel",
+                                             "title":  "Visumstempelung",
+                                             "description":  "Ihr 10-Jahres-Golden-Visum ist in Ihrem Reisepass eingestempelt "“ Sie sind nun offiziell Inhaber eines Golden-Visums.",
+                                             "color":  "von Türkis-400 bis Cyan-600"
+                                         },
+                                         {
+                                             "step":  "06",
+                                             "icon":  "Benutzer",
+                                             "title":  "Familienpatenschaft",
+                                             "description":  "Wir bearbeiten Golden Visas für Ihren Ehepartner, Ihre Kinder und alle weiteren Angehí¶rigen, die unter Ihrer Bürgschaft stehen.",
+                                             "color":  "von Cyan 400 bis Himmelblau 600"
+                                         }
+                                     ]
+                       },
+    "documentsSection":  {
+                             "badge":  "Was Sie bení¶tigen",
+                             "title":  "Erforderliche Dokumente",
+                             "titleHighlight":  "Unterlagen",
+                             "subtitle":  "Wir übernehmen für Sie den gesamten Papierkram und die Genehmigungen.",
+                             "items":  [
+                                           {
+                                               "icon":  "Kamera",
+                                               "label":  "Passfotos",
+                                               "desc":  "WeiíŸer Hintergrund"
+                                           },
+                                           {
+                                               "icon":  "DateiText",
+                                               "label":  "Investitionsnachweis",
+                                               "desc":  "Für Investoren"
+                                           },
+                                           {
+                                               "icon":  "Vergeben",
+                                               "label":  "Empfehlungsschreiben",
+                                               "desc":  "Für Talente und Forscher"
+                                           },
+                                           {
+                                               "icon":  "BookOpen",
+                                               "label":  "Akademische Zertifikate",
+                                               "desc":  "Für Fachleute und Wissenschaftler"
+                                           },
+                                           {
+                                               "icon":  "Bank",
+                                               "label":  "Finanzberichte",
+                                               "desc":  "Kontoauszüge \u0026 Nachweis"
+                                           },
+                                           {
+                                               "icon":  "Ausweis",
+                                               "label":  "Aktueller Personalausweis der VAE",
+                                               "desc":  "Gegebenenfalls"
+                                           },
+                                           {
+                                               "icon":  "Dateisignatur",
+                                               "label":  "NOC-Zertifikat",
+                                               "desc":  "Für bestehende Visuminhaber"
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Warum Sie sich für uns entscheiden sollten",
+                               "title":  "Ihr vertrauenswürdiger Partner für das Goldene Visum",
+                               "titleHighlight":  "Golden Visa Partner",
+                               "subtitle":  "Acht Gründe, warum auíŸergewí¶hnliche Talente uns vertrauen.",
+                               "items":  [
+                                             {
+                                                 "icon":  "ShieldCheck",
+                                                 "label":  "Direkter Zugriff auf die Berechtigung",
+                                                 "desc":  "Priorití¤res Regierungsnetzwerk"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Schnelle Bearbeitung",
+                                                 "desc":  "Beschleunigte Genehmigungen"
+                                             },
+                                             {
+                                                 "icon":  "Benutzerprüfung",
+                                                 "label":  "Engagierter Experte",
+                                                 "desc":  "Spezialist für persí¶nliche Golden Visa"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "label":  "Transparente Preise",
+                                                 "desc":  "Keine versteckten Gebühren"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "label":  "Mehrsprachiges Team",
+                                                 "desc":  "Englisch, Arabisch, Hindi, Urdu"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Unterstützung bei der Erneuerung",
+                                                 "desc":  "Laufendes Visamanagement"
+                                             },
+                                             {
+                                                 "icon":  "Herz-Handschlag",
+                                                 "label":  "Familienintegration",
+                                                 "desc":  "Vollstí¤ndige familií¤re Unterstützung"
+                                             },
+                                             {
+                                                 "icon":  "Vergeben",
+                                                 "label":  "Nachgewiesene Erfolgsbilanz",
+                                                 "desc":  "Tausende von Genehmigungen"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "Geschí¤ftswachstumsaussichten",
+                               "title":  "Von Tausenden vertraut",
+                               "titleHighlight":  "Tausende",
+                               "subtitle":  "Unsere Erfolgsbilanz spricht für sich.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Kalender",
+                                                 "value":  "10",
+                                                 "label":  "Gültigkeitsdauer",
+                                                 "color":  "von Bernstein-400 bis Gelb-600"
+                                             },
+                                             {
+                                                 "icon":  "Benutzer",
+                                                 "value":  "5",
+                                                 "label":  "Kategorien",
+                                                 "color":  "von Gelb-400 bis Limette-600"
+                                             },
+                                             {
+                                                 "icon":  "Gebí¤ude 2",
+                                                 "value":  "Mehr als 1000",
+                                                 "label":  "Genehmigt",
+                                                 "color":  "von Limette-400 bis Smaragd-600"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "Schnell",
+                                                 "label":  "Verarbeitung",
+                                                 "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                             },
+                                             {
+                                                 "icon":  "ShieldCheck",
+                                                 "value":  "100%",
+                                                 "label":  "Konform",
+                                                 "color":  "von Türkis-400 bis Cyan-600"
+                                             },
+                                             {
+                                                 "icon":  "Krone",
+                                                 "value":  "Prí¤mie",
+                                                 "label":  "Visumstufe",
+                                                 "color":  "von Cyan 400 bis Himmelblau 600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über das Goldene Visum der VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie Ihre Eignung für das Golden-Visa-Programm kostenlos von unseren Spezialisten prüfen.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zu Golden Visa Services."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Was ist das Goldene Visum der VAE?",
+                                          "a":  "Das Goldene Visum der VAE ist ein langfristiges, auf 10 Jahre befristetes, verlí¤ngerbares Aufenthaltsvisum für Investoren, Unternehmer, Fachkrí¤fte, Forscher, herausragende Studenten und Experten "“ es bietet volles Eigentum, Familiensponsoring und Stabilití¤t."
+                                      },
+                                      {
+                                          "q":  "Wer ist für das Goldene Visum berechtigt?",
+                                          "a":  "Investoren (über 2 Mio. AED), Unternehmer (KMU mit einem Umsatz von über 1 Mio. AED), auíŸergewí¶hnliche Talente, Wissenschaftler und Forscher, qualifizierte Fachkrí¤fte (über 30.000 AED Gehalt) und herausragende Studenten."
+                                      },
+                                      {
+                                          "q":  "Wie lange ist das Goldene Visum gültig?",
+                                          "a":  "Das Goldene Visum ist 10 Jahre gültig und kann unbegrenzt verlí¤ngert werden, sofern Sie die Anspruchsvoraussetzungen weiterhin erfüllen."
+                                      },
+                                      {
+                                          "q":  "Kann ich meine Familie mit einem Goldenen Visum sponsern?",
+                                          "a":  "Ja. Sie kí¶nnen Ihren Ehepartner, Ihre Kinder und Ihre unterhaltsberechtigten Eltern für die gleiche 10-jí¤hrige Gültigkeitsdauer Ihres Goldenen Visums sponsern."
+                                      },
+                                      {
+                                          "q":  "Kann ich mit einem Goldenen Visum 100 % eines Unternehmens in den VAE besitzen?",
+                                          "a":  "Ja. Inhaber eines Goldenen Visums kí¶nnen ihr Unternehmen in den VAE zu 100 % besitzen, ohne einen lokalen Sponsor oder einen Partner mit Wohnsitz in den VAE zu bení¶tigen."
+                                      },
+                                      {
+                                          "q":  "Muss ich in den VAE bleiben, um mein Goldenes Visum zu behalten?",
+                                          "a":  "Nein. Im Gegensatz zu regulí¤ren Aufenthaltsvisa bleibt das Goldene Visum auch dann gültig, wenn Sie sich lí¤ngere Zeit auíŸerhalb der VAE aufhalten."
+                                      },
+                                      {
+                                          "q":  "Wie lange dauert die Bearbeitung eines Golden-Visa-Antrags?",
+                                          "a":  "Die Bearbeitungszeit betrí¤gt in der Regel 4"“8 Wochen, abhí¤ngig von Kategorie und Dokumentation. Dank unseres priorisierten Regierungsnetzwerks beschleunigen wir den Prozess."
+                                      },
+                                      {
+                                          "q":  "Welche Dokumente werden für das Goldene Visum bení¶tigt?",
+                                          "a":  "Gültiger Reisepass, Passfotos, Nachweis über Investitionen oder Empfehlungsschreiben, akademische oder berufliche Zeugnisse, Kontoauszüge und gegebenenfalls aktueller Personalausweis der VAE."
+                                      },
+                                      {
+                                          "q":  "Kann ich mit einem Goldenen Visum in den VAE arbeiten?",
+                                          "a":  "Ja. Das Goldene Visum gewí¤hrt Ihnen volle Arbeitsrechte und erlaubt Ihnen, Mitarbeiter und Angehí¶rige mitzubringen."
+                                      },
+                                      {
+                                          "q":  "Warum sollten Sie sich für Setup Zone Dubai für Golden-Visa-Dienstleistungen entscheiden?",
+                                          "a":  "Wir bieten umfassende Unterstützung "“ von der Prüfung der Anspruchsberechtigung über die Dokumentation, die Antragsstellung und die medizinische Koordination bis hin zur Visumbeantragung und Familienzusammenführung. Dank unserer langjí¤hrigen Erfahrung und des direkten Zugangs zu den zustí¤ndigen Behí¶rden gewí¤hrleisten wir eine schnelle und gesetzeskonforme Bearbeitung."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienstleistungen, die gut zu Ihrem Golden Visa passen.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "residence-visa",
+                                                     "title":  "Aufenthaltsvisum für die VAE",
+                                                     "description":  "Optionen für eine 2- bis 10-jí¤hrige Facharztausbildung.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "von Smaragdgrün 400 bis Türkis 600"
+                                                 },
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Firmengründung in Dubai",
+                                                     "description":  "Freizone, Festland \u0026 Offshore.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Bernstein-400 bis Gelb-600"
+                                                 },
+                                                 {
+                                                     "slug":  "dependent-visa",
+                                                     "title":  "Visum für Angehí¶rige der VAE",
+                                                     "description":  "Familien- und Angehí¶rigensponsoring.",
+                                                     "image":  "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800\u0026q=80",
+                                                     "gradient":  "von Cyan-400 bis Blau-600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Prüfen Sie Ihre Berechtigung",
+                     "title":  "Bereit für Ihr 10-Jahres-Golden-Visum?",
+                     "titleHighlight":  "10-Jahres-Goldenes Visum?",
+                     "subtitle":  "Lassen Sie Ihre Eignung kostenlos prüfen. Unsere Spezialisten analysieren Ihr Profil und begleiten Sie durch den gesamten Prozess.",
+                     "chips":  [
+                                   "Kostenlose Bewertung",
+                                   "10 Jahre Gültigkeit",
+                                   "Familie eingeschlossen"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Eignungsprüfung für das Golden Visa.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über das Goldene Visum sprechen."
+                 }
+}

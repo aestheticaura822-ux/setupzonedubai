@@ -1,0 +1,437 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&q=80",
+    "breadcrumbParent": "自由区",
+    "breadcrumbLabel": "迪拜互联网城",
+    "badge": "中东最大的科技中心",
+    "title": "迪拜互联网城",
+    "titleHighlight": "互联网城",
+    "subtitle": "中东最大的信息通信技术中心——汇聚全球科技巨头、初创企业和数字创新者的家园。与谷歌、微软和甲骨文并肩开启您的科技事业。",
+    "ctaPrimaryText": "获取免费咨询",
+    "ctaPrimaryLink": "＃接触",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "您好！我对迪拜互联网城自由区的设立很感兴趣。",
+    "badges": [
+      "100% 所有权",
+      "0% 税率",
+      "技术生态系统",
+      "3-5天安装完成"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "3500+",
+      "label": "科技公司",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-sky-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "DIC技术中心",
+    "totalLabel": "区",
+    "totalValue": "阿联酋迪拜",
+    "statusBadge": "积极的",
+    "metrics": [
+      {
+        "label": "设置时间",
+        "value": "3-5天",
+        "color": "text-cyan-600"
+      },
+      {
+        "label": "公司",
+        "value": "3.5K+",
+        "color": "text-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "为什么 DIC",
+    "title": "为什么选择迪拜互联网城？",
+    "titleHighlight": "迪拜互联网城？",
+    "subtitle": "该地区最成熟的科技自由区，拥有无与伦比的生态系统和人才。",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "完全所有权，无需当地赞助商——完全掌控您的业务。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% 税率和全额汇回",
+        "description": "无需缴纳公司所得税或个人所得税——100%的利润和资本可汇回。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Users",
+        "title": "世界级人才库",
+        "description": "在迪拜，您可以接触到技术娴熟的专业人员、开发人员和数字营销人员。",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "UserCheck",
+      "title": "与全球科技巨头并肩",
+      "description": "毗邻谷歌、微软、甲骨文、IBM 和 3500 多家科技公司——该地区联系最紧密的科技社区。",
+      "color": "from-cyan-500 via-blue-600 to-indigo-700"
+    },
+    "smallCard2": {
+      "icon": "MapPin",
+      "title": "黄金地段",
+      "description": "距迪拜码头、棕榈岛和迪拜商业区仅数分钟路程，并可搭乘地铁轻松抵达。",
+      "color": "from-violet-500 via-purple-600 to-fuchsia-700"
+    }
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "DIC许可证类型",
+    "titleHighlight": "许可证类型",
+    "subtitle": "为您的科技或数字业务活动选择合适的许可证。",
+    "items": [
+      {
+        "icon": "Code",
+        "title": "软件开发",
+        "description": "适用于软件公司、SaaS平台和应用程序开发企业。",
+        "code": "半导体薄膜技术",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "IT服务",
+        "description": "适用于IT咨询、托管服务和技术支持公司。",
+        "code": "它是",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "数字营销",
+        "description": "适用于搜索引擎优化 (SEO)、搜索引擎营销 (SEM)、社交媒体和数字广告公司。",
+        "code": "DMK",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Database",
+        "title": "数据和云服务",
+        "description": "适用于数据中心、云托管和大数据企业。",
+        "code": "DCS",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Server",
+        "title": "电子商务及平台",
+        "description": "适用于在线市场、电子商务平台和网络企业。",
+        "code": "细胞外基质",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "专业咨询",
+        "description": "适用于技术顾问、商业顾问和管理公司。",
+        "code": "专业版",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "facilitiesSection": {
+    "badge": "设施",
+    "title": "世界一流的技术基础设施",
+    "titleHighlight": "技术基础设施",
+    "subtitle": "您的科技企业高效运营和扩展所需的一切。",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "灵活办公桌和联合办公空间",
+        "description": "面向初创企业和自由职业者的现代化共享办公空间。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Building2",
+        "title": "行政办公室",
+        "description": "为不断发展的技术团队打造的高端定制办公室。",
+        "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&q=80"
+      },
+      {
+        "icon": "Server",
+        "title": "数据中心",
+        "description": "符合 Tier III 认证标准的数据中心，7x24 小时全天候运行。",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80"
+      },
+      {
+        "icon": "Wifi",
+        "title": "高速连接",
+        "description": "光纤网络和冗余网络基础设施。",
+        "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "我们如何提供帮助",
+    "title": "您的DIC设置合作伙伴",
+    "titleHighlight": "设置合作伙伴",
+    "subtitle": "从许可证申请到产品上线，提供端到端支持。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "FileText",
+        "title": "业务活动选择",
+        "description": "我们帮助您为您的科技企业选择合适的活动和许可证。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "商标名称预留",
+        "description": "通过DIC预留您的公司名称，即可快速获得批准。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "03",
+        "icon": "BadgeCheck",
+        "title": "许可证颁发",
+        "description": "提交申请并领取DIC营业执照。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "icon": "CreditCard",
+        "title": "Visa 和银行账户",
+        "description": "全程办理签证及设立公司银行账户。",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ],
+    "ctaCard": {
+      "title": "准备好在DIC上线了吗？",
+      "ctaText": "与专家交流",
+      "whatsappMessage": "您好！我想讨论一下DIC设置。"
+    }
+  },
+  "digitalScaleSection": {
+    "badge": "电子秤",
+    "title": "在DIC扩展您的科技业务",
+    "titleHighlight": "科技商业",
+    "intro": "DIC 为您提供在迪拜（该地区的数字之都）建立、启动和扩展一家成功的科技公司所需的一切。",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+    "imageBadgeTitle": "增长中心",
+    "imageBadgeText": "全球规模",
+    "items": [
+      {
+        "icon": "TrendingUp",
+        "title": "获得风险投资资金",
+        "description": "与积极投资迪拜科技领域的区域和全球投资者建立联系。"
+      },
+      {
+        "icon": "Globe",
+        "title": "全球市场准入",
+        "description": "通过一个平台触达中东、北非、非洲和亚洲超过 20 亿的消费者。"
+      },
+      {
+        "icon": "Users",
+        "title": "社交活动",
+        "description": "为DIC社区定期举办聚会、黑客马拉松和技术会议。"
+      },
+      {
+        "icon": "Rocket",
+        "title": "创业加速器",
+        "description": "有机会加入迪拜首屈一指的创业孵化器 in5 及其他项目。"
+      },
+      {
+        "icon": "Award",
+        "title": "政府支持",
+        "description": "迪拜互联网城和迪拜控股为科技项目提供支持。"
+      }
+    ]
+  },
+  "activitiesCloudSection": {
+    "badge": "允许的活动",
+    "title": "在DIC可以开展哪些活动？",
+    "titleHighlight": "在DIC中运行？",
+    "subtitle": "允许开展多种科技和数字商业活动。",
+    "items": [
+      {
+        "icon": "Code",
+        "label": "软件开发"
+      },
+      {
+        "icon": "Smartphone",
+        "label": "移动应用开发"
+      },
+      {
+        "icon": "Cloud",
+        "label": "云服务"
+      },
+      {
+        "icon": "Cpu",
+        "label": "人工智能与机器学习"
+      },
+      {
+        "icon": "Database",
+        "label": "数据分析"
+      },
+      {
+        "icon": "Server",
+        "label": "IT基础设施"
+      },
+      {
+        "icon": "Globe",
+        "label": "网站开发"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "电子商务"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "数字营销"
+      },
+      {
+        "icon": "Palette",
+        "label": "用户界面/用户体验设计"
+      },
+      {
+        "icon": "Bot",
+        "label": "机器人与自动化"
+      },
+      {
+        "icon": "Camera",
+        "label": "内容制作"
+      },
+      {
+        "icon": "Terminal",
+        "label": "DevOps"
+      },
+      {
+        "icon": "Binary",
+        "label": "区块链"
+      },
+      {
+        "icon": "Wifi",
+        "label": "物联网解决方案"
+      },
+      {
+        "icon": "Monitor",
+        "label": "游戏开发"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜互联网城自由区，您需要了解的一切。",
+    "items": [
+      {
+        "q": "什么是迪拜互联网城？它面向哪些人群？",
+        "a": "迪拜互联网城（DIC）是中东最大的信息通信技术自由区，拥有超过3500家科技公司，包括谷歌、微软、甲骨文和IBM。这里是软件、IT服务、数字营销、电子商务和科技初创企业的理想之地。"
+      },
+      {
+        "q": "DIC提供哪些许可证？",
+        "a": "软件开发、IT 服务、数字营销、数据和云服务、电子商务以及专业/咨询许可证。"
+      },
+      {
+        "q": "在DIC注册成立公司需要多长时间？",
+        "a": "通常情况下，只要文件齐全，3-5个工作日即可完成。我们的团队会确保流程快速顺畅。"
+      },
+      {
+        "q": "我可以在DIC中获得100%的外资所有权吗？",
+        "a": "是的。DIC允许100%外资所有权——无需当地担保人。"
+      },
+      {
+        "q": "DIC有哪些税收优惠？",
+        "a": "企业所得税和个人所得税均为 0%，利润和资本可全额汇回——这是阿联酋最优惠的税收制度之一。"
+      },
+      {
+        "q": "我可以用DIC牌照开设公司银行账户吗？",
+        "a": "是的。我们会根据您的企业情况，协助您在阿联酋顶级银行开设企业银行账户。"
+      },
+      {
+        "q": "DIC有哪些办公空间可供出租？",
+        "a": "灵活办公桌、联合办公空间、行政办公室和高端定制办公室。此外，还提供数据中心和服务器托管服务。"
+      },
+      {
+        "q": "DIC适合初创公司和自由职业者吗？",
+        "a": "是的。DIC 提供经济实惠的灵活办公桌和虚拟办公室方案，非常适合初创公司、自由职业者和远程优先的技术团队。"
+      },
+      {
+        "q": "Setup Zone Dubai提供哪些支持？",
+        "a": "我们提供公司注册、商号审批、许可证发放、签证办理、银行账户开立、合规性审核和数字产品发布服务。"
+      },
+      {
+        "q": "我可以用DIC驾照担保我的家人吗？",
+        "a": "是的。DIC支持为家属申请家庭签证担保，以及投资签证和工作签证担保。"
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的DIC设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在迪拜互联网城上线吗？",
+    "titleHighlight": "迪拜互联网城？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个DIC设置流程——从许可证申请到产品上线。",
+    "primaryCta": "WhatsApp 联系我们",
+    "whatsappMessage": "您好！我想咨询一下关于DIC设置的免费咨询。",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "免费咨询",
+      "3500+ 客户",
+      "3-5天安装完成"
+    ],
+    "office": {
+      "label": "欢迎莅临我们的迪拜办公室",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱：554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "工作时间",
+      "monFri": "上午9点至下午6点",
+      "saturday": "上午10点至下午5点",
+      "sunday": "关闭"
+    }
+  }
+}

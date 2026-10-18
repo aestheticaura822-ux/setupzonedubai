@@ -1,0 +1,205 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+  "heroBadge": "Your Trusted UAE Partner",
+  "heroTitle": "UAE Local Business Partner",
+  "heroTitleHighlight": "Business Partner",
+  "heroSubtitle": "Secure your mainland business with a reliable local partner. Full legal protection, 100% operational control, and fixed annual fees — no profit sharing.",
+  "heroChips": ["100% Control", "Fixed Annual Fee", "Legal Protection", "No Profit Sharing"],
+
+  "stats": [
+    { "icon": "Percent", "value": "51/49", "label": "Legal Split", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Control (via agreements)", "color": "from-blue-400 to-indigo-600" },
+    { "icon": "DollarSign", "value": "Fixed", "label": "Annual Fee", "color": "from-indigo-400 to-violet-600" },
+    { "icon": "Shield", "value": "0%", "label": "Profit Sharing", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "Understanding the Setup",
+    "title": "What Is a Local Business Partner?",
+    "titleHighlight": "Local Business Partner?",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+    "imageBadgeTitle": "Legal Partner",
+    "imageBadgeText": "Mainland Setup",
+    "paragraphs": [
+      "A local business partner (also called a local sponsor) is a UAE national or UAE-owned company holding 51% of shares in a mainland business while the foreign investor holds 49%.",
+      "This arrangement exists for certain commercial and industrial activities in the UAE mainland. Unlike individual sponsorship, a corporate sponsor provides more professional legal structure and binding contracts.",
+      "Through structured nominee agreements and side agreements, you legally maintain 100% control over business operations, finances, and decision-making. This is an effective and compliant means to access Dubai's mainland economy."
+    ],
+    "highlights": ["Corporate Entity", "Nominee Agreement", "Power of Attorney", "Side Agreements", "Fixed Annual Fee", "Legally Compliant"]
+  },
+
+  "partnerTypesSection": {
+    "badge": "Types of Partners",
+    "title": "Types of Local Partners",
+    "titleHighlight": "Local Partners",
+    "subtitle": "Swipe through 3 partner types — choose the right one for your business.",
+    "items": [
+      {
+        "id": "corporate",
+        "icon": "Building2",
+        "title": "Corporate Sponsor",
+        "tagline": "UAE-Owned Company",
+        "description": "A UAE-based company (100% Emirati owned) holds 51% of shares in your mainland business. Provides professional legal structure, binding contracts, and nominee arrangements allowing full control.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+        "color": "from-sky-500 to-blue-700",
+        "features": ["Professional Legal Structure", "Binding Contracts", "Nominee Arrangements", "Full Operational Control"],
+        "bestFor": "Commercial & Industrial Activities"
+      },
+      {
+        "id": "individual",
+        "icon": "UserIcon",
+        "title": "Individual Sponsor",
+        "tagline": "Emirati National",
+        "description": "An Emirati national holds 51% of shares as an individual. Similar to corporate sponsorship but with a person rather than a company. Requires thorough background checks and legal safeguards.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": ["Emirati Individual", "51% Legal Shares", "Side Agreements", "POA Protection"],
+        "bestFor": "Commercial Activities"
+      },
+      {
+        "id": "lsa",
+        "icon": "Handshake",
+        "title": "Local Service Agent",
+        "tagline": "No Equity Partner",
+        "description": "An Emirati national or UAE-owned company acts as administrative liaison with government departments. Holds ZERO shares — you retain 100% ownership. Required for Professional Licenses and Branch Offices.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": ["Zero Equity", "100% Foreign Ownership", "Administrative Liaison", "Fixed Annual Fee"],
+        "bestFor": "Professional Services & Branches"
+      }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Why Local Partner",
+    "title": "Benefits of Local Partnership",
+    "titleHighlight": "Local Partnership",
+    "subtitle": "Six powerful advantages for your mainland business.",
+    "items": [
+      { "icon": "Globe", "title": "Full Market Access", "description": "Operate across all seven Emirates with no geographical restrictions — access UAE local market, government contracts, and B2B/B2C customers.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Landmark", "title": "Government Contracts", "description": "Bid for government tenders and public sector projects — a major advantage that Free Zone companies do not have.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Shield", "title": "Legal Protection", "description": "Comprehensive legal structure with MOA, side agreements, POA, and nominee agreements — all notarized and legally binding.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Wallet", "title": "100% Profit Retention", "description": "Through legal side agreements, you retain 100% of profits. The sponsor receives only a fixed annual fee — no share of revenue.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Gavel", "title": "Full Operational Control", "description": "Power of Attorney gives you sole decision-making authority on all business matters — no sponsor interference.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "RefreshCw", "title": "Path to 100% Ownership", "description": "As UAE laws evolve, many activities now allow full foreign ownership. We help you convert your license when eligible.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "legalProtectionSection": {
+    "badge": "Legal Protection",
+    "title": "How We Protect Your Interest",
+    "titleHighlight": "Protect Your Interest",
+    "subtitle": "Six legal safeguards for complete peace of mind.",
+    "items": [
+      { "icon": "ScrollText", "title": "MOA Drafting", "desc": "Memorandum of Association drafted to comply with UAE law while protecting your rights.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Handshake", "title": "Beneficial Ownership Agreement", "desc": "Private legal documents confirming you are the actual sole beneficial owner.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Gavel", "title": "Business Power of Attorney", "desc": "Notarized POA giving you sole dominion over all business decisions and bank accounts.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Shield", "title": "Sponsor Limitation Agreement", "desc": "Clauses legally prohibiting the sponsor from interfering in your business operations.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Banknote", "title": "Fixed Annual Fee", "desc": "Sponsor receives a fixed annual fee — no share of profits, revenue, or expenses.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "FileCheck", "title": "Notarized Documents", "desc": "All documents signed and notarized, providing full clarity and legal security.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "processSection": {
+    "badge": "6-Step Process",
+    "title": "How We Secure Your Business",
+    "titleHighlight": "Secure Your Business",
+    "subtitle": "Six simple steps to a fully protected mainland business.",
+    "steps": [
+      { "step": "01", "icon": "Target", "title": "Activity Assessment", "description": "We determine if your business activity requires a local partner, corporate sponsor, or local service agent.", "color": "from-sky-400 to-blue-600" },
+      { "step": "02", "icon": "UserPlus", "title": "Partner Selection", "description": "We match you with a reliable, verified Emirati partner or corporate sponsor with a proven track record.", "color": "from-blue-400 to-indigo-600" },
+      { "step": "03", "icon": "FileSignature", "title": "Legal Documentation", "description": "Drafting and notarizing MOA, side agreements, POA, and nominee agreements to protect your interests.", "color": "from-indigo-400 to-violet-600" },
+      { "step": "04", "icon": "ScrollText", "title": "License Application", "description": "We file your trade license application with DED and coordinate all government approvals.", "color": "from-violet-400 to-purple-600" },
+      { "step": "05", "icon": "ClipboardCheck", "title": "Business Bank Account", "description": "Assistance with opening your corporate bank account with top UAE banks.", "color": "from-purple-400 to-fuchsia-600" },
+      { "step": "06", "icon": "RefreshCw", "title": "Ongoing Support", "description": "License renewals, PRO services, compliance, and future conversion to 100% ownership when eligible.", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "requirementsSection": {
+    "badge": "Key Requirements",
+    "title": "What You Need to Know",
+    "titleHighlight": "Need to Know",
+    "items": [
+      { "icon": "Percent", "title": "51% Legal Share", "description": "Local partner holds 51% legal shares while you retain 49% on paper.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "FileSignature", "title": "Side Agreements", "description": "Legal agreements ensure you retain full control and profits.", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "DollarSign", "title": "Fixed Annual Fee", "description": "Sponsor paid a fixed amount annually — no profit sharing.", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "RefreshCw", "title": "Exit Options", "description": "Flexible transfer, sponsorship change, or 100% ownership conversion.", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted Local Partner",
+    "titleHighlight": "Local Partner",
+    "items": [
+      { "icon": "ShieldCheck", "label": "Reliable Partners", "desc": "Verified Emirati sponsors with proven track record" },
+      { "icon": "FileCheck", "label": "Legal Documentation", "desc": "All agreements notarized and legally binding" },
+      { "icon": "DollarSign", "label": "Transparent Pricing", "desc": "No hidden fees or commissions" },
+      { "icon": "Globe", "label": "Multilingual Team", "desc": "English, Arabic, Hindi, Urdu" },
+      { "icon": "Zap", "label": "Fast Approvals", "desc": "Direct DED and government network" },
+      { "icon": "RefreshCw", "label": "Ongoing Support", "desc": "Renewals, PRO, and conversion assistance" },
+      { "icon": "Users", "label": "Trusted by Thousands", "desc": "Proven track record of successful setups" },
+      { "icon": "Crown", "label": "Long-Term Partnership", "desc": "We protect your future, not just your setup" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands",
+    "titleHighlight": "Thousands",
+    "subtitle": "Your business protection, in expert hands.",
+    "items": [
+      { "icon": "Building2", "value": "10,000+", "label": "Companies Formed", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Globe", "value": "100%", "label": "Control Preserved", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Sponsorship Expert", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "DollarSign", "value": "Fixed", "label": "Annual Fee", "color": "from-violet-400 to-purple-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Partner", "color": "from-fuchsia-400 to-pink-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about UAE Local Business Partners. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our local partner specialists.",
+      "whatsappMessage": "Hi! I have a question about UAE Local Business Partner."
+    },
+    "items": [
+      { "q": "Is a Local Business Partner compulsory for all businesses in Dubai?", "a": "No. Since 2021 reforms, most mainland business activities allow 100% foreign ownership. Local sponsors are required only for specific commercial or industrial activities. Professional services and Free Zone companies can enjoy 100% ownership." },
+      { "q": "What is the difference between a Local Partner and a Local Service Agent?", "a": "A Local Partner (Sponsor) holds 51% legal shares in your company. A Local Service Agent (LSA) holds ZERO shares — they only act as an administrative liaison with government departments for a fixed annual fee." },
+      { "q": "Can I retain 100% control with a Local Partner?", "a": "Yes. Through structured nominee agreements, Power of Attorney, and side agreements, you retain 100% operational, financial, and managerial control. The sponsor is a silent partner with no involvement." },
+      { "q": "How much does a Local Partner cost?", "a": "Corporate sponsorship fees typically range from AED 8,000 to AED 20,000 annually, depending on the scope of services and sponsor reputation. This is a fixed fee — no profit sharing." },
+      { "q": "What happens if I want to exit or transfer ownership?", "a": "We offer flexible exit and transfer options — sell your business, bring in a new partner, transfer sponsorship, or upgrade to 100% ownership if laws allow." },
+      { "q": "Will the sponsor interfere in my business operations?", "a": "No. Our Sponsor Limitation Agreement legally prohibits interference. The sponsor is a silent partner with no access to operations, finances, or decision-making." },
+      { "q": "Can I convert to 100% ownership in the future?", "a": "Yes. As UAE laws evolve, many activities now allow full foreign ownership. We monitor updates and help you convert your license when eligible by removing the sponsor and updating your documents." },
+      { "q": "What legal documents protect my interest?", "a": "Key documents include MOA, Beneficial Ownership Agreement, Power of Attorney, and Sponsor Limitation Agreement. All documents are notarized and legally binding." },
+      { "q": "Does having a local sponsor help with government approvals?", "a": "Yes. Our established corporate sponsors help speed up DED licensing, renewals, municipality approvals, civil defence, and industry regulatory approvals." },
+      { "q": "Why choose Setup Zone Dubai for Local Partner services?", "a": "We provide reliable Emirati partners, comprehensive legal documentation, transparent pricing, and end-to-end support. With a proven track record and direct government access, we ensure fast, compliant, and secure setup." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with Local Business Partner.",
+    "items": [
+      { "slug": "local-corporate-sponsor", "title": "Local Corporate Sponsor", "description": "Secure 100% control with a trusted sponsor.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-sky-400 to-blue-600" },
+      { "slug": "mainland-company-formation", "title": "Mainland Company Formation", "description": "Full UAE market access with DET license.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-blue-400 to-indigo-600" },
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore structures.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-indigo-400 to-violet-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Secure Your Business",
+    "title": "Ready for a Trusted Local Partner?",
+    "titleHighlight": "Trusted Local Partner?",
+    "subtitle": "Get a free consultation. We'll help you set up your mainland business with a reliable local partner and full legal protection.",
+    "chips": ["Free Consultation", "100% Control", "Fixed Fee"],
+    "whatsappMessage": "Hi! I'd like a free consultation for UAE Local Business Partner.",
+    "whatsappCardMessage": "Hi! I'd like to discuss UAE Local Business Partner."
+  }
+}

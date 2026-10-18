@@ -1,0 +1,479 @@
+{
+  "slug": "hiring-employee-management",
+  "hero": {
+    "badge": "Die besten Talente finden und rekrutieren",
+    "title": "Personalbeschaffung in den VAE – Mitarbeitermanagement",
+    "titleHighlight": "Mitarbeitermanagement",
+    "subtitle": "Professionelle Personalbeschaffungs- und Einstellungslösungen in Dubai und den gesamten VAE. Von der Kandidatensuche bis zum Onboarding – wir finden die Talente, die Ihr Unternehmen voranbringen.",
+    "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600&q=80",
+    "breadcrumbLabel": "Stellenangebote in den VAE",
+    "breadcrumbParent": "Festland",
+    "ctaPrimaryText": "Vereinbaren Sie eine kostenlose Beratung",
+    "ctaPrimaryLink": "#Kontakt",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für die Anmietung von Dienstleistungen in den VAE.",
+    "badges": [
+      "Mehr als 10.000 Vermittlungen",
+      "MOHRE-konform",
+      "Massenvermietung",
+      "Emiratisierung"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "Mehr als 10.000",
+      "label": "Platzierungen vorgenommen",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "4",
+      "label": "Herkunftskontinente",
+      "color": "from-indigo-400 to-violet-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "MOHRE-konform",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "48 Stunden",
+      "label": "Durchschnittliche Bearbeitungszeit für die Vorauswahl",
+      "color": "from-purple-400 to-fuchsia-600"
+    }
+  ],
+  "intro": {
+    "badge": "Warum das wichtig ist",
+    "title": "Warum ist die Einstellung der richtigen Talente so wichtig?",
+    "titleHighlight": "So wichtig?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "Das richtige Talent",
+    "imageBadgeText": "Richtiges Wachstum",
+    "paragraph1": "Das äußerst wettbewerbsintensive und schnelllebige Geschäftsklima der VAE zeigt, dass die Grundlage für den Erfolg nicht nur in der Einstellung von Mitarbeitern liegt, sondern in der Einstellung der richtigen, qualifizierten und motivierten Mitarbeiter, die direkt zum Wachstum Ihres Unternehmens beitragen können.",
+    "paragraph2": "In den Bereichen Finanzen, Bankwesen, Technologie, IT-Dienstleistungen, E-Commerce, Einzelhandel, Gastgewerbe, Tourismus, Bauwesen, Logistik, Gesundheitswesen, Bildung und Kreativwirtschaft ist die Gewinnung und Bindung der richtigen Talente einer der wichtigsten Unterscheidungsmerkmale, die das Wachstum führender Unternehmen vorantreiben.",
+    "paragraph3": "Mit den Rekrutierungslösungen von Setup Zone Dubai vereinfachen wir die Personalbeschaffung durch umfassende Dienstleistungen – von der Profilabgleichung über Screening, Hintergrundprüfungen, Kompetenzbewertungen und Visabearbeitung bis hin zum Vertragsmanagement.",
+    "features": [
+      "Die richtigen Fähigkeiten",
+      "Kulturelle Passung",
+      "Branchenkenntnisse",
+      "Produktivitätssteigerung",
+      "Stabilität",
+      "Nachhaltiges Wachstum"
+    ]
+  },
+  "industriesSection": {
+    "badge": "Talentlösungen für jede Branche",
+    "title": "Für welche Branchen stellen wir Mitarbeiter ein?",
+    "titleHighlight": "Einstellen für?",
+    "subtitle": "Entdecken Sie unsere Branchenexpertise – 7 Sektoren, unendliche Möglichkeiten.",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "title": "Unternehmens- und Verwaltungsbereich",
+        "description": "Leitende Verwaltungsangestellte, Buchhalter, Personalmanager, Büroangestellte, Unternehmenssekretäre und Mitarbeiter im Bereich der Unterstützung der Geschäftsleitung.",
+        "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "roles": [
+          "Executive Administration",
+          "Buchhalter",
+          "Personalmanager",
+          "Unternehmenssekretäre"
+        ]
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Vertrieb & Marketing",
+        "description": "Geschäftsentwicklung, digitales Marketing, Marketingmanager, Vertriebsmanager, Kundenbetreuer und Markenspezialisten.",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "roles": [
+          "Geschäftsentwicklung",
+          "Digitales Marketing",
+          "Vertriebsleiter",
+          "Markenspezialisten"
+        ]
+      },
+      {
+        "icon": "Cpu",
+        "title": "IT & Technologie",
+        "description": "Entwickler, IT-Ingenieure, Datenanalysten, Cybersicherheitsexperten, Cloud-Computing- und digitale Transformationsberater.",
+        "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "roles": [
+          "Entwickler",
+          "IT-Ingenieure",
+          "Datenanalysten",
+          "Cybersicherheit"
+        ]
+      },
+      {
+        "icon": "Crown",
+        "title": "Gastgewerbe & Tourismus",
+        "description": "Hotelmanager, Küchenchefs, Gästebetreuer, Veranstaltungsmanager, Hausdamen und Reiseberater.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "roles": [
+          "Hotelmanager",
+          "Küchenchefs",
+          "Gästebetreuung",
+          "Veranstaltungsmanager"
+        ]
+      },
+      {
+        "icon": "Factory",
+        "title": "Bauwesen & Ingenieurwesen",
+        "description": "Projektmanager, Bauingenieure (Bauwesen/Maschinenbau/Elektrotechnik), Architekten, Bauleiter und Facharbeiter.",
+        "image": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "roles": [
+          "Projektmanager",
+          "Ingenieure",
+          "Architekten",
+          "Bauleiter"
+        ]
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Gesundheitswesen & Wellness",
+        "description": "Ärzte, Krankenschwestern, Physiotherapeuten, Apotheker, Therapeuten, medizinisch-technische Assistenten und Klinikmanager.",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "roles": [
+          "Ärzte",
+          "Krankenschwestern",
+          "Apotheker",
+          "Therapeuten"
+        ]
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Bildung und Ausbildung",
+        "description": "Qualifizierte Lehrer, akademische Koordinatoren, Lehrplanentwickler, Dozenten, Ausbilder und Lernspezialisten.",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-rose-500 to-red-700",
+        "roles": [
+          "Lehrer",
+          "Koordinatoren",
+          "Dozenten",
+          "Trainer"
+        ]
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Effiziente Personalbeschaffung, reduziertes Risiko",
+    "title": "Wie funktioniert unser Einstellungsprozess in den VAE?",
+    "titleHighlight": "Einstellungsprozess in den VAE",
+    "subtitle": "Klicken Sie auf jeden Schritt, um ihn zu erweitern und alle Details anzuzeigen.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "UserPlus",
+        "title": "Talentakquise",
+        "description": "Erschließen Sie sich ein Netzwerk hochqualifizierter Fachkräfte in Dubai, Abu Dhabi und international mithilfe verschiedener Rekrutierungsplattformen und Branchenkontakte.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSearch",
+        "title": "Kandidatenauswahl",
+        "description": "Vorqualifizierung, gründliche Überprüfung, Hintergrundprüfungen, Referenzprüfungen und Tests der technischen Fähigkeiten dienen dazu, ungeeignete Kandidaten auszusortieren.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "03",
+        "icon": "Users",
+        "title": "Interviewmanagement",
+        "description": "Kompletter Interviewprozess – Terminplanung, Nachbetreuung der Kandidaten und Einholung von Feedback der Arbeitgeber für eine reibungslose und effiziente Einstellung.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "04",
+        "icon": "Handshake",
+        "title": "Angebotsmanagement",
+        "description": "Verhandeln Sie Gehälter, stellen Sie Leistungspakete zusammen, gestalten Sie die Beschäftigungsbedingungen und entwickeln Sie Verträge im Rahmen Ihres Budgets.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "05",
+        "icon": "CreditCard",
+        "title": "Visum & Onboarding",
+        "description": "Vorverfahren für das Arbeitsvisum, medizinische Tests, Emirates ID, Aufenthaltsdokumente und Vorbereitung des Arbeitsvertrags.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "benefits": {
+    "badge": "Warum Sie mit uns zusammenarbeiten sollten",
+    "title": "Vorteile der Anstellung über Setup Zone Dubai",
+    "titleHighlight": "mit Setup Zone Dubai",
+    "subtitle": "Sechs überzeugende Vorteile, die uns zu Ihrem idealen Rekrutierungspartner machen.",
+    "items": [
+      {
+        "icon": "Globe2",
+        "title": "Zugang zu lokalen und internationalen Talenten",
+        "description": "Knüpfen Sie Kontakte zu Top-Fachkräften aus den VAE und globalen Talenten – Emiratis, Führungskräften aus dem GCC oder internationalen Neuzugängen.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Einhaltung der Arbeitsgesetze der VAE",
+        "description": "100%ige Übereinstimmung mit den Arbeitsgesetzen der VAE, den Vorschriften des MOHRE, den Regeln der Freizonenbehörde und den Visabestimmungen.",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnellerer Rekrutierungsprozess",
+        "description": "Effiziente Personalbeschaffung und fortschrittliche Vorauswahl verkürzen die Einstellungszeit und bringen Sie schnell mit den richtigen Talenten zusammen.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Branchenspezifisches Wissen",
+        "description": "Branchenerfahrene Berater stellen sicher, dass Sie Fachkräfte mit den richtigen Fähigkeiten, Qualifikationen und der passenden Unternehmenskultur einstellen.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "Alle Einstellungs- und Visalösungen",
+        "description": "Rekrutierung von A bis Z – Verträge, Genehmigungen, Visa, medizinische Untersuchungen, Emirates ID und Onboarding, alles intern abgewickelt.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Target",
+        "title": "Maßgeschneidert für Ihr Unternehmen",
+        "description": "Maßgeschneiderte Personallösungen, die Ihren Zielen, Ihrem Budget und Ihren Personalplänen entsprechen – egal ob Start-up oder multinationales Unternehmen.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "emiratisationSection": {
+    "badge": "Unterstützung der Emiratisierung",
+    "title": "Befürworten wir die Einstellung von Emiraten?",
+    "titleHighlight": "Einstellung von Emiraten?",
+    "paragraph1": "Bei Setup Zone Dubai unterstützen wir Arbeitgebergruppen bei der Erfüllung ihrer Emiratisierungsverpflichtungen und staatlichen Einstellungsquoten – durch die Suche, Überprüfung und Vermittlung qualifizierter VAE-Staatsangehöriger auf allen Ebenen.",
+    "paragraph2": "Die Beschäftigung von Emiratis ermöglicht die Einhaltung gesetzlicher Bestimmungen und stärkt gleichzeitig die Verbindung zur Gemeinschaft – mit dem zusätzlichen Vorteil, den Ruf des Unternehmens zu verbessern und zur Entwicklung der Arbeitskräfte des Landes beizutragen.",
+    "paragraph3": "Wir bieten maßgeschneiderte Einarbeitungsprogramme, Unterstützung bei der kulturellen Integration und fortlaufende Schulungsinitiativen an, die darauf abzielen, die Mitarbeiter aus den VAE in Ihrem Unternehmen zu stärken.",
+    "features": [
+      {
+        "icon": "UsersRound",
+        "label": "Einhaltung der Emiratisierungsbestimmungen",
+        "desc": "Erfüllung der staatlichen Einstellungsquoten"
+      },
+      {
+        "icon": "Trophy",
+        "label": "Einstellung von Staatsangehörigen der VAE",
+        "desc": "Beschaffung und Vermittlung von Talenten aus den Emiraten"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "Onboarding-Programme",
+        "desc": "Maßgeschneiderte kulturelle Integration"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "Karriereentwicklung",
+        "desc": "Kontinuierliche Weiterbildung und Entwicklung"
+      },
+      {
+        "icon": "Award",
+        "label": "Unternehmensreputation",
+        "desc": "Bürgerbeteiligung"
+      },
+      {
+        "icon": "Scale",
+        "label": "Vollständige Einhaltung",
+        "desc": "Arbeitsgesetze der VAE"
+      }
+    ],
+    "visualCards": [
+      {
+        "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095?w=800&q=80",
+        "tag": "Einhaltung",
+        "title": "Regierungsquoten"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+        "tag": "Entwicklung",
+        "title": "Karriereentwicklung"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
+        "tag": "Integration",
+        "title": "Kulturelle Einarbeitung"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+        "tag": "Führung",
+        "title": "Führungspositionen"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Warum sollten Sie Setup Zone Dubai für die Personalbeschaffung wählen?",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "Vier Säulen, die uns zum vertrauenswürdigen Rekrutierungspartner für Unternehmen in den VAE machen.",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "Nachweislicher Rekrutierungserfolg",
+        "description": "Langjährige Erfahrung in der Vermittlung qualifizierter Kandidaten an führende Unternehmen in den VAE in verschiedensten Branchen."
+      },
+      {
+        "icon": "Target",
+        "title": "Maßgeschneiderte Personallösungen",
+        "description": "Jedes Unternehmen ist einzigartig – wir passen jede Einstellung individuell an Ihre Branche und Unternehmenskultur an, um die optimale Besetzung zu gewährleisten."
+      },
+      {
+        "icon": "Eye",
+        "title": "Vollständige Transparenz",
+        "description": "Vollständig transparenter Rekrutierungsprozess ohne versteckte Gebühren. Klare Informationen in jeder Phase für maximales Vertrauen."
+      },
+      {
+        "icon": "Heart",
+        "title": "Integration und Unterstützung nach der Einstellung",
+        "description": "Die Unterstützung wird auch nach der Einstellung fortgesetzt, mit Nachfolgemaßnahmen für einen reibungslosen Einstieg, die kulturelle Passung und die Mitarbeiterbindung."
+      }
+    ]
+  },
+  "bulkOverseasSection": {
+    "bulk": {
+      "icon": "UsersRound",
+      "tag": "Massenrekrutierung",
+      "title": "Können wir die Masseneinstellung für Projekte in den VAE bewältigen?",
+      "description": "Wir bieten Lösungen für die Massenrekrutierung von Mitarbeitern für Unternehmen, die abteilungsübergreifend effektiv skalieren müssen. Von Büros und Hotels über Freizonen bis hin zu Großprojekten – wir übernehmen die Personalsuche und das Onboarding unter Einhaltung aller gesetzlichen Bestimmungen.",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+      "gradient": "from-blue-900/90 via-indigo-900/85 to-violet-900/80",
+      "accentColor": "text-blue-300",
+      "tags": [
+        "Büros",
+        "Hotels",
+        "Freizonen",
+        "Großprojekte"
+      ]
+    },
+    "overseas": {
+      "icon": "Globe2",
+      "tag": "Globales Talent",
+      "title": "Bieten wir Unterstützung bei der Rekrutierung im Ausland an?",
+      "description": "Ja – wir vermitteln lokale und internationale Fachkräfte aus Asien, Europa, Afrika und Amerika. Unser umfassender Service für die Personalbeschaffung im Ausland beinhaltet die Kandidatensuche, die Überprüfung der Bewerber, die Einhaltung der MOHRE-Vorschriften, die Beantragung von Arbeitsvisa und Arbeitsgenehmigungen sowie Unterstützung bei der Umsiedlung.",
+      "image": "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=1200&q=80",
+      "gradient": "from-violet-900/90 via-purple-900/85 to-fuchsia-900/80",
+      "accentColor": "text-violett-300",
+      "tags": [
+        "Asien",
+        "Europa",
+        "Afrika",
+        "Amerika"
+      ]
+    }
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Personalsuche in den VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "items": [
+      {
+        "q": "Was beinhaltet der Prozess der Mitarbeitereinstellung in den VAE?",
+        "a": "Die Personalbeschaffung in den VAE umfasst die Kandidatensuche, die Erstellung von Stellenangeboten und Arbeitsverträgen, die Beantragung von Arbeitsgenehmigungen und Visa, medizinische Untersuchungen, die Registrierung für die Emirates ID sowie die Genehmigung des Arbeitsvertrags durch das Ministerium für Humanressourcen und Emiratisierung (MOHRE). Jeder Schritt muss den Arbeitsgesetzen der VAE entsprechen."
+      },
+      {
+        "q": "Können ausländische Unternehmen in den VAE Mitarbeiter einstellen?",
+        "a": "Ja. Ausländische Unternehmen mit einer gültigen Niederlassung in den VAE (Freizone oder Festland) können Mitarbeiter einstellen. Wir unterstützen Sie bei der Einhaltung aller rechtlichen Anforderungen, einschließlich Arbeitsgenehmigungen, Visa und der Vorgaben des Ministeriums für Humanressourcen und Emiratisierung (MOHRE)."
+      },
+      {
+        "q": "Wie lange dauert es, jemanden in den VAE einzustellen?",
+        "a": "Die Kandidatensuche und Vorauswahl dauern üblicherweise 1–2 Wochen, die Vorstellungsgespräche und Angebotserstellung ebenfalls 1–2 Wochen und die Visabearbeitung 2–4 Wochen. Unser effizienter Prozess verkürzt die Einstellungsdauer deutlich."
+      },
+      {
+        "q": "Hat die Emiratisierung Auswirkungen auf Unternehmen bei der Personalbeschaffung?",
+        "a": "Ja. Bestimmte Unternehmen müssen bei der Einstellung von VAE-Staatsangehörigen Quoten für die Emiratisierung einhalten. Wir unterstützen Sie bei der Erfüllung dieser Anforderungen und helfen Ihnen gleichzeitig, die besten Talente für Ihr Unternehmen zu finden."
+      },
+      {
+        "q": "Können Arbeitgeber auch Fachkräfte außerhalb der VAE einstellen?",
+        "a": "Absolut. Wir bieten lokale und internationale Talentakquise aus Asien, Europa, Afrika und Amerika unter voller Einhaltung der Vorgaben des neuseeländischen Ministeriums für Humanressourcen und Emiratisierung (MOHRE) und der Einwanderungsgesetze."
+      },
+      {
+        "q": "Für welche Branchen rekrutieren Sie in den VAE?",
+        "a": "Wir rekrutieren in den Bereichen Unternehmensführung & Verwaltung, Vertrieb & Marketing, IT & Technologie, Gastgewerbe & Tourismus, Bauwesen & Ingenieurwesen, Gesundheitswesen & Wellness sowie Bildung & Ausbildung."
+      },
+      {
+        "q": "Welche Kosten sind mit der Einarbeitung von Mitarbeitern in den VAE verbunden?",
+        "a": "Die Kosten umfassen Visabearbeitung, medizinische Tests, Emirates ID, Arbeitsverträge und obligatorische Sozialleistungen. Wir bieten transparente Preise ohne versteckte Gebühren."
+      },
+      {
+        "q": "Kann Setup Zone Dubai bei Projekten zur Massenrekrutierung helfen?",
+        "a": "Ja. Wir sind spezialisiert auf die Massenrekrutierung für Büros, Hotels, Freizonen und Großprojekte – von der Personalsuche bis zum Onboarding unter Einhaltung aller Vorschriften."
+      },
+      {
+        "q": "Befürworten Sie die Rekrutierung von Mitarbeitern aus dem Ausland für Stellen in den VAE?",
+        "a": "Ja. Unser Komplettservice für die Personalbeschaffung im Ausland umfasst die Kandidatensuche, die Überprüfung, die Einhaltung der MOHRE-Vorschriften, Arbeitsvisa, Arbeitsgenehmigungen und Unterstützung bei der Umsiedlung."
+      },
+      {
+        "q": "Warum Setup Zone Dubai für die Personalvermittlung in den VAE nutzen?",
+        "a": "Wir bieten nachweislichen Erfolg bei der Personalbeschaffung, maßgeschneiderte Lösungen, absolute Transparenz, Unterstützung nach der Einstellung und vollständige Compliance – das spart Ihnen Zeit und minimiert Risiken."
+      }
+    ]
+  },
+  "relatedServices": {
+    "badge": "Verwandte Dienstleistungen",
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die optimal zu Ihren Einstellungsanforderungen passen.",
+    "items": [
+      {
+        "slug": "mainland-activities",
+        "title": "Aktivitäten auf dem Festland",
+        "description": "Mehr als 2.000 vom DED genehmigte Aktivitäten in Dubai und den VAE.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "office-space-solutions",
+        "title": "Büroraumlösungen in den VAE",
+        "description": "Erstklassige Büroflächen in Dubai und den gesamten Vereinigten Arabischen Emiraten.",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "mainland-visa",
+        "title": "Visadienstleistungen für das Festland der VAE",
+        "description": "Investoren-, Arbeits- und Familienvisa.",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Stelle dein Traumteam zusammen",
+    "title": "Sind Sie bereit, die richtigen Talente einzustellen?",
+    "titleHighlight": "Das richtige Talent?",
+    "subtitle": "Vereinbaren Sie eine kostenlose Beratung. Wir helfen Ihnen, die besten Fachkräfte für Ihr Unternehmen in den VAE zu finden, auszuwählen und einzuarbeiten.",
+    "primaryCta": "WhatsApp uns",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Personalbeschaffung in den VAE.",
+    "badges": [
+      "Kostenlose Beratung",
+      "Mehr als 10.000 Vermittlungen",
+      "Vollständige Einhaltung"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

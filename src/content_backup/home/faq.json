@@ -1,0 +1,60 @@
+{
+  "badge": "Frequently Asked",
+  "heading": {
+    "line1": "Have a",
+    "highlight": "Question?"
+  },
+  "headingLine3": "We've Got Answers.",
+  "description": "Everything you need to know about UAE business setup, taxes, visas, and compliance. Can't find what you need? Our experts are one message away.",
+  "searchPlaceholder": "Search your question...",
+  "contactCard": {
+    "icon": "Lightbulb",
+    "title": "Still Have Questions?",
+    "subtitle": "Get a free consultation with our UAE business experts. We respond within 24 hours.",
+    "whatsappText": "WhatsApp",
+    "whatsappMessage": "Hi! I have a question about UAE business setup.",
+    "callText": "Call Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "statsResponseLabel": "Response",
+    "statsResponseValue": "< 24h",
+    "statsConsultLabel": "Consultation",
+    "statsConsultValue": "100% Free"
+  },
+  "expandAllLabel": "Expand All",
+  "collapseAllLabel": "Collapse All",
+  "questionSingular": "Question",
+  "questionPlural": "Questions",
+  "noResultsTitle": "No results found",
+  "noResultsSubtitle": "Try a different search or browse categories.",
+  "resetFiltersText": "Reset Filters",
+  "categories": [
+    { "id": "all", "name": "All Questions", "icon": "HelpCircle", "count": 12 },
+    { "id": "business", "name": "Business Setup", "icon": "Building2", "count": 4 },
+    { "id": "tax", "name": "Tax & VAT", "icon": "Receipt", "count": 3 },
+    { "id": "visa", "name": "Visa & Residency", "icon": "Crown", "count": 3 },
+    { "id": "banking", "name": "Banking", "icon": "Landmark", "count": 1 },
+    { "id": "compliance", "name": "Compliance", "icon": "ShieldCheck", "count": 1 }
+  ],
+  "faqs": [
+    { "category": "business", "q": "How long does it take to set up a business in Dubai?", "a": "Most businesses are fully registered and operational within 3-5 working days for Free Zone and 2-4 weeks for Mainland, depending on the license type and required approvals. We ensure a smooth, efficient setup process — helping you launch quickly." },
+    { "category": "business", "q": "What's the difference between a Free Zone and a Mainland company?", "a": "Free Zone companies offer 100% ownership, tax benefits, and are ideal for international trade and consulting. Mainland companies can trade freely across the UAE market, hire without restrictions, and are best for local retail, construction, restaurants, and agencies." },
+    { "category": "business", "q": "Do I need to be physically present in the UAE to start my company?", "a": "No. You can start your company remotely from anywhere in the world. We handle the entire process — documentation, submission, and approvals — through our digital workflow." },
+    { "category": "business", "q": "Can a foreigner 100% own a company in Dubai?", "a": "Yes. Foreigners can 100% own companies in most Free Zones and many Mainland activities. The UAE allows full foreign ownership in over 1,000 commercial and industrial activities." },
+    { "category": "tax", "q": "Is Corporate Tax mandatory for UAE businesses?", "a": "Yes. Corporate Tax is mandatory for UAE businesses with annual net profits exceeding AED 375,000. All qualifying businesses must register with FTA and submit annual returns." },
+    { "category": "tax", "q": "When does a business need to register for VAT?", "a": "VAT registration is mandatory when taxable supplies exceed AED 375,000 per year. Voluntary registration is available above AED 187,500. VAT is charged at 5% on most goods and services." },
+    { "category": "tax", "q": "What penalties exist for poor accounting in Dubai?", "a": "Fines range from AED 1,000 to AED 50,000+ depending on severity. Repeated non-compliance can lead to license suspension. We ensure full compliance to avoid penalties." },
+    { "category": "visa", "q": "What is the UAE Golden Visa and how do I qualify?", "a": "The Golden Visa is a 10-year renewable residency for investors, entrepreneurs, and exceptional talents. Qualify through AED 2M+ property investment, business investment, or specialized talent recognition." },
+    { "category": "visa", "q": "Can I sponsor my family members under a Golden Visa?", "a": "Yes. Golden Visa holders can sponsor spouse, children, parents, and domestic staff. Family members receive the same long-term residency benefits." },
+    { "category": "visa", "q": "Do I need a local sponsor to apply for a UAE residence visa?", "a": "No. UAE residence visas do not require a local sponsor for Free Zone, Mainland, or Golden Visa applicants. You can sponsor yourself through your own business." },
+    { "category": "banking", "q": "How long does it take to open a corporate bank account?", "a": "Typically 5-20 business days depending on the bank, business profile, and shareholder nationality. Digital banks like WIO can open accounts in 2-5 days." },
+    { "category": "compliance", "q": "What is UBO filing and is it mandatory?", "a": "UBO (Ultimate Beneficial Owner) filing is mandatory for all UAE registered businesses. It discloses who ultimately controls or benefits from the company. Non-compliance results in fines up to AED 100,000 and license cancellation." }
+  ],
+  "bottomCTA": {
+    "icon": "HelpCircle",
+    "title": "Didn't find your answer?",
+    "subtitle": "Our experts are one message away.",
+    "buttonText": "Ask an Expert",
+    "whatsappMessage": "Hi! I have a question that isn't in your FAQ."
+  }
+}

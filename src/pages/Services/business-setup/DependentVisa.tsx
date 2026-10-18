@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import dependentVisaData from '../../../content/business-setup/dependent-visa.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Users, Award,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function DependentVisa({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || dependentVisaData;
+  const { language } = useLanguage();
+  const dependentVisaFallback = loadContent('business-setup/dependent-visa', language);
+  const data = tinaData?.data?.businessSetup || dependentVisaFallback;
   const [activeType, setActiveType] = useState(0);
 
   const types = data.dependentTypesSection.items;

@@ -12,30 +12,84 @@ import {
 import { getWhatsAppLink } from '../lib/whatsapp';
 import postsData from '../content/blog/posts.json';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 
 export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
   const { slug } = useParams<{ slug: string }>();
   const [searchQuery, setSearchQuery] = useState('');
 
-  // Tina se ya local JSON se data
-  const allPosts = tinaData?.data?.blogPosts?.posts || postsData.posts;
-  const categories = tinaData?.data?.blogPosts?.categories || postsData.categories;
-  const archiveNames = tinaData?.data?.blogPosts?.archiveNames || postsData.archiveNames;
-  const popularTags = tinaData?.data?.blogPosts?.popularTags || postsData.popularTags;
+  const { language } = useLanguage();
+  const postsFallback = loadContent('blog/posts', language) || {};
+  const allPosts = tinaData?.data?.blogPosts?.posts || postsFallback.posts || [];
+  const categories = tinaData?.data?.blogPosts?.categories || postsFallback.categories || [];
+  const tagContentFallback = loadContent('blog/tagContent', language) || {};
+  const tagContents = tinaData?.data?.tagContent?.tagContents || tagContentFallback.tagContents || [];
 
-  // Find current category
-  const category = categories.find((c: any) => c.slug === slug) || categories[0];
+  // ✅ slugifyTag pehle define karo
+  const slugifyTag = (s: string) =>
+    s
+      .replace(/İ/g, 'i').replace(/I/g, 'i').replace(/ı/g, 'i')
+      .replace(/Ş/g, 's').replace(/ş/g, 's')
+      .replace(/Ğ/g, 'g').replace(/ğ/g, 'g')
+      .replace(/Ç/g, 'c').replace(/ç/g, 'c')
+      .replace(/Ü/g, 'u').replace(/ü/g, 'u')
+      .replace(/Ö/g, 'o').replace(/ö/g, 'o')
+      .replace(/Â/g, 'a').replace(/â/g, 'a')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
 
-  // Filter posts by category
-  const categoryPosts = allPosts.filter(
-    (p: any) => p.category.toLowerCase().replace(/[^a-z0-9]+/g, '-') === slug
+  // ✅ Ab category find karo (slug ya name se)
+  const category = categories.find(
+  (c: any) => c.slug === slug || slugifyTag(c.name) === slug
+) || {
+    name: slug?.replace(/-/g, ' ') || 'Category',
+    description: '',
+    slug: slug || '',
+  };
+
+  const categoryPosts = allPosts.filter((p: any) => {
+  if (!p.category) return false;
+  return (
+    p.category === category.name || 
+    slugifyTag(p.category) === slugifyTag(category.name) || 
+    slugifyTag(p.category) === category.slug ||
+    slugifyTag(p.category) === slug
+  );
+});
+
+  // ✅ Archives derive karo
+  const archiveNames: string[] = Array.from(
+    new Set(
+      allPosts
+        .map((p: any) => p?.date)
+        .filter(Boolean)
+        .map((d: string) => {
+          const date = new Date(d);
+          return isNaN(date.getTime())
+            ? null
+            : date.toLocaleString(
+                language === 'de' ? 'de-DE' :
+                language === 'ar' ? 'ar-AE' :
+                language === 'tr' ? 'tr-TR' :
+                language === 'fr' ? 'fr-FR' :
+                language === 'es' ? 'es-ES' :
+                language === 'zh-CN' ? 'zh-CN' :
+                'en-US',
+                { month: 'long', year: 'numeric' }
+              );
+        })
+        .filter(Boolean)
+    )
+  ) as string[];
+
+  // ✅ Popular Tags derive karo
+  const popularTags: string[] = Array.from(
+    new Set(allPosts.flatMap((p: any) => p?.tags || []))
   );
 
-  // Fallback: if no posts, show first few
   const displayPosts = categoryPosts.length > 0 ? categoryPosts : allPosts.slice(0, 3);
-
-  // Show top 8 archives in sidebar
   const sidebarArchives = archiveNames.slice(0, 8);
 
   return (
@@ -182,7 +236,8 @@ export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
                 </h3>
                 <div className="space-y-1.5 max-h-64 overflow-y-auto pr-1">
                   {sidebarArchives.map((month: string, i: number) => (
-                    <Link key={i} to={`/blog/archive/${month.toLowerCase().replace(' ', '-')}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-fuchsia-700 hover:bg-fuchsia-50 transition-colors">
+                    // ✅ Archives ke liye slugifyTag use kiya
+                    <Link key={i} to={`/blog/archive/${arch.monthKey || slugifyTag(arch.name)}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-fuchsia-700 hover:bg-fuchsia-50 transition-colors">
                       <span className="flex items-center gap-2">
                         <ChevronRight size={11} className="text-fuchsia-500 group-hover:translate-x-0.5 transition-transform" strokeWidth={3} />
                         {month}
@@ -199,9 +254,10 @@ export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
                 </h3>
                 <div className="space-y-1.5 max-h-96 overflow-y-auto pr-1">
                   {categories.map((cat: any, i: number) => {
-                    const isActive = cat.slug === slug;
+                    const isActive = cat.slug === slug || slugifyTag(cat.name) === slug;
                     return (
-                      <Link key={i} to={`/blog/category/${cat.slug}`} className={`group flex items-center justify-between p-2 rounded-lg text-xs font-semibold transition-colors ${isActive ? 'bg-fuchsia-100 text-fuchsia-700 border border-fuchsia-200' : 'text-slate-600 hover:text-fuchsia-700 hover:bg-fuchsia-50'}`}>
+                      // ✅ Seedha cat.slug use kiya, nahi to slugifyTag
+                      <Link key={i} to={`/blog/category/${cat.slug || slugifyTag(cat.name)}`} className={`group flex items-center justify-between p-2 rounded-lg text-xs font-semibold transition-colors ${isActive ? 'bg-fuchsia-100 text-fuchsia-700 border border-fuchsia-200' : 'text-slate-600 hover:text-fuchsia-700 hover:bg-fuchsia-50'}`}>
                         <span className="flex items-center gap-2 truncate">
                           <Tag size={11} className={`flex-shrink-0 ${isActive ? 'text-fuchsia-700' : 'text-fuchsia-500'}`} />
                           <span className="truncate" data-tina-field={tinaField(cat, 'name')}>{cat.name}</span>
@@ -221,11 +277,17 @@ export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
                   <Sparkles size={14} className="text-fuchsia-600" /> Popular Tags
                 </h3>
                 <div className="flex flex-wrap gap-2">
-                  {popularTags.map((tag: string, i: number) => (
-                    <Link key={i} to={`/blog/tag/${tag.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} className="px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 text-[11px] font-bold text-slate-600 hover:bg-fuchsia-50 hover:border-fuchsia-300 hover:text-fuchsia-700 transition-all">
-                      {tag}
-                    </Link>
-                  ))}
+                  {popularTags.map((tag: string, i: number) => {
+                    const matchedTag = tagContents.find((tc: any) => 
+                      tc.name === tag || slugifyTag(tc.name) === slugifyTag(tag)
+                    );
+                    const tSlug = matchedTag?.slug || slugifyTag(tag);
+                    return (
+                      <Link key={i} to={`/blog/tag/${tSlug}`} className="px-3 py-1.5 rounded-full bg-slate-50 border border-slate-200 text-[11px] font-bold text-slate-600 hover:bg-fuchsia-50 hover:border-fuchsia-300 hover:text-fuchsia-700 transition-all">
+                        {tag}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
 
@@ -242,7 +304,7 @@ export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
                   <h3 className="text-lg font-black text-white leading-tight mb-2">Need Help with Setup?</h3>
                   <p className="text-sm text-white/90 font-medium leading-relaxed mb-4">Talk to our experts — free consultation for your UAE business.</p>
                   <a href={getWhatsAppLink("Hi! I need help with UAE business setup.")} target="_blank" rel="noreferrer" className="inline-flex items-center justify-center gap-2 w-full px-4 py-2.5 rounded-xl bg-white text-fuchsia-700 font-black text-xs uppercase tracking-widest shadow-lg hover:scale-105 transition-transform">
-<WhatsAppIcon size={14} className="text-emerald-600" />Ask Expert
+                    <WhatsAppIcon size={14} className="text-emerald-600" />Ask Expert
                   </a>
                 </div>
               </div>
@@ -265,11 +327,11 @@ export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
               Explore Other <span className="bg-gradient-to-r from-fuchsia-500 to-purple-600 bg-clip-text text-transparent">Categories</span>
             </h2>
           </motion.div>
-
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-5xl mx-auto">
-            {categories.filter((c: any) => c.slug !== slug).slice(0, 9).map((cat: any, i: number) => (
+            {categories.filter((c: any) => c.slug !== slug && slugifyTag(c.name) !== slug).slice(0, 9).map((cat: any, i: number) => (
               <motion.div key={i} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.4, delay: i * 0.05 }}>
-                <Link to={`/blog/category/${cat.slug}`} className="group flex items-center justify-between gap-3 p-5 rounded-2xl bg-white border border-slate-200 hover:border-fuchsia-300 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+                {/* ✅ Seedha cat.slug use kiya */}
+                <Link to={`/blog/category/${cat.slug || slugifyTag(cat.name)}`} className="group flex items-center justify-between gap-3 p-5 rounded-2xl bg-white border border-slate-200 hover:border-fuchsia-300 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                   <div className="flex items-center gap-3 min-w-0">
                     <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-fuchsia-400 to-purple-600 flex items-center justify-center shadow-md flex-shrink-0">
                       <Folder size={18} className="text-white" strokeWidth={2.5} />
@@ -307,7 +369,7 @@ export default function BlogCategoryPage({ tinaData }: { tinaData?: any }) {
               </p>
               <div className="flex flex-wrap gap-4 justify-center">
                 <a href={getWhatsAppLink("Hi! I'd like a free consultation.")} target="_blank" rel="noreferrer" className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-fuchsia-700 font-bold text-sm shadow-xl hover:scale-105 transition-all">
-<WhatsAppIcon size={16} className="text-emerald-600" />WhatsApp Us
+                  <WhatsAppIcon size={16} className="text-emerald-600" />WhatsApp Us
                   <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                 </a>
                 <Link to="/contact" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all">

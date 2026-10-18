@@ -1,0 +1,164 @@
+{
+  "badge": "تواصل معنا",
+  "heading": {
+    "line1": "لنبدأ",
+    "highlight": "محادثة"
+  },
+  "subtitle": "من الشركات الناشئة إلى الشركات الكبرى، تثق بنا شركات دبي لتحقيق النتائج. احصل على استشارة مجانية اليوم.",
+  "contactCards": [
+    {
+      "icon": "هاتف",
+      "label": "اتصل بنا",
+      "value": "+971 56 655 6645",
+      "sub": "من الإثنين إلى السبت: من الساعة 9 صباحاً إلى الساعة 6 مساءً",
+      "href": "الهاتف: +971566556645",
+      "gradient": "من سماء 400 إلى أزرق 600",
+      "glow": "rgba(14,165,233,0.5)"
+    },
+    {
+      "icon": "بريد",
+      "label": "راسلنا عبر البريد الإلكتروني",
+      "value": "setupzonedubai@gmail.com",
+      "sub": "نرد خلال 24 ساعة",
+      "href": "mailto:setupzonedubai@gmail.com",
+      "gradient": "من البنفسجي 400 إلى الأرجواني 600",
+      "glow": "rgba(139,92,246,0.5)"
+    },
+    {
+      "icon": "علامة الخريطة",
+      "label": "تفضل بزيارتنا",
+      "value": "برج كريستال، الخليج التجاري",
+      "sub": "دبي، الإمارات العربية المتحدة - صندوق بريد 554552",
+      "href": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "gradient": "من 400 كهرماني إلى 600 برتقالي",
+      "glow": "rgba(245,158,11,0.5)"
+    }
+  ],
+  "workingHoursCard": {
+    "title": "ساعات العمل",
+    "timezoneLabel": "توقيت دبي (GST)",
+    "todayBadge": "اليوم",
+    "hours": [
+      {
+        "day": "الاثنين",
+        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
+        "active": true
+      },
+      {
+        "day": "يوم الثلاثاء",
+        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
+        "active": false
+      },
+      {
+        "day": "الأربعاء",
+        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
+        "active": false
+      },
+      {
+        "day": "يوم الخميس",
+        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
+        "active": false
+      },
+      {
+        "day": "جمعة",
+        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
+        "active": false
+      },
+      {
+        "day": "السبت",
+        "hours": "من الساعة 10:00 صباحاً إلى الساعة 5:00 مساءً",
+        "active": false
+      },
+      {
+        "day": "الأحد",
+        "hours": "مغلق",
+        "active": false,
+        "closed": true
+      }
+    ]
+  },
+  "trustBadges": [
+    {
+      "icon": "زاب",
+      "label": "أقل من 24 ساعة",
+      "sub": "إجابة"
+    },
+    {
+      "icon": "قفل",
+      "label": "100%",
+      "sub": "مؤتمن"
+    },
+    {
+      "icon": "دائرة الاختيار 2",
+      "label": "حر",
+      "sub": "استشارة"
+    }
+  ],
+  "form": {
+    "title": "أرسل لنا رسالة",
+    "subtitle": "املأ النموذج وسيتواصل معك فريقنا في غضون 24 ساعة.",
+    "submitText": "إرسال رسالة",
+    "privacyNote": "معلوماتك آمنة وسرية",
+    "successTitle": "جارٍ فتح تطبيق واتساب... 🎉",
+    "successMessage": "يرجى إرسال الرسالة المعبأة مسبقاً لإكمال استفسارك.",
+    "whatsappNumber": "971566556645",
+    "whatsappSenderLine": "تم الإرسال من setupzonedubai@gmail.com",
+    "fields": {
+      "name": {
+        "label": "الاسم الكامل",
+        "placeholder": "جون سميث",
+        "required": true
+      },
+      "email": {
+        "label": "بريد إلكتروني",
+        "placeholder": "john@company.com",
+        "required": true
+      },
+      "phone": {
+        "label": "رقم التليفون",
+        "placeholder": "+971 50 123 4567",
+        "required": true
+      },
+      "nationality": {
+        "label": "جنسية",
+        "placeholder": "مثال: بريطاني، هندي",
+        "required": false
+      },
+      "service": {
+        "label": "اختر الخدمة",
+        "placeholder": "اختر خدمة...",
+        "required": true
+      },
+      "message": {
+        "label": "رسالتك",
+        "placeholder": "أخبرنا عن احتياجات عملك...",
+        "required": true
+      }
+    },
+    "services": [
+      "تأسيس الأعمال التجارية - المنطقة الحرة",
+      "تأسيس الأعمال التجارية - البر الرئيسي",
+      "تأشيرة غولدن فيزا",
+      "ضريبة الشركات وضريبة القيمة المضافة",
+      "فتح حساب مصرفي",
+      "المحاسبة ومسك الدفاتر",
+      "خدمات الامتثال",
+      "خدمات احترافية",
+      "التسويق الرقمي",
+      "تطوير مواقع الويب",
+      "خدمات تحسين محركات البحث",
+      "آخر"
+    ]
+  },
+  "map": {
+    "title": "المكتب الرئيسي",
+    "address1": "برج كريستال، الخليج التجاري",
+    "address2": "المكتب M08-27، الطابق M1، مبنى ميلينيوم سنترال، شارع الأصايل، دبي، الإمارات العربية المتحدة",
+    "directionsText": "احصل على الاتجاهات",
+    "directionsLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
+    "quickContactLabel": "اتصال سريع",
+    "quickContactPhone": "+971 56 655 6645",
+    "quickContactMessage": "مرحباً! أود زيارة مكتبكم."
+  }
+}

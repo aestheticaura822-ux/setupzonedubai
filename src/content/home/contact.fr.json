@@ -1,0 +1,164 @@
+{
+  "badge": "Entrer en contact",
+  "heading": {
+    "line1": "Commençons le",
+    "highlight": "Conversation"
+  },
+  "subtitle": "Des startups aux grandes entreprises, les sociétés de Dubaï nous font confiance pour obtenir des résultats. Bénéficiez d'une consultation gratuite dès aujourd'hui.",
+  "contactCards": [
+    {
+      "icon": "Phone",
+      "label": "Appelez-nous",
+      "value": "+971 56 655 6645",
+      "sub": "Du lundi au samedi : de 9 h à 18 h",
+      "href": "tel:+971566556645",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)"
+    },
+    {
+      "icon": "Mail",
+      "label": "Écrivez-nous",
+      "value": "setupzonedubai@gmail.com",
+      "sub": "Nous répondons dans les 24 heures",
+      "href": "mailto:setupzonedubai@gmail.com",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)"
+    },
+    {
+      "icon": "MapPin",
+      "label": "Venez nous rendre visite",
+      "value": "Crystal Tower, Business Bay",
+      "sub": "Dubaï, Émirats arabes unis — Boîte postale 554552",
+      "href": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)"
+    }
+  ],
+  "workingHoursCard": {
+    "title": "Heures de travail",
+    "timezoneLabel": "Heure de Dubaï (TPS)",
+    "todayBadge": "Aujourd'hui",
+    "hours": [
+      {
+        "day": "Lundi",
+        "hours": "9h00 – 18h00",
+        "active": true
+      },
+      {
+        "day": "Mardi",
+        "hours": "9h00 – 18h00",
+        "active": false
+      },
+      {
+        "day": "Mercredi",
+        "hours": "9h00 – 18h00",
+        "active": false
+      },
+      {
+        "day": "Jeudi",
+        "hours": "9h00 – 18h00",
+        "active": false
+      },
+      {
+        "day": "Vendredi",
+        "hours": "9h00 – 18h00",
+        "active": false
+      },
+      {
+        "day": "Samedi",
+        "hours": "10h00 – 17h00",
+        "active": false
+      },
+      {
+        "day": "Dimanche",
+        "hours": "Fermé",
+        "active": false,
+        "closed": true
+      }
+    ]
+  },
+  "trustBadges": [
+    {
+      "icon": "Zap",
+      "label": "< 24 h",
+      "sub": "Réponse"
+    },
+    {
+      "icon": "Lock",
+      "label": "100%",
+      "sub": "Confidentiel"
+    },
+    {
+      "icon": "CheckCircle2",
+      "label": "Gratuit",
+      "sub": "Consultation"
+    }
+  ],
+  "form": {
+    "title": "Envoyez-nous un message",
+    "subtitle": "Remplissez le formulaire et notre équipe vous recontactera dans les 24 heures.",
+    "submitText": "Envoyer un message",
+    "privacyNote": "Vos informations sont protégées et confidentielles.",
+    "successTitle": "Ouverture de WhatsApp... 🎉",
+    "successMessage": "Veuillez envoyer le message prérempli pour finaliser votre demande.",
+    "whatsappNumber": "971566556645",
+    "whatsappSenderLine": "Envoyé depuis setupzonedubai@gmail.com",
+    "fields": {
+      "name": {
+        "label": "Nom et prénom",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      "email": {
+        "label": "E-mail",
+        "placeholder": "john@company.com",
+        "required": true
+      },
+      "phone": {
+        "label": "Numéro de téléphone",
+        "placeholder": "+971 50 123 4567",
+        "required": true
+      },
+      "nationality": {
+        "label": "Nationalité",
+        "placeholder": "par exemple, britannique, indien",
+        "required": false
+      },
+      "service": {
+        "label": "Service sélectif",
+        "placeholder": "Choisissez un service...",
+        "required": true
+      },
+      "message": {
+        "label": "Votre message",
+        "placeholder": "Parlez-nous des besoins de votre entreprise...",
+        "required": true
+      }
+    },
+    "services": [
+      "Création d'entreprise — Zone franche",
+      "Création d'entreprise — Continent",
+      "Visa d'or",
+      "Impôt sur les sociétés et TVA",
+      "Ouverture de compte bancaire",
+      "Comptabilité et tenue de livres",
+      "Services de conformité",
+      "Services PRO",
+      "Marketing numérique",
+      "Développement web",
+      "Services de référencement (SEO)",
+      "Autre"
+    ]
+  },
+  "map": {
+    "title": "Siège social",
+    "address1": "Crystal Tower, Business Bay",
+    "address2": "Bureau M08-27, 1er étage, Millennium Central, même immeuble, rue Al Asayel, Dubaï, Émirats arabes unis",
+    "directionsText": "Obtenir un itinéraire",
+    "directionsLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
+    "quickContactLabel": "Contact rapide",
+    "quickContactPhone": "+971 56 655 6645",
+    "quickContactMessage": "Bonjour ! J'aimerais visiter votre bureau."
+  }
+}

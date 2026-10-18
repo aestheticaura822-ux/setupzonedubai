@@ -1,0 +1,453 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=1600\u0026q=80",
+    "heroBadge":  "Hızlı ve Uyumlu Kurulum",
+    "heroTitle":  "Birleşik Arap Emirlikleri\u0027nde Ticari Banka Hesabı Açma",
+    "heroTitleHighlight":  "Birleşik Arap Emirlikleri",
+    "heroSubtitle":  "Emirates NBD, Mashreq, FAB, RAKBANK, ADIB ve WIO gibi önde gelen bankalarla BAE kurumsal banka hesabınızı açın. Tam KYC desteği, dokümantasyon ve banka tanıtımları baştan sona halledilir.",
+    "heroChips":  [
+                      "6+ Banka Ortağı",
+                      "Çoklu Para Birimi",
+                      "Hızlı Onay"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Zap",
+                      "value":  "2-5",
+                      "label":  "Günler (Dijital)",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  },
+                  {
+                      "icon":  "Önemli bir dönüm noktası",
+                      "value":  "6+",
+                      "label":  "Banka Ortakları",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "500+",
+                      "label":  "Açılan Hesaplar",
+                      "color":  "from-amber-400 to-orange-600"
+                  },
+                  {
+                      "icon":  "Ödül",
+                      "value":  "%100",
+                      "label":  "Başarı Oranı",
+                      "color":  "from-emerald-400 to-teal-600"
+                  }
+              ],
+    "whyNeededSection":  {
+                             "badge":  "Neden Önemli?",
+                             "title":  "Birleşik Arap Emirlikleri\u0027nde Neden Bir İşletme Banka Hesabına İhtiyacınız Var?",
+                             "titleHighlight":  "Birleşik Arap Emirlikleri\u0027nde hesap",
+                             "subtitle":  "Kurumsal banka hesabınız olmadan yasalara uygun şekilde faaliyet gösteremezsiniz, ödeme kabul edemezsiniz veya BAE düzenlemelerine uyumlu kalamazsınız.",
+                             "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=1200\u0026q=80",
+                             "imageBadgeTitle":  "Gereklidir",
+                             "imageBadgeText":  "Birleşik Arap Emirlikleri\u0027ndeki Her İşletme",
+                             "items":  [
+                                           {
+                                               "icon":  "Cüzdan",
+                                               "title":  "Ödeme İşlemleri ve Alımları",
+                                               "description":  "Yerel veya uluslararası müşterilerle yasal olarak ödeme kabul etmek, fatura düzenlemek ve ticaret yapmak zorunludur."
+                                           },
+                                           {
+                                               "icon":  "Kullanıcılar",
+                                               "title":  "WPS aracılığıyla Personel Ödemeleri",
+                                               "description":  "BAE yasalarına göre maaş ödemeleri WPS bağlantılı hesaplar üzerinden yapılmalıdır. Hesap yoksa, yasalara uygun bordro da olmaz."
+                                           },
+                                           {
+                                               "icon":  "Evrak çantası",
+                                               "title":  "İş ve kişisel hayatı ayrı tutun.",
+                                               "description":  "KDV, muhasebe ve denetimler için doğru defter tutma, mevzuata uyum için şarttır."
+                                           },
+                                           {
+                                               "icon":  "Dosya Kontrolü",
+                                               "title":  "KDV ve Vergi Beyannamesi İşlemlerini Etkinleştirin",
+                                               "description":  "FTA KDV kaydı ve kurumlar vergisi beyannameleri için aktif bir kurumsal hesap zorunludur."
+                                           },
+                                           {
+                                               "icon":  "Trend Yükseliyor",
+                                               "title":  "Krediler için Kredi Geçmişi Oluşturun",
+                                               "description":  "Köklü bankacılık geçmişi, gelecekteki finansman, kredi olanakları ve ticaret finansmanı imkanlarını mümkün kılar."
+                                           },
+                                           {
+                                               "icon":  "Kalkan Kontrolü",
+                                               "title":  "Merkez Bankası Uyumluluğu",
+                                               "description":  "Birleşik Arap Emirlikleri Merkez Bankası, kayıtlı tüm şirketlerin aktif kurumsal hesaplarla faaliyet göstermesini şart koşmaktadır."
+                                           }
+                                       ]
+                         },
+    "eligibilitySection":  {
+                               "badge":  "Uygunluk",
+                               "title":  "Kurumsal Banka Hesabı Kimler Açabilir?",
+                               "titleHighlight":  "Hesap?",
+                               "subtitle":  "Birden fazla işletme türü ve birey, BAE\u0027de kurumsal hesap açabilir.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bina 2",
+                                                 "title":  "BAE Anakara İşletmeleri",
+                                                 "description":  "DED\u0027e kayıtlı limited şirketler, yabancı şirketlerin şubeleri ve profesyonel/medeni şirketler.",
+                                                 "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "title":  "Serbest Bölge Şirketleri",
+                                                 "description":  "Geçerli işletme lisansına sahip tüm Serbest Bölge lisanslı kuruluşlar için doğru bankayı buluyoruz.",
+                                                 "color":  "from-violet-400 to-purple-600"
+                                             },
+                                             {
+                                                 "icon":  "Önemli bir dönüm noktası",
+                                                 "title":  "Denizaşırı Şirketler",
+                                                 "description":  "Bazı bankalarda, alım satım amacı gütmeyen işlemler için (varlık ve yatırım tutma) izin verilmektedir.",
+                                                 "color":  "siyan-400\u0027den turkuaz-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Trend Yükseliyor",
+                                                 "title":  "Uluslararası Yatırımcılar",
+                                                 "description":  "Ticaret lisansına, Emirates kimlik kartına/ikamet iznine ve noter onaylı hissedarlık sözleşmelerine sahip yabancı yatırımcılar.",
+                                                 "color":  "from-amber-400 to-orange-600"
+                                             },
+                                             {
+                                                 "icon":  "Cüzdan",
+                                                 "title":  "E-ticaret Sağlayıcıları",
+                                                 "description":  "Geçerli Serbest Bölge veya Anakara lisansına sahip SaaS, dropshipping, dijital pazarlama ve çevrimiçi işletmeler.",
+                                                 "color":  "pembe-400\u0027den gül-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Evrak çantası",
+                                                 "title":  "Serbest çalışanlar",
+                                                 "description":  "Dubai Media City, SHAMS, RAKEZ, twofour54 veya Abu Dhabi Media Zone\u0027dan izin sahipleri.",
+                                                 "color":  "from-lime-400 to-green-600"
+                                             }
+                                         ]
+                           },
+    "challengesSection":  {
+                              "badge":  "Ortak Zorluklar",
+                              "title":  "Banka Hesabı Açma Zorlukları",
+                              "titleHighlight":  "Zorluklar",
+                              "subtitle":  "Birleşik Arap Emirlikleri bankalarının katı şartları var; işte neler ters gidebilir ve bunları nasıl düzeltebiliriz.",
+                              "items":  [
+                                            {
+                                                "icon":  "Kalkan Kontrolü",
+                                                "title":  "Sıkı KYC Doğrulama",
+                                                "description":  "Birleşik Arap Emirlikleri bankaları, işletmeler, sahipleri ve fon kaynakları hakkında kapsamlı KYC (Müşterinizi Tanıyın) kontrolleri yapmaktadır. İlk seferde onaylanan eksiksiz bir KYC dosyası hazırlıyoruz."
+                                            },
+                                            {
+                                                "icon":  "Küre",
+                                                "title":  "Geliştirilmiş Vatandaşlık İncelemesi",
+                                                "description":  "Bazı uyruklar ve yüksek riskli faaliyetler ek incelemeyi gerektirir. Sizi profilinize uygun bankalarla eşleştiriyoruz."
+                                            },
+                                            {
+                                                "icon":  "Bina 2",
+                                                "title":  "Yerel Varlığın Kanıtı",
+                                                "description":  "Bankalar genellikle Ejari belgesi, kira sözleşmesi veya fatura talep eder. Başvuru yapmadan önce bunları hazırlamanıza yardımcı oluyoruz."
+                                            },
+                                            {
+                                                "icon":  "Saat",
+                                                "title":  "Uyumluluk Gecikmeleri",
+                                                "description":  "Tutarsız belgeler onay sürecini haftalarca geciktirebilir. Önceden incelenmiş dosyalarımız ise bu tür karşılıklı yazışmaları önler."
+                                            }
+                                        ]
+                          },
+    "risksSection":  {
+                         "badge":  "Kritik Uyarı",
+                         "title":  "Banka Hesabı Açılışını Geciktirmenin Riskleri",
+                         "titleHighlight":  "Hesap Kurulumu",
+                         "subtitle":  "Birleşik Arap Emirlikleri\u0027nde ticari banka hesabı açmak için çok uzun süre beklemek size sadece zaman kaybına değil, faaliyetlerinizin durmasına, cezalara ve işletmenizin güvenilirliğine zarar verebilir.",
+                         "warningCard":  {
+                                             "badge":  "Hemen harekete geçin",
+                                             "bigNumber":  "10.000 AED+",
+                                             "bigNumberLabel":  "Kurallara uymama durumunda olası para cezaları",
+                                             "subStats":  [
+                                                              {
+                                                                  "value":  "30+",
+                                                                  "label":  "Gecikme günleri"
+                                                              },
+                                                              {
+                                                                  "value":  "Haftalar",
+                                                                  "label":  "iyileşmek için"
+                                                              }
+                                                          ],
+                                             "ctaText":  "Şimdi Başla",
+                                             "ctaMessage":  "Merhaba! Banka hesabı açma işlemimi geciktirmek istemiyorum. Lütfen başlamama yardımcı olun."
+                                         },
+                         "items":  [
+                                       {
+                                           "icon":  "Dolar İşareti",
+                                           "title":  "Ödeme ve Faturalama Gecikmeleri",
+                                           "description":  "Kurumsal bir hesabınız olmadan fatura kesemez, ödeme tahsil edemez veya B2B işlemleri gerçekleştiremezsiniz; bu da nakit akışı sorunlarına yol açar.",
+                                           "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "DosyaMetni",
+                                           "title":  "KDV ve WPS Sorunları",
+                                           "description":  "Banka hesabı olmaması, KDV kaydının olmaması, WPS uyumluluğunun sağlanamaması ve uyumsuzluk nedeniyle yetkililer tarafından para cezasına çarptırılma olasılığı anlamına gelir.",
+                                           "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Trend Yükseliyor",
+                                           "title":  "Kötü geçmiş, finansman olanaklarını kısıtlıyor.",
+                                           "description":  "Reddedilen başvurular bile uyumluluk notlarına kaydediliyor; bu da gelecekte kredi ve ticari finansman elde etmeyi zorlaştırıyor.",
+                                           "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Uyarı Üçgeni",
+                                           "title":  "Faaliyet göstermeyen işletmelere para cezası",
+                                           "description":  "Serbest Bölge veya Anakara yetkilileri, aktif banka hesabı olmayan şirketlere ceza uygulayabilir; lisans askıya alınabilir.",
+                                           "color":  "kırmızı-500\u0027den kırmızı-700\u0027e"
+                                       }
+                                   ],
+                         "adviceTitle":  "ðŸ’¡ Tavsiyemiz",
+                         "adviceText":  "Beklemeyin "” banka hesabı açma işlemi türüne bağlı olarak 2-20 gün sürer. Ne kadar erken başlarsanız, o kadar çabuk faaliyete geçebilir, ödemeleri alabilir ve mevzuata uygun kalabilirsiniz."
+                     },
+    "servicesSection":  {
+                            "badge":  "Sunduklarımız",
+                            "title":  "Banka Hesabı Açma Hizmetlerimiz",
+                            "titleHighlight":  "Hizmetler",
+                            "subtitle":  "Değerlendirmeden hesap aktivasyonuna kadar uçtan uca eksiksiz destek.",
+                            "items":  [
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "Banka Eşleştirme Değerlendirmesi",
+                                              "description":  "İşletme faaliyetinizin, lisansınızın ve ideal banka eşleşmenizin analizi."
+                                          },
+                                          {
+                                              "icon":  "DosyaMetni",
+                                              "title":  "KYC Dosyası Hazırlığı",
+                                              "description":  "Eksiksiz dokümantasyon, hissedar belgeleri ve iş planı."
+                                          },
+                                          {
+                                              "icon":  "Dosya Kontrolü",
+                                              "title":  "Noter Onayı ve Tasdik",
+                                              "description":  "Belge tercümesi ve hukuki tasdik desteği."
+                                          },
+                                          {
+                                              "icon":  "Takvim",
+                                              "title":  "Banka Toplantıları Planlandı",
+                                              "description":  "Önceden planlanmış görüşmeler "” yüz yüze veya çevrimiçi."
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "Banka Koordinasyonu",
+                                              "description":  "Ön inceleme sürecinde tüm iletişimi biz yürütüyoruz."
+                                          },
+                                          {
+                                              "icon":  "Dolar İşareti",
+                                              "title":  "Çoklu Para Birimi Kurulumu",
+                                              "description":  "AED, USD, EUR hesapları ve ödeme ağ geçidi entegrasyonu."
+                                          },
+                                          {
+                                              "icon":  "Cüzdan",
+                                              "title":  "WPS ve KDV Bağlantısı",
+                                              "description":  "Maaş ve vergi hesaplarınızı bankanızla bağlayın."
+                                          },
+                                          {
+                                              "icon":  "Ödül",
+                                              "title":  "Açılış Sonrası Destek",
+                                              "description":  "Çek defterleri, kartlar, internet bankacılığı kurulumu."
+                                          }
+                                      ]
+                        },
+    "banksSection":  {
+                         "badge":  "Bankacılık Ortaklarımız",
+                         "title":  "Birleşik Arap Emirlikleri\u0027nde Çalıştığımız En İyi 10 Banka",
+                         "titleHighlight":  "Birlikte Çalışın",
+                         "subtitle":  "Önde gelen bankalarla güçlü ilişkilerimiz var; kurumsal bankalardan dijital öncelikli ve Şeriat uyumlu seçeneklere kadar geniş bir yelpazede hizmet sunuyoruz.",
+                         "bottomStrip":  {
+                                             "title":  "Hangi bankayı seçeceğinizden emin değil misiniz?",
+                                             "text":  "İşletme profilinize göre sizi en uygun bankayla eşleştireceğiz.",
+                                             "whatsappMessage":  "Merhaba! İşletmem için doğru BAE bankasını seçme konusunda yardıma ihtiyacım var."
+                                         },
+                         "items":  [
+                                       {
+                                           "name":  "Emirates NBD",
+                                           "type":  "Premium Kurumsal",
+                                           "description":  "Birleşik Arap Emirlikleri\u0027nin en büyük bankalarından biri olup, hem Çin anakarasındaki hem de serbest bölgedeki şirketler için mükemmel kurumsal hizmetler sunmaktadır.",
+                                           "color":  "kırmızı-400\u0027den gül-600\u0027e",
+                                           "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800\u0026q=80"
+                                       },
+                                       {
+                                           "name":  "Mashreq Bankası",
+                                           "type":  "Dijital ve Ticaret Dostu",
+                                           "description":  "Son derece özelleştirilebilir paketler. Güçlü uluslararası para transferi özelliğiyle ticaret, lojistik ve e-ticaret için idealdir.",
+                                           "color":  "turuncu-400\u0027den kehribar-600\u0027e",
+                                           "image":  "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800\u0026q=80"
+                                       },
+                                       {
+                                           "name":  "RAKBANK",
+                                           "type":  "KOBİ ve Serbest Bölge Odaklı",
+                                           "description":  "Esnek hesap seçenekleriyle KOBİ\u0027ler ve Serbest Bölge şirketleri arasında popülerdir.",
+                                           "color":  "mavi-400\u0027den çivit-600\u0027e",
+                                           "image":  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800\u0026q=80"
+                                       },
+                                       {
+                                           "name":  "Birinci Abu Dabi Bankası (FAB)",
+                                           "type":  "Birleşik Arap Emirlikleri\u0027nin En Büyük Bankası",
+                                           "description":  "Birleşik Arap Emirlikleri\u0027nin en büyük bankası olup, üst düzey kurumsal hizmetler ve kapsamlı ticaret finansmanı sunmaktadır.",
+                                           "color":  "from-emerald-400 to-teal-600",
+                                           "image":  "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?w=800\u0026q=80"
+                                       },
+                                       {
+                                           "name":  "ADIB",
+                                           "type":  "İslami Bankacılık",
+                                           "description":  "Şeriat uyumlu ticari hesaplar ve hizmetler sunan önde gelen İslami banka.",
+                                           "color":  "from-violet-400 to-purple-600",
+                                           "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80"
+                                       },
+                                       {
+                                           "name":  "WIO Bankası",
+                                           "type":  "Dijital Öncelikli, En Hızlı",
+                                           "description":  "Dijital öncelikli banka, en hızlı hesap açma süresiyle "” 2 ila 5 iş günü.",
+                                           "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                           "image":  "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800\u0026q=80"
+                                       }
+                                   ]
+                     },
+    "documentsSection":  {
+                             "badge":  "Hazırlık ve İşlem",
+                             "title":  "Başlamak İçin İhtiyacınız Olan Her Şey",
+                             "titleHighlight":  "Başlayın",
+                             "subtitle":  "Gerekli belgeleri kontrol edin ve hesabınızın ne kadar hızlı açılabileceğini görün.",
+                             "documentsCard":  {
+                                                   "badge":  "Gerekli",
+                                                   "title":  "Belgeler Kontrol Listesi",
+                                                   "subtitle":  "Hazırlanacak 7 malzeme",
+                                                   "items":  [
+                                                                 "Ticaret ruhsatı kopyası",
+                                                                 "Şirket Ana Sözleşmesi / Tüzüğü veya Kuruluş Belgeleri",
+                                                                 "Hissedar pasaportu ve Emirates Kimlik Kartı (veya giriş damgası)",
+                                                                 "Kira sözleşmesi veya fatura",
+                                                                 "İş planı (bazen gereklidir)",
+                                                                 "Şirket mührü ve antetli kağıdı",
+                                                                 "Mevcut faturalar veya sözleşmeler (isteğe bağlı, faydalı)"
+                                                             ],
+                                                   "tipText":  "Reddedilme veya gecikmeleri önlemek için tüm belgelerin hazırlanmasında ve doğrulanmasında size yardımcı oluyoruz; bunu tek başınıza halletmenize gerek yok."
+                                               },
+                             "timelineCard":  {
+                                                  "badge":  "Zaman çizelgesi",
+                                                  "title":  "Ne Kadar Sürer",
+                                                  "subtitle":  "İşletme türüne göre",
+                                                  "tipText":  "WIO gibi dijital hesaplar 2 iş günü gibi kısa bir sürede açılabilir.",
+                                                  "items":  [
+                                                                {
+                                                                    "icon":  "Bina 2",
+                                                                    "title":  "Anakara Şirketleri",
+                                                                    "days":  "5-10",
+                                                                    "unit":  "iş günleri",
+                                                                    "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                                },
+                                                                {
+                                                                    "icon":  "Küre",
+                                                                    "title":  "Serbest Bölge Kuruluşları",
+                                                                    "days":  "7-12",
+                                                                    "unit":  "iş günleri",
+                                                                    "color":  "from-violet-400 to-purple-600"
+                                                                },
+                                                                {
+                                                                    "icon":  "Önemli bir dönüm noktası",
+                                                                    "title":  "Yurtdışı Hesaplar",
+                                                                    "days":  "10-20",
+                                                                    "unit":  "iş günleri",
+                                                                    "color":  "from-amber-400 to-orange-600"
+                                                                },
+                                                                {
+                                                                    "icon":  "Zap",
+                                                                    "title":  "Dijital Hesaplar (WIO)",
+                                                                    "days":  "2-5",
+                                                                    "unit":  "iş günleri",
+                                                                    "color":  "from-emerald-400 to-teal-600"
+                                                                }
+                                                            ]
+                                              },
+                             "bottomStrip":  {
+                                                 "title":  "Belge hazırlama konusunda yardıma mı ihtiyacınız var?",
+                                                 "text":  "Ekibimiz, tüm belgeler konusunda baştan sona size yardımcı olacaktır.",
+                                                 "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027nde ticari banka hesabı açmak için gerekli belgelerin hazırlanmasında yardıma ihtiyacım var."
+                                             }
+                         },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Birleşik Arap Emirlikleri\u0027nde ticari banka hesabı açmak hakkında bilmeniz gereken her şey. İhtiyacınız olanı bulamadınız mı? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Sizi doğru bankayla eşleştireceğiz.",
+                                            "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027ndeki ticari banka hesaplarıyla ilgili bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde ikamet iznim olmadan ticari banka hesabı açabilir miyim?",
+                                          "a":  "Evet, yerleşik olmayanlar da kurumsal hesap açabilirler - çoğunlukla Serbest Bölge veya Açık Deniz şirketleri için. Ek inceleme gereklidir. Biz sizi mevzuata uygun süreçte yönlendiriyor ve başvuruları önceden değerlendiriyoruz."
+                                      },
+                                      {
+                                          "q":  "Kurumsal banka hesabı açmak ne kadar sürer?",
+                                          "a":  "Genellikle bankaya, işletme profiline ve hissedarların uyruğuna bağlı olarak 5-20 iş günü sürer. WIO gibi dijital bankalar daha hızlı olabilir (2-5 gün)."
+                                      },
+                                      {
+                                          "q":  "Hangi belgeler gerekiyor?",
+                                          "a":  "Ticaret ruhsatı, şirket ana sözleşmesi, pasaport fotokopileri, Emirates kimlik kartı, adres kanıtı, iş planı ve KYC belgeleri. Her şeyin hazırlanmasında ve doğrulanmasında size yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Hangi BAE bankasını seçmeliyim?",
+                                          "a":  "İşletme türünüze, faaliyetinize ve uyruğunuza bağlıdır. Sizi en uygun bankayla eşleştiriyoruz: Emirates NBD, Mashreq, RAKBANK, FAB, ADIB veya WIO."
+                                      },
+                                      {
+                                          "q":  "Serbest Bölge şirketleri ticari banka hesabı açabilir mi?",
+                                          "a":  "Evet, Serbest Bölge lisansına sahip tüm şirketler hesap açabilir. Biz Serbest Bölge işletmelerini uygun bankalarla eşleştirme konusunda uzmanız."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027ndeki ticari banka hesapları çoklu para birimini destekliyor mu?",
+                                          "a":  "Evet, çoğu banka AED, USD, EUR ve GBP cinsinden çoklu para birimi özellikli hesaplar sunmaktadır. Doğru kombinasyonu oluşturmanıza yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Sıfır bakiyeli bir işletme hesabı açabilir miyim?",
+                                          "a":  "Bazı bankalar düşük veya sıfır minimum bakiye gerektiren hesaplar sunmaktadır. İşletmenizin ihtiyaçlarına göre en uygun hesabı bulmanıza yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Yurtdışı şirketler BAE\u0027de banka hesabı açabilir mi?",
+                                          "a":  "Evet, offshore şirketler yalnızca ticari olmayan amaçlar için belirli bankalarda hesap açabilirler. Biz de belge ve mevzuat uyumluluğu konusunda yardımcı oluyoruz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Banka hesabı açma işlemiyle uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "corporate-tax-vat",
+                                                     "title":  "Kurumlar Vergisi ve KDV",
+                                                     "description":  "Uzman vergi danışmanlığı, FTA kaydı ve mevzuata uyumluluk.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "accounting",
+                                                     "title":  "Muhasebe",
+                                                     "description":  "Muhasebe, bordro ve finansal raporlama.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                                                     "gradient":  "from-violet-400 to-purple-600"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı bildirimleri, ESR raporları ve düzenleyici destek.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "siyan-400\u0027den-mavi-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "İletişime Geçin",
+                     "title":  "Banka Hesabınızı Açmaya Hazır mısınız?",
+                     "titleHighlight":  "Banka hesabı?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. İşletmenizi değerlendireceğiz, sizi ideal bankayla eşleştireceğiz ve kimlik doğrulamasından aktivasyona kadar her adımı biz halledeceğiz.",
+                     "chips":  [
+                                   "6+ Banka Ortağı",
+                                   "500\u0027den fazla hesap açıldı",
+                                   "%100 Başarı Oranı"
+                               ],
+                     "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027nde ticari banka hesabı açmak için ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027nde ticari banka hesabı açmak için yardıma ihtiyacım var."
+                 }
+}

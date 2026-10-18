@@ -1,0 +1,541 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+  "heroBadge": "Cebel Ali Serbest Bölgesi",
+  "heroTitle": "JAFZA Serbest Bölgesi",
+  "heroTitleHighlight": "Serbest Bölge",
+  "heroSubtitle": "Orta Doğu'nun en büyük ve en güvenilir serbest bölgelerinden biri. Uluslararası ticaretin teknolojiyle buluştuğu Jebel Ali Limanı'nın hemen yanında.",
+  "heroChips": [
+    "%100 Sahiplik",
+    "%0 Vergi",
+    "Limana Bitişik"
+  ],
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "8.000+",
+      "label": "Şirketler",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100+",
+      "label": "Ülkeler",
+      "color": "from-orange-400 to-red-500"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Gelir vergisi",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Ship",
+      "value": "Liman",
+      "label": "Bitişik Bölge",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whyJafzaSection": {
+    "badge": "Neden JAFZA?",
+    "title": "JAFZA Serbest Bölgesini Neden Seçmelisiniz?",
+    "titleHighlight": "JAFZA Serbest Bölgesi mi?",
+    "subtitle": "Orta Doğu'nun en büyük ve en güvenilir serbest bölgelerinden biri.",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "description": "İşletmenizin tam mülkiyetine sahip olun, yerel bir sponsora ihtiyacınız yok.",
+        "color": "from-amber-400 to-orange-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Ship",
+        "title": "Cebel Ali Limanı'nın yanında",
+        "description": "Orta Doğu'nun en büyük ve en işlek limanı - küresel tedarik zincirlerine doğrudan erişim.",
+        "color": "from-sky-400 to-blue-600",
+        "size": "büyük"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "%0 Vergi",
+        "description": "Kişisel veya kurumlar vergisi yok — maksimum karlılık.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Plane",
+        "title": "Al Maktoum Havalimanı",
+        "description": "Dünyanın en büyük havaalanına doğrudan erişim.",
+        "color": "from-violet-400 to-purple-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Factory",
+        "title": "Endüstriyel Altyapı",
+        "description": "Dünya standartlarında lojistik, üretim ve ticaret tesisleri.",
+        "color": "from-orange-400 to-red-500",
+        "size": "büyük"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "Hepsi Bir Arada Hizmetler",
+    "title": "JAFZA Kurulumu İçin Hangi Hizmetleri Sağlıyoruz?",
+    "titleHighlight": "JAFZA Kurulumu için",
+    "subtitle": "İlk sorunuzdan operasyonel lansmana kadar, tek elden çözüm ortağınız.",
+    "items": [
+      {
+        "icon": "MessageCircle",
+        "title": "İlk Danışma",
+        "description": "Hedeflerinize uygun iş modelini ve faaliyet alanını seçin."
+      },
+      {
+        "icon": "FileText",
+        "title": "Şirket Adı Rezervasyonu",
+        "description": "JAFZA ticari adınızı hızlı ve verimli bir şekilde rezerve edin."
+      },
+      {
+        "icon": "FileCheck",
+        "title": "Belge Hazırlama",
+        "description": "Eksiksiz dokümantasyon — Şirket ana sözleşmesi, şirket tüzüğü ve yasal formlar."
+      },
+      {
+        "icon": "BadgeCheck",
+        "title": "JAFZA'dan onaylar",
+        "description": "Daha hızlı onaylar için başvurularınızı doğrudan JAFZA yetkililerine iletin."
+      },
+      {
+        "icon": "Award",
+        "title": "Ticaret Lisansı Verilmesi",
+        "description": "JAFZA ticaret lisansınızı ve işletme kaydınızı yaptırın."
+      },
+      {
+        "icon": "Users",
+        "title": "Vize İşlemleri",
+        "description": "Hissedar ve çalışan vize işlemlerinin baştan sona yönetimi."
+      },
+      {
+        "icon": "CreditCard",
+        "title": "Banka Hesabı Desteği",
+        "description": "Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal banka hesabı açın."
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Yıllık Yenilemeler",
+        "description": "Uyumluluk hizmetleri ve lisans yenileme yönetimi."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Lansman Sonrası Destek",
+        "description": "PRO hizmetleri, uyumluluk ve sürekli iş danışmanlığı."
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lisans Türleri",
+    "title": "JAFZA'da Sunulan Lisanslar",
+    "titleHighlight": "JAFZA",
+    "subtitle": "Her lisans, işlemlerinizi verimli, yasal ve ölçeklenebilir hale getirmek üzere yapılandırılmıştır.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Ticaret Lisansı",
+        "description": "Mal alım satımı veya dağıtımı yapan işletmeler için.",
+        "code": "TRD",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Hizmet Lisansı",
+        "description": "Danışmanlık, bilişim teknolojileri, medya ve pazarlama hizmetleri için.",
+        "code": "SRV",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Sanayi Lisansı",
+        "description": "İmalat, üretim ve paketleme için.",
+        "code": "IND",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "E-ticaret Lisansı",
+        "description": "Çevrimiçi perakende ve dijital satış işletmeleri için.",
+        "code": "ECM",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "İnovasyon Lisansı",
+        "description": "Ar-Ge, fikri mülkiyet işletmeleri ve teknoloji şirketleri için.",
+        "code": "INV",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Lojistik Lisansı",
+        "description": "Nakliye, depolama ve dağıtım işletmeleri için.",
+        "code": "KAYIT",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "infrastructureSection": {
+    "badge": "Altyapı Seçenekleri",
+    "title": "Özelleştirilebilir İş Alanları",
+    "titleHighlight": "İş Alanları",
+    "subtitle": "Tüm alanlarda yüksek hızlı internet, 7/24 güvenlik ve temel hizmetler mevcuttur.",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "Esnek masalar",
+        "description": "Yeni kurulan işletmeler ve küçük işletmeler için idealdir.",
+        "color": "from-amber-400 to-orange-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Yürütme Ofisleri",
+        "description": "Tamamen mobilyalı, kullanıma hazır alanlar.",
+        "color": "from-violet-400 to-purple-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "Depolar",
+        "description": "Gelişmiş depolama olanaklarıyla lojistik ve stok yönetimine hazır.",
+        "color": "from-orange-400 to-red-500",
+        "size": "büyük"
+      },
+      {
+        "icon": "Factory",
+        "title": "Endüstriyel Birimler",
+        "description": "Üretim ve montaj hatları için tasarlanmıştır.",
+        "color": "from-sky-400 to-blue-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "MapPin",
+        "title": "Özel Parseller",
+        "description": "Kendi ofisinizi, fabrikanızı veya dağıtım merkezinizi kurun.",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "küçük"
+      }
+    ],
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80"
+  },
+  "liquidationSection": {
+    "badge": "Tasfiye ve Uyumluluk",
+    "title": "İşletme Çıkışı Kolaylaştırıldı",
+    "titleHighlight": "Kolaylaştırıldı",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "%100 Yasal",
+    "imageBadgeText": "Uyumlu Çıkış",
+    "paragraphs": [
+      "JAFZA bölgesinde işletmenizi kapatmaya veya devretmeye hazırsanız, tüm tasfiye sürecini kolay, yasal ve sorunsuz hale getiriyoruz.",
+      "Ödenmemiş faturaları kapatıyoruz, çalışanların vizelerini iptal ediyoruz, tüm işten ayrılma prosedürlerini takip ediyoruz ve JAFZA yetkilileri nezdinde işletme lisansınızı devre dışı bırakıyoruz.",
+      "Ayrıca varlık devirlerini, nihai denetimleri ve gerekli tüm İtirazsızlık Belgelerinin (NOC) alınmasını da üstleniyoruz; böylece işletmenizden ekonomik ve tam bir güvenle çıkabilirsiniz."
+    ],
+    "highlights": [
+      "Fatura Onayı",
+      "Vize İptali",
+      "Lisans Devre Dışı Bırakma",
+      "Varlık Transferi",
+      "Son Denetim",
+      "NOC Yardımı"
+    ]
+  },
+  "offshoreSection": {
+    "badge": "JAFZA Açık Deniz",
+    "title": "Basit, Özel, Vergi Açısından Verimli Yapı",
+    "titleHighlight": "Vergi Açısından Verimli Yapı",
+    "subtitle": "JAFZA offshore şirketleri fiziksel ofis alanı veya vize gerektirmez ancak BAE'de tam yasal varlık sağlar.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Diğer Şirketlerde Hisselere Sahip Olmak",
+        "description": "Basit, gizli ve vergi açısından verimli bir holding yapısı."
+      },
+      {
+        "icon": "Building2",
+        "title": "Dubai'de Gayrimenkul Sahibi Olmak",
+        "description": "Gayrimenkul yatırımı ve varlık koruması için mükemmel."
+      },
+      {
+        "icon": "Globe",
+        "title": "Gümrüksüz Küresel Ticaret",
+        "description": "Yurtdışı kuruluşlara BAE gümrük vergisi uygulanmadığı için serbestçe ticaret yapılabilir."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Varlık Koruma ve Miras",
+        "description": "Servetinizi koruyun ve geleceğe yönelik planlar yapın."
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Fikri Mülkiyet ve Marka Yönetimi",
+        "description": "Fikri mülkiyet ve ticari markaların korunması için idealdir."
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "JAFZA Kurulum Uzmanları",
+    "titleHighlight": "Uzmanlar",
+    "subtitle": "Yılların deneyimi ve onlarca memnun müşteri.",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Kuruluştan Genişlemeye Kadar Tam Destek",
+        "description": "İlk kurulumdan lansman sonrası büyümeye kadar her şeyi kapsıyoruz."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Ölçeklenebilir, Güvenilir Bir Ortak",
+        "description": "İşletmenizle birlikte büyüyor ve her aşamaya uyum sağlıyoruz."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Şeffaf ve Gizli",
+        "description": "Gizli ücret yok, tam gizlilik garantisi."
+      },
+      {
+        "icon": "Zap",
+        "title": "Hızlı Teslimat",
+        "description": "Şirket kurulumu sadece 2-3 günde tamamlandı."
+      },
+      {
+        "icon": "FileCheck",
+        "title": "Doğru Belgeleme",
+        "description": "Baştan sona hatasız dosyalama ile uyumluluk."
+      },
+      {
+        "icon": "Target",
+        "title": "Stratejik Rehberlik",
+        "description": "Faaliyet seçimi ve lisanslama konusunda uzman tavsiyesi."
+      }
+    ]
+  },
+  "costBreakdownSection": {
+    "badge": "2026 Maliyet Dağılımı",
+    "title": "Şeffaf JAFZA Fiyatlandırması",
+    "titleHighlight": "JAFZA Fiyatlandırması",
+    "subtitle": "JAFZA paketleri lisans, ofis ve vize masrafları olmak üzere üç ayrı maliyete ayrılmıştır.",
+    "items": [
+      {
+        "item": "Ticaret lisansı",
+        "cost": "12.000 - 25.000",
+        "notes": "Aktiviteye bağlı",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "item": "Kayıt ücreti",
+        "cost": "1.500",
+        "notes": "Tek seferlik",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "item": "Esnek çalışma masası / ofis",
+        "cost": "8.000 - 25.000",
+        "notes": "Yıllık, zorunlu",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "item": "Vize (kişi başına)",
+        "cost": "4.500 - 6.500",
+        "notes": "Emirates kimlik kartı dahil.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "item": "Kuruluş kartı",
+        "cost": "1.800 - 2.500",
+        "notes": "Yıllık",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "item": "Sermaye (minimum)",
+        "cost": "500.000",
+        "notes": "Beyan edildi, ödenmedi.",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ],
+    "yearTotalLabel": "1. Yıl Her Şey Dahil",
+    "yearTotalNote": "Ofise ve vizeye bağlı olarak",
+    "yearTotalFrom": "27.000 – 55.000 AED"
+  },
+  "comparisonSection": {
+    "title": "JAFZA - DMCC - IFZA",
+    "subtitle": "Hangi Bölge Kazanır?",
+    "items": [
+      {
+        "factor": "Başlangıç maliyeti",
+        "jafza": "12.000 AED",
+        "dmcc": "15.000 AED",
+        "ifza": "11.500 AED"
+      },
+      {
+        "factor": "Toplam şirketler",
+        "jafza": "9.000+",
+        "dmcc": "21.000+",
+        "ifza": "48.000+"
+      },
+      {
+        "factor": "En iyisi",
+        "jafza": "Lojistik, ticaret",
+        "dmcc": "Emtialar, kripto paralar",
+        "ifza": "Genel ticaret, KOBİ'ler"
+      },
+      {
+        "factor": "Konum",
+        "jafza": "Cebel Ali liman bölgesi",
+        "dmcc": "JLT, şehir merkezine yakın",
+        "ifza": "Dubai Silikon Vahası"
+      },
+      {
+        "factor": "Ofis esnekliği",
+        "jafza": "İyi",
+        "dmcc": "Harika",
+        "ifza": "Harika"
+      }
+    ],
+    "verdict": "JAFZA ithalat/ihracat ve sanayi faaliyetlerinde; DMCC emtia ve fintech'te; IFZA ise saf maliyette öne çıkıyor."
+  },
+  "setupStepsSection": {
+    "badge": "Kurulum Süreci",
+    "title": "JAFZA Kurulumu 5 Adımda",
+    "titleHighlight": "5 Adımda",
+    "subtitle": "JAFZA şirketinizi 2-3 gün içinde faaliyete geçirin — ekibimiz sizin adınıza tüm başvuruları yapar.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Faaliyet ve Yasal Formu Seçin",
+        "description": "İhtiyaçlarınıza göre FZE, FZCO veya şube yapısını seçin.",
+        "icon": "Target",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "step": "02",
+        "title": "Rezerv Şirket Adı",
+        "description": "JAFZA'ya adınızı kaydedin ve rezervasyon ücretini ödeyin.",
+        "icon": "FileText",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "03",
+        "title": "Şirket Kuruluş Belgelerini İmzalayın",
+        "description": "Şirket ana sözleşmesini/şirket tüzüğünü ve yönetim kurulu kararlarını imzalayın.",
+        "icon": "FileSignature",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "step": "04",
+        "title": "Ücretleri Ödeyin ve Lisansınızı Alın",
+        "description": "Lisans ve ofis ücretlerini ödeyerek ticaret lisansınızı alın.",
+        "icon": "BadgeCheck",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "title": "Visa ve Banka Hesabı",
+        "description": "Vize başvurusunda bulunun ve kurumsal banka hesabı açın.",
+        "icon": "CreditCard",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "JAFZA Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "JAFZA uzmanlarımızla ücretsiz görüşme yapın.",
+      "whatsappMessage": "Merhaba! JAFZA Serbest Bölgesi hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "JAFZA nedir ve şirket kurulumu için onu mükemmel kılan özellikler nelerdir?",
+        "a": "JAFZA (Jebel Ali Serbest Bölgesi), Jebel Ali Limanı ve Al Maktoum Uluslararası Havalimanı'nın yanında yer alan, BAE'nin en büyük serbest bölgelerinden biridir. %100 yabancı mülkiyeti, %0 vergi ve lojistik, üretim ve ticaret için dünya standartlarında altyapıya sahiptir."
+      },
+      {
+        "q": "JAFZA'da şirket kurmanın avantajları nelerdir?",
+        "a": "%100 yabancı mülkiyet, %0 kişisel ve kurumlar vergisi, dünyanın en büyük limanının yanında stratejik konum, dünya standartlarında altyapı ve ekosistemde 8.000'den fazla işletme."
+      },
+      {
+        "q": "JAFZA şirketleri için ne tür lisanslar mevcuttur?",
+        "a": "Ticaret, Hizmet, Sanayi, E-ticaret, İnovasyon ve Lojistik lisansları; her biri farklı iş faaliyetlerine göre uyarlanmıştır."
+      },
+      {
+        "q": "JAFZA'da şirket kurmak ne kadar sürer?",
+        "a": "Gerekli belgelerle birlikte genellikle 2-3 iş günü sürer. Ekibimiz tüm işlemleri sizin adınıza halleder."
+      },
+      {
+        "q": "JAFZA şirketine bağlı bir banka hesabı açabilir miyim?",
+        "a": "Evet. İşletme profilinize göre, BAE'nin önde gelen bankalarında kurumsal banka hesabı açmanıza yardımcı oluyoruz."
+      },
+      {
+        "q": "JAFZA lisansı ile hangi faaliyetler gerçekleştirilebilir?",
+        "a": "Genel ticaret, sanayi/imalat, lojistik ve nakliye, danışmanlık ve e-ticaret — ayrıca daha birçok uzmanlaşmış faaliyet."
+      },
+      {
+        "q": "JAFZA şirketimi kurmak için fiziksel bir mekana ihtiyacım var mı?",
+        "a": "Evet, JAFZA'nın fiziksel bir ofise, esnek çalışma alanına veya depoya ihtiyacı var. Bütçenize ve ihtiyaçlarınıza göre doğru seçeneği belirlemenize yardımcı oluyoruz."
+      },
+      {
+        "q": "JAFZA Offshore nedir ve diğerlerinden farkı nedir?",
+        "a": "JAFZA Offshore, hisse senedi tutmak, mülk sahibi olmak, küresel ticaret, varlık koruma ve fikri mülkiyet yönetimi için mükemmel bir çözümdür; fiziksel ofis veya vize gerekmez."
+      },
+      {
+        "q": "JAFZA kurulumunun maliyeti ne kadar?",
+        "a": "Ticaret ruhsatı 12.000 AED'den başlıyor + ofis giderleri 8.000-25.000 AED + vize 4.500-6.500 AED. 1. yıl toplam: yaklaşık 27.000 - 55.000 AED."
+      },
+      {
+        "q": "İşletmemi kapatmak istersem tasfiye konusunda yardımcı olabilir misiniz?",
+        "a": "Evet. Vize iptali, borçların ödenmesi, lisansların devre dışı bırakılması, varlıkların devredilmesi ve gerekli izinlerin alınması dahil olmak üzere tüm tasfiye sürecini biz yürütüyoruz."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "Serbest Bölge kurulumunuzla iyi uyum sağlayan hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "PRO Hizmetleri",
+        "description": "Emirates kimlik kartı, çalışma kartları, vize damgalama ve yenileme işlemleri.",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Uyumluluk Hizmetleri",
+        "description": "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bugün Başlayın",
+    "title": "JAFZA'da lansman yapmaya hazır mısınız?",
+    "titleHighlight": "JAFZA?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisans seçiminden banka hesabı açmaya kadar kurulum sürecinde size rehberlik edeceğiz.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "10.000'den fazla Müşteri",
+      "2-3 Gün Kurulum"
+    ],
+    "whatsappMessage": "Merhaba! JAFZA kurulumu için ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! JAFZA kurulumu hakkında konuşmak istiyorum."
+  }
+}

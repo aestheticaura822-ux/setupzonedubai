@@ -1,0 +1,413 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600\u0026q=80",
+    "heroBadge":  "Akıllıca Başlayın. Hızlı Büyüyün.",
+    "heroTitle":  "Dubai Silikon Vahası Serbest Bölgesi",
+    "heroTitleHighlight":  "Serbest Bölge",
+    "heroSubtitle":  "Geleceğinizi Dubai\u0027nin akıllı teknoloji merkezinde inşa edin. Girişimciler, yenilikçiler ve geleceğin işletmeleri için özel olarak tasarlanmış akıllı şehir "” yapay zeka, robotik, e-ticaret ve yazılım.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "Sıfır Vergi",
+                      "3-5 Gün Kurulum"
+                  ],
+    "heroCircles":  {
+                        "primary":  {
+                                        "icon":  "İşlemci",
+                                        "value":  "Teknoloji",
+                                        "label":  "Akıllı Şehir Merkezi",
+                                        "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                    },
+                        "secondary":  {
+                                          "icon":  "Roket",
+                                          "value":  "5.000+",
+                                          "label":  "İşletmeler",
+                                          "color":  "from-violet-400 to-purple-600"
+                                      }
+                    },
+    "stats":  [
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-5",
+                      "label":  "Kurulum Günleri",
+                      "color":  "indigo-400\u0027den-mor-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Gelir vergisi",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "5000+",
+                      "label":  "Şirketler",
+                      "color":  "from-amber-400 to-orange-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Dubai Teknoloji Merkezi",
+                          "title":  "Dubai Silikon Vahası Serbest Bölgesi\u0027ni Neden Seçmelisiniz?",
+                          "titleHighlight":  "Serbest Bölge mi?",
+                          "image":  "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Bulunduğu yer",
+                          "imageBadgeText":  "Dubai Silikon Vahası",
+                          "paragraphs":  [
+                                             "Dubai Silikon Vahası Serbest Bölgesi (DSO), girişimciler, teknoloji şirketleri ve ileri teknoloji üreticileri için oluşturulmuş, ödüllü bir inovasyon bölgesidir.",
+                                             "Dubai\u0027nin en gözde lokasyonunu akıllı şehir yaşamıyla birleştiren DSO, işletme sahiplerine yenilik yapmaları, etkileşimde bulunmaları ve büyümeleri için benzersiz bir platform sunuyor. Yeteneklere erişim, sağlam yasal çerçeveler, gelişmiş akıllı altyapı ve daha dostane düzenlemeler, DSO\u0027yu işletmelerin kendilerini geleceğe hazırlamalarını sağlayan bir platform haline getiriyor."
+                                         ],
+                          "highlights":  [
+                                             "Ödüllü Bölge",
+                                             "Akıllı Şehir Yaşamı",
+                                             "Gelişmiş Altyapı",
+                                             "Küresel Pazar Erişimi"
+                                         ]
+                      },
+    "bentoSection":  {
+                         "badge":  "Neden DSO?",
+                         "title":  "Teknoloji İnovasyonuna Açılan Kapınız",
+                         "titleHighlight":  "Teknoloji İnovasyonu",
+                         "largeCards":  [
+                                            {
+                                                "icon":  "İşlemci",
+                                                "title":  "Akıllı Teknoloji Merkezi",
+                                                "description":  "Dubai\u0027nin yapay zeka, yazılım, robotik ve geleceğin endüstrileri için önde gelen inovasyon bölgesi.",
+                                                "color":  "indigo-500\u0027den mor-600 üzerinden indigo-700\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Sunucu",
+                                                "title":  "Gelişmiş Altyapı",
+                                                "description":  "Veri merkezleri, inovasyon laboratuvarları, lojistik merkezleri ve güvenli çalışma alanlarının hepsi tek bir ekosistemde.",
+                                                "color":  "siyan-500\u0027den turkuaz-600 üzerinden siyan-700\u0027e"
+                                            }
+                                        ],
+                         "smallCards":  [
+                                            {
+                                                "icon":  "Mezuniyet Şapkası",
+                                                "title":  "Yetenek Erişimi",
+                                                "description":  "Nitelikli iş gücü için önde gelen üniversitelere ve inovasyon merkezlerine yakın konumda.",
+                                                "color":  "from-violet-400 to-purple-600"
+                                            },
+                                            {
+                                                "icon":  "Zap",
+                                                "title":  "Hızlı Kurulum",
+                                                "description":  "3-5 gün içinde lisans işlemleri tamamlanıyor "” teknolojiye erişimin yasak olduğu bölgeler arasında en hızlısı.",
+                                                "color":  "from-amber-400 to-orange-600"
+                                            }
+                                        ]
+                     },
+    "smartCitySection":  {
+                             "badge":  "Akıllı Şehir Özellikleri",
+                             "title":  "Tek Bir Akıllı Şehirde Her Şey",
+                             "titleHighlight":  "Tek Akıllı Şehir",
+                             "subtitle":  "İş hayatı, özel hayat ve inovasyon; hepsi birbiriyle bütünleşmiş durumda.",
+                             "items":  [
+                                           {
+                                               "icon":  "Bina 2",
+                                               "title":  "Ofis Altyapısı",
+                                               "description":  "Ortak çalışma alanları, yönetici ofisleri, inovasyon laboratuvarları, lojistik merkezleri ve güvenli veri merkezleri."
+                                           },
+                                           {
+                                               "icon":  "Ev2",
+                                               "title":  "Topluluk ve Yaşam Kalitesi",
+                                               "description":  "Akıllı villalar, uluslararası okullar, spor salonları, mağazalar ve ekolojik parklar, dengeli bir yaşam tarzı için ideal."
+                                           },
+                                           {
+                                               "icon":  "Katmanlar",
+                                               "title":  "Her Şeyi Kapsayan Destek",
+                                               "description":  "Web sitesi, e-ticaret, CRM, marka oluşturma, bankacılık, KDV, muhasebe - hepsi şirket içinde."
+                                           },
+                                           {
+                                               "icon":  "Harita İşareti",
+                                               "title":  "Stratejik Konum",
+                                               "description":  "DXB Havalimanı\u0027na sadece 20 dakika mesafede ve ana otoyollara doğrudan erişim imkanı sunmaktadır."
+                                           },
+                                           {
+                                               "icon":  "Uçak",
+                                               "title":  "Vize ve Göçmenlik",
+                                               "description":  "Uçtan uca vize yaşam döngüsü "” yatırımcı, çalışan ve bakmakla yükümlü olunan kişi vizeleri."
+                                           }
+                                       ]
+                         },
+    "setupStepsSection":  {
+                              "badge":  "Kurulum Süreci",
+                              "title":  "Akıllı Şehirde Akıllı Kurulum",
+                              "titleHighlight":  "Akıllı Şehir",
+                              "subtitle":  "Faaliyet seçiminden banka hesabı açmaya kadar 6 adımlı, sadeleştirilmiş bir süreç.",
+                              "steps":  [
+                                            {
+                                                "step":  "01",
+                                                "title":  "İş Faaliyetini Seçin",
+                                                "description":  "DSO\u0027nun onayladığı yazılım, yapay zeka ve e-ticaret gibi teknoloji ve inovasyon faaliyetlerinden birini seçin.",
+                                                "icon":  "Hedef",
+                                                "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                            },
+                                            {
+                                                "step":  "02",
+                                                "title":  "Yasal Yapıyı Seçin",
+                                                "description":  "Tek hissedarlı şirketler için FZE, birden fazla hissedarlı şirketler için FZCO veya mevcut şirketler için Şube Ofisi.",
+                                                "icon":  "Bina 2",
+                                                "color":  "from-violet-400 to-purple-600"
+                                            },
+                                            {
+                                                "step":  "03",
+                                                "title":  "Rezerv Ticari Adı",
+                                                "description":  "Şirket adınızı, DSO adlandırma yönergelerine uygun olarak onay için gönderin.",
+                                                "icon":  "DosyaMetni",
+                                                "color":  "from-amber-400 to-orange-600"
+                                            },
+                                            {
+                                                "step":  "04",
+                                                "title":  "Belgeleri Gönder",
+                                                "description":  "Pasaport fotokopileri, fotoğraflar, başvuru formu ve gerekli diğer belgeler.",
+                                                "icon":  "Dosya Kontrolü",
+                                                "color":  "from-emerald-400 to-teal-600"
+                                            },
+                                            {
+                                                "step":  "05",
+                                                "title":  "Lisans Verildi",
+                                                "description":  "Ticaret, Hizmet, Sanayi veya E-ticaret lisansınızı birkaç gün içinde alın.",
+                                                "icon":  "Rozet Kontrolü",
+                                                "color":  "siyan-400\u0027den turkuaz-600\u0027e"
+                                            },
+                                            {
+                                                "step":  "06",
+                                                "title":  "Visa ve Banka Hesabı",
+                                                "description":  "İşletmenizi kurmak için oturum vizesi başvurusunda bulunun ve kurumsal bir banka hesabı açın.",
+                                                "icon":  "Önemli bir dönüm noktası",
+                                                "color":  "pembe-400\u0027den gül-600\u0027e"
+                                            }
+                                        ]
+                          },
+    "licensesSection":  {
+                            "badge":  "Lisans Türleri",
+                            "title":  "DSO İşletme Lisansları",
+                            "titleHighlight":  "Lisanslar",
+                            "items":  [
+                                          {
+                                              "icon":  "Mağaza",
+                                              "title":  "Ticaret Lisansı",
+                                              "description":  "Malların alım satımı için.",
+                                              "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Evrak çantası",
+                                              "title":  "Hizmet Lisansı",
+                                              "description":  "Danışmanlık, yazılım ve medya sektörleri için.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Fabrika",
+                                              "title":  "Sanayi Lisansı",
+                                              "description":  "Üretim ve sanayi faaliyetleri için.",
+                                              "color":  "from-amber-400 to-orange-600"
+                                          },
+                                          {
+                                              "icon":  "Alışveriş Sepeti",
+                                              "title":  "E-ticaret Lisansı",
+                                              "description":  "Dijital ve çevrimiçi mağazalar için.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          }
+                                      ]
+                        },
+    "activitiesSection":  {
+                              "badge":  "İş Faaliyetleri",
+                              "title":  "Fikirlerin Hayata Geçtiği Yer",
+                              "titleHighlight":  "Çıkarmak",
+                              "subtitle":  "DSO, çok çeşitli ileri teknoloji sektörlerini desteklemektedir. Eğer teknoloji sektöründeyseniz, DSO rakiplerinizin, ortaklarınızın ve müşterilerinizin zaten bulunduğu yerdir.",
+                              "items":  [
+                                            {
+                                                "icon":  "Kod",
+                                                "label":  "Yazılım ve Uygulama Geliştirme"
+                                            },
+                                            {
+                                                "icon":  "Bot",
+                                                "label":  "Yapay Zeka ve Makine Öğrenimi"
+                                            },
+                                            {
+                                                "icon":  "İşlemci",
+                                                "label":  "Robotik ve Otomasyon"
+                                            },
+                                            {
+                                                "icon":  "Wifi",
+                                                "label":  "Nesnelerin İnterneti ve Akıllı Cihazlar"
+                                            },
+                                            {
+                                                "icon":  "Kalkan Kontrolü",
+                                                "label":  "Siber güvenlik"
+                                            },
+                                            {
+                                                "icon":  "Katmanlar",
+                                                "label":  "Blok zinciri"
+                                            },
+                                            {
+                                                "icon":  "Sunucu",
+                                                "label":  "Veri Merkezleri"
+                                            },
+                                            {
+                                                "icon":  "İşlemci",
+                                                "label":  "Elektronik Montajı"
+                                            },
+                                            {
+                                                "icon":  "Alışveriş Sepeti",
+                                                "label":  "E-ticaret"
+                                            },
+                                            {
+                                                "icon":  "Kamyon",
+                                                "label":  "Lojistik Platformları"
+                                            },
+                                            {
+                                                "icon":  "Trend Yükseliyor",
+                                                "label":  "Fintech"
+                                            },
+                                            {
+                                                "icon":  "Kalp",
+                                                "label":  "Biyoteknoloji"
+                                            }
+                                        ],
+                              "helperCard":  {
+                                                 "title":  "Seçim konusunda yardıma mı ihtiyacınız var?",
+                                                 "text":  "İşletme faaliyetlerinizi tanımlamanıza ve DSO\u0027nun onaylı izin verilen kategorilerine uygun olduğundan emin olmanıza yardımcı olurken, gelecekteki büyüme için de esnek kalmanızı sağlıyoruz."
+                                             }
+                          },
+    "whoShouldSection":  {
+                             "badge":  "Kimler İçin",
+                             "title":  "DSO\u0027da Kimler Kuruluş Yapmalıdır?",
+                             "titleHighlight":  "DSO?",
+                             "subtitle":  "Bu sektörler ve işletme türleri için mükemmel.",
+                             "items":  [
+                                           {
+                                               "icon":  "İşlemci",
+                                               "title":  "Yapay Zeka ve Robotik",
+                                               "description":  "Yapay zeka ve robotik şirketleri.",
+                                               "image":  "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800\u0026q=80",
+                                               "color":  "indigo-400\u0027den-mor-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Kod",
+                                               "title":  "Yazılım ve Uygulamalar",
+                                               "description":  "Yazılım, uygulama ve platform geliştiricileri.",
+                                               "image":  "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800\u0026q=80",
+                                               "color":  "from-violet-400 to-purple-600"
+                                           },
+                                           {
+                                               "icon":  "Kalkan Kontrolü",
+                                               "title":  "Siber güvenlik",
+                                               "description":  "Siber güvenlik ve blok zinciri şirketleri.",
+                                               "image":  "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800\u0026q=80",
+                                               "color":  "siyan-400\u0027den turkuaz-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Alışveriş Sepeti",
+                                               "title":  "E-ticaret",
+                                               "description":  "Çevrimiçi işletmeler ve dijital platformlar.",
+                                               "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800\u0026q=80",
+                                               "color":  "from-emerald-400 to-teal-600"
+                                           },
+                                           {
+                                               "icon":  "Fabrika",
+                                               "title":  "Gelişmiş Üretim",
+                                               "description":  "Elektronik montajı ve çip tasarımı.",
+                                               "image":  "https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800\u0026q=80",
+                                               "color":  "from-amber-400 to-orange-600"
+                                           },
+                                           {
+                                               "icon":  "Kamyon",
+                                               "title":  "Lojistik Teknolojisi",
+                                               "description":  "Tedarik zinciri ve lojistik platformları.",
+                                               "image":  "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800\u0026q=80",
+                                               "color":  "pembe-400\u0027den gül-600\u0027e"
+                                           }
+                                       ]
+                         },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Dubai Silikon Vahası Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "DSO uzmanlarımızla ücretsiz görüşme yapın.",
+                                            "whatsappMessage":  "Merhaba! Dubai Silikon Vahası Serbest Bölgesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Dubai Silikon Vahası Serbest Bölgesi nedir ve kimler burada yatırım yapmalı?",
+                                          "a":  "DSO, teknoloji odaklı işletmeler, girişimler ve ileri üretim için tasarlanmış, devlet destekli bir inovasyon parkı ve serbest bölgedir. Yapay zeka, yazılım, robotik, e-ticaret, fintech ve IoT şirketleri için idealdir."
+                                      },
+                                      {
+                                          "q":  "DSO\u0027da hangi lisanslar mevcuttur?",
+                                          "a":  "Ticaret Lisansı (mal alım satımı), Hizmet Lisansı (danışmanlık, yazılım, medya), Sanayi Lisansı (imalat) ve E-ticaret Lisansı (çevrimiçi mağazalar)."
+                                      },
+                                      {
+                                          "q":  "Serbest çalışan bir kişi DSO\u0027da şirket kaydı yaptırabilir mi?",
+                                          "a":  "Evet. DSO, serbest çalışanlar için izin belgeleri ve bireysel profesyoneller için uygun fiyatlı paketler sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "Bir DSO şirketinin kurulması için gereken süre ne kadardır?",
+                                          "a":  "Belge ve lisans türüne bağlı olarak genellikle 3-5 iş günü sürer."
+                                      },
+                                      {
+                                          "q":  "Hangi belgelere ihtiyacım var?",
+                                          "a":  "Pasaport fotokopileri, dijital fotoğraflar, başvuru formu, iş planı (bazı faaliyetler için) ve gerekirse izin belgesi."
+                                      },
+                                      {
+                                          "q":  "DSO şirketim adına vize başvurusunda bulunabilir miyim?",
+                                          "a":  "Evet. DSO, ofis türüne ve büyüklüğüne bağlı olarak vize kotaları belirlemektedir: yatırımcı, çalışan ve bakmakla yükümlü olunan kişiler için vizeler."
+                                      },
+                                      {
+                                          "q":  "Ne tür ofisler mevcuttur?",
+                                          "a":  "Ortak çalışma alanları, yönetici ofisleri, özel ofisler, inovasyon laboratuvarları, lojistik merkezleri ve veri merkezleri."
+                                      },
+                                      {
+                                          "q":  "Kurulum maliyetleri nelerdir?",
+                                          "a":  "Aktiviteye, yapıya ve pakete bağlı olarak yaklaşık 15.500 AED\u0027den başlayan fiyatlarla. Özel fiyat teklifi için bizimle iletişime geçin."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Serbest Bölge kurulumunuzla iyi uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "web-development",
+                                                     "title":  "Web Geliştirme",
+                                                     "description":  "Teknoloji şirketleri için modern web siteleri.",
+                                                     "image":  "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800\u0026q=80",
+                                                     "gradient":  "from-violet-400 to-purple-600"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Altın Vize",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "Dubai Silicon Oasis\u0027te Lansmana Hazır mısınız?",
+                     "titleHighlight":  "Dubai Silikon Vahası mı?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Faaliyet seçiminden lisans verilmesine ve banka hesabı açılmasına kadar kurulum sürecinde size rehberlik edeceğiz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "5000\u0027den fazla Müşteri",
+                                   "3-5 Gün Kurulum"
+                               ],
+                     "whatsappMessage":  "Merhaba! Dubai Silicon Oasis Serbest Bölgesi kurulumu hakkında ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Dubai Silicon Oasis kurulumu hakkında görüşmek istiyorum."
+                 }
+}

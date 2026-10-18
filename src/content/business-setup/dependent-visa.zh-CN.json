@@ -1,0 +1,504 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&q=80",
+  "heroBadge": "让家人团聚",
+  "heroTitle": "阿联酋家属居留签证",
+  "heroTitleHighlight": "居留签证",
+  "heroSubtitle": "担保您的配偶、子女、父母和家政人员与您一同在阿联酋生活。提供完整的家庭担保，享有全部居留福利。",
+  "heroChips": [
+    "4 种依赖类型",
+    "有效期2-3年",
+    "家庭团聚",
+    "全部福利"
+  ],
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "4",
+      "label": "依赖类型",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "有效期年限",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "快速地",
+      "label": "加工",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "合规",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "它是什么？",
+    "title": "什么是阿联酋家属签证？",
+    "titleHighlight": "阿联酋家属签证？",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+    "imageBadgeTitle": "家庭团聚",
+    "imageBadgeText": "完全住院医师",
+    "paragraphs": [
+      "阿联酋家属居留签证允许阿联酋居留签证持有者担保其家庭成员（配偶、子女、父母和家政工人）与他们一起在阿联酋生活。",
+      "如果您持有工作签证或投资签证，且月薪至少为 4,000 迪拉姆，您可以担保您的配偶和子女以您的居留身份移民。对于父母，则需要 20,000 迪拉姆以上的收入，并需提供其他文件。",
+      "家属签证持有者享有完整的居留权——包括工作许可、银行服务、医疗保健、教育以及阿联酋身份证。在迪拜Setup Zone，我们负责办理全套家庭担保手续，从文件准备到签证盖章，一应俱全。"
+    ],
+    "highlights": [
+      "家庭团聚",
+      "符合工作许可资格",
+      "银行服务",
+      "医疗保健服务",
+      "教育机会",
+      "阿联酋身份证"
+    ]
+  },
+  "dependentTypesSection": {
+    "badge": "你可以赞助哪些人？",
+    "title": "家属签证类型",
+    "titleHighlight": "家属签证",
+    "subtitle": "滑动浏览 4 个相关类别——带您的亲人来阿联酋。",
+    "items": [
+      {
+        "id": "spouse",
+        "icon": "Heart",
+        "title": "配偶签证",
+        "tagline": "丈夫或妻子",
+        "description": "担保您的配偶与您一同在阿联酋生活。您将享有完整的居留权，包括工作许可资格、银行服务和医疗保健。",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "丈夫/妻子",
+          "符合工作许可资格",
+          "银行服务",
+          "医疗保健服务"
+        ],
+        "bestFor": "已婚夫妇"
+      },
+      {
+        "id": "children",
+        "icon": "Baby",
+        "title": "儿童签证",
+        "tagline": "儿子和女儿",
+        "description": "资助您25岁以下的儿子（学生）和任何年龄的女儿（未婚）。享受阿联酋全面的教育、医疗和生活方式。",
+        "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "儿子最多 25 岁",
+          "女儿，任何年龄",
+          "学校入学",
+          "卫生保健"
+        ],
+        "bestFor": "父母"
+      },
+      {
+        "id": "parents",
+        "icon": "UsersRound",
+        "title": "父母签证",
+        "tagline": "父亲和母亲",
+        "description": "担保您的父母（60岁以上）与您在阿联酋共同生活。需提供最低工资、住房和医疗保险。",
+        "image": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "60岁以上的父母",
+          "健康保险",
+          "充足的住房",
+          "完全住院医师"
+        ],
+        "bestFor": "成年子女"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "家政工人签证",
+        "tagline": "家政人员",
+        "description": "为家庭佣工提供担保，例如女佣、厨师、司机、保姆和园丁。完全符合阿联酋劳动法。",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "女佣",
+          "厨师和司机",
+          "保姆和园丁",
+          "符合劳动法"
+        ],
+        "bestFor": "家庭"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "家庭福利",
+    "title": "家属签证的好处",
+    "titleHighlight": "家属签证",
+    "subtitle": "在阿联酋，您的家人可享受八大优势。",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "家庭团聚",
+        "description": "在阿联酋与你的爱人一起生活——告别异地恋。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "教育机会",
+        "description": "孩子们可以就读阿联酋顶尖的学校、大学和国际课程项目。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "医疗保健服务",
+        "description": "可全面享受阿联酋世界一流的医疗保健设施和医疗保险。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "银行服务",
+        "description": "家属可以开设阿联酋银行账户并享受金融服务。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "免签旅行",
+        "description": "家属持多次入境签证可轻松往返阿联酋。",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "符合工作许可资格",
+        "description": "配偶可以凭借家属签证申请工作许可。",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "IdCard",
+        "title": "阿联酋身份证",
+        "description": "家属可获得自己的阿联酋身份证，享受阿联酋的全部服务。",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Car",
+        "title": "驾照",
+        "description": "家属可以获得阿联酋驾驶执照并拥有车辆。",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "赞助要求",
+    "title": "你需要赞助什么",
+    "titleHighlight": "需要赞助",
+    "subtitle": "担保家庭团聚的四个关键要求。",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "最低薪资要求",
+        "description": "担保人配偶和子女的月收入必须至少为 4,000 迪拉姆（或 3,000 迪拉姆 + 住宿费）。父母的月收入应至少为 20,000 迪拉姆。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Home",
+        "title": "充足的住房",
+        "description": "担保人必须提供适合家庭居住的充足住房（Ejari 或租赁合同）。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "健康保险",
+        "description": "作为签证申请的一部分，所有受抚养人均需提供有效的阿联酋健康保险。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "经认证的文件",
+        "description": "结婚证和出生证必须经阿联酋大使馆和外交部认证。",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "六步流程",
+    "title": "如何获得家属签证",
+    "titleHighlight": "家属签证",
+    "subtitle": "六个简单步骤，带您的家人来阿联酋。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "资格检查",
+        "description": "我们会确认您的资格——担保人身份、最低工资、住房和保险。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "文献集",
+        "description": "经公证的结婚证、出生证、护照复印件和照片。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "申请提交",
+        "description": "我们通过我们的优先网络向ICA或GDRFA提交申请。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "审批及入境许可",
+        "description": "已批准您的家属入境阿联酋并签发入境许可。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stethoscope",
+        "title": "医疗及阿联酋身份证",
+        "description": "家属需完成阿联酋身份证的体检和生物识别信息采集。",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "06",
+        "icon": "Stamp",
+        "title": "签证盖章",
+        "description": "护照上盖有最终居留签证章——您的家人现在正式成为阿联酋公民。",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "你需要准备什么",
+    "title": "所需文件",
+    "titleHighlight": "文件",
+    "subtitle": "我们会代表您处理所有文书工作和审批事宜。",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "赞助商阿联酋身份证",
+        "desc": "正面和背面"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "经认证的结婚证书",
+        "desc": "配偶签证"
+      },
+      {
+        "icon": "Baby",
+        "label": "经认证的出生证明",
+        "desc": "儿童签证"
+      },
+      {
+        "icon": "Camera",
+        "label": "护照照片",
+        "desc": "白色背景"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "工资证明",
+        "desc": "来自雇主"
+      },
+      {
+        "icon": "Home",
+        "label": "Ejari / 租赁合同",
+        "desc": "住房证明"
+      },
+      {
+        "icon": "Stethoscope",
+        "label": "健康保险",
+        "desc": "对于受抚养人"
+      },
+      {
+        "icon": "FileText",
+        "label": "健康证明",
+        "desc": "住院医师"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "您值得信赖的家庭签证合作伙伴",
+    "titleHighlight": "家庭签证伴侣",
+    "subtitle": "家庭信任我们的八个理由。",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "直接权限访问",
+        "desc": "优先ICA和GDRFA网络"
+      },
+      {
+        "icon": "Zap",
+        "label": "快速处理",
+        "desc": "快速审批"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "专职专家",
+        "desc": "个人家庭签证专家"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "透明定价",
+        "desc": "无任何隐藏费用"
+      },
+      {
+        "icon": "Globe",
+        "label": "多语言团队",
+        "desc": "英语、阿拉伯语、印地语、乌尔都语"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "续约支持",
+        "desc": "持续的签证管理"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "家庭融合",
+        "desc": "全家人的支持"
+      },
+      {
+        "icon": "Award",
+        "label": "过往业绩卓著",
+        "desc": "数千项批准"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千个家庭信赖",
+    "titleHighlight": "数千个家庭",
+    "subtitle": "您家人的居留权，交给专家处理。",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "5000+",
+        "label": "家庭签证",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "180+",
+        "label": "国籍",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "家庭专家",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "快速地",
+        "label": "加工",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "合规",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "家庭伴侣",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于阿联酋家属签证，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的家庭签证专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于阿联酋家属签证的问题。"
+    },
+    "items": [
+      {
+        "q": "谁可以担保家属在阿联酋的生活？",
+        "a": "任何持有有效工作签证或投资签证的阿联酋居留签证持有者均可担保家属。所需条件包括最低月薪（4000迪拉姆以上或3000迪拉姆以上并包含住宿）、合适的住房和医疗保险。"
+      },
+      {
+        "q": "担保家属所需的最低工资是多少？",
+        "a": "配偶和子女：每月 4,000 迪拉姆（或 3,000 迪拉姆 + 住宿）。父母：通常每月年薪 20,000 迪拉姆，含住宿和保险。"
+      },
+      {
+        "q": "我的配偶可以持家属签证在阿联酋工作吗？",
+        "a": "是的。您的配偶在获得家属签证后可以申请工作许可。许多雇主都愿意为此提供担保。"
+      },
+      {
+        "q": "家属签证有效期有多长？",
+        "a": "家属签证的有效期通常为2-3年，与担保人的签证有效期相同。家属签证必须与担保人的签证一起续签。"
+      },
+      {
+        "q": "我可以担保我的父母在阿联酋工作吗？",
+        "a": "是的。如果您满足最低工资要求（每月 20,000 迪拉姆以上），提供合适的住房和有效的医疗保险，您可以担保您的父母（60 岁以上）。"
+      },
+      {
+        "q": "哪些文件需要认证？",
+        "a": "结婚证（配偶）、出生证（子女）和学历证书必须由您所在国家的阿联酋大使馆和阿联酋外交部进行认证。"
+      },
+      {
+        "q": "我可以担保我的家政工人吗？",
+        "a": "是的。您可以担保包括女佣、厨师、司机、保姆和园丁在内的家庭佣工，申请家庭佣工签证。"
+      },
+      {
+        "q": "家属签证办理流程需要多长时间？",
+        "a": "通常需要 2-4 周，具体取决于文件准备情况和处理时间。我们通过政府优先网络加快处理速度。"
+      },
+      {
+        "q": "儿童可以持家属签证在阿联酋留学吗？",
+        "a": "是的。持有家属签证的子女可以就读阿联酋的学校和大学。他们需要提供阿联酋身份证和学校指定的入学文件。"
+      },
+      {
+        "q": "为什么选择Setup Zone Dubai办理家属签证服务？",
+        "a": "我们提供全程支持服务，包括资格评估、文件准备、申请提交、体检、阿联酋身份证办理和签证盖章。凭借良好的过往记录和直接的审批权限，我们确保快速合规地完成所有流程。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的家属签证完美搭配的服务。",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "阿联酋居留签证",
+        "description": "住院医师培训期限为2-10年。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa-services",
+        "title": "黄金签证服务",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸。",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "让家人团聚",
+    "title": "准备好在阿联酋担保您的家人吗？",
+    "titleHighlight": "在阿联酋有家人吗？",
+    "subtitle": "立即联系我们，让我们的专家指导您完成整个家庭担保流程——从文件准备到签证盖章。",
+    "chips": [
+      "免费咨询",
+      "快速处理",
+      "全力支持"
+    ],
+    "whatsappMessage": "您好！我想咨询一下阿联酋家属签证的相关事宜，可以免费咨询一下。",
+    "whatsappCardMessage": "您好！我想咨询一下阿联酋家属签证的相关事宜。"
+  }
+}

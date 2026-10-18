@@ -1,0 +1,504 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&q=80",
+  "heroBadge": "Bring deine Familie zusammen",
+  "heroTitle": "Aufenthaltsvisum für Angehörige in den VAE",
+  "heroTitleHighlight": "Aufenthaltsvisum",
+  "heroSubtitle": "Lassen Sie Ihren Ehepartner, Ihre Kinder, Ihre Eltern und Ihr Hauspersonal in den VAE leben. Profitieren Sie von einer umfassenden Familiensponsorship mit vollen Aufenthaltsrechten.",
+  "heroChips": [
+    "4 abhängige Typen",
+    "2-3 Jahre gültig",
+    "Familie zusammen",
+    "Volle Leistungen"
+  ],
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "4",
+      "label": "Abhängige Typen",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Gültigkeitsdauer",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "Schnell",
+      "label": "Verarbeitung",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "100%",
+      "label": "Konform",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Was ist das?",
+    "title": "Was ist ein Angehörigenvisum für die VAE?",
+    "titleHighlight": "Visum für Angehörige der VAE?",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+    "imageBadgeTitle": "Familie zusammen",
+    "imageBadgeText": "Vollständiger Wohnsitz",
+    "paragraphs": [
+      "Mit einem UAE Dependent Residence Visa können Inhaber eines UAE Residence Visa ihre Familienangehörigen – Ehepartner, Kinder, Eltern und Hausangestellte – in den VAE einladen, mit ihnen zu leben.",
+      "Mit einem Arbeits- oder Investorenvisum und einem Mindestgehalt von 4.000 AED können Sie Ihren Ehepartner und Ihre Kinder im Rahmen Ihrer Aufenthaltsgenehmigung sponsern. Für Eltern beträgt die Voraussetzung mindestens 20.000 AED und es sind zusätzliche Dokumente erforderlich.",
+      "Inhaber eines Visums für Angehörige genießen volle Aufenthaltsrechte – Arbeitserlaubnis, Bankdienstleistungen, Gesundheitsversorgung, Bildungseinrichtungen und Emirates ID. Setup Zone Dubai übernimmt den gesamten Prozess der Familienzusammenführung von der Dokumentation bis zur Visumserteilung."
+    ],
+    "highlights": [
+      "Familienzusammenhalt",
+      "Arbeitserlaubnisberechtigt",
+      "Bankzugang",
+      "Zugang zur Gesundheitsversorgung",
+      "Zugang zu Bildung",
+      "Emirates ID"
+    ]
+  },
+  "dependentTypesSection": {
+    "badge": "Wen können Sie sponsern?",
+    "title": "Arten von Visa für Angehörige",
+    "titleHighlight": "Visa für Angehörige",
+    "subtitle": "Wischen Sie durch 4 abhängige Kategorien – bringen Sie Ihre Lieben in die VAE.",
+    "items": [
+      {
+        "id": "spouse",
+        "icon": "Heart",
+        "title": "Ehegattenvisum",
+        "tagline": "Ehemann oder Ehefrau",
+        "description": "Lassen Sie Ihren Ehepartner in den VAE leben. Sie erhalten volle Aufenthaltsrechte, einschließlich Arbeitserlaubnis, Bankzugang und Gesundheitsversorgung.",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Ehemann/Ehefrau",
+          "Arbeitserlaubnisberechtigt",
+          "Bankzugang",
+          "Zugang zur Gesundheitsversorgung"
+        ],
+        "bestFor": "Ehepaare"
+      },
+      {
+        "id": "children",
+        "icon": "Baby",
+        "title": "Kindervisum",
+        "tagline": "Söhne und Töchter",
+        "description": "Sponsoren können Ihre Söhne bis 25 Jahre (Studenten) und Ihre Töchter jeden Alters (unverheiratet) unterstützen. Sie erhalten vollen Zugang zum Bildungs-, Gesundheits- und Lebensstil der VAE.",
+        "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "Söhne bis 25",
+          "Töchter jeden Alters",
+          "Schulzugang",
+          "Gesundheitspflege"
+        ],
+        "bestFor": "Eltern"
+      },
+      {
+        "id": "parents",
+        "icon": "UsersRound",
+        "title": "Elternvisum",
+        "tagline": "Vater und Mutter",
+        "description": "Ermöglichen Sie es Ihren Eltern (über 60 Jahre), bei Ihnen in den VAE zu leben. Voraussetzung sind ein Mindestgehalt, eine Unterkunft und eine Krankenversicherung.",
+        "image": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "Eltern über 60",
+          "Krankenversicherung",
+          "Angemessener Wohnraum",
+          "Vollständiger Wohnsitz"
+        ],
+        "bestFor": "Erwachsene Kinder"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "Visum für Hausangestellte",
+        "tagline": "Hausangestellte",
+        "description": "Wir sponsern Hausangestellte wie Haushaltshilfen, Köche, Fahrer, Kindermädchen und Gärtner. Wir halten uns vollständig an die Arbeitsgesetze der VAE.",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "Hausmädchen",
+          "Köche und Fahrer",
+          "Kindermädchen & Gärtner",
+          "Arbeitsrechtlich konform"
+        ],
+        "bestFor": "Familien"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Familienleistungen",
+    "title": "Vorteile des Visums für Angehörige",
+    "titleHighlight": "Visum für Angehörige",
+    "subtitle": "Acht überzeugende Vorteile für Ihre Familie in den VAE.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "Familienzusammenhalt",
+        "description": "Lebt mit euren Liebsten in den VAE zusammen – Schluss mit Fernbeziehungen.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Zugang zu Bildung",
+        "description": "Kinder können erstklassige Schulen, Universitäten und internationale Lehrpläne in den VAE besuchen.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Zugang zur Gesundheitsversorgung",
+        "description": "Voller Zugang zu erstklassigen Gesundheitseinrichtungen und Krankenversicherung in den VAE.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Bankzugang",
+        "description": "Angehörige können Bankkonten in den VAE eröffnen und Finanzdienstleistungen in Anspruch nehmen.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Visafreies Reisen",
+        "description": "Angehörige genießen dank Mehrfachvisa unkompliziertes Reisen in die und aus den VAE.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Arbeitserlaubnisberechtigt",
+        "description": "Ehepartner können zusammen mit ihrem Visum für Angehörige eine Arbeitserlaubnis beantragen.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "IdCard",
+        "title": "Emirates ID",
+        "description": "Angehörige erhalten eine eigene Emirates ID für den vollen Zugriff auf alle Dienstleistungen der VAE.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Car",
+        "title": "Führerschein",
+        "description": "Angehörige können einen Führerschein der VAE erwerben und Fahrzeuge besitzen.",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "Sponsoring-Anforderungen",
+    "title": "Was Sie für ein Sponsoring benötigen",
+    "titleHighlight": "Sponsoring erforderlich",
+    "subtitle": "Vier wichtige Voraussetzungen für die Familienzusammenführung.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Mindestgehaltsanforderung",
+        "description": "Der Sponsor muss ein monatliches Mindesteinkommen von 4.000 AED (oder 3.000 AED zuzüglich Unterkunft) für Ehepartner und Kinder erzielen. Für die Eltern sollte das Einkommen mindestens 20.000 AED betragen.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Angemessener Wohnraum",
+        "description": "Der Sponsor muss für eine angemessene Unterkunft (Ejari oder Mietvertrag) in der für die Familie geeigneten Größe sorgen.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Krankenversicherung",
+        "description": "Für alle Angehörigen ist im Rahmen des Visumantrags eine gültige Krankenversicherung in den VAE erforderlich.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Beglaubigte Dokumente",
+        "description": "Heiratsurkunde und Geburtsurkunde müssen von der Botschaft der Vereinigten Arabischen Emirate und dem Außenministerium beglaubigt werden.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "6-stufiger Prozess",
+    "title": "Wie Sie Ihr Visum für Angehörige erhalten",
+    "titleHighlight": "Visum für Angehörige",
+    "subtitle": "Sechs einfache Schritte, um Ihre Familie in die VAE zu bringen.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Berechtigungsprüfung",
+        "description": "Wir prüfen Ihre Anspruchsberechtigung – Sponsorenstatus, Mindestgehalt, Unterkunft und Versicherung.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "Dokumentensammlung",
+        "description": "Beglaubigte Heiratsurkunden, Geburtsurkunden, Passkopien und Fotos.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "Einreichung des Antrags",
+        "description": "Wir reichen den Antrag über unser Prioritätsnetzwerk bei der ICA oder der GDRFA ein.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Genehmigung und Einreiseerlaubnis",
+        "description": "Die Einreisegenehmigung für Ihre Angehörigen zur Einreise in die VAE wurde erteilt.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stethoscope",
+        "title": "Medizinischer Ausweis & Emirates ID",
+        "description": "Angehörige müssen medizinische Eignungstests und biometrische Daten für den Emirates-Ausweis absolvieren.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "06",
+        "icon": "Stamp",
+        "title": "Visumstempelung",
+        "description": "Der endgültige Aufenthaltstitel wurde in die Pässe gestempelt – Ihre Familie befindet sich nun offiziell in den VAE.",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Was Sie benötigen",
+    "title": "Erforderliche Dokumente",
+    "titleHighlight": "Unterlagen",
+    "subtitle": "Wir übernehmen für Sie den gesamten Papierkram und die Genehmigungen.",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "Sponsor Emirates ID",
+        "desc": "Vorder- und Rückseite"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "Beglaubigte Heiratsurkunde",
+        "desc": "Für Ehegattenvisum"
+      },
+      {
+        "icon": "Baby",
+        "label": "Beglaubigte Geburtsurkunden",
+        "desc": "Visum für Kinder"
+      },
+      {
+        "icon": "Camera",
+        "label": "Passfotos",
+        "desc": "Weißer Hintergrund"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Gehaltsbescheinigung",
+        "desc": "Vom Arbeitgeber"
+      },
+      {
+        "icon": "Home",
+        "label": "Ejari / Mietvertrag",
+        "desc": "Wohnungsnachweis"
+      },
+      {
+        "icon": "Stethoscope",
+        "label": "Krankenversicherung",
+        "desc": "Für Angehörige"
+      },
+      {
+        "icon": "FileText",
+        "label": "Ärztliches Attest",
+        "desc": "Für den Wohnsitz"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Ihr vertrauenswürdiger Partner für Familienvisa",
+    "titleHighlight": "Familienvisumpartner",
+    "subtitle": "Acht Gründe, warum Familien uns vertrauen.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Direkter Zugriff auf die Berechtigung",
+        "desc": "Prioritäres ICA- und GDRFA-Netzwerk"
+      },
+      {
+        "icon": "Zap",
+        "label": "Schnelle Bearbeitung",
+        "desc": "Beschleunigte Genehmigungen"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Engagierter Experte",
+        "desc": "Spezialist für persönliche Familienvisa"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Transparente Preise",
+        "desc": "Keine versteckten Gebühren"
+      },
+      {
+        "icon": "Globe",
+        "label": "Mehrsprachiges Team",
+        "desc": "Englisch, Arabisch, Hindi, Urdu"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Unterstützung bei der Erneuerung",
+        "desc": "Laufendes Visamanagement"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "Familienintegration",
+        "desc": "Vollständige familiäre Unterstützung"
+      },
+      {
+        "icon": "Award",
+        "label": "Nachgewiesene Erfolgsbilanz",
+        "desc": "Tausende von Genehmigungen"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Geschäftswachstumsaussichten",
+    "title": "Von Tausenden Familien geschätzt",
+    "titleHighlight": "Tausende von Familien",
+    "subtitle": "Der Wohnsitz Ihrer Familie – in Expertenhänden.",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "Mehr als 5.000",
+        "label": "Familienvisa",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "180+",
+        "label": "Nationalitäten",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Führend",
+        "label": "Familienexperte",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Schnell",
+        "label": "Verarbeitung",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Konform",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Bevorzugt",
+        "label": "Familienpartner",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über Visa für Angehörige in den VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "sidebarCard": {
+      "title": "Haben Sie noch Fragen?",
+      "text": "Lassen Sie sich kostenlos von unseren Spezialisten für Familienvisa beraten.",
+      "whatsappMessage": "Hallo! Ich habe eine Frage zum Visum für Angehörige in den VAE."
+    },
+    "items": [
+      {
+        "q": "Wer kann Angehörige in den VAE sponsern?",
+        "a": "Jeder Inhaber einer Aufenthaltsgenehmigung für die VAE mit einem gültigen Arbeits- oder Investorenvisum kann Angehörige nachholen. Zu den Voraussetzungen gehören ein Mindestgehalt (mindestens 4.000 AED oder 3.000 AED zuzüglich Unterkunft), eine angemessene Unterkunft und eine Krankenversicherung."
+      },
+      {
+        "q": "Welches Mindestgehalt ist erforderlich, um eine Familienzusammenführung zu ermöglichen?",
+        "a": "Für Ehepartner und Kinder: 4.000 AED monatlich (oder 3.000 AED + Unterkunft). Für Eltern: in der Regel 20.000 AED monatliches Gehalt inklusive Unterkunft und Versicherung."
+      },
+      {
+        "q": "Kann mein Ehepartner mit einem Angehörigenvisum in den VAE arbeiten?",
+        "a": "Ja. Ihr Ehepartner kann nach Erhalt des Visums für Angehörige eine Arbeitserlaubnis beantragen. Viele Arbeitgeber unterstützen diesen Wechsel."
+      },
+      {
+        "q": "Wie lange ist ein Visum für Angehörige gültig?",
+        "a": "Die Gültigkeitsdauer eines Visums für Angehörige beträgt in der Regel 2–3 Jahre und entspricht damit der Gültigkeitsdauer des Visums des Sponsors. Es muss zusammen mit dem Visum des Sponsors verlängert werden."
+      },
+      {
+        "q": "Kann ich meine Eltern in den VAE sponsern?",
+        "a": "Ja. Sie können Ihre Eltern (über 60 Jahre alt) sponsern, wenn Sie die Mindestgehaltsvoraussetzung (mindestens 20.000 AED pro Monat) erfüllen, eine angemessene Unterkunft und eine gültige Krankenversicherung bereitstellen."
+      },
+      {
+        "q": "Welche Dokumente müssen beglaubigt werden?",
+        "a": "Heiratsurkunde (für den Ehepartner), Geburtsurkunden (für die Kinder) und Bildungsnachweise müssen von der Botschaft der Vereinigten Arabischen Emirate in Ihrem Heimatland und dem Außenministerium der Vereinigten Arabischen Emirate beglaubigt werden."
+      },
+      {
+        "q": "Kann ich meine Hausangestellte sponsern?",
+        "a": "Ja. Sie können Hausangestellte wie Hausmädchen, Köche, Fahrer, Kindermädchen und Gärtner im Rahmen der Visakategorie für Hausangestellte sponsern."
+      },
+      {
+        "q": "Wie lange dauert das Visumverfahren für Angehörige?",
+        "a": "Die Bearbeitungszeit beträgt in der Regel 2–4 Wochen, abhängig von der Vollständigkeit der Dokumente und den üblichen Bearbeitungszeiten. Dank unseres priorisierten Regierungsnetzwerks beschleunigen wir den Prozess."
+      },
+      {
+        "q": "Können Kinder mit einem Visum für Angehörige in den VAE studieren?",
+        "a": "Ja. Kinder mit einem Visum für Angehörige können sich an Schulen und Universitäten in den VAE einschreiben. Sie benötigen ihren Emirates-Ausweis und die jeweiligen Schulunterlagen."
+      },
+      {
+        "q": "Warum sollten Sie Setup Zone Dubai für Visadienstleistungen für Angehörige wählen?",
+        "a": "Wir bieten umfassende Unterstützung – von der Prüfung der Anspruchsberechtigung über die Dokumentation, die Antragsstellung und die medizinischen Untersuchungen bis hin zur Ausstellung des Emirates ID und der Visumbeantragung. Dank unserer langjährigen Erfahrung und des direkten Zugangs zu den zuständigen Behörden gewährleisten wir eine schnelle und gesetzeskonforme Bearbeitung."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienstleistungen, die gut zu Ihrem Visum für Angehörige passen.",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "Aufenthaltsvisum für die VAE",
+        "description": "Optionen für eine 2- bis 10-jährige Facharztausbildung.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa-services",
+        "title": "Golden Visa Services",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "Firmengründung in Dubai",
+        "description": "Freizone, Festland & Offshore.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bring deine Familie zusammen",
+    "title": "Sind Sie bereit, Ihre Familie in den VAE zu sponsern?",
+    "titleHighlight": "Familie in den VAE?",
+    "subtitle": "Nehmen Sie noch heute Kontakt mit uns auf und lassen Sie sich von unseren Experten durch den gesamten Prozess der Familienzusammenführung begleiten – von der Dokumentenerstellung bis zur Visumserteilung.",
+    "chips": [
+      "Kostenlose Beratung",
+      "Schnelle Bearbeitung",
+      "Volle Unterstützung"
+    ],
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zum Thema Visum für Angehörige in den VAE.",
+    "whatsappCardMessage": "Hallo! Ich möchte über das Visum für Angehörige in den VAE sprechen."
+  }
+}

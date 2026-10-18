@@ -1,0 +1,402 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Residencia en los Emiratos írabes Unidos por 10 años",
+  "heroTitle": "Servicios de Visado Dorado en Dubái",
+  "heroTitleHighlight": "Dubái",
+  "heroSubtitle": "Residencia segura a largo plazo en los EAU, diseñada a medida para inversores, emprendedores y talentos excepcionales. 5 o 10 años, sin patrocinador local, patrocinio familiar completo.",
+  "heroChips": [
+    "Renovable por 10 años",
+    "Patrocinio familiar",
+    "Impuesto sobre la renta del 0%"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "10 años",
+      "label": "Validez de la visa",
+      "color": "from-amber-400 to-yellow-500"
+    },
+    {
+      "icon": "Wallet",
+      "value": "2 millones de AED",
+      "label": "Inversión mínima",
+      "color": "from-yellow-400 to-amber-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Impuesto sobre la renta personal",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Más de 500",
+      "label": "Visados aprobados",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Qué es",
+    "title": "¿Qué es la Visa Dorada en Dubái?",
+    "titleHighlight": "¿Dubái?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Estado Premium",
+    "imageBadgeText": "Como los ciudadanos de los Emiratos írabes Unidos",
+    "paragraphs": [
+      "La Visa Dorada es un permiso de residencia de larga duración en los Emiratos írabes Unidos, válido por 5 o 10 años, según los requisitos de elegibilidad. Ofrece beneficios de residencia de alto nivel, similares a los de los ciudadanos emiratíes.",
+      "Los titulares de la Visa Dorada pueden patrocinar a sus familiares, acceder a los servicios de salud y educación de los EAU y disfrutar de estabilidad a largo plazo sin necesidad de renovaciones frecuentes. A diferencia de las visas regulares, garantiza flexibilidad, independencia y residencia permanente."
+    ],
+    "highlights": [
+      "No se necesita patrocinador local.",
+      "Propiedad empresarial al 100%",
+      "Patrocinio familiar",
+      "Viajes sin visado a determinados países"
+    ]
+  },
+  "pillarsSection": {
+    "badge": "Imán de talento global",
+    "title": "Por qué los Emiratos írabes Unidos te quieren.",
+    "titleHighlight": "Te desea",
+    "subtitle": "La Visa Dorada forma parte de un movimiento nacional para atraer talento de primer nivel, emprendedores visionarios e inversores influyentes, impulsando así la innovación y la competitividad global de los EAU.",
+    "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&q=80",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "Imán de talento global",
+        "description": "Los Emiratos írabes Unidos invitan activamente a talentos de primer nivel mundial en tecnología, ciencia, arte y finanzas a construir su futuro aquí.",
+        "color": "from-amber-400 to-yellow-500",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80"
+      },
+      {
+        "icon": "Rocket",
+        "title": "Libertad empresarial",
+        "description": "Sea dueño del 100% de su negocio, sin necesidad de patrocinador local, y opere con total independencia.",
+        "color": "from-yellow-400 to-amber-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+      },
+      {
+        "icon": "Gem",
+        "title": "Estilo de vida premium",
+        "description": "Acceda a atención médica, educación, seguridad e infraestructura de primer nivel, sin pagar impuestos sobre la renta.",
+        "color": "from-orange-400 to-amber-600",
+        "image": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=800&q=80"
+      }
+    ]
+  },
+  "categoriesSection": {
+    "badge": "Categorías de elegibilidad",
+    "title": "¿Quiénes pueden optar a la Visa Dorada?",
+    "titleHighlight": "¿Visa Dorada?",
+    "subtitle": "Le ayudamos a determinar si cumple con los requisitos en todas las categorías principales de la Visa Dorada.",
+    "items": [
+      {
+        "icon": "Home2",
+        "title": "Inversores inmobiliarios",
+        "subtitle": "Propiedad valorada en más de 2 millones de AED.",
+        "description": "Invierta 2 millones de AED o más en propiedades en los Emiratos írabes Unidos (sobre plano o terminadas) y podrá optar a una Visa Dorada de 5 o 10 años. La propiedad debe conservarse durante al menos 3 años.",
+        "color": "from-amber-400 to-yellow-500",
+        "highlights": [
+          "Elegible para compra sobre plano",
+          "Propiedades listas",
+          "Calificado para hipoteca"
+        ]
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Inversores empresariales",
+        "subtitle": "Ingresos anuales superiores a 500.000 AED",
+        "description": "Pueden optar a este programa los emprendedores y dueños de negocios con una inversión de capital o ingresos anuales mínimos. El negocio debe estar en funcionamiento, cumplir con la normativa y tener valor económico.",
+        "color": "from-yellow-400 to-amber-600",
+        "highlights": [
+          "Empresas activas",
+          "Registrado en DED",
+          "Ingresos verificados"
+        ]
+      },
+      {
+        "icon": "Palette",
+        "title": "Talentos excepcionales",
+        "subtitle": "Artistas, atletas, creativos",
+        "description": "Artistas, atletas, inventores, autores y creativos destacados, reconocidos por organismos gubernamentales o asociaciones industriales de los EAU.",
+        "color": "from-orange-400 to-amber-600",
+        "highlights": [
+          "No se requiere título universitario",
+          "Excelencia demostrada",
+          "El gobernador reconoció"
+        ]
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Beneficios Premium",
+    "title": "¿Cuáles son los beneficios?",
+    "titleHighlight": "¿Beneficios?",
+    "subtitle": "La Visa Dorada ofrece ventajas incomparables para usted y su familia.",
+    "items": [
+      {
+        "icon": "Clock",
+        "title": "Residencia a largo plazo",
+        "description": "Residencia renovable por 5 o 10 años sin renovaciones frecuentes.",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Users",
+        "title": "Patrocinio familiar",
+        "description": "Patrocinador: cónyuge, hijos, padres y personal doméstico.",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Libertad empresarial",
+        "description": "Gestionar negocios sin empleo ni patrocinador operativo.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% de impuesto personal",
+        "description": "Optimiza tu patrimonio con cero impuestos sobre la renta personal.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Infraestructura de los EAU",
+        "description": "Acceda a educación, atención médica y servicios financieros de primer nivel.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Viajes sin visado",
+        "description": "Entrada a los Emiratos írabes Unidos sin necesidad de solicitar visados repetidamente.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Landmark",
+        "title": "Banca Preferencial",
+        "description": "Acceso prioritario a servicios bancarios, préstamos e inversiones en los EAU.",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Ubicación estratégica",
+        "description": "Ubicada en un centro neurálgico global con infraestructura de primer nivel.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "applicationSection": {
+    "badge": "Proceso de solicitud",
+    "title": "¿Cómo se presenta la solicitud?",
+    "titleHighlight": "¿Aplicar?",
+    "subtitle": "Un proceso estructurado de 5 pasos, desde la verificación de elegibilidad hasta la emisión de la visa.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Evaluación de elegibilidad",
+        "description": "Analizamos su inversión, negocio, credenciales o logros.",
+        "icon": "Target",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "step": "02",
+        "title": "Recopilación de documentos",
+        "description": "Recopilamos, traducimos, legalizamos ante notario y autenticamos todos los documentos.",
+        "icon": "FileText",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "step": "03",
+        "title": "Presentación de la solicitud",
+        "description": "Presentación en línea a través de los portales de ICA o GDRFA con seguimiento completo.",
+        "icon": "Scroll",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "step": "04",
+        "title": "Documento de identidad médico y de los Emiratos írabes Unidos",
+        "description": "Programamos exámenes médicos y la toma de datos biométricos para el documento de identidad de los Emiratos írabes Unidos.",
+        "icon": "Stethoscope",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "title": "Emisión de visas",
+        "description": "Reciba su Visa Dorada de 5 o 10 años con asistencia completa.",
+        "icon": "CheckCircle2",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Documentos requeridos",
+    "title": "¿Qué documentos necesitará?",
+    "titleHighlight": "¿Lo necesitas?",
+    "subtitle": "Nos encargamos de la recopilación, el procesamiento, la traducción, la legalización y la autenticación de los documentos, garantizando una solicitud completa y sin errores.",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "Listo",
+    "imageBadgeText": "Paquete completo",
+    "attestationLabel": "Atestación",
+    "attestationValue": "Ministerio de Asuntos Exteriores + Embajada",
+    "items": [
+      "Copia del pasaporte (con una validez mínima de 6 meses)",
+      "Sello de entrada a los EAU o visa de residencia actual",
+      "Título(s) de propiedad para inversión inmobiliaria",
+      "Licencia comercial / licencia de negocios",
+      "Certificado de aptitud médica y seguro de salud",
+      "Certificado de antecedentes penales",
+      "Certificados profesionales/académicos",
+      "Estados financieros, comprobante de capital o patentes"
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "¿Por qué elegirnos?",
+    "title": "Expertos en inmigración en los Emiratos írabes Unidos",
+    "titleHighlight": "Inmigración",
+    "subtitle": "Llevamos tu solicitud al siguiente nivel, personalizando cada paso según tus fortalezas, perfil y objetivos a largo plazo. Rápido, conforme a la ley y con soporte completo.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "ctaText": "Verificación de elegibilidad gratuita",
+    "ctaMessage": "¡Hola! Me gustaría una comprobación gratuita de elegibilidad para la Visa Dorada de los EAU.",
+    "features": [
+      {
+        "icon": "Award",
+        "label": "Expertos en políticas de inmigración de los EAU"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Gestión y certificación completa de documentos"
+      },
+      {
+        "icon": "Target",
+        "label": "Personalizado según tu perfil"
+      },
+      {
+        "icon": "Zap",
+        "label": "Proceso de solicitud acelerado"
+      },
+      {
+        "icon": "Eye",
+        "label": "Precios transparentes: sin cargos ocultos."
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Cumplimiento legal: enfoque 100% en el éxito."
+      }
+    ],
+    "dashboard": {
+      "title": "Estado de la solicitud de la Visa Dorada",
+      "statusLabel": "Solicitud",
+      "statusValue": "En curso",
+      "progressText": "70% completado — Prueba médica programada",
+      "steps": [
+        {
+          "label": "Elegibilidad verificada",
+          "status": "hecho"
+        },
+        {
+          "label": "Documentos presentados",
+          "status": "hecho"
+        },
+        {
+          "label": "Solicitud presentada",
+          "status": "hecho"
+        },
+        {
+          "label": "Documento de identidad médico y de los Emiratos írabes Unidos",
+          "status": "activo"
+        },
+        {
+          "label": "Emisión de visas",
+          "status": "pendiente"
+        }
+      ]
+    }
+  },
+  "faqsSection": {
+    "badge": "Preguntas frecuentes",
+    "title": "Preguntas frecuentes",
+    "titleHighlight": "Preguntas",
+    "subtitle": "Todo lo que necesitas saber sobre la Visa Dorada de los EAU. ¿No encuentras lo que buscas? Estamos a un mensaje de distancia.",
+    "sidebarCard": {
+      "title": "Verificación de elegibilidad gratuita",
+      "text": "Obtén una evaluación personalizada en 24 horas.",
+      "whatsappMessage": "¡Hola! Me gustaría comprobar si cumplo los requisitos para obtener la Visa Dorada."
+    },
+    "items": [
+      {
+        "q": "¿Puedo solicitar una Visa Dorada si no resido en los Emiratos írabes Unidos?",
+        "a": "Sí. Las solicitudes de la Visa Dorada se pueden realizar desde cualquier lugar del mundo a través de las embajadas de los EAU o portales como ICA o GDRFA. Nuestro equipo le brindará asistencia de forma remota."
+      },
+      {
+        "q": "¿Cuál es la inversión mínima para obtener una Visa Dorada de bienes raíces?",
+        "a": "Inversión en propiedades en los Emiratos írabes Unidos por un valor de 2 millones de AED o más (sobre plano o terminadas). La propiedad debe haber sido mantenida durante al menos 3 años y estar registrada a su nombre."
+      },
+      {
+        "q": "¿Puedo patrocinar a mis familiares?",
+        "a": "Sí. Los titulares de la Visa Dorada pueden patrocinar a su cónyuge, hijos (incluidos adultos hasta cierta edad), padres y personal doméstico."
+      },
+      {
+        "q": "¿Cuánto tiempo es válida la Visa Dorada?",
+        "a": "De 5 a 10 años, según su categoría de elegibilidad. Es renovable sin necesidad de un patrocinador local."
+      },
+      {
+        "q": "¿Necesito un patrocinador local?",
+        "a": "No. La Visa Dorada elimina la necesidad de un patrocinador local, lo que le brinda total independencia en los negocios y en la vida en los Emiratos írabes Unidos."
+      },
+      {
+        "q": "¿Está la Visa Dorada vinculada a un empleador específico?",
+        "a": "No. Es completamente independiente de cualquier empleador o empresa: puedes trabajar, tener tu propio negocio o ser autónomo libremente."
+      },
+      {
+        "q": "¿Pueden los trabajadores autónomos solicitar una Visa Dorada?",
+        "a": "Sí, si cumples los requisitos para las categorías de emprendedor, talento o profesional especializado."
+      },
+      {
+        "q": "¿Qué sucede si vendo mi propiedad después de obtener la visa?",
+        "a": "Debe mantener una inversión de 2 millones de AED para conservar la visa. Vender requiere reinversión para cumplir con los requisitos."
+      },
+      {
+        "q": "¿Obtendré un documento de identidad de los Emiratos írabes Unidos y acceso a los servicios de los EAU?",
+        "a": "Sí. Recibirás un documento de identidad de los Emiratos írabes Unidos, acceso a la atención médica, la educación, los servicios bancarios y todos los servicios residenciales del país."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Servicios relacionados",
+    "titleHighlight": "Servicios",
+    "subtitle": "Servicios que se adaptan perfectamente a tu proceso de obtención de la Visa Dorada.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Apertura de cuenta bancaria",
+        "description": "Abra cuentas bancarias comerciales en los Emiratos írabes Unidos con soporte completo de KYC (Conozca a su cliente).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Servicios de cumplimiento",
+        "description": "Presentación de documentos UBO, informes ESR y apoyo regulatorio.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "Servicios PRO",
+        "description": "Documento de identidad de los Emiratos írabes Unidos, tarjetas de trabajo, sellado de visados y renovaciones.",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-indigo-400 to-purple-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Asegure su futuro",
+    "title": "¿Listo para obtener tu Visa Dorada?",
+    "titleHighlight": "¿Visa Dorada?",
+    "subtitle": "Obtén hoy mismo una verificación de elegibilidad gratuita. Nuestros expertos en inmigración te guiarán en cada paso, desde la evaluación hasta la emisión de la visa.",
+    "chips": [
+      "Verificación de elegibilidad gratuita",
+      "Más de 500 visas aprobadas",
+      "Equipo de expertos"
+    ],
+    "whatsappMessage": "¡Hola! Me gustaría una comprobación gratuita de elegibilidad para la Visa Dorada."
+  }
+}

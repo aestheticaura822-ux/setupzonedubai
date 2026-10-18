@@ -1,0 +1,164 @@
+{
+  "badge": "联系我们",
+  "heading": {
+    "line1": "让我们开始吧",
+    "highlight": "对话"
+  },
+  "subtitle": "从初创企业到大型企业，迪拜各行各业都信赖我们，相信我们能够取得成效。立即获取免费咨询。",
+  "contactCards": [
+    {
+      "icon": "Phone",
+      "label": "致电我们",
+      "value": "+971 56 655 6645",
+      "sub": "周一至周六：上午 9 点至下午 6 点",
+      "href": "tel:+971566556645",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)"
+    },
+    {
+      "icon": "Mail",
+      "label": "给我们发邮件",
+      "value": "setupzonedubai@gmail.com",
+      "sub": "我们会在24小时内回复。",
+      "href": "mailto:setupzonedubai@gmail.com",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)"
+    },
+    {
+      "icon": "MapPin",
+      "label": "欢迎光临",
+      "value": "商业湾水晶大厦",
+      "sub": "阿联酋迪拜 — 邮政信箱 554552",
+      "href": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)"
+    }
+  ],
+  "workingHoursCard": {
+    "title": "工作时间",
+    "timezoneLabel": "迪拜时间（GST）",
+    "todayBadge": "今天",
+    "hours": [
+      {
+        "day": "周一",
+        "hours": "上午9:00 – 下午6:00",
+        "active": true
+      },
+      {
+        "day": "周二",
+        "hours": "上午9:00 – 下午6:00",
+        "active": false
+      },
+      {
+        "day": "周三",
+        "hours": "上午9:00 – 下午6:00",
+        "active": false
+      },
+      {
+        "day": "周四",
+        "hours": "上午9:00 – 下午6:00",
+        "active": false
+      },
+      {
+        "day": "星期五",
+        "hours": "上午9:00 – 下午6:00",
+        "active": false
+      },
+      {
+        "day": "周六",
+        "hours": "上午10:00 – 下午5:00",
+        "active": false
+      },
+      {
+        "day": "星期日",
+        "hours": "关闭",
+        "active": false,
+        "closed": true
+      }
+    ]
+  },
+  "trustBadges": [
+    {
+      "icon": "Zap",
+      "label": "< 24小时",
+      "sub": "回复"
+    },
+    {
+      "icon": "Lock",
+      "label": "100%",
+      "sub": "机密的"
+    },
+    {
+      "icon": "CheckCircle2",
+      "label": "自由的",
+      "sub": "咨询"
+    }
+  ],
+  "form": {
+    "title": "给我们留言",
+    "subtitle": "填写表格后，我们的团队将在24小时内与您联系。",
+    "submitText": "发送消息",
+    "privacyNote": "您的信息安全保密。",
+    "successTitle": "打开 WhatsApp... 🎉",
+    "successMessage": "请发送预先填好的信息以完成您的咨询。",
+    "whatsappNumber": "971566556645",
+    "whatsappSenderLine": "发件人：setupzonedubai@gmail.com",
+    "fields": {
+      "name": {
+        "label": "姓名",
+        "placeholder": "约翰·史密斯",
+        "required": true
+      },
+      "email": {
+        "label": "电子邮件",
+        "placeholder": "john@company.com",
+        "required": true
+      },
+      "phone": {
+        "label": "电话号码",
+        "placeholder": "+971 50 123 4567",
+        "required": true
+      },
+      "nationality": {
+        "label": "国籍",
+        "placeholder": "例如：英国人、印度人",
+        "required": false
+      },
+      "service": {
+        "label": "选择服务",
+        "placeholder": "选择一项服务……",
+        "required": true
+      },
+      "message": {
+        "label": "您的留言",
+        "placeholder": "请告诉我们您的业务需求……",
+        "required": true
+      }
+    },
+    "services": [
+      "商业设立 — 自由区",
+      "公司设立 — 大陆",
+      "黄金签证",
+      "企业所得税和增值税",
+      "银行账户开立",
+      "会计与簿记",
+      "合规服务",
+      "专业服务",
+      "数字营销",
+      "网站开发",
+      "搜索引擎优化服务",
+      "其他"
+    ]
+  },
+  "map": {
+    "title": "总公司",
+    "address1": "商业湾水晶大厦",
+    "address2": "阿联酋迪拜，Al Asayel街，千禧中心大厦M1层M08-27室",
+    "directionsText": "获取路线",
+    "directionsLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
+    "quickContactLabel": "快速联系",
+    "quickContactPhone": "+971 56 655 6645",
+    "quickContactMessage": "您好！我想参观一下您的办公室。"
+  }
+}

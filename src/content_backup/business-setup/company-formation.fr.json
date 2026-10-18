@@ -1,0 +1,432 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "Démarrez votre entreprise aux Émirats arabes unis",
+    "heroTitle":  "Création d\u0027entreprise À  Dubaï",
+    "heroTitleHighlight":  "À  Dubaï",
+    "heroSubtitle":  "Structures en zone franche, sur le territoire continental et en mer. Création d\u0027entreprise rapide, conforme et économique dans tous les Émirats arabes unis "” de la première demande de renseignements au lancement opérationnel.",
+    "heroChips":  [
+                      "Propriété À  100 %",
+                      "Taxe de 0 %",
+                      "Installation en 2 À  5 jours",
+                      "Zone franche + continent"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Bâtiment 2",
+                      "value":  "Plus de 10 000",
+                      "label":  "Sociétés créées",
+                      "color":  "de cyan 400 À  bleu 600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "100%",
+                      "label":  "Propriété étrangère",
+                      "color":  "du bleu 400 À  l\u0027indigo 600"
+                  },
+                  {
+                      "icon":  "Horloge",
+                      "value":  "2-5",
+                      "label":  "Installation des jours",
+                      "color":  "de l\u0027indigo 400 au violet 600"
+                  },
+                  {
+                      "icon":  "Signe du dollar",
+                      "value":  "0%",
+                      "label":  "Impôt sur les sociétés",
+                      "color":  "de violet 400 À  pourpre 600"
+                  }
+              ],
+    "whyDubaiSection":  {
+                            "badge":  "L\u0027opportunité commence ici",
+                            "title":  "Pourquoi créer une entreprise À  Dubaï ?",
+                            "titleHighlight":  "À  Dubaï ?",
+                            "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                            "imageBadgeTitle":  "Centre mondial",
+                            "imageBadgeText":  "L\u0027Orient rencontre l\u0027Occident",
+                            "paragraphs":  [
+                                               "Dubaï est devenue une plaque tournante mondiale des affaires, bénéficiant d\u0027un environnement commercial attractif, d\u0027un statut d\u0027exemption d\u0027impôts et d\u0027une situation stratégique reliant l\u0027Orient À  l\u0027Occident.",
+                                               "Avec une propriété 100% étrangère, une absence d\u0027impôt sur les sociétés, des procédures accélérées d\u0027obtention de visas et de licences, et tous ces avantages, des milliers de nouvelles entreprises sont enregistrées chaque mois.",
+                                               "La ville offre des infrastructures exceptionnelles, des zones franches de renommée mondiale, une administration fiable et efficace, et un État de droit solide, ce qui simplifie et accélère les démarches d\u0027installation. Le rapatriement des capitaux et des bénéfices est libre, et les portails numériques gouvernementaux facilitent les demandes."
+                                           ],
+                            "highlights":  [
+                                               "Centre d\u0027affaires mondial",
+                                               "Statut d\u0027exemption fiscale",
+                                               "Propriété étrangère À  100 %",
+                                               "Emplacement stratégique",
+                                               "Infrastructures modernes",
+                                               "État de droit fort"
+                                           ]
+                        },
+    "benefitsSection":  {
+                            "badge":  "Les avantages que vous ne pouvez ignorer",
+                            "title":  "Avantages de la création d\u0027une entreprise À  Dubaï",
+                            "titleHighlight":  "une entreprise À  Dubaï",
+                            "subtitle":  "Six raisons majeures pour lesquelles les entrepreneurs et les multinationales choisissent Dubaï.",
+                            "items":  [
+                                          {
+                                              "icon":  "Globe",
+                                              "title":  "Propriété étrangère À  100 %",
+                                              "description":  "Propriété totale dans des zones franches favorables aux investisseurs, sans sponsor local requis "” contrôle complet de votre entreprise.",
+                                              "color":  "de cyan 400 À  bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Signe du dollar",
+                                              "title":  "Impôt sur les sociétés nul",
+                                              "description":  "Statut fiscal avantageux : aucune taxe sur les sociétés ni sur le revenu des particuliers "“ conservez 100 % de vos bénéfices.",
+                                              "color":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Traitement rapide des permis et visas",
+                                              "description":  "Approbations accélérées grâce À  des portails gouvernementaux numériques simplifiés "” soyez opérationnels en quelques jours, et non en quelques mois.",
+                                              "color":  "de l\u0027indigo 400 au violet 600"
+                                          },
+                                          {
+                                              "icon":  "Bâtiment 2",
+                                              "title":  "Infrastructures de classe mondiale",
+                                              "description":  "Des zones franches sans équivalent, des pôles d\u0027affaires modernes et un soutien gouvernemental fiable pour une installation sans faille.",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          },
+                                          {
+                                              "icon":  "Portefeuille",
+                                              "title":  "Rapatriement des capitaux et des bénéfices",
+                                              "description":  "Liberté totale de rapatrier les capitaux et les bénéfices "” idéal pour les investisseurs internationaux et les entreprises internationales.",
+                                              "color":  "du violet 400 au fuchsia 600"
+                                          },
+                                          {
+                                              "icon":  "Utilisateurs",
+                                              "title":  "Bassin de talents multiculturel",
+                                              "description":  "Accédez À  des professionnels qualifiés du monde entier "” constituez votre équipe de rêve dans un centre d\u0027affaires mondial.",
+                                              "color":  "de fuchsia-400 À  rose-600"
+                                          }
+                                      ]
+                        },
+    "jurisdictionsSection":  {
+                                 "badge":  "Options de création d\u0027entreprise À  Dubaï",
+                                 "title":  "Choisissez votre juridiction",
+                                 "titleHighlight":  "Juridiction",
+                                 "subtitle":  "Faites défiler les 3 options de configuration "” choisissez celle qui convient le mieux À  votre modèle d\u0027entreprise.",
+                                 "items":  [
+                                               {
+                                                   "id":  "continent",
+                                                   "icon":  "Bâtiment",
+                                                   "title":  "Installation sur le continent de Dubaï",
+                                                   "tagline":  "Accès complet au marché des Émirats arabes unis",
+                                                   "description":  "Accès complet au marché des Émirats arabes unis, sans restriction de locaux. Idéal pour les commerces de détail, la restauration, la logistique et les entreprises de services, avec possibilité de demander un nombre illimité de visas.",
+                                                   "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                                   "color":  "de-émeraude-500 À -turquoise-700",
+                                                   "features":  [
+                                                                    "Accès complet À  l\u0027ensemble du marché des Émirats arabes unis",
+                                                                    "Aucune restriction sur les lieux",
+                                                                    "Idéal pour le commerce de détail, la restauration et la logistique",
+                                                                    "Visas illimités (sous réserve d\u0027approbation du bureau)",
+                                                                    "Certaines licences exigent une LSA"
+                                                                ],
+                                                   "bestFor":  "Commerce de détail, restauration, logistique"
+                                               },
+                                               {
+                                                   "id":  "zone franche",
+                                                   "icon":  "Usine",
+                                                   "title":  "Création de la zone franche de Dubaï",
+                                                   "tagline":  "Propriété étrangère À  100 %",
+                                                   "description":  "Zones franches telles que l\u0027IFZA, le DMCC, le DIFC et la JAFZA, réservées aux entreprises 100 % étrangères. Idéales pour les sociétés de commerce électronique, de conseil, de médias et de technologies, elles offrent diverses options de licences.",
+                                                   "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200\u0026q=80",
+                                                   "color":  "de bleu 500 À  indigo 700",
+                                                   "features":  [
+                                                                    "Propriété étrangère À  100 %",
+                                                                    "Zones franches fiscales",
+                                                                    "IFZA, DMCC, DIFC, JAFZA",
+                                                                    "Licences commerciales, de services et industrielles",
+                                                                    "Configuration rapide"
+                                                                ],
+                                                   "bestFor":  "Commerce électronique, conseil, technologie"
+                                               },
+                                               {
+                                                   "id":  "offshore",
+                                                   "icon":  "Ancre",
+                                                   "title":  "Dubaï Offshore",
+                                                   "tagline":  "Structure de holding internationale",
+                                                   "description":  "Idéal pour les sociétés internationales et les holdings : exonération fiscale et absence d"™obligation de locaux physiques. Offre des services bancaires À  l"™étranger et une protection des actifs auprès de juridictions prestigieuses.",
+                                                   "image":  "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=1200\u0026q=80",
+                                                   "color":  "de violet-500 À  pourpre-700",
+                                                   "features":  [
+                                                                    "Idéal pour les sociétés holding",
+                                                                    "Taxe nulle",
+                                                                    "Aucun local physique requis",
+                                                                    "Services bancaires À  l\u0027étranger et protection des actifs",
+                                                                    "RAK ICC, JAFZA Offshore"
+                                                                ],
+                                                   "bestFor":  "Holding et International"
+                                               }
+                                           ]
+                             },
+    "servicesSection":  {
+                            "badge":  "Services complets de création d\u0027entreprise À  Dubaï",
+                            "title":  "Nous prenons en charge chaque étape",
+                            "titleHighlight":  "Chaque étape",
+                            "subtitle":  "Huit services complets pour vous permettre de vous concentrer sur la croissance de votre entreprise.",
+                            "items":  [
+                                          {
+                                              "icon":  "Signature du fichier",
+                                              "title":  "Réservation et documentation du nom de l\u0027entreprise",
+                                              "description":  "Aide au choix d\u0027un nom d\u0027entreprise conforme et valorisable, et soumission des documents À  l\u0027autorité compétente de Dubaï en matière de licences.",
+                                              "color":  "de cyan 400 À  bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Vérification du presse-papiers",
+                                              "title":  "Plan d\u0027affaires et approbations réglementaires",
+                                              "description":  "Élaborer un plan d\u0027affaires lorsque cela est requis (en particulier dans les zones franches) en respectant les réglementations en matière de lutte contre le blanchiment d\u0027argent, de sécurité des données et de protection des bénéficiaires effectifs.",
+                                              "color":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "icon":  "Défilement du texte",
+                                              "title":  "Licences et immatriculations",
+                                              "description":  "Processus complet d\u0027enregistrement d\u0027une société À  Dubaï en 2 À  5 jours ouvrables, avec une tarification claire et sans frais cachés.",
+                                              "color":  "de l\u0027indigo 400 au violet 600"
+                                          },
+                                          {
+                                              "icon":  "Billet de banque",
+                                              "title":  "Ouverture de compte bancaire pour entreprises",
+                                              "description":  "Assistance auprès des principales banques des Émirats arabes unis : documentation, prise de rendez-vous et suivi pour des approbations rapides.",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          },
+                                          {
+                                              "icon":  "Bâtiment 2",
+                                              "title":  "Création et location de bureaux",
+                                              "description":  "Trouvez un espace de travail flexible, un bureau privé ou un espace de coworking situé en zone franche ou sur le continent de Dubaï.",
+                                              "color":  "du violet 400 au fuchsia 600"
+                                          },
+                                          {
+                                              "icon":  "ReÀ§u",
+                                              "title":  "Conformité des entreprises et enregistrement fiscal",
+                                              "description":  "Enregistrement À  la TVA À  Dubaï, services de comptabilité et de tenue de livres "” pour une conformité totale de votre entreprise.",
+                                              "color":  "de rose 400 À  rose 600"
+                                          },
+                                          {
+                                              "icon":  "Palette",
+                                              "title":  "Soutien en matière de structure numérique et d\u0027image de marque",
+                                              "description":  "Développement de site web pour votre nouvelle entreprise avec structure CRM, intégration de messagerie et configuration de profil professionnel.",
+                                              "color":  "de rose 400 À  rouge 600"
+                                          }
+                                      ]
+                        },
+    "audienceSection":  {
+                            "badge":  "Idéal pour les innovateurs et les investisseurs",
+                            "title":  "Réalisez votre rêve avec Setup Zone Dubai",
+                            "titleHighlight":  "avec Setup Zone Dubaï",
+                            "subtitle":  "Que vous soyez une start-up, un travailleur indépendant ou un investisseur international, nous avons la solution pour vous.",
+                            "items":  [
+                                          {
+                                              "icon":  "Fusée",
+                                              "title":  "Fondateurs de startups et entrepreneurs",
+                                              "description":  "Idéal pour développer des modèles commerciaux innovants grâce À  des incubateurs, des financeurs et des avantages fiscaux.",
+                                              "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80",
+                                              "color":  "de cyan 500 À  bleu 700"
+                                          },
+                                          {
+                                              "icon":  "Panier",
+                                              "title":  "Fournisseurs de services de commerce électronique et numériques",
+                                              "description":  "Idéal pour les boutiques en ligne, les entreprises SaaS et les fournisseurs de services informatiques qui souhaitent une licence rapide avec une propriété totale.",
+                                              "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800\u0026q=80",
+                                              "color":  "de bleu 500 À  indigo 700"
+                                          },
+                                          {
+                                              "icon":  "Ordinateur portable",
+                                              "title":  "Indépendants et consultants",
+                                              "description":  "Obtenez des licences professionnelles dans des zones franches comme IFZA et SHAMS pour les services liés aux médias, au marketing, au droit ou À  l\u0027éducation.",
+                                              "image":  "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800\u0026q=80",
+                                              "color":  "de l\u0027indigo 500 au violet 700"
+                                          },
+                                          {
+                                              "icon":  "Récipient",
+                                              "title":  "Sociétés de commerce international",
+                                              "description":  "Exploiter des licences de commerce général dans les zones franches et sur le continent, avec accès aux ports de Dubaï et À  la logistique de transit.",
+                                              "image":  "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=800\u0026q=80",
+                                              "color":  "de violet-500 À  pourpre-700"
+                                          },
+                                          {
+                                              "icon":  "Tendances À  la hausse",
+                                              "title":  "Les investisseurs font leur entrée dans les PME",
+                                              "description":  "Développez des entreprises évolutives grâce À  l\u0027accès À  un écosystème de PME des Émirats arabes unis en pleine croissance et prêt pour les entreprises, ainsi qu\u0027À  une conformité simplifiée.",
+                                              "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80",
+                                              "color":  "de violet 500 À  fuchsia 700"
+                                          }
+                                      ]
+                        },
+    "whyChooseUsSection":  {
+                               "badge":  "Rapide, fiable, conÀ§u pour vous",
+                               "title":  "Pourquoi choisir Setup Zone Dubai ?",
+                               "titleHighlight":  "Zone de configuration Dubaï ?",
+                               "subtitle":  "Nous combinons rapidité, précision et professionnalisme pour des services de création d\u0027entreprise inégalés.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Cible",
+                                                 "label":  "Forfaits sur mesure",
+                                                 "desc":  "En fonction de votre budget et de votre activité"
+                                             },
+                                             {
+                                                 "icon":  "Clé",
+                                                 "label":  "Services clés en main",
+                                                 "desc":  "De l\u0027octroi de licences À  l\u0027image de marque"
+                                             },
+                                             {
+                                                 "icon":  "Globe2",
+                                                 "label":  "Experts en zones franches et en territoire continental",
+                                                 "desc":  "Plus structures offshore"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "label":  "Conseil multilingue",
+                                                 "desc":  "Une équipe qui parle votre langue"
+                                             },
+                                             {
+                                                 "icon":  "Bouclier",
+                                                 "label":  "Transparence totale",
+                                                 "desc":  "Aucuns frais cachés, jamais"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Installation accélérée",
+                                                 "desc":  "Licence délivrée en 2 À  5 jours"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "Perspectives de croissance des entreprises",
+                               "title":  "Des milliers de personnes nous font confiance",
+                               "titleHighlight":  "Des milliers",
+                               "subtitle":  "Nos résultats parlent d\u0027eux-mêmes.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bâtiment 2",
+                                                 "value":  "Plus de 10 000",
+                                                 "label":  "Sociétés créées",
+                                                 "color":  "de cyan 400 À  bleu 600"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "value":  "Mondial",
+                                                 "label":  "Portée des clients",
+                                                 "color":  "du bleu 400 À  l\u0027indigo 600"
+                                             },
+                                             {
+                                                 "icon":  "Tendances À  la hausse",
+                                                 "value":  "Menant",
+                                                 "label":  "Expert en formation",
+                                                 "color":  "de l\u0027indigo 400 au violet 600"
+                                             },
+                                             {
+                                                 "icon":  "Signe du dollar",
+                                                 "value":  "Croissance",
+                                                 "label":  "Histoires À  succès",
+                                                 "color":  "de violet 400 À  pourpre 600"
+                                             },
+                                             {
+                                                 "icon":  "Graphique À  barres 3",
+                                                 "value":  "Significatif",
+                                                 "label":  "Impact régional",
+                                                 "color":  "du violet 400 au fuchsia 600"
+                                             },
+                                             {
+                                                 "icon":  "Couronne",
+                                                 "value":  "Préféré",
+                                                 "label":  "Partenaire d\u0027installation",
+                                                 "color":  "de fuchsia-400 À  rose-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Questions fréquentes",
+                        "title":  "Foire aux questions",
+                        "titleHighlight":  "Questions",
+                        "subtitle":  "Tout ce que vous devez savoir sur la création d\u0027entreprise À  Dubaï. Vous avez encore des questions ? Contactez-nous.",
+                        "sidebarCard":  {
+                                            "title":  "Vous avez encore des questions ?",
+                                            "text":  "Obtenez une consultation gratuite avec nos spécialistes en formation.",
+                                            "whatsappMessage":  "Bonjour ! J\u0027ai une question concernant la création d\u0027entreprise À  Dubaï."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Quel est le coût de création d\u0027une entreprise À  Dubaï ?",
+                                          "a":  "Les coûts varient selon la juridiction (zone franche, territoire continental, zone offshore), le type de licence et les activités commerciales. La création d\u0027une entreprise en zone franche débute généralement À  5 750 AED. Les entreprises situées sur le territoire continental doivent s\u0027acquitter de frais gouvernementaux et de frais de parrainage locaux plus élevés. Nous proposons des formules tout compris transparentes, adaptées À  votre budget et À  vos objectifs."
+                                      },
+                                      {
+                                          "q":  "Combien de temps faut-il pour obtenir une licence commerciale À  Dubaï ?",
+                                          "a":  "Les licences de zone franche sont généralement délivrées sous 2 À  5 jours ouvrables. Pour les licences de zone continentale, le délai est de 2 À  4 semaines, selon les approbations. Nous accélérons la procédure pour nos clients."
+                                      },
+                                      {
+                                          "q":  "Les étrangers peuvent-ils être propriétaires À  100 % d\u0027une entreprise À  Dubaï ?",
+                                          "a":  "Oui. Suite aux récentes réformes des Émirats arabes unis, la plupart des zones franches et de nombreuses activités sur le territoire continental autorisent désormais une propriété étrangère À  100 %, sans partenaire local."
+                                      },
+                                      {
+                                          "q":  "De quel type de licence ai-je besoin pour mon entreprise À  Dubaï ?",
+                                          "a":  "Cela dépend de votre activité. Les principaux types de licences sont les licences commerciales (commerce), professionnelles (services), industrielles (production) et de commerce électronique. Nous vous aidons À  choisir celle qui vous convient."
+                                      },
+                                      {
+                                          "q":  "Ai-je besoin d\u0027un espace de bureau pour créer une entreprise À  Dubaï ?",
+                                          "a":  "La plupart des licences exigent une adresse enregistrée. Les zones franches proposent des formules de bureaux flexibles. Les entreprises du continent ont besoin d\u0027un bureau physique (Ejari). Nous vous aidons À  trouver l\u0027espace idéal."
+                                      },
+                                      {
+                                          "q":  "Puis-je ouvrir un compte bancaire professionnel À  Dubaï après la constitution de ma société ?",
+                                          "a":  "Oui. Nous offrons un soutien complet pour l\u0027ouverture de comptes bancaires professionnels auprès des principales banques des Émirats arabes unis : documentation, prise de rendez-vous et suivi pour une approbation rapide."
+                                      },
+                                      {
+                                          "q":  "Combien de visas puis-je demander avec mon entreprise À  Dubaï ?",
+                                          "a":  "Le quota de visas dépend de votre type de licence et de la superficie de vos bureaux. Les zones franches autorisent généralement de 1 À  6 visas par licence, tandis que le territoire continental autorise un nombre illimité de visas en fonction de la taille des bureaux."
+                                      },
+                                      {
+                                          "q":  "En quoi la création d\u0027une entreprise À  Dubaï est-elle avantageuse sur le plan fiscal ?",
+                                          "a":  "Dubaï propose un taux d\u0027imposition de 0 % sur le revenu des personnes physiques et des sociétés dans les zones franches, et un taux d\u0027imposition des sociétés très bas sur le territoire continental. Vous pouvez également rapatrier 100 % de vos bénéfices et de votre capital."
+                                      },
+                                      {
+                                          "q":  "Puis-je créer une entreprise en ligne À  Dubaï ?",
+                                          "a":  "Oui. Les licences de commerce électronique dans les zones franches (comme IFZA, SHAMS, Dubai CommerCity) vous permettent d\u0027exploiter des entreprises en ligne avec une propriété 100 % étrangère."
+                                      },
+                                      {
+                                          "q":  "Quelles sont les exigences de conformité continue après la mise en place ?",
+                                          "a":  "Renouvellement annuel des licences, inscription À  la TVA (si le chiffre d\u0027affaires dépasse 375 000 AED), déclarations ESR/UBO et tenue de la comptabilité : nous assurons un accompagnement continu en matière de conformité."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Services connexes",
+                                   "titleHighlight":  "Services",
+                                   "subtitle":  "Des services qui complètent parfaitement la création de votre entreprise.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "mainland-company-formation",
+                                                     "title":  "Création d\u0027une société sur le continent",
+                                                     "description":  "Accès complet au marché des Émirats arabes unis grâce À  la licence DED.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "de-émeraude-400 À -turquoise-600"
+                                                 },
+                                                 {
+                                                     "slug":  "free-zone-company-setup",
+                                                     "title":  "Création d\u0027une société en zone franche",
+                                                     "description":  "Propriété étrangère À  100 % dans les zones franches.",
+                                                     "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800\u0026q=80",
+                                                     "gradient":  "de cyan 400 À  bleu 600"
+                                                 },
+                                                 {
+                                                     "slug":  "trade-license",
+                                                     "title":  "Licence commerciale À  Dubaï",
+                                                     "description":  "Obtenez votre licence commerciale, de service ou industrielle.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "du bleu 400 À  l\u0027indigo 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Ouverture À  Dubaï ?",
+                     "title":  "Licences rapides. Sans taxes. Assistance complète.",
+                     "titleHighlight":  "Soutien total.",
+                     "subtitle":  "Lancez votre marque de commerce électronique, votre startup technologique, votre société de conseil ou votre entreprise commerciale "” avec Setup Zone Dubai comme partenaire unique pour votre installation.",
+                     "chips":  [
+                                   "Consultation gratuite",
+                                   "Installation en 2 À  5 jours",
+                                   "Taxe nulle"
+                               ],
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite pour la création d\u0027une société À  Dubaï.",
+                     "whatsappCardMessage":  "Bonjour ! J\u0027aimerais discuter de la création d\u0027entreprise À  Dubaï."
+                 }
+}

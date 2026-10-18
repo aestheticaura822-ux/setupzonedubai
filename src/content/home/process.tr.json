@@ -1,0 +1,83 @@
+{
+  "badge": "Sürecimiz",
+  "heading": {
+    "line1": "Fikirden Lansmana",
+    "highlight": "6 Basit Adım"
+  },
+  "subtitle": "İlk görüşmenizden devam eden desteğe kadar her şeyi biz hallediyoruz. 500'den fazla BAE işletmesi tarafından güvenilen, kanıtlanmış ve şeffaf bir süreç.",
+  "stepsLabel": "Adım",
+  "stepsLabelSuffix": "ile ilgili",
+  "steps": [
+    {
+      "number": "01",
+      "icon": "MessageCircle",
+      "title": "Ücretsiz Danışmanlık",
+      "description": "İş hedeflerinizi, sektörünüzü ve vize ihtiyaçlarınızı anlıyoruz ve size en uygun Serbest Bölge veya Ana Kara kurulumunu öneriyoruz.",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+    },
+    {
+      "number": "02",
+      "icon": "FileText",
+      "title": "Belge Hazırlama",
+      "description": "Ekibimiz, lisans başvurularından mutabakat zaptı taslağının hazırlanmasına ve BAE düzenlemelerine uygun olarak tercüme edilmesine kadar tüm evrak işlerini halleder.",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+    },
+    {
+      "number": "03",
+      "icon": "Building2",
+      "title": "Şirket Kaydı",
+      "description": "Şirketinizi ilgili yetkili mercilere (Serbest Bölge, Anakara vb.) kaydettiriyor ve gerekli tüm onayları alıyoruz.",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800&q=80"
+    },
+    {
+      "number": "04",
+      "icon": "UserCheck",
+      "title": "Vize ve Emirates Kimliği",
+      "description": "Gerekli olması durumunda, oturma izniniz, giriş izniniz, sağlık testiniz, Emirates Kimliğiniz ve çalışma vizeleriniz için başvurunuzu biz yapıyoruz.",
+      "gradient": "from-emerald-400 to-teal-600",
+      "glow": "rgba(16,185,129,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+    },
+    {
+      "number": "05",
+      "icon": "CreditCard",
+      "title": "Kurumsal Banka Hesabı",
+      "description": "İşletme profilinize uygun bankacılık ortaklarıyla tanışın ve belgeler konusunda eksiksiz rehberlik alın.",
+      "gradient": "from-cyan-400 to-blue-600",
+      "glow": "rgba(34,211,238,0.5)",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+    },
+    {
+      "number": "06",
+      "icon": "Headphones",
+      "title": "Sürekli Destek",
+      "description": "PRO hizmetleri, uyumluluk, lisans yenilemeleri ve kurumsal danışmanlık konularında destek sağlamaya devam ediyoruz.",
+      "gradient": "from-pink-400 to-rose-600",
+      "glow": "rgba(236,72,153,0.5)",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80"
+    }
+  ],
+  "bottomCTA": {
+    "icon": "Rocket",
+    "title": "Dubai'de İşletmenizi Kurmaya Hazır mısınız?",
+    "subtitle": "Ücretsiz bir danışmanlık görüşmesiyle başlayın. Sürecin her adımında size rehberlik edeceğiz.",
+    "primaryCta": "Şimdi Başla",
+    "secondaryCta": "Bizi Arayın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Merhaba! Dubai'de iş kurmaya başlamak istiyorum. Ücretsiz bir görüşme ayarlayabilir miyiz?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "trustIndicators": [
+      "500'den fazla işletme kuruldu.",
+      "Ortalama kurulum süresi 3-5 gün.",
+      "Ücretsiz Danışmanlık",
+      "FTA Uyumlu"
+    ]
+  }
+}

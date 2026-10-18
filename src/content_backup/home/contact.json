@@ -1,0 +1,99 @@
+{
+  "badge": "Get In Touch",
+  "heading": {
+    "line1": "Let's Start the",
+    "highlight": "Conversation"
+  },
+  "subtitle": "From startups to enterprises, Dubai businesses trust us to deliver results. Get a free consultation today.",
+  "contactCards": [
+    {
+      "icon": "Phone",
+      "label": "Call Us",
+      "value": "+971 56 655 6645",
+      "sub": "Mon-Sat: 9 AM - 6 PM",
+      "href": "tel:+971566556645",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)"
+    },
+    {
+      "icon": "Mail",
+      "label": "Email Us",
+      "value": "setupzonedubai@gmail.com",
+      "sub": "We reply within 24 hours",
+      "href": "mailto:setupzonedubai@gmail.com",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)"
+    },
+    {
+      "icon": "MapPin",
+      "label": "Visit Us",
+      "value": "Crystal Tower, Business Bay",
+      "sub": "Dubai, UAE — PO Box 554552",
+      "href": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)"
+    }
+  ],
+  "workingHoursCard": {
+    "title": "Working Hours",
+    "timezoneLabel": "Dubai Time (GST)",
+    "todayBadge": "Today",
+    "hours": [
+      { "day": "Monday", "hours": "9:00 AM – 6:00 PM", "active": true },
+      { "day": "Tuesday", "hours": "9:00 AM – 6:00 PM", "active": false },
+      { "day": "Wednesday", "hours": "9:00 AM – 6:00 PM", "active": false },
+      { "day": "Thursday", "hours": "9:00 AM – 6:00 PM", "active": false },
+      { "day": "Friday", "hours": "9:00 AM – 6:00 PM", "active": false },
+      { "day": "Saturday", "hours": "10:00 AM – 5:00 PM", "active": false },
+      { "day": "Sunday", "hours": "Closed", "active": false, "closed": true }
+    ]
+  },
+  "trustBadges": [
+    { "icon": "Zap", "label": "< 24h", "sub": "Response" },
+    { "icon": "Lock", "label": "100%", "sub": "Confidential" },
+    { "icon": "CheckCircle2", "label": "Free", "sub": "Consultation" }
+  ],
+  "form": {
+    "title": "Send Us a Message",
+    "subtitle": "Fill in the form and our team will get back to you within 24 hours.",
+    "submitText": "Send Message",
+    "privacyNote": "Your information is safe and confidential",
+    "successTitle": "Opening WhatsApp... 🎉",
+    "successMessage": "Please send the pre-filled message to complete your inquiry.",
+    "whatsappNumber": "971566556645",
+    "whatsappSenderLine": "Sent from setupzonedubai@gmail.com",
+    "fields": {
+      "name": { "label": "Full Name", "placeholder": "John Smith", "required": true },
+      "email": { "label": "Email", "placeholder": "john@company.com", "required": true },
+      "phone": { "label": "Phone Number", "placeholder": "+971 50 123 4567", "required": true },
+      "nationality": { "label": "Nationality", "placeholder": "e.g. British, Indian", "required": false },
+      "service": { "label": "Select Service", "placeholder": "Choose a service...", "required": true },
+      "message": { "label": "Your Message", "placeholder": "Tell us about your business needs...", "required": true }
+    },
+    "services": [
+      "Business Setup — Free Zone",
+      "Business Setup — Mainland",
+      "Golden Visa",
+      "Corporate Tax & VAT",
+      "Bank Account Opening",
+      "Accounting & Bookkeeping",
+      "Compliance Services",
+      "PRO Services",
+      "Digital Marketing",
+      "Web Development",
+      "SEO Services",
+      "Other"
+    ]
+  },
+  "map": {
+    "title": "Head Office",
+    "address1": "Crystal Tower, Business Bay",
+    "address2": "Office M08-27, M1 Floor, Millennium Central Same Building, Al Asayel St, Dubai, U.A.E",
+    "directionsText": "Get Directions",
+    "directionsLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
+    "quickContactLabel": "Quick Contact",
+    "quickContactPhone": "+971 56 655 6645",
+    "quickContactMessage": "Hi! I'd like to visit your office."
+  }
+}

@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import shamsPackageData from '../../content/packages/shams-setup-package.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, Target, Crown, Store: StoreIcon, UserCheck,
@@ -30,7 +31,9 @@ const iconMap: any = {
 };
 
 export default function SHAMSSetupPackage({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || shamsPackageData;
+  const { language } = useLanguage();
+  const shamsFallback = loadContent('packages/shams-setup-package', language);
+  const data = tinaData?.data?.packages || shamsFallback;
 
   return (
     <div className="min-h-screen bg-white">

@@ -1,0 +1,462 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1600&q=80",
+  "heroBadge": "在 DKP 中设置更智能",
+  "heroTitle": "迪拜知识园自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "阿联酋唯一一个专注于教育、培训和人力资源开发的自由区。在区域领先的知识中心，成就您的未来。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "3-7天安装完成",
+    "教育生态系统"
+  ],
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "教育公司",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "buildFutureSection": {
+    "badge": "构建你的未来",
+    "title": "阿联酋唯一的教育自由区",
+    "titleHighlight": "教育自由区",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "imageBadgeTitle": "教育重点",
+    "imageBadgeText": "构建你的未来",
+    "paragraphs": [
+      "在迪拜知识园 (DKP) 自由区设立公司，您将获得独一无二的机会，成为阿联酋唯一专注于教育、培训和人力资源开发的自由区的一份子。DKP 旨在打造学习和人才发展中心，吸引了众多国际知名大学、培训中心、专业发展机构、人力资源咨询公司和知识型企业入驻。",
+      "无论您是拓展中东市场的教育机构、提供专业课程的培训机构、咨询公司还是人力资源解决方案公司，迪拜知识园都能为您提供理想的平台。其专业的生态系统能够促进企业合作、创新和发展，助力企业塑造学习与发展的未来。",
+      "在迪拜Setup Zone，我们简化了在迪拜发展局 (DKP) 设立公司的流程。从公司注册和许可证审批到签证、合规和运营支持，我们的团队确保您从始至终都能获得无缝衔接的服务。"
+    ],
+    "highlights": [
+      "100% 外资所有",
+      "零税收环境",
+      "技能人才获取",
+      "灵活办公空间",
+      "教育生态系统",
+      "全球认可"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "构建未来的福利",
+    "title": "为什么选择迪拜知识园？",
+    "titleHighlight": "迪拜知识园？",
+    "subtitle": "这对创业者和教育机构有很多好处。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有，零税收",
+        "description": "DKP允许外资完全控股，并提供免税环境——是国际教育企业和培训中心的理想选择。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Users",
+        "title": "获取技能人才和学生资源",
+        "description": "DKP 的地理位置及其对教育的重视吸引了来自世界各地的技术专业人士和学生，使其成为创新的理想之地。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "不同类型的许可证",
+        "description": "为您的活动获取专业、服务或贸易许可证——这将允许您选择任何教育方式；例如在线教育、高管培训和学术课程。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Layout",
+        "title": "灵活的工作空间和解决方案",
+        "description": "根据您的预算和业务需求，您可能需要联合办公桌、行政办公室或虚拟办公室套餐。",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "businessTypesSection": {
+    "badge": "启动你的愿景",
+    "title": "您可以在DKP上开展的业务类型",
+    "titleHighlight": "在 DKP 中发布",
+    "subtitle": "从培训中心到教育科技初创公司——DKP 为所有教育事业提供支持。",
+    "items": [
+      {
+        "icon": "School",
+        "title": "培训中心/学院",
+        "description": "开设一家认证中心，提供语言、职业、专业发展及其他课程项目。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Laptop",
+        "title": "电子学习平台和教育科技初创公司",
+        "description": "拥有有效的 DKP 电子学习许可证，您可以建立在线教育平台、LMS 或数字内容业务。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "学术与高等教育",
+        "description": "由于 DKP 拥有全面的监管支持，您可以不受限制地设立分校区或提供高管培训产品。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "自由职业者和 GoFreelance",
+        "description": "迪拜知识园鼓励自由职业者，并为 GoFreelance 平台上的教育工作者、培训师和顾问提供价格合理的许可证选项。",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "officeSection": {
+    "badge": "办公及基础设施",
+    "title": "在迪拜知识区成长",
+    "titleHighlight": "知识区",
+    "subtitle": "一流的设施，可实现灵活且可扩展的运营。",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "D/Quarters 的联合办公空间",
+        "description": "非常适合需要专业环境的自由职业者和初创公司。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Building2",
+        "title": "行政办公套房",
+        "description": "为培训机构和认证机构提供的优质办公空间。",
+        "color": "from-teal-400 to-cyan-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Globe",
+        "title": "虚拟办公室和灵活办公桌",
+        "description": "非常适合远程教育平台和咨询公司。灵活的租赁条款，从短期项目到多年运营均可适用——在最大限度地降低运营成本的同时，还能保留迪拜的尊贵地址。",
+        "color": "from-cyan-500 to-sky-600",
+        "size": "大的"
+      }
+    ]
+  },
+  "licensingSection": {
+    "badge": "快速完成你的培训",
+    "title": "DKP 许可和注册简化",
+    "titleHighlight": "注册流程简化",
+    "subtitle": "我们将为您的设置过程的每一步提供全程支持。",
+    "items": [
+      {
+        "icon": "FileText",
+        "title": "营业执照申请",
+        "description": "无论您是申请迪拜知识园专业许可证、培训公司许可证还是贸易许可证，我们都会确保为您提供最适合您业务的许可证。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Scale",
+        "title": "法律实体设立",
+        "description": "可选择设立为自由区机构（FZE）、自由区公司（FZCO）或分公司。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Database",
+        "title": "公司注册及AXS门户设置",
+        "description": "我们将您的企业注册到 DKP，并将您的延误与迪拜发展局 (DDA) 和 axs 服务关联起来。",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "签证与移民",
+    "title": "签证及移民服务",
+    "titleHighlight": "服务",
+    "subtitle": "我们帮助您轻松获得所有必要的签证——提供全程支持。",
+    "items": [
+      {
+        "icon": "Briefcase",
+        "label": "企业主投资签证"
+      },
+      {
+        "icon": "Users",
+        "label": "教职员工就业签证"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "独立顾问的自由职业签证"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "家属签证"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "阿联酋身份证协助"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "医疗和签证续签"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么要在迪拜设立 Zone？",
+    "title": "您值得信赖的安装合作伙伴",
+    "titleHighlight": "设置合作伙伴",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "透明、全包式定价"
+      },
+      {
+        "icon": "Zap",
+        "label": "在DKP快速成立公司"
+      },
+      {
+        "icon": "Shield",
+        "label": "Visa、银行和专业服务一站式服务"
+      },
+      {
+        "icon": "Palette",
+        "label": "品牌推广、客户关系管理、网站及搜索引擎优化支持"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "每一步都有专属顾问"
+      },
+      {
+        "icon": "Trophy",
+        "label": "蓬勃发展的企业，而不仅仅是初创企业。"
+      }
+    ],
+    "footerText": "我们确保您在迪拜知识园的业务不仅能够起步，而且能够蓬勃发展。"
+  },
+  "expandReachSection": {
+    "badge": "扩大您的影响力",
+    "title": "享受世界一流的设施",
+    "titleHighlight": "便利设施",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "企业所得税和个人所得税均为零"
+      },
+      {
+        "icon": "Globe",
+        "label": "进入国际市场"
+      },
+      {
+        "icon": "MapPin",
+        "label": "毗邻互联网城、媒体城和学术中心"
+      },
+      {
+        "icon": "CreditCard",
+        "label": "简易签证办理及办公解决方案"
+      },
+      {
+        "icon": "TrendingUp",
+        "label": "有利于企业发展的营商环境"
+      },
+      {
+        "icon": "Lightbulb",
+        "label": "促进创新的生态系统"
+      }
+    ],
+    "footerText": "凭借世界一流的配套设施和迪拜不断发展的数字基础设施，DKP 的企业享有前所未有的增长机遇。"
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "迪拜领先的教育中心",
+    "titleHighlight": "教育中心",
+    "subtitle": "快速发展的教育、培训和知识型企业生态系统。",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "500+",
+        "label": "教育公司",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "全球的",
+        "label": "学习品牌",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "教育中心",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "value": "生长",
+        "label": "知识经济",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "重要的",
+        "label": "区域影响",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "教育机构",
+        "color": "from-emerald-500 to-teal-700"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "title": "DKP vs IFZA vs 迪拜互联网城",
+    "subtitle": "教育及教育科技领域哪个区域胜出？",
+    "items": [
+      {
+        "factor": "起始成本",
+        "dkp": "18,000 迪拉姆",
+        "ifza": "11,500 迪拉姆",
+        "dic": "15,000 迪拉姆"
+      },
+      {
+        "factor": "最适合",
+        "dkp": "教育、培训、教育科技",
+        "ifza": "一般贸易，中小企业",
+        "dic": "科技、媒体、软件"
+      },
+      {
+        "factor": "教育生态系统",
+        "dkp": "出色的",
+        "ifza": "有限的",
+        "dic": "缓和"
+      },
+      {
+        "factor": "设置速度",
+        "dkp": "3-7天",
+        "ifza": "2-3天",
+        "dic": "3-5天"
+      },
+      {
+        "factor": "地点",
+        "dkp": "迪拜 Al Sufouh",
+        "ifza": "迪拜硅谷绿洲",
+        "dic": "迪拜互联网城"
+      },
+      {
+        "factor": "签证配额",
+        "dkp": "每张桌子最多可容纳 6 人以上",
+        "ifza": "最多 15",
+        "dic": "最多 6"
+      },
+      {
+        "factor": "自由职业者许可证",
+        "dkp": "是的（GoFreelance）",
+        "ifza": "不",
+        "dic": "不"
+      }
+    ],
+    "verdict": "DKP在教育、培训和教育科技企业方面遥遥领先——它是阿联酋唯一一个专门的教育自由区。IFZA在纯粹的成本优势方面胜出；DIC在纯粹的科技/媒体领域更胜一筹。但就任何与学习相关的领域而言，DKP都是无可匹敌的。"
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜知识园自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的DKP专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜知识园自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜知识园自由区设立企业有哪些优势？",
+        "a": "在迪拜知识园自由区开展业务，您可以拥有 100% 的外资所有权、免税以及技能娴熟的人才市场——这使其成为培训企业、在线学习企业和高等教育企业的理想之地。"
+      },
+      {
+        "q": "DKP拥有哪些类型的许可证？",
+        "a": "DKP 提供专业执照、服务执照和贸易执照——所有执照均针对教育活动量身定制，包括在线教育、高管学习、学术课程、培训中心和电子学习平台。"
+      },
+      {
+        "q": "我可以在迪拜知识园以自由职业者的身份开办公司吗？",
+        "a": "当然。DKP 通过 GoFreelance 平台鼓励自由职业者，为希望获得法律认可和开票能力的教育工作者、培训师和顾问提供价格合理的许可证。"
+      },
+      {
+        "q": "在迪拜知识园设立公司的流程是什么？",
+        "a": "整个流程包括选择您的业务活动和许可证类型、预留您的商号、提交申请、获得初步批准、租用办公场所，以及最终获得许可证。我们为您处理每一个步骤。"
+      },
+      {
+        "q": "我必须在DKP拥有实体办公室才能创业吗？",
+        "a": "不一定。DKP 提供虚拟办公室和灵活办公桌，非常适合远程优先的教育平台和咨询公司，此外，D/Quarters 还提供联合办公空间和行政办公套房。"
+      },
+      {
+        "q": "在迪拜知识园创办企业需要多长时间？",
+        "a": "通常需要 3-7 个工作日，具体时间取决于许可证类型、所需文件和办公场所选择。我们的团队确保从始至终流程顺畅快捷。"
+      },
+      {
+        "q": "DKP有哪些法律实体选项？",
+        "a": "您可以设立为自由区机构 (FZE)、自由区公司 (FZCO) 或外国公司的分支机构——每种机构都为不同的商业结构提供不同的优惠。"
+      },
+      {
+        "q": "DKP是否支持在线学习和教育科技初创公司？",
+        "a": "是的。DKP专为在线学习、教育科技、学习管理系统平台和数字内容企业而设计。您可以获得有效的DKP在线学习许可证，从而合法运营。"
+      },
+      {
+        "q": "如果我在DKP设立公司，我可以担保我的家人吗？",
+        "a": "是的。DKP支持家属签证担保、投资签证担保、教职员工工作签证担保以及独立顾问自由职业签证担保。"
+      },
+      {
+        "q": "Setup Zone Dubai在安装完成后会提供哪些后续支持？",
+        "a": "我们提供品牌推广、CRM集成、网站开发、SEO支持、增值税和会计协助、商业咨询以及专门的顾问来指导您在DKP的业务增长。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的 DKP 设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在迪拜知识园启动？",
+    "titleHighlight": "迪拜知识园？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "3-7天安装完成",
+      "教育生态系统"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于迪拜知识园筹建的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想探讨一下迪拜知识园的筹建事宜。"
+  }
+}

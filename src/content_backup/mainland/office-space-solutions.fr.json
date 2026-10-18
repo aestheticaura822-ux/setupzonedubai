@@ -1,0 +1,506 @@
+{
+    "slug":  "office-space-solutions",
+    "hero":  {
+                 "badge":  "Des espaces de bureaux pour tous",
+                 "title":  "Solutions d\u0027espaces de bureaux aux Émirats arabes unis, À  Dubaï",
+                 "titleHighlight":  "Solutions À  Dubaï",
+                 "subtitle":  "Des espaces de bureaux flexibles, haut de gamme et abordables pour tous les types d\u0027entreprises. Du poste de travail partagé au siège social complet.",
+                 "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "Solutions d\u0027espace de bureau",
+                 "breadcrumbParent":  "continent",
+                 "ctaPrimaryText":  "Obtenez une consultation gratuite",
+                 "ctaPrimaryLink":  "#contact",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Bonjour ! Je suis intéressé par les solutions d\u0027espaces de bureaux À  Dubaï.",
+                 "badges":  [
+                                "Plus de 500 options",
+                                "Plus de 8 emplacements",
+                                "Conditions flexibles",
+                                "Conformité totale"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Bâtiment 2",
+                      "value":  "Plus de 500",
+                      "label":  "Options de bureau",
+                      "color":  "de cyan 400 À  bleu 600"
+                  },
+                  {
+                      "icon":  "Épingle de carte",
+                      "value":  "8+",
+                      "label":  "Emplacements de choix",
+                      "color":  "du bleu 400 À  l\u0027indigo 600"
+                  },
+                  {
+                      "icon":  "Utilisateurs",
+                      "value":  "Plus de 10 000",
+                      "label":  "Entreprises desservies",
+                      "color":  "de l\u0027indigo 400 au violet 600"
+                  },
+                  {
+                      "icon":  "Horloge",
+                      "value":  "48 heures",
+                      "label":  "Temps d\u0027installation moyen",
+                      "color":  "de violet 400 À  pourpre 600"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "Pourquoi essentiel",
+                  "title":  "Pourquoi un espace de bureau est-il essentiel pour la création d\u0027une entreprise ?",
+                  "titleHighlight":  "Essentiel pour la création d\u0027entreprise ?",
+                  "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "Établit sa présence",
+                  "imageBadgeText":  "et crédibilité",
+                  "paragraph1":  "Les centres d\u0027affaires modernes de Dubaï et des Émirats arabes unis figurent parmi les plus dynamiques au monde ! Au-delÀ  des licences et des visas, disposer d\u0027un espace de bureaux professionnel est la pierre angulaire de toute présence commerciale.",
+                  "paragraph2":  "Pour la plupart des licences commerciales et professionnelles, une adresse de siège social est obligatoire et renforce la crédibilité de votre entreprise. Aux yeux des clients, des investisseurs et des autorités, un bureau en bonne et due forme témoigne de votre stabilité et de votre professionnalisme.",
+                  "paragraph3":  "Qu"™il s"™agisse d"™un bureau flexible, d"™un bureau équipé ou d"™un siège social, le choix de votre solution de bureau a un impact direct sur votre efficacité, vos coûts et votre succès À  long terme.",
+                  "features":  [
+                                   "Obligation légale",
+                                   "Confiance des clients",
+                                   "Confiance des investisseurs",
+                                   "Image professionnelle",
+                                   "Efficacité commerciale",
+                                   "Optimisation des coûts"
+                               ]
+              },
+    "officeTypesSection":  {
+                               "badge":  "Différentes options de bureau",
+                               "title":  "Quels types d\u0027espaces de bureaux sont disponibles ?",
+                               "titleHighlight":  "Espaces de bureaux",
+                               "subtitle":  "Découvrez 6 solutions de bureau haut de gamme, allant des bureaux abordables aux sièges sociaux complets.",
+                               "items":  [
+                                             {
+                                                 "id":  "flexible",
+                                                 "icon":  "Ordinateur portable",
+                                                 "title":  "Bureau flexible (bureau partagé)",
+                                                 "short":  "Espace de travail partagé abordable",
+                                                 "description":  "Le bureau flexible est la solution la plus abordable À  Dubaï, idéale pour les startups, les indépendants et les entrepreneurs individuels. Il comprend un poste de travail partagé, une licence commerciale, une adresse professionnelle et l\u0027accès À  la réception, aux espaces communs et aux salles de réunion, sans les coûts élevés d\u0027un bureau traditionnel.",
+                                                 "image":  "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200\u0026q=80",
+                                                 "color":  "de cyan 500 À  bleu 700",
+                                                 "features":  [
+                                                                  "Poste de travail partagé",
+                                                                  "Assistance en matière de licences commerciales",
+                                                                  "Adresse commerciale",
+                                                                  "Accès À  la salle de réunion",
+                                                                  "Rentable"
+                                                              ],
+                                                 "price":  "coût le plus bas"
+                                             },
+                                             {
+                                                 "id":  "dédié",
+                                                 "icon":  "Fauteuil",
+                                                 "title":  "Bureau dédié",
+                                                 "short":  "Espace de travail privé permanent",
+                                                 "description":  "Un bureau attitré offre un espace de travail permanent et privé au sein d\u0027un espace de coworking : idéal pour ceux qui recherchent stabilité et confidentialité. Contrairement aux bureaux partagés, il s\u0027agit d\u0027un espace personnel que vous pouvez organiser À  votre guise. La gestion du courrier, les charges et les équipements de bureau sont inclus.",
+                                                 "image":  "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1200\u0026q=80",
+                                                 "color":  "de bleu 500 À  indigo 700",
+                                                 "features":  [
+                                                                  "Bureau permanent",
+                                                                  "Gestion du courrier",
+                                                                  "Services publics inclus",
+                                                                  "Configuration privée",
+                                                                  "Équipements de bureau"
+                                                              ],
+                                                 "price":  "Excellent rapport qualité-prix"
+                                             },
+                                             {
+                                                 "id":  "privé",
+                                                 "icon":  "Porte ouverte",
+                                                 "title":  "Bureaux privés",
+                                                 "short":  "Entièrement meublé et fermé",
+                                                 "description":  "Un bureau privé offre aux PME et aux entreprises en pleine croissance un espace entièrement clos et meublé, garantissant une intimité et un contrôle absolus. Idéal pour le développement de leur marque, les réunions clients et leurs activités professionnelles, il bénéficie d\u0027une adresse prestigieuse dans des immeubles de bureaux de standing.",
+                                                 "image":  "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200\u0026q=80",
+                                                 "color":  "de l\u0027indigo 500 au violet 700",
+                                                 "features":  [
+                                                                  "Entièrement fermé",
+                                                                  "Entièrement meublé",
+                                                                  "Confidentialité totale",
+                                                                  "Liberté de marque",
+                                                                  "Adresse haut de gamme"
+                                                              ],
+                                                 "price":  "Les plus populaires"
+                                             },
+                                             {
+                                                 "id":  "entretenu",
+                                                 "icon":  "Couronne",
+                                                 "title":  "Bureaux équipés",
+                                                 "short":  "Entièrement équipé et prêt À  l\u0027emploi",
+                                                 "description":  "Les bureaux équipés sont des espaces de travail prêts À  l\u0027emploi qui répondent À  tous vos besoins professionnels : accueil, internet haut débit, salles de réunion, ménage et charges. Gagnez du temps et réduisez vos coûts d\u0027installation pour vous concentrer sur votre croissance.",
+                                                 "image":  "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200\u0026q=80",
+                                                 "color":  "de violet-500 À  pourpre-700",
+                                                 "features":  [
+                                                                  "Services de réception",
+                                                                  "Internet haut débit",
+                                                                  "Salles de réunion",
+                                                                  "Nettoyage et services publics",
+                                                                  "Plug \u0026 Play"
+                                                              ],
+                                                 "price":  "Prime"
+                                             },
+                                             {
+                                                 "id":  "espace de coworking",
+                                                 "icon":  "UsersRound",
+                                                 "title":  "Espaces de coworking",
+                                                 "short":  "Espace moderne collaboratif",
+                                                 "description":  "Les espaces de coworking sont des lieux dynamiques et modernes conÀ§us pour la collaboration, le réseautage et l\u0027innovation. Idéaux pour les indépendants, les startups et les entrepreneurs du numérique, ils proposent des formules d\u0027abonnement flexibles, des infrastructures de qualité et un environnement créatif.",
+                                                 "image":  "https://images.unsplash.com/photo-1541746972996-4e0b0f43e02a?w=1200\u0026q=80",
+                                                 "color":  "de violet 500 À  fuchsia 700",
+                                                 "features":  [
+                                                                  "Abonnements flexibles",
+                                                                  "Accès au réseau",
+                                                                  "Environnement créatif",
+                                                                  "Infrastructures modernes",
+                                                                  "Événements communautaires"
+                                                              ],
+                                                 "price":  "Flexible"
+                                             },
+                                             {
+                                                 "id":  "commercial",
+                                                 "icon":  "Bâtiment 2",
+                                                 "title":  "Bureaux commerciaux loués",
+                                                 "short":  "Espace de premier choix À  long terme",
+                                                 "description":  "Les bureaux en location commerciale sont idéaux pour les entreprises et les multinationales recherchant des espaces À  long terme dans des quartiers de premier plan comme Business Bay, DIFC, Sheikh Zayed Road et JLT. Entièrement personnalisables avec des options de marque et d\u0027aménagement.",
+                                                 "image":  "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200\u0026q=80",
+                                                 "color":  "de fuchsia-500 À  rose-700",
+                                                 "features":  [
+                                                                  "bail À  long terme",
+                                                                  "Personnalisation complète",
+                                                                  "Emplacements de choix",
+                                                                  "Liberté de marque",
+                                                                  "Siège régional prêt"
+                                                              ],
+                                                 "price":  "Entreprise"
+                                             }
+                                         ]
+                           },
+    "benefits":  {
+                     "badge":  "Le bon bureau favorise la réussite",
+                     "title":  "Avantages d\u0027avoir un bureau À  Dubaï",
+                     "titleHighlight":  "Bureau À  Dubaï",
+                     "subtitle":  "Six raisons majeures de trouver l\u0027espace de bureau idéal pour votre entreprise.",
+                     "items":  [
+                                   {
+                                       "icon":  "Bouclier",
+                                       "title":  "La conformité légale simplifiée",
+                                       "description":  "Toute licence commerciale À  Dubaï exige une adresse officielle enregistrée, ou Ejari. Un bureau adéquat garantit la pleine conformité de votre entreprise.",
+                                       "color":  "de cyan 400 À  bleu 600"
+                                   },
+                                   {
+                                       "icon":  "Prix",
+                                       "title":  "Image de marque professionnelle et crédibilité",
+                                       "description":  "Un bureau visible dans un emplacement prestigieux renforce la confiance des clients et consolide l\u0027image de votre entreprise sur des marchés concurrentiels.",
+                                       "color":  "du bleu 400 À  l\u0027indigo 600"
+                                   },
+                                   {
+                                       "icon":  "Réseau",
+                                       "title":  "Excellente opportunité de réseautage",
+                                       "description":  "Les bureaux partagés, les espaces de coworking et les centres d\u0027affaires vous mettent naturellement en relation avec des entrepreneurs et des partenaires partageant les mêmes idées.",
+                                       "color":  "de l\u0027indigo 400 au violet 600"
+                                   },
+                                   {
+                                       "icon":  "Tendances À  la hausse",
+                                       "title":  "Évolutivité pour la croissance",
+                                       "description":  "Commencez par un bureau flexible, puis passez facilement À  des bureaux privés ou commerciaux au fur et À  mesure que votre entreprise se développe.",
+                                       "color":  "de violet 400 À  pourpre 600"
+                                   },
+                                   {
+                                       "icon":  "Zap",
+                                       "title":  "Efficacité opérationnelle et économies de coûts",
+                                       "description":  "Les bureaux équipés vous offrent une infrastructure, un accueil et des services publics prêts À  l\u0027emploi, ce qui vous permet de gagner du temps et de réduire les coûts.",
+                                       "color":  "du violet 400 au fuchsia 600"
+                                   },
+                                   {
+                                       "icon":  "Épingle de carte",
+                                       "title":  "Emplacements commerciaux stratégiques",
+                                       "description":  "Business Bay, Downtown, Dubai Marina, JLT et les zones franches "” soyez au cÅ“ur des secteurs commerciaux florissants des Émirats arabes unis.",
+                                       "color":  "de fuchsia-400 À  rose-600"
+                                   }
+                               ]
+                 },
+    "simplifySection":  {
+                            "badge":  "Comment nous simplifions",
+                            "title":  "Comment Setup Zone Dubai simplifie-t-il l\u0027aménagement de bureaux ?",
+                            "titleHighlight":  "Simplifier l\u0027aménagement de votre bureau ?",
+                            "subtitle":  "Trois étapes simples pour créer votre espace de bureau idéal.",
+                            "steps":  [
+                                          {
+                                              "step":  "01",
+                                              "icon":  "Vérification du presse-papiers",
+                                              "title":  "Gérer toute la documentation et la conformité",
+                                              "description":  "Nous prenons en charge l\u0027intégralité du processus : inscription Ejari, contrats de location, approbations des autorités et toute la documentation relative À  votre licence.",
+                                              "color":  "de cyan 400 À  bleu 600"
+                                          },
+                                          {
+                                              "step":  "02",
+                                              "icon":  "Couches",
+                                              "title":  "Fournir des solutions de bureau flexibles et évolutives",
+                                              "description":  "Commencez par un bureau flexible ou un bureau dédié, puis passez À  un espace de bureau privé "“ une évolution fluide au fur et À  mesure que votre entreprise grandit.",
+                                              "color":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "step":  "03",
+                                              "icon":  "Cible",
+                                              "title":  "Réaliser une évaluation approfondie des besoins de l\u0027entreprise",
+                                              "description":  "Nous prenons le temps de comprendre les activités, la taille et les projets futurs de votre entreprise avant de vous recommander le type de bureau le plus adapté.",
+                                              "color":  "de l\u0027indigo 400 au violet 600"
+                                          }
+                                      ]
+                        },
+    "locationsSection":  {
+                             "badge":  "Lieux les plus demandés",
+                             "title":  "Où peut-on louer un bureau À  Dubaï et aux Émirats arabes unis ?",
+                             "titleHighlight":  "Louer un bureau",
+                             "subtitle":  "Découvrez nos 7 emplacements de choix, chacun offrant des avantages uniques.",
+                             "items":  [
+                                           {
+                                               "id":  "baie commerciale",
+                                               "name":  "Business Bay",
+                                               "tagline":  "Le quartier central des affaires de Dubaï",
+                                               "description":  "Réputé pour ses tours de bureaux ultramodernes et ses équipements haut de gamme. Proche du DIFC et des principales institutions financières. Convient À  tous types d\u0027entreprises, des startups aux multinationales.",
+                                               "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                               "color":  "de cyan 500 À  bleu 700",
+                                               "icon":  "Bâtiment 2",
+                                               "features":  [
+                                                                "Centre névralgique",
+                                                                "Tours emblématiques",
+                                                                "À€ proximité du DIFC",
+                                                                "Prestations haut de gamme"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "centre-ville",
+                                               "name":  "Centre-ville de Dubaï",
+                                               "tagline":  "Lieux d\u0027entreprise exclusifs",
+                                               "description":  "Des espaces de bureaux prestigieux et haut de gamme offrant des vues imprenables À  proximité du Burj Khalifa et du Dubai Mall. L\u0027adresse incontournable pour les entreprises en quête de crédibilité, de luxe et d\u0027une visibilité exceptionnelle.",
+                                               "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                                               "color":  "de bleu 500 À  indigo 700",
+                                               "icon":  "Couronne",
+                                               "features":  [
+                                                                "Vues du Burj Khalifa",
+                                                                "Bureaux de luxe",
+                                                                "Profil de haut niveau",
+                                                                "Adresse principale"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "jlt",
+                                               "name":  "Jumeirah Lake Towers (JLT)",
+                                               "tagline":  "Bureaux abordables et accès au métro",
+                                               "description":  "Un parfait équilibre entre prix abordable et praticité "” idéal pour les startups, les PME, les indépendants et les entrepreneurs. Excellentes liaisons routières et de métro, au cÅ“ur d\u0027un tissu économique dynamique.",
+                                               "image":  "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1200\u0026q=80",
+                                               "color":  "de l\u0027indigo 500 au violet 700",
+                                               "icon":  "Tendances À  la hausse",
+                                               "features":  [
+                                                                "Abordable",
+                                                                "Métro connecté",
+                                                                "Axé sur les PME",
+                                                                "Communauté dynamique"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "cheikh-zayed",
+                                               "name":  "Route Sheikh Zayed",
+                                               "tagline":  "Voie commerciale emblématique",
+                                               "description":  "L\u0027un des quartiers d\u0027affaires les plus prestigieux de Dubaï, réputé pour ses gratte-ciel emblématiques et son emplacement privilégié. Il offre une excellente visibilité, une grande accessibilité et une solide réputation.",
+                                               "image":  "https://images.unsplash.com/photo-1517935706615-2717063c2225?w=1200\u0026q=80",
+                                               "color":  "de violet-500 À  pourpre-700",
+                                               "icon":  "Bâtiment",
+                                               "features":  [
+                                                                "Adresse emblématique",
+                                                                "Haute visibilité",
+                                                                "Marques mondiales",
+                                                                "Emplacement de premier choix"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "marina",
+                                               "name":  "Marina de Dubaï",
+                                               "tagline":  "Pôle créatif du front de mer",
+                                               "description":  "Des espaces de bureaux élégants dans un cadre dynamique en bord de mer. Très prisés des industries créatives, des startups technologiques et des prestataires de services, ils bénéficient d\u0027une proximité avec des commerces, des restaurants et des résidences haut de gamme.",
+                                               "image":  "https://images.unsplash.com/photo-1512100356356-de1b84283e18?w=1200\u0026q=80",
+                                               "color":  "de violet 500 À  fuchsia 700",
+                                               "icon":  "Palette",
+                                               "features":  [
+                                                                "front de mer",
+                                                                "Centre créatif",
+                                                                "Start-ups technologiques",
+                                                                "Commodités de style de vie"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "zones franches",
+                                               "name":  "Zones franches de Dubaï",
+                                               "tagline":  "Installations de bureau liées aux licences",
+                                               "description":  "DMCC, IFZA, DAFZA, RAKEZ, Meydan et Shams proposent des espaces de bureaux économiques avec licences commerciales, propriété étrangère À  100 %, avantages fiscaux et écosystèmes industriels.",
+                                               "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=1200\u0026q=80",
+                                               "color":  "de fuchsia-500 À  rose-700",
+                                               "icon":  "Usine",
+                                               "features":  [
+                                                                "Licence commerciale incluse",
+                                                                "Propriété À  100 %",
+                                                                "Avantages fiscaux",
+                                                                "Écosystèmes industriels"
+                                                            ]
+                                           },
+                                           {
+                                               "id":  "Abou Dabi-Charjah",
+                                               "name":  "Abou Dhabi et Sharjah",
+                                               "tagline":  "Opérations régionales abordables",
+                                               "description":  "Des espaces de bureaux économiques, dotés d\u0027infrastructures solides et d\u0027emplacements stratégiques À  proximité des centres d\u0027échanges commerciaux "” idéaux pour développer ou créer des succursales en dehors de Dubaï.",
+                                               "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                               "color":  "de rose 500 À  rose 700",
+                                               "icon":  "Point de repère",
+                                               "features":  [
+                                                                "Économique",
+                                                                "Accès au centre commercial",
+                                                                "Configuration de la succursale",
+                                                                "Opérations régionales"
+                                                            ]
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSimple":  {
+                              "badge":  "Partenaire fiable pour l\u0027installation de votre bureau",
+                              "title":  "Pourquoi choisir Setup Zone Dubai pour vos espaces de bureaux ?",
+                              "titleHighlight":  "Zone d\u0027installation Dubaï",
+                              "subtitle":  "Accès direct pour les parties prenantes, tarification transparente et assistance de bout en bout.",
+                              "footer":  "Nous proposons nos services aux entrepreneurs, investisseurs et entreprises internationales qui recherchent une solution pratique, abordable et professionnelle pour leurs espaces de bureaux À  Dubaï et aux Émirats arabes unis.",
+                              "items":  [
+                                            {
+                                                "icon":  "Signe du dollar",
+                                                "label":  "Tarification transparente",
+                                                "desc":  "Aucuns frais cachés"
+                                            },
+                                            {
+                                                "icon":  "Utilisateurs",
+                                                "label":  "Accès direct aux parties prenantes",
+                                                "desc":  "zones franches et centres d\u0027affaires"
+                                            },
+                                            {
+                                                "icon":  "Signature du fichier",
+                                                "label":  "Rédaction de contrats",
+                                                "desc":  "Tous les documents légaux"
+                                            },
+                                            {
+                                                "icon":  "Vérification du presse-papiers",
+                                                "label":  "Inscription Ejari",
+                                                "desc":  "Conformité totale"
+                                            },
+                                            {
+                                                "icon":  "RefreshCw",
+                                                "label":  "Renouvellements et approbations",
+                                                "desc":  "Soutien continu"
+                                            },
+                                            {
+                                                "icon":  "Tendances À  la hausse",
+                                                "label":  "Packages évolutifs",
+                                                "desc":  "Commencez petit, grandissez"
+                                            }
+                                        ]
+                          },
+    "faqs":  {
+                 "badge":  "Questions fréquentes",
+                 "title":  "Foire aux questions",
+                 "titleHighlight":  "Questions",
+                 "subtitle":  "Tout ce que vous devez savoir sur les solutions d\u0027espaces de bureaux. Vous avez encore des questions ? Contactez-nous.",
+                 "items":  [
+                               {
+                                   "q":  "Quels types d\u0027espaces de bureaux sont proposés À  Dubaï et aux Émirats arabes unis ?",
+                                   "a":  "En fonction de la taille de votre entreprise, de votre budget et de vos exigences en matière de licences, vous pouvez choisir parmi des bureaux flexibles, des bureaux dédiés, des bureaux privés, des bureaux équipés, des espaces de coworking ou des espaces de bureaux commerciaux loués À  long terme."
+                               },
+                               {
+                                   "q":  "Ai-je besoin d\u0027un bureau pour obtenir une licence commerciale À  Dubaï ?",
+                                   "a":  "Oui. Toute licence commerciale À  Dubaï exige une adresse officielle enregistrée, ou Ejari. Les licences en zone franche proposent des formules « flexi-desk » qui fournissent une adresse commerciale sans bureau physique."
+                               },
+                               {
+                                   "q":  "Quelle est la différence entre un bureau flexible et un bureau dédié ?",
+                                   "a":  "Un bureau flexible (ou bureau partagé) est un poste de travail partagé que vous utilisez selon les disponibilités, idéal pour les indépendants. Un bureau dédié est votre propre bureau permanent dans un espace de coworking, offrant stabilité et confidentialité."
+                               },
+                               {
+                                   "q":  "Puis-je agrandir mes bureaux À  mesure que mon entreprise se développe ?",
+                                   "a":  "Absolument. Nous proposons des solutions évolutives : commencez par un bureau flexible ou un abonnement de coworking, puis passez facilement À  un bureau privé ou À  un espace commercial À  mesure que votre entreprise se développe."
+                               },
+                               {
+                                   "q":  "Les services publics et l\u0027accès À  Internet sont-ils inclus dans les forfaits de bureau ?",
+                                   "a":  "Oui. La plupart de nos formules de bureaux équipés et d\u0027espaces de coworking incluent les charges, l\u0027internet haut débit, l\u0027accueil, le ménage et l\u0027accès aux salles de réunion, le tout dans un forfait mensuel."
+                               },
+                               {
+                                   "q":  "Quels sont les quartiers les plus adaptés À  la location de bureaux À  Dubaï ?",
+                                   "a":  "Cela dépend de votre secteur d\u0027activité. Business Bay et le DIFC sont destinés aux grandes entreprises, Downtown au prestige, JLT À  des prix plus abordables, Dubai Marina aux secteurs créatifs et technologiques, et les zones franches au commerce et aux entreprises internationales."
+                               },
+                               {
+                                   "q":  "Combien coûte un espace de bureau À  Dubaï ?",
+                                   "a":  "Les tarifs varient, allant des bureaux flexibles abordables (À  partir d\u0027environ 5 000 AED/an) aux bureaux privés haut de gamme et aux espaces commerciaux. Nous vous proposons des solutions adaptées À  votre budget."
+                               },
+                               {
+                                   "q":  "Puis-je partager des bureaux avec une autre entreprise ?",
+                                   "a":  "Oui. Les espaces de coworking et les bureaux partagés vous permettent de partager des espaces communs avec d\u0027autres entreprises, tout en conservant votre propre espace de travail et votre adresse."
+                               },
+                               {
+                                   "q":  "Quel est le délai habituel pour aménager un espace de bureaux À  Dubaï ?",
+                                   "a":  "Comptez généralement 2 À  5 jours ouvrables pour les bureaux partagés et les espaces de coworking. Les bureaux commerciaux en location et les aménagements sur mesure peuvent nécessiter un délai plus long, selon les besoins."
+                               },
+                               {
+                                   "q":  "Quels sont les avantages de faire appel À  Setup Zone Dubai pour mes besoins en espaces de bureaux ?",
+                                   "a":  "Nous proposons une tarification transparente, un accès direct aux parties prenantes, la rédaction de contrats de bout en bout, l\u0027enregistrement Ejari, les renouvellements et les approbations des autorités compétentes, ainsi que des forfaits évolutifs adaptés À  votre entreprise."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "badge":  "Services connexes",
+                            "title":  "Services connexes",
+                            "titleHighlight":  "Services",
+                            "subtitle":  "Des services parfaitement adaptés À  vos besoins en matière d\u0027espace de bureau.",
+                            "items":  [
+                                          {
+                                              "slug":  "mainland-activities",
+                                              "title":  "Activités sur le continent",
+                                              "description":  "Plus de 2 000 activités approuvées par le DED À  Dubaï et aux Émirats arabes unis.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "de-émeraude-400 À -turquoise-600"
+                                          },
+                                          {
+                                              "slug":  "hiring-employee-management",
+                                              "title":  "Recrutement aux Émirats arabes unis",
+                                              "description":  "Solutions de recrutement et de gestion des employés.",
+                                              "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80",
+                                              "gradient":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "slug":  "mainland-visa",
+                                              "title":  "Services de visa pour les Émirats arabes unis continentaux",
+                                              "description":  "Visas d\u0027investisseur, de travail et familiaux.",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                                              "gradient":  "de cyan-400 À  ciel-600"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Trouvez votre bureau idéal",
+                     "title":  "Prêt À  trouver l\u0027espace de bureau idéal ?",
+                     "titleHighlight":  "L\u0027espace de bureau idéal ?",
+                     "subtitle":  "Votre entreprise mérite plus qu\u0027un simple bureau : elle a besoin d\u0027un espace qui favorise la croissance, la crédibilité et le succès.",
+                     "primaryCta":  "Contactez-nous sur WhatsApp",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tél. : +971566556645",
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite pour la recherche d\u0027espaces de bureaux À  Dubaï.",
+                     "badges":  [
+                                    "Consultation gratuite",
+                                    "Plus de 500 options",
+                                    "Conformité totale"
+                                ],
+                     "office":  {
+                                    "label":  "Visitez notre bureau de Dubaï",
+                                    "line1":  "Bureau M08-27, 1er étage, Crystal Tower",
+                                    "line2":  "Business Bay, Dubaï, Émirats arabes unis "” Boîte postale : 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Heures de travail",
+                                   "monFri":  "9h00 "“ 18h00",
+                                   "saturday":  "10h00 "“ 17h00",
+                                   "sunday":  "Fermé"
+                               }
+                 }
+}

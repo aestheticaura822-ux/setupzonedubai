@@ -1,0 +1,551 @@
+{
+    "slug":  "rakez-setup-package",
+    "hero":  {
+                 "badge":  "Centro industrial y comercial",
+                 "title":  "Paquete de configuraciÁ³n RAKEZ",
+                 "titleHighlight":  "Paquete",
+                 "subtitle":  "La Zona EconÁ³mica de Ras Al Khaimah es un centro rentable para empresas industriales, comerciales y de negocios. Paquetes asequibles desde tan solo 5999 AED: licencia, visa, cuenta bancaria y más.",
+                 "image":  "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=1600\u0026q=80",
+                 "breadcrumbLabel":  "Paquete de configuraciÁ³n RAKEZ",
+                 "ctaPrimaryText":  "Ver paquetes",
+                 "ctaPrimaryLink":  "#paquetes",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "¡Hola! Estoy interesado en el paquete de configuraciÁ³n de RAKEZ.",
+                 "badges":  [
+                                "Desde 5.999 AED",
+                                "11 paquetes",
+                                "InstalaciÁ³n en 3-7 dÁ­as",
+                                "Propiedad al 100%"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Signo de dÁ³lar",
+                      "value":  "5.999 AED",
+                      "label":  "A partir de",
+                      "color":  "de esmeralda 400 a verde azulado 600"
+                  },
+                  {
+                      "icon":  "Paquete",
+                      "value":  "11",
+                      "label":  "Paquetes",
+                      "color":  "de verde azulado 400 a verde 600"
+                  },
+                  {
+                      "icon":  "Reloj",
+                      "value":  "3-7",
+                      "label":  "ConfiguraciÁ³n de dÁ­as",
+                      "color":  "de verde 400 a esmeralda 600"
+                  },
+                  {
+                      "icon":  "Globo",
+                      "value":  "100%",
+                      "label":  "Propiedad",
+                      "color":  "de esmeralda 400 a verde azulado 500"
+                  }
+              ],
+    "intro":  {
+                  "badge":  "¡Estamos aquÁ­ para ayudar!",
+                  "title":  "Paquetes de configuraciÁ³n RAKEZ asequibles para su negocio en los Emiratos Árabes Unidos.",
+                  "titleHighlight":  "para su negocio en los Emiratos Árabes Unidos",
+                  "image":  "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=1200\u0026q=80",
+                  "imageBadgeTitle":  "Zona Franca RAKEZ",
+                  "imageBadgeText":  "Ras Al Khaimah, Emiratos Árabes Unidos",
+                  "paragraph1":  "¿Busca establecer su negocio en el prÁ³spero mercado de los EAU? Nuestro equipo de expertos se especializa en ayudar a emprendedores a crear empresas exitosas en más de 65 jurisdicciones.",
+                  "paragraph2":  "Tanto si prefiere la flexibilidad de una Zona Franca como el prestigio de una licencia comercial en el territorio continental de Estados Unidos, ofrecemos los mejores paquetes de creaciÁ³n de empresas en Dubái para satisfacer sus objetivos industriales, comerciales y empresariales.",
+                  "paragraph3":  "Todos los paquetes ofrecen un punto de partida para su trayectoria empresarial y pueden personalizarse para adaptarse a sus necesidades.",
+                  "features":  [
+                                   "Más de 65 jurisdicciones",
+                                   "Zona de prioridad industrial",
+                                   "Paquetes personalizables",
+                                   "Desde 5.999 AED",
+                                   "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                   "Soporte completo"
+                               ]
+              },
+    "businessIndustries":  {
+                               "badge":  "Ecosistema industrial y comercial",
+                               "title":  "Diseñado para la industria y el comercio.",
+                               "titleHighlight":  "Industria y comercio",
+                               "subtitle":  "Seis sectores industriales que prosperan en la Zona Franca de RAKEZ.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Fábrica",
+                                                 "title":  "Industria y manufactura",
+                                                 "desc":  "FabricaciÁ³n ligera, montaje, producciÁ³n",
+                                                 "color":  "de esmeralda 400 a verde azulado 600"
+                                             },
+                                             {
+                                                 "icon":  "CamiÁ³n",
+                                                 "title":  "LogÁ­stica y distribuciÁ³n",
+                                                 "desc":  "Almacenamiento, transporte de mercancÁ­as, cadena de suministro",
+                                                 "color":  "de verde azulado 400 a verde 600"
+                                             },
+                                             {
+                                                 "icon":  "Barco",
+                                                 "title":  "Sector marÁ­timo y transporte marÁ­timo",
+                                                 "desc":  "Servicios marÁ­timos, transporte marÁ­timo, logÁ­stica portuaria",
+                                                 "color":  "de verde 400 a esmeralda 600"
+                                             },
+                                             {
+                                                 "icon":  "Recipiente",
+                                                 "title":  "Comercio general",
+                                                 "desc":  "ImportaciÁ³n/exportaciÁ³n, venta al por mayor, materias primas",
+                                                 "color":  "de cian 400 a verde azulado 600"
+                                             },
+                                             {
+                                                 "icon":  "Diente",
+                                                 "title":  "IngenierÁ­a y Técnica",
+                                                 "desc":  "ConsultorÁ­a, contrataciÁ³n, servicios técnicos",
+                                                 "color":  "desde el cielo 400 hasta el cian 600"
+                                             },
+                                             {
+                                                 "icon":  "DepÁ³sito",
+                                                 "title":  "Almacenamiento y depÁ³sito",
+                                                 "desc":  "Centros de distribuciÁ³n, almacenamiento en frÁ­o y depÁ³sitos aduaneros.",
+                                                 "color":  "del azul 400 al cielo 600"
+                                             }
+                                         ]
+                           },
+    "packages":  {
+                     "badge":  "Paquetes de instalaciÁ³n asequibles en Dubái",
+                     "title":  "Nuestros paquetes de configuraciÁ³n RAKEZ",
+                     "titleHighlight":  "Paquetes de configuraciÁ³n de RAKEZ",
+                     "subtitle":  "11 paquetes premium diseñados para empresas industriales y comerciales. Todos personalizables.",
+                     "items":  [
+                                   {
+                                       "id":  1,
+                                       "icon":  "AviÁ³n",
+                                       "title":  "ConsultorÁ­a de viajes y turismo",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de esmeralda 500 a verde azulado 700",
+                                       "badge":  "Popular",
+                                       "badgeColor":  "de esmeralda 500 a verde azulado 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  2,
+                                       "icon":  "Cámara",
+                                       "title":  "GestiÁ³n de eventos",
+                                       "price":  "14.499 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de azul verdoso 500 a verde 700",
+                                       "badge":  "De primera calidad",
+                                       "badgeColor":  "de azul verdoso 500 a verde 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  3,
+                                       "icon":  "Carro de la compra",
+                                       "title":  "Comercio general",
+                                       "price":  "15.999 AED",
+                                       "tagline":  "Con visa de residencia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de verde 500 a esmeralda 700",
+                                       "badge":  "Mejor relaciÁ³n calidad-precio",
+                                       "badgeColor":  "de verde 500 a esmeralda 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "1. Visa de residencia/inversionista en los EAU",
+                                                        "Cambio de estatus, documento de identidad de los Emiratos Árabes Unidos y trámites médicos.",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  4,
+                                       "icon":  "Paleta",
+                                       "title":  "Diseño de moda",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de esmeralda 500 a verde 700",
+                                       "badge":  "Creativo",
+                                       "badgeColor":  "de esmeralda 500 a verde 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  5,
+                                       "icon":  "Pesa",
+                                       "title":  "Fitness y estilo de vida",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de verde azulado 500 a cian 700",
+                                       "badge":  "Asequible",
+                                       "badgeColor":  "de verde azulado 500 a cian 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  6,
+                                       "icon":  "Carro de la compra",
+                                       "title":  "Comercio electrÁ³nico",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Listo para negocios en lÁ­nea",
+                                       "category":  "EconomÁ­a",
+                                       "color":  "de cian 500 a verde azulado 700",
+                                       "badge":  "Popular",
+                                       "badgeColor":  "de cian 500 a verde azulado 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  7,
+                                       "icon":  "Computadora portátil",
+                                       "title":  "Servicios de TI",
+                                       "price":  "6.449 AED",
+                                       "tagline":  "Hasta 5 actividades",
+                                       "category":  "Profesional",
+                                       "color":  "de sky-500 a cyan-700",
+                                       "badge":  "TecnologÁ­a",
+                                       "badgeColor":  "de sky-500 a cyan-600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  8,
+                                       "icon":  "Almacenar",
+                                       "title":  "Comercio general",
+                                       "price":  "7.999 AED",
+                                       "tagline":  "Trading de nivel básico",
+                                       "category":  "Estándar",
+                                       "color":  "del azul 500 al cielo 700",
+                                       "badge":  "Mejor vendido",
+                                       "badgeColor":  "del azul 500 al cielo 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  9,
+                                       "icon":  "Corona",
+                                       "title":  "Licencia de zona franca con residencia vitalicia en los EAU.",
+                                       "price":  "11.999 AED",
+                                       "tagline":  "Residencia vitalicia",
+                                       "category":  "De primera calidad",
+                                       "color":  "de Á­ndigo 500 a azul 700",
+                                       "badge":  "Exclusivo",
+                                       "badgeColor":  "de Á­ndigo 500 a azul 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Residencia gratuita en los EAU / visa de inversionista de por vida",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ]
+                                   },
+                                   {
+                                       "id":  10,
+                                       "icon":  "Marca",
+                                       "title":  "Licencia de conducir continental con residencia en los Emiratos Árabes Unidos.",
+                                       "price":  "16.999 AED",
+                                       "tagline":  "Continente + Residencia",
+                                       "category":  "Continente",
+                                       "color":  "de pizarra-600 a pizarra-800",
+                                       "badge":  "Continente",
+                                       "badgeColor":  "de pizarra-600 a pizarra-700",
+                                       "includes":  [
+                                                        "Licencia continental",
+                                                        "1. Visa de residencia/inversionista de los EAU",
+                                                        "Cambio de estatus, documento médico, identificaciÁ³n de los Emiratos Árabes Unidos y examen médico.",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "GestiÁ³n de proyectos",
+                                                                 "ConsultorÁ­a de gestiÁ³n",
+                                                                 "Agente comercial",
+                                                                 "GestiÁ³n de instalaciones",
+                                                                 "Servicios de limpieza",
+                                                                 "Mantenimiento de edificios"
+                                                             ]
+                                   },
+                                   {
+                                       "id":  11,
+                                       "icon":  "CorazÁ³n",
+                                       "title":  "Emprendimiento femenino",
+                                       "price":  "5.999 AED",
+                                       "tagline":  "Diseñado para mujeres emprendedoras.",
+                                       "category":  "Especial",
+                                       "color":  "de rosa 500 a rosa 700",
+                                       "badge":  "Especial",
+                                       "badgeColor":  "de rosa 500 a rosa 600",
+                                       "includes":  [
+                                                        "licencia de zona franca",
+                                                        "Contrato de arrendamiento gratuito",
+                                                        "Hasta 5 actividades comerciales",
+                                                        "Asistencia gratuita para abrir una cuenta bancaria",
+                                                        "DirecciÁ³n premium y apartado postal compartido",
+                                                        "Consulta gratuita sobre el IVA"
+                                                    ],
+                                       "exampleActivities":  [
+                                                                 "Coaching de estilo de vida",
+                                                                 "Marketing digital",
+                                                                 "Diseño de moda y ropa",
+                                                                 "GestiÁ³n de eventos",
+                                                                 "Servicios de consultorÁ­a"
+                                                             ]
+                                   }
+                               ]
+                 },
+    "customPackageCTA":  {
+                             "title":  "¿Necesita un paquete industrial personalizado?",
+                             "subtitle":  "Cuéntenos su visiÁ³n industrial o comercial y le diseñaremos la soluciÁ³n perfecta.",
+                             "buttonText":  "CotizaciÁ³n personalizada",
+                             "whatsappMessage":  "¡Hola! Necesito un paquete de configuraciÁ³n personalizado para RAKEZ."
+                         },
+    "benefits":  {
+                     "badge":  "¿Por qué RAKEZ?",
+                     "title":  "Beneficios de la configuraciÁ³n de RAKEZ",
+                     "titleHighlight":  "ConfiguraciÁ³n de RAKEZ",
+                     "subtitle":  "Seis poderosas ventajas para las empresas industriales y comerciales.",
+                     "items":  [
+                                   {
+                                       "icon":  "Fábrica",
+                                       "title":  "Centro industrial",
+                                       "desc":  "El motor econÁ³mico de RAK",
+                                       "color":  "de esmeralda 400 a verde azulado 600"
+                                   },
+                                   {
+                                       "icon":  "Signo de dÁ³lar",
+                                       "title":  "ConfiguraciÁ³n de bajo costo",
+                                       "desc":  "Desde 5.999 AED",
+                                       "color":  "de verde azulado 400 a verde 600"
+                                   },
+                                   {
+                                       "icon":  "Globo",
+                                       "title":  "Propiedad 100% extranjera",
+                                       "desc":  "Propiedad extranjera total",
+                                       "color":  "de verde 400 a esmeralda 600"
+                                   },
+                                   {
+                                       "icon":  "Borrar",
+                                       "title":  "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                       "desc":  "ExpediciÁ³n rápida de licencias",
+                                       "color":  "de esmeralda 400 a verde azulado 500"
+                                   },
+                                   {
+                                       "icon":  "Billetera",
+                                       "title":  "Entorno fiscal del 0%",
+                                       "desc":  "Beneficios libres de impuestos",
+                                       "color":  "de cian 400 a verde azulado 600"
+                                   },
+                                   {
+                                       "icon":  "ShieldCheck",
+                                       "title":  "Rentable",
+                                       "desc":  "La mejor relaciÁ³n calidad-precio en los Emiratos Árabes Unidos.",
+                                       "color":  "desde el cielo 400 hasta el cian 600"
+                                   }
+                               ]
+                 },
+    "process":  {
+                    "badge":  "Proceso de 6 pasos",
+                    "title":  "CÁ³mo empezar",
+                    "titleHighlight":  "Comience",
+                    "subtitle":  "Desde la selecciÁ³n del paquete hasta la cuenta bancaria, nos encargamos de todo.",
+                    "steps":  [
+                                  {
+                                      "step":  "01",
+                                      "icon":  "Objetivo",
+                                      "title":  "Elige tu paquete",
+                                      "description":  "Seleccione entre nuestros paquetes orientados al sector industrial.",
+                                      "color":  "de esmeralda 400 a verde azulado 600"
+                                  },
+                                  {
+                                      "step":  "02",
+                                      "icon":  "Firma del archivo",
+                                      "title":  "Enviar documentos",
+                                      "description":  "Copias del pasaporte, plan de negocios y fotografÁ­as.",
+                                      "color":  "de verde azulado 400 a verde 600"
+                                  },
+                                  {
+                                      "step":  "03",
+                                      "icon":  "ComprobaciÁ³n del portapapeles",
+                                      "title":  "Solicitud de licencia",
+                                      "description":  "Presentamos la solicitud ante la autoridad RAKEZ.",
+                                      "color":  "de verde 400 a esmeralda 600"
+                                  },
+                                  {
+                                      "step":  "04",
+                                      "icon":  "Texto desplazable",
+                                      "title":  "Reciba su licencia",
+                                      "description":  "Licencia obtenida en un plazo de 3 a 7 dÁ­as.",
+                                      "color":  "de esmeralda 400 a verde azulado 500"
+                                  }
+                              ]
+                },
+    "whyChooseUs":  {
+                        "badge":  "¿Por qué elegirnos?",
+                        "title":  "Su socio de confianza para la configuraciÁ³n de RAKEZ",
+                        "titleHighlight":  "Socio de configuraciÁ³n de RAKEZ",
+                        "subtitle":  "Ocho razones por las que las empresas industriales confÁ­an en nosotros.",
+                        "items":  [
+                                      {
+                                          "icon":  "Signo de dÁ³lar",
+                                          "label":  "Precios transparentes",
+                                          "desc":  "Sin cargos ocultos, nunca."
+                                      },
+                                      {
+                                          "icon":  "Borrar",
+                                          "label":  "InstalaciÁ³n rápida en 3-7 dÁ­as",
+                                          "desc":  "ExpediciÁ³n rápida de licencias"
+                                      },
+                                      {
+                                          "icon":  "ShieldCheck",
+                                          "label":  "Cumplimiento al 100%",
+                                          "desc":  "Totalmente aprobado por el gobierno."
+                                      },
+                                      {
+                                          "icon":  "VerificaciÁ³n de usuario",
+                                          "label":  "Consultor especializado",
+                                          "desc":  "Asesor personal"
+                                      },
+                                      {
+                                          "icon":  "Globo",
+                                          "label":  "Equipo multilingüe",
+                                          "desc":  "Inglés, árabe, hindi, urdu"
+                                      },
+                                      {
+                                          "icon":  "ActualizarCw",
+                                          "label":  "Consulta sobre el IVA",
+                                          "desc":  "Incluido gratis"
+                                      },
+                                      {
+                                          "icon":  "Otorgar",
+                                          "label":  "Más de 10.000 empresas",
+                                          "desc":  "Lanzado con éxito"
+                                      },
+                                      {
+                                          "icon":  "ApretÁ³n de manos",
+                                          "label":  "Soporte integral",
+                                          "desc":  "Licencia para abrir una cuenta bancaria"
+                                      }
+                                  ]
+                    },
+    "faqs":  {
+                 "badge":  "Preguntas frecuentes",
+                 "title":  "Preguntas frecuentes",
+                 "titleHighlight":  "Preguntas",
+                 "subtitle":  "Todo lo que necesitas saber sobre RAKEZ Free Zone. ¿AÁºn tienes preguntas? Contáctanos.",
+                 "items":  [
+                               {
+                                   "q":  "¿Qué es la Zona Franca RAKEZ?",
+                                   "a":  "RAKEZ (Zona EconÁ³mica de Ras Al Khaimah) es una de las zonas francas más grandes y rentables de los EAU, sede de más de 21 000 empresas de más de 100 paÁ­ses. Ofrece una instalaciÁ³n a bajo coste, propiedad 100% extranjera y obtenciÁ³n rápida de licencias en un plazo de 3 a 7 dÁ­as hábiles."
+                               },
+                               {
+                                   "q":  "¿DÁ³nde se encuentra RAKEZ?",
+                                   "a":  "RAKEZ está ubicado en Ras Al Khaimah, Emiratos Árabes Unidos, el emirato más septentrional. Ofrece una excelente conectividad con Dubái, Sharjah y otros emiratos, con fácil acceso a las principales autopistas, el puerto de RAK y los aeropuertos internacionales."
+                               },
+                               {
+                                   "q":  "¿Qué incluye el paquete de instalaciÁ³n de RAKEZ?",
+                                   "a":  "SegÁºn el paquete, obtendrá la licencia de Zona Franca, visa de residencia, documento de identidad emiratÁ­ (Examen médico), contrato de arrendamiento, asistencia para la apertura de cuenta bancaria, direcciÁ³n premium y consulta gratuita sobre el IVA."
+                               },
+                               {
+                                   "q":  "¿Cuánto cuesta un paquete RAKEZ?",
+                                   "a":  "Nuestros paquetes RAKEZ tienen precios que van desde 5999 AED (EconÁ³mico) hasta 16 999 AED (Tierra continental + Residencia). Los paquetes Premium con visa comienzan en 14 499 AED."
+                               },
+                               {
+                                   "q":  "¿Cuánto tiempo tarda la instalaciÁ³n?",
+                                   "a":  "Normalmente, la emisiÁ³n de la licencia tarda entre 3 y 7 dÁ­as hábiles, y la tramitaciÁ³n del visado y la apertura de la cuenta bancaria requieren entre 1 y 2 semanas adicionales."
+                               },
+                               {
+                                   "q":  "¿Puedo personalizar mi paquete?",
+                                   "a":  "SÁ­. Todos los paquetes son puntos de partida y se pueden personalizar para que se ajusten a las necesidades y al presupuesto de su negocio industrial, comercial o de servicios."
+                               },
+                               {
+                                   "q":  "¿Puedo obtener un visado de residencia en los Emiratos Árabes Unidos?",
+                                   "a":  "SÁ­, algunos paquetes incluyen un visado de inversionista/residencia en los EAU con examen médico, documento de identidad de los Emiratos y cambio de estatus. La licencia de zona franca con residencia vitalicia en los EAU incluso ofrece residencia de por vida."
+                               },
+                               {
+                                   "q":  "¿Está incluida la apertura de una cuenta bancaria?",
+                                   "a":  "SÁ­. Todos los paquetes incluyen asistencia gratuita para la apertura de cuentas bancarias corporativas en los principales bancos de los Emiratos Árabes Unidos."
+                               },
+                               {
+                                   "q":  "¿Qué actividades puedo realizar en RAKEZ?",
+                                   "a":  "RAKEZ presta servicios a los sectores industrial y manufacturero, logÁ­stico y de distribuciÁ³n, marÁ­timo y de transporte, comercio general, ingenierÁ­a y técnico, almacenamiento y bodegaje, y otros sectores comerciales, con hasta 5 actividades en la mayorÁ­a de los paquetes econÁ³micos."
+                               },
+                               {
+                                   "q":  "¿Por qué elegir Setup Zone Dubai para la configuraciÁ³n de RAKEZ?",
+                                   "a":  "Ofrecemos precios transparentes, experiencia en el sector industrial, consultores especializados y asistencia integral, desde la obtenciÁ³n de licencias hasta la apertura de visas y la gestiÁ³n de cuentas bancarias. Todo ello respaldado por más de 10 000 instalaciones exitosas."
+                               }
+                           ]
+             },
+    "finalCTA":  {
+                     "badge":  "Inicie hoy mismo su negocio industrial.",
+                     "title":  "¿Listo para lanzar tu producto en RAKEZ Ras Al Khaimah?",
+                     "titleHighlight":  "RAKEZ ¿Ras Al Khaimah?",
+                     "subtitle":  "Solicita una consulta gratuita. Te ayudaremos a elegir el paquete adecuado y a poner en marcha tu negocio industrial en cuestiÁ³n de dÁ­as.",
+                     "primaryCta":  "Contáctanos por WhatsApp",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "whatsappMessage":  "¡Hola! Me gustarÁ­a una consulta gratuita sobre el paquete de configuraciÁ³n de RAKEZ.",
+                     "badges":  [
+                                    "Desde 5.999 AED",
+                                    "InstalaciÁ³n en 3-7 dÁ­as",
+                                    "Propiedad al 100%"
+                                ],
+                     "office":  {
+                                    "label":  "Visite nuestra oficina en Dubái.",
+                                    "line1":  "Oficina M08-27, planta M1, Torre Crystal",
+                                    "line2":  "Business Bay, Dubái, Emiratos Árabes Unidos "” Apartado postal: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Horario laboral",
+                                   "monFri":  "8:00 - 18:00",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Cerrado"
+                               }
+                 }
+}

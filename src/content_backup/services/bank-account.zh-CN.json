@@ -1,0 +1,453 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=1600&q=80",
+  "heroBadge": "快速合规的安装",
+  "heroTitle": "在阿联酋开设商业银行账户",
+  "heroTitleHighlight": "阿联酋",
+  "heroSubtitle": "在阿联酋顶级银行（如阿联酋国民银行、马什雷克银行、FAB银行、RAKBANK银行、ADIB银行和WIO银行）开设您的企业银行账户。我们提供全程KYC支持、文件准备和银行介绍服务。",
+  "heroChips": [
+    "6家以上银行合作伙伴",
+    "多币种",
+    "快速审批"
+  ],
+  "stats": [
+    {
+      "icon": "Zap",
+      "value": "2-5",
+      "label": "天（数字版）",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Landmark",
+      "value": "6岁以上",
+      "label": "银行合作伙伴",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "已开立账户",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Award",
+      "value": "100%",
+      "label": "成功率",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "whyNeededSection": {
+    "badge": "为什么这很重要",
+    "title": "为什么您需要在阿联酋开设企业银行账户",
+    "titleHighlight": "在阿联酋开设账户",
+    "subtitle": "如果没有公司银行账户，您将无法合法经营、接受付款或遵守阿联酋的法规。",
+    "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=1200&q=80",
+    "imageBadgeTitle": "必备",
+    "imageBadgeText": "阿联酋所有企业",
+    "items": [
+      {
+        "icon": "Wallet",
+        "title": "运营及收款",
+        "description": "必须接受付款、发票，并与本地或国际客户进行合法交易。"
+      },
+      {
+        "icon": "Users",
+        "title": "通过WPS支付员工工资",
+        "description": "阿联酋法律规定，工资必须通过与WPS（工资支付系统）关联的账户支付。没有账户则无法进行合规的工资发放。"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "区分商业和个人事务",
+        "description": "正确的增值税、会计和审计记账是合规的必要条件。"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "启用增值税和税务申报",
+        "description": "有效的企业账户是进行联邦税务局增值税登记和企业所得税申报的必要条件。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "建立信用记录以获得贷款",
+        "description": "良好的银行往来记录有助于未来的融资、信贷安排和贸易融资。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "中央银行合规性",
+        "description": "阿联酋中央银行要求所有注册公司都必须开设有效的企业账户。"
+      }
+    ]
+  },
+  "eligibilitySection": {
+    "badge": "合格",
+    "title": "谁可以开设公司银行账户？",
+    "titleHighlight": "帐户？",
+    "subtitle": "多种类型的企业和个人都可以在阿联酋开设公司账户。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "阿联酋大陆企业",
+        "description": "有限责任公司、外国公司分支机构以及在 DED 注册的专业/民事公司。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "自由区公司",
+        "description": "所有持有有效营业执照的自由区持牌实体——我们为您匹配合适的银行。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Landmark",
+        "title": "离岸公司",
+        "description": "允许在特定银行用于非交易目的——持有资产和投资。",
+        "color": "from-cyan-400 to-teal-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "国际投资者",
+        "description": "持有营业执照、阿联酋身份证/居留证以及经公证的股东协议的外国投资者。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "电子商务提供商",
+        "description": "拥有有效自由区或大陆牌照的SaaS、代发货、数字营销和在线业务。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "自由职业者",
+        "description": "持有迪拜媒体城、SHAMS、RAKEZ、twofour54 或阿布扎比媒体区许可证的人员。",
+        "color": "from-lime-400 to-green-600"
+      }
+    ]
+  },
+  "challengesSection": {
+    "badge": "共同挑战",
+    "title": "银行账户开立面临的挑战",
+    "titleHighlight": "挑战",
+    "subtitle": "阿联酋的银行有着严格的要求——以下是可能出现的问题以及我们的解决方法。",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "title": "严格的KYC验证",
+        "description": "阿联酋的银行会对企业、所有者和资金来源进行严格的KYC（了解你的客户）审查。我们准备的完整KYC文件能够一次性通过审查。"
+      },
+      {
+        "icon": "Globe",
+        "title": "加强国籍审查",
+        "description": "某些国籍和高风险活动会触发额外的审核程序。我们会根据您的个人资料为您匹配合适的银行。"
+      },
+      {
+        "icon": "Building2",
+        "title": "本地存在证明",
+        "description": "银行通常需要Ejari账户证明、租赁合同或水电煤气账单。我们会协助您准备这些文件，以便您申请银行服务。"
+      },
+      {
+        "icon": "Clock",
+        "title": "合规延误",
+        "description": "文件不一致可能会导致审批延迟数周。我们预先筛选的文件可以避免反复修改。"
+      }
+    ]
+  },
+  "risksSection": {
+    "badge": "严重警告",
+    "title": "延迟开设银行账户的风险",
+    "titleHighlight": "账户设置",
+    "subtitle": "等待太久才开设阿联酋企业银行账户，不仅会浪费时间，还会导致业务停滞、引发罚款，并损害企业信誉。",
+    "warningCard": {
+      "badge": "立即行动",
+      "bigNumber": "10,000 迪拉姆以上",
+      "bigNumberLabel": "不遵守规定可能面临的罚款",
+      "subStats": [
+        {
+          "value": "30岁以上",
+          "label": "延误数日"
+        },
+        {
+          "value": "周",
+          "label": "恢复"
+        }
+      ],
+      "ctaText": "立即开始",
+      "ctaMessage": "您好！我不想耽误我的银行账户开户。请帮帮我，让我开始办理。"
+    },
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "付款和发票延迟",
+        "description": "如果没有公司账户，您就无法开具发票、收取款项或进行 B2B 交易，从而导致现金流问题。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "增值税和WPS问题",
+        "description": "没有银行账户意味着无法进行增值税登记，无法遵守工资保障计划 (WPS)，并且可能因不合规而受到当局的罚款。",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "不良历史限制了融资",
+        "description": "即使是申请被拒也会被记录在合规备注中，这使得未来获得贷款和贸易融资更加困难。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "对不活跃企业的罚款",
+        "description": "自由区或大陆当局可以对没有活跃银行账户的公司进行处罚——甚至可能吊销营业执照。",
+        "color": "from-red-500 to-red-700"
+      }
+    ],
+    "adviceTitle": "💡我们的建议",
+    "adviceText": "别犹豫——银行账户开户只需2-20天，具体时间取决于账户类型。越早开始，就能越早开展业务、收款并确保合规。"
+  },
+  "servicesSection": {
+    "badge": "我们提供的服务",
+    "title": "我们的银行账户开立服务",
+    "titleHighlight": "服务",
+    "subtitle": "提供从评估到账户激活的全程支持。",
+    "items": [
+      {
+        "icon": "TrendingUp",
+        "title": "银行匹配评估",
+        "description": "分析您的业务活动、许可证和理想银行匹配度。"
+      },
+      {
+        "icon": "FileText",
+        "title": "KYC文件准备",
+        "description": "完整的文档、股东文件和商业计划书。"
+      },
+      {
+        "icon": "FileCheck",
+        "title": "公证与认证",
+        "description": "文件翻译和法律认证支持。"
+      },
+      {
+        "icon": "Calendar",
+        "title": "银行会议安排",
+        "description": "预先安排的面试——现场面试或在线面试。"
+      },
+      {
+        "icon": "Users",
+        "title": "银行家协调",
+        "description": "尽职调查期间的所有沟通事宜均由我们负责。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "多币种设置",
+        "description": "AED、USD、EUR账户和支付网关集成。"
+      },
+      {
+        "icon": "Wallet",
+        "title": "WPS与增值税关联",
+        "description": "将工资和税务账户与您的银行账户连接起来。"
+      },
+      {
+        "icon": "Award",
+        "title": "开业后支持",
+        "description": "支票簿、银行卡、网上银行设置。"
+      }
+    ]
+  },
+  "banksSection": {
+    "badge": "我们的银行合作伙伴",
+    "title": "我们合作的10家阿联酋顶级银行",
+    "titleHighlight": "与……合作",
+    "subtitle": "与领先银行建立了牢固的关系——从高端企业银行到数字化优先和符合伊斯兰教法的银行服务。",
+    "bottomStrip": {
+      "title": "不知道该选择哪家银行？",
+      "text": "我们将根据您的企业概况，为您匹配最合适的银行。",
+      "whatsappMessage": "您好！我想请教一下，如何为我的企业选择合适的阿联酋银行？"
+    },
+    "items": [
+      {
+        "name": "阿联酋国民银行",
+        "type": "高级企业",
+        "description": "阿联酋最大的银行之一，为阿联酋本土企业和自由区企业提供卓越的企业金融服务。",
+        "color": "from-red-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800&q=80"
+      },
+      {
+        "name": "马什雷克银行",
+        "type": "数字友好型贸易环境",
+        "description": "高度可定制的套餐。非常适合贸易、物流和电子商务，并具备强大的国际汇款能力。",
+        "color": "from-orange-400 to-amber-600",
+        "image": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&q=80"
+      },
+      {
+        "name": "拉克银行",
+        "type": "专注于中小企业和自由区",
+        "description": "账户选择灵活，深受中小企业和自由区公司的欢迎。",
+        "color": "from-blue-400 to-indigo-600",
+        "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80"
+      },
+      {
+        "name": "阿布扎比第一银行（FAB）",
+        "type": "阿联酋最大的银行",
+        "description": "阿联酋最大的银行，提供优质企业服务和全面的贸易融资。",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1550565118-3a14e8d0386f?w=800&q=80"
+      },
+      {
+        "name": "阿布扎比",
+        "type": "伊斯兰银行",
+        "description": "领先的伊斯兰银行，提供符合伊斯兰教法的商业账户和服务。",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "name": "西奥银行",
+        "type": "数字优先，速度最快",
+        "description": "以数字化为先导的银行，开户速度最快——2至5个工作日即可完成。",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "准备和流程",
+    "title": "入门所需的一切",
+    "titleHighlight": "开始使用",
+    "subtitle": "查看所需文件，了解您的账户可以多快开通。",
+    "documentsCard": {
+      "badge": "必需的",
+      "title": "文件清单",
+      "subtitle": "准备7样东西",
+      "items": [
+        "营业执照副本",
+        "公司章程/组织大纲或公司注册文件",
+        "股东护照和阿联酋身份证（或入境章）",
+        "租赁合同或水电费账单",
+        "商业计划书（有时是必需的）",
+        "公司印章和信笺抬头",
+        "现有发票或合同（可选，但有帮助）"
+      ],
+      "tipText": "我们会协助准备和核实所有文件，以避免被拒收或延误——您无需独自应对。"
+    },
+    "timelineCard": {
+      "badge": "时间线",
+      "title": "需要多长时间",
+      "subtitle": "按业务类型",
+      "tipText": "像WIO这样的数字账户最快可以在2个工作日内开通。",
+      "items": [
+        {
+          "icon": "Building2",
+          "title": "大陆公司",
+          "days": "5-10",
+          "unit": "工作日",
+          "color": "from-sky-400 to-blue-600"
+        },
+        {
+          "icon": "Globe",
+          "title": "自由区实体",
+          "days": "7-12",
+          "unit": "工作日",
+          "color": "from-violet-400 to-purple-600"
+        },
+        {
+          "icon": "Landmark",
+          "title": "离岸账户",
+          "days": "10-20",
+          "unit": "工作日",
+          "color": "from-amber-400 to-orange-600"
+        },
+        {
+          "icon": "Zap",
+          "title": "数字账户（WIO）",
+          "days": "2-5",
+          "unit": "工作日",
+          "color": "from-emerald-400 to-teal-600"
+        }
+      ]
+    },
+    "bottomStrip": {
+      "title": "需要帮助准备文件吗？",
+      "text": "我们的团队将全程协助您处理每一份文件。",
+      "whatsappMessage": "您好！我需要帮助准备阿联酋商业银行账户所需的文件。"
+    }
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于在阿联酋开设企业银行账户，您需要了解的一切信息。找不到您需要的信息？只需给我们留言即可。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "获取免费咨询。我们会为您匹配合适的银行。",
+      "whatsappMessage": "您好！我有一个关于阿联酋企业银行账户的问题。"
+    },
+    "items": [
+      {
+        "q": "没有阿联酋居留权，我可以开设阿联酋企业银行账户吗？",
+        "a": "是的，非居民可以开设公司账户——主要针对自由区或离岸公司。但需要进行额外的尽职调查。我们会指导您完成合规流程并进行申请预审。"
+      },
+      {
+        "q": "开设公司银行账户需要多长时间？",
+        "a": "通常需要 5-20 个工作日，具体时间取决于银行、企业类型和股东国籍。像 WIO 这样的数字银行速度更快（2-5 天）。"
+      },
+      {
+        "q": "需要哪些文件？",
+        "a": "营业执照、公司章程、护照复印件、阿联酋身份证复印件、地址证明、商业计划书和KYC文件。我们协助准备并核实所有文件。"
+      },
+      {
+        "q": "我应该选择哪家阿联酋银行？",
+        "a": "这取决于您的业务类型、业务活动和国籍。我们会为您匹配最合适的银行——阿联酋国民银行 (Emirates NBD)、马什雷克银行 (Mashreq)、RAKBANK、FAB、ADIB 或 WIO。"
+      },
+      {
+        "q": "自由区公司可以开设企业银行账户吗？",
+        "a": "是的——所有获得自由区许可的公司都可以开设账户。我们专注于为自由区企业匹配合适的银行。"
+      },
+      {
+        "q": "阿联酋企业银行账户是否支持多币种？",
+        "a": "是的，大多数银行都提供阿联酋迪拉姆、美元、欧元和英镑账户，并具备多币种功能。我们会帮助您设置合适的币种组合。"
+      },
+      {
+        "q": "我可以开立一个零余额的企业账户吗？",
+        "a": "部分银行提供低额或零额度账户。我们会根据您的业务需求，帮您找到最合适的方案。"
+      },
+      {
+        "q": "离岸公司可以在阿联酋开设银行账户吗？",
+        "a": "是的，离岸公司可以在指定银行开设账户，但仅限用于非贸易目的。我们会协助您准备相关文件并确保合规。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与银行开户配套的服务。",
+    "items": [
+      {
+        "slug": "corporate-tax-vat",
+        "title": "企业所得税和增值税",
+        "description": "专业的税务咨询、FTA注册和合规服务。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "accounting",
+        "title": "会计",
+        "description": "记账、工资核算和财务报告。",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO 申报、ESR 报告和监管支持。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "联系我们",
+    "title": "准备好开设银行账户了吗？",
+    "titleHighlight": "银行账户？",
+    "subtitle": "获取免费咨询。我们将评估您的业务，为您匹配最合适的银行，并处理从 KYC 到账户激活的每一步。",
+    "chips": [
+      "6家以上银行合作伙伴",
+      "已开设500多个账户",
+      "100% 成功率"
+    ],
+    "whatsappMessage": "您好！我想咨询一下如何开设阿联酋企业银行账户，需要免费咨询吗？",
+    "whatsappCardMessage": "您好！我需要帮助开设一个阿联酋企业银行账户。"
+  }
+}

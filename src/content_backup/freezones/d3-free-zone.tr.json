@@ -1,0 +1,406 @@
+{
+    "hero":  {
+                 "image":  "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600\u0026q=80",
+                 "breadcrumbParent":  "Serbest Bölgeler",
+                 "breadcrumbLabel":  "Dubai Tasarım Bölgesi",
+                 "badge":  "Dubai Tasarım Bölgesi",
+                 "title":  "Dubai Tasarım Bölgesi",
+                 "titleHighlight":  "Tasarım Bölgesi",
+                 "subtitle":  "Ortadoğu\u0027nun tasarım, moda, sanat ve kültüre adanmış ilk yaratıcı serbest bölgesi. Yaratıcı işletmenizi Dubai\u0027nin önde gelen tasarım merkezinde hayata geçirin.",
+                 "ctaPrimaryText":  "Ücretsiz Danışmanlık Alın",
+                 "ctaPrimaryLink":  "#temas etmek",
+                 "ctaSecondaryText":  "WhatsApp",
+                 "ctaSecondaryMessage":  "Merhaba! Dubai Tasarım Bölgesi Serbest Bölgesi\u0027nin kurulmasıyla ilgileniyorum.",
+                 "badges":  [
+                                "%100 Sahiplik",
+                                "%0 Vergi",
+                                "Yaratıcı Merkez",
+                                "3-5 Gün Kurulum"
+                            ]
+             },
+    "stats":  [
+                  {
+                      "icon":  "Bina 2",
+                      "value":  "500+",
+                      "label":  "Yaratıcı Markalar",
+                      "color":  "gül-400\u0027den-pembe-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Vergi Oranı",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-5",
+                      "label":  "Kurulum Günleri",
+                      "color":  "from-fuchsia-400 to-purple-600"
+                  }
+              ],
+    "dashboardCard":  {
+                          "title":  "D3 Yaratıcı Merkezi",
+                          "totalLabel":  "Alan",
+                          "totalValue":  "Dubai, Birleşik Arap Emirlikleri",
+                          "statusBadge":  "Aktif",
+                          "metrics":  [
+                                          {
+                                              "label":  "Kurulum Süresi",
+                                              "value":  "3-5 Gün",
+                                              "color":  "metin-gül-600"
+                                          },
+                                          {
+                                              "label":  "Markalar",
+                                              "value":  "500+",
+                                              "color":  "metin-pembe-600"
+                                          }
+                                      ]
+                      },
+    "startInStyle":  {
+                         "badge":  "Şık Bir Başlangıç Yapın",
+                         "title":  "Dubai Tasarım Bölgesi\u0027nde Şık Bir Başlangıç Yapın",
+                         "titleHighlight":  "Dubai Tasarım Bölgesi",
+                         "subtitle":  "Bölgenin tasarımcılar, sanatçılar ve moda girişimcileri için yaratıcı başkenti.",
+                         "smallCards":  [
+                                            {
+                                                "icon":  "Küre",
+                                                "title":  "%100 Yabancı Mülkiyeti",
+                                                "description":  "Yerel sponsora ihtiyaç duymadan tam mülkiyete sahip olma imkanı "” yaratıcı markanız üzerinde tam kontrol.",
+                                                "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Dolar İşareti",
+                                                "title":  "%0 Vergi Ortamı",
+                                                "description":  "Kurumlar veya kişisel gelir vergisi yok "” yaratıcı iş kÃ¢rlarınızı en üst düzeye çıkarın.",
+                                                "color":  "from-emerald-400 to-teal-600"
+                                            },
+                                            {
+                                                "icon":  "Parıltılar",
+                                                "title":  "Yaratıcı Topluluk",
+                                                "description":  "Dünyanın dört bir yanından tasarımcıların, sanatçıların ve yaratıcı girişimcilerin oluşturduğu gelişen bir ekosisteme katılın.",
+                                                "color":  "from-fuchsia-400 to-purple-600"
+                                            }
+                                        ],
+                         "largeCard":  {
+                                           "title":  "Tasarımın İş Dünyasıyla Buluştuğu Yer",
+                                           "description":  "D3, moda evlerine, tasarım stüdyolarına, sanat galerilerine ve yaratıcı ajanslara ev sahipliği yapan bölgenin yaratıcı merkezidir. Yaratıcı ekonomi için özel olarak inşa edilmiş bir bölgedir.",
+                                           "image":  "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600\u0026q=80"
+                                       }
+                     },
+    "activitiesSection":  {
+                              "badge":  "İş Faaliyetleri",
+                              "title":  "D3\u0027te Yaratıcı Etkinlikler",
+                              "titleHighlight":  "D3\u0027te",
+                              "subtitle":  "Yaratıcı ve tasarım odaklı çok çeşitli ticari faaliyetlere izin verilmektedir.",
+                              "items":  [
+                                            {
+                                                "icon":  "Palet",
+                                                "title":  "Tasarım ve Markalaşma",
+                                                "description":  "Grafik tasarım, marka oluşturma ve yaratıcı ajanslar.",
+                                                "image":  "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800\u0026q=80",
+                                                "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Gömlek",
+                                                "title":  "Moda ve Tekstil",
+                                                "description":  "Moda evleri, tekstil tasarımı ve giyim markaları.",
+                                                "image":  "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800\u0026q=80",
+                                                "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Kamera",
+                                                "title":  "Görsel Sanatlar ve Fotoğrafçılık",
+                                                "description":  "Fotoğraf stüdyoları, görsel sanatlar ve yaratıcı içerik.",
+                                                "image":  "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800\u0026q=80",
+                                                "color":  "from-fuchsia-400 to-purple-600"
+                                            }
+                                        ]
+                          },
+    "workspacesSection":  {
+                              "badge":  "Çalışma Alanları",
+                              "title":  "D3\u0027te Çalışma Alanları",
+                              "titleHighlight":  "D3\u0027te",
+                              "subtitle":  "İşletmenizin her aşaması için özel olarak tasarlanmış yaratıcı çalışma alanları.",
+                              "items":  [
+                                            {
+                                                "icon":  "Parıltılar",
+                                                "title":  "Ortak Çalışma Masaları",
+                                                "description":  "Serbest çalışanlar için esnek ortak çalışma alanı.",
+                                                "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Palet",
+                                                "title":  "Stüdyolar",
+                                                "description":  "Tasarım ve moda alanında yaratıcı stüdyolar.",
+                                                "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Bina 2",
+                                                "title":  "Hazır Ofisler",
+                                                "description":  "Yaratıcı ekipler için taşınmaya hazır ofisler.",
+                                                "color":  "from-fuchsia-400 to-purple-600"
+                                            },
+                                            {
+                                                "icon":  "Mağaza",
+                                                "title":  "Perakende Alanları",
+                                                "description":  "Moda markaları için butik perakende.",
+                                                "color":  "mor-400\u0027den mor-600\u0027e"
+                                            },
+                                            {
+                                                "icon":  "Katmanlar",
+                                                "title":  "Kabuk ve Çekirdek",
+                                                "description":  "Yaratıcı konseptler için özelleştirilebilir alanlar.",
+                                                "color":  "from-violet-400 to-indigo-600"
+                                            }
+                                        ]
+                          },
+    "visaServicesSection":  {
+                                "badge":  "Vize Hizmetleri",
+                                "title":  "D3\u0027te Vize Hizmetleri",
+                                "titleHighlight":  "D3\u0027te",
+                                "subtitle":  "Siz ve yaratıcı ekibiniz için eksiksiz vize desteği.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Kullanıcı Kontrolü",
+                                                  "title":  "Yatırımcı Vizesi",
+                                                  "description":  "İşletme sahipleri ve hissedarlar için.",
+                                                  "stampColor":  "gül-500\u0027den-pembe-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Evrak çantası",
+                                                  "title":  "Çalışma Vizesi",
+                                                  "description":  "Yaratıcı ekip üyeleri ve çalışanlar için.",
+                                                  "stampColor":  "pembe-500\u0027den fuşya-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Dosya Rozeti",
+                                                  "title":  "Serbest Çalışan Vizesi",
+                                                  "description":  "Bağımsız yaratıcılar ve danışmanlar için.",
+                                                  "stampColor":  "fuşya-500\u0027den mor-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Kullanıcılar",
+                                                  "title":  "Aile Vizesi",
+                                                  "description":  "Eş, çocuklar ve bakmakla yükümlü olunan kişiler için.",
+                                                  "stampColor":  "mor-500\u0027den mor-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "RefreshCw",
+                                                  "title":  "Vize Yenileme",
+                                                  "description":  "Vize sürecinin tüm aşamalarını kapsayan yönetim hizmeti.",
+                                                  "stampColor":  "from-violet-500 to-indigo-600"
+                                              },
+                                              {
+                                                  "icon":  "Göndermek",
+                                                  "title":  "Vize İptali",
+                                                  "description":  "Yasalara uygun vize iptal hizmetleri.",
+                                                  "stampColor":  "indigo-500\u0027den-mavi-600\u0027e"
+                                              }
+                                          ]
+                            },
+    "growthSupportSection":  {
+                                 "badge":  "Büyüme Desteği",
+                                 "title":  "Yaratıcı İşletmenizi Büyütün",
+                                 "titleHighlight":  "Yaratıcı İşletme",
+                                 "subtitle":  "Kurulumun ötesinde, stratejik hizmetlerle yaratıcı markanızın büyümesine yardımcı oluyoruz.",
+                                 "items":  [
+                                               {
+                                                   "icon":  "Megafon",
+                                                   "title":  "Pazarlama ve Halkla İlişkiler",
+                                                   "description":  "Yaratıcı markalar için marka pazarlama ve halkla ilişkiler desteği.",
+                                                   "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "Trend Yükseliyor",
+                                                   "title":  "İş Geliştirme",
+                                                   "description":  "Büyüme stratejisi ve ortaklık fırsatları.",
+                                                   "color":  "pembe-400\u0027den fuşya-600\u0027e"
+                                               },
+                                               {
+                                                   "icon":  "ÇubukGrafik3",
+                                                   "title":  "Pazar araştırması",
+                                                   "description":  "Bölgesel yaratıcı endüstriye dair bilgiler.",
+                                                   "color":  "from-fuchsia-400 to-purple-600"
+                                               },
+                                               {
+                                                   "icon":  "İşlemci",
+                                                   "title":  "Dijital Dönüşüm",
+                                                   "description":  "Yaratıcı markalar için e-ticaret, web ve teknoloji çözümleri.",
+                                                   "color":  "mor-400\u0027den mor-600\u0027e"
+                                               }
+                                           ]
+                             },
+    "strategicSection":  {
+                             "badge":  "Stratejik Konum",
+                             "title":  "Dubai\u0027nin kalbinde yer almaktadır.",
+                             "titleHighlight":  "Dubai\u0027nin Kalbi",
+                             "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                             "imageBadgeTitle":  "Konum",
+                             "imageBadgeText":  "Dubai şehir merkezi",
+                             "items":  [
+                                           {
+                                               "icon":  "Harita İşareti",
+                                               "title":  "Mükemmel Konum",
+                                               "description":  "Burj Khalifa, Dubai Mall ve Dubai Kanalı\u0027nın yanında."
+                                           },
+                                           {
+                                               "icon":  "Uçak",
+                                               "title":  "DXB\u0027ye 20 Dakika",
+                                               "description":  "Dubai Uluslararası Havalimanı\u0027na hızlı erişim."
+                                           },
+                                           {
+                                               "icon":  "Bina 2",
+                                               "title":  "Bağlantılı Topluluk",
+                                               "description":  "Galerilerin, kafelerin ve tasarım merkezlerinin bulunduğu, yürüyerek gezilebilen bir bölge."
+                                           },
+                                           {
+                                               "icon":  "Küre",
+                                               "title":  "Küresel Erişim",
+                                               "description":  "Bölgesel ve uluslararası pazarlara doğrudan erişim."
+                                           },
+                                           {
+                                               "icon":  "Kalp",
+                                               "title":  "Yaratıcı Yaşam Tarzı",
+                                               "description":  "Canlı ve yaratıcı bir mahallede yaşayın, çalışın ve eğlenin."
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "D3 Kurulum Ortağınız",
+                               "titleHighlight":  "Kurulum Ortağı",
+                               "subtitle":  "Dubai\u0027deki yüzlerce yaratıcı işletme tarafından güvenilen bir marka.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Ödül",
+                                                 "title":  "Yaratıcı Endüstri Uzmanlığı",
+                                                 "description":  "Tasarımcıların, sanatçıların ve moda markalarının kendine özgü ihtiyaçlarını anlıyoruz.",
+                                                 "color":  "gül-400\u0027den-pembe-600\u0027e",
+                                                 "image":  "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800\u0026q=80"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "title":  "Hızlı Teslimat",
+                                                 "description":  "Öncelikli işlemle kurulum 3-5 gün içinde tamamlanır.",
+                                                 "color":  "pembe-400\u0027den fuşya-600\u0027e",
+                                                 "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80"
+                                             },
+                                             {
+                                                 "icon":  "Pusula",
+                                                 "title":  "Stratejik Rehberlik",
+                                                 "description":  "Faaliyet seçimi, lisanslama ve yaratıcı işletme kurulumu konularında uzman tavsiyesi.",
+                                                 "color":  "from-fuchsia-400 to-purple-600",
+                                                 "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800\u0026q=80"
+                                             }
+                                         ]
+                           },
+    "faqs":  {
+                 "badge":  "Sıkça Sorulan Sorular",
+                 "title":  "Sıkça Sorulan Sorular",
+                 "titleHighlight":  "Sorular",
+                 "subtitle":  "Dubai Tasarım Bölgesi Serbest Bölgesi hakkında bilmeniz gereken her şey.",
+                 "items":  [
+                               {
+                                   "q":  "Dubai Tasarım Bölgesi (D3) nedir?",
+                                   "a":  "D3, Orta Doğu\u0027nun tasarım, moda, sanat ve kültüre adanmış ilk yaratıcı serbest bölgesidir. Dünyanın dört bir yanından 500\u0027den fazla yaratıcı işletmeye ev sahipliği yapmaktadır."
+                               },
+                               {
+                                   "q":  "D3\u0027te hangi aktiviteleri çalıştırabilirim?",
+                                   "a":  "Tasarım ve marka oluşturma, moda ve tekstil, görsel sanatlar ve fotoğrafçılık, yaratıcı ajanslar, mimari ve dijital medya, izin verilen faaliyetler arasındadır."
+                               },
+                               {
+                                   "q":  "D3 kurulumu ne kadar sürer?",
+                                   "a":  "Gerekli belgelerin eksiksiz olması koşuluyla, genellikle 3-5 iş günü sürer. Ekibimiz sorunsuz bir süreç sağlar."
+                               },
+                               {
+                                   "q":  "D3\u0027te %100 yabancı mülkiyeti elde edebilir miyim?",
+                                   "a":  "Evet. D3, %100 yabancı mülkiyete izin veriyor; yerel sponsor gerekmiyor."
+                               },
+                               {
+                                   "q":  "D3\u0027ün vergi avantajları nelerdir?",
+                                   "a":  "Kurumlar ve kişisel gelir vergisi %0 olup, kar ve sermayenin tamamı geri gönderilebilir."
+                               },
+                               {
+                                   "q":  "D3 bölgesinde hangi ofis alanları mevcuttur?",
+                                   "a":  "Esnek çalışma alanları, yaratıcı stüdyolar, donanımlı ofisler, perakende alanları ve kaba inşaat seçenekleri."
+                               },
+                               {
+                                   "q":  "D3 lisansı ile banka hesabı açabilir miyim?",
+                                   "a":  "Evet. İşletme profilinize göre, BAE\u0027nin önde gelen bankalarında kurumsal banka hesabı açmanıza yardımcı oluyoruz."
+                               },
+                               {
+                                   "q":  "D3 serbest çalışanlar için uygun mu?",
+                                   "a":  "Evet. D3, bağımsız yaratıcılar için tasarlanmış serbest çalışma izinleri ve ortak çalışma alanları sunmaktadır."
+                               },
+                               {
+                                   "q":  "Aileme D3 ehliyetiyle sponsor olabilir miyim?",
+                                   "a":  "Evet. D3, yatırımcı ve çalışma vizelerinin yanı sıra aile vizesi sponsorluğunu da desteklemektedir."
+                               },
+                               {
+                                   "q":  "Setup Zone Dubai ne tür destekler sağlıyor?",
+                                   "a":  "Şirket kaydı, lisans verilmesi, vize işlemleri, banka hesapları ve sürekli iş danışmanlığı hizmetleri sunuyoruz."
+                               }
+                           ]
+             },
+    "relatedServices":  {
+                            "title":  "İlgili Hizmetler",
+                            "titleHighlight":  "Hizmetler",
+                            "subtitle":  "D3 kurulumunuzla uyumlu hizmetler.",
+                            "items":  [
+                                          {
+                                              "slug":  "bank-account",
+                                              "title":  "Banka Hesabı Açma",
+                                              "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                              "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                              "gradient":  "gül-400\u0027den-pembe-600\u0027e"
+                                          },
+                                          {
+                                              "slug":  "compliance",
+                                              "title":  "Uyumluluk Hizmetleri",
+                                              "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                              "gradient":  "from-fuchsia-400 to-purple-600"
+                                          },
+                                          {
+                                              "slug":  "golden-visa",
+                                              "title":  "Altın Vize",
+                                              "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                              "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                              "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                          }
+                                      ]
+                        },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlatın",
+                     "title":  "D3\u0027te lansmana hazır mısınız?",
+                     "titleHighlight":  "D3?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisanslamadan lansmana kadar tüm D3 kurulum sürecinde size rehberlik edeceğiz.",
+                     "primaryCta":  "Bize WhatsApp\u0027tan ulaşın",
+                     "whatsappMessage":  "Merhaba! D3 kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "phone":  "+971 56 655 6645",
+                     "phoneHref":  "tel:+971566556645",
+                     "badges":  [
+                                    "Ücretsiz Danışmanlık",
+                                    "500\u0027den fazla Müşteri",
+                                    "3-5 Gün Kurulum"
+                                ],
+                     "office":  {
+                                    "label":  "Dubai Ofisimizi Ziyaret Edin",
+                                    "line1":  "Ofis M08-27, M1 Katı, Crystal Tower",
+                                    "line2":  "Business Bay, Dubai, B.A.E "” Posta Kutusu: 554552",
+                                    "mapLink":  "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+                                },
+                     "hours":  {
+                                   "label":  "Çalışma Saatleri",
+                                   "monFri":  "Sabah 9 - Akşam 6",
+                                   "saturday":  "10:00 - 17:00",
+                                   "sunday":  "Kapalı"
+                               }
+                 }
+}

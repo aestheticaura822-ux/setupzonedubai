@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import jafzaPackageData from '../../content/packages/jafza-setup-package.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, Target, Crown, Store: StoreIcon, UserCheck,
@@ -31,7 +32,9 @@ const iconMap: any = {
 };
 
 export default function JAFZASetupPackage({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.packages || jafzaPackageData;
+  const { language } = useLanguage();
+  const jafzaFallback = loadContent('packages/jafza-setup-package', language);
+  const data = tinaData?.data?.packages || jafzaFallback;
 
   return (
     <div className="min-h-screen bg-white">

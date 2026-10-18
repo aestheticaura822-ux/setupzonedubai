@@ -1,0 +1,128 @@
+{
+  "badge": "Nuestros paquetes",
+  "heading": {
+    "line1": "Precios transparentes,",
+    "highlight": "Sin cargos ocultos"
+  },
+  "subtitle": "Elige el paquete que mejor se adapte a tu negocio. Todos los precios son todo incluido: sin costes ocultos ni sorpresas.",
+  "toggle": {
+    "oneTimeLabel": "Pago Áºnico",
+    "installmentLabel": "Cuotas",
+    "installmentSuffix": "O 3x"
+  },
+  "packages": [
+    {
+      "id": "freezone",
+      "name": "Licencia de Zona Franca",
+      "badge": null,
+      "price": "5.999",
+      "currency": "DEA",
+      "period": "una sola vez",
+      "tagline": "Perfecto para autÁ³nomos y empresas que trabajan de forma remota.",
+      "icon": "Building2",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.3)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "iconBg": "from-sky-400 to-blue-600",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "features": [
+        "5 actividades comerciales gratuitas",
+        "Propiedad al 100%",
+        "0% de impuesto sobre la renta y sobre las personas fÁ­sicas",
+        "Impuesto de sociedades bajo",
+        "Consulta gratuita",
+        "GarantÁ­a de precio más bajo"
+      ],
+      "cta": "¡Comienza ahora!",
+      "highlighted": false
+    },
+    {
+      "id": "freezone-residency",
+      "name": "Zona Franca con Residencia",
+      "badge": "Más populares",
+      "price": "11.999",
+      "currency": "DEA",
+      "period": "una sola vez",
+      "tagline": "Ideal para emprendedores que se mudan a Dubái.",
+      "icon": "Globe",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "iconBg": "from-violet-400 to-purple-600",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "features": [
+        "Licencia de Zona Franca con Todo Incluido",
+        "5 actividades comerciales gratuitas",
+        "Propiedad al 100%",
+        "0% de impuesto sobre la renta y sobre las personas fÁ­sicas",
+        "Impuesto de sociedades bajo",
+        "Consulta gratuita",
+        "Contrato de arrendamiento gratuito",
+        "1. Visa de residencia/inversionista en los EAU",
+        "Médico, documento de identidad de los Emiratos, cambio de estado"
+      ],
+      "cta": "¡Comienza ahora!",
+      "highlighted": true
+    },
+    {
+      "id": "mainland-residency",
+      "name": "Continente con residencia",
+      "badge": "Mejor relaciÁ³n calidad-precio",
+      "price": "16.999",
+      "currency": "DEA",
+      "period": "una sola vez",
+      "tagline": "Para empresas que se dirigen al mercado local de los EAU.",
+      "icon": "Crown",
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentText": "text-amber-600",
+      "accentBg": "bg-amber-50",
+      "accentBorder": "border-amber-200",
+      "iconBg": "from-amber-400 to-orange-600",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "features": [
+        "Licencia continental",
+        "Propiedad al 100%",
+        "0% de impuesto sobre la renta y sobre las personas fÁ­sicas",
+        "Impuesto de sociedades bajo",
+        "Consulta gratuita",
+        "1. Visa de residencia/inversionista en los EAU",
+        "Médico, documento de identidad de los Emiratos, cambio de estado"
+      ],
+      "cta": "¡Comienza ahora!",
+      "highlighted": false
+    }
+  ],
+  "customPackageCTA": {
+    "title": "¿Necesitas un paquete personalizado?",
+    "subtitle": "Diseñaremos un paquete a medida que se ajuste a las necesidades especÁ­ficas de su negocio, ya sea en territorio continental, zona franca o en el extranjero.",
+    "primaryCta": "Obtén un presupuesto personalizado",
+    "secondaryCta": "Llámenos",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Necesito un paquete personalizado para la configuraciÁ³n de mi negocio en los Emiratos Árabes Unidos.",
+    "backgroundImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+  },
+  "trustLine": [
+    {
+      "label": "Sin cargos ocultos",
+      "color": "emerald"
+    },
+    {
+      "label": "Precios transparentes",
+      "color": "sky"
+    },
+    {
+      "label": "Cumple con la FTA",
+      "color": "violet"
+    },
+    {
+      "label": "Consulta gratuita",
+      "color": "amber"
+    }
+  ]
+}

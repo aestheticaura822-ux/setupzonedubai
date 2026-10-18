@@ -12,6 +12,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import corporateTaxData from '../../content/services/corporate-tax-vat.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Receipt, Percent, TrendingUp, Users, Building2, Globe, Briefcase,
   FileCheck, ShieldCheck, Calculator, FileText, Clock, Award,
@@ -20,8 +22,9 @@ const iconMap: any = {
 };
 
 export default function CorporateTax({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || corporateTaxData;
-
+  const { language } = useLanguage();
+  const corporateTaxFallback = loadContent('services/corporate-tax-vat', language);
+  const data = tinaData?.data?.services || corporateTaxFallback;
   return (
     <div className="min-h-screen bg-white">
       {/* === 1. HERO === */}

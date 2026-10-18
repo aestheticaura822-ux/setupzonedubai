@@ -1,0 +1,541 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600\u0026q=80",
+    "heroBadge":  "Zone franche de Jebel Ali",
+    "heroTitle":  "Zone franche de JAFZA",
+    "heroTitleHighlight":  "Zone franche",
+    "heroSubtitle":  "L\u0027une des zones franches les plus vastes et les plus fiables du Moyen-Orient. Située À  proximité du port de Jebel Ali, où le commerce international rencontre la technologie.",
+    "heroChips":  [
+                      "Propriété À  100 %",
+                      "Taxe de 0 %",
+                      "Port adjacent"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Bâtiment 2",
+                      "value":  "Plus de 8 000",
+                      "label":  "Entreprises",
+                      "color":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "Plus de 100",
+                      "label":  "Pays",
+                      "color":  "de l\u0027orange 400 au rouge 500"
+                  },
+                  {
+                      "icon":  "Signe du dollar",
+                      "value":  "0%",
+                      "label":  "Impôt sur le revenu",
+                      "color":  "de-émeraude-400 À -turquoise-600"
+                  },
+                  {
+                      "icon":  "Bateau",
+                      "value":  "Port",
+                      "label":  "Zone adjacente",
+                      "color":  "du ciel 400 au bleu 600"
+                  }
+              ],
+    "whyJafzaSection":  {
+                            "badge":  "Pourquoi JAFZA",
+                            "title":  "Pourquoi choisir la zone franche JAFZA ?",
+                            "titleHighlight":  "Zone franche JAFZA ?",
+                            "subtitle":  "L\u0027une des zones franches les plus vastes et les plus fiables du Moyen-Orient.",
+                            "items":  [
+                                          {
+                                              "icon":  "Globe",
+                                              "title":  "Propriété étrangère À  100 %",
+                                              "description":  "Devenez propriétaire de votre entreprise sans sponsor local.",
+                                              "color":  "de l\u0027ambre 400 À  l\u0027orange 600",
+                                              "size":  "petit"
+                                          },
+                                          {
+                                              "icon":  "Bateau",
+                                              "title":  "À€ côté du port de Jebel Ali",
+                                              "description":  "Le port le plus grand et le plus actif du Moyen-Orient "” accès direct aux chaînes d\u0027approvisionnement mondiales.",
+                                              "color":  "du ciel 400 au bleu 600",
+                                              "size":  "grand"
+                                          },
+                                          {
+                                              "icon":  "Signe du dollar",
+                                              "title":  "Taxe de 0 %",
+                                              "description":  "Pas d\u0027impôt sur le revenu des personnes physiques ou des sociétés "” rentabilité maximale.",
+                                              "color":  "de-émeraude-400 À -turquoise-600",
+                                              "size":  "petit"
+                                          },
+                                          {
+                                              "icon":  "Avion",
+                                              "title":  "Aéroport Al Maktoum",
+                                              "description":  "Accès direct au plus grand aéroport du monde.",
+                                              "color":  "de violet 400 À  pourpre 600",
+                                              "size":  "petit"
+                                          },
+                                          {
+                                              "icon":  "Usine",
+                                              "title":  "Infrastructures industrielles",
+                                              "description":  "Des installations de classe mondiale pour la logistique, la production et le commerce.",
+                                              "color":  "de l\u0027orange 400 au rouge 500",
+                                              "size":  "grand"
+                                          }
+                                      ]
+                        },
+    "servicesSection":  {
+                            "badge":  "Services tout-en-un",
+                            "title":  "Quels services proposons-nous pour la mise en place de JAFZA ?",
+                            "titleHighlight":  "configuration JAFZA",
+                            "subtitle":  "De la première demande de renseignements au lancement opérationnel "” votre partenaire unique pour la mise en place.",
+                            "items":  [
+                                          {
+                                              "icon":  "Cercle de messages",
+                                              "title":  "Consultation initiale",
+                                              "description":  "Choisissez le modèle d\u0027entreprise et l\u0027activité qui correspondent le mieux À  vos objectifs."
+                                          },
+                                          {
+                                              "icon":  "Texte du fichier",
+                                              "title":  "Réservation du nom de l\u0027entreprise",
+                                              "description":  "Réservez votre nom commercial JAFZA rapidement et efficacement."
+                                          },
+                                          {
+                                              "icon":  "Vérification de fichiers",
+                                              "title":  "Préparation des documents",
+                                              "description":  "Documentation complète "” statuts, acte constitutif et formulaires juridiques."
+                                          },
+                                          {
+                                              "icon":  "Vérification des badges",
+                                              "title":  "Approbation de la JAFZA",
+                                              "description":  "Soumettez directement vos demandes aux autorités de la JAFZA pour obtenir des approbations plus rapides."
+                                          },
+                                          {
+                                              "icon":  "Prix",
+                                              "title":  "Délivrance de licences commerciales",
+                                              "description":  "Obtenez votre licence commerciale JAFZA et votre enregistrement d\u0027entreprise."
+                                          },
+                                          {
+                                              "icon":  "Utilisateurs",
+                                              "title":  "Traitement des visas",
+                                              "description":  "Traitement complet des visas pour actionnaires et employés."
+                                          },
+                                          {
+                                              "icon":  "Carte de crédit",
+                                              "title":  "Assistance pour les comptes bancaires",
+                                              "description":  "Ouvrez des comptes bancaires professionnels auprès des meilleures banques des Émirats arabes unis."
+                                          },
+                                          {
+                                              "icon":  "RefreshCw",
+                                              "title":  "Renouvellements annuels",
+                                              "description":  "Services de conformité et gestion du renouvellement des licences."
+                                          },
+                                          {
+                                              "icon":  "Vérification du bouclier",
+                                              "title":  "Assistance après lancement",
+                                              "description":  "Services PRO, conformité et conseils commerciaux continus."
+                                          }
+                                      ]
+                        },
+    "licensesSection":  {
+                            "badge":  "Types de licences",
+                            "title":  "Licences proposées dans la JAFZA",
+                            "titleHighlight":  "JAFZA",
+                            "subtitle":  "Chaque licence est conÀ§ue pour rendre vos opérations efficaces, légales et évolutives.",
+                            "items":  [
+                                          {
+                                              "icon":  "Magasin",
+                                              "title":  "Licence commerciale",
+                                              "description":  "Pour les entreprises qui achètent, vendent ou distribuent des marchandises.",
+                                              "code":  "TRD",
+                                              "color":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                                          },
+                                          {
+                                              "icon":  "Mallette",
+                                              "title":  "Licence de service",
+                                              "description":  "Pour des services de conseil, d\u0027informatique, de médias et de marketing.",
+                                              "code":  "SRV",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          },
+                                          {
+                                              "icon":  "Usine",
+                                              "title":  "Licence industrielle",
+                                              "description":  "Pour la fabrication, la production et l\u0027emballage.",
+                                              "code":  "INDIANA",
+                                              "color":  "de l\u0027orange 400 au rouge 500"
+                                          },
+                                          {
+                                              "icon":  "Panier",
+                                              "title":  "Licence de commerce électronique",
+                                              "description":  "Pour les entreprises de vente au détail en ligne et de vente numérique.",
+                                              "code":  "ECM",
+                                              "color":  "de-émeraude-400 À -turquoise-600"
+                                          },
+                                          {
+                                              "icon":  "Ampoule",
+                                              "title":  "Licence d\u0027innovation",
+                                              "description":  "Pour la R\u0026D, les entreprises de propriété intellectuelle et les entreprises technologiques.",
+                                              "code":  "INV",
+                                              "color":  "de cyan 400 À  bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Camion",
+                                              "title":  "Licence logistique",
+                                              "description":  "Pour les entreprises de transport, de stockage et de distribution.",
+                                              "code":  "ENREGISTRER",
+                                              "color":  "du ciel 400 au bleu 600"
+                                          }
+                                      ]
+                        },
+    "infrastructureSection":  {
+                                  "badge":  "Options d\u0027infrastructure",
+                                  "title":  "Espaces commerciaux personnalisables",
+                                  "titleHighlight":  "Espaces commerciaux",
+                                  "subtitle":  "Tous les espaces sont équipés d\u0027internet haut débit, d\u0027une sécurité 24h/24 et 7j/7 et de tous les services publics.",
+                                  "items":  [
+                                                {
+                                                    "icon":  "Moniteur",
+                                                    "title":  "Bureaux flexibles",
+                                                    "description":  "Idéal pour les startups et les petites entreprises.",
+                                                    "color":  "de l\u0027ambre 400 À  l\u0027orange 600",
+                                                    "size":  "petit"
+                                                },
+                                                {
+                                                    "icon":  "Mallette",
+                                                    "title":  "Bureaux exécutifs",
+                                                    "description":  "Espaces entièrement meublés et prêts À  l\u0027emploi.",
+                                                    "color":  "de violet 400 À  pourpre 600",
+                                                    "size":  "petit"
+                                                },
+                                                {
+                                                    "icon":  "Entrepôt",
+                                                    "title":  "Entrepôts",
+                                                    "description":  "Logistique et gestion des stocks opérationnelles grâce À  des installations de stockage modernes.",
+                                                    "color":  "de l\u0027orange 400 au rouge 500",
+                                                    "size":  "grand"
+                                                },
+                                                {
+                                                    "icon":  "Usine",
+                                                    "title":  "Unités industrielles",
+                                                    "description":  "ConÀ§u pour les chaînes de production et d\u0027assemblage.",
+                                                    "color":  "du ciel 400 au bleu 600",
+                                                    "size":  "petit"
+                                                },
+                                                {
+                                                    "icon":  "Épingle de carte",
+                                                    "title":  "Tracés personnalisés",
+                                                    "description":  "Construisez votre propre bureau, usine ou centre de distribution.",
+                                                    "color":  "de-émeraude-400 À -turquoise-600",
+                                                    "size":  "petit"
+                                                }
+                                            ],
+                                  "image":  "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200\u0026q=80"
+                              },
+    "liquidationSection":  {
+                               "badge":  "Liquidation et conformité",
+                               "title":  "Sortie d\u0027entreprise simplifiée",
+                               "titleHighlight":  "Facile",
+                               "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                               "imageBadgeTitle":  "100% légal",
+                               "imageBadgeText":  "Sortie conforme",
+                               "paragraphs":  [
+                                                  "Si vous êtes prêt À  fermer ou À  céder votre entreprise À  JAFZA, nous simplifions l\u0027ensemble du processus de liquidation, le rendant légal et sans tracas.",
+                                                  "Nous réglons les factures impayées, annulons les visas des employés, suivons toutes les procédures de départ et désactivons votre licence commerciale auprès des autorités JAFZA.",
+                                                  "Nous nous occupons également des transferts d\u0027actifs, des audits finaux et de l\u0027obtention de tous les certificats de non-objection (NOC) nécessaires "” afin que vous puissiez quitter votre entreprise de manière économique et en toute confiance."
+                                              ],
+                               "highlights":  [
+                                                  "Règlement de la facture",
+                                                  "Annulation de visa",
+                                                  "Désactivation de la licence",
+                                                  "Transfert d\u0027actifs",
+                                                  "Audit final",
+                                                  "Assistance NOC"
+                                              ]
+                           },
+    "offshoreSection":  {
+                            "badge":  "JAFZA Offshore",
+                            "title":  "Structure simple, privée et fiscalement avantageuse",
+                            "titleHighlight":  "Structure fiscalement avantageuse",
+                            "subtitle":  "Les sociétés offshore JAFZA n\u0027ont pas besoin de bureaux physiques ni de visas, mais offrent une présence légale complète aux Émirats arabes unis.",
+                            "items":  [
+                                          {
+                                              "icon":  "Bâtiment 2",
+                                              "title":  "Détenir des actions dans d\u0027autres sociétés",
+                                              "description":  "Structure de détention simple, privée et fiscalement avantageuse."
+                                          },
+                                          {
+                                              "icon":  "Bâtiment 2",
+                                              "title":  "Posséder un bien immobilier À  Dubaï",
+                                              "description":  "Idéal pour l\u0027investissement immobilier et la protection du patrimoine."
+                                          },
+                                          {
+                                              "icon":  "Globe",
+                                              "title":  "Commerce mondial sans douanes",
+                                              "description":  "Commercez librement, sans droits de douane des Émirats arabes unis sur les entités offshore."
+                                          },
+                                          {
+                                              "icon":  "Vérification du bouclier",
+                                              "title":  "Protection du patrimoine et héritage",
+                                              "description":  "Protégez votre patrimoine et préparez votre avenir."
+                                          },
+                                          {
+                                              "icon":  "Ampoule",
+                                              "title":  "Gestion de la propriété intellectuelle et des marques",
+                                              "description":  "Idéal pour la protection de la propriété intellectuelle et des marques déposées."
+                                          }
+                                      ]
+                        },
+    "whyChooseUsSection":  {
+                               "badge":  "Pourquoi nous choisir ?",
+                               "title":  "Experts en configuration JAFZA",
+                               "titleHighlight":  "Experts",
+                               "subtitle":  "Des années d\u0027expérience et des dizaines de clients satisfaits.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Prix",
+                                                 "title":  "Soutien complet de la création À  l\u0027expansion",
+                                                 "description":  "De la mise en place initiale À  la croissance post-lancement, nous prenons tout en charge."
+                                             },
+                                             {
+                                                 "icon":  "Tendances À  la hausse",
+                                                 "title":  "Un partenaire de confiance qui évolue",
+                                                 "description":  "Nous évoluons avec votre entreprise "” en nous adaptant À  chaque étape."
+                                             },
+                                             {
+                                                 "icon":  "Vérification du bouclier",
+                                                 "title":  "Transparent et confidentiel",
+                                                 "description":  "Aucuns frais cachés, confidentialité totale garantie."
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "title":  "Délai d\u0027exécution rapide",
+                                                 "description":  "Création de l\u0027entreprise réalisée en seulement 2 À  3 jours."
+                                             },
+                                             {
+                                                 "icon":  "Vérification de fichiers",
+                                                 "title":  "Documentation précise",
+                                                 "description":  "Conformité totale et dépôts sans erreur."
+                                             },
+                                             {
+                                                 "icon":  "Cible",
+                                                 "title":  "Orientation stratégique",
+                                                 "description":  "Conseils d\u0027experts sur le choix des activités et les licences nécessaires."
+                                             }
+                                         ]
+                           },
+    "costBreakdownSection":  {
+                                 "badge":  "Ventilation des coûts 2026",
+                                 "title":  "Tarification transparente de JAFZA",
+                                 "titleHighlight":  "Tarification JAFZA",
+                                 "subtitle":  "Les forfaits JAFZA comprennent les frais de licence, de bureau et de visa.",
+                                 "items":  [
+                                               {
+                                                   "item":  "Licence commerciale",
+                                                   "cost":  "12 000 - 25 000",
+                                                   "notes":  "Cela dépend de l\u0027activité",
+                                                   "color":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                                               },
+                                               {
+                                                   "item":  "Frais d\u0027inscription",
+                                                   "cost":  "1 500",
+                                                   "notes":  "Une seule fois",
+                                                   "color":  "de violet 400 À  pourpre 600"
+                                               },
+                                               {
+                                                   "item":  "Bureau flexible / bureau",
+                                                   "cost":  "8 000 - 25 000",
+                                                   "notes":  "Annuel, obligatoire",
+                                                   "color":  "de l\u0027orange 400 au rouge 500"
+                                               },
+                                               {
+                                                   "item":  "Visa (par personne)",
+                                                   "cost":  "4 500 - 6 500",
+                                                   "notes":  "Incl. carte d\u0027identité des Émirats",
+                                                   "color":  "de-émeraude-400 À -turquoise-600"
+                                               },
+                                               {
+                                                   "item":  "Fiche d\u0027établissement",
+                                                   "cost":  "1 800 - 2 500",
+                                                   "notes":  "Annuel",
+                                                   "color":  "de cyan 400 À  bleu 600"
+                                               },
+                                               {
+                                                   "item":  "Capital social (min)",
+                                                   "cost":  "500 000",
+                                                   "notes":  "Déclaré, non payé",
+                                                   "color":  "du ciel 400 au bleu 600"
+                                               }
+                                           ],
+                                 "yearTotalLabel":  "Année 1 Tout compris",
+                                 "yearTotalNote":  "Selon le bureau et les visas",
+                                 "yearTotalFrom":  "27 000 "“ 55 000 AED"
+                             },
+    "comparisonSection":  {
+                              "title":  "JAFZA contre DMCC contre IFZA",
+                              "subtitle":  "Quelle zone l\u0027emporte ?",
+                              "items":  [
+                                            {
+                                                "factor":  "coût initial",
+                                                "jafza":  "12 000 AED",
+                                                "dmcc":  "15 000 AED",
+                                                "ifza":  "11 500 AED"
+                                            },
+                                            {
+                                                "factor":  "Total des entreprises",
+                                                "jafza":  "Plus de 9 000",
+                                                "dmcc":  "Plus de 21 000",
+                                                "ifza":  "Plus de 48 000"
+                                            },
+                                            {
+                                                "factor":  "Idéal pour",
+                                                "jafza":  "Logistique, commerce",
+                                                "dmcc":  "Matières premières, cryptomonnaies",
+                                                "ifza":  "Commerce général, PME"
+                                            },
+                                            {
+                                                "factor":  "Emplacement",
+                                                "jafza":  "district portuaire de Jebel Ali",
+                                                "dmcc":  "JLT, en plein centre-ville",
+                                                "ifza":  "Oasis de la Silicon Valley de Dubaï"
+                                            },
+                                            {
+                                                "factor":  "Flexibilité au bureau",
+                                                "jafza":  "Bien",
+                                                "dmcc":  "Excellent",
+                                                "ifza":  "Excellent"
+                                            }
+                                        ],
+                              "verdict":  "JAFZA l\u0027emporte pour l\u0027import/export et l\u0027activité industrielle ; DMCC l\u0027emporte pour les matières premières et la fintech ; IFZA l\u0027emporte pour le coût pur."
+                          },
+    "setupStepsSection":  {
+                              "badge":  "Processus de configuration",
+                              "title":  "Configuration de JAFZA en 5 étapes",
+                              "titleHighlight":  "en 5 étapes",
+                              "subtitle":  "Lancez votre société JAFZA en 2 À  3 jours "” notre équipe s\u0027occupe de tout pour vous.",
+                              "steps":  [
+                                            {
+                                                "step":  "01",
+                                                "title":  "Sélectionnez l\u0027activité et le formulaire juridique",
+                                                "description":  "Choisissez la structure FZE, FZCO ou succursale en fonction de vos besoins.",
+                                                "icon":  "Cible",
+                                                "color":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                                            },
+                                            {
+                                                "step":  "02",
+                                                "title":  "Nom de la société de réserve",
+                                                "description":  "Réservez votre nom auprès de JAFZA et payez les frais de réservation.",
+                                                "icon":  "Texte du fichier",
+                                                "color":  "de violet 400 À  pourpre 600"
+                                            },
+                                            {
+                                                "step":  "03",
+                                                "title":  "Signer les documents de constitution",
+                                                "description":  "Signature des statuts et des résolutions du conseil d\u0027administration.",
+                                                "icon":  "Signature du fichier",
+                                                "color":  "de l\u0027orange 400 au rouge 500"
+                                            },
+                                            {
+                                                "step":  "04",
+                                                "title":  "Payez les frais et obtenez votre licence",
+                                                "description":  "Payez les frais de licence et les frais administratifs et recevez votre licence commerciale.",
+                                                "icon":  "Vérification des badges",
+                                                "color":  "de-émeraude-400 À -turquoise-600"
+                                            },
+                                            {
+                                                "step":  "05",
+                                                "title":  "Visa et compte bancaire",
+                                                "description":  "Demander un visa et ouvrir un compte bancaire professionnel.",
+                                                "icon":  "Carte de crédit",
+                                                "color":  "de cyan 400 À  bleu 600"
+                                            }
+                                        ]
+                          },
+    "faqsSection":  {
+                        "badge":  "Questions fréquentes",
+                        "title":  "Foire aux questions",
+                        "titleHighlight":  "Questions",
+                        "subtitle":  "Tout ce que vous devez savoir sur la zone franche de JAFZA. Vous avez encore des questions ? N\u0027hésitez pas À  nous contacter.",
+                        "sidebarCard":  {
+                                            "title":  "Vous avez encore des questions ?",
+                                            "text":  "Obtenez une consultation gratuite avec nos spécialistes JAFZA.",
+                                            "whatsappMessage":  "Bonjour ! J\u0027ai une question concernant la zone franche de JAFZA."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Qu\u0027est-ce que JAFZA et pourquoi est-ce la solution idéale pour la création d\u0027entreprise ?",
+                                          "a":  "La JAFZA (Zone franche de Jebel Ali) est l\u0027une des plus grandes zones franches des Émirats arabes unis. Située À  proximité du port de Jebel Ali et de l\u0027aéroport international Al Maktoum, elle est détenue À  100 % par des étrangers, bénéficie d\u0027une fiscalité À  0 % et d\u0027infrastructures de pointe pour la logistique, la production et le commerce."
+                                      },
+                                      {
+                                          "q":  "Quels sont les avantages de créer une entreprise À  JAFZA ?",
+                                          "a":  "Propriété 100% étrangère, 0% d\u0027impôt sur le revenu des particuliers et des entreprises, emplacement stratégique À  proximité du plus grand port du monde, infrastructures de classe mondiale et plus de 8 000 entreprises dans l\u0027écosystème."
+                                      },
+                                      {
+                                          "q":  "Quels types de licences existe-t-il pour une entreprise JAFZA ?",
+                                          "a":  "Licences commerciales, de services, industrielles, de commerce électronique, d\u0027innovation et de logistique "” chacune adaptée À  des activités commerciales différentes."
+                                      },
+                                      {
+                                          "q":  "Combien de temps faut-il pour créer une entreprise À  JAFZA ?",
+                                          "a":  "Comptez généralement 2 À  3 jours ouvrables avec les documents requis. Notre équipe s\u0027occupe de tout."
+                                      },
+                                      {
+                                          "q":  "Puis-je ouvrir un compte bancaire auprès d\u0027une société JAFZA ?",
+                                          "a":  "Oui. Nous vous aidons À  ouvrir des comptes bancaires professionnels auprès des meilleures banques des Émirats arabes unis en fonction du profil de votre entreprise."
+                                      },
+                                      {
+                                          "q":  "Quelles activités peuvent être effectuées avec une licence JAFZA ?",
+                                          "a":  "Commerce général, industrie/production, logistique et transport de marchandises, conseil et commerce électronique "” ainsi que de nombreuses autres activités spécialisées."
+                                      },
+                                      {
+                                          "q":  "Ai-je besoin d\u0027un espace physique pour créer mon entreprise JAFZA ?",
+                                          "a":  "Oui, JAFZA a besoin d\u0027un bureau physique, d\u0027un espace de travail flexible ou d\u0027un entrepôt. Nous vous aidons À  choisir la solution la mieux adaptée À  votre budget et À  vos besoins."
+                                      },
+                                      {
+                                          "q":  "Qu"™est-ce que JAFZA Offshore et en quoi est-ce différent ?",
+                                          "a":  "JAFZA Offshore est la solution idéale pour détenir des actions, posséder des biens immobiliers, faire du commerce international, protéger ses actifs et gérer sa propriété intellectuelle "“ aucun bureau physique ni visa n\u0027est requis."
+                                      },
+                                      {
+                                          "q":  "Combien coûte la mise en place d\u0027une JAFZA ?",
+                                          "a":  "Licence commerciale À  partir de 12 000 AED + bureau : 8 000 À  25 000 AED + visa : 4 500 À  6 500 AED. Total pour la première année : environ 27 000 À  55 000 AED."
+                                      },
+                                      {
+                                          "q":  "Pouvez-vous m\u0027aider dans la liquidation si je souhaite fermer mon entreprise ?",
+                                          "a":  "Oui. Nous prenons en charge l\u0027intégralité du processus de liquidation : annulation des visas, règlement des factures, désactivation des licences, transfert des actifs et obtention des certificats de non-objection."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Services connexes",
+                                   "titleHighlight":  "Services",
+                                   "subtitle":  "Des services qui s\u0027accordent parfaitement avec votre configuration de zone franche.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Ouverture de compte bancaire",
+                                                     "description":  "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "de l\u0027ambre 400 À  l\u0027orange 600"
+                                                 },
+                                                 {
+                                                     "slug":  "pro-services",
+                                                     "title":  "Services PRO",
+                                                     "description":  "Carte d\u0027identité des Émirats, cartes de travail, visas et renouvellements.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80",
+                                                     "gradient":  "de violet 400 À  pourpre 600"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Services de conformité",
+                                                     "description":  "Conseils en matière d\u0027UBO, d\u0027ESR, de LBC et de TVA.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "de cyan 400 À  bleu 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Commencez dès aujourd\u0027hui",
+                     "title":  "Prêt À  lancer votre activité À  JAFZA ?",
+                     "titleHighlight":  "JAFZA ?",
+                     "subtitle":  "Bénéficiez d\u0027une consultation gratuite. Nous vous accompagnerons tout au long du processus de création, du choix de la licence À  l\u0027ouverture de votre compte bancaire.",
+                     "chips":  [
+                                   "Consultation gratuite",
+                                   "Plus de 10 000 clients",
+                                   "Installation en 2 À  3 jours"
+                               ],
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite pour la configuration de JAFZA.",
+                     "whatsappCardMessage":  "Salut ! J\u0027aimerais discuter de la configuration de JAFZA."
+                 }
+}

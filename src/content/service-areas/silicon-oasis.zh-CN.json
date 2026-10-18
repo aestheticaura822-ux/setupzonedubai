@@ -1,0 +1,287 @@
+{
+  "areaName": "迪拜硅谷绿洲",
+  "areaShort": "硅谷绿洲",
+  "heroImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80",
+  "heroBadge": "服务区域",
+  "heroTitle": "在迪拜硅谷绿洲设立公司",
+  "heroTitleHighlight": "迪拜硅谷绿洲",
+  "heroSubtitle": "迪拜硅谷绿洲（DSO）是迪拜以科技为重点的自由区，由迪拜综合经济区管理局（DIEZ）建设和运营。它专为电子、IT、软件、电子商务、人工智能和工业企业而设计——所有这些都位于一个独立的、占地7平方公里的科技园区内。",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "400+",
+      "label": "公司设立",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "所有权",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "9000迪拉姆",
+      "label": "从",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "为什么要在硅谷绿洲创业？",
+    "title": "迪拜科技园",
+    "titleHighlight": "科技园",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80",
+    "imageBadgeTitle": "地点",
+    "imageBadgeText": "迪拜硅谷绿洲",
+    "paragraph": "迪拜硅谷绿洲是一个自成一体的科技园区，办公楼、仓库和住宅别墅并排而立。",
+    "items": [
+      {
+        "icon": "Cpu",
+        "title": "科技与制造友好型",
+        "desc": "软件、电子产品、仓储和研发许可证"
+      },
+      {
+        "icon": "Building2",
+        "title": "政府所有制机构",
+        "desc": "DSOA/DIEZ 直接颁发许可证——数字化且透明"
+      },
+      {
+        "icon": "Users",
+        "title": "综合社区",
+        "desc": "一个园区内设有办公楼、仓库和住宅别墅"
+      },
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "desc": "0% 所得税——自由区标准优惠"
+      }
+    ]
+  },
+  "licenseTypesSection": {
+    "badge": "许可证类型",
+    "title": "DSO许可证类型",
+    "titleHighlight": "许可证类型",
+    "subtitle": "选择适合您业务活动的许可证。",
+    "items": [
+      {
+        "icon": "ShoppingCart",
+        "name": "贸易",
+        "desc": "电子产品、IT硬件、一般贸易",
+        "cost": "起价9000迪拉姆",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Briefcase",
+        "name": "服务/咨询",
+        "desc": "软件、数字服务、咨询、营销",
+        "cost": "起价9000迪拉姆",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "name": "工业/制造业",
+        "desc": "组装、生产、仓储",
+        "cost": "起价 12,000 迪拉姆",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "name": "电子商务",
+        "desc": "提供仓储服务的在线零售",
+        "cost": "起价 10,000 迪拉姆",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "officeOptionsSection": {
+    "badge": "办公选项",
+    "title": "DSO 中的办公选项",
+    "titleHighlight": "配电系统",
+    "subtitle": "灵活办公桌、固定办公桌、私人办公室和共享办公单元。",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "灵活办公桌",
+        "desc": "灵活办公空间解决方案"
+      },
+      {
+        "icon": "Building2",
+        "title": "专用办公桌",
+        "desc": "您专属的工作空间"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "私人办公室",
+        "desc": "私人办公空间"
+      },
+      {
+        "icon": "Server",
+        "title": "已维修单元",
+        "desc": "已全面维修的单元"
+      },
+      {
+        "icon": "Factory",
+        "title": "仓库空间",
+        "desc": "工业许可证"
+      },
+      {
+        "icon": "HardDrive",
+        "title": "制造空间",
+        "desc": "公园内部"
+      }
+    ]
+  },
+  "comparisonSection": {
+    "badge": "比较",
+    "title": "DSO 与其他自由区：如何选择",
+    "titleHighlight": "如何选择",
+    "items": [
+      {
+        "name": "配电系统",
+        "desc": "请选择您需要的技术、带仓储的电子商务或轻工业制造服务。",
+        "color": "from-cyan-400 to-sky-600",
+        "highlight": true
+      },
+      {
+        "name": "DMCC（JLT）",
+        "desc": "选择大宗商品交易和国际贸易基础设施",
+        "color": "from-sky-400 to-blue-600",
+        "highlight": false
+      },
+      {
+        "name": "IFZA",
+        "desc": "选择成本最低的顾问/自由职业者方案，并配备迪拜地址",
+        "color": "from-blue-400 to-indigo-600",
+        "highlight": false
+      },
+      {
+        "name": "大陆",
+        "desc": "选择您是否必须与阿联酋政府进行交易或开设零售店",
+        "color": "from-indigo-400 to-violet-600",
+        "highlight": false
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "过程",
+    "title": "DSO 中的设置过程",
+    "titleHighlight": "配电系统",
+    "steps": [
+      {
+        "num": "01",
+        "title": "确认活动代码",
+        "desc": "核实管辖权是否相符（自由区与大陆地区）",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "num": "02",
+        "title": "预留商标",
+        "desc": "拥有DSOA权限",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "num": "03",
+        "title": "准备文件",
+        "desc": "护照复印件和商务文件",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "num": "04",
+        "title": "提交申请",
+        "desc": "审批通常需要 3-7 个工作日",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "num": "05",
+        "title": "接收许可证",
+        "desc": "申请签证并开设银行账户",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "区域常见问题解答",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "items": [
+      {
+        "q": "迪拜硅谷绿洲是迪拜政府的一部分吗？",
+        "a": "它由迪拜政府实体——迪拜综合经济区管理局（DIEZ）运营，因此许可证由官方机构直接颁发。"
+      },
+      {
+        "q": "我可以在DSO生活和工作吗？",
+        "a": "是的——DSO包含住宅社区，因此您可以租住靠近办公室的住宿。"
+      },
+      {
+        "q": "DSO许可证是否允许导入和导出？",
+        "a": "是的——贸易许可证包括许可证上所列商品的进出口活动。"
+      },
+      {
+        "q": "开展DSO业务的最低成本是多少？",
+        "a": "服务或贸易许可证起价约为 9,000 迪拉姆，签证和公共关系服务另行报价。"
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "快速解答",
+    "title": "快速解答",
+    "titleHighlight": "答案",
+    "subtitle": "关于在迪拜设立公司的常见问题。还有其他疑问？欢迎随时联系我们。",
+    "relatedServicesTitle": "相关服务与指南",
+    "items": [
+      {
+        "q": "在迪拜创业需要多少成本？",
+        "a": "在迪拜设立公司，基本自由区许可证的起价为 9,500 迪拉姆。在阿联酋大陆设立公司的起价为 14,500 迪拉姆。"
+      },
+      {
+        "q": "外国人可以在迪拜拥有100%的公司所有权吗？",
+        "a": "是的，外国人可以在大多数自由区和大陆的许多行业中拥有100%的公司所有权。"
+      },
+      {
+        "q": "迪拜最便宜的自由区是哪个？",
+        "a": "RAK ICC、Ajman FTZ 和 SRTIP 提供最实惠的套餐，起价为 5,900 迪拉姆。"
+      },
+      {
+        "q": "在迪拜注册公司需要多长时间？",
+        "a": "自由贸易区注册需要3-7个工作日，大陆地区注册需要2-4周。"
+      },
+      {
+        "q": "我需要在迪拜寻找当地合作伙伴吗？",
+        "a": "自由区除外。在中国大陆，许多行业现在允许外商100%控股。"
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "在阿尔巴沙设立公司",
+        "desc": "探索阿尔巴沙的设置选项",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/al-barsha"
+      },
+      {
+        "icon": "FileText",
+        "title": "JVC的业务设立",
+        "desc": "探索 JVC 中的设置选项",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/jvc"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "准备开始吗？",
+    "title": "准备好在硅谷绿洲开启您的创业之旅了吗？",
+    "titleHighlight": "硅谷绿洲",
+    "subtitle": "立即联系我们的商业设立专家团队，获取免费咨询。我们将帮助您选择最适合您科技或工业企业的司法管辖区。",
+    "primaryCta": "立即联系我们",
+    "secondaryCta": "+971 56 655 6645",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "您好！我想在硅谷绿洲设立我的公司。"
+  }
+}

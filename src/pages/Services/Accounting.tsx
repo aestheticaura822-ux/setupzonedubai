@@ -13,7 +13,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import accountingData from '../../content/services/accounting.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
-// Icon map
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Calculator, Clock, Zap, Award, Users, ShieldCheck, Wallet, Target,
   AlertTriangle, Eye, Building2, Briefcase, TrendingUp, Globe,
@@ -23,7 +24,9 @@ const iconMap: any = {
 };
 
 export default function Accounting({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || accountingData;
+  const { language } = useLanguage();
+  const accountingFallback = loadContent('services/accounting', language);
+  const data = tinaData?.data?.services || accountingFallback;
 
   return (
     <div className="min-h-screen bg-white">

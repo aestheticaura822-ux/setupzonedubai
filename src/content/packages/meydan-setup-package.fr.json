@@ -1,0 +1,551 @@
+{
+  "slug": "meydan-setup-package",
+  "hero": {
+    "badge": "Destination d'affaires de premier plan",
+    "title": "Pack d'installation Meydan",
+    "titleHighlight": "Emballer",
+    "subtitle": "Meydan Free Zone, destination d'affaires prestigieuse à Dubaï. Des forfaits abordables à partir de seulement 5 999 AED : licence, visa, compte bancaire et plus encore.",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+    "breadcrumbLabel": "Pack d'installation Meydan",
+    "ctaPrimaryText": "Voir les forfaits",
+    "ctaPrimaryLink": "#packages",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Bonjour ! Je suis intéressé par le pack d'installation Meydan.",
+    "badges": [
+      "À partir de 5 999 AED",
+      "11 colis",
+      "Installation en 3 à 7 jours",
+      "Propriété à 100 %"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5 999 AED",
+      "label": "À partir de",
+      "color": "from-amber-400 to-yellow-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Colis",
+      "color": "from-yellow-400 to-orange-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Installation des jours",
+      "color": "from-orange-400 to-amber-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Possession",
+      "color": "from-amber-400 to-orange-500"
+    }
+  ],
+  "intro": {
+    "badge": "Nous sommes là pour vous aider !",
+    "title": "Forfaits d'installation Meydan abordables pour votre entreprise aux Émirats arabes unis",
+    "titleHighlight": "pour votre entreprise aux Émirats arabes unis",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Zone franche de Meydan",
+    "imageBadgeText": "Dubaï, Émirats arabes unis",
+    "paragraph1": "Vous souhaitez implanter votre entreprise sur le marché florissant des Émirats arabes unis ? Notre équipe d’experts accompagne les entrepreneurs dans la création d’entreprises prospères dans plus de 65 juridictions.",
+    "paragraph2": "Que vous préfériez la flexibilité d'une zone franche ou le prestige d'une licence commerciale sur le continent, nous proposons les meilleurs forfaits de création d'entreprise à Dubaï pour répondre à vos objectifs commerciaux les plus ambitieux.",
+    "paragraph3": "Tous nos forfaits constituent un point de départ pour votre aventure entrepreneuriale et peuvent être personnalisés selon vos besoins.",
+    "features": [
+      "Plus de 65 juridictions",
+      "Zone Premium",
+      "Forfaits personnalisables",
+      "À partir de 5 999 AED",
+      "Installation rapide en 3 à 7 jours",
+      "Soutien complet"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "Écosystème d'affaires premium",
+    "title": "Conçu pour les industries haut de gamme",
+    "titleHighlight": "Industries de premier plan",
+    "subtitle": "Six secteurs de pointe qui prospèrent dans la zone franche de Meydan.",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "Sports et équitation",
+        "desc": "Courses hippiques, équitation, gestion sportive, événements",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Hotel",
+        "title": "Hôtellerie et tourisme",
+        "desc": "Hôtels, complexes hôteliers, restauration, services de voyage",
+        "color": "from-yellow-400 to-orange-600"
+      },
+      {
+        "icon": "Car",
+        "title": "Automobile et luxe",
+        "desc": "Voitures de luxe, concessionnaires, produits haut de gamme",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Crown",
+        "title": "Luxe et art de vivre",
+        "desc": "Mode, bijoux, commerce de détail haut de gamme",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Utensils",
+        "title": "Restauration",
+        "desc": "Restaurants gastronomiques, cafés, services de traiteur",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Medal",
+        "title": "Événements et divertissements",
+        "desc": "Concerts, expositions, événements d'entreprise",
+        "color": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Forfaits d'installation abordables à Dubaï",
+    "title": "Nos forfaits d'installation à Meydan",
+    "titleHighlight": "Packs d'installation Meydan",
+    "subtitle": "11 formules haut de gamme conçues pour les entreprises haut de gamme. Entièrement personnalisables.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Conseil en voyages et tourisme",
+        "price": "14 499 AED",
+        "tagline": "Avec visa de résidence",
+        "category": "Prime",
+        "color": "from-amber-500 to-yellow-700",
+        "badge": "Populaire",
+        "badgeColor": "de l'ambre 500 au jaune 600",
+        "includes": [
+          "Licence de zone franche",
+          "1 visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, d'identité émirienne et de dossier médical",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Gestion d'événements",
+        "price": "14 499 AED",
+        "tagline": "Avec visa de résidence",
+        "category": "Prime",
+        "color": "from-yellow-500 to-orange-700",
+        "badge": "Prime",
+        "badgeColor": "de jaune 500 à orange 600",
+        "includes": [
+          "Licence de zone franche",
+          "1 visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, d'identité émirienne et de dossier médical",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Commerce général",
+        "price": "15 999 AED",
+        "tagline": "Avec visa de résidence",
+        "category": "Prime",
+        "color": "from-orange-500 to-amber-700",
+        "badge": "Meilleure valeur",
+        "badgeColor": "de l'orange 500 à l'ambre 600",
+        "includes": [
+          "Licence de zone franche",
+          "1 Visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, d'identité émirienne et de dossier médical",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Stylisme",
+        "price": "5 999 AED",
+        "tagline": "Jusqu'à 5 activités",
+        "category": "Économie",
+        "color": "from-amber-500 to-orange-700",
+        "badge": "Créatif",
+        "badgeColor": "de l'ambre 500 à l'orange 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Forme et style de vie",
+        "price": "5 999 AED",
+        "tagline": "Jusqu'à 5 activités",
+        "category": "Économie",
+        "color": "from-orange-500 to-red-700",
+        "badge": "Abordable",
+        "badgeColor": "de l'orange 500 au rouge 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "commerce électronique",
+        "price": "5 999 AED",
+        "tagline": "Entreprise en ligne prête à l'emploi",
+        "category": "Économie",
+        "color": "from-red-500 to-rose-700",
+        "badge": "Populaire",
+        "badgeColor": "de rouge 500 à rose 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "Services informatiques",
+        "price": "6 449 AED",
+        "tagline": "Jusqu'à 5 activités",
+        "category": "Professionnel",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Technologie",
+        "badgeColor": "de rose 500 à rose 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Commerce général",
+        "price": "7 999 AED",
+        "tagline": "Trading de niveau débutant",
+        "category": "Standard",
+        "color": "from-pink-500 to-fuchsia-700",
+        "badge": "Meilleure vente",
+        "badgeColor": "de rose 500 à fuchsia 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Licence de zone franche avec résidence à vie aux Émirats arabes unis",
+        "price": "11 999 AED",
+        "tagline": "Résidence à vie",
+        "category": "Prime",
+        "color": "from-fuchsia-500 to-purple-700",
+        "badge": "Exclusif",
+        "badgeColor": "de fuchsia-500 à violet-600",
+        "includes": [
+          "Licence de zone franche",
+          "Résidence gratuite aux Émirats arabes unis / visa d'investisseur à vie",
+          "Contrat de location gratuit",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Licence continentale avec résidence aux Émirats arabes unis",
+        "price": "16 999 AED",
+        "tagline": "Continent + Résidence",
+        "category": "continent",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "continent",
+        "badgeColor": "de l'ardoise 600 à l'ardoise 700",
+        "includes": [
+          "Licence continentale",
+          "1 visa de résidence/investisseur aux Émirats arabes unis",
+          "Changement de statut, dossier médical, carte d'identité émirienne et changement de statut",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Consultation TVA gratuite"
+        ],
+        "exampleActivities": [
+          "Gestion de projet",
+          "Conseil en gestion",
+          "Courtier commercial",
+          "Gestion des installations",
+          "Services de nettoyage",
+          "entretien des bâtiments"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Entrepreneuriat féminin",
+        "price": "5 999 AED",
+        "tagline": "Conçu pour les femmes fondatrices",
+        "category": "Spécial",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Spécial",
+        "badgeColor": "de rose 500 à rose 600",
+        "includes": [
+          "Licence de zone franche",
+          "Contrat de location gratuit",
+          "Jusqu'à 5 activités commerciales",
+          "Aide gratuite à l'ouverture de compte bancaire",
+          "Adresse premium à Dubaï et boîte postale partagée",
+          "Consultation TVA gratuite"
+        ],
+        "exampleActivities": [
+          "Coaching de style de vie",
+          "Marketing numérique",
+          "Création de mode et de vêtements",
+          "Gestion d'événements",
+          "Services de conseil"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "Besoin d'un forfait premium personnalisé ?",
+    "subtitle": "Faites-nous part de votre vision d'entreprise haut de gamme et nous créerons le forfait idéal.",
+    "buttonText": "Devis personnalisé",
+    "whatsappMessage": "Salut ! J'ai besoin d'un package d'installation Meydan personnalisé."
+  },
+  "benefits": {
+    "badge": "Pourquoi Meydan",
+    "title": "Avantages de la configuration de Meydan",
+    "titleHighlight": "Configuration de Meydan",
+    "subtitle": "Six atouts majeurs pour les entreprises haut de gamme.",
+    "items": [
+      {
+        "icon": "Crown",
+        "title": "Adresse prestigieuse",
+        "desc": "La marque de luxe de Meydan",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Configuration à faible coût",
+        "desc": "À partir de 5 999 AED",
+        "color": "from-yellow-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Propriété étrangère à 100 %",
+        "desc": "Propriété entièrement étrangère",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Installation rapide en 3 à 7 jours",
+        "desc": "Délivrance rapide des permis",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Wallet",
+        "title": "Environnement fiscal à 0 %",
+        "desc": "Avantages non imposables",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Star",
+        "title": "Écosystème Premium",
+        "desc": "réseau d'affaires de luxe",
+        "color": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "Processus en 6 étapes",
+    "title": "Comment débuter",
+    "titleHighlight": "Commencer",
+    "subtitle": "Du choix du forfait à l'ouverture du compte bancaire, nous nous occupons de tout.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Choisissez votre forfait",
+        "description": "Choisissez parmi nos forfaits premium.",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Soumettre des documents",
+        "description": "Copies du passeport, plan d'affaires et photos.",
+        "color": "from-yellow-400 to-orange-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Demande de licence",
+        "description": "Nous déposons une demande auprès des autorités de Meydan.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Recevez votre permis",
+        "description": "Autorisation délivrée sous 3 à 7 jours.",
+        "color": "from-amber-400 to-orange-500"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Votre partenaire de confiance pour l'installation de Meydan",
+    "titleHighlight": "Partenaire d'installation Meydan",
+    "subtitle": "Huit raisons pour lesquelles les entreprises de premier plan nous font confiance.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Tarification transparente",
+        "desc": "Aucuns frais cachés, jamais"
+      },
+      {
+        "icon": "Zap",
+        "label": "Installation rapide en 3 à 7 jours",
+        "desc": "Délivrance rapide des permis"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "Conformité à 100 %",
+        "desc": "Entièrement approuvé par le gouvernement"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Consultant dévoué",
+        "desc": "conseiller personnel"
+      },
+      {
+        "icon": "Globe",
+        "label": "Équipe multilingue",
+        "desc": "Anglais, arabe, hindi, ourdou"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Consultation en matière de TVA",
+        "desc": "Inclus gratuitement"
+      },
+      {
+        "icon": "Award",
+        "label": "Plus de 10 000 entreprises",
+        "desc": "Lancement réussi"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Assistance de bout en bout",
+        "desc": "Autorisation d'accès au compte bancaire"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche de Meydan. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "items": [
+      {
+        "q": "Qu'est-ce que la zone franche de Meydan ?",
+        "a": "La zone franche de Meydan est une zone franche prestigieuse de Dubaï, réputée pour son lien avec l'emblématique hippodrome de Meydan et son style de vie luxueux. Elle propose une installation à faible coût, la possibilité d'une propriété 100 % étrangère et une obtention rapide des licences en 3 à 7 jours ouvrables."
+      },
+      {
+        "q": "Où se situe la zone franche de Meydan ?",
+        "a": "La zone franche de Meydan est située à Dubaï, aux Émirats arabes unis, à proximité du célèbre hippodrome de Meydan. Elle bénéficie d'une excellente desserte du centre-ville de Dubaï, de Business Bay, ainsi que des principaux axes routiers et aéroports."
+      },
+      {
+        "q": "Que contient le pack d'installation Meydan ?",
+        "a": "Selon la formule choisie, vous bénéficiez de la licence de zone franche, du visa de résidence, de l'examen médical et de la carte d'identité des Émirats, du contrat de location, de l'assistance pour l'ouverture d'un compte bancaire, d'une adresse prestigieuse et d'une consultation gratuite sur la TVA."
+      },
+      {
+        "q": "Combien coûte un forfait Meydan ?",
+        "a": "Nos forfaits Meydan débutent à 5 999 AED (économique) et vont jusqu'à 16 999 AED (continentale + résidence). Les forfaits premium avec visa sont disponibles à partir de 14 499 AED."
+      },
+      {
+        "q": "Combien de temps dure l'installation ?",
+        "a": "Il faut généralement compter 3 à 7 jours ouvrables pour la délivrance du permis, et 1 à 2 semaines supplémentaires pour le traitement du visa et l'ouverture du compte bancaire."
+      },
+      {
+        "q": "Puis-je personnaliser mon forfait ?",
+        "a": "Oui. Tous les forfaits sont des points de départ et peuvent être personnalisés en fonction de votre entreprise, de vos besoins en matière de visa et de votre budget."
+      },
+      {
+        "q": "Vais-je obtenir un visa de résidence pour les Émirats arabes unis ?",
+        "a": "Oui, certains forfaits incluent un visa d'investisseur/résident des Émirats arabes unis avec examen médical, carte d'identité émirienne et changement de statut. La licence de zone franche avec résidence à vie aux Émirats arabes unis offre même une résidence à vie."
+      },
+      {
+        "q": "L'ouverture d'un compte bancaire est-elle incluse ?",
+        "a": "Oui. Tous nos forfaits incluent une assistance gratuite pour l'ouverture d'un compte bancaire professionnel auprès des principales banques des Émirats arabes unis."
+      },
+      {
+        "q": "Quelles activités puis-je pratiquer dans la zone franche de Meydan ?",
+        "a": "Meydan soutient les secteurs du sport et de l'équitation, de l'hôtellerie et du tourisme, de l'automobile et du luxe, du luxe et du style de vie, de la restauration, de l'événementiel et du divertissement, ainsi que d'autres industries haut de gamme — avec jusqu'à 5 activités dans la plupart des formules économiques."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour l'installation de votre Meydan ?",
+        "a": "Nous proposons une tarification transparente, une expertise sectorielle de pointe, des consultants dédiés et un accompagnement complet, de l'obtention de la licence à l'ouverture d'un compte bancaire. Plus de 10 000 installations réussies à notre actif."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Démarrez votre entreprise premium dès aujourd'hui",
+    "title": "Prêt à lancer votre activité à Meydan, Dubaï ?",
+    "titleHighlight": "Meydan Dubaï ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous aiderons à choisir la formule qui vous convient et à lancer votre activité premium en quelques jours.",
+    "primaryCta": "Contactez-nous sur WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour le forfait d'installation Meydan.",
+    "badges": [
+      "À partir de 5 999 AED",
+      "Installation en 3 à 7 jours",
+      "Propriété à 100 %"
+    ],
+    "office": {
+      "label": "Visitez notre bureau de Dubaï",
+      "line1": "Bureau M08-27, 1er étage, Crystal Tower",
+      "line2": "Business Bay, Dubaï, Émirats arabes unis — Boîte postale : 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Heures de travail",
+      "monFri": "8h00 – 18h00",
+      "saturday": "10h00 – 17h00",
+      "sunday": "Fermé"
+    }
+  }
+}

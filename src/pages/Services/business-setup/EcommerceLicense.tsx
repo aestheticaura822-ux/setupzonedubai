@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../../lib/whatsapp';
 import ecommerceLicenseData from '../../../content/business-setup/ecommerce-license.json';
 import WhatsAppIcon from '../../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../../i18n/LanguageContext';
+import { loadContent } from '../../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock, Award, FileText,
@@ -27,7 +28,9 @@ const iconMap: any = {
 };
 
 export default function EcommerceLicense({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.businessSetup || ecommerceLicenseData;
+  const { language } = useLanguage();
+  const ecommerceFallback = loadContent('business-setup/ecommerce-license', language);
+  const data = tinaData?.data?.businessSetup || ecommerceFallback;
   const [activeJurisdiction, setActiveJurisdiction] = useState(0);
 
   const jurisdictions = data.jurisdictionsSection.items;

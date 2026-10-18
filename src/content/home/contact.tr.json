@@ -1,0 +1,164 @@
+{
+  "badge": "İletişime Geçin",
+  "heading": {
+    "line1": "Başlayalım",
+    "highlight": "Konuşma"
+  },
+  "subtitle": "Yeni kurulan şirketlerden büyük işletmelere kadar Dubai'deki işletmeler, sonuç odaklı çalışmamız için bize güveniyor. Bugün ücretsiz danışmanlık hizmetimizden yararlanın.",
+  "contactCards": [
+    {
+      "icon": "Phone",
+      "label": "Bizi Arayın",
+      "value": "+971 56 655 6645",
+      "sub": "Pazartesi-Cumartesi: 09:00 - 18:00",
+      "href": "tel:+971566556645",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)"
+    },
+    {
+      "icon": "Mail",
+      "label": "Bize e-posta gönderin",
+      "value": "setupzonedubai@gmail.com",
+      "sub": "24 saat içinde yanıt veriyoruz.",
+      "href": "mailto:setupzonedubai@gmail.com",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)"
+    },
+    {
+      "icon": "MapPin",
+      "label": "Bizi Ziyaret Edin",
+      "value": "Kristal Kulesi, Business Bay",
+      "sub": "Dubai, BAE — Posta Kutusu 554552",
+      "href": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)"
+    }
+  ],
+  "workingHoursCard": {
+    "title": "Çalışma Saatleri",
+    "timezoneLabel": "Dubai Saati (GST)",
+    "todayBadge": "Bugün",
+    "hours": [
+      {
+        "day": "Pazartesi",
+        "hours": "09:00 - 18:00",
+        "active": true
+      },
+      {
+        "day": "Salı",
+        "hours": "09:00 - 18:00",
+        "active": false
+      },
+      {
+        "day": "Çarşamba",
+        "hours": "09:00 - 18:00",
+        "active": false
+      },
+      {
+        "day": "Perşembe",
+        "hours": "09:00 - 18:00",
+        "active": false
+      },
+      {
+        "day": "Cuma",
+        "hours": "09:00 - 18:00",
+        "active": false
+      },
+      {
+        "day": "Cumartesi",
+        "hours": "10:00 - 17:00",
+        "active": false
+      },
+      {
+        "day": "Pazar",
+        "hours": "Kapalı",
+        "active": false,
+        "closed": true
+      }
+    ]
+  },
+  "trustBadges": [
+    {
+      "icon": "Zap",
+      "label": "< 24 saat",
+      "sub": "Cevap"
+    },
+    {
+      "icon": "Lock",
+      "label": "%100",
+      "sub": "Gizli"
+    },
+    {
+      "icon": "CheckCircle2",
+      "label": "Özgür",
+      "sub": "Danışma"
+    }
+  ],
+  "form": {
+    "title": "Bize bir mesaj gönderin",
+    "subtitle": "Formu doldurun, ekibimiz 24 saat içinde sizinle iletişime geçecektir.",
+    "submitText": "Mesaj Gönder",
+    "privacyNote": "Bilgileriniz güvende ve gizlidir.",
+    "successTitle": "WhatsApp açılıyor... 🎉",
+    "successMessage": "Lütfen talebinizi tamamlamak için önceden doldurulmuş mesajı gönderin.",
+    "whatsappNumber": "971566556645",
+    "whatsappSenderLine": "setupzonedubai@gmail.com adresinden gönderildi",
+    "fields": {
+      "name": {
+        "label": "Ad Soyad",
+        "placeholder": "John Smith",
+        "required": true
+      },
+      "email": {
+        "label": "E-posta",
+        "placeholder": "john@company.com",
+        "required": true
+      },
+      "phone": {
+        "label": "Telefon Numarası",
+        "placeholder": "+971 50 123 4567",
+        "required": true
+      },
+      "nationality": {
+        "label": "Milliyet",
+        "placeholder": "Örneğin, İngiliz, Hintli",
+        "required": false
+      },
+      "service": {
+        "label": "Hizmet Seçin",
+        "placeholder": "Bir hizmet seçin...",
+        "required": true
+      },
+      "message": {
+        "label": "Mesajınız",
+        "placeholder": "Bize işletmenizin ihtiyaçlarını anlatın...",
+        "required": true
+      }
+    },
+    "services": [
+      "İş Kurma — Serbest Bölge",
+      "İş Kurma — Anakara",
+      "Altın Vize",
+      "Kurumlar Vergisi ve KDV",
+      "Banka Hesabı Açma",
+      "Muhasebe ve Defter Tutma",
+      "Uyumluluk Hizmetleri",
+      "PRO Hizmetleri",
+      "Dijital Pazarlama",
+      "Web Geliştirme",
+      "SEO Hizmetleri",
+      "Diğer"
+    ]
+  },
+  "map": {
+    "title": "Merkez",
+    "address1": "Kristal Kulesi, Business Bay",
+    "address2": "Ofis M08-27, M1. Kat, Millennium Central Aynı Bina, Al Asayel Caddesi, Dubai, BAE",
+    "directionsText": "Yol Tarifi Al",
+    "directionsLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
+    "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
+    "quickContactLabel": "Hızlı İletişim",
+    "quickContactPhone": "+971 56 655 6645",
+    "quickContactMessage": "Merhaba! Ofisinizi ziyaret etmek istiyorum."
+  }
+}

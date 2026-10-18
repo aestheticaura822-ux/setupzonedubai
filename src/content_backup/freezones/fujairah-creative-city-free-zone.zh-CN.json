@@ -1,0 +1,440 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1600&q=80",
+  "heroBadge": "创意在富查伊拉蓬勃发展",
+  "heroTitle": "富查伊拉创意城自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "这是阿联酋最便捷的自由区之一，适合媒体专业人士、数字企业家和服务型初创企业。无需审计、无需实缴资本、无需办公场所。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "无需办公室"
+  ],
+  "heroCard": {
+    "headerTitle": "创意护照",
+    "headerStatus": "美国联邦通信委员会（FCC）",
+    "icon": "Palette",
+    "zoneLabel": "区",
+    "zoneValue": "富查伊拉创意城",
+    "statusBadge": "积极的",
+    "setupTimeLabel": "设置时间",
+    "setupTimeValue": "3-7天",
+    "taxLabel": "税率",
+    "taxValue": "0%",
+    "footerText": "立即启动"
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "设置天数",
+      "color": "from-amber-400 to-yellow-500"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-yellow-400 to-amber-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-orange-400 to-amber-600"
+    },
+    {
+      "icon": "Users",
+      "value": "无办公室",
+      "label": "必需的",
+      "color": "from-amber-500 to-orange-500"
+    }
+  ],
+  "startSection": {
+    "badge": "创业",
+    "title": "在富查伊拉创意城启动",
+    "titleHighlight": "富查伊拉创意城",
+    "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&q=80",
+    "imageBadgeTitle": "非常适合",
+    "imageBadgeText": "自由职业者和初创公司",
+    "paragraphs": [
+      "在富查伊拉创意城自由区设立公司，为企业家和企业提供了一个完美的平台，让他们能够在阿联酋最经济实惠、用途最广泛的自由区之一站稳脚跟。",
+      "创意城旨在支持媒体、创意、咨询和专业服务行业，已迅速成为自由职业者、初创企业和寻求灵活办公环境且不想承担高额运营成本的公司的首选目的地。",
+      "无论您是寻求经济实惠许可证的自由职业者、顾问、媒体或制作公司，还是数字企业家——Creative City 都能为您提供一条轻松且经济实惠的途径来建立您的业务。"
+    ],
+    "highlights": [
+      "无需办公室",
+      "灵活的签证选择",
+      "经济实惠",
+      "完全合规"
+    ]
+  },
+  "activitiesSection": {
+    "badge": "商业活动",
+    "title": "FCC允许开展哪些商业活动？",
+    "titleHighlight": "符合美国联邦通信委员会（FCC）的规定吗？",
+    "subtitle": "涵盖各种创意、专业、教育和科技活动。",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "影视制作",
+        "description": "一家提供拍摄、剪辑、播出和后期制作服务的媒体公司。FCC许可证保护工作室、动画创作者和短片制片人的权益。",
+        "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-500"
+      },
+      {
+        "icon": "Newspaper",
+        "title": "出版与新闻",
+        "description": "在线新闻平台、内容撰写者、杂志出版商和调查记者——在线、印刷或多媒体。",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80",
+        "color": "from-orange-500 to-amber-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "平面设计及创意服务",
+        "description": "标志设计、品牌推广、数字广告、动态图形、包装设计、用户界面/用户体验开发。",
+        "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1200&q=80",
+        "color": "from-yellow-500 to-amber-600"
+      },
+      {
+        "icon": "Code",
+        "title": "Web 和移动应用开发",
+        "description": "根据技术服务许可，提供定制网站、SaaS 平台、Web 和移动应用程序以及电子商务门户网站。",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "管理、市场营销与咨询",
+        "description": "战略规划、品牌塑造、增长咨询、数字营销、搜索引擎优化和业务运营协助。",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+        "color": "from-orange-400 to-red-500"
+      },
+      {
+        "icon": "Scale",
+        "title": "会计、法律和人力资源咨询",
+        "description": "财务报告、监管合规、税务缴纳、雇佣合同和招聘流程。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "电子学习和在线培训",
+        "description": "远程学习平台——语言培训、技能发展或企业认证公司。",
+        "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80",
+        "color": "from-yellow-500 to-amber-500"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "教育内容创作",
+        "description": "创建、授权和分发教育内容——练习册、课程、教学大纲或学术文本。",
+        "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1200&q=80",
+        "color": "from-orange-500 to-amber-500"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务支持服务",
+        "description": "后台服务——履行支持、网上商店维护、产品目录和网上商店设计。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "媒体、科技或创意领域的自由职业者",
+        "description": "独立顾问、数字游民或可扩展的服务型企业——一条合法合规、门槛低的创业之路。",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-yellow-400 to-orange-500"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "适合您的许可证",
+    "titleHighlight": "适合你",
+    "subtitle": "选择含签证或不含签证的套餐——按自己的节奏发展。",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "自由职业者许可证",
+        "description": "适用于独立工作的个人或个体经营者。",
+        "code": "FRL",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "服务许可证",
+        "description": "适用于顾问或专业人士——法律、IT、市场营销等。",
+        "code": "SRV",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "媒体许可",
+        "description": "适用于内容制作人、数字机构或媒体制作公司。",
+        "code": "医学",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Store",
+        "title": "商业许可",
+        "description": "适用于提供多种不同服务的企业。",
+        "code": "COM",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "Users2",
+        "title": "公司许可证",
+        "description": "最适合拥有两个或两个以上合伙人或股东的企业。",
+        "code": "C反应蛋白",
+        "color": "from-yellow-500 to-amber-500"
+      }
+    ]
+  },
+  "workspacesSection": {
+    "badge": "工作区",
+    "title": "办公基础设施和灵活办公桌选项",
+    "titleHighlight": "灵活办公桌选项",
+    "subtitle": "无需租用办公场所即可开展全面运营。",
+    "largeCard": {
+      "icon": "Globe",
+      "title": "无办公套餐",
+      "description": "以远程（而非虚拟）方式合法运营——非常适合希望零成本且完全合规的自由职业者和数字企业家。",
+      "color": "from-amber-500 via-yellow-500 to-orange-600"
+    },
+    "secondaryCards": [
+      {
+        "icon": "Monitor",
+        "title": "灵活办公桌",
+        "description": "根据需要使用共享办公空间。",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Building2",
+        "title": "私人行政办公室",
+        "description": "适用于需要专用空间的较大单位或团队单位。",
+        "color": "from-yellow-400 to-amber-600"
+      }
+    ],
+    "bottomCards": [
+      {
+        "icon": "Package",
+        "title": "可选储物空间",
+        "description": "按需存储空间。",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Users",
+        "title": "会议室",
+        "description": "专业会议设施。",
+        "color": "from-amber-500 to-orange-500"
+      },
+      {
+        "icon": "Send",
+        "title": "邮政信箱访问",
+        "description": "专业商务地址。",
+        "color": "from-yellow-500 to-amber-500"
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "签证与移民",
+    "title": "签证及移民服务",
+    "titleHighlight": "服务",
+    "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80",
+    "imageBadgeTitle": "签证服务",
+    "imageBadgeText": "全生命周期支持",
+    "paragraphs": [
+      "我们提供全方位的签证和移民服务，确保您合规经营，让您的团队合法工作。从企业主的投资签证申请到员工的雇主签证申请——我们负责整个流程。",
+      "从阿联酋身份证申请、体检、签证盖章到持续的公共关系服务，管理所有文件和政府申请，我们都能提供全方位的服务。",
+      "我们将建立一个流程来自动跟踪所有要求，确保您在续订时收到提醒——这样您就不会错过任何日期。"
+    ],
+    "features": [
+      "投资者签证",
+      "雇员签证",
+      "阿联酋身份证",
+      "专业服务",
+      "医学检查",
+      "续订提醒"
+    ]
+  },
+  "postSetupSection": {
+    "badge": "值得信赖的支持",
+    "title": "设置后业务支持服务",
+    "titleHighlight": "支持服务",
+    "subtitle": "获得许可证只是开始——我们为长期发展奠定基础。",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "网站及电子商务搭建",
+        "description": "建立专业的网站或网上商店。",
+        "color": "from-amber-400 to-yellow-500"
+      },
+      {
+        "icon": "Layers",
+        "title": "CRM 和 CMS 集成",
+        "description": "利用定制平台简化操作流程。",
+        "color": "from-yellow-400 to-amber-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "簿记和增值税登记",
+        "description": "准确的财务记录和增值税申报。",
+        "color": "from-orange-400 to-amber-500"
+      },
+      {
+        "icon": "Award",
+        "title": "企业简介及品牌推广",
+        "description": "面向投资者的公司简介和品牌宣传资料包。",
+        "color": "from-amber-500 to-orange-600"
+      },
+      {
+        "icon": "CreditCard",
+        "title": "银行账户协助",
+        "description": "凭正确文件开设阿联酋公司银行账户。",
+        "color": "from-yellow-500 to-amber-500"
+      },
+      {
+        "icon": "Scale",
+        "title": "法律结构及文件",
+        "description": "股东协议和商标设立。",
+        "color": "from-orange-500 to-red-500"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "营销和数字工具",
+        "description": "社交媒体、搜索引擎优化、广告账户和电子邮件工具。",
+        "color": "from-amber-400 to-orange-500"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "公司注册专家",
+    "title": "为什么选择迪拜Setup Zone？",
+    "titleHighlight": "迪拜建站区？",
+    "subtitle": "值得信赖的商业设立合作伙伴，在富查伊拉创意城建设方面拥有丰富的经验。",
+    "items": [
+      {
+        "icon": "Zap",
+        "title": "快速审批",
+        "description": "通过我们与TECOM的合作关系，处理速度很快。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "完全遵守 FCC 规则",
+        "description": "每一步都符合FCC的规定。"
+      },
+      {
+        "icon": "Target",
+        "title": "个性化业务架构",
+        "description": "根据您所在的行业和目标量身定制的建议。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "透明、固定价格套餐",
+        "description": "无任何隐藏费用——价格始终透明。"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "持续的业务支持",
+        "description": "续订、合规和安装后帮助。"
+      },
+      {
+        "icon": "Globe",
+        "title": "多语言咨询",
+        "description": "跨语言的全球投资者体验。"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于富查伊拉创意城，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的 FCC 专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于富查伊拉创意城自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "是否可以从阿联酋境外设立 FCC 企业？",
+        "a": "是的。FCC允许初创公司远程运营。流程大多在线完成，或通过授权委托书（POA）进行，这样即使您不在也能开展业务。"
+      },
+      {
+        "q": "我的FCC执照可以申请多少种签证？",
+        "a": "签证配额取决于您的许可证套餐和办公地点类型。我们会帮助您选择合适的组合。"
+      },
+      {
+        "q": "对于自由职业者来说，这是一个可行的选择吗？",
+        "a": "当然。FCC是自由职业者最友好的自由区之一，提供性价比高的自由职业者许可证和无需办公场所的套餐。"
+      },
+      {
+        "q": "我需要租用办公室才能获得营业执照吗？",
+        "a": "不。FCC 提供无需办公场所的套餐，因此您可以合法地进行远程办公，而无需租用实体办公空间。"
+      },
+      {
+        "q": "我以后可以升级或更改我的业务活动吗？",
+        "a": "是的。FCC允许对活动进行修改和升级。我们会为您处理所有流程。"
+      },
+      {
+        "q": "注册需要哪些文件？",
+        "a": "护照复印件、护照尺寸照片、拟定的公司名称以及有效的电子邮件地址/联系电话。我们将指导您完成所有文件准备工作。"
+      },
+      {
+        "q": "安装过程有多快？",
+        "a": "通常需要 3-7 个工作日才能准备好所有文件。"
+      },
+      {
+        "q": "FCC是否适用于电子商务或数字服务？",
+        "a": "是的。FCC通过灵活的许可方式支持电子商务支持服务、数字营销和科技企业。"
+      },
+      {
+        "q": "我可以获得有关银行和增值税方面的帮助吗？",
+        "a": "是的。我们提供银行账户协助和增值税注册服务，作为我们后续支持的一部分。"
+      },
+      {
+        "q": "FCC是否获得国际认可？",
+        "a": "是的。FCC是由阿联酋政府支持、全球认可的自由区。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的 FCC 设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-yellow-400 to-amber-600"
+      },
+      {
+        "slug": "digital-marketing",
+        "title": "数字营销",
+        "description": "社交媒体、付费广告和内容策略。",
+        "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+        "gradient": "from-orange-400 to-amber-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天发布",
+    "title": "准备在富查伊拉创意城启动项目吗？",
+    "titleHighlight": "富查伊拉创意城市？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置过程——从许可证申请到产品上线。",
+    "chips": [
+      "免费咨询",
+      "无需办公室",
+      "3-7天安装完成"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于在富查伊拉创意城设立项目的免费咨询。",
+    "whatsappCardMessage": "您好！我想讨论一下富查伊拉创意城的建设规划。"
+  }
+}

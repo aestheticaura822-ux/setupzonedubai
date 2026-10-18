@@ -1,0 +1,179 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+  "heroBadge": "Stay Legally Sound",
+  "heroTitle": "Compliance Services in UAE",
+  "heroTitleHighlight": "UAE",
+  "heroSubtitle": "End-to-end regulatory support for Mainland, Free Zone, and Offshore jurisdictions. ESR, UBO, Corporate Tax, VAT, AML, and WPS — all managed by experts.",
+  "heroChips": ["UBO Filing", "ESR Reports", "Zero Penalties"],
+
+  "stats": [
+    { "icon": "Ban", "value": "AED 1M", "label": "Max Fines", "color": "from-red-400 to-rose-600" },
+    { "icon": "ShieldCheck", "value": "100%", "label": "Compliance Rate", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "FileText", "value": "5+", "label": "Filing Types", "color": "from-violet-400 to-purple-600" },
+    { "icon": "Users", "value": "500+", "label": "Businesses Served", "color": "from-emerald-400 to-teal-600" }
+  ],
+
+  "uboSection": {
+    "badge": "UBO Filing",
+    "title": "What Is UBO and Why Is It Mandatory?",
+    "titleHighlight": "Mandatory?",
+    "subtitle": "UBO regulations require UAE businesses to disclose who ultimately controls or benefits from the company — even if they operate through other legal entities or nominees.",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "Mandatory",
+    "imageBadgeText": "For Every UAE Business",
+    "warningCard": {
+      "label": "Failure to File",
+      "bigNumber": "Up to AED 100,000",
+      "text": "in fines + license cancellation + authority investigations",
+      "ctaText": "File UBO Now",
+      "ctaMessage": "Hi! I need help with UBO filing for my UAE business."
+    },
+    "checklist": [
+      "Identify true beneficial owners",
+      "Structure shareholder info",
+      "File via MOE Portal",
+      "Avoid administrative penalties"
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "What We Offer",
+    "title": "End-to-End Compliance Services",
+    "titleHighlight": "Services",
+    "subtitle": "Every regulatory filing and obligation managed for you.",
+    "items": [
+      { "icon": "Scale", "title": "ESR Compliance & Filing", "description": "Evaluate ESR applicability, prepare substance declarations, maintain local substance, and file reports with Ministry of Finance.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80" },
+      { "icon": "Receipt", "title": "Corporate Tax & FTA", "description": "Corporate Tax registration with FTA, structure advice, and reporting requirements under 2024 rules.", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80" },
+      { "icon": "Building2", "title": "Free Zone Governance", "description": "Board Resolutions, shareholder updates, license renewals, and regulatory filings for DMCC, IFZA, RAKEZ, DAFZA.", "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80" },
+      { "icon": "Fingerprint", "title": "UBO Declarations", "description": "Identify true beneficial owners, structure shareholder info, and file UBO disclosures via MOE Portal.", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80" },
+      { "icon": "UserCheck", "title": "Labour & Visa Compliance", "description": "Employee contract audits, MoHRE compliance, visa status reviews, onboarding/termination procedures.", "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80" },
+      { "icon": "ClipboardCheck", "title": "VAT Registration & Filing", "description": "VAT registration, monthly/quarterly returns, and FTA audit preparation — fully aligned with your activity.", "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80" }
+    ]
+  },
+
+  "esrSection": {
+    "badge": "ESR Compliance",
+    "title": "What Is ESR and Why Does It Matter?",
+    "titleHighlight": "Why Does It Matter?",
+    "subtitle": "Economic Substance Regulations apply to UAE businesses conducting relevant activities — consultancy, holding, shipping, financing, and intellectual property. Filing must be timely and accurate to avoid penalties.",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80",
+    "ctaText": "Get ESR Support",
+    "ctaMessage": "Hi! I need help with ESR compliance and filing.",
+    "infoTable": [
+      { "label": "Applicable Activities", "value": "Consultancy, Holding, Shipping, IP" },
+      { "label": "Filing Portal", "value": "Ministry of Finance" },
+      { "label": "Filing Frequency", "value": "Annual Notification + Report" },
+      { "label": "Penalties", "value": "Up to AED 500,000 + License Suspension" }
+    ],
+    "imageBadgeTitle": "Filed",
+    "imageBadgeText": "ESR Report 2025",
+    "deadlineLabel": "Next Deadline",
+    "deadlineValue": "Q2 2026",
+    "deadlineDays": "128 days left"
+  },
+
+  "whoNeedsSection": {
+    "badge": "Who Needs It",
+    "title": "Who Needs Compliance Services?",
+    "titleHighlight": "Compliance Services?",
+    "subtitle": "Every UAE business — regardless of size or jurisdiction.",
+    "items": [
+      { "icon": "Building2", "title": "Mainland Multi-National Companies", "description": "Mainland LLCs and branches operating across jurisdictions must comply with ESR, Corporate Tax, and MoHRE.", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Scale", "title": "DNFBPs", "description": "Real estate, legal, accounting, gold trading — must register goAML and appoint a Compliance Officer.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Users", "title": "WPS & Labour Compliance", "description": "Companies onboarding expat workers must ensure contracts meet UAE Labour Law and WPS standards.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "FileSearch", "title": "Businesses Under Audit", "description": "Entities under VAT, Tax, or MoHRE audit need proper financial, tax, payroll, and labour documentation.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "TrendingUp", "title": "Free Zone Expanding Companies", "description": "DMCC, IFZA, RAKEZ, DAFZA companies expanding or restructuring need compliance review.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Globe", "title": "Offshore Companies", "description": "RAK ICC, JAFZA Offshore — must disclose UBOs, file ESR reports, and maintain annual compliance.", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "risksSection": {
+    "badge": "Warning — Non-Compliance Risks",
+    "title": "What Happens When You Don't Comply",
+    "titleHighlight": "Don't Comply",
+    "subtitle": "Penalties, license issues, and reputational damage await the non-compliant.",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&q=80",
+    "items": [
+      { "icon": "Ban", "title": "License Suspension or Cancelation", "description": "Failure to file ESR, UBO, or Corporate Tax can lead to suspension or cancelation of your business license.", "color": "from-red-400 to-rose-600" },
+      { "icon": "DollarSign", "title": "Fines Up to AED 500,000", "description": "FTA, MoHRE, or Free Zones impose fines — from AED 10,000 for minor violations to AED 500,000 for serious ones.", "color": "from-orange-400 to-red-600" },
+      { "icon": "XCircle", "title": "Visa Rejections", "description": "MoHRE and immigration require updated labour contracts, WPS, and documents — errors cause visa non-approvals.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "TrendingDown", "title": "Bank Delays", "description": "Incomplete ESR/UBO declarations or tax issues delay or deny bank accounts and credit facilities.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "ShieldAlert", "title": "Personal Legal Liability", "description": "Directors and shareholders can face personal fines, disqualification, or even criminal liability.", "color": "from-red-500 to-red-700" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Stay 100% Compliant. Zero Penalties.",
+    "titleHighlight": "Zero Penalties.",
+    "subtitle": "We monitor every deadline, file every report, and ensure your business stays fully aligned with UAE laws across Mainland, Free Zones, and Offshore jurisdictions.",
+    "ctaText": "Talk to a Compliance Expert",
+    "ctaMessage": "Hi! I'd like to know more about your compliance services.",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+    "features": [
+      { "icon": "Award", "label": "Deep UAE Regulatory Expertise" },
+      { "icon": "Globe", "label": "Mainland, Free Zone & Offshore" },
+      { "icon": "Clock", "label": "Real-Time Deadline Monitoring" },
+      { "icon": "ShieldCheck", "label": "MOF, FTA, MoHRE Compliance" },
+      { "icon": "Eye", "label": "Fully Transparent Pricing" },
+      { "icon": "Lock", "label": "Local + Global Standards" }
+    ],
+    "dashboard": {
+      "complianceScore": "100%",
+      "complianceScoreLabel": "✓ Fully Compliant",
+      "filingsPending": "0",
+      "filingsPendingLabel": "All submitted",
+      "checklist": [
+        { "label": "UBO Filing", "status": "Filed" },
+        { "label": "ESR Report", "status": "Filed" },
+        { "label": "Corporate Tax", "status": "Registered" },
+        { "label": "VAT Return", "status": "Up to date" },
+        { "label": "WPS Payroll", "status": "Compliant" }
+      ]
+    }
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about UAE compliance. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Get Free Compliance Audit",
+      "text": "We'll review your business and highlight any compliance gaps.",
+      "whatsappMessage": "Hi! I'd like a free compliance audit for my business."
+    },
+    "items": [
+      { "q": "What is corporate compliance in the UAE, and why is it important?", "a": "Corporate compliance in the UAE means fulfilling regulatory requirements — ESR, UBO, Corporate Tax, VAT, AML/CFT, and labour laws. It ensures your business remains licensed, banked, and legally protected." },
+      { "q": "Who must file Economic Substance Regulations (ESR) in the UAE?", "a": "ESR applies to businesses conducting relevant activities — consultancy, holding, shipping, financing, and IP. They must file notifications and ESR reports with the Ministry of Finance." },
+      { "q": "What happens if I miss my UBO filing deadlines?", "a": "Fines up to AED 100,000, license cancellation, and Free Zone or DED investigations. We help avoid this with accurate, on-time filings." },
+      { "q": "Is Corporate Tax mandatory for Free Zone companies?", "a": "Yes. Free Zone companies must register for Corporate Tax. Qualifying income may get 0% rate; non-qualifying income is taxed at 9%." },
+      { "q": "Do small businesses need compliance services in the UAE?", "a": "Absolutely. ESR, UBO, VAT, and WPS obligations apply to all registered businesses — regardless of size." },
+      { "q": "What is AML/CFT compliance, and who needs to comply?", "a": "Anti-Money Laundering / Counter-Terrorism Financing. DNFBPs (real estate, legal, accounting, gold) must register goAML and appoint a Compliance Officer." },
+      { "q": "What is WPS, and how do I comply?", "a": "Wages Protection System. Employers must pay salaries through WPS-linked bank accounts and maintain MoHRE-compliant records." },
+      { "q": "Will you help during a government audit?", "a": "Yes. We prepare all documentation, represent you to MOF/FTA/MoHRE, and ensure a clean audit closure." },
+      { "q": "What are the penalties for non-compliance?", "a": "Fines up to AED 500,000+, license suspension, visa rejections, bank delays, and personal legal liability for directors." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with compliance.",
+    "items": [
+      { "slug": "corporate-tax-vat", "title": "Corporate Tax & VAT", "description": "Expert tax advice, FTA registration, and compliance.", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "accounting", "title": "Accounting", "description": "Bookkeeping, VAT, and financial reporting.", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80", "gradient": "from-violet-400 to-purple-600" },
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Stay Compliant",
+    "title": "Ready to Stay Fully Compliant?",
+    "titleHighlight": "Fully Compliant?",
+    "subtitle": "Get a free compliance audit. We'll identify gaps, fix them fast, and keep your business protected from penalties.",
+    "chips": ["Free Audit", "Zero Penalties", "Full Compliance"],
+    "whatsappMessage": "Hi! I'd like a free compliance audit for my business.",
+    "whatsappCardMessage": "Hi! I'd like to discuss compliance for my business."
+  }
+}

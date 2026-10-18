@@ -1,0 +1,393 @@
+{
+  "slug": "ajman-free-zone",
+  "hero": {
+    "badge": "Intelligente Zone für intelligente Unternehmen",
+    "title": "Freizone Ajman",
+    "titleHighlight": "Freizone",
+    "subtitle": "Eine der günstigsten und bestgelegenen Freihandelszonen in den VAE – nur 30 Minuten vom internationalen Flughafen Sharjah und direkt neben dem Hafen von Ajman entfernt. Ideal für Handel, Logistik und Startups.",
+    "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+    "breadcrumbParent": "Freizonen",
+    "breadcrumbLabel": "Freizone Ajman",
+    "ctaPrimaryText": "Vereinbaren Sie eine kostenlose Beratung",
+    "ctaPrimaryLink": "#Kontakt",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für die Einrichtung der Ajman Free Zone.",
+    "badges": [
+      "100% Eigentum",
+      "0 % Steuer",
+      "2-3 Tage Aufbauzeit"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Tagesaufbau",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Target",
+      "value": "Mehr als 9.000",
+      "label": "Unternehmen",
+      "color": "from-cyan-400 to-sky-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "AFZ Küste",
+    "statusLabel": "Live",
+    "zoneLabel": "Zone",
+    "zoneValue": "Ajman, Vereinigte Arabische Emirate",
+    "statusBadge": "Aktiv",
+    "metrics": [
+      {
+        "label": "Einrichtungszeit",
+        "value": "2-3 Tage",
+        "color": "text-sky-600"
+      },
+      {
+        "label": "Unternehmen",
+        "value": "9.000+",
+        "color": "text-blue-600"
+      }
+    ]
+  },
+  "growBusiness": {
+    "badge": "Erweitern Sie Ihr Unternehmen",
+    "title": "Eine der günstigsten Freihandelszonen der VAE",
+    "titleHighlight": "Günstige Freizonen",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200&q=80",
+    "imageBadgeTitle": "Erstklassige Lage",
+    "imageBadgeText": "In der Nähe des Hafens von Ajman",
+    "paragraph1": "Die Ansiedlung in der Ajman Free Zone (AFZ) bietet Unternehmern, KMUs und internationalen Investoren eines der günstigsten und unternehmensfreundlichsten Umfelder der VAE. Strategisch günstig in der Nähe des Hafens von Ajman gelegen und mit guter Anbindung an Dubai und Sharjah.",
+    "paragraph2": "AFZ ist besonders attraktiv für Start-ups, Händler, Dienstleister, E-Commerce-Unternehmer und kleine Hersteller, die eine kostengünstige Lösung suchen.",
+    "paragraph3": "Bei Setup Zone Dubai gestalten wir die Unternehmensgründung in der Freizone von Ajman einfach und unkompliziert. Von der Wahl der passenden Lizenz bis hin zu Visa, Genehmigungen und der Einhaltung gesetzlicher Bestimmungen – wir bieten maßgeschneiderte Lösungen, die Ihrem Budget und Ihren Bedürfnissen entsprechen.",
+    "features": [
+      "Kostengünstige Einrichtung",
+      "Flexible Bürolösungen",
+      "Logistische Unterstützung",
+      "Große Auswahl an Paketen"
+    ]
+  },
+  "licenseTypes": {
+    "badge": "Lizenzarten",
+    "title": "Ihr Leitfaden zu den Kategorien von Gewerbelizenzen",
+    "titleHighlight": "Gewerbelizenzkategorien",
+    "subtitle": "AFZA bietet eine Vielzahl von Lizenzen an, die auf unterschiedliche Geschäftsbedürfnisse zugeschnitten sind.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Handelslizenz",
+        "description": "Für Import/Export, allgemeinen Handel und Großhandel.",
+        "code": "TRD",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Dienstleistungslizenz",
+        "description": "Für professionelle Beratungs- und IT-Dienstleistungen.",
+        "code": "SRV",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Industrielizenz",
+        "description": "Für Hersteller, Montagebetriebe und Produktionslinien.",
+        "code": "IND",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Freiberufler-Genehmigung",
+        "description": "Für Fachleute aus den Bereichen digitale Medien, Content und Technologie.",
+        "code": "FRL",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Ajman Offshore-Lizenz",
+        "description": "Für internationale Unternehmen ohne Niederlassung in den VAE.",
+        "code": "AUS",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Firmengründungspakete",
+        "description": "Paketangebote für KMU und Unternehmer.",
+        "code": "PKG",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whoShouldConsider": {
+    "badge": "Für wen es gedacht ist",
+    "title": "Für wen ist die Freihandelszone Ajman geeignet?",
+    "titleHighlight": "Freihandelszone Ajman?",
+    "subtitle": "Unübertroffene Flexibilität und globale Reichweite für diese Unternehmensformen.",
+    "footerNote": "Ob Sie eine kostengünstige Firmengründung in den VAE oder ein voll ausgestattetes Lager wünschen – AFZA bietet unübertroffene Flexibilität.",
+    "items": [
+      {
+        "icon": "Truck",
+        "label": "Import-/Exporthändler"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Tech-Startups & Berater"
+      },
+      {
+        "icon": "Warehouse",
+        "label": "Lagerhaltung & Lieferkette"
+      },
+      {
+        "icon": "Factory",
+        "label": "Leuchtenhersteller und -verarbeiter"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "E-Commerce-Unternehmer"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Freiberufler und Kreative"
+      }
+    ]
+  },
+  "infrastructure": {
+    "badge": "Infrastruktur",
+    "title": "Infrastruktur- und Bürolösungen",
+    "titleHighlight": "Bürolösungen",
+    "subtitle": "Intelligente Infrastruktur, ausgelegt auf Produktivität und Skalierbarkeit.",
+    "smallItems": [
+      {
+        "icon": "Briefcase",
+        "title": "Serviced Smart Offices",
+        "description": "Vollständig eingerichtete Büros mit moderner Ausstattung – sofort einsatzbereit für Startups und KMU.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Leichtindustrieanlagen (LIUs)",
+        "description": "Ökoeffiziente Anlagen für die Leichtindustrie, Montage und Produktion.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "Lagerhallen und Industrieanlagen",
+        "description": "Frachtzugang und Laderampen.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Geschäftszentren",
+        "description": "Coworking-Spaces mit Empfangsservice.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "largeItem": {
+      "icon": "FileText",
+      "title": "Anpassbares Leasing",
+      "description": "Flexible Mietbedingungen für Büros, Lagerhallen und Industriehallen."
+    },
+    "violetCard": {
+      "icon": "Percent",
+      "title": "Mehrwertsteuervorteile für Exporte",
+      "description": "Unternehmen, die im Rahmen der AFZ im Export und im internationalen Handel tätig sind, können unter Umständen von der Mehrwertsteuer befreit werden – was ihre globale Steuerbelastung reduziert."
+    }
+  },
+  "whyDifferent": {
+    "badge": "Vergleich mit anderen Zonen",
+    "title": "Worin unterscheidet sich die Freizone von Ajman?",
+    "titleHighlight": "Anders?",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80",
+    "imageBadgeTitle": "Smart Portal",
+    "imageBadgeText": "Online-Zugriff rund um die Uhr",
+    "paragraph1": "Die Freizone Ajman bietet umfassende Unterstützung für Unternehmen und sorgt so für reibungslose und effiziente Abläufe. Dank unserer unkomplizierten Unterstützung bei Investoren- und Mitarbeitervisa können Unternehmen Aufenthaltsgenehmigungen ohne unnötige Verzögerungen erhalten.",
+    "paragraph2": "Unser umfassendes PRO-Serviceangebot beinhaltet die Bearbeitung aller erforderlichen Dokumente – von der Genehmigung über die Beglaubigung bis hin zur Einreichung bei den Behörden. Wir unterstützen Sie auch bei der jährlichen Verlängerung Ihrer Gewerbelizenz.",
+    "paragraph3": "Unternehmen profitieren außerdem von AFZs innovativem Smart-E-Government-Portal, das rund um die Uhr verfügbar ist – Lizenzen, Visa und Verlängerungen können online beantragt werden, wobei Live-Updates zum Genehmigungsstatus angezeigt werden.",
+    "features": [
+      "Visaunterstützung",
+      "PRO-Dienstleistungen",
+      "Intelligentes E-Portal rund um die Uhr",
+      "Schnelle Verlängerungen",
+      "Integrierte Konformität",
+      "Nachhaltiges Wachstum"
+    ]
+  },
+  "growthStats": {
+    "badge": "Geschäftswachstumsaussichten",
+    "title": "Intelligente Zone für intelligente Unternehmen",
+    "titleHighlight": "Intelligente Unternehmen",
+    "subtitle": "Entwickelt sich rasch zum bevorzugten Ziel für Investoren, die eine kostengünstige, flexible und schnelle Unternehmensgründung anstreben.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Mehr als 9.000",
+        "label": "Registrierte Unternehmen",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "150+",
+        "label": "Exportländer",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Kontinuierlich",
+        "label": "Landentwicklung",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Aufstand",
+        "label": "Ausländische Investitionen",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "Bedeutsam",
+        "label": "Beitrag von Ajman zum BIP",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Bevorzugt",
+        "label": "Für die Einrichtung in den VAE",
+        "color": "from-amber-400 to-orange-600"
+      }
+    ]
+  },
+  "ourServices": {
+    "badge": "Unsere Dienstleistungen",
+    "title": "Welche Dienstleistungen bieten wir für die Gründung eines AFZA-Unternehmens an?",
+    "titleHighlight": "AFZA-Firmengründung?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "End-to-End",
+    "imageBadgeText": "Volle Unterstützung durch das Unternehmen",
+    "paragraph1": "Wir bieten Ihnen ein umfassendes Leistungsspektrum für die Unternehmensgründung in der Freizone Ajman. Von Anfang an unterstützen wir Sie bei der Reservierung Ihres Firmennamens bei der AFZA und stellen sicher, dass dieser den geltenden Bestimmungen entspricht und keinem bereits registrierten Namen ähnelt.",
+    "paragraph2": "Unsere Experten kümmern sich um den gesamten Lizenzantragsprozess – ob für Handel, Dienstleistungen, Industrie oder freiberufliche Tätigkeiten – so schnell und präzise wie möglich. Wir helfen Ihnen außerdem, den passenden Arbeitsplatz – Smart Office, Coworking Space, Lagerhalle oder LIU – entsprechend Ihrem Budget zu finden.",
+    "paragraph3": "Wir bieten Visadienstleistungen (Investoren-, Mitarbeiter- und Familienvisa), Unterstützung bei der Einhaltung gesetzlicher Bestimmungen (UBO, Umsatzsteuer, ESR, AML), jährliche Verlängerungen und PRO-Services. Darüber hinaus bieten wir Webentwicklung, Branding und digitales Marketing, um Ihrem Unternehmen einen professionellen Auftritt zu ermöglichen.",
+    "features": [
+      "Markenreservierung",
+      "Lizenzantrag",
+      "Visadienstleistungen",
+      "Unterstützung bei der Einhaltung von Vorschriften",
+      "Jährliche Verlängerungen & PRO",
+      "Web, Branding & Marketing"
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Freihandelszone Ajman wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "items": [
+      {
+        "q": "Wie lange dauert es, ein Unternehmen in der Freihandelszone von Ajman zu gründen?",
+        "a": "In der Regel 2-3 Werktage, abhängig von den benötigten Dokumenten, der Art des Büros und der gewählten Lizenz."
+      },
+      {
+        "q": "Kann ein Ausländer 100 % eines Unternehmens in der Freizone von Ajman besitzen?",
+        "a": "Ja. AFZ erlaubt 100% ausländisches Eigentum – kein lokaler Sponsor erforderlich."
+      },
+      {
+        "q": "Welche Arten von Lizenzen sind in der Ajman Free Zone erhältlich?",
+        "a": "Handel, Dienstleistungen, Industrie, Freiberufler, Offshore-Lizenzen und gebündelte Unternehmensgründungspakete."
+      },
+      {
+        "q": "Ist die Freihandelszone Ajman eine gute Option für E-Commerce?",
+        "a": "Absolut. AFZ bietet E-Commerce-Lizenzen an und unterstützt digitale Geschäftsmodelle mit flexiblen Büro- und Lagerlösungen."
+      },
+      {
+        "q": "Gibt es Steuervergünstigungen in der Freizone von Ajman?",
+        "a": "Ja. 0 % Einkommen- und Körperschaftsteuer, zusätzlich Mehrwertsteuerbefreiung für international handelnde und exportierende Unternehmen."
+      },
+      {
+        "q": "Welche Büro- und/oder Lagerflächen stehen zur Verfügung?",
+        "a": "Serviced Smart Offices, Light Industrial Units (LIUs), individualisierbare Leasingangebote, große Lagerhallen und Business Center."
+      },
+      {
+        "q": "Benötige ich ein physisches Büro, um ein Unternehmen in der AFZ zu gründen?",
+        "a": "Nicht unbedingt. Für Freiberufler und Remote-Teams stehen flexible Arbeitsplatzmodelle und Coworking-Optionen zur Verfügung."
+      },
+      {
+        "q": "Kann ich über die Freizone Ajman ein Aufenthaltsvisum beantragen?",
+        "a": "Ja. AFZ bietet Investorenvisa, Mitarbeitervisa und Familiensponsoring an – mit voller PRO-Unterstützung für medizinische Untersuchungen, Emirates ID und Visastempelung."
+      },
+      {
+        "q": "Worin unterscheidet sich die Freizone Ajman von anderen Freizonen in den VAE?",
+        "a": "Niedrigere Einrichtungskosten, erstklassige Lage in der Nähe des Hafens von Ajman, flexible Mietoptionen, rund um die Uhr verfügbares intelligentes E-Government-Portal und Mehrwertsteuervorteile für Exporteure."
+      },
+      {
+        "q": "Welche Dienstleistungen bietet Setup Zone Dubai für die Gründung eines AFZA-Unternehmens an?",
+        "a": "Komplettservice – von der Reservierung des Handelsnamens über die Beantragung von Lizenzen und die Auswahl von Büro-/Lagerflächen bis hin zu Visadienstleistungen, Compliance (UBO, MwSt., ESR, AML), jährlichen Verlängerungen, PRO, Webentwicklung, Branding und Marketing."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienste, die gut zu Ihrem AFZ-Setup passen.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Heute starten",
+    "title": "Bereit für den Start in der Freizone von Ajman?",
+    "titleHighlight": "Freihandelszone Ajman?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Einrichtungsprozess – von der Lizenzierung bis zum Launch.",
+    "primaryCta": "WhatsApp uns",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung der Freihandelszone in Ajman.",
+    "badges": [
+      "Kostenlose Beratung",
+      "2-3 Tage Aufbauzeit",
+      "Kostengünstig"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

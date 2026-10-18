@@ -1,0 +1,92 @@
+{
+  "badge": "Specialized Services",
+  "heading": {
+    "line1": "Focused on Your",
+    "highlight": "Success"
+  },
+  "subtitle": "Beyond company formation — we offer a full suite of specialized services to keep your UAE business growing and compliant.",
+  "hoverHint": "← Hover on card to see details →",
+  "services": [
+    {
+      "slug": "corporate-tax-vat",
+      "icon": "Receipt",
+      "title": "Corporate Tax & VAT",
+      "description": "Expert tax advice, VAT registration, filing, and FTA compliance.",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+      "gradient": "from-emerald-400 to-teal-600",
+      "points": ["VAT registration & filing", "Corporate tax returns", "FTA audit support", "Tax advisory services", "Amendments & corrections"]
+    },
+    {
+      "slug": "bank-account",
+      "icon": "CreditCard",
+      "title": "Bank Account Opening",
+      "description": "Open UAE business bank accounts with top-tier banks. Full KYC support.",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+      "gradient": "from-sky-400 to-blue-600",
+      "points": ["Mainland & Free Zone accounts", "KYC file preparation", "Bank interview scheduling", "Multi-currency setup (AED/USD)", "WPS & VAT account linking"]
+    },
+    {
+      "slug": "accounting",
+      "icon": "Calculator",
+      "title": "Accounting",
+      "description": "Bookkeeping, payroll, audits, and reconciliation handled by experts.",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+      "gradient": "from-violet-400 to-purple-600",
+      "points": ["Daily bookkeeping", "WPS payroll processing", "VAT reconciliation", "Financial statements", "Audit preparation"]
+    },
+    {
+      "slug": "digital-marketing",
+      "icon": "Megaphone",
+      "title": "Digital Marketing",
+      "description": "Custom campaigns, social media, and content strategy that converts.",
+      "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80",
+      "gradient": "from-pink-400 to-rose-600",
+      "points": ["Social media management", "Google & Meta Ads", "Content strategy", "Email marketing", "Analytics & reporting"]
+    },
+    {
+      "slug": "web-development",
+      "icon": "Code",
+      "title": "Web Development",
+      "description": "Modern, responsive websites — landing pages to full e-commerce.",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80",
+      "gradient": "from-amber-400 to-orange-600",
+      "points": ["Custom business websites", "E-commerce stores", "High-converting landing pages", "Mobile responsive design", "Speed optimization"]
+    },
+    {
+      "slug": "seo",
+      "icon": "Search",
+      "title": "SEO Services",
+      "description": "On-page & off-page SEO, keyword targeting, and performance tracking.",
+      "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80",
+      "gradient": "from-lime-400 to-green-600",
+      "points": ["Keyword research", "On-page optimization", "Technical SEO audit", "Quality link building", "Local SEO (Google Maps)"]
+    },
+    {
+      "slug": "compliance",
+      "icon": "ShieldCheck",
+      "title": "Compliance Services",
+      "description": "UBO filings, ESR reports, license renewals, and regulatory support.",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+      "gradient": "from-cyan-400 to-blue-600",
+      "points": ["UBO filings & updates", "ESR reports submission", "License renewals", "AML compliance", "Annual returns filing"]
+    },
+    {
+      "slug": "golden-visa",
+      "icon": "Crown",
+      "title": "Golden Visa Assistance",
+      "description": "Get your 10-year UAE residency visa with full paperwork support.",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "gradient": "from-yellow-400 to-amber-600",
+      "points": ["Investor Golden Visa", "Property owner category", "Entrepreneur visa", "Specialized talent visa", "Family sponsorship"]
+    },
+    {
+      "slug": "pro-services",
+      "icon": "FileText",
+      "title": "PRO Services",
+      "description": "Emirates ID, labor cards, visa stamping, and company renewals.",
+      "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+      "gradient": "from-indigo-400 to-purple-600",
+      "points": ["Emirates ID processing", "Visa stamping & renewals", "Labor cards (MOHRE)", "Trade license renewals", "MOFA document attestation"]
+    }
+  ]
+}

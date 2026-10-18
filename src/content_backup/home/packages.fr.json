@@ -1,0 +1,128 @@
+{
+    "badge":  "Nos forfaits",
+    "heading":  {
+                    "line1":  "Tarification transparente,",
+                    "highlight":  "Aucun frais caché"
+                },
+    "subtitle":  "Choisissez la formule qui convient À  votre entreprise. Tous les prix sont tout compris : pas de frais cachés, pas de mauvaises surprises.",
+    "toggle":  {
+                   "oneTimeLabel":  "Paiement unique",
+                   "installmentLabel":  "versements",
+                   "installmentSuffix":  "Ou 3x"
+               },
+    "packages":  [
+                     {
+                         "id":  "zone franche",
+                         "name":  "Licence de zone franche",
+                         "badge":  null,
+                         "price":  "5 999",
+                         "currency":  "DEA",
+                         "period":  "une seule fois",
+                         "tagline":  "Idéal pour les travailleurs indépendants et les entreprises À  distance",
+                         "icon":  "Bâtiment 2",
+                         "gradient":  "de Sky 400 À  Blue 600 en passant par Blue 500",
+                         "glowColor":  "rgba(14,165,233,0,3)",
+                         "accentText":  "texte-ciel-600",
+                         "accentBg":  "bg-sky-50",
+                         "accentBorder":  "front-ciel-200",
+                         "iconBg":  "du ciel 400 au bleu 600",
+                         "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80",
+                         "features":  [
+                                          "5 activités commerciales gratuites",
+                                          "Propriété À  100 %",
+                                          "Impôt sur le revenu et sur les personnes physiques À  0 %",
+                                          "Faible impôt sur les sociétés",
+                                          "Consultation gratuite",
+                                          "Garantie du prix le plus bas"
+                                      ],
+                         "cta":  "Commencez dès maintenant",
+                         "highlighted":  false
+                     },
+                     {
+                         "id":  "résidence en zone franche",
+                         "name":  "Zone franche avec résidence",
+                         "badge":  "Les plus populaires",
+                         "price":  "11 999",
+                         "currency":  "DEA",
+                         "period":  "une seule fois",
+                         "tagline":  "Idéal pour les entrepreneurs qui s\u0027installent À  Dubaï",
+                         "icon":  "Globe",
+                         "gradient":  "de violet 400 À  violet 500, puis À  violet 600",
+                         "glowColor":  "rgba(139,92,246,0.4)",
+                         "accentText":  "texte-violet-600",
+                         "accentBg":  "bg-violet-50",
+                         "accentBorder":  "bordure-violette-200",
+                         "iconBg":  "de violet 400 À  pourpre 600",
+                         "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                         "features":  [
+                                          "Licence de zone franche tout compris",
+                                          "5 activités commerciales gratuites",
+                                          "Propriété À  100 %",
+                                          "Impôt sur le revenu et sur les personnes physiques À  0 %",
+                                          "Faible impôt sur les sociétés",
+                                          "Consultation gratuite",
+                                          "Contrat de location gratuit",
+                                          "1 Visa de résidence/investisseur aux Émirats arabes unis",
+                                          "Certificat médical, carte d\u0027identité émirienne, changement de statut"
+                                      ],
+                         "cta":  "Commencez dès maintenant",
+                         "highlighted":  true
+                     },
+                     {
+                         "id":  "résidence continentale",
+                         "name":  "Continent avec résidence",
+                         "badge":  "Meilleure valeur",
+                         "price":  "16 999",
+                         "currency":  "DEA",
+                         "period":  "une seule fois",
+                         "tagline":  "Pour les entreprises ciblant le marché local des Émirats arabes unis",
+                         "icon":  "Couronne",
+                         "gradient":  "de-ambre-400 via-orange-500 À -orange-600",
+                         "glowColor":  "rgba(245,158,11,0,4)",
+                         "accentText":  "texte-ambre-600",
+                         "accentBg":  "bg-ambre-50",
+                         "accentBorder":  "bordure-ambre-200",
+                         "iconBg":  "de l\u0027ambre 400 À  l\u0027orange 600",
+                         "image":  "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800\u0026q=80",
+                         "features":  [
+                                          "Licence continentale",
+                                          "Propriété À  100 %",
+                                          "Impôt sur le revenu et sur les personnes physiques À  0 %",
+                                          "Faible impôt sur les sociétés",
+                                          "Consultation gratuite",
+                                          "1 Visa de résidence/investisseur aux Émirats arabes unis",
+                                          "Certificat médical, carte d\u0027identité émirienne, changement de statut"
+                                      ],
+                         "cta":  "Commencez dès maintenant",
+                         "highlighted":  false
+                     }
+                 ],
+    "customPackageCTA":  {
+                             "title":  "Besoin d\u0027un forfait personnalisé ?",
+                             "subtitle":  "Nous adapterons une offre À  vos besoins commerciaux précis "” sur le continent, en zone franche ou en mer.",
+                             "primaryCta":  "Obtenez un devis personnalisé",
+                             "secondaryCta":  "Appelez-nous",
+                             "phone":  "+971 56 655 6645",
+                             "phoneHref":  "tél. : +971566556645",
+                             "whatsappMessage":  "Bonjour ! J\u0027ai besoin d\u0027un forfait personnalisé pour la création de mon entreprise aux Émirats arabes unis.",
+                             "backgroundImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80"
+                         },
+    "trustLine":  [
+                      {
+                          "label":  "Aucun frais caché",
+                          "color":  "émeraude"
+                      },
+                      {
+                          "label":  "Tarification transparente",
+                          "color":  "ciel"
+                      },
+                      {
+                          "label":  "Conforme À  l\u0027ALE",
+                          "color":  "violet"
+                      },
+                      {
+                          "label":  "Consultation gratuite",
+                          "color":  "ambre"
+                      }
+                  ]
+}

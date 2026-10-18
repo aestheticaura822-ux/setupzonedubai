@@ -1,0 +1,202 @@
+{
+  "brand": {
+    "name": "迪拜安装区",
+    "shortName": "南极",
+    "operatedBy": "由 Brightlink 运营",
+    "description": "您在阿联酋值得信赖的合作伙伴，为您提供商业设立、居留和专业服务——每一步都提供清晰的指导和无缝的支持。",
+    "badges": [
+      {
+        "icon": "ShieldCheck",
+        "label": "持牌"
+      },
+      {
+        "icon": "Star",
+        "label": "评分 4.9"
+      },
+      {
+        "icon": "Building2",
+        "label": "DET 批准"
+      }
+    ],
+    "socialsTitle": "联系我们"
+  },
+  "ctaBanner": {
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "badge": "深受500多家企业的信赖",
+    "title": "今天就开始您的迪拜创业之旅吧！",
+    "titleHighlight": "今天",
+    "subtitle": "我们的专家提供免费咨询。从公司注册到签证、银行事务和合规——我们统统都能搞定。",
+    "primaryCta": "获取免费咨询",
+    "secondaryCta": "立即致电",
+    "stats": [
+      {
+        "value": "10000+",
+        "label": "客户满意度"
+      },
+      {
+        "value": "15岁以上",
+        "label": "工作年限"
+      },
+      {
+        "value": "25岁以上",
+        "label": "专家顾问"
+      },
+      {
+        "value": "全天候 24/7",
+        "label": "客户服务"
+      }
+    ]
+  },
+  "quickLinksTitle": "快速链接",
+  "quickLinks": [
+    {
+      "name": "家",
+      "href": "/",
+      "icon": "HomeIcon"
+    },
+    {
+      "name": "关于我们",
+      "href": "/about",
+      "icon": "Users"
+    },
+    {
+      "name": "我们的套餐",
+      "href": "/#packages",
+      "icon": "Wallet"
+    },
+    {
+      "name": "资源",
+      "href": "/resources",
+      "icon": "FileText"
+    },
+    {
+      "name": "联系我们",
+      "href": "/contact",
+      "icon": "MessageCircle"
+    }
+  ],
+  "servicesTitle": "我们的服务",
+  "serviceLinks": [
+    {
+      "name": "自由区设立",
+      "slug": "freezone"
+    },
+    {
+      "name": "大陆设置",
+      "slug": "mainland"
+    },
+    {
+      "name": "企业所得税和增值税",
+      "slug": "corporate-tax-vat"
+    },
+    {
+      "name": "银行账户开立",
+      "slug": "bank-account"
+    },
+    {
+      "name": "黄金签证",
+      "slug": "golden-visa"
+    },
+    {
+      "name": "专业服务",
+      "slug": "pro-services"
+    },
+    {
+      "name": "合规服务",
+      "slug": "compliance"
+    }
+  ],
+  "contactTitle": "联系我们",
+  "contact": {
+    "phone": {
+      "label": "致电我们",
+      "value": "+971 56 655 6645",
+      "hours": "周一至周六：上午 9 点至下午 6 点",
+      "href": "tel:+971566556645"
+    },
+    "email": {
+      "label": "给我们发邮件",
+      "value": "setupzonedubai@gmail.com",
+      "href": "mailto:setupzonedubai@gmail.com"
+    },
+    "address": {
+      "label": "欢迎光临",
+      "line1": "水晶大厦M1层M08-27办公室",
+      "line2": "阿联酋迪拜商业湾 — 邮政信箱 554552",
+      "href": "https://maps.app.goo.gl/LNRyUy4djwMDFsQ46"
+    },
+    "whatsapp": {
+      "label": "WhatsApp 联系我们",
+      "message": "您好！我想了解更多关于贵公司服务的信息。"
+    }
+  },
+  "socials": [
+    {
+      "name": "Facebook",
+      "icon": "FaFacebookF",
+      "href": "https://www.facebook.com/brightlinkconsulting.uae/",
+      "color": "from-blue-500 to-blue-700"
+    },
+    {
+      "name": "Instagram",
+      "icon": "FaInstagram",
+      "href": "https://www.instagram.com/brightlink.consulting/",
+      "color": "from-pink-500 to-fuchsia-600"
+    },
+    {
+      "name": "TikTok",
+      "icon": "FaTiktok",
+      "href": "https://www.tiktok.com/@brightlink.consulting",
+      "color": "from-slate-800 to-black"
+    },
+    {
+      "name": "YouTube",
+      "icon": "FaYoutube",
+      "href": "https://www.youtube.com/@brightlinkconsulting",
+      "color": "from-red-500 to-red-700"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "FaLinkedinIn",
+      "href": "https://www.linkedin.com/company/brightlink-management-consultancy/",
+      "color": "from-sky-500 to-blue-700"
+    },
+    {
+      "name": "X（推特）",
+      "icon": "FaXTwitter",
+      "href": "https://x.com/BRIGHTLINKCONS1",
+      "color": "from-slate-700 to-black"
+    },
+    {
+      "name": "电报",
+      "icon": "FaTelegramPlane",
+      "href": "https://t.me/brightlinkgroup",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "name": "Pinterest",
+      "icon": "FaPinterestP",
+      "href": "https://www.pinterest.com/brightlinkconsulting/",
+      "color": "from-red-500 to-red-700"
+    }
+  ],
+  "reviews": {
+    "rating": "4.9",
+    "outOf": "/ 5.0",
+    "reviewCount": "75+ 条已验证评论",
+    "googleLabel": "Google 评论",
+    "ctaText": "撰写评论",
+    "ctaHref": "https://g.page/r/CdQ9UxY-AOkxEAE/review"
+  },
+  "bottomBar": {
+    "copyright": "© 2026 Setup Zone Dubai — 由 Brightlink 运营。",
+    "rightsText": "版权所有。",
+    "madeWithText": "迪拜用心制作❤️"
+  },
+  "disclaimer": {
+    "title": "免责声明：",
+    "text": "Setupzonedubai.ae 由 Brightlink Management Consultancy LLC 运营，该公司是一家在迪拜获得许可的私营第三方服务提供商。我们并非政府机构，与阿联酋政府及其任何部门均无任何关联或认可关系。我们代表客户并经其同意，协助客户进行公司设立、签证相关文件录入、文件准备、申请填写和提交，并通过相关官方渠道（迪拜经济发展局 (DET)、迪拜居民和外国人事务总局 (GDRFA Dubai)、阿联酋公民登记处 (ICP)、阿联酋外交部 (MOFA)）开展业务。政府费用由相关部门设定并直接支付给政府；我们的服务费另行收取，并在您做出任何承诺之前予以披露。申请人也可以直接通过官方门户网站 icp.gov.ae、gdrfad.gov.ae 和 u.ae 完成相同的申请。所示估价仅供参考，不构成法律建议。",
+    "lastReviewed": "内容上次审核日期：2026年1月9日",
+    "verifiedText": "已验证商家"
+  }
+}

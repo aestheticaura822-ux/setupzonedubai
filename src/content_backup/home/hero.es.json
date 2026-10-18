@@ -1,0 +1,179 @@
+{
+    "badge":  {
+                  "text":  "Con la confianza de más de 500 empresas en los Emiratos Árabes Unidos.",
+                  "showPulse":  true
+              },
+    "heading":  {
+                    "line1":  "Lanza tu",
+                    "line2Highlight":  "Negocios en Dubái",
+                    "line3":  "En dÁ­as, no en meses."
+                },
+    "subtext":  "Desde la constituciÁ³n de la empresa hasta los visados, la banca y los impuestos, nos encargamos de todo de principio a fin para que usted pueda centrarse en el crecimiento de su negocio en la prÁ³spera economÁ­a de los Emiratos Árabes Unidos.",
+    "video":  {
+                  "src":  "/videos/hero-bg.mp4",
+                  "poster":  "/videos/hero-bg-poster.jpg"
+              },
+    "ctaPrimary":  {
+                       "text":  "Obtén una consulta gratuita",
+                       "link":  "#contact"
+                   },
+    "ctaSecondary":  {
+                         "text":  "Contáctanos por WhatsApp",
+                         "message":  "¡Hola! Me gustarÁ­a hablar sobre la configuraciÁ³n de mi negocio en Dubái."
+                     },
+    "trustPills":  [
+                       "Propiedad al 100%",
+                       "0% de impuesto personal",
+                       "Licencias rápidas"
+                   ],
+    "googleBadge":  {
+                        "rating":  "4.8",
+                        "reviewsText":  "(34 reseñas)"
+                    },
+    "floatingCards":  [
+                          {
+                              "icon":  "Edificio 2",
+                              "title":  "Licencia de Zona Franca",
+                              "price":  "5.999 AED",
+                              "tag":  "Más populares",
+                              "tagColor":  "oro",
+                              "delay":  0.8,
+                              "position":  {
+                                               "right":  "0 pÁ­xeles",
+                                               "top":  "20 pÁ­xeles"
+                                           },
+                              "z":  30
+                          },
+                          {
+                              "icon":  "Globo",
+                              "title":  "ConfiguraciÁ³n continental",
+                              "price":  "16.999 AED",
+                              "tag":  "Mejor relaciÁ³n calidad-precio",
+                              "tagColor":  "cielo",
+                              "delay":  1,
+                              "position":  {
+                                               "right":  "100 pÁ­xeles",
+                                               "top":  "220 pÁ­xeles"
+                                           },
+                              "z":  20
+                          },
+                          {
+                              "icon":  "Tarjeta de crédito",
+                              "title":  "Cuenta bancaria",
+                              "price":  "AprobaciÁ³n rápida",
+                              "tag":  "Rápido",
+                              "tagColor":  "violeta",
+                              "delay":  1.2,
+                              "position":  {
+                                               "right":  "40 pÁ­xeles",
+                                               "top":  "420 pÁ­xeles"
+                                           },
+                              "z":  10
+                          }
+                      ],
+    "reviewsSection":  {
+                           "badgeText":  "Reseñas de Google",
+                           "title":  "Lo que dicen nuestros clientes",
+                           "titleHighlight":  "Los clientes dicen",
+                           "rating":  "4.8",
+                           "reviewsCountText":  ""¢ 34 reseñas verificadas"
+                       },
+    "reviews":  [
+                    {
+                        "name":  "ZeeShan Butt",
+                        "initials":  "ZB",
+                        "rating":  5,
+                        "date":  "Hace 3 meses",
+                        "text":  "La gerencia de Brightlink merece un 100/100. Muhammad Bilal Saleem y su equipo son increÁ­bles, y lo demuestran con su trabajo. El servicio de cambio de nacionalidad y visa dorada se completÁ³ de principio a fin en menos de 36 horas. Todo el proceso fue sencillo y sin estrés. Un servicio VIP de primera (¡un equipo sÁºper sÁ³nico!).",
+                        "color":  "de azul 500 a azul 700"
+                    },
+                    {
+                        "name":  "Mahoma",
+                        "initials":  "METRO",
+                        "rating":  5,
+                        "date":  "Hace 3 meses",
+                        "text":  "Tuve una excelente experiencia trabajando con el equipo de Brightlink para mi Visa Dorada. Fueron profesionales, respondieron rápidamente y gestionaron todo el proceso sin problemas. Obtuve la visa en solo dos dÁ­as. Los recomiendo ampliamente a cualquiera que busque un proceso de Visa Dorada rápido y sencillo.",
+                        "color":  "de violeta 500 a pÁºrpura 700"
+                    },
+                    {
+                        "name":  "Ritik Gupta",
+                        "initials":  "RG",
+                        "rating":  5,
+                        "date":  "Hace 6 meses",
+                        "text":  "Hola, tramité mi visa de residencia de 2 años a través de Brightlink Management Consultancy y fueron sumamente profesionales. Lo consiguieron en solo 4 dÁ­as hábiles, ¡y eso que era Ramadán y tenÁ­an horario reducido! ¡Recomiendo ampliamente su paquete VIP!",
+                        "color":  "de esmeralda 500 a verde azulado 700"
+                    },
+                    {
+                        "name":  "Sina Behfard",
+                        "initials":  "SB",
+                        "rating":  5,
+                        "date":  "Hace 8 meses",
+                        "text":  "El equipo trabaja de forma muy eficiente, profesional y transparente. Me brindaron un gran apoyo para hacerse cargo rápidamente de mi solicitud, que llevaba dÁ­as estancada con otra empresa, y gestionaron cada paso con sumo cuidado.",
+                        "color":  "de ámbar 500 a naranja 700"
+                    },
+                    {
+                        "name":  "M J",
+                        "initials":  "MJ",
+                        "rating":  5,
+                        "date":  "Hace 3 meses",
+                        "text":  "Excelente servicio con respuesta rápida y seguimiento eficaz. Utilicé sus servicios para obtener la Visa Dorada, cuyo trámite tardÁ³ tres dÁ­as de principio a fin.",
+                        "color":  "de rosa 500 a rosa 700"
+                    },
+                    {
+                        "name":  "Hakan TEKERCIOGLU",
+                        "initials":  "HT",
+                        "rating":  5,
+                        "date":  "Hace 2 meses",
+                        "text":  "El proceso de solicitud de la Visa Dorada de nuestra familia se completÁ³ sin problemas, a tiempo y a precios razonables. Sin duda, recomendarÁ­a este servicio a cualquiera que lo necesite.",
+                        "color":  "de cian 500 a azul 700"
+                    },
+                    {
+                        "name":  "Amin K",
+                        "initials":  "Alaska",
+                        "rating":  5,
+                        "date":  "Hace 8 meses",
+                        "text":  "El servicio de Brightlink fue sencillamente excelente. Desde obtener los detalles y un presupuesto hasta recibir mi documento de identidad de los Emiratos Árabes Unidos, todo el proceso fue rápido y sin complicaciones. ¡Muchas gracias, Sr. Bilal, Sr. Abbas y a todo el equipo!",
+                        "color":  "de fucsia-500 a pÁºrpura-700"
+                    },
+                    {
+                        "name":  "Tausif Ahmad",
+                        "initials":  "ejército de reserva",
+                        "rating":  5,
+                        "date":  "Hace 3 meses",
+                        "text":  "Excelente servicio. Un equipo muy honesto y atento. Tramitaron toda la documentaciÁ³n en una semana sin cargos ocultos. Un agradecimiento especial al Sr. Abbas.",
+                        "color":  "de verde 500 a esmeralda 700"
+                    },
+                    {
+                        "name":  "Clay Mullens",
+                        "initials":  "CENTÁMETRO",
+                        "rating":  5,
+                        "date":  "Hace 10 meses",
+                        "text":  "¡Abbas y el equipo de Brightlink fueron increÁ­bles! Desde mi primer contacto, fueron sumamente serviciales y respondieron con rapidez. Me brindaron exactamente lo que necesitaba. Los recomiendo ampliamente a cualquiera que busque un servicio rápido para obtener la visa dorada.",
+                        "color":  "de Á­ndigo 500 a azul 700"
+                    },
+                    {
+                        "name":  "Manaqib Ashraf",
+                        "initials":  "MAMÁ",
+                        "rating":  5,
+                        "date":  "Hace 1 año",
+                        "text":  "Recientemente tramité mi visa familiar a través de Brightlink y estoy encantado con el servicio. Todo el proceso se gestionÁ³ con rapidez y profesionalidad. Ahora puedo vivir con mi familia aquÁ­ en los Emiratos Árabes Unidos. ¡Lo recomiendo ampliamente!",
+                        "color":  "de rojo 500 a rosa 700"
+                    },
+                    {
+                        "name":  "Ahmed Ullah",
+                        "initials":  "AU",
+                        "rating":  5,
+                        "date":  "Hace 1 año",
+                        "text":  "Solo querÁ­a agradecerles enormemente el increÁ­ble apoyo que me brindaron para tramitar la visa de mi esposa, ¡y todo en tan solo dos dÁ­as! Aprecio muchÁ­simo la rapidez y la eficiencia con la que se gestionÁ³ todo. El profesionalismo de su equipo es realmente excepcional.",
+                        "color":  "de verde azulado 500 a cian 700"
+                    },
+                    {
+                        "name":  "Numan Shabbir",
+                        "initials":  "NS",
+                        "rating":  5,
+                        "date":  "Hace 2 años",
+                        "text":  "Me encantÁ³ toda la experiencia. Obtuvimos nuestras visas en solo 3 dÁ­as. Todo su equipo es muy experimentado y nos mantuvo informados en cada paso. Lo recomendarÁ­a a cualquiera que quiera establecer un negocio en Dubái u obtener la Visa Dorada.",
+                        "color":  "de amarillo 500 a ámbar 700"
+                    }
+                ]
+}

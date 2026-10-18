@@ -1,0 +1,393 @@
+{
+  "slug": "ajman-free-zone",
+  "hero": {
+    "badge": "Zone intelligente pour entreprises intelligentes",
+    "title": "Zone franche d'Ajman",
+    "titleHighlight": "Zone franche",
+    "subtitle": "L'une des zones franches les plus économiques et les mieux situées des Émirats arabes unis : à seulement 30 minutes de l'aéroport international de Sharjah et à proximité du port d'Ajman. Idéale pour le commerce, la logistique et les start-ups.",
+    "image": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?w=1600&q=80",
+    "breadcrumbParent": "Zones franches",
+    "breadcrumbLabel": "Zone franche d'Ajman",
+    "ctaPrimaryText": "Obtenez une consultation gratuite",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Salut ! Je suis intéressé par la mise en place d'une zone franche à Ajman.",
+    "badges": [
+      "Propriété à 100 %",
+      "Taxe de 0 %",
+      "Installation en 2 à 3 jours"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Installation des jours",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propriété étrangère",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "Taux d'imposition",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Target",
+      "value": "Plus de 9 000",
+      "label": "Entreprises",
+      "color": "from-cyan-400 to-sky-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "AFZ Côtière",
+    "statusLabel": "En direct",
+    "zoneLabel": "Zone",
+    "zoneValue": "Ajman, Émirats arabes unis",
+    "statusBadge": "Actif",
+    "metrics": [
+      {
+        "label": "Temps de préparation",
+        "value": "2-3 jours",
+        "color": "text-sky-600"
+      },
+      {
+        "label": "Entreprises",
+        "value": "Plus de 9 000",
+        "color": "text-blue-600"
+      }
+    ]
+  },
+  "growBusiness": {
+    "badge": "Développez votre entreprise",
+    "title": "L'une des zones franches les plus abordables des Émirats arabes unis",
+    "titleHighlight": "Zones franches abordables",
+    "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200&q=80",
+    "imageBadgeTitle": "Emplacement de premier choix",
+    "imageBadgeText": "À proximité du port d'Ajman",
+    "paragraph1": "S'implanter dans la zone franche d'Ajman (AFZ) offre aux entrepreneurs, aux PME et aux investisseurs internationaux un environnement commercial parmi les plus abordables et les plus favorables aux affaires des Émirats arabes unis. Stratégiquement située à proximité du port d'Ajman, elle permet un accès facile à Dubaï et à Sharjah.",
+    "paragraph2": "AFZ est particulièrement intéressant pour les start-ups, les commerçants, les prestataires de services, les entrepreneurs du e-commerce et les petits fabricants à la recherche d'une solution économique.",
+    "paragraph3": "Chez Setup Zone Dubai, nous simplifions et facilitons votre installation dans la zone franche d'Ajman. Du choix de la licence appropriée à la gestion des visas, des autorisations et de la conformité, nous personnalisons nos solutions en fonction de votre budget et de vos besoins.",
+    "features": [
+      "Installation rentable",
+      "Solutions de bureau flexibles",
+      "Soutien logistique",
+      "Large gamme de forfaits"
+    ]
+  },
+  "licenseTypes": {
+    "badge": "Types de licences",
+    "title": "Votre guide des catégories de licences commerciales",
+    "titleHighlight": "Catégories de licences commerciales",
+    "subtitle": "AFZA propose une variété de licences adaptées aux différents besoins des entreprises.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Licence commerciale",
+        "description": "Pour l'import/export, le commerce général et le commerce de gros.",
+        "code": "TRD",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Licence de service",
+        "description": "Pour les services professionnels, de conseil et informatiques.",
+        "code": "SRV",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Licence industrielle",
+        "description": "Pour les fabricants, les unités d'assemblage et les chaînes de production.",
+        "code": "INDIANA",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Permis de travailleur indépendant",
+        "description": "Pour les professionnels des médias numériques, du contenu et des technologies.",
+        "code": "FRL",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Licence offshore d'Ajman",
+        "description": "Pour les entreprises internationales sans bureau aux Émirats arabes unis.",
+        "code": "DÉSACTIVÉ",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Package",
+        "title": "Forfaits de création d'entreprise",
+        "description": "Offres groupées pour les PME et les entrepreneurs.",
+        "code": "PKG",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "whoShouldConsider": {
+    "badge": "À qui cela s'adresse-t-il ?",
+    "title": "Qui devrait envisager la zone franche d'Ajman ?",
+    "titleHighlight": "Zone franche d'Ajman ?",
+    "subtitle": "Une flexibilité et une portée mondiale inégalées pour ces types d'entreprises.",
+    "footerNote": "Que vous souhaitiez créer une entreprise à moindre coût aux Émirats arabes unis ou disposer d'un entrepôt entièrement équipé, AFZA offre une flexibilité inégalée.",
+    "items": [
+      {
+        "icon": "Truck",
+        "label": "Importateurs/exportateurs"
+      },
+      {
+        "icon": "Cpu",
+        "label": "Start-ups et consultants technologiques"
+      },
+      {
+        "icon": "Warehouse",
+        "label": "Entreposage et chaîne d'approvisionnement"
+      },
+      {
+        "icon": "Factory",
+        "label": "Fabricants et transformateurs d'éclairage"
+      },
+      {
+        "icon": "ShoppingCart",
+        "label": "Entrepreneurs du commerce électronique"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Freelances et créatifs"
+      }
+    ]
+  },
+  "infrastructure": {
+    "badge": "Infrastructure",
+    "title": "Solutions d'infrastructure et de bureau",
+    "titleHighlight": "Solutions bureautiques",
+    "subtitle": "Infrastructure intelligente conçue pour la productivité et l'évolutivité.",
+    "smallItems": [
+      {
+        "icon": "Briefcase",
+        "title": "Bureaux intelligents équipés",
+        "description": "Des bureaux entièrement meublés et équipés de technologies modernes — prêts à l'emploi pour les startups et les PME.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Unités industrielles légères (UIL)",
+        "description": "Unités éco-efficientes pour la fabrication légère, l'assemblage et la production.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "Entrepôts et unités industrielles",
+        "description": "Accès aux marchandises et quais de chargement.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Centres d'affaires",
+        "description": "Espaces de coworking avec services de réception.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "largeItem": {
+      "icon": "FileText",
+      "title": "Location personnalisable",
+      "description": "Conditions de location flexibles pour les bureaux, les entrepôts et les locaux industriels."
+    },
+    "violetCard": {
+      "icon": "Percent",
+      "title": "Avantages liés à la TVA pour l'exportation",
+      "description": "Les entreprises qui exportent et font du commerce international au sein de la ZAF peuvent bénéficier d'une exonération de TVA, ce qui réduit leur charge fiscale mondiale."
+    }
+  },
+  "whyDifferent": {
+    "badge": "Comparaison avec d'autres zones",
+    "title": "En quoi la zone franche d'Ajman est-elle différente ?",
+    "titleHighlight": "Différent?",
+    "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=1200&q=80",
+    "imageBadgeTitle": "Portail intelligent",
+    "imageBadgeText": "Accès en ligne 24h/24 et 7j/7",
+    "paragraph1": "La zone franche d'Ajman dispose d'infrastructures complètes pour faciliter et optimiser les démarches des entreprises. Grâce à notre service d'assistance simplifié pour les visas d'investisseur et d'employé, les entreprises peuvent obtenir leurs permis de séjour sans délai.",
+    "paragraph2": "Notre offre complète de services de gestion des relations publiques prend en charge tous les documents légaux : autorisation, estampillage et soumission aux autorités gouvernementales. Nous vous accompagnons également dans le renouvellement annuel de votre licence commerciale.",
+    "paragraph3": "Les entreprises bénéficient également du portail e-gouvernement intelligent et innovant d'AFZ, disponible 24h/24 et 7j/7 : les demandes de licences, de visas et de renouvellements peuvent être effectuées en ligne avec des mises à jour d'approbation en temps réel.",
+    "features": [
+      "Assistance visa",
+      "Services PRO",
+      "Portail électronique intelligent 24h/24 et 7j/7",
+      "Renouvellements rapides",
+      "Conformité intégrée",
+      "Croissance durable"
+    ]
+  },
+  "growthStats": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Zone intelligente pour entreprises intelligentes",
+    "titleHighlight": "Entreprises intelligentes",
+    "subtitle": "Elle devient rapidement la destination privilégiée des investisseurs à la recherche d'une création d'entreprise abordable, flexible et rapide.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "Plus de 9 000",
+        "label": "Sociétés enregistrées",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "Plus de 150",
+        "label": "Pays exportateurs",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Continu",
+        "label": "Aménagement du territoire",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Soulèvement",
+        "label": "Investissements étrangers",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "Significatif",
+        "label": "Contribution d'Ajman au PIB",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Préféré",
+        "label": "Pour la configuration aux Émirats arabes unis",
+        "color": "from-amber-400 to-orange-600"
+      }
+    ]
+  },
+  "ourServices": {
+    "badge": "Nos services",
+    "title": "Quels services proposons-nous pour la création d'une société AFZA ?",
+    "titleHighlight": "Création d'une société AFZA ?",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+    "imageBadgeTitle": "De bout en bout",
+    "imageBadgeText": "Soutien complet de l'entreprise",
+    "paragraph1": "Nous proposons une gamme complète de services de création d'entreprise dans la zone franche d'Ajman. Dès la première étape, nous vous accompagnons dans la réservation de votre nom commercial auprès de l'AFZA, en veillant à sa conformité et à son originalité par rapport à tout autre nom déjà enregistré.",
+    "paragraph2": "Nos experts prennent en charge l'intégralité du processus de demande de licence (commerce, services, industrie ou activité indépendante) avec rapidité et précision. Nous vous aidons également à choisir l'espace de travail le plus adapté à votre budget : bureau connecté, espace de coworking, entrepôt ou LIU.",
+    "paragraph3": "Nous proposons des services de visa (investisseur, employé, famille), un accompagnement en matière de conformité (UBO, TVA, ESR, LCB-FT), les renouvellements annuels et des services de relations publiques. Nous assurons également la création de sites web, le branding et le marketing digital pour donner une image professionnelle à votre entreprise.",
+    "features": [
+      "Réservation de nom commercial",
+      "Demande de licence",
+      "Services de visa",
+      "Soutien à la conformité",
+      "Renouvellements annuels et PRO",
+      "Web, image de marque et marketing"
+    ]
+  },
+  "faqs": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur la zone franche d'Ajman. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "items": [
+      {
+        "q": "Combien de temps faut-il pour créer une entreprise dans la zone franche d'Ajman ?",
+        "a": "Généralement 2 à 3 jours ouvrables en fonction des documents requis, du type de bureau et de la licence choisie."
+      },
+      {
+        "q": "Un étranger peut-il posséder 100 % d'une entreprise dans la zone franche d'Ajman ?",
+        "a": "Oui. AFZ autorise la propriété étrangère à 100 % — aucun sponsor local n'est requis."
+      },
+      {
+        "q": "Quels types de licences sont disponibles dans la zone franche d'Ajman ?",
+        "a": "Licences commerciales, de services, industrielles, de travailleurs indépendants, offshore et forfaits de création d'entreprise."
+      },
+      {
+        "q": "La zone franche d'Ajman est-elle une bonne option pour le commerce électronique ?",
+        "a": "Absolument. AFZ propose des licences de commerce électronique et accompagne les modèles commerciaux numériques grâce à des solutions flexibles en matière de bureaux et d'entrepôts."
+      },
+      {
+        "q": "Existe-t-il des avantages fiscaux dans la zone franche d'Ajman ?",
+        "a": "Oui. Impôt à 0 % sur le revenu des particuliers et des entreprises, plus exonération de TVA pour les entreprises de commerce international et d'exportation."
+      },
+      {
+        "q": "Quels types de bureaux et/ou d'entrepôts sont disponibles ?",
+        "a": "Bureaux intelligents équipés, unités industrielles légères (LIU), baux personnalisables, grands entrepôts et centres d'affaires."
+      },
+      {
+        "q": "Ai-je besoin d'un bureau physique pour créer une entreprise en zone franche (AFZ) ?",
+        "a": "Pas nécessairement. Des options de bureaux flexibles et de coworking sont disponibles pour les indépendants et les équipes travaillant à distance."
+      },
+      {
+        "q": "Puis-je faire une demande de visa de résidence via la zone franche d'Ajman ?",
+        "a": "Oui. AFZ fournit des visas d'investisseur, des visas de travail et des parrainages familiaux, avec un soutien complet du PRO pour les examens médicaux, la carte d'identité émirienne et l'apposition du visa."
+      },
+      {
+        "q": "En quoi la zone franche d'Ajman diffère-t-elle des autres zones franches des Émirats arabes unis ?",
+        "a": "Coûts d'installation réduits, emplacement privilégié près du port d'Ajman, location flexible, portail gouvernemental électronique intelligent disponible 24h/24 et 7j/7 et avantages en matière de TVA pour les exportateurs."
+      },
+      {
+        "q": "Quels services Setup Zone Dubai propose-t-il pour la création d'une société AFZA ?",
+        "a": "Services de bout en bout — réservation de nom commercial, demande de licence, sélection de bureaux/entrepôts, services de visa, conformité (UBO, TVA, ESR, AML), renouvellements annuels, PRO, développement web, image de marque et marketing."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui s'accordent parfaitement avec votre configuration AFZ.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Ouverture de compte bancaire",
+        "description": "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Visa d'or",
+        "description": "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Services de conformité",
+        "description": "Conseils en matière d'UBO, d'ESR, de LBC et de TVA.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Lancement aujourd'hui",
+    "title": "Prêt à vous lancer dans la zone franche d'Ajman ?",
+    "titleHighlight": "Zone franche d'Ajman ?",
+    "subtitle": "Bénéficiez d'une consultation gratuite. Nous vous accompagnerons tout au long du processus de configuration, de l'obtention de la licence au lancement.",
+    "primaryCta": "Contactez-nous sur WhatsApp",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour la mise en place d'une zone franche à Ajman.",
+    "badges": [
+      "Consultation gratuite",
+      "Installation en 2 à 3 jours",
+      "Rentable"
+    ],
+    "office": {
+      "label": "Visitez notre bureau de Dubaï",
+      "line1": "Bureau M08-27, 1er étage, Crystal Tower",
+      "line2": "Business Bay, Dubaï, Émirats arabes unis — Boîte postale : 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Heures de travail",
+      "monFri": "9h00 – 18h00",
+      "saturday": "10h00 – 17h00",
+      "sunday": "Fermé"
+    }
+  }
+}

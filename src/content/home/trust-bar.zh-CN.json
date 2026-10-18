@@ -1,0 +1,60 @@
+{
+  "badge": "我们的业绩记录",
+  "heading": {
+    "line1": "值得信赖",
+    "line2Highlight": "500多家企业"
+  },
+  "subtitle": "数字胜于雄辩——15 年的卓越成就，500 多次成功发布，以及一支永不停歇的团队。",
+  "stats": [
+    {
+      "icon": "Users",
+      "value": 10000,
+      "suffix": "+",
+      "label": "客户满意度",
+      "description": "在阿联酋各地推出的业务",
+      "gradient": "from-sky-400 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)"
+    },
+    {
+      "icon": "Award",
+      "value": 15,
+      "suffix": "+",
+      "label": "工作年限",
+      "description": "在阿联酋设立方面拥有值得信赖的专业知识",
+      "gradient": "from-violet-400 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)"
+    },
+    {
+      "icon": "UserCheck",
+      "value": 25,
+      "suffix": "+",
+      "label": "专家顾问",
+      "description": "为每位客户配备专属团队",
+      "gradient": "from-amber-400 to-orange-500",
+      "glowColor": "rgba(245,158,11,0.4)"
+    },
+    {
+      "icon": "Clock",
+      "value": 24,
+      "suffix": "/7",
+      "label": "客户服务",
+      "description": "随时提供支持",
+      "gradient": "from-emerald-400 to-green-600",
+      "glowColor": "rgba(16,185,129,0.4)"
+    }
+  ],
+  "bottomTrust": [
+    {
+      "label": "持有执照并受监管",
+      "color": "bg-brand-green"
+    },
+    {
+      "label": "迪拜经济部批准",
+      "color": "bg-brand-sky"
+    },
+    {
+      "label": "多司法管辖区专业知识",
+      "color": "bg-brand-violet"
+    }
+  ]
+}

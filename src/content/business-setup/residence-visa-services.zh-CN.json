@@ -1,0 +1,492 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "解锁全部居民福利",
+  "heroTitle": "阿联酋居留签证服务",
+  "heroTitleHighlight": "签证服务",
+  "heroSubtitle": "轻松搞定您的阿联酋居留签证——专家指导您完成资格审查、所需文件、体检、阿联酋身份证申请以及家庭担保。完全符合规定，保证免拒签。",
+  "heroChips": [
+    "7种签证类别",
+    "有效期2-10年",
+    "家庭赞助",
+    "免税"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-10",
+      "label": "有效期年限",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Users",
+      "value": "7",
+      "label": "签证类别",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "180+",
+      "label": "国籍",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "快速地",
+      "label": "加工",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "为什么这很重要",
+    "title": "什么是阿联酋居留签证？",
+    "titleHighlight": "阿联酋居留签证？",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "合法居留权",
+    "imageBadgeText": "2-10岁",
+    "paragraphs": [
+      "阿联酋居留签证是由政府签发的文件，允许外国公民在阿联酋居住，有效期为 2 至 10 年。",
+      "与旅游签证不同，居留签证允许您在迪拜及任何其他酋长国合法居住、工作、拥有房产、享受公共卫生服务，并可担保家属。对于任何希望在阿联酋长期居住的人来说，居留签证都是必需的。",
+      "在迪拜Setup Zone，我们为个人、投资者、家庭和企业主提供个性化、合规且高效的居留签证解决方案。"
+    ],
+    "highlights": [
+      "合法长期住宿",
+      "劳动权利",
+      "财产所有权",
+      "银行服务",
+      "家庭赞助",
+      "医疗保健服务"
+    ]
+  },
+  "benefitsSection": {
+    "badge": "阿联酋签证，让您的生活更美好",
+    "title": "阿联酋居留签证的好处",
+    "titleHighlight": "阿联酋居留签证",
+    "subtitle": "在阿联酋生活、工作和发展的十二大优势。",
+    "items": [
+      {
+        "icon": "Clock",
+        "label": "合法长期住宿",
+        "desc": "2-10年不间断的居住年限",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Briefcase",
+        "label": "劳动权利",
+        "desc": "在阿联酋合法工作",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Home",
+        "label": "财产所有权",
+        "desc": "拥有阿联酋房地产",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Bank",
+        "label": "银行服务",
+        "desc": "开设阿联酋银行账户",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "家庭赞助",
+        "desc": "带您的家人来阿联酋",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "label": "医疗保健服务",
+        "desc": "世界一流的医疗设施",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "label": "教育机会",
+        "desc": "顶尖学校和大学",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Plane",
+        "label": "免签旅行",
+        "desc": "轻松畅游海湾合作委员会成员国及全球",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Coins",
+        "label": "免税收入",
+        "desc": "0%个人所得税",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Car",
+        "label": "驾照",
+        "desc": "阿联酋驾驶执照获取",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "IdCard",
+        "label": "阿联酋身份证",
+        "desc": "阿联酋官方身份证明文件",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Shield",
+        "label": "长期稳定性",
+        "desc": "可续签且安全的居留权",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "visaCategoriesSection": {
+    "badge": "选择合适的签证",
+    "title": "阿联酋居留签证类型",
+    "titleHighlight": "阿联酋居留签证",
+    "subtitle": "滑动浏览 7 个类别——找到最符合您目标的类别。",
+    "items": [
+      {
+        "id": "employment",
+        "icon": "Briefcase",
+        "title": "工作签证",
+        "tagline": "最常见的签证",
+        "description": "由阿联酋雇主担保。有效期为2年（阿联酋大陆）或3年（自由区）。包含阿联酋身份证、银行账户、保险和家属担保。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-emerald-500 to-teal-700",
+        "features": [
+          "雇主赞助",
+          "有效期2-3年",
+          "阿联酋身份证",
+          "已包含保险"
+        ],
+        "bestFor": "雇员"
+      },
+      {
+        "id": "investor",
+        "icon": "TrendingUp",
+        "title": "投资者签证",
+        "tagline": "房地产或商业投资",
+        "description": "适用于投资阿联酋房产（75万至200万迪拉姆）或公司股份的人士。可提供2至10年居留权、家庭担保以及获得永久居留权的途径。",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80",
+        "color": "from-teal-500 to-cyan-700",
+        "features": [
+          "房产价格：75万迪拉姆以上",
+          "公司股份",
+          "2-10岁",
+          "家庭赞助"
+        ],
+        "bestFor": "投资者"
+      },
+      {
+        "id": "freelancer",
+        "icon": "Laptop",
+        "title": "自由职业者/远程工作者",
+        "tagline": "数字游民",
+        "description": "非常适合自由职业者、远程工作者和数字游民。可选择的方案包括自由区自由职业签证、居留许可或虚拟工作计划。",
+        "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "color": "from-cyan-500 to-blue-700",
+        "features": [
+          "自由区签证",
+          "虚拟工作计划",
+          "投资组合验证",
+          "合法工作权利"
+        ],
+        "bestFor": "自由职业者和游牧者"
+      },
+      {
+        "id": "family",
+        "icon": "HeartHandshake",
+        "title": "家庭签证",
+        "tagline": "家属担保",
+        "description": "允许就业签证或投资签证持有者担保其配偶、子女、父母或家政人员。要求提供最低工资、住房和保险。",
+        "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+        "color": "from-blue-500 to-indigo-700",
+        "features": [
+          "配偶担保",
+          "儿童与家长",
+          "家政人员",
+          "全家支持"
+        ],
+        "bestFor": "家庭"
+      },
+      {
+        "id": "retiree",
+        "icon": "Home",
+        "title": "阿联酋退休签证",
+        "tagline": "适用于55岁以上的外籍人士",
+        "description": "适用于55岁及以上的外国人士。有效期5年，可续期。需拥有价值100万迪拉姆的房产、100万迪拉姆的存款或2万迪拉姆的月收入。涵盖家属。",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80",
+        "color": "from-indigo-500 to-violet-700",
+        "features": [
+          "55岁以上外籍人士",
+          "5年有效期",
+          "财产/储蓄/收入",
+          "涵盖受抚养人"
+        ],
+        "bestFor": "退休人员"
+      },
+      {
+        "id": "golden",
+        "icon": "Crown",
+        "title": "黄金签证",
+        "tagline": "十年住院医师培训",
+        "description": "阿联酋为投资者、企业家、科学家、学者和各界精英提供的顶级居留权选择。提供100%公司所有权、长期居留权和家庭担保。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "十年住院医师培训",
+          "100% 公司所有权",
+          "家庭赞助",
+          "多项条目"
+        ],
+        "bestFor": "高净值人士与人才"
+      },
+      {
+        "id": "green",
+        "icon": "Leaf",
+        "title": "绿签证",
+        "tagline": "5年自费",
+        "description": "面向技术专业人士、自由职业者和个体经营者。五年自费居留权，无需雇主或担保人。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+        "color": "from-lime-500 to-emerald-700",
+        "features": [
+          "自费",
+          "5年有效期",
+          "无需雇主",
+          "熟练的专业人员"
+        ],
+        "bestFor": "自雇人士和技能型人才"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "六步流程",
+    "title": "如何获得阿联酋居留签证",
+    "titleHighlight": "阿联酋居留签证",
+    "subtitle": "六个简单步骤即可获得阿联酋居留权。",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "资格评估",
+        "description": "我们会评估您的个人情况，并根据您的目标推荐最合适的签证类别。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "文件准备",
+        "description": "我们会收集并准备所有必需的文件，包括护照、签证复印件和证书。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "申请提交",
+        "description": "您的申请将提交给阿联酋相关机构——ICA、GDRFA 或自由区管理局。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "icon": "Stethoscope",
+        "title": "体检",
+        "description": "我们会安排您在阿联酋指定的体检中心进行体检。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "05",
+        "icon": "Fingerprint",
+        "title": "生物识别技术与阿联酋身份证",
+        "description": "在指定中心完成生物识别和阿联酋身份证办理。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "06",
+        "icon": "Stamp",
+        "title": "签证盖章",
+        "description": "您的护照上已盖有最终居留签证章——您现在是阿联酋居民了！",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "值得信赖的签证服务",
+    "titleHighlight": "您可以信赖",
+    "subtitle": "客户信任我们办理阿联酋居留权的六大理由。",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "100% 透明度",
+        "description": "价格结构清晰透明，无任何隐藏费用。所有费用均提前告知。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "专属签证顾问",
+        "description": "一位专门负责所有政府事务的专家和公关联络员。",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "快速处理",
+        "description": "优先政府门户网站，可快速处理申请和体检。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "符合 GDRFA 和 ICA 标准",
+        "description": "严格遵守阿联酋所有签证、居留和移民法规。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "多语言支持",
+        "description": "英语、阿拉伯语、印地语、乌尔都语——我们的团队会说您的语言。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Layers",
+        "title": "签证、驾照和银行业务",
+        "description": "所有你需要的都在这里——无需奔波于各个机构之间。",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "业务增长前景",
+    "title": "深受数千用户信赖",
+    "titleHighlight": "数千",
+    "subtitle": "您的住院医师培训，由专家团队精心打造。",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "10,000+",
+        "label": "签证已办理",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "180+",
+        "label": "国籍",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "领导",
+        "label": "签证专家",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "快速地",
+        "label": "加工",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "合规",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "首选",
+        "label": "签证合作伙伴",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于阿联酋居留签证，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的签证专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于阿联酋居留签证的问题。"
+    },
+    "items": [
+      {
+        "q": "阿联酋居留签证有效期有多长？",
+        "a": "签证期限取决于签证类型。工作签证或家庭签证通常为2-3年。投资签证或退休签证为5年或10年。黄金签证为10年，期满后可续签。绿色签证为5年。"
+      },
+      {
+        "q": "持有阿联酋居留签证是否可以在阿联酋工作？",
+        "a": "是的。居留签证允许您在阿联酋合法居住和工作。工作类型取决于您的签证类别（雇员、投资者、自由职业者等）。"
+      },
+      {
+        "q": "旅游签证和居留签证有什么区别？",
+        "a": "旅游签证允许短期访问（通常为30-90天），不享有工作权利。居留签证允许长期合法居留，享有工作、银行服务、房产所有权、家庭成员担保和医疗保健等权利。"
+      },
+      {
+        "q": "如果我持有居留签证，我可以担保我的家人吗？",
+        "a": "是的。工作签证和投资签证持有者可以担保配偶、子女，在某些情况下还可以担保父母和家政人员。我们负责办理所有家庭担保手续。"
+      },
+      {
+        "q": "申请担保家属移民需要满足怎样的薪资要求？",
+        "a": "具体要求因人而异。一般来说，您需要每月最低收入（通常为 4,000-5,000 迪拉姆以上），并拥有合适的住房和保险。我们会评估您的具体情况并提供建议。"
+      },
+      {
+        "q": "申请阿联酋居留签证需要进行体检吗？",
+        "a": "是的。所有居留签证申请者都必须进行体检（验血+胸部X光检查）。我们会为您协调整个体检流程。"
+      },
+      {
+        "q": "自由职业者或数字游民可以申请阿联酋居留权吗？",
+        "a": "是的。可选择的方案包括自由区自由职业签证、自由职业居留许可、虚拟工作计划或自雇人士绿色签证。"
+      },
+      {
+        "q": "如果我需要取消或续签签证怎么办？",
+        "a": "我们提供全程续签、取消和重新签发服务，确保您在阿联酋的逗留合法且无任何麻烦。"
+      },
+      {
+        "q": "我必须亲自到迪拜才能申请吗？",
+        "a": "大多数步骤都可以远程完成，但体检和阿联酋身份证生物识别信息采集需要您亲自到场。我们会协调一切事宜，确保您的访问快捷高效。"
+      },
+      {
+        "q": "Setup Zone Dubai 如何帮助我获得阿联酋居留签证？",
+        "a": "我们提供全程签证服务，包括资格评估、文件准备、申请递交、体检、阿联酋身份证办理、家庭担保以及后续续签。全程均有专属顾问为您提供指导。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的阿联酋居留签证完美搭配的服务。",
+    "items": [
+      {
+        "slug": "golden-visa-services",
+        "title": "黄金签证服务",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "dependent-visa",
+        "title": "阿联酋家属居留签证",
+        "description": "家庭担保变得轻松便捷。",
+        "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "在迪拜注册公司",
+        "description": "自由区、大陆及离岸。",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "立即开始",
+    "title": "准备好申请阿联酋居留签证了吗？",
+    "titleHighlight": "阿联酋居留签证？",
+    "subtitle": "立即联系我们，让我们的专家以完全透明的法律、固定费用和无任何隐藏费用为您提供指导。",
+    "chips": [
+      "免费咨询",
+      "固定费用",
+      "无隐藏费用"
+    ],
+    "whatsappMessage": "您好！我想咨询一下阿联酋居留签证的相关事宜，可以免费咨询一下。",
+    "whatsappCardMessage": "您好！我想咨询一下阿联酋居留签证的相关事宜。"
+  }
+}

@@ -12,6 +12,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import webData from '../../content/services/web-development.json';
 import WhatsAppIcon from "../../components/icons/WhatsAppIcon";
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Gauge, Smartphone, Search, Users, Eye, TrendingUp, Target, Palette,
   ShoppingCart, Building2, Layout, Database, Award, ShieldCheck,
@@ -20,7 +22,9 @@ const iconMap: any = {
 };
 
 export default function WebDevelopment({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.services || webData;
+  const { language } = useLanguage();
+  const webDevFallback = loadContent('services/web-development', language);
+  const data = tinaData?.data?.services || webDevFallback;
 
   return (
     <div className="min-h-screen bg-white">

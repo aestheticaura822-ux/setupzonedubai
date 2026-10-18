@@ -1,0 +1,551 @@
+{
+  "slug": "jafza-setup-package",
+  "hero": {
+    "badge": "Dünya Standartlarında Ticaret Merkezi",
+    "title": "JAFZA Kurulum Paketi",
+    "titleHighlight": "Paket",
+    "subtitle": "Cebel Ali Serbest Bölgesi, ticaret, lojistik ve sanayi işletmeleri için dünya standartlarında bir merkezdir. Uygun fiyatlı paketler sadece 5.999 AED'den başlıyor — lisans, vize, banka hesabı ve daha fazlası.",
+    "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=1600&q=80",
+    "breadcrumbLabel": "JAFZA Kurulum Paketi",
+    "ctaPrimaryText": "Paketleri Görüntüle",
+    "ctaPrimaryLink": "#paketler",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Merhaba! JAFZA Kurulum Paketi ile ilgileniyorum.",
+    "badges": [
+      "5.999 AED'den itibaren",
+      "11 Paket",
+      "3-7 Gün Kurulum",
+      "%100 Sahiplik"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "Başlangıç Noktası",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Paketler",
+      "color": "from-indigo-400 to-blue-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Kurulum Günleri",
+      "color": "from-blue-400 to-sky-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Mülkiyet",
+      "color": "from-sky-400 to-blue-500"
+    }
+  ],
+  "intro": {
+    "badge": "Yardımcı olmak için buradayız!",
+    "title": "Birleşik Arap Emirlikleri'ndeki İşletmeniz İçin Uygun Fiyatlı JAFZA Kurulum Paketleri",
+    "titleHighlight": "Birleşik Arap Emirlikleri'ndeki İşletmeniz İçin",
+    "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=1200&q=80",
+    "imageBadgeTitle": "JAFZA Serbest Bölgesi",
+    "imageBadgeText": "Cebel Ali, Dubai, Birleşik Arap Emirlikleri",
+    "paragraph1": "Gelişen BAE pazarında işletmenizi kurmayı mı düşünüyorsunuz? Uzman ekibimiz, 65'ten fazla yargı bölgesinde girişimcilerin başarılı şirketler kurmasına yardımcı olma konusunda uzmanlaşmıştır.",
+    "paragraph2": "İster Serbest Bölge'nin esnekliğini, isterse de Anakara ticaret lisansının prestijini tercih edin, ticaret, lojistik ve endüstriyel iş hedeflerinize uygun en iyi Dubai iş kurma paketlerini sunuyoruz.",
+    "paragraph3": "Tüm paketler, iş yolculuğunuz için bir başlangıç noktası sunar ve ihtiyaçlarınıza göre özelleştirilebilir.",
+    "features": [
+      "65+ Yargı Bölgesi",
+      "Dünya Standartlarında Liman Erişimi",
+      "Özelleştirilebilir Paketler",
+      "5.999 AED'den itibaren",
+      "3-7 Günde Hızlı Kurulum",
+      "Tam Destek"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "Ticaret ve Lojistik Ekosistemi",
+    "title": "Ticaret ve Sanayi için Tasarlandı",
+    "titleHighlight": "Ticaret ve Sanayi",
+    "subtitle": "JAFZA'da gelişen altı ticaret ve sanayi sektörü.",
+    "items": [
+      {
+        "icon": "Container",
+        "title": "Genel Ticaret ve İthalat/İhracat",
+        "desc": "Küresel ticaret, emtia, toptan dağıtım",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "Lojistik ve Tedarik Zinciri",
+        "desc": "Nakliye acenteliği, 3PL, dağıtım ağları",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Anchor",
+        "title": "Denizcilik ve Liman Hizmetleri",
+        "desc": "Nakliye, denizcilik, liman operasyonları",
+        "color": "from-blue-400 to-sky-600"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "Depolama ve Ambarlama",
+        "desc": "Gümrük antrepo, soğuk hava deposu, dağıtım merkezleri",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "Üretim ve Montaj",
+        "desc": "Hafif imalat, işleme, paketleme",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Cog",
+        "title": "Mühendislik ve Endüstri",
+        "desc": "Teknik hizmetler, sözleşme, ekipman",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Dubai Uygun Fiyatlı Kurulum Paketleri",
+    "title": "JAFZA Kurulum Paketlerimiz",
+    "titleHighlight": "JAFZA Kurulum Paketleri",
+    "subtitle": "Ticaret, lojistik ve sanayi işletmeleri için tasarlanmış 11 adet premium paket. Hepsi özelleştirilebilir.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Seyahat ve Turizm Danışmanlığı",
+        "price": "14.499 AED",
+        "tagline": "Oturma İzniyle",
+        "category": "Premium",
+        "color": "from-blue-500 to-indigo-700",
+        "badge": "Popüler",
+        "badgeColor": "mavi-500'den çivit-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+          "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Etkinlik Yönetimi",
+        "price": "14.499 AED",
+        "tagline": "Oturma İzniyle",
+        "category": "Premium",
+        "color": "from-indigo-500 to-blue-700",
+        "badge": "Premium",
+        "badgeColor": "indigo-500'den-mavi-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+          "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Genel Ticaret",
+        "price": "15.999 AED",
+        "tagline": "Oturma İzniyle",
+        "category": "Premium",
+        "color": "from-blue-500 to-sky-700",
+        "badge": "En İyi Değer",
+        "badgeColor": "maviden-500'den-gökyüzüne-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "1. Birleşik Arap Emirlikleri Oturma İzni / Yatırımcı Vizesi",
+          "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Moda Tasarımı",
+        "price": "5.999 AED",
+        "tagline": "En fazla 5 aktivite",
+        "category": "Ekonomi",
+        "color": "from-sky-500 to-blue-700",
+        "badge": "Yaratıcı",
+        "badgeColor": "gökyüzünden-500'den-maviye-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Fitness ve Yaşam Tarzı",
+        "price": "5.999 AED",
+        "tagline": "En fazla 5 aktivite",
+        "category": "Ekonomi",
+        "color": "from-cyan-500 to-sky-700",
+        "badge": "Ekonomik",
+        "badgeColor": "siyan-500'den gökyüzü-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "E-Ticaret",
+        "price": "5.999 AED",
+        "tagline": "Çevrimiçi İşletme Hazır",
+        "category": "Ekonomi",
+        "color": "from-teal-500 to-cyan-700",
+        "badge": "Popüler",
+        "badgeColor": "from-teal-500 to-cyan-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "BT Hizmetleri",
+        "price": "6.449 AED",
+        "tagline": "En fazla 5 aktivite",
+        "category": "Profesyonel",
+        "color": "from-emerald-500 to-teal-700",
+        "badge": "Teknoloji",
+        "badgeColor": "zümrüt-500'den turkuaz-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Genel Ticaret",
+        "price": "7.999 AED",
+        "tagline": "Giriş Seviyesi Ticaret",
+        "category": "Standart",
+        "color": "from-green-500 to-emerald-700",
+        "badge": "En çok satan kitap",
+        "badgeColor": "from-green-500 to-emerald-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Ömür Boyu BAE Oturma İzni ile Serbest Bölge Lisansı",
+        "price": "11.999 AED",
+        "tagline": "Ömür Boyu Oturma İzni",
+        "category": "Premium",
+        "color": "from-amber-500 to-orange-700",
+        "badge": "Özel",
+        "badgeColor": "from-amber-500 to-orange-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ömür boyu ücretsiz BAE oturum izni / yatırımcı vizesi",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Birleşik Arap Emirlikleri'nde ikamet izni olan anakara lisansı.",
+        "price": "16.999 AED",
+        "tagline": "Anakara + İkamet",
+        "category": "Anakara",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "Anakara",
+        "badgeColor": "600'den 700'e kadar",
+        "includes": [
+          "Anakara lisansı",
+          "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+          "Sağlık durumu, Emirates Kimliği ve statü değişikliği",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Ücretsiz KDV danışmanlığı"
+        ],
+        "exampleActivities": [
+          "Proje yönetimi",
+          "Yönetim danışmanlığı",
+          "Ticari aracı",
+          "Tesis yönetimi",
+          "Temizlik hizmetleri",
+          "Bina bakımı"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Kadın Girişimciliği",
+        "price": "5.999 AED",
+        "tagline": "Kadın Girişimciler İçin Tasarlandı",
+        "category": "Özel",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Özel",
+        "badgeColor": "gül-500'den-pembe-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Dubai'de birinci sınıf adres ve ortak posta kutusu.",
+          "Ücretsiz KDV danışmanlığı"
+        ],
+        "exampleActivities": [
+          "Yaşam Tarzı Koçluğu",
+          "Dijital Pazarlama",
+          "Moda ve giyim tasarımı",
+          "Etkinlik yönetimi",
+          "Danışmanlık hizmetleri"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "Özel bir ticaret paketine mi ihtiyacınız var?",
+    "subtitle": "Bize ticaret, lojistik veya endüstriyel vizyonunuzu anlatın, biz de size en uygun paketi hazırlayalım.",
+    "buttonText": "Özel Teklif",
+    "whatsappMessage": "Merhaba! Özel bir JAFZA kurulum paketine ihtiyacım var."
+  },
+  "benefits": {
+    "badge": "Neden JAFZA?",
+    "title": "JAFZA Kurulumunun Faydaları",
+    "titleHighlight": "JAFZA Kurulumu",
+    "subtitle": "Ticaret ve sanayi işletmeleri için altı güçlü avantaj.",
+    "items": [
+      {
+        "icon": "Ship",
+        "title": "Dünya standartlarında bir liman",
+        "desc": "Cebel Ali Limanı erişimi",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Düşük Maliyetli Kurulum",
+        "desc": "5.999 AED'den başlayan fiyatlarla",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "desc": "Tamamen yabancı mülkiyeti",
+        "color": "from-blue-400 to-sky-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "3-7 Günde Hızlı Kurulum",
+        "desc": "Hızlı lisans verme",
+        "color": "from-sky-400 to-blue-500"
+      },
+      {
+        "icon": "Wallet",
+        "title": "%0 Vergi Ortamı",
+        "desc": "Vergiden muaf avantajlar",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Stratejik Konum",
+        "desc": "2 milyardan fazla tüketiciye açılan kapı",
+        "color": "from-teal-400 to-cyan-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "6 Adımlı Süreç",
+    "title": "Nasıl Başlanır?",
+    "titleHighlight": "Başlayın",
+    "subtitle": "Paket seçiminden banka hesabına kadar her şeyi biz hallediyoruz.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Paketinizi Seçin",
+        "description": "Ticaret odaklı paketlerimizden birini seçin.",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Belgeleri Gönder",
+        "description": "Pasaport fotokopileri, iş planı ve fotoğraflar.",
+        "color": "from-indigo-400 to-blue-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Lisans Başvurusu",
+        "description": "JAFZA yetkilisine başvuruda bulunuyoruz.",
+        "color": "from-blue-400 to-sky-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Lisansınızı Alın",
+        "description": "3-7 gün içinde lisans verilir.",
+        "color": "from-sky-400 to-blue-500"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "Güvenilir JAFZA Kurulum Ortağınız",
+    "titleHighlight": "JAFZA Kurulum Ortağı",
+    "subtitle": "Ticaret ve sanayi işletmelerinin bize güvenmesinin sekiz nedeni.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Şeffaf Fiyatlandırma",
+        "desc": "Gizli ücret yok, asla."
+      },
+      {
+        "icon": "Zap",
+        "label": "3-7 Günde Hızlı Kurulum",
+        "desc": "Hızlı lisans verme"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "%100 Uyumluluk",
+        "desc": "Tamamen devlet onaylı"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Özel Danışman",
+        "desc": "Kişisel danışman"
+      },
+      {
+        "icon": "Globe",
+        "label": "Çok Dilli Ekip",
+        "desc": "İngilizce, Arapça, Hintçe, Urduca"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "KDV Danışmanlığı",
+        "desc": "Ücretsiz olarak dahildir."
+      },
+      {
+        "icon": "Award",
+        "label": "10.000'den fazla Şirket",
+        "desc": "Başarıyla başlatıldı"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Uçtan Uca Destek",
+        "desc": "Banka hesabı lisansı"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "JAFZA Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "items": [
+      {
+        "q": "JAFZA Serbest Bölgesi nedir?",
+        "a": "JAFZA (Jebel Ali Serbest Bölgesi), 100'den fazla ülkeden 9.500'den fazla şirkete ev sahipliği yapan, dünyanın en büyük ve en prestijli serbest bölgelerinden biridir. Orta Doğu'nun en büyük limanı olan Jebel Ali Limanı'nın yanında yer alan JAFZA, %100 yabancı mülkiyetiyle dünya standartlarında ticaret, lojistik ve endüstriyel altyapı sunmaktadır."
+      },
+      {
+        "q": "JAFZA nerede bulunuyor?",
+        "a": "JAFZA, Birleşik Arap Emirlikleri'nin Dubai şehrinde, Jebel Ali'de, Jebel Ali Limanı'na bitişik ve Al Maktoum Uluslararası Havalimanı'na yakın bir konumda yer almaktadır. Orta Doğu, Afrika ve Asya'daki önemli pazarlara, ana nakliye yollarına (E11, E311) ve otoyollara stratejik erişim sağlamaktadır."
+      },
+      {
+        "q": "JAFZA kurulum paketine neler dahildir?",
+        "a": "Seçtiğiniz pakete bağlı olarak, Serbest Bölge lisansı, oturma vizesi, sağlık raporu ve Emirates kimliği, kira sözleşmesi, banka hesabı açma yardımı, premium adres ve ücretsiz KDV danışmanlığı alırsınız."
+      },
+      {
+        "q": "JAFZA paketinin fiyatı ne kadar?",
+        "a": "JAFZA paketlerimiz 5.999 AED'den (Ekonomi) başlayıp 16.999 AED'ye (Anakara + Oturma İzni) kadar çıkmaktadır. Vize dahil premium paketler ise 14.499 AED'den başlamaktadır."
+      },
+      {
+        "q": "Kurulum ne kadar sürer?",
+        "a": "Ehliyetin verilmesi genellikle 3-7 iş günü sürer ve vize işlemleri ile banka hesabı açılması için ek olarak 1-2 hafta daha gerekir."
+      },
+      {
+        "q": "Paketimi özelleştirebilir miyim?",
+        "a": "Evet. Tüm paketler başlangıç noktasıdır ve ticaret, lojistik, endüstriyel veya hizmet işletmenizin ihtiyaçlarına ve bütçesine uyacak şekilde özelleştirilebilir."
+      },
+      {
+        "q": "Birleşik Arap Emirlikleri'nde oturum vizesi alabilir miyim?",
+        "a": "Evet, seçili paketler BAE yatırımcı/ikamet vizesi (sağlık muayenesi dahil), Emirates Kimlik Kartı ve statü değişikliğini içermektedir. Ömür Boyu BAE İkamet İzni ile Serbest Bölge Lisansı ise ömür boyu ikamet izni sunmaktadır."
+      },
+      {
+        "q": "Banka hesabı açma işlemi fiyata dahil mi?",
+        "a": "Evet. Tüm paketler, Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal banka hesabı açma konusunda ücretsiz destek içermektedir."
+      },
+      {
+        "q": "JAFZA'da hangi aktiviteleri yapabilirim?",
+        "a": "JAFZA, genel ticaret ve ithalat/ihracat, lojistik ve tedarik zinciri, denizcilik ve liman hizmetleri, depolama ve ambarlama, imalat ve montaj, mühendislik ve endüstriyel ve diğer ticari sektörleri destekler; çoğu ekonomik pakette 5'e kadar faaliyet alanı bulunur."
+      },
+      {
+        "q": "JAFZA kurulumu için neden Setup Zone Dubai'yi seçmelisiniz?",
+        "a": "Şeffaf fiyatlandırma, ticaret ve lojistik uzmanlığı, alanında uzman danışmanlar ve lisanstan vizeye, banka hesabına kadar uçtan uca destek sunuyoruz. Tüm bunları 10.000'den fazla başarılı kurulumla gerçekleştiriyoruz."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Ticaret İşletmenizi Bugün Başlatın",
+    "title": "JAFZA Jebel Ali'de Lansmana Hazır mısınız?",
+    "titleHighlight": "JAFZA Jebel Ali?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Doğru paketi seçmenize ve ticari veya endüstriyel işletmenizi birkaç gün içinde faaliyete geçirmenize yardımcı olacağız.",
+    "primaryCta": "Bize WhatsApp'tan ulaşın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Merhaba! JAFZA Kurulum Paketi için ücretsiz danışmanlık almak istiyorum.",
+    "badges": [
+      "5.999 AED'den itibaren",
+      "3-7 Gün Kurulum",
+      "%100 Sahiplik"
+    ],
+    "office": {
+      "label": "Dubai Ofisimizi Ziyaret Edin",
+      "line1": "Ofis M08-27, M1 Katı, Crystal Tower",
+      "line2": "Business Bay, Dubai, B.A.E — Posta Kutusu: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Çalışma Saatleri",
+      "monFri": "Sabah 8 - Akşam 6",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Kapalı"
+    }
+  }
+}

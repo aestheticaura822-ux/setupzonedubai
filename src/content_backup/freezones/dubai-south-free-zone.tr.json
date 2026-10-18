@@ -1,0 +1,415 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600\u0026q=80",
+    "heroBadge":  "Sınırların Ötesinde İşletme",
+    "heroTitle":  "Dubai Güney Serbest Bölgesi Şirket Kurulumu",
+    "heroTitleHighlight":  "Şirket Kurulumu",
+    "heroSubtitle":  "Küresel büyümeye açılan kapınız. El Maktoum Uluslararası Havalimanı\u0027nın yanında stratejik konum. %100 yabancı mülkiyet, sıfır vergi ve hızlandırılmış lisanslama.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "Sıfır Vergi",
+                      "2-4 Gün Kurulum"
+                  ],
+    "heroCards":  {
+                      "primary":  {
+                                      "badge":  "Hızlı Kurulum",
+                                      "icon":  "Saat",
+                                      "label":  "Kurulum Süresi",
+                                      "value":  "2-4 Gün",
+                                      "highlight":  "%98",
+                                      "highlightLabel":  "başarı",
+                                      "footer":  "Birleşik Arap Emirlikleri\u0027ndeki serbest bölgelerin en hızlısı",
+                                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                  },
+                      "secondary":  {
+                                        "icon":  "Küre",
+                                        "label":  "Mülkiyet",
+                                        "value":  "%100 Yabancı",
+                                        "title":  "Sponsor Yok",
+                                        "subtext":  "Tam kontrol",
+                                        "color":  "from-violet-400 to-purple-600"
+                                    },
+                      "tertiary":  {
+                                       "icon":  "Uçak",
+                                       "label":  "Konum",
+                                       "value":  "Havaalanının yanında",
+                                       "title":  "Al Maktoum",
+                                       "subtext":  "Küresel lojistik merkezi",
+                                       "color":  "from-amber-400 to-orange-500"
+                                   }
+                  },
+    "stats":  [
+                  {
+                      "icon":  "Saat",
+                      "value":  "2-4",
+                      "label":  "Kurulum Günleri",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Yabancı Mülkiyet",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Gelir vergisi",
+                      "color":  "from-emerald-400 to-teal-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "500+",
+                      "label":  "İşletmeler",
+                      "color":  "from-amber-400 to-orange-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Akıllı Büyüme Bölgesi",
+                          "title":  "Dubai Güney Serbest Bölgesi Hakkında Açıklama",
+                          "titleHighlight":  "Açıklandı",
+                          "image":  "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Bulunduğu yer",
+                          "imageBadgeText":  "Güney Dubai, Birleşik Arap Emirlikleri",
+                          "paragraphs":  [
+                                             "Dubai Güney Serbest Bölgesi, dünyanın en büyük havaalanının yanında, Dubai\u0027nin güney ucunda yer alan, tamamen devlet destekli bir ekonomik alandır. Yerel ve uluslararası işletmeler için basitleştirilmiş bir yasal ve düzenleyici çerçeve sunmaktadır.",
+                                             "Girişimciler, kÃ¢rlarının tamamının geri getirilmesinden, gelir ve kurumlar vergisinden muafiyetten ve yeni kurulan şirketler, KOBİ\u0027ler ve çokuluslu şirketler için esnek paketlerden yararlanırlar."
+                                         ],
+                          "highlights":  [
+                                             "Tam Kar Geri Gönderme",
+                                             "Gelir Vergisi Yok",
+                                             "Kurumlar Vergisi Yok",
+                                             "Esnek Paketler"
+                                         ]
+                      },
+    "benefitsSection":  {
+                            "badge":  "Başlıca Faydalar",
+                            "title":  "Dubai South\u0027ta İş Kurmanın Avantajları",
+                            "titleHighlight":  "Dubai Güney",
+                            "subtitle":  "İşletmenizi küresel ölçekte büyütmek için ihtiyacınız olan her şey.",
+                            "items":  [
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "%100 Yabancı Mülkiyeti",
+                                              "description":  "Şirketinizin tam kontrolü sizde "” yerel sponsora gerek yok. Uluslararası girişimciler için mükemmel.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Dolar İşareti",
+                                              "title":  "Sıfır Vergi Avantajı",
+                                              "description":  "Kişisel veya kurumlar vergisi yok. KÃ¢rların ve sermayenin tamamı geri getirilebilir.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Hızlı Kayıt",
+                                              "description":  "Kurulum sadece 2-4 iş günü içinde tamamlanır. Hızlı onaylar ve lisanslama işlemleri.",
+                                              "color":  "from-amber-400 to-orange-600"
+                                          },
+                                          {
+                                              "icon":  "Uçak",
+                                              "title":  "Stratejik Konum",
+                                              "description":  "El Maktoum Uluslararası Havalimanı ve Expo 2020 alanının yanında "” lojistik koridoru.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Katmanlar",
+                                              "title":  "Esnek Paketler",
+                                              "description":  "Yeni kurulan şirketler, KOBİ\u0027ler ve çokuluslu şirketler için ihtiyaçlarınıza özel çözümler.",
+                                              "color":  "pembe-400\u0027den gül-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Roket",
+                                              "title":  "Girişim Ekosistemi",
+                                              "description":  "İş ağları oluşturma, ortak çalışma alanları ve iş hızlandırma programlarının hepsi bir arada.",
+                                              "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "setupStepsSection":  {
+                              "badge":  "Kurulum Süreci",
+                              "title":  "Şirketinizi 6 Adımda Nasıl Kurarsınız?",
+                              "titleHighlight":  "6 Adımda",
+                              "subtitle":  "Faaliyet seçimi aşamasından banka hesabı açmaya kadar sadeleştirilmiş bir süreç.",
+                              "steps":  [
+                                            {
+                                                "step":  "01",
+                                                "title":  "İş Faaliyetini Belirleyin",
+                                                "description":  "Lojistik, ticaret, danışmanlık, e-ticaret, bilişim hizmetleri ve daha fazlası arasından seçim yapın.",
+                                                "icon":  "Hedef",
+                                                "color":  "gökyüzünden-400\u0027den maviye-600\u0027e",
+                                                "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "step":  "02",
+                                                "title":  "Yasal Yapıyı Seçin",
+                                                "description":  "Mevcut şirketler için FZE (tek hissedarlı), FZCO (çok hissedarlı) veya Şube Ofisi.",
+                                                "icon":  "Bina 2",
+                                                "color":  "from-violet-400 to-purple-600",
+                                                "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "step":  "03",
+                                                "title":  "Rezerv Ticari Adı",
+                                                "description":  "İstediğiniz şirket adını onay için gönderin "” BAE isim verme kurallarına uygun olmalıdır.",
+                                                "icon":  "DosyaMetni",
+                                                "color":  "from-amber-400 to-orange-600",
+                                                "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "step":  "04",
+                                                "title":  "Belgeleri Gönder",
+                                                "description":  "Pasaport fotokopileri, fotoğraflar, başvuru formu ve gerekli diğer belgeler.",
+                                                "icon":  "Dosya Kontrolü",
+                                                "color":  "from-emerald-400 to-teal-600",
+                                                "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "step":  "05",
+                                                "title":  "Lisans Verildi",
+                                                "description":  "Ticari, hizmet veya endüstriyel lisansınızı genellikle birkaç gün içinde alın.",
+                                                "icon":  "Rozet Kontrolü",
+                                                "color":  "siyan-400\u0027den gökyüzü-600\u0027e",
+                                                "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80"
+                                            },
+                                            {
+                                                "step":  "06",
+                                                "title":  "Visa ve Banka Hesabı",
+                                                "description":  "İşletmenizi kurmak için oturum vizesi başvurusunda bulunun ve kurumsal bir banka hesabı açın.",
+                                                "icon":  "Önemli bir dönüm noktası",
+                                                "color":  "pembe-400\u0027den gül-600\u0027e",
+                                                "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                            }
+                                        ]
+                          },
+    "whyIdealSection":  {
+                            "badge":  "Neden İdeal?",
+                            "title":  "İşletmenizi Geleceğe Hazırlayın",
+                            "titleHighlight":  "İşletme",
+                            "subtitle":  "Dubai Güney Serbest Bölgesi, modern girişimciler için inşa edilmiştir.",
+                            "items":  [
+                                          {
+                                              "icon":  "Dolar İşareti",
+                                              "title":  "Esnek ve Uygun Fiyatlı",
+                                              "description":  "Yeni kurulan şirketler ve bağımsız girişimciler için uygun fiyatlı lisans paketleri."
+                                          },
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "Stratejik Bağlantı",
+                                              "description":  "El Maktum Uluslararası Havalimanı ve küresel ticaret için önemli limanlara yakın konumda."
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "%100 Yabancı Mülkiyeti",
+                                              "description":  "Yerel sponsora gerek yok; girişimciler her şeye sahip olabilirler."
+                                          },
+                                          {
+                                              "icon":  "Roket",
+                                              "title":  "Girişim Ekosistemi",
+                                              "description":  "İş ağları oluşturma, ortak çalışma alanları ve iş hızlandırma programlarına erişim."
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Hızlı Kurulum",
+                                              "description":  "Kayıt ve lisans işlemleri haftalar değil, günler içinde tamamlanıyor."
+                                          },
+                                          {
+                                              "icon":  "ÇubukGrafik3",
+                                              "title":  "Geleceğe Hazır Altyapı",
+                                              "description":  "Dijital, e-ticaret ve teknoloji odaklı işletmeler için geliştirilmiştir."
+                                          }
+                                      ]
+                        },
+    "whoShouldSection":  {
+                             "badge":  "Kimler İçin",
+                             "title":  "Dubai South\u0027ta Kimler Yatırım Yapmalı?",
+                             "titleHighlight":  "Dubai Güney?",
+                             "subtitle":  "Bu sektörler ve işletme türleri için mükemmel.",
+                             "items":  [
+                                           {
+                                               "icon":  "Kamyon",
+                                               "title":  "Lojistik ve Nakliye",
+                                               "description":  "Körfez İşbirliği Konseyi ve ötesine hizmet veren nakliye ve lojistik şirketleri.",
+                                               "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Paket",
+                                               "title":  "E-ticaret",
+                                               "description":  "Sipariş karşılama merkezleri ve teslimat operasyonları olan çevrimiçi mağazalar.",
+                                               "color":  "from-violet-400 to-purple-600"
+                                           },
+                                           {
+                                               "icon":  "Uçak",
+                                               "title":  "Havacılık Hizmetleri",
+                                               "description":  "Uçak bakımı, kiralama hizmetleri ve havacılık desteği.",
+                                               "color":  "from-amber-400 to-orange-600"
+                                           },
+                                           {
+                                               "icon":  "Mağaza",
+                                               "title":  "Ticaret Şirketleri",
+                                               "description":  "Körfez İşbirliği Konseyi (GCC) pazarına ve ötesine yönelik ithalat/ihracat işletmeleri.",
+                                               "color":  "from-emerald-400 to-teal-600"
+                                           },
+                                           {
+                                               "icon":  "Evrak çantası",
+                                               "title":  "Danışmanlıklar",
+                                               "description":  "Hizmet odaklı girişimler ve profesyonel danışmanlık firmaları.",
+                                               "color":  "pembe-400\u0027den gül-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Kod",
+                                               "title":  "Teknoloji ve Yazılım",
+                                               "description":  "Yazılım geliştirme, bilişim hizmetleri ve dijital platformlar.",
+                                               "color":  "siyan-400\u0027den gökyüzü-600\u0027e"
+                                           }
+                                       ],
+                             "noteText":  "Stratejik Avantaj: El Maktoum Uluslararası Havalimanı ve Cebel Ali Limanı\u0027na yakın konumda olup, karayolu, hava ve deniz yoluyla doğrudan erişime sahiptir; hız, erişim ve operasyonel verimliliğe ihtiyaç duyan şirketler için tasarlanmış bir bölgedir."
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Dubai South\u0027ta Kurulum İçin Güvenilir Ortağınız",
+                               "titleHighlight":  "Dubai Güney Kurulumu",
+                               "description":  "Dubai Güney Serbest Bölgesi\u0027ndeki yerleşme sürecinizi basit, şeffaf ve stressiz hale getiriyoruz. Faaliyet seçiminden vize işlemlerine ve banka hesabı açmaya kadar her şeyi biz hallediyoruz.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Ödül",
+                                                 "label":  "Sertifikalı Serbest Bölge Uzmanları"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Hızlandırılmış Onaylar"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "label":  "Şeffaf Fiyatlandırma"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "label":  "%100 Uyumluluk"
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcılar",
+                                                 "label":  "Özel Müşteri Temsilcisi"
+                                             },
+                                             {
+                                                 "icon":  "Saat",
+                                                 "label":  "7/24 Destek"
+                                             }
+                                         ],
+                               "stats":  [
+                                             {
+                                                 "icon":  "Saat",
+                                                 "value":  "2-4",
+                                                 "label":  "Ortalama Kurulum Süresi (Gün)",
+                                                 "color":  "gökyüzünden-500\u0027den maviye-500\u0027e",
+                                                 "bg":  "from-sky-500/30 to-blue-500/30"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "%98",
+                                                 "label":  "Başarı Oranı",
+                                                 "color":  "from-violet-500 to-purple-500",
+                                                 "bg":  "from-violet-500/30 to-purple-500/30"
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcılar",
+                                                 "value":  "500+",
+                                                 "label":  "Hizmet Verilen Müşteriler",
+                                                 "color":  "zümrüt-500\u0027den turkuaz-500\u0027e",
+                                                 "bg":  "from-emerald-500/30 to-teal-500/30"
+                                             },
+                                             {
+                                                 "icon":  "Ödül",
+                                                 "value":  "15+",
+                                                 "label":  "Yılların Deneyimi",
+                                                 "color":  "amber-500\u0027den turuncu-500\u0027e",
+                                                 "bg":  "from-amber-500/30 to-orange-500/30"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Dubai Güney Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Dubai South uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+                                            "whatsappMessage":  "Merhaba! Dubai Güney Serbest Bölgesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Dubai Güney Serbest Bölgesi nedir ve şirket kurmak için neden idealdir?",
+                                          "a":  "Dubai Güney Serbest Bölgesi, Al Maktoum Uluslararası Havalimanı ve Expo 2020 alanının yanında yer alan, hükümet destekli bir ekonomik bölgedir. %100 yabancı mülkiyeti, sıfır vergi ve dünya standartlarında altyapısıyla lojistik, e-ticaret, havacılık ve ticareti desteklemektedir."
+                                      },
+                                      {
+                                          "q":  "Dubai Güney Serbest Bölgesi\u0027nde yerleşmenin başlıca avantajları nelerdir?",
+                                          "a":  "%100 yabancı mülkiyet, sıfır kişisel ve kurumlar vergisi, hızlı kayıt (2-4 gün), her büyüklükteki işletme için esnek paketler ve eksiksiz bir girişimcilik ekosistemi."
+                                      },
+                                      {
+                                          "q":  "Dubai Güney Serbest Bölgesi\u0027nde hangi ticari faaliyetlere izin verilmektedir?",
+                                          "a":  "Lojistik, havacılık hizmetleri, e-ticaret, ticaret, danışmanlık, bilişim hizmetleri, dijital platformlar ve daha fazlası. Tam liste Dubai South\u0027un resmi web sitesinde mevcuttur."
+                                      },
+                                      {
+                                          "q":  "Dubai Güney Serbest Bölgesi\u0027nde şirket kurmak için yerel bir sponsora ihtiyacım var mı?",
+                                          "a":  "Hayır. Dubai Güney Serbest Bölgesi %100 yabancı mülkiyete izin veriyor; işletmenizi kurmak veya işletmek için yerel bir sponsora ihtiyacınız yok."
+                                      },
+                                      {
+                                          "q":  "Ne tür lisanslar mevcuttur?",
+                                          "a":  "İşletme faaliyetinize bağlı olarak Ticari, Hizmet ve Sanayi lisansları mevcuttur. Her birinin farklı vize kotaları ve ofis gereksinimleri vardır."
+                                      },
+                                      {
+                                          "q":  "Hangi yasal yapılar izinlidir?",
+                                          "a":  "Tek hissedarlı şirketler için Serbest Bölge Kuruluşu (FZE), çok hissedarlı şirketler için Serbest Bölge Şirketi (FZCO) ve mevcut BAE veya yabancı şirketler için Şube Ofisleri."
+                                      },
+                                      {
+                                          "q":  "Dubai Güney Serbest Bölgesi\u0027nde uzaktan şirket kurabilir miyim?",
+                                          "a":  "Evet. Belgelerin toplanmasından lisans verilmesine kadar tüm süreci uzaktan yönetiyoruz; Dubai\u0027ye gelmenize gerek yok."
+                                      },
+                                      {
+                                          "q":  "Kurulumu tamamladıktan sonra vize seçenekleri nelerdir?",
+                                          "a":  "Kendiniz, aileniz ve çalışanlarınız için oturum vizesi başvurusunda bulunabilirsiniz. Vize kontenjanları ofisinizin büyüklüğüne (esnek çalışma masası veya özel ofis) bağlıdır."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Serbest Bölge kurulumunuzla iyi uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Altın Vize",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "corporate-tax-vat",
+                                                     "title":  "Kurumlar Vergisi ve KDV",
+                                                     "description":  "Uzman vergi danışmanlığı, FTA kaydı ve mevzuata uyumluluk.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlayın",
+                     "title":  "Dubai South\u0027ta Lansmana Hazır mısınız?",
+                     "titleHighlight":  "Dubai Güney?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Faaliyet seçiminden lisans verilmesine ve banka hesabı açılmasına kadar kurulum sürecinde size rehberlik edeceğiz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "10.000\u0027den fazla Müşteri",
+                                   "2-4 Gün Kurulum"
+                               ],
+                     "whatsappMessage":  "Merhaba! Dubai Güney Serbest Bölgesi kurulumu hakkında ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Dubai Güney Serbest Bölgesi\u0027nin yapılanması hakkında görüşmek istiyorum."
+                 }
+}

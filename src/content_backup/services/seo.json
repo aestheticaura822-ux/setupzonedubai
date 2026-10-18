@@ -1,0 +1,192 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=1600&q=80",
+  "heroBadge": "Rank Higher, Get Found",
+  "heroTitle": "SEO Services in Dubai",
+  "heroTitleHighlight": "Dubai",
+  "heroSubtitle": "Comprehensive SEO strategies to boost your rankings, drive targeted traffic, and convert visitors into loyal customers. No shortcuts — just sustainable organic growth.",
+  "heroChips": ["White-Hat Only", "Local + Global", "Monthly Reports"],
+
+  "stats": [
+    { "icon": "TrendingUp", "value": "Top 3", "label": "Avg. Google Rank", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Eye", "value": "+250%", "label": "Organic Traffic", "color": "from-lime-400 to-green-600" },
+    { "icon": "Search", "value": "100+", "label": "Keywords Ranked", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Users", "value": "500+", "label": "Clients Served", "color": "from-amber-400 to-orange-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "What Is SEO?",
+    "title": "Why Is SEO Crucial in Dubai?",
+    "titleHighlight": "Crucial in Dubai?",
+    "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=1200&q=80",
+    "imageBadgeTitle": "Organic Growth",
+    "imageBadgeText": "Sustainable & Compounding",
+    "paragraphs": [
+      "Search Engine Optimization (SEO) is the process of enhancing your website's visibility on Google, Bing, and Yahoo — ensuring it ranks higher when customers search for your services.",
+      "In Dubai's competitive market, a well-executed SEO strategy is no longer optional. It drives targeted, high-intent traffic, builds brand trust, and reduces dependency on costly paid ads. Unlike short-term campaigns, organic rankings deliver sustainable, long-term results."
+    ],
+    "highlights": [
+      "Higher Google Rankings",
+      "Targeted Organic Traffic",
+      "Reduced Ad Dependency",
+      "Long-Term Sustainable ROI"
+    ]
+  },
+
+  "strategySection": {
+    "badge": "Our SEO Strategy",
+    "title": "How Does Our SEO Strategy Work?",
+    "titleHighlight": "Strategy Work?",
+    "subtitle": "A structured 4-step process to deliver sustainable and scalable results.",
+    "steps": [
+      { "step": "01", "title": "In-depth SEO Audit", "description": "Full evaluation of your site — structure, technical issues, keywords, and backlinks.", "icon": "FileSearch", "color": "from-emerald-400 to-teal-600" },
+      { "step": "02", "title": "Keyword & Competitor Research", "description": "We identify high-value keywords and analyze what your competitors rank for.", "icon": "Target", "color": "from-lime-400 to-green-600" },
+      { "step": "03", "title": "On-Page & Technical Fixes", "description": "Optimize pages, fix technical issues, improve speed, and structure data.", "icon": "Settings", "color": "from-sky-400 to-blue-600" },
+      { "step": "04", "title": "Content & Link Building", "description": "Create content that ranks and build quality backlinks for authority.", "icon": "Link2", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "What We Offer",
+    "title": "Complete SEO Services For Lasting Visibility",
+    "titleHighlight": "For Lasting Visibility",
+    "subtitle": "Every element of SEO — from audits to link building.",
+    "items": [
+      { "icon": "MapPin", "title": "Local SEO", "description": "Dominate \"near me\" searches in Dubai — Google Business Profile, Maps, and location-based keywords.", "image": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?w=800&q=80" },
+      { "icon": "ShoppingCart", "title": "E-commerce SEO", "description": "Product visibility, category optimization, and schema markup for Shopify, WooCommerce, Magento.", "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80" },
+      { "icon": "Code", "title": "Technical SEO", "description": "Site speed, mobile-first, HTTPS, structured data, crawl fixes, and Core Web Vitals.", "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80" },
+      { "icon": "FileText", "title": "Content SEO", "description": "SEO blogs, service pages, landing pages — keyword-rich and audience-focused.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80" },
+      { "icon": "Link2", "title": "Link Building", "description": "Ethical white-hat backlinks from authoritative sites to boost domain authority.", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" },
+      { "icon": "FileSearch", "title": "SEO Audits", "description": "Complete on-page, off-page, and technical audit with actionable improvement plans.", "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=800&q=80" }
+    ]
+  },
+
+  "localSeoSection": {
+    "badge": "Local SEO",
+    "title": "Why Is Local SEO a Game-Changer?",
+    "titleHighlight": "Game-Changer?",
+    "subtitle": "When someone in Dubai searches for your services, you want to be the first option they see. Local SEO makes your business the winner in \"near me\" searches, Google Maps, and local intent keywords — turning searches into footfall, calls, and bookings.",
+    "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1200&q=80",
+    "imageBadgeTitle": "Live Now",
+    "imageBadgeText": "1st in \"near me\"",
+    "ratingText": "4.9 on Google Maps",
+    "highlights": [
+      { "icon": "MapPin", "title": "Google Business Profile", "description": "Fully optimized GBP with keyword-rich descriptions, images, and updates." },
+      { "icon": "Star", "title": "Reviews & Reputation", "description": "Manage reviews, build trust, and improve local ranking signals." },
+      { "icon": "Link2", "title": "Local Citations", "description": "Consistent business listings across trusted local directories." },
+      { "icon": "Home2", "title": "Location Content", "description": "Location-specific content that resonates with local Dubai audiences." }
+    ]
+  },
+
+  "technicalSeoSection": {
+    "badge": "Technical SEO",
+    "title": "How Technical SEO Impacts Rankings",
+    "titleHighlight": "Impacts Rankings",
+    "subtitle": "Even great content won't rank without a strong technical foundation. We fix what's stopping search engines from crawling, indexing, and ranking your pages.",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1600&q=80",
+    "points": [
+      { "icon": "Zap", "title": "Site Speed Optimization", "description": "Faster load times, better Core Web Vitals" },
+      { "icon": "Smartphone", "title": "Mobile Responsiveness", "description": "Seamless experience on every device" },
+      { "icon": "ShieldCheck", "title": "HTTPS Security", "description": "Secure protocols for user trust" },
+      { "icon": "Code", "title": "Structured Data", "description": "Schema markup for rich results" },
+      { "icon": "FileSearch", "title": "Crawl & Index Fixes", "description": "Broken links, sitemaps, and duplicate content" },
+      { "icon": "Settings", "title": "URL Structure", "description": "SEO-friendly URL architecture" }
+    ],
+    "dashboard": {
+      "title": "SEO Dashboard — Live",
+      "rankLabel": "Rank",
+      "rankValue": "#3",
+      "trafficLabel": "Traffic",
+      "trafficValue": "+250%",
+      "keywordsLabel": "Keywords",
+      "keywordsValue": "47",
+      "chartLabel": "Organic Traffic Growth",
+      "chartChange": "+156% YoY",
+      "chartMonths": ["Feb", "Apr", "Jun", "Aug", "Oct", "Dec"],
+      "statusTitle": "3 Keywords Entered Top 5",
+      "statusSubtitle": "Last 7 days — momentum building"
+    }
+  },
+
+  "industriesSection": {
+    "badge": "Industries We Serve",
+    "title": "SEO Strategies for Every Industry",
+    "titleHighlight": "Every Industry",
+    "subtitle": "Custom SEO campaigns designed for your specific industry vertical.",
+    "items": [
+      { "icon": "ShoppingCart", "title": "Retail & E-commerce", "description": "Product visibility, targeted traffic, and sales growth.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Home2", "title": "Real Estate", "description": "Quality property leads with location-based keywords.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Hotel", "title": "Hospitality & Tourism", "description": "More bookings from local and international travellers.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "GraduationCap", "title": "Education & Training", "description": "Connect with students searching for your courses.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Stethoscope", "title": "Healthcare & Wellness", "description": "Build trust and visibility for clinics and wellness brands.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Scale", "title": "Professional Services", "description": "Authority positioning for law, finance, and consulting.", "color": "from-cyan-400 to-teal-600" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Driving Rankings, Traffic, and Leads",
+    "titleHighlight": "and Leads",
+    "subtitle": "We don't chase short-term rankings. We build sustainable SEO foundations that compound growth over time.",
+    "image": "https://images.unsplash.com/photo-1543286386-713bdd548da4?w=1600&q=80",
+    "ctaText": "Talk to an SEO Expert",
+    "ctaMessage": "Hi! I'd like to know more about your SEO services.",
+    "features": [
+      { "icon": "TrendingUp", "label": "Sustainable Long-Term Growth" },
+      { "icon": "Award", "label": "Proven Results Across Industries" },
+      { "icon": "Target", "label": "Custom SEO Solutions (No Templates)" },
+      { "icon": "BarChart3", "label": "Transparent Monthly Reporting" },
+      { "icon": "Lightbulb", "label": "Data-Driven & AI-Powered Insights" },
+      { "icon": "Globe2", "label": "Local + Global Market Expertise" }
+    ],
+    "metricCards": [
+      { "icon": "TrendingUp", "value": "+250%", "label": "Avg. Traffic Growth" },
+      { "icon": "Target", "value": "47", "label": "Keywords in Top 10" },
+      { "icon": "Award", "value": "98%", "label": "Client Retention" },
+      { "icon": "Users", "value": "500+", "label": "Businesses Served" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about SEO in Dubai. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Get Your Free SEO Audit",
+      "text": "We'll analyze your website and show you exactly how to rank higher.",
+      "whatsappMessage": "Hi! I'd like a free SEO audit for my website."
+    },
+    "items": [
+      { "q": "What is SEO and why is it important for my business in Dubai?", "a": "SEO increases your website visibility in search engines. In Dubai's competitive market, it drives high-quality leads, improves brand credibility, and delivers ongoing organic traffic without relying on paid ads." },
+      { "q": "How long until I see results from SEO?", "a": "Typically 3-6 months to see significant results. Competitive keywords may take longer, but we show progress monthly with transparent reporting." },
+      { "q": "Do I need SEO if I am running paid ads?", "a": "Yes. SEO builds long-term organic growth, while paid ads deliver immediate traffic. Together, they maximize ROI and reduce dependency on ads." },
+      { "q": "What SEO services do you provide?", "a": "Local SEO, e-commerce SEO, technical SEO, content SEO, link building, and full SEO audits — all under one roof." },
+      { "q": "Can SEO help my business attract customers in Dubai?", "a": "Absolutely. Local SEO puts you at the top of Google Maps and \"near me\" searches — critical for Dubai businesses." },
+      { "q": "Will SEO work for my industry?", "a": "Yes. We serve retail, e-commerce, real estate, hospitality, education, healthcare, and professional services." },
+      { "q": "How do you track and report success?", "a": "Monthly reports with keyword rankings, traffic growth, backlinks, conversions, and clear ROI metrics." },
+      { "q": "How is your SEO different from others?", "a": "We deliver holistic, data-driven, 360° SEO with white-hat tactics, custom strategies, and transparent reporting. No shortcuts." },
+      { "q": "Do you offer one-time or ongoing SEO?", "a": "SEO is most effective as an ongoing service. However, we offer SEO audits as one-time engagements for businesses seeking a roadmap." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with SEO.",
+    "items": [
+      { "slug": "digital-marketing", "title": "Digital Marketing", "description": "Custom campaigns, social media, and content strategy.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80", "gradient": "from-pink-400 to-rose-600" },
+      { "slug": "web-development", "title": "Web Development", "description": "Modern websites that convert visitors into customers.", "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80", "gradient": "from-amber-400 to-orange-600" },
+      { "slug": "accounting", "title": "Accounting", "description": "Bookkeeping, VAT, and financial reporting.", "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80", "gradient": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Ready to Rank?",
+    "title": "Ready to Dominate Google Rankings?",
+    "titleHighlight": "Google Rankings?",
+    "subtitle": "Get a free SEO audit and strategy consultation. We'll show you exactly how to outrank competitors and grow organically.",
+    "chips": ["Free SEO Audit", "White-Hat Only", "Monthly Reports"],
+    "whatsappMessage": "Hi! I'd like a free SEO audit for my website.",
+    "whatsappCardMessage": "Hi! I'd like to discuss SEO for my business."
+  }
+}

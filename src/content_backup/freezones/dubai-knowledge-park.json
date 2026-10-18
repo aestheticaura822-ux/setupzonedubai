@@ -1,0 +1,200 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1600&q=80",
+  "heroBadge": "Setup Smarter in DKP",
+  "heroTitle": "Dubai Knowledge Park Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "The UAE's only free zone dedicated exclusively to education, training, and human resource development. Build your future in the region's leading knowledge hub.",
+  "heroChips": ["100% Ownership", "0% Tax", "3-7 Days Setup", "Education Ecosystem"],
+
+  "stats": [
+    { "icon": "Building2", "value": "500+", "label": "Education Companies", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-sky-400 to-blue-600" }
+  ],
+
+  "buildFutureSection": {
+    "badge": "Build Your Future",
+    "title": "The UAE's Only Education Free Zone",
+    "titleHighlight": "Education Free Zone",
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=1200&q=80",
+    "imageBadgeTitle": "Education Focus",
+    "imageBadgeText": "Build Your Future",
+    "paragraphs": [
+      "Establishing your business in Dubai Knowledge Park (DKP) Free Zone gives you a unique opportunity to be part of the UAE's only free zone dedicated exclusively to education, training, and human resource development. Designed as a hub for learning and talent development, DKP attracts global universities, training centers, professional development institutes, HR consultancies, and knowledge-based enterprises.",
+      "Whether you are an educational institution expanding into the Middle East, a training provider offering professional courses, a coaching or consultancy firm, or an HR solutions company, Dubai Knowledge Park provides the perfect platform. Its specialized ecosystem fosters collaboration, innovation, and growth for businesses shaping the future of learning and development.",
+      "At Setup Zone Dubai, we simplify the process of setting up in DKP. From company registration and license approvals to visas, compliance, and operational support, our team ensures a seamless journey from start to finish."
+    ],
+    "highlights": ["100% Foreign Ownership", "Zero Tax Environment", "Skilled Talent Access", "Flexible Workspaces", "Education Ecosystem", "Global Recognition"]
+  },
+
+  "benefitsSection": {
+    "badge": "Benefits That Build Futures",
+    "title": "Why Choose Dubai Knowledge Park?",
+    "titleHighlight": "Dubai Knowledge Park?",
+    "subtitle": "Many benefits for entrepreneurs and educational organizations.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership & Zero Tax", "description": "DKP allows full foreign ownership and provides a tax-free environment — ideal for international education ventures and training centers.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Users", "title": "Access to Skilled Talent & Students", "description": "The location in DKP combined with its educational focus attracts skilled professionals and students from all over the world, making it ideal for innovation.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "FileText", "title": "Different Types of Licenses", "description": "Get a professional, service or trade license for your activity — which allows any of the educational options; such as online education, executive learning, and academic programs.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Layout", "title": "Flexible Workspaces & Solutions", "description": "You may want a coworking desk, executive office, or virtual office package, depending on your budget and business necessity.", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "businessTypesSection": {
+    "badge": "Launch Your Vision",
+    "title": "Types of Businesses You Can Launch in DKP",
+    "titleHighlight": "Launch in DKP",
+    "subtitle": "From training centers to EdTech startups — DKP supports every education venture.",
+    "items": [
+      { "icon": "School", "title": "Training Centers / Institutes", "description": "Open a certified center where you can offer language, vocational, professional development, and other course programs.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Laptop", "title": "E-Learning Platforms & EdTech Startups", "description": "You can set up an online education platform, LMS, or Digital Content business with a valid DKP e-learning license.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "GraduationCap", "title": "Academic & Higher Education", "description": "You can set up a branch campus or offer executive education products without restriction as DKP has full regulatory support.", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "UserCheck", "title": "Freelancer & GoFreelance", "description": "Dubai Knowledge Park encourages freelancers by also offering an affordable permit option to educators, trainers, and consultants on the GoFreelance platform.", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "officeSection": {
+    "badge": "Office & Infrastructure",
+    "title": "Grow in Dubai's Knowledge Zone",
+    "titleHighlight": "Knowledge Zone",
+    "subtitle": "Top-tier facilities designed for flexible and scalable operations.",
+    "items": [
+      { "icon": "Users", "title": "Coworking Spaces at D/Quarters", "description": "Ideal for freelancers and startups needing professional environments.", "color": "from-emerald-400 to-teal-600", "size": "small" },
+      { "icon": "Building2", "title": "Executive Office Suites", "description": "Premium office spaces for training institutes and accredited institutions.", "color": "from-teal-400 to-cyan-600", "size": "small" },
+      { "icon": "Globe", "title": "Virtual Offices & Flexi-Desks", "description": "Perfect for remote-first education platforms and consultants. Flexible terms from short-term projects to multi-year operations — minimize overhead while maintaining a prestigious Dubai address.", "color": "from-cyan-500 to-sky-600", "size": "large" }
+    ]
+  },
+
+  "licensingSection": {
+    "badge": "Fast-Track Your Formation",
+    "title": "DKP Licensing & Registration Simplified",
+    "titleHighlight": "Registration Simplified",
+    "subtitle": "We provide full support for every step of your setup journey.",
+    "items": [
+      { "icon": "FileText", "title": "Business License Application", "description": "Whether you are applying for a Dubai Knowledge Park professional license, training company license, or trade license we will ensure the right fit for your business.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Scale", "title": "Legal Entity Setup", "description": "Option for set up as Free Zone Establishment (FZE), Free Zone Company (FZCO), or branch company.", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Database", "title": "Company Registration & AXS Portal Setup", "description": "We register your business with DKP and link your delay to Dubai Development Authority (DDA) and axs services.", "color": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "visaSection": {
+    "badge": "Visa & Immigration",
+    "title": "Visa & Immigration Services",
+    "titleHighlight": "Services",
+    "subtitle": "We help you obtain all necessary visas with ease — complete end-to-end support.",
+    "items": [
+      { "icon": "Briefcase", "label": "Investor Visa for Business Owners" },
+      { "icon": "Users", "label": "Employment Visa for Faculty & Staff" },
+      { "icon": "UserCheck", "label": "Freelancer Visa for Independent Consultants" },
+      { "icon": "HeartHandshake", "label": "Family Visa for Dependents" },
+      { "icon": "CreditCard", "label": "Emirates ID Assistance" },
+      { "icon": "BadgeCheck", "label": "Medical & Visa Renewals" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Setup Zone Dubai?",
+    "title": "Your Trusted Setup Partner",
+    "titleHighlight": "Setup Partner",
+    "items": [
+      { "icon": "DollarSign", "label": "Transparent, All-Inclusive Pricing" },
+      { "icon": "Zap", "label": "Fast Company Formation in DKP" },
+      { "icon": "Shield", "label": "Visa, Banking & PRO Under One Roof" },
+      { "icon": "Palette", "label": "Branding, CRM, Website & SEO Support" },
+      { "icon": "UserCheck", "label": "Dedicated Consultants Every Step" },
+      { "icon": "Trophy", "label": "Businesses That Thrive, Not Just Start" }
+    ],
+    "footerText": "We ensure that your business in Dubai Knowledge Park doesn't just start — it thrives."
+  },
+
+  "expandReachSection": {
+    "badge": "Expand Your Reach",
+    "title": "Access World-Class Amenities",
+    "titleHighlight": "Amenities",
+    "items": [
+      { "icon": "DollarSign", "label": "Zero Corporate & Personal Income Taxes" },
+      { "icon": "Globe", "label": "Access to International Markets" },
+      { "icon": "MapPin", "label": "Proximity to Internet City, Media City & Academic Hubs" },
+      { "icon": "CreditCard", "label": "Easy Visa Processing & Office Solutions" },
+      { "icon": "TrendingUp", "label": "Business-Friendly Environment for Growth" },
+      { "icon": "Lightbulb", "label": "Innovation-Promoting Ecosystem" }
+    ],
+    "footerText": "With access to world-class amenities and Dubai's growing digital infrastructure, businesses in DKP enjoy unprecedented growth opportunities."
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Dubai's Leading Education Hub",
+    "titleHighlight": "Education Hub",
+    "subtitle": "Rapidly growing ecosystem for education, training, and knowledge businesses.",
+    "items": [
+      { "icon": "Building2", "value": "500+", "label": "Education Companies", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Globe", "value": "Global", "label": "Learning Brands", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Education Hub", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "GraduationCap", "value": "Growing", "label": "Knowledge Economy", "color": "from-sky-400 to-blue-600" },
+      { "icon": "BarChart3", "value": "Significant", "label": "Regional Impact", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "For Education Setup", "color": "from-emerald-500 to-teal-700" }
+    ]
+  },
+
+  "comparisonSection": {
+    "title": "DKP vs IFZA vs Dubai Internet City",
+    "subtitle": "Which Zone Wins for Education & EdTech?",
+    "items": [
+      { "factor": "Starting cost", "dkp": "AED 18,000", "ifza": "AED 11,500", "dic": "AED 15,000" },
+      { "factor": "Best for", "dkp": "Education, training, EdTech", "ifza": "General trading, SMEs", "dic": "Tech, media, software" },
+      { "factor": "Education ecosystem", "dkp": "Excellent", "ifza": "Limited", "dic": "Moderate" },
+      { "factor": "Setup speed", "dkp": "3-7 days", "ifza": "2-3 days", "dic": "3-5 days" },
+      { "factor": "Location", "dkp": "Al Sufouh, Dubai", "ifza": "Dubai Silicon Oasis", "dic": "Dubai Internet City" },
+      { "factor": "Visa quota", "dkp": "Up to 6+ per desk", "ifza": "Up to 15", "dic": "Up to 6" },
+      { "factor": "Freelancer permit", "dkp": "Yes (GoFreelance)", "ifza": "No", "dic": "No" }
+    ],
+    "verdict": "DKP wins for education, training, and EdTech businesses — it's the UAE's only dedicated education free zone. IFZA wins for pure cost; DIC wins for pure tech/media. But for anything learning-related, DKP is unmatched."
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Knowledge Park Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our DKP specialists.",
+      "whatsappMessage": "Hi! I have a question about Dubai Knowledge Park Free Zone."
+    },
+    "items": [
+      { "q": "What advantages are there to setting up a business in Dubai Knowledge Park Free Zone?", "a": "Business in Dubai Knowledge Park Free Zone gives you the ability to have 100% foreign ownership, no taxation, and a skilled talent market — making it a great place for training businesses, e-learning businesses, and higher education ventures." },
+      { "q": "What types of licenses does DKP have?", "a": "DKP offers professional licenses, service licenses, and trade licenses — all tailored to educational activities including online education, executive learning, academic programs, training centers, and e-learning platforms." },
+      { "q": "Can I open a business as a freelancer in Dubai Knowledge Park?", "a": "Absolutely. DKP encourages freelancers through the GoFreelance platform, offering affordable permits to educators, trainers, and consultants who want legal recognition and invoicing capabilities." },
+      { "q": "What is the process to set up a company in Dubai Knowledge Park?", "a": "The process involves choosing your business activity and license type, reserving your trade name, submitting the application, obtaining initial approval, securing office space, and finally receiving your license. We handle every step for you." },
+      { "q": "Must I have a physical office in DKP to start a business?", "a": "Not necessarily. DKP offers virtual offices and flexi-desks perfect for remote-first education platforms and consultants, along with coworking spaces at D/Quarters and executive office suites." },
+      { "q": "How long does it take to start a business in Dubai Knowledge Park?", "a": "Typically 3-7 working days depending on the license type, documentation, and office space selection. Our team ensures a smooth and speedy process from start to finish." },
+      { "q": "What legal entity options are available in DKP?", "a": "You can set up as a Free Zone Establishment (FZE), Free Zone Company (FZCO), or a branch of a foreign company — each offering different benefits for different business structures." },
+      { "q": "Does DKP support e-learning and EdTech startups?", "a": "Yes. DKP is specifically designed for e-learning, EdTech, LMS platforms, and digital content businesses. You can get a valid DKP e-learning license to operate legally." },
+      { "q": "Can I sponsor my family if I set up in DKP?", "a": "Yes. DKP supports family visa sponsorship for dependents, along with investor visas, employment visas for faculty and staff, and freelancer visas for independent consultants." },
+      { "q": "What ongoing support does Setup Zone Dubai provide after setup?", "a": "We provide branding, CRM integration, website development, SEO support, VAT and accounting assistance, business consulting, and dedicated consultants to guide your business growth in DKP." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your DKP setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in Dubai Knowledge Park?",
+    "titleHighlight": "Dubai Knowledge Park?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "3-7 Days Setup", "Education Ecosystem"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Dubai Knowledge Park setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Dubai Knowledge Park setup."
+  }
+}

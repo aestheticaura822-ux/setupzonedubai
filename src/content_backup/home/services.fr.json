@@ -1,0 +1,75 @@
+{
+    "badge":  "Nos services principaux",
+    "heading":  {
+                    "line1":  "Création d\u0027entreprise complète",
+                    "highlight":  "Dubaï et les Émirats arabes unis"
+                },
+    "subtitle":  "Zone franche, territoire continental et soutien complet aux entreprises : tout ce dont vous avez besoin pour vous lancer et vous développer aux Émirats arabes unis, au même endroit.",
+    "services":  [
+                     {
+                         "id":  "zone franche",
+                         "icon":  "Bâtiment 2",
+                         "title":  "Configuration de la zone libre",
+                         "tagline":  "Pour les entreprises internationales et isolées",
+                         "description":  "Propriété À  100 %, zéro taxe, idéal pour le télétravail "” nous vous trouvons la zone franche la mieux adaptée À  votre activité et À  votre budget.",
+                         "image":  "https://images.pexels.com/photos/36260007/pexels-photo-36260007.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1200",
+                         "features":  [
+                                          "Propriété 100% étrangère",
+                                          "0 % d\u0027impôt sur le revenu des particuliers et des entreprises",
+                                          "5 activités commerciales gratuites",
+                                          "Configuration compatible avec le travail À  distance"
+                                      ],
+                         "gradient":  "de Sky 400 À  Blue 600 en passant par Blue 500",
+                         "glowColor":  "rgba(14,165,233,0,4)",
+                         "accentColor":  "texte-ciel-600",
+                         "bgAccent":  "bg-sky-50",
+                         "borderAccent":  "front-ciel-200",
+                         "number":  "01"
+                     },
+                     {
+                         "id":  "continent",
+                         "icon":  "Globe",
+                         "title":  "Installation sur le continent",
+                         "tagline":  "Pour les opérations sur le marché local des Émirats arabes unis",
+                         "description":  "Développez votre activité aux Émirats arabes unis, recrutez librement et étendez votre présence. Nous prenons en charge toutes les démarches administratives auprès du Département du développement économique (DED), les licences et le soutien administratif.",
+                         "image":  "https://images.pexels.com/photos/32761488/pexels-photo-32761488.jpeg?auto=compress\u0026cs=tinysrgb\u0026w=1200",
+                         "features":  [
+                                          "Accès complet au marché des Émirats arabes unis",
+                                          "Aucune restriction commerciale",
+                                          "Embauchez librement des employés",
+                                          "Les appels d\u0027offres du gouvernement sont admissibles"
+                                      ],
+                         "gradient":  "de violet 400 À  violet 500, puis À  violet 600",
+                         "glowColor":  "rgba(139,92,246,0.4)",
+                         "accentColor":  "texte-violet-600",
+                         "bgAccent":  "bg-violet-50",
+                         "borderAccent":  "bordure-violette-200",
+                         "number":  "02"
+                     },
+                     {
+                         "id":  "soutien",
+                         "icon":  "Mallette",
+                         "title":  "Soutien aux entreprises",
+                         "tagline":  "Pour les entreprises actives aux Émirats arabes unis",
+                         "description":  "Vous dirigez une entreprise ? Nous nous occupons de toute la partie administrative : TVA, opérations bancaires, renouvellements, paie, visas, documents juridiques et bien plus encore.",
+                         "image":  "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200\u0026q=80",
+                         "features":  [
+                                          "Déclaration de TVA et d\u0027impôt sur les sociétés",
+                                          "Gestion de compte bancaire",
+                                          "Renouvellements de permis et de visas",
+                                          "Paie et comptabilité"
+                                      ],
+                         "gradient":  "de-ambre-400 via-orange-500 À -orange-600",
+                         "glowColor":  "rgba(245,158,11,0,4)",
+                         "accentColor":  "texte-ambre-600",
+                         "bgAccent":  "bg-ambre-50",
+                         "borderAccent":  "bordure-ambre-200",
+                         "number":  "03"
+                     }
+                 ],
+    "bottomCTA":  {
+                      "question":  "Vous ne savez pas lequel vous convient le mieux ?",
+                      "buttonText":  "Parlez À  un expert",
+                      "buttonLink":  "#contact"
+                  }
+}

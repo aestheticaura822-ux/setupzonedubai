@@ -1,0 +1,159 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1600&q=80",
+  "heroBadge": "Take Off with DAFZA",
+  "heroTitle": "Dubai Airport Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "One of the UAE's most prestigious free zones — strategically located next to Dubai International Airport. Perfect for aviation, logistics, trading, and tech companies.",
+  "heroChips": ["100% Ownership", "0% Tax", "Airport Adjacent"],
+
+  "stats": [
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-cyan-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-sky-400 to-cyan-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Corporate Tax", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Plane", "value": "150+", "label": "Global Destinations", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whyDafzaSection": {
+    "badge": "Why DAFZA",
+    "title": "Why Choose DAFZA for Your Business?",
+    "titleHighlight": "Your Business?",
+    "subtitle": "One of the Middle East's most accessible and advanced free zones.",
+    "cards": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "You own the business, you make the decisions — no local sponsor required.", "color": "from-cyan-500 via-blue-600 to-cyan-700", "size": "large" },
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Tax", "description": "Operate free of taxes on a globally connected platform.", "color": "from-emerald-400 to-teal-600", "size": "small" },
+      { "icon": "Wallet", "title": "Full Return of Profits", "description": "Move your profits freely to your home country.", "color": "from-violet-400 to-purple-600", "size": "small" },
+      { "icon": "Building2", "title": "World Class Infrastructure", "description": "Office space, logistics space, warehouses, and advanced customs services — everything your business needs to operate efficiently.", "color": "from-amber-500 via-orange-600 to-amber-700", "size": "fullwidth" }
+    ]
+  },
+
+  "takeOffSection": {
+    "badge": "Take Off",
+    "title": "Take Off with Dubai Airport Free Zone",
+    "titleHighlight": "Dubai Airport Free Zone",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80",
+    "imageBadgeTitle": "Located",
+    "imageBadgeText": "Next to DXB Airport",
+    "paragraphs": [
+      "Setting up your company in the Dubai Airport Free Zone (DAFZA) gives you a powerful advantage at the crossroads of global trade and logistics.",
+      "Strategically located next to Dubai International Airport, DAFZA offers businesses seamless access to more than 150 destinations worldwide. It's the perfect hub for companies that need speed, connectivity, and international credibility.",
+      "Whether you're in aviation, logistics, trading, technology, pharmaceuticals, or e-commerce — DAFZA provides world-class infrastructure to expand your business globally."
+    ],
+    "highlights": ["Global Trade Hub", "Modern Infrastructure", "Advanced Customs", "Strategic Connectivity"]
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "DAFZA License Types",
+    "titleHighlight": "License Types",
+    "subtitle": "Register under the correct license based on your business activity and growth plans.",
+    "footerNote": "We also handle license renewals, amendments, and additions as your business grows.",
+    "items": [
+      { "icon": "Store", "title": "Commercial License", "description": "For trading companies, distributors, and importers/exporters.", "code": "COM", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Factory", "title": "Industrial License", "description": "For light manufacturers, packers, and assemblers.", "code": "IND", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Briefcase", "title": "Professional License", "description": "Consulting firms, service providers, and freelancers.", "code": "PRO", "color": "from-violet-400 to-purple-600" },
+      { "icon": "ShoppingCart", "title": "E-commerce License", "description": "For e-commerce businesses and online retailers.", "code": "ECM", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "visaSection": {
+    "badge": "Visa Services",
+    "title": "Visa & Immigration Services",
+    "titleHighlight": "Services",
+    "subtitle": "Full lifecycle management — from quota application to medicals and Emirates ID processing.",
+    "items": [
+      { "icon": "UserCheck", "title": "Investor Visas", "description": "For business owners and shareholders in DAFZA.", "stampColor": "from-cyan-500 to-blue-600" },
+      { "icon": "Briefcase", "title": "Employment Visa", "description": "For employees sponsored by your DAFZA company.", "stampColor": "from-violet-500 to-purple-600" },
+      { "icon": "FileBadge", "title": "Freelancer Visa", "description": "For independent professionals and consultants.", "stampColor": "from-amber-500 to-orange-600" },
+      { "icon": "Users", "title": "Family Visa", "description": "For spouse, children, and dependents.", "stampColor": "from-emerald-500 to-teal-600" },
+      { "icon": "RefreshCw", "title": "Visa Renewal & Cancellation", "description": "Full lifecycle support for all visa types.", "stampColor": "from-pink-500 to-rose-600" }
+    ]
+  },
+
+  "whyIdealSection": {
+    "badge": "Why It's Ideal",
+    "title": "Everything Your Business Needs to Take Off",
+    "titleHighlight": "Take Off",
+    "items": [
+      { "icon": "Plane", "title": "Airport Adjacent", "description": "Located directly next to Dubai International Airport — the world's busiest international hub." },
+      { "icon": "Globe", "title": "150+ Destinations", "description": "Seamless access to global markets via direct air links." },
+      { "icon": "Truck", "title": "Logistics Advantage", "description": "Import-export, warehousing, and customs all within DAFZA." },
+      { "icon": "DollarSign", "title": "Tax-Free Operations", "description": "0% corporate and personal tax — maximum profitability." },
+      { "icon": "Warehouse", "title": "World-Class Facilities", "description": "Modern offices, warehouses, and logistics infrastructure." },
+      { "icon": "ShieldCheck", "title": "Government Backing", "description": "Government-supported free zone with streamlined regulations." }
+    ]
+  },
+
+  "whoShouldSection": {
+    "badge": "Who It's For",
+    "title": "Who Should Establish in DAFZA?",
+    "titleHighlight": "DAFZA?",
+    "subtitle": "Perfect for these industries and business types.",
+    "scrollHint": "← Swipe to see more →",
+    "items": [
+      { "icon": "Plane", "title": "Aviation Services", "description": "Airlines, MRO, and aviation support companies.", "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80", "color": "from-cyan-400 to-blue-600" },
+      { "icon": "Truck", "title": "Logistics & Freight", "description": "Freight forwarding and supply chain businesses.", "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800&q=80", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Store", "title": "Trading Companies", "description": "Import/export and distribution businesses.", "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80", "color": "from-amber-400 to-orange-600" },
+      { "icon": "ShoppingCart", "title": "E-commerce", "description": "Online retail with fulfillment and logistics needs.", "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Heart", "title": "Pharmaceuticals", "description": "Pharma and healthcare product companies.", "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=800&q=80", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Zap", "title": "Tech Startups", "description": "Technology and digital businesses with global reach.", "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80", "color": "from-indigo-400 to-purple-600" }
+    ]
+  },
+
+  "supportSection": {
+    "badge": "End-to-End Support",
+    "title": "Complete Business Support Under One Roof",
+    "titleHighlight": "Under One Roof",
+    "subtitle": "We go beyond company formation — full-cycle services so you can scale confidently.",
+    "items": [
+      { "icon": "CreditCard", "title": "Bank Account Opening", "description": "Corporate account setup with top UAE banks." },
+      { "icon": "Percent", "title": "Tax & VAT Consultation", "description": "Registration and compliance with FTA." },
+      { "icon": "TrendingUp", "title": "Business Development", "description": "Post-setup growth and expansion support." },
+      { "icon": "FileBadge", "title": "PRO & Document Clearing", "description": "Government liaison and paperwork handling." },
+      { "icon": "Scale", "title": "Legal Advisory", "description": "Free Zone compliance and corporate structuring." },
+      { "icon": "BarChart3", "title": "Accounting & Bookkeeping", "description": "Financial records, VAT filing, and reporting." }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Airport Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our DAFZA specialists.",
+      "whatsappMessage": "Hi! I have a question about Dubai Airport Free Zone."
+    },
+    "items": [
+      { "q": "What is the timeframe for registering a company in DAFZA?", "a": "Establishing a company in DAFZA generally takes 3-5 working days with proper documentation. We handle the process from application to approval." },
+      { "q": "Am I allowed 100% ownership in my DAFZA company as a foreigner?", "a": "Yes. DAFZA allows 100% foreign ownership — no local sponsor required." },
+      { "q": "What type of license should I select for my business in DAFZA?", "a": "Commercial (trading/distribution), Industrial (light manufacturing), Professional (consulting/services), or E-commerce license — based on your activity." },
+      { "q": "Do I require a physical office in DAFZA?", "a": "Yes, DAFZA requires a physical office or flexi-desk. We help you choose the right workspace that fits your budget." },
+      { "q": "Can you assist with banking services?", "a": "Yes. We help open corporate bank accounts with top UAE banks based on your business profile." },
+      { "q": "What are the available visa options?", "a": "Investor Visa, Employment Visa, Freelancer Visa, Family Visa, and Visa Renewal/Cancellation services — all fully supported." },
+      { "q": "Is DAFZA suited for e-commerce companies?", "a": "Yes. DAFZA offers E-commerce licenses and world-class logistics infrastructure for online businesses." },
+      { "q": "Can I import and re-export goods from DAFZA?", "a": "Yes. DAFZA is designed for import, export, and re-export operations with advanced customs services and duty benefits." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Free Zone setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" },
+      { "slug": "pro-services", "title": "PRO Services", "description": "Emirates ID, labor cards, visa stamping, and renewals.", "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80", "gradient": "from-indigo-400 to-purple-600" },
+      { "slug": "corporate-tax-vat", "title": "Corporate Tax & VAT", "description": "Expert tax advice and FTA compliance.", "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Take Off Today",
+    "title": "Ready to Launch in DAFZA?",
+    "titleHighlight": "DAFZA?",
+    "subtitle": "Get a free consultation. We'll guide you through the setup process — from license selection to visa processing and bank account opening.",
+    "chips": ["Free Consultation", "10,000+ Clients", "3-5 Days Setup"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Dubai Airport Free Zone setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss DAFZA setup."
+  }
+}

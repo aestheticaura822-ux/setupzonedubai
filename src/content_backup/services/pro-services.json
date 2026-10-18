@@ -1,0 +1,204 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1600&q=80",
+  "heroBadge": "Skip the Queues",
+  "heroTitle": "PRO Services in Dubai",
+  "heroTitleHighlight": "Dubai",
+  "heroSubtitle": "Complete government liaison for your UAE business — visas, licenses, Emirates ID, labor approvals, and compliance. We handle every form, queue, and deadline so you can focus on growth.",
+  "heroChips": ["Mainland + Free Zone", "Fast Processing", "Full Compliance"],
+
+  "stats": [
+    { "icon": "Zap", "value": "2-5", "label": "Days Turnaround", "color": "from-indigo-400 to-purple-600" },
+    { "icon": "FileText", "value": "50+", "label": "Services Covered", "color": "from-violet-400 to-purple-600" },
+    { "icon": "Users", "value": "500+", "label": "Businesses Served", "color": "from-purple-400 to-fuchsia-600" },
+    { "icon": "Award", "value": "100%", "label": "Compliance Rate", "color": "from-fuchsia-400 to-pink-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "What Are PRO Services?",
+    "title": "Why Are PRO Services Crucial in Dubai?",
+    "titleHighlight": "Crucial in Dubai?",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80",
+    "imageBadgeTitle": "Your Single Point",
+    "imageBadgeText": "Government Liaison",
+    "paragraphs": [
+      "PRO (Public Relations Officer) services handle all government-related paperwork and documentation necessary for starting and operating a business in the UAE. From visa applications to license renewals, labor approvals, and Emirates ID registration — we manage it all.",
+      "With frequently changing government policies and legal requirements, PRO services ensure your business stays compliant, operational, and efficient — saving you time and avoiding penalties."
+    ],
+    "highlights": [
+      "Complete Government Liaison",
+      "Visa & Emirates ID",
+      "License Renewals",
+      "Compliance Management"
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Expert PRO Services in Dubai",
+    "titleHighlight": "in Dubai",
+    "subtitle": "Strategic PRO support aligned with your business model — startup, SME, or multinational.",
+    "items": [
+      { "icon": "Zap", "title": "Fast Legal & Immigration", "description": "Approvals, visas, Emirates IDs, and labor permits processed with zero delays.", "color": "from-indigo-400 to-purple-600" },
+      { "icon": "ShieldCheck", "title": "Transparent Docs & Compliance", "description": "Clear tracking of every document, full UAE compliance, audit-ready always.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "AlertCircle", "title": "Legal & Renewal Alerts", "description": "Proactive reminders on changing laws, renewals, and process updates.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Globe", "title": "PRO Packages for All Zones", "description": "Tailored for Free Zone, Mainland, and Offshore — cost-efficient and compliant.", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "FileText", "title": "Document Pickup & Drop", "description": "We collect, submit, track, and return your documents — fully managed.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Clock", "title": "Never Miss a Deadline", "description": "All renewals and legal requirements tracked and managed for you.", "color": "from-rose-400 to-red-600" }
+    ]
+  },
+
+  "servicesSection": {
+    "badge": "What We Offer",
+    "title": "Comprehensive PRO Services",
+    "titleHighlight": "PRO Services",
+    "subtitle": "Full-spectrum support covering government, immigration, and compliance.",
+    "items": [
+      {
+        "icon": "Plane",
+        "title": "Visa & Immigration Processing",
+        "description": "Employment visas, dependent/family visas, investor visas, medical tests, and Emirates ID.",
+        "items": ["Employment visa application & cancellation", "Dependent / family visa", "Investor visa arrangements", "Visa medical test coordination", "Emirates ID assistance"],
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80"
+      },
+      {
+        "icon": "FileSignature",
+        "title": "License & Document Handling",
+        "description": "Trade license renewals, amendments, attestation, translation, and notarization.",
+        "items": ["Trade license renewal", "License amendments", "MOFA attestation", "Legal translation", "Notarization services"],
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "Labor & Immigration Services",
+        "description": "MOHRE labor approvals, WPS compliance, labor cards, and immigration coordination.",
+        "items": ["MOHRE labor approvals", "WPS payroll compliance", "Labor card issuance", "GDRFA coordination", "Immigration file management"],
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Corporate Compliance",
+        "description": "UBO, ESR, corporate tax filings, and regulatory compliance management.",
+        "items": ["UBO filings", "ESR reports", "Corporate tax compliance", "VAT registration", "Annual returns"],
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      }
+    ]
+  },
+
+  "whoNeedsSection": {
+    "badge": "Who Needs It",
+    "title": "Who Needs PRO Services?",
+    "titleHighlight": "PRO Services?",
+    "subtitle": "Every UAE business — from solo entrepreneurs to multinationals.",
+    "items": [
+      { "icon": "Building2", "title": "Setting Up New Business", "description": "Mainland or Free Zone — complete setup with all government formalities.", "color": "from-indigo-400 to-purple-600" },
+      { "icon": "Users", "title": "Hiring Staff / Sponsoring Dependents", "description": "Employee visas, family visas, and dependent sponsorships handled.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "RefreshCw", "title": "Renewing Licenses or Visas", "description": "Timely trade license and visa renewals without penalties.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "TrendingUp", "title": "Expanding Operations", "description": "Scaling your business across UAE jurisdictions with PRO support.", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "Briefcase", "title": "Solo Entrepreneurs", "description": "Freelancers and single-owner companies need PRO support too.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Globe", "title": "Multinationals", "description": "Complex corporate structures and multi-jurisdiction compliance.", "color": "from-rose-400 to-red-600" }
+    ]
+  },
+
+  "comparisonSection": {
+    "title": "Mainland vs Free Zone",
+    "titleHighlight": "Free Zone",
+    "subtitle": "Both need PRO — but the scope and procedures differ.",
+    "zones": [
+      {
+        "icon": "Building2",
+        "title": "Mainland Companies",
+        "items": ["Deals with DED, MOHRE, GDRFA", "Multiple department approvals", "More complex documentation", "Broader operational scope"],
+        "color": "from-indigo-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Free Zone Companies",
+        "items": ["Interacts with Free Zone Authority", "Direct visa & license support", "Streamlined processes", "Zone-specific regulations"],
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+
+  "outsourceSection": {
+    "badge": "Outsource vs In-House",
+    "title": "Why Outsource PRO Services?",
+    "titleHighlight": "PRO Services?",
+    "subtitle": "Maintaining a full-time PRO team is expensive. Outsourcing to us gives you a full expert team at a fraction of the cost — with strong government ties, compliance expertise, and scalable support.",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=80",
+    "benefits": [
+      { "icon": "Award", "title": "Experts with Local Ties", "description": "Strong relationships with UAE government and Free Zone authorities for faster approvals." },
+      { "icon": "DollarSign", "title": "Minimize Operational Costs", "description": "Save on in-house salaries and overhead — get a full expert team instead." },
+      { "icon": "ShieldCheck", "title": "Prevent Legal Risks", "description": "Accurate submissions mean no fines, delays, or rejections." },
+      { "icon": "TrendingUp", "title": "Scalable Support", "description": "From startup to expansion — our PRO team scales with your business." },
+      { "icon": "FileSearch", "title": "Current Gov. Knowledge", "description": "Always updated on UAE business laws, immigration, and labor regulations." }
+    ],
+    "costComparison": {
+      "title": "Cost Comparison — Annual",
+      "inHouseLabel": "In-House PRO",
+      "inHouseValue": "AED 180,000+",
+      "inHouseNote": "Salary + visa + benefits + overhead",
+      "outsourceLabel": "Outsourced to Us",
+      "outsourceValue": "Save 70%",
+      "outsourceNote": "Full expert team, no overhead",
+      "benefitsList": ["No hiring cost", "No training needed", "Government ties included", "Scales with your business"]
+    }
+  },
+
+  "stepsSection": {
+    "badge": "Get Started",
+    "title": "How to Get Started with PRO Services",
+    "titleHighlight": "PRO Services",
+    "subtitle": "It's easy when you partner with us.",
+    "steps": [
+      { "step": "01", "title": "Free Consultation", "description": "Contact our experts to discuss your needs.", "icon": "MessageCircle", "color": "from-indigo-400 to-purple-600" },
+      { "step": "02", "title": "Share Your Needs", "description": "Tell us your business activity and service requirements.", "icon": "FileText", "color": "from-violet-400 to-purple-600" },
+      { "step": "03", "title": "Personalized Plan", "description": "Receive a custom PRO plan and transparent cost estimate.", "icon": "ClipboardCheck", "color": "from-purple-400 to-fuchsia-600" },
+      { "step": "04", "title": "We Handle Everything", "description": "Our team processes documents and government interactions.", "icon": "Settings", "color": "from-fuchsia-400 to-pink-600" },
+      { "step": "05", "title": "Delivery & Updates", "description": "Approvals delivered to your doorstep or inbox.", "icon": "CheckCircle2", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about PRO services in Dubai.",
+    "sidebarCard": {
+      "title": "Free Consultation",
+      "text": "Talk to our PRO experts about your business needs.",
+      "whatsappMessage": "Hi! I'd like a free PRO services consultation."
+    },
+    "items": [
+      { "q": "What are PRO services in Dubai and why are they necessary?", "a": "PRO services manage all government paperwork, legal documents, business setup, visas, labor approvals, Emirates ID, and compliance obligations — ensuring your business operates legally without interruption." },
+      { "q": "Who requires PRO services in Dubai?", "a": "Every business in the UAE — from startups and freelancers to large multinationals — needs PRO support for visas, licenses, and compliance." },
+      { "q": "Are PRO services compulsory for Free Zone companies?", "a": "Not compulsory, but highly recommended. Free Zone companies still require visa processing, license renewals, and compliance support." },
+      { "q": "What is the difference between in-house and outsourced PRO services?", "a": "In-house PRO means hiring full-time staff with salary + overhead. Outsourcing gives you a full expert team at a fraction of the cost." },
+      { "q": "How much does PRO service cost in Dubai?", "a": "Costs vary based on services needed. We offer flexible packages for startups, SMEs, and enterprises. Contact us for a custom quote." },
+      { "q": "What documents do PRO services process?", "a": "Trade licenses, visas, Emirates IDs, labor cards, attestations, MOFA documents, corporate filings, and more." },
+      { "q": "Do PRO services assist with investor and partner visas?", "a": "Yes. We handle investor visas, partner visas, and employment visas for all business structures." },
+      { "q": "Do I need PRO services for employee visa cancellations?", "a": "Yes. Visa cancellations, offboarding documentation, and final settlements require PRO coordination with MOHRE and GDRFA." },
+      { "q": "Why choose Setup Zone Dubai for PRO services?", "a": "We combine expert PRO agents, transparent pricing, real-time tracking, and full compliance — with strong government ties for fast processing." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with PRO support.",
+    "items": [
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO filings, ESR reports, and regulatory support.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Focus on Growth",
+    "title": "Ready to Skip the Bureaucracy?",
+    "titleHighlight": "Bureaucracy?",
+    "subtitle": "Get a free consultation. Our PRO team handles visas, licenses, compliance, and every government interaction — so you can focus on growing your business.",
+    "chips": ["Free Consultation", "500+ Clients", "Full Compliance"],
+    "whatsappMessage": "Hi! I'd like a free PRO services consultation.",
+    "whatsappCardMessage": "Hi! I'd like to discuss PRO services for my business."
+  }
+}

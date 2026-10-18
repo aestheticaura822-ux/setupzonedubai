@@ -1,0 +1,229 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Control Your Mainland Entity",
+  "heroTitle": "Local Corporate Sponsor in Dubai",
+  "heroTitleHighlight": "Sponsor in Dubai",
+  "heroSubtitle": "Secure 100% control of your mainland business with a trusted corporate sponsor. Legal nominee agreements, POA, and full operational control — you own all the profits.",
+  "heroChips": ["100% Control", "0% Profit Sharing", "Legal Agreements", "Fixed Fee"],
+
+  "stats": [
+    { "icon": "Percent", "value": "49/51", "label": "Legal Split", "color": "from-amber-400 to-orange-600" },
+    { "icon": "Users", "value": "100%", "label": "Operational Control", "color": "from-orange-400 to-red-600" },
+    { "icon": "Bank", "value": "0", "label": "Profit Sharing", "color": "from-red-400 to-rose-600" },
+    { "icon": "Clock", "value": "2-4", "label": "Weeks Setup", "color": "from-rose-400 to-pink-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "Understanding the Setup",
+    "title": "What Is a Local Corporate Sponsor?",
+    "titleHighlight": "Local Corporate Sponsor?",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Legal Partner",
+    "imageBadgeText": "Mainland Setup",
+    "paragraphs": [
+      "A local corporate sponsor in Dubai is a UAE-owned company (100% Emirati owned) holding 51% of shares in a mainland business while the foreign investor holds the remaining 49%. This arrangement exists for certain commercial and industrial activities.",
+      "Unlike individual sponsorship, a corporate sponsor is a registered company rather than a person. This provides a more professional relationship, legally binding contracts, and nominee arrangements allowing foreign entrepreneurs to exercise full control over the company.",
+      "Through structured nominee shareholder agreements and side agreements, you legally maintain 100% control over operations, finances, and decision-making — accessing Dubai's mainland economy while protecting your interests."
+    ],
+    "highlights": ["Corporate Entity", "Nominee Agreement", "Power of Attorney", "Side Agreements", "Fixed Annual Fee", "Legally Compliant"]
+  },
+
+  "whoNeedsSponsorSection": {
+    "badge": "Required for Mainland Licenses",
+    "title": "Who Needs a Local Corporate Sponsor?",
+    "titleHighlight": "Local Corporate Sponsor?",
+    "subtitle": "Not all businesses need one. But if you're in these activities, you do.",
+    "items": [
+      { "icon": "Store", "label": "General Trading & Retail", "desc": "Businesses importing, exporting, or selling goods" },
+      { "icon": "Building2", "label": "Construction & Contracting", "desc": "Companies executing building and infrastructure projects" },
+      { "icon": "Home", "label": "Real Estate & Property Management", "desc": "Brokerages and property management firms" },
+      { "icon": "Truck", "label": "Automotive, Transport & Freight", "desc": "Repair, logistics, and delivery services" },
+      { "icon": "Factory", "label": "Manufacturing & Industrial", "desc": "Production and industrial businesses" }
+    ],
+    "ctaCard": {
+      "title": "Not Sure If You Need One?",
+      "text": "Talk to our experts — we'll tell you in 5 minutes.",
+      "buttonText": "Ask Expert",
+      "whatsappMessage": "Hi! I need to know if my business needs a Local Corporate Sponsor."
+    }
+  },
+
+  "flipCardsSection": {
+    "badge": "Secure Your Ownership Legally",
+    "title": "How Do You Legally Protect Yourself?",
+    "titleHighlight": "Legally Protect Yourself?",
+    "subtitle": "Click any card to flip and see the legal details.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "ContractIcon",
+        "frontTitle": "MOA Drafting",
+        "frontTag": "Legal Foundation",
+        "backTitle": "Memorandum of Association",
+        "backDescription": "The MOA is the legal document recording your company structure, shareholding, and partner relationships. We draft it in compliance with UAE law while protecting your right to operate through internal agreements.",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "id": 2,
+        "icon": "Handshake",
+        "frontTitle": "Beneficial Ownership",
+        "frontTag": "Private Agreement",
+        "backTitle": "Beneficial Ownership Agreement",
+        "backDescription": "Private legal documents signed alongside the MOA. They confirm you — the foreign investor — are the actual sole beneficial owner. The local sponsor is merely a paper owner with no right to profits, operations, or decisions.",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "id": 3,
+        "icon": "Gavel",
+        "frontTitle": "Business Power of Attorney",
+        "frontTag": "Full Authority",
+        "backTitle": "Notarized POA",
+        "backDescription": "A notarized legal instrument granting you sole dominion over every business decision — bank accounts, hiring, and daily operations. No sponsor approval needed for day-to-day business.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "id": 4,
+        "icon": "Shield",
+        "frontTitle": "Sponsor Limitation",
+        "frontTag": "Silent Partner",
+        "backTitle": "Sponsor Limitation Agreement",
+        "backDescription": "Clauses legally prohibiting the sponsor from interfering with your business. A clear expectation that your sponsor is a silent partner with no involvement in operations, finances, or management.",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "id": 5,
+        "icon": "Banknote",
+        "frontTitle": "Fixed Rate Deal",
+        "frontTag": "No Revenue Sharing",
+        "backTitle": "Fixed Annual Sponsor Fee",
+        "backDescription": "Your corporate sponsor is paid a fixed annual amount up front with no share of profit or revenue. Total transparency — no hidden fees, clearly defined payments, and full retention of your profits.",
+        "color": "from-pink-500 to-fuchsia-700"
+      },
+      {
+        "id": 6,
+        "icon": "Scale",
+        "frontTitle": "Legal Compliance",
+        "frontTag": "Fully Notarized",
+        "backTitle": "Legally Binding Contracts",
+        "backDescription": "Every document is drafted and notarized by lawyers — MOA, side agreements, nominee contracts, and POA. Legally binding corporate contracts give you long-term legal and financial security.",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+
+  "controlSection": {
+    "badge": "Can I Retain 100% Control?",
+    "title": "Yes — 100% Operational Control Guaranteed",
+    "titleHighlight": "100% Operational Control",
+    "subtitle": "With our nominee service agreements, you retain 100% operational, financial, and managerial control of the business. Our agreements clearly state:",
+    "items": [
+      { "icon": "EyeOff", "label": "Sponsor has no access to business decisions", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Banknote", "label": "All profits retained by the foreign owner", "color": "from-orange-400 to-red-600" },
+      { "icon": "Gavel", "label": "Power of Attorney remains with you", "color": "from-red-400 to-rose-600" },
+      { "icon": "DollarSign", "label": "Fixed annual sponsorship fee — no revenue sharing", "color": "from-rose-400 to-pink-600" }
+    ],
+    "footerText": "We draft these agreements in full compliance with UAE legal standards, reviewed by professional legal consultants."
+  },
+
+  "exitOptionsSection": {
+    "badge": "Flexible Exit & Transfer",
+    "title": "Want to Exit or Transfer Ownership?",
+    "titleHighlight": "Exit or Transfer Ownership?",
+    "subtitle": "We offer flexible options — smooth transitions with no risk or dispute.",
+    "items": [
+      { "icon": "Banknote", "label": "Sell your business", "desc": "Smooth transfer to new owners" },
+      { "icon": "UserPlus", "label": "Bring in a new partner", "desc": "Restructure the shareholding" },
+      { "icon": "Repeat", "label": "Transfer sponsorship", "desc": "Switch to a new sponsor" },
+      { "icon": "RefreshCw", "label": "Upgrade to 100% ownership", "desc": "When laws change" }
+    ],
+    "footerText": "Our team handles all restructuring and documentation smoothly, ensuring no risk or dispute arises during the process."
+  },
+
+  "licensingSection": {
+    "badge": "Licensing & Approvals",
+    "title": "Sponsor Helps with Licensing & Approvals",
+    "titleHighlight": "Licensing & Approvals",
+    "subtitle": "Faster licensing, renewals, and external approvals.",
+    "items": [
+      { "icon": "Building2", "title": "DED Dubai Business License", "description": "Primary government organization issuing trade licenses for mainland Dubai. Handles activity approvals, name reservations, renewals, and commercial law compliance.", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Home", "title": "Municipality & Civil Defence", "description": "Initial approvals verifying your business location meets safety, zoning, hygiene, and environmental requirements — including fire safety inspections.", "color": "from-orange-400 to-red-600" },
+      { "icon": "ScrollText", "title": "Trade License Authorities", "description": "Approvals from Ministry of Economy, Department of Tourism, Ministry of Health, or TRA — depending on your chosen business activity.", "color": "from-red-400 to-rose-600" },
+      { "icon": "ShieldCheck", "title": "Industry Regulatory Bodies", "description": "Special approvals from DHA, KHDA, or SCA for healthcare, education, or finance businesses — ensuring full regulatory compliance.", "color": "from-rose-400 to-pink-600" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Why Trust Setup Zone Dubai for Sponsorship?",
+    "titleHighlight": "Setup Zone Dubai",
+    "subtitle": "We don't just meet the requirements — we protect your future.",
+    "items": [
+      { "icon": "ShieldCheck", "label": "Legally Compliant & Secure", "desc": "Fully compliant corporate sponsorship" },
+      { "icon": "DollarSign", "label": "Transparent Annual Costs", "desc": "No hidden fees or commissions" },
+      { "icon": "Handshake", "label": "Binding Nominee Agreements", "desc": "You own all control & profit" },
+      { "icon": "Globe", "label": "Multilingual Team", "desc": "English, Arabic, Hindi & Urdu" },
+      { "icon": "FileCheck", "label": "End-to-End Support", "desc": "Legal, compliance & documentation" },
+      { "icon": "RefreshCw", "label": "Long-Term Protection", "desc": "Future-proofed setup" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Complete Control & Compliance",
+    "titleHighlight": "Control & Compliance",
+    "subtitle": "Your business — fully protected, fully compliant, fully yours.",
+    "items": [
+      { "icon": "Users", "value": "100%", "label": "Control", "color": "from-amber-400 to-orange-600" },
+      { "icon": "Bank", "value": "0", "label": "Profit Sharing", "color": "from-orange-400 to-red-600" },
+      { "icon": "Handshake", "value": "Legal", "label": "Nominee Agreements", "color": "from-red-400 to-rose-600" },
+      { "icon": "DollarSign", "value": "Fixed", "label": "Annual Fee", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Scale", "value": "UAE", "label": "Law Compliant", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Crown", "value": "Trusted", "label": "Sponsor Partner", "color": "from-fuchsia-400 to-purple-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Local Corporate Sponsorship. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our sponsorship specialists.",
+      "whatsappMessage": "Hi! I have a question about Local Corporate Sponsor in Dubai."
+    },
+    "items": [
+      { "q": "Is a Local Corporate Sponsor compulsory for all businesses wanting to trade in Dubai?", "a": "No. Local Corporate Sponsorship is required only for specific commercial or industrial activities in the mainland jurisdiction. Free Zone companies and Professional Services still enjoy 100% foreign ownership." },
+      { "q": "If I have a Local Corporate Sponsor, can I still retain full control legally?", "a": "Yes. Through structured nominee agreements, POA, and side agreements, you retain 100% operational, financial, and managerial control of the business — legally and securely." },
+      { "q": "What is the difference between an individual and a corporate sponsor?", "a": "An individual sponsor is a person. A corporate sponsor is a UAE-owned company (100% Emirati owned) — providing more professional legal structure, binding contracts, and nominee arrangements." },
+      { "q": "What is a nominee agreement and what is it about?", "a": "A nominee agreement is a private legal document confirming you (the foreign investor) are the actual sole beneficial owner. The sponsor holds shares on paper with no right to profits, operations, or decisions." },
+      { "q": "Can I change or get rid of a sponsor in the future?", "a": "Yes. We offer flexible exit and transfer options — sell your business, bring in a new partner, transfer sponsorship, or upgrade to 100% ownership when laws change." },
+      { "q": "Will the sponsor interfere in my business finances or clients?", "a": "No. Our Sponsor Limitation Agreement legally prohibits interference. The sponsor is a silent partner with no involvement in operations, finances, or management." },
+      { "q": "Will the sponsor carry out any operations?", "a": "No. All operations, decision-making, and management remain 100% with you (the foreign investor). The sponsor only holds legal shares on paper." },
+      { "q": "What happens if my corporate sponsor company's ownership or management changes?", "a": "Our agreements are structured to remain valid regardless of changes in the sponsor company. We handle any required updates and ensure your control is never compromised." },
+      { "q": "Does having an established corporate sponsor help with approvals?", "a": "Yes. Our established corporate sponsors help speed up DED licensing, renewals, municipality approvals, civil defence, and industry regulatory approvals." },
+      { "q": "How long does it take to get my business license in Dubai?", "a": "Typically 2-4 weeks for mainland setup including the corporate sponsor arrangement. We fast-track the process through our DED relationships and legal team." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with Local Corporate Sponsorship.",
+    "items": [
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore structures.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-orange-600" },
+      { "slug": "mainland-company-formation", "title": "Mainland Company Formation", "description": "Full UAE market access with DED license.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-orange-400 to-red-600" },
+      { "slug": "local-business-partner", "title": "UAE Local Business Partner", "description": "Trusted partner for your UAE venture.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-red-400 to-rose-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launching a Mainland Business?",
+    "title": "Secure Your Future with a Trusted Corporate Sponsor",
+    "titleHighlight": "Trusted Corporate Sponsor",
+    "subtitle": "Access Dubai's thriving mainland economy without losing control of your business. 100% operational control, no intrusion, legally secure nominee sponsorship.",
+    "chips": ["Free Consultation", "100% Control", "Fixed Fee"],
+    "whatsappMessage": "Hi! I'd like a free consultation for Local Corporate Sponsor.",
+    "whatsappCardMessage": "Hi! I'd like to discuss Local Corporate Sponsor."
+  }
+}

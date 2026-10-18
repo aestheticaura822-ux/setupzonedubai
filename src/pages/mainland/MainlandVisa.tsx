@@ -19,7 +19,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import visaData from '../../content/mainland/mainland-visa.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
   FileText, DollarSign, Zap, UserCheck, Landmark, BadgeCheck, Shield,
@@ -30,7 +31,9 @@ const iconMap: any = {
 };
 
 export default function MainlandVisa({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.mainland || visaData;
+  const { language } = useLanguage();
+  const visaFallback = loadContent('mainland/mainland-visa', language);
+  const data = tinaData?.data?.mainland || visaFallback;
   const [activeVisa, setActiveVisa] = useState(0);
 
   const visaTypes = data.licenseTypes.items;

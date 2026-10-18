@@ -1,0 +1,83 @@
+{
+  "badge": "Nuestro proceso",
+  "heading": {
+    "line1": "De la idea al lanzamiento en",
+    "highlight": "6 pasos sencillos"
+  },
+  "subtitle": "Nos encargamos de todo, desde la primera consulta hasta el soporte continuo. Un proceso transparente y de eficacia probada, en el que confí­an más de 500 empresas de los EAU.",
+  "stepsLabel": "Paso",
+  "stepsLabelSuffix": "de",
+  "steps": [
+    {
+      "number": "01",
+      "icon": "MessageCircle",
+      "title": "Consulta gratuita",
+      "description": "Comprendemos sus objetivos comerciales, su sector y sus necesidades de visado, y le recomendamos la mejor opción, ya sea una zona franca o establecerse en el territorio continental estadounidense.",
+      "gradient": "from-sky-400 to-blue-600",
+      "glow": "rgba(14,165,233,0.5)",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+    },
+    {
+      "number": "02",
+      "icon": "FileText",
+      "title": "Preparación de documentos",
+      "description": "Nuestro equipo se encarga de toda la documentación, desde las solicitudes de licencia hasta la redacción y traducción de los acuerdos de colaboración, adaptándolos a la normativa de los EAU.",
+      "gradient": "from-violet-400 to-purple-600",
+      "glow": "rgba(139,92,246,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+    },
+    {
+      "number": "03",
+      "icon": "Building2",
+      "title": "Registro de la empresa",
+      "description": "Registramos su empresa ante la autoridad competente (Zona Franca, China continental, etc.) y obtenemos todas las aprobaciones necesarias.",
+      "gradient": "from-amber-400 to-orange-600",
+      "glow": "rgba(245,158,11,0.5)",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=800&q=80"
+    },
+    {
+      "number": "04",
+      "icon": "UserCheck",
+      "title": "Visado y documento de identidad de los Emiratos írabes Unidos",
+      "description": "Tramitamos su visado de residencia, permiso de entrada, examen médico, documento de identidad de los Emiratos írabes Unidos y visados de trabajo, si fuera necesario.",
+      "gradient": "from-emerald-400 to-teal-600",
+      "glow": "rgba(16,185,129,0.5)",
+      "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+    },
+    {
+      "number": "05",
+      "icon": "CreditCard",
+      "title": "Cuenta bancaria corporativa",
+      "description": "Le presentamos a los socios bancarios adecuados segíºn el perfil de su empresa, con asesoramiento completo sobre la documentación necesaria.",
+      "gradient": "from-cyan-400 to-blue-600",
+      "glow": "rgba(34,211,238,0.5)",
+      "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+    },
+    {
+      "number": "06",
+      "icon": "Headphones",
+      "title": "Soporte continuo",
+      "description": "Continuamos brindando asistencia en servicios de gestión de relaciones píºblicas, cumplimiento normativo, renovación de licencias y asesorí­a corporativa.",
+      "gradient": "from-pink-400 to-rose-600",
+      "glow": "rgba(236,72,153,0.5)",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80"
+    }
+  ],
+  "bottomCTA": {
+    "icon": "Rocket",
+    "title": "¿Listo para lanzar tu negocio en Dubái?",
+    "subtitle": "Comience con una consulta gratuita. Le guiaremos en cada paso del proceso.",
+    "primaryCta": "Comienza ahora",
+    "secondaryCta": "Llámenos",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "¡Hola! Me gustarí­a iniciar mi negocio en Dubái. ¿Podrí­amos programar una consulta gratuita?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80",
+    "trustIndicators": [
+      "Más de 500 empresas lanzadas",
+      "Tiempo promedio de instalación: 3-5 dí­as",
+      "Consulta gratuita",
+      "Cumple con la FTA"
+    ]
+  }
+}

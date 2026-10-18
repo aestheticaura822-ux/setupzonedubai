@@ -17,7 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dicData from '../../content/freezones/dubai-internet-city.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Phone, MessageCircle, HomeIcon, Clock,
@@ -30,7 +31,9 @@ const iconMap: any = {
 };
 
 export default function DIC({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dicData;
+  const { language } = useLanguage();
+  const dicFallback = loadContent('freezones/dic', language);
+  const data = tinaData?.data?.freeZones || dicFallback;
 
   const {
     hero,

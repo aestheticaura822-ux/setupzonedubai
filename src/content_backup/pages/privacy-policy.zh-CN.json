@@ -1,0 +1,262 @@
+{
+  "heroBadge": "合法的",
+  "heroTitle": "隐私政策",
+  "heroTitleHighlight": "政策",
+  "heroSubtitle": "了解由 Brightlink 运营的 SetupZoneDubai 如何收集、使用和保护您的个人信息。您的隐私是我们的首要任务。",
+  "trustBadges": [
+    {
+      "icon": "Lock",
+      "label": "TLS 1.2 安全",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Server",
+      "label": "加密数据",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "ShieldCheck",
+      "label": "DET 持证",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "CheckCircle2",
+      "label": "符合GDPR要求",
+      "color": "from-indigo-400 to-purple-600"
+    }
+  ],
+  "tocTitle": "目录",
+  "tocSections": [
+    {
+      "id": "info-collection",
+      "title": "信息收集与使用"
+    },
+    {
+      "id": "disclosure",
+      "title": "信息披露"
+    },
+    {
+      "id": "use-of-info",
+      "title": "信息的使用"
+    },
+    {
+      "id": "cookies",
+      "title": "Cookie 和跟踪"
+    },
+    {
+      "id": "content-providers",
+      "title": "内容提供商、广告商和合作伙伴"
+    },
+    {
+      "id": "opting",
+      "title": "选择加入和退出"
+    },
+    {
+      "id": "protection",
+      "title": "保护您的个人信息"
+    },
+    {
+      "id": "overseas",
+      "title": "向海外披露信息"
+    },
+    {
+      "id": "holding",
+      "title": "信息的保存、更正和更新"
+    },
+    {
+      "id": "amendments",
+      "title": "修正案"
+    },
+    {
+      "id": "acceptance",
+      "title": "验收"
+    },
+    {
+      "id": "contact",
+      "title": "如何联系我们"
+    }
+  ],
+  "sidebarCard": {
+    "title": "隐私方面的顾虑？",
+    "text": "如有任何隐私相关问题，请联系我们。",
+    "buttonText": "给我们发邮件",
+    "email": "setupzonedubai@gmail.com",
+    "emailHref": "mailto:setupzonedubaigmail.com"
+  },
+  "intro": {
+    "heading": "介绍",
+    "subheading": "请仔细阅读",
+    "paragraphs": [
+      "本隐私政策（以下简称“本政策”）规定了由 Brightlink 运营的 SetupZoneDubai 及其关联公司（以下统称“SetupZoneDubai”、“我们”或“我们的”）如何收集、使用、维护和披露个人信息。本政策还解释了您在访问、更正和控制个人数据方面的权利。",
+      "本政策适用于通过我们的网站（“网站”）收集的所有个人信息和汇总信息，并且必须与我们的使用条款一起阅读。"
+    ],
+    "importantNote": "访问、浏览或使用本网站和/或从我们这里获取任何服务，即表示您承认并同意本政策的条款。如果您不同意，请勿使用或访问本网站。"
+  },
+  "section01": {
+    "label": "第 01 节",
+    "title": "信息收集与使用",
+    "intro": "在使用我们的网站时，我们可能会要求您提供某些可用于联系或识别您的个人身份信息。因此，我们可能会收集关于您的两类信息：",
+    "personalInfo": {
+      "title": "个人信息",
+      "text": "个人信息包括但不限于您的姓名、地址、电话号码、电子邮件地址、出生日期和付款信息，这些信息可能是您通过以下方式自愿提供的：",
+      "items": [
+        "注册并创建会员帐户",
+        "参与网站上的调查和其他促销活动",
+        "您可以通过“联系我们”、“在线聊天”或电话与我们联系。",
+        "在我们的社交媒体平台（Facebook、Instagram、Twitter、LinkedIn）上的互动",
+        "在业务实践中合理必要的情况下，我们还会从第三方等其他来源获取信息。"
+      ]
+    },
+    "aggregateInfo": {
+      "title": "汇总信息",
+      "text": "SetupZoneDubai 的系统会生成汇总信息，这些信息与您个人并无直接关联。每当您与 SetupZoneDubai 的产品和/或服务互动时，我们会自动接收并记录服务器日志中的信息，包括您的 IP 地址、设备识别“cookie”信息、浏览器/设备类型以及您请求的页面或功能。"
+    },
+    "note": "如未能按要求提供必要的个人信息，可能会导致您无法使用某些服务。"
+  },
+  "section02": {
+    "label": "第 02 节",
+    "title": "信息披露",
+    "intro": "如果您已授权，SetupZoneDubai 可能会披露您的个人信息，用于以下用途：",
+    "items": [
+      "为了本隐私政策中所述的目的，我们会向我们在全球的关联公司、被许可方和合资伙伴披露信息。",
+      "它收集的关于您的任何信息都会提供给第三方，以便为您提供您所要求的服务。",
+      "向第三方提供汇总跟踪信息和其他不会识别您个人身份的信息",
+      "当 SetupZoneDubai 真诚地认为法律或法律程序要求其披露您的个人信息时，我们会将您的个人信息透露给第三方。",
+      "我们会在您提供信息时，将您的授权个人信息透露给第三方。"
+    ]
+  },
+  "section03": {
+    "label": "第 03 节",
+    "title": "信息的使用",
+    "intro": "SetupZoneDubai 将使用其收集的个人信息：",
+    "items": [
+      "为了验证您的身份，并在您忘记密码或登录信息时为您提供帮助。",
+      "为了协助提供您所要求的服务",
+      "为了向您提供SetupZoneDubai认为您可能感兴趣的其他网站和服务的更多信息",
+      "用于未来的市场营销、推广和宣传目的，包括直接营销、市场调研和调查",
+      "出于内部目的，包括网站的开发和管理、数据分析以及遵守我们的法律义务。",
+      "为了确保您看到的信息与您和您的兴趣最相关。",
+      "为防止和侦查任何滥用或欺诈活动；以及用于您授权的任何其他用途"
+    ]
+  },
+  "section04": {
+    "label": "第 04 节",
+    "title": "Cookie 和跟踪",
+    "paragraphs": [
+      "本网站使用“Cookies 和跟踪”文件，该文件会传输到您计算机的硬盘驱动器，从而可以识别您的 IP 地址、操作系统、浏览器、地区和其他用户信息等详细信息。"
+    ],
+    "cookieUses": {
+      "title": "SetupZoneDubai可能会使用Cookie来实现以下目的：",
+      "items": [
+        "追踪网站的流量模式（包括进出流量）。",
+        "确保所有广告都展示给最合适的人。",
+        "使您能够访问网站并使用某些服务"
+      ]
+    },
+    "note": "如果您不想接受 Cookie，可以在浏览器中禁用它。但是，禁用 Cookie 后，某些网页可能无法正常运行。",
+    "analyticsText": "SetupZoneDubai 对 Google Analytics 的使用符合 Google 的服务条款和本隐私政策。"
+  },
+  "section05": {
+    "label": "第05节",
+    "title": "内容提供商、广告商和合作伙伴",
+    "text": "本隐私政策不适用于我们可能链接到的其他第三方网站。SetupZoneDubai 对除本网站以外的其他网站的数据收集做法、隐私政策或内容概不负责。如果您想了解相关网站的隐私做法，请直接联系该网站的运营方。"
+  },
+  "section06": {
+    "label": "第06节",
+    "title": "选择加入和退出",
+    "intro": "如果 SetupZoneDubai 拟对您的个人信息进行超出本隐私政策所规定的收集、使用或披露范围的收集、使用或披露，SetupZoneDubai 将为您提供以下选择：",
+    "options": [
+      {
+        "title": "选择退出",
+        "desc": "既不接受某些服务，也不参与某些互动区域"
+      },
+      {
+        "title": "选择加入",
+        "desc": "同意就某些事项（例如新功能通知、Beta 测试或促销活动）与我联系。"
+      }
+    ]
+  },
+  "section07": {
+    "label": "第 07 节",
+    "title": "保护您的个人信息",
+    "paragraphs": [
+      "SetupZoneDubai 非常重视您的个人信息安全。我们遵循行业标准，并采取适当的管理、技术和物理安全措施来保护您的个人信息。"
+    ],
+    "protectionBadges": [
+      {
+        "icon": "Lock",
+        "label": "TLS 1.2 加密"
+      },
+      {
+        "icon": "Server",
+        "label": "安全服务器"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "VeriSign 网关"
+      }
+    ],
+    "importantNote": "没有任何一种互联网传输方式或电子存储方式是绝对安全的。SetupZoneDubai 不保证您的个人信息绝对安全。"
+  },
+  "section08": {
+    "label": "第08节",
+    "title": "向海外披露信息",
+    "text": "我们可能需要将您提供的个人信息传输到您最初提供信息所在国家/地区以外的其他国家/地区。这些国家/地区的数据保护法律可能与您最初提供信息的国家/地区不同。当我们将您的信息传输到其他国家/地区时，SetupZoneDubai 将按照本隐私声明中所述的方式保护该信息。"
+  },
+  "section09": {
+    "label": "第 09 节",
+    "title": "信息的保存、更正和更新",
+    "text": "除某些受限数据字段外，我们允许您随时根据需要多次更正或更改所收集的信息。如果您希望修改受限数据字段或有任何疑问，请联系 SetupZoneDubai 客服。"
+  },
+  "section10": {
+    "label": "第 10 节",
+    "title": "修正案",
+    "text": "SetupZoneDubai保留随时更改本隐私政策的权利，恕不另行通知。您继续使用本网站即表示您接受修改后的隐私政策。"
+  },
+  "section11": {
+    "label": "第 11 节",
+    "title": "验收",
+    "text": "使用 SetupZoneDubai 网站即表示您接受本政策。"
+  },
+  "section12": {
+    "label": "第十二节",
+    "title": "如何联系我们",
+    "intro": "如果您对我们的隐私政策有任何疑问或意见，请联系我们：",
+    "emailLabel": "电子邮件",
+    "email": "setupzonedubai@gmail.com",
+    "emailHref": "mailto:setupzonedubai@gmail.com",
+    "phoneLabel": "电话",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappLabel": "WhatsApp",
+    "whatsappValue": "立即与我们联系",
+    "whatsappMessage": "您好！我有一个关于隐私方面的问题。"
+  },
+  "faqs": {
+    "badge": "快速解答",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "items": [
+      {
+        "q": "在迪拜创业需要多少成本？",
+        "a": "在迪拜设立公司，基本自由区许可证的起价为 9,500 迪拉姆。在阿联酋大陆设立公司的起价为 14,500 迪拉姆。"
+      },
+      {
+        "q": "外国人可以在迪拜拥有100%的公司所有权吗？",
+        "a": "是的，外国人可以在大多数自由区和大陆的许多行业中拥有100%的公司所有权。"
+      },
+      {
+        "q": "迪拜最便宜的自由区是哪个？",
+        "a": "RAK ICC、Ajman FTZ 和 SRTIP 提供最实惠的套餐，起价为 5,900 迪拉姆。"
+      },
+      {
+        "q": "在迪拜注册公司需要多长时间？",
+        "a": "自由贸易区注册需要3-7个工作日，大陆地区注册需要2-4周。"
+      },
+      {
+        "q": "我需要在迪拜寻找当地合作伙伴吗？",
+        "a": "自由区除外。在中国大陆，许多行业现在允许外商100%控股。"
+      }
+    ]
+  }
+}

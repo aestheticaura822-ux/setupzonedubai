@@ -1,0 +1,504 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&q=80",
+  "heroBadge": "Ailenizi Bir Araya Getirin",
+  "heroTitle": "BAE Bağımlı Kişi Oturma Vizesi",
+  "heroTitleHighlight": "Oturma Vizesi",
+  "heroSubtitle": "Eşinizi, çocuklarınızı, ebeveynlerinizi ve ev hizmetlilerinizi Birleşik Arap Emirlikleri'nde sizinle birlikte yaşamaları için sponsor olun. Tam aile sponsorluğu ve eksiksiz oturum izni avantajlarından yararlanın.",
+  "heroChips": [
+    "4 Bağımlı Tür",
+    "2-3 Yıl Geçerlilik Süresi",
+    "Aile Birlikte",
+    "Tam Faydalar"
+  ],
+  "stats": [
+    {
+      "icon": "Users",
+      "value": "4",
+      "label": "Bağımlı Tipler",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "Geçerlilik Süresi",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "Zap",
+      "value": "Hızlı",
+      "label": "İşleme",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Shield",
+      "value": "%100",
+      "label": "Uyumlu",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Nedir?",
+    "title": "Birleşik Arap Emirlikleri'nde Bağımlı Kişi Vizesi Nedir?",
+    "titleHighlight": "BAE'de Bağımlı Kişi Vizesi?",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+    "imageBadgeTitle": "Aile Birlikte",
+    "imageBadgeText": "Tam Zamanlı İkamet",
+    "paragraphs": [
+      "Birleşik Arap Emirlikleri'nde ikamet edenlere verilen Bağımlı Kişi İkamet Vizesi, BAE ikamet vizesi sahiplerinin aile üyelerini (eş, çocuklar, ebeveynler ve ev hizmetlileri) BAE'de kendileriyle birlikte yaşamaları için sponsor olmalarına olanak tanır.",
+      "Eğer aylık minimum 4.000 AED maaş gerektiren bir çalışma veya yatırımcı vizesine sahipseniz, eşinizi ve çocuklarınızı oturma izniniz kapsamında sponsor edebilirsiniz. Ebeveynler için ise ek belgelerle birlikte 20.000 AED ve üzeri gelir şartı aranmaktadır.",
+      "Bağımlı vize sahipleri tam ikamet haklarından yararlanırlar: çalışma izinleri, bankacılık, sağlık hizmetleri, eğitim ve Emirates Kimlik Kartı. Setup Zone Dubai'de, belge işlemlerinden vize onayına kadar tüm aile sponsorluğu sürecini eksiksiz olarak yürütüyoruz."
+    ],
+    "highlights": [
+      "Aile Birliği",
+      "Çalışma İzni Almaya Uygun",
+      "Bankacılık Erişimi",
+      "Sağlık Hizmetlerine Erişim",
+      "Eğitime Erişim",
+      "Emirates Kimliği"
+    ]
+  },
+  "dependentTypesSection": {
+    "badge": "Kimlere sponsor olabilirsiniz?",
+    "title": "Bağımlı Kişi Vize Türleri",
+    "titleHighlight": "Bağımlı Kişi Vizeleri",
+    "subtitle": "4 farklı kategori arasından seçim yapın ve sevdiklerinizi BAE'ye getirin.",
+    "items": [
+      {
+        "id": "spouse",
+        "icon": "Heart",
+        "title": "Eş Vizesi",
+        "tagline": "Koca veya Karı",
+        "description": "Eşinizin Birleşik Arap Emirlikleri'nde sizinle birlikte yaşaması için sponsor olun. Çalışma izni hakkı, bankacılık hizmetlerine erişim ve sağlık hizmetleri de dahil olmak üzere tam ikamet hakları elde edersiniz.",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": [
+          "Koca/Karısı",
+          "Çalışma İzni Almaya Uygun",
+          "Bankacılık Erişimi",
+          "Sağlık Hizmetlerine Erişim"
+        ],
+        "bestFor": "Evli Çiftler"
+      },
+      {
+        "id": "children",
+        "icon": "Baby",
+        "title": "Çocuk Vizesi",
+        "tagline": "Oğullar ve Kızlar",
+        "description": "25 yaşına kadar olan oğullarınızı (öğrenciler) ve her yaştaki kızlarınızı (bekarlar) destekleyin. Birleşik Arap Emirlikleri'ndeki eğitim, sağlık ve yaşam tarzına tam erişim sağlayın.",
+        "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": [
+          "25 yaşına kadar olan oğullar",
+          "Her Yaştan Kız Çocukları",
+          "Okula Erişim",
+          "Sağlık hizmeti"
+        ],
+        "bestFor": "Ebeveynler"
+      },
+      {
+        "id": "parents",
+        "icon": "UsersRound",
+        "title": "Ebeveyn Vizesi",
+        "tagline": "Baba ve Anne",
+        "description": "Ebeveynlerinizin (60 yaş ve üzeri) Birleşik Arap Emirlikleri'nde sizinle birlikte yaşamaları için sponsor olun. Asgari ücret, konut ve sağlık sigortası şartları aranmaktadır.",
+        "image": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": [
+          "60 yaş üstü ebeveynler",
+          "Sağlık sigortası",
+          "Yeterli Konut",
+          "Tam Zamanlı İkamet"
+        ],
+        "bestFor": "Yetişkin Çocuklar"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "Ev Hizmetlisi Vizesi",
+        "tagline": "Ev Hizmetleri",
+        "description": "Ev hizmetlileri, aşçılar, şoförler, çocuk bakıcıları ve bahçıvanlar gibi ev işçilerine sponsor olun. Birleşik Arap Emirlikleri iş kanunlarına tamamen uygundur.",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": [
+          "Ev hizmetçileri",
+          "Aşçılar ve Sürücüler",
+          "Çocuk Bakıcıları ve Bahçıvanlar",
+          "İş Kanununa Uygun"
+        ],
+        "bestFor": "Aileler"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Aile Faydaları",
+    "title": "Bağımlı Kişi Vizesinin Faydaları",
+    "titleHighlight": "Bağımlı Kişi Vizesi",
+    "subtitle": "Birleşik Arap Emirlikleri'nde aileniz için sekiz önemli avantaj.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "Aile Birliği",
+        "description": "Birleşik Arap Emirlikleri'nde sevdiklerinizle birlikte yaşayın — artık uzun mesafeli ilişkilere son.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Eğitime Erişim",
+        "description": "Çocuklar, BAE'nin en iyi okullarına, üniversitelerine ve uluslararası müfredatlı programlarına katılabilirler.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Sağlık Hizmetlerine Erişim",
+        "description": "Birleşik Arap Emirlikleri'ndeki dünya standartlarındaki sağlık tesislerine ve sağlık sigortasına tam erişim.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Bankacılık Erişimi",
+        "description": "Aile bireyleri BAE banka hesapları açabilir ve finansal hizmetlere erişebilirler.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Plane",
+        "title": "Vizesiz Seyahat",
+        "description": "Aile bireyleri, çoklu giriş vizeleri sayesinde BAE'ye giriş ve çıkışlarda kolaylık yaşıyor.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Çalışma İzni Almaya Uygun",
+        "description": "Eşler, bağımlı vizesiyle çalışma izni başvurusunda bulunabilirler.",
+        "color": "from-red-400 to-orange-600"
+      },
+      {
+        "icon": "IdCard",
+        "title": "Emirates Kimliği",
+        "description": "Aile bireyleri, BAE'deki tüm hizmetlere erişim için kendilerine ait Emirates Kimlik Kartı alırlar.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Car",
+        "title": "Ehliyet",
+        "description": "Bakmakla yükümlü olunan kişiler BAE ehliyeti alabilir ve araç sahibi olabilirler.",
+        "color": "from-amber-400 to-yellow-600"
+      }
+    ]
+  },
+  "requirementsSection": {
+    "badge": "Sponsorluk Şartları",
+    "title": "Sponsorluk İçin Gerekenler",
+    "titleHighlight": "Sponsorluk Gerekli",
+    "subtitle": "Ailenize sponsor olmak için dört temel şart.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Minimum Maaş Gereksinimi",
+        "description": "Sponsorun eşi ve çocukları için aylık en az 4.000 AED (veya 3.000 AED + konaklama) maaş kazanması gerekmektedir. Ebeveynler için ise maaş 20.000 AED ve üzeri olmalıdır.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Yeterli Konut",
+        "description": "Sponsor, aile için uygun büyüklükte yeterli konaklama yeri (Ejari veya kira sözleşmesi) sağlamalıdır.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Sağlık sigortası",
+        "description": "Vize başvurusunun bir parçası olarak, bakmakla yükümlü olunan tüm kişiler için geçerli bir BAE sağlık sigortası gereklidir.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Onaylı Belgeler",
+        "description": "Evlilik cüzdanı ve doğum belgesi, BAE Büyükelçiliği ve Dışişleri Bakanlığı tarafından tasdik edilmelidir.",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "6 Adımlı Süreç",
+    "title": "Bakmakla yükümlü olduğunuz kişiye ait vizeyi nasıl alabilirsiniz?",
+    "titleHighlight": "Bağımlı Kişi Vizesi",
+    "subtitle": "Ailenizi BAE'ye getirmek için altı basit adım.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Uygunluk Kontrolü",
+        "description": "Sponsorluk durumunuz, asgari maaşınız, konutunuz ve sigortanız dahil olmak üzere uygunluk şartlarınızı teyit ediyoruz.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "Belge Koleksiyonu",
+        "description": "Evlilik cüzdanı, doğum belgesi, pasaport fotokopileri ve fotoğraflar.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "Başvuru Gönderimi",
+        "description": "Başvuruyu öncelikli ağımız aracılığıyla ICA veya GDRFA'ya iletiyoruz.",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Onay ve Giriş İzni",
+        "description": "Bakmakla yükümlü olduğunuz kişilerin BAE'ye girişine ilişkin onay belgesi düzenlenmiştir.",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stethoscope",
+        "title": "Tıbbi ve Emirates Kimliği",
+        "description": "Aile bireylerinin bakmakla yükümlü oldukları kişiler, Emirates Kimlik Kartı için sağlık testlerini ve biyometrik verilerini tamamlarlar.",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "step": "06",
+        "icon": "Stamp",
+        "title": "Vize Damgalama",
+        "description": "Pasaportlara nihai oturum vizesi damgası vuruldu — aileniz artık resmen BAE'de bulunuyor.",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "İhtiyacınız Olanlar",
+    "title": "Gerekli Belgeler",
+    "titleHighlight": "Belgeler",
+    "subtitle": "Tüm evrak işlemlerini ve onayları sizin adınıza biz hallediyoruz.",
+    "items": [
+      {
+        "icon": "IdCard",
+        "label": "Sponsor Emirates ID",
+        "desc": "Ön ve arka"
+      },
+      {
+        "icon": "ScrollText",
+        "label": "Onaylı Evlilik Belgesi",
+        "desc": "Eş vizesi için"
+      },
+      {
+        "icon": "Baby",
+        "label": "Onaylı Doğum Belgeleri",
+        "desc": "Çocuk vizesi için"
+      },
+      {
+        "icon": "Camera",
+        "label": "Pasaport Fotoğrafları",
+        "desc": "Beyaz arka plan"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Maaş Belgesi",
+        "desc": "İşverenden"
+      },
+      {
+        "icon": "Home",
+        "label": "Ejari / Kira Sözleşmesi",
+        "desc": "Konut kanıtı"
+      },
+      {
+        "icon": "Stethoscope",
+        "label": "Sağlık sigortası",
+        "desc": "Bakmakla yükümlü olunan kişiler için"
+      },
+      {
+        "icon": "FileText",
+        "label": "Sağlık Uygunluk Belgesi",
+        "desc": "İkamet için"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "Güvenilir Aile Vizesi Ortağınız",
+    "titleHighlight": "Aile Vizesi Ortağı",
+    "subtitle": "Ailelerin bize güvenmesinin sekiz nedeni.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Doğrudan Yetki Erişimi",
+        "desc": "Öncelikli ICA ve GDRFA ağı"
+      },
+      {
+        "icon": "Zap",
+        "label": "Hızlı İşleme",
+        "desc": "Hızlandırılmış onaylar"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Alanında Uzman Kişi",
+        "desc": "Kişisel aile vizesi uzmanı"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Şeffaf Fiyatlandırma",
+        "desc": "Gizli ücret yok"
+      },
+      {
+        "icon": "Globe",
+        "label": "Çok Dilli Ekip",
+        "desc": "İngilizce, Arapça, Hintçe, Urduca"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Yenileme Desteği",
+        "desc": "Devam eden vize yönetimi"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "Aile Bütünleşmesi",
+        "desc": "Ailenin tam desteği"
+      },
+      {
+        "icon": "Award",
+        "label": "Kanıtlanmış Başarı Geçmişi",
+        "desc": "Binlerce onay"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "İşletme Büyüme Beklentisi",
+    "title": "Binlerce Aile Tarafından Güvenilen",
+    "titleHighlight": "Binlerce Aile",
+    "subtitle": "Ailenizin ikametgahı, uzman ellerde.",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "5.000+",
+        "label": "Aile Vizeleri",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "180+",
+        "label": "Milliyetler",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Önde gelen",
+        "label": "Aile Uzmanı",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Hızlı",
+        "label": "İşleme",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "%100",
+        "label": "Uyumlu",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Tercih edilen",
+        "label": "Aile Ortağı",
+        "color": "from-red-400 to-orange-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Birleşik Arap Emirlikleri'nde çocuk vizesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "Aile vizesi uzmanlarımızdan ücretsiz danışmanlık hizmeti alın.",
+      "whatsappMessage": "Merhaba! Birleşik Arap Emirlikleri'nde ikamet eden kişilere yönelik vize hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "Birleşik Arap Emirlikleri'nde bakmakla yükümlü olduğu kişilere kimler sponsor olabilir?",
+        "a": "Geçerli bir çalışma veya yatırımcı vizesine sahip olan herhangi bir BAE oturum vizesi sahibi, bakmakla yükümlü olduğu kişilere sponsor olabilir. Gereksinimler arasında minimum maaş (4.000 AED ve üzeri veya 3.000 AED + konaklama), yeterli konut ve sağlık sigortası bulunmaktadır."
+      },
+      {
+        "q": "Bir aileyi sponsor edebilmek için asgari maaş ne kadar?",
+        "a": "Eş ve çocuklar için: Aylık 4.000 AED (veya 3.000 AED + konaklama). Anne ve babalar için: Genellikle aylık 20.000 AED maaş, konaklama ve sigorta dahil."
+      },
+      {
+        "q": "Eşim, bakmakla yükümlü olunan kişiye ait vize ile Birleşik Arap Emirlikleri'nde çalışabilir mi?",
+        "a": "Evet. Eşiniz, bakmakla yükümlü olunan kişiye ait vizeyi aldıktan sonra çalışma izni için başvurabilir. Birçok işveren bu değişikliği desteklemektedir."
+      },
+      {
+        "q": "Bağımlı kişi vizesi ne kadar süreyle geçerlidir?",
+        "a": "Bağımlı vizesi genellikle sponsorun vizesinin geçerlilik süresiyle aynı olacak şekilde 2-3 yıl geçerlidir. Sponsorun vizesiyle birlikte yenilenmesi gerekir."
+      },
+      {
+        "q": "Birleşik Arap Emirlikleri'nde yaşayan anne babama sponsor olabilir miyim?",
+        "a": "Evet. Minimum maaş şartını (aylık 20.000 AED ve üzeri) karşılamanız, yeterli konut sağlamanız ve geçerli sağlık sigortanız olması koşuluyla, 60 yaş ve üzeri ebeveynlerinize sponsor olabilirsiniz."
+      },
+      {
+        "q": "Hangi belgelerin tasdik edilmesi gerekiyor?",
+        "a": "Evlilik cüzdanı (eş için), doğum belgeleri (çocuklar için) ve eğitim belgeleri, kendi ülkenizdeki BAE Büyükelçiliği ve BAE Dışişleri Bakanlığı tarafından tasdik edilmelidir."
+      },
+      {
+        "q": "Ev hizmetlisi çalışanımın sponsorluğunu üstlenebilir miyim?",
+        "a": "Evet. Ev hizmetlisi vizesi kategorisi altında ev işçilerine, aşçılara, şoförlere, çocuk bakıcılarına ve bahçıvanlara sponsor olabilirsiniz."
+      },
+      {
+        "q": "Bakmakla yükümlü olunan kişi vizesi süreci ne kadar sürüyor?",
+        "a": "Belge hazırlığına ve işlem sürelerine bağlı olarak genellikle 2-4 hafta sürer. Öncelikli devlet ağımız aracılığıyla süreci hızlandırıyoruz."
+      },
+      {
+        "q": "Çocuklar, bakmakla yükümlü olunan kişiye ait vize ile Birleşik Arap Emirlikleri'nde eğitim görebilirler mi?",
+        "a": "Evet. Bakmakla yükümlü olunan vizeye sahip çocuklar, BAE okullarına ve üniversitelerine kayıt olabilirler. Bunun için Emirates Kimlik Kartlarına ve okula özel belgelere ihtiyaç duyarlar."
+      },
+      {
+        "q": "Bakmakla yükümlü olduğunuz kişilere ait vize hizmetleri için neden Setup Zone Dubai'yi tercih etmelisiniz?",
+        "a": "Uygunluk değerlendirmesi, belge hazırlama, başvuru dosyalama, sağlık kontrolleri, Emirates Kimlik Kartı ve vize damgalama dahil olmak üzere uçtan uca destek sağlıyoruz. Kanıtlanmış başarı geçmişimiz ve doğrudan yetkili erişimimiz sayesinde hızlı ve mevzuata uygun işlem süreçleri garanti ediyoruz."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "Bağımlı Vizenizle uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "BAE Oturma Vizesi",
+        "description": "2-10 yıllık uzmanlık eğitimi seçenekleri.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "golden-visa-services",
+        "title": "Altın Vize Hizmetleri",
+        "description": "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "Dubai'de Şirket Kurulumu",
+        "description": "Serbest Bölge, Anakara ve Açık Deniz.",
+        "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Ailenizi Bir Araya Getirin",
+    "title": "Birleşik Arap Emirlikleri'nde ailenize sponsor olmaya hazır mısınız?",
+    "titleHighlight": "Birleşik Arap Emirlikleri'nde aileniz mi var?",
+    "subtitle": "Bugün bizimle iletişime geçin ve uzmanlarımızın size aile sponsorluğu sürecinin tamamında (belgelerden vize onayına kadar) rehberlik etmesine izin verin.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "Hızlı İşleme",
+      "Tam Destek"
+    ],
+    "whatsappMessage": "Merhaba! Birleşik Arap Emirlikleri'nde bakmakla yükümlü olunan kişi vizesi için ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! Birleşik Arap Emirlikleri'nde çocuk vizesi hakkında görüşmek istiyorum."
+  }
+}

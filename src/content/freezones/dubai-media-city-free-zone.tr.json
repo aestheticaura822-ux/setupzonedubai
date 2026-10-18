@@ -1,0 +1,511 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1600&q=80",
+  "heroBadge": "Medya Basitleştirildi",
+  "heroTitle": "Dubai Medya Şehri Serbest Bölgesi",
+  "heroTitleHighlight": "Serbest Bölge",
+  "heroSubtitle": "Yaratıcı işinizi Dubai'nin önde gelen medya merkezinde başlatın. CNN, Sony ve Reuters dahil olmak üzere 2.000'den fazla medya şirketine ev sahipliği yapan bu merkez, medya, iletişim ve dijital içerik için nihai ekosistemdir.",
+  "heroChips": [
+    "%100 Sahiplik",
+    "%0 Vergi",
+    "3-7 Gün Kurulum",
+    "Yaratıcı Topluluk"
+  ],
+  "heroCard": {
+    "headerTitle": "DMC Stüdyosu",
+    "headerStatus": "Canlı",
+    "icon": "Camera",
+    "zoneLabel": "Alan",
+    "zoneValue": "Dubai, Birleşik Arap Emirlikleri",
+    "statusBadge": "Aktif",
+    "setupTimeLabel": "Şirketler",
+    "setupTimeValue": "2K+",
+    "taxLabel": "Etkinlikler",
+    "taxValue": "100+",
+    "footerText": "Şimdi Başlat"
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "2.000+",
+      "label": "Medya Şirketleri",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Yabancı Mülkiyet",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "%0",
+      "label": "Vergi Oranı",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Kurulum Günleri",
+      "color": "from-pink-400 to-rose-600"
+    }
+  ],
+  "whyDmcSection": {
+    "badge": "Neden DMC'yi Seçmelisiniz?",
+    "title": "Büyümeyi Destekleyen Bir Medya Ekosistemi",
+    "titleHighlight": "Ekosistem",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1200&q=80",
+    "imageBadgeTitle": "Medya Ekosistemi",
+    "imageBadgeText": "Markanızı Tanıtın",
+    "paragraphs": [
+      "Dubai Medya Şehri Serbest Bölgesi, sadece bir ticaret lisansı sunmakla kalmıyor, aynı zamanda büyümeyi, iş birliğini ve yaratıcılığı teşvik eden bir medya ekosistemi oluşturuyor. İster bir halkla ilişkiler ajansı kuruyor olun, ister bir podcast stüdyosu açıyor olun veya bir içerik üretim şirketi kuruyor olun, DMC mükemmel bir seçimdir.",
+      "Başlıca avantajlar arasında %100 yabancı mülkiyeti, sıfır vergi, birinci sınıf ofisler ve entegre destek hizmetlerine sahip son teknoloji altyapı yer almaktadır. Etkinlikler, atölye çalışmaları ve ağ oluşturma programları aracılığıyla bağlantılar kurma fırsatları sunan gelişen bir işletme topluluğunun parçası olacaksınız.",
+      "Bölgedeki medya hareketi büyümeye devam ederken, şirketiniz her zaman olayların merkezinde yer alacak. Lisanslamadan marka oluşturmaya kadar, kurulumu basit ve sorunsuz hale getiriyoruz."
+    ],
+    "highlights": [
+      "%100 Yabancı Mülkiyeti",
+      "Sıfır Vergi Ortamı",
+      "Üstün Altyapı",
+      "Yaratıcı Topluluğa Erişim",
+      "Ağ Oluşturma Etkinlikleri",
+      "Büyüme Fırsatları"
+    ]
+  },
+  "licensesSection": {
+    "badge": "El Sanatları Ürünlerinizi Lisanslayın",
+    "title": "Dubai Medya Şehri Lisans Türleri",
+    "titleHighlight": "Lisans Türleri",
+    "subtitle": "DMC, medya işletmelerinin tek tip olmadığını anlıyor. İş modelinize uygun çeşitli lisans türleri arasından seçim yapın.",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "Ticari Lisans",
+        "description": "Medya ile ilgili ürünlerin satış veya dağıtımında faaliyet gösteren kuruluşlar için.",
+        "code": "CML",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Serbest Çalışan İzni",
+        "description": "Bireysel yaratıcılar için — yazarlar, tasarımcılar, video yapımcıları ve fotoğrafçılar.",
+        "code": "FRL",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "İşletme Bilgi Hizmetleri",
+        "description": "Pazar araştırması, raporlama ve veri analizi yapan işletmeler için.",
+        "code": "BIS",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Danışmanlık ve Perakende Lisansı",
+        "description": "Halkla ilişkiler, reklam, marka danışmanlığı ve medya perakendeciliği için.",
+        "code": "CRL",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Calendar",
+        "title": "Etkinlik ve Eğlence Lisansı",
+        "description": "Medya etkinlikleri, konserler, canlı gösteriler ve eğlence yapımları için.",
+        "code": "EVL",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Yeni Medya Destek Hizmetleri",
+        "description": "Medya arka uç teknolojisi için — bulut, otomasyon ve dijital altyapı.",
+        "code": "NMS",
+        "color": "from-violet-500 to-purple-700"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "Kimler İçin",
+    "title": "Dubai Medya Şehri'ni Kimler Düşünmeli?",
+    "titleHighlight": "Dubai Medya Şehri?",
+    "subtitle": "Yaratıcı profesyoneller ve her ölçekteki medya işletmeleri için mükemmel bir ekosistem.",
+    "items": [
+      {
+        "icon": "Tv",
+        "label": "TV ve Film Prodüksiyonu"
+      },
+      {
+        "icon": "Mic",
+        "label": "Podcast ve Ses Stüdyoları"
+      },
+      {
+        "icon": "Camera",
+        "label": "Fotoğrafçılık ve Video Çekimi"
+      },
+      {
+        "icon": "Palette",
+        "label": "Tasarım ve Yaratıcı Ajanslar"
+      },
+      {
+        "icon": "Megaphone",
+        "label": "Halkla İlişkiler ve Reklam Firmaları"
+      },
+      {
+        "icon": "Monitor",
+        "label": "Dijital İçerik Oluşturucular"
+      },
+      {
+        "icon": "Music",
+        "label": "Müzik ve Eğlence"
+      },
+      {
+        "icon": "Newspaper",
+        "label": "Yayıncılık ve Gazetecilik"
+      }
+    ]
+  },
+  "setupStepsSection": {
+    "badge": "Konseptten Şirkete",
+    "title": "DMC Şirket Kuruluş Süreci",
+    "titleHighlight": "İşlem",
+    "subtitle": "Setup Zone Dubai ile çalışmak basit ve sorunsuz bir süreçtir.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Aktivite ve Lisans Seçin",
+        "description": "İşletme faaliyetinizi belirleyin ve medya işletmeniz için uygun lisans türünü seçin.",
+        "icon": "Target"
+      },
+      {
+        "step": "02",
+        "title": "Ticari Ad ve Uygulama",
+        "description": "Ticari adınızı tescil ettiriyoruz ve başvuruyu inceleme için DMC yetkilisine iletiyoruz.",
+        "icon": "FileText"
+      },
+      {
+        "step": "03",
+        "title": "İlk Onay ve Kiralama",
+        "description": "Onay alındıktan sonra, ofis kiralama sözleşmenizi güvence altına alıyoruz ve tüm yasal belgeleri tamamlıyoruz.",
+        "icon": "CheckCircle2"
+      },
+      {
+        "step": "04",
+        "title": "Lisans Verilmesi ve Kurulumu",
+        "description": "Ücret ödemesinin ardından lisansınız verilir. Daha sonra vize işlemleri, banka hesapları ve operasyonel kurulum başlatılır.",
+        "icon": "Rocket"
+      }
+    ]
+  },
+  "officesSection": {
+    "badge": "Ofis Alanları",
+    "title": "Çalışın. İşbirliği yapın. İlham verin.",
+    "titleHighlight": "İlham vermek.",
+    "subtitle": "Markanızın değerini artırmak ve verimliliği yükseltmek için tasarlanmış, yüksek değerli alanlar.",
+    "items": [
+      {
+        "icon": "Users",
+        "title": "Ortak çalışma masaları",
+        "description": "Ağ kurmak ve iş birliği yapmak isteyen serbest çalışanlar ve küçük gruplar için.",
+        "color": "from-violet-400 to-purple-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Building2",
+        "title": "Yöneticiye Özel Mobilyalı Ofisler",
+        "description": "Marka ajansları, medya şirketleri ve prodüksiyon tesisleri için.",
+        "color": "from-purple-400 to-fuchsia-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Video",
+        "title": "Stüdyolar ve Ses Stüdyoları",
+        "description": "Podcast, YouTube, reklam veya televizyon programları için tam donanımlı alanlar. Yüksek tavanlar, akustik yalıtım ve profesyonel aydınlatma sistemleri mevcuttur.",
+        "color": "from-violet-500 via-purple-600 to-fuchsia-700",
+        "size": "büyük"
+      },
+      {
+        "icon": "Store",
+        "title": "Perakende Alanları",
+        "description": "Medya ürünleri, kitaplar, teknoloji ve yaratıcı ürünlerin satışı için.",
+        "color": "from-pink-400 to-rose-600",
+        "size": "küçük"
+      },
+      {
+        "icon": "Presentation",
+        "title": "Etkinlik Mekanları",
+        "description": "Lansmanlar, sergiler, medya zirveleri ve ağ oluşturma etkinlikleri için.",
+        "color": "from-rose-500 via-pink-600 to-fuchsia-700",
+        "size": "küçük"
+      }
+    ]
+  },
+  "legalEntitiesSection": {
+    "badge": "Hukuki Yapılar",
+    "title": "DMC'deki Yasal Varlık Türleri",
+    "titleHighlight": "DMC'deki Türler",
+    "subtitle": "Uygun yasal yapıyı oluşturmak önemlidir. İşletmeniz için doğru temeli seçin.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Serbest Bölge LLC (FZ-LLC)",
+        "description": "Bir veya daha fazla hissedara sahip en köklü yasal kuruluş. Tam yabancı mülkiyet ve sınırlı sorumluluk koruması.",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Yabancı Şirketin Şubesi",
+        "description": "Birleşik Arap Emirlikleri'nde varlık göstermek isteyen ancak küresel sahipliğini ve marka kimliğini korumak isteyen firmalar için.",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "Serbest Çalışan İzni",
+        "description": "Hukuki tanınma, faturalama imkanı ve vize uygunluğu arayan bağımsız profesyoneller için.",
+        "color": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "activitiesSection": {
+    "badge": "Genişletme için tasarlandı",
+    "title": "DMC'de İzin Verilen Ticari Faaliyetler",
+    "titleHighlight": "DMC'de",
+    "subtitle": "Medya, iletişim ve yaratıcı sektörleri desteklemek için onaylanmış 100'den fazla ticari faaliyet.",
+    "items": [
+      {
+        "icon": "Film",
+        "title": "TV ve Film Yapımı",
+        "description": "Yapım şirketleri, film yapımcıları ve belgesel yapımcıları için idealdir."
+      },
+      {
+        "icon": "Headphones",
+        "title": "Ses ve Podcast Yayıncılığı",
+        "description": "Ses mühendisleri, podcast yapımcıları ve seslendirme sanatçıları için."
+      },
+      {
+        "icon": "Share2",
+        "title": "Sosyal Medya Yönetimi",
+        "description": "Dijital pazarlamacılar, içerik planlayıcıları ve influencer yöneticileri için uygundur."
+      },
+      {
+        "icon": "Megaphone",
+        "title": "Reklam ve Markalaşma",
+        "description": "Reklam ajansları, tasarım stüdyoları ve kampanya uzmanları."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Dijital ve Etkileyici Pazarlama",
+        "description": "Marka danışmanları, influencer ajansları ve dijital içerik üreticileri için."
+      },
+      {
+        "icon": "Newspaper",
+        "title": "Halkla İlişkiler ve Medya Danışmanlığı",
+        "description": "Halkla ilişkiler firmaları, basın ofisleri ve stratejik iletişimciler için mükemmel."
+      },
+      {
+        "icon": "Calendar",
+        "title": "Etkinlik Yönetimi ve Medya Kapsamı",
+        "description": "Etkinlik planlayıcıları ve medya prodüksiyon şirketleri için."
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Yayıncılık, Editörlük ve Çeviri",
+        "description": "Yazarlar, editörler, yayıncılar ve yerelleştirme danışmanları."
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "Yaratıcı Vize Desteği",
+    "title": "Dubai Medya Şehri Vize Hizmetleri",
+    "titleHighlight": "Vize Hizmetleri",
+    "subtitle": "Şirketinizi kaydettirdikten sonra, sizin, ortaklarınızın ve çalışanlarınızın vizeleri de dahil olmak üzere her şeyle biz ilgileniyoruz.",
+    "items": [
+      {
+        "icon": "CreditCard",
+        "label": "Kuruluş Kartı Verilmesi"
+      },
+      {
+        "icon": "FileText",
+        "label": "Göçmenlik Dosyası Açma"
+      },
+      {
+        "icon": "Heart",
+        "label": "BAE Tıbbi Testi"
+      },
+      {
+        "icon": "Fingerprint",
+        "label": "Emirates Kimlik Başvurusu"
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "Oturma İzni Vizesi Damgalama"
+      },
+      {
+        "icon": "Calendar",
+        "label": "Yenileme Hatırlatıcıları"
+      },
+      {
+        "icon": "Users",
+        "label": "İşçi Onayları"
+      },
+      {
+        "icon": "Globe",
+        "label": "Aile Sponsorluğu"
+      }
+    ],
+    "footerText": "Ayrıca serbest çalışan vizeleri, bakmakla yükümlü olunan kişi vizeleri ve aile sponsorluğu konularında da yardımcı oluyoruz; vize ve göçmenlik mevzuatına ilişkin eksiksiz destek sağlıyoruz."
+  },
+  "whyPartnerSection": {
+    "badge": "Güvenilir Ortağınız",
+    "title": "Setup Zone Dubai Neden Güvenilir DMC Ortağınız?",
+    "titleHighlight": "Güvenilir DMC Ortağı",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=1200&q=80",
+    "imageBadgeTitle": "Güvenilir Ortak",
+    "imageBadgeText": "Uçtan Uca Destek",
+    "paragraphs": [
+      "DMC altyapıyı sağlarken, Setup Zone Dubai stratejiyi sunar. Biz sadece evrak işleriyle uğraşmaktan öte, kapsamlı iş desteğiyle uzun vadeli başarınızı mümkün kılıyoruz.",
+      "Ekibimiz şirket kuruluşundan dijital operasyonlara kadar her şeyi üstleniyor; Dubai'nin medya başkentinde büyüyen ve gelişen işletmeler kuruyoruz."
+    ],
+    "features": [
+      "Marka Oluşturma",
+      "SEO Web Sitesi Geliştirme",
+      "CRM ve CMS Entegrasyonu",
+      "KDV ve Muhasebe Desteği",
+      "İşletme Danışmanlığı",
+      "Ölçeklenebilir Hizmet Modelleri"
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "İşletme Büyüme Beklentisi",
+    "title": "Dubai'nin Önde Gelen Medya Merkezi",
+    "titleHighlight": "Medya Merkezi",
+    "subtitle": "Medya, iletişim ve yaratıcı işletmeler için hızla büyüyen bir ekosistem.",
+    "items": [
+      {
+        "icon": "Building2",
+        "value": "2.000+",
+        "label": "Medya Şirketleri",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Globe",
+        "value": "Küresel",
+        "label": "Medya Markaları",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "value": "Önde gelen",
+        "label": "Medya Merkezi",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Büyüyor",
+        "label": "Yaratıcı Ekonomi",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "BarChart3",
+        "value": "Önemli",
+        "label": "Bölgesel Etki",
+        "color": "from-rose-400 to-red-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Tercih edilen",
+        "label": "Medya Kurulumu İçin",
+        "color": "from-violet-500 to-purple-700"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "Dubai Medya Şehri Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "sidebarCard": {
+      "title": "Hâlâ sorularınız mı var?",
+      "text": "DMC uzmanlarımızla ücretsiz danışmanlık hizmeti alın.",
+      "whatsappMessage": "Merhaba! Dubai Medya Şehri Serbest Bölgesi hakkında bir sorum var."
+    },
+    "items": [
+      {
+        "q": "Dubai Medya Şehri (DMC) nedir ve yaratıcı işletmeler için neden harika bir yerdir?",
+        "a": "Dubai Medya Şehri Serbest Bölgesi, TECOM Grubu tarafından medya, iletişim ve dijital şirketlere hizmet vermek amacıyla kurulan stratejik bir serbest bölgedir. CNN, Sony ve Reuters dahil olmak üzere 2.000'den fazla şirkete ev sahipliği yapan DMC, yaratıcı girişimler ve serbest çalışanlar için %100 sahiplik, vergisiz ortam ve birinci sınıf altyapı ile medya işletmelerini büyütmek için doğal bir ortam sunmaktadır."
+      },
+      {
+        "q": "Dubai Medya Şehri Serbest Bölgesi'nde hangi lisans türleri mevcuttur?",
+        "a": "DMC, farklı medya işletme modellerine uygun olarak tasarlanmış Ticari Lisans, Serbest Çalışan İzni, İşletme Bilgi Hizmetleri Lisansı, Danışmanlık ve Perakende Lisansı, Etkinlik ve Eğlence Lisansı ve Yeni Medya Destek Hizmetleri Lisansı sunmaktadır."
+      },
+      {
+        "q": "Serbest çalışanlar ve bağımsız profesyoneller DMC'ye kayıt olabilir mi?",
+        "a": "Kesinlikle. DMC, yasal tanınma ve faturalama olanağı isteyen bireysel yaratıcılar (yazarlar, tasarımcılar, video yapımcıları, fotoğrafçılar ve içerik oluşturucular) için özel olarak tasarlanmış Serbest Çalışan İzinleri sunmaktadır."
+      },
+      {
+        "q": "DMC'de hangi ticari faaliyetleri gerçekleştirebilirim?",
+        "a": "DMC, televizyon ve film yapımı, ses ve podcast yayıncılığı, sosyal medya yönetimi, reklam ve marka oluşturma, dijital pazarlama, halkla ilişkiler ve medya danışmanlığı, etkinlik yönetimi ve yayıncılık dahil olmak üzere 100'den fazla onaylı iş faaliyetine ev sahipliği yapmaktadır."
+      },
+      {
+        "q": "Dubai Medya Şehri Serbest Bölgesi'nde yerleşmek ne kadar sürer?",
+        "a": "Lisans türüne, belgelere ve ofis alanı seçimine bağlı olarak genellikle 3-7 iş günü sürer. Ekibimiz, sorunsuz ve hızlı bir süreç sağlamak için her şeyi halleder."
+      },
+      {
+        "q": "DMC şirketleri için hangi yasal kuruluş türleri mevcuttur?",
+        "a": "Başlıca yasal yapılar Serbest Bölge Limited Şirketi (FZ-LLC), Yabancı Şirket Şubesi ve Serbest Çalışan İzni'dir; bunların her biri farklı iş ihtiyaçları için farklı avantajlar sunmaktadır."
+      },
+      {
+        "q": "DMC, yeni kurulan şirketler için ofis alanı çözümleri sunuyor mu?",
+        "a": "Evet. DMC, ortak çalışma masaları, lüks mobilyalı yönetici ofisleri, stüdyolar ve ses sahneleri, perakende alanları ve etkinlik mekanları sunarak her ölçekteki işletme için esnek seçenekler sunmaktadır."
+      },
+      {
+        "q": "DMC'de iş kurduktan sonra vize başvurusunda bulunabilir miyim?",
+        "a": "Evet. Kuruluş kartı düzenleme, göçmenlik dosyası açma, sağlık testleri, Emirates Kimlik Kartı, oturum vizesi damgalama ve aile sponsorluğu dahil olmak üzere uçtan uca eksiksiz destek sağlıyoruz."
+      },
+      {
+        "q": "Dubai Medya Şehri Serbest Bölgesi'nde kurulum maliyetleri nelerdir?",
+        "a": "Ücretler, lisans türüne, ofis alanına ve vize gereksinimlerine göre değişiklik gösterir. Kişiselleştirilmiş bir fiyat teklifi için bizimle iletişime geçin; bütçenize ve ihtiyaçlarınıza uygun rekabetçi paketler sunuyoruz."
+      },
+      {
+        "q": "Setup Zone Dubai ile kurulumu tamamladıktan sonra herhangi bir destek hizmeti alıyor muyum?",
+        "a": "Evet. Marka oluşturma, SEO uyumlu web sitesi geliştirme, CRM ve CMS entegrasyonu, KDV ve muhasebe desteği ve büyüme için iş danışmanlığı dahil olmak üzere sürekli destek sağlıyoruz."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "İlgili Hizmetler",
+    "titleHighlight": "Hizmetler",
+    "subtitle": "DMC kurulumunuzla uyumlu hizmetler.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Banka Hesabı Açma",
+        "description": "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE'de ticari banka hesabı açın.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Altın Vize",
+        "description": "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      },
+      {
+        "slug": "compliance",
+        "title": "Uyumluluk Hizmetleri",
+        "description": "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-fuchsia-400 to-pink-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Bugün Başlatın",
+    "title": "Dubai Media City'de Lansmana Hazır mısınız?",
+    "titleHighlight": "Dubai Medya Şehri?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisanslamadan lansmana kadar tüm kurulum sürecinde size rehberlik edeceğiz.",
+    "chips": [
+      "Ücretsiz Danışmanlık",
+      "3-7 Gün Kurulum",
+      "Yaratıcı Topluluk"
+    ],
+    "whatsappMessage": "Merhaba! Dubai Media City kurulumu için ücretsiz danışmanlık almak istiyorum.",
+    "whatsappCardMessage": "Merhaba! Dubai Medya Şehri'nin yapılanması hakkında görüşmek istiyorum."
+  }
+}

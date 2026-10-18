@@ -1,0 +1,222 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1600&q=80",
+  "heroBadge": "Bring Your Family Together",
+  "heroTitle": "UAE Dependent Residence Visa",
+  "heroTitleHighlight": "Residence Visa",
+  "heroSubtitle": "Sponsor your spouse, children, parents, and domestic staff to live with you in the UAE. Complete family sponsorship with full residency benefits.",
+  "heroChips": ["4 Dependent Types", "2-3 Years Valid", "Family Together", "Full Benefits"],
+
+  "stats": [
+    { "icon": "Users", "value": "4", "label": "Dependent Types", "color": "from-violet-400 to-purple-600" },
+    { "icon": "Clock", "value": "2-3", "label": "Years Validity", "color": "from-purple-400 to-fuchsia-600" },
+    { "icon": "Zap", "value": "Fast", "label": "Processing", "color": "from-fuchsia-400 to-pink-600" },
+    { "icon": "Shield", "value": "100%", "label": "Compliant", "color": "from-pink-400 to-rose-600" }
+  ],
+
+  "whatIsSection": {
+    "badge": "What Is It?",
+    "title": "What Is a UAE Dependent Visa?",
+    "titleHighlight": "UAE Dependent Visa?",
+    "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200&q=80",
+    "imageBadgeTitle": "Family Together",
+    "imageBadgeText": "Full Residency",
+    "paragraphs": [
+      "A UAE Dependent Residence Visa allows UAE residence visa holders to sponsor their family members — spouse, children, parents, and domestic workers — to live with them in the UAE.",
+      "If you hold an employment or investor visa with a minimum salary of AED 4,000, you can sponsor your spouse and children under your residency. For parents, the requirement is AED 20,000+ with additional documents.",
+      "Dependent visa holders enjoy full residency rights — work permits, banking, healthcare, education, and Emirates ID. At Setup Zone Dubai, we handle the complete family sponsorship process from documentation to visa stamping."
+    ],
+    "highlights": ["Family Togetherness", "Work Permit Eligible", "Banking Access", "Healthcare Access", "Education Access", "Emirates ID"]
+  },
+
+  "dependentTypesSection": {
+    "badge": "Who Can You Sponsor?",
+    "title": "Types of Dependent Visas",
+    "titleHighlight": "Dependent Visas",
+    "subtitle": "Swipe through 4 dependent categories — bring your loved ones to the UAE.",
+    "items": [
+      {
+        "id": "spouse",
+        "icon": "Heart",
+        "title": "Spouse Visa",
+        "tagline": "Husband or Wife",
+        "description": "Sponsor your husband or wife to live with you in the UAE. Full residency rights including work permit eligibility, banking access, and healthcare.",
+        "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+        "color": "from-violet-500 to-purple-700",
+        "features": ["Husband/Wife", "Work Permit Eligible", "Banking Access", "Healthcare Access"],
+        "bestFor": "Married Couples"
+      },
+      {
+        "id": "children",
+        "icon": "Baby",
+        "title": "Children Visa",
+        "tagline": "Sons & Daughters",
+        "description": "Sponsor your sons up to 25 years old (students) and daughters of any age (unmarried). Full access to UAE education, healthcare, and lifestyle.",
+        "image": "https://images.unsplash.com/photo-1476703993599-0035a21b17a9?w=1200&q=80",
+        "color": "from-purple-500 to-fuchsia-700",
+        "features": ["Sons up to 25", "Daughters Any Age", "School Access", "Healthcare"],
+        "bestFor": "Parents"
+      },
+      {
+        "id": "parents",
+        "icon": "UsersRound",
+        "title": "Parents Visa",
+        "tagline": "Father & Mother",
+        "description": "Sponsor your parents (60+ years) to live with you in the UAE. Requires minimum salary, housing, and health insurance.",
+        "image": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1200&q=80",
+        "color": "from-fuchsia-500 to-pink-700",
+        "features": ["Parents 60+", "Health Insurance", "Adequate Housing", "Full Residency"],
+        "bestFor": "Adult Children"
+      },
+      {
+        "id": "domestic",
+        "icon": "Home",
+        "title": "Domestic Worker Visa",
+        "tagline": "Household Staff",
+        "description": "Sponsor domestic workers like housemaids, cooks, drivers, nannies, and gardeners. Fully compliant with UAE labor laws.",
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80",
+        "color": "from-pink-500 to-rose-700",
+        "features": ["Housemaids", "Cooks & Drivers", "Nannies & Gardeners", "Labor Law Compliant"],
+        "bestFor": "Families"
+      }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Family Benefits",
+    "title": "Benefits of Dependent Visa",
+    "titleHighlight": "Dependent Visa",
+    "subtitle": "Eight powerful advantages for your family in the UAE.",
+    "items": [
+      { "icon": "Users", "title": "Family Togetherness", "description": "Live together with your loved ones in the UAE — no more long-distance relationships.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "GraduationCap", "title": "Education Access", "description": "Children can attend top UAE schools, universities, and international curriculum programs.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Stethoscope", "title": "Healthcare Access", "description": "Full access to world-class UAE healthcare facilities and medical insurance.", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "Bank", "title": "Banking Access", "description": "Dependents can open UAE bank accounts and access financial services.", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Plane", "title": "Visa-Free Travel", "description": "Dependents enjoy easy travel in and out of the UAE with multiple-entry visas.", "color": "from-rose-400 to-red-600" },
+      { "icon": "Briefcase", "title": "Work Permit Eligible", "description": "Spouses can apply for work permits with their dependent visa.", "color": "from-red-400 to-orange-600" },
+      { "icon": "IdCard", "title": "Emirates ID", "description": "Dependents get their own Emirates ID for full UAE services access.", "color": "from-orange-400 to-amber-600" },
+      { "icon": "Car", "title": "Driver's License", "description": "Dependents can obtain a UAE driving license and own vehicles.", "color": "from-amber-400 to-yellow-600" }
+    ]
+  },
+
+  "requirementsSection": {
+    "badge": "Sponsorship Requirements",
+    "title": "What You Need to Sponsor",
+    "titleHighlight": "Need to Sponsor",
+    "subtitle": "Four key requirements to sponsor your family.",
+    "items": [
+      { "icon": "DollarSign", "title": "Minimum Salary Requirement", "description": "Sponsor must earn a minimum monthly salary of AED 4,000 (or AED 3,000 + accommodation) for spouse and children. For parents, salary should be AED 20,000+.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Home", "title": "Adequate Housing", "description": "Sponsor must provide adequate accommodation (Ejari or tenancy contract) sized appropriately for the family.", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "Stethoscope", "title": "Health Insurance", "description": "Valid UAE health insurance is required for all dependents as part of the visa application.", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "ScrollText", "title": "Attested Documents", "description": "Marriage certificate and birth certificates must be attested by UAE Embassy and MOFA.", "color": "from-pink-400 to-rose-600" }
+    ]
+  },
+
+  "processSection": {
+    "badge": "6-Step Process",
+    "title": "How to Get Your Dependent Visa",
+    "titleHighlight": "Dependent Visa",
+    "subtitle": "Six simple steps to bring your family to the UAE.",
+    "steps": [
+      { "step": "01", "icon": "Target", "title": "Eligibility Check", "description": "We confirm your eligibility — sponsor status, minimum salary, housing, and insurance.", "color": "from-violet-400 to-purple-600" },
+      { "step": "02", "icon": "FileCheck", "title": "Document Collection", "description": "Attested marriage certificates, birth certificates, passport copies, and photos.", "color": "from-purple-400 to-fuchsia-600" },
+      { "step": "03", "icon": "Send", "title": "Application Submission", "description": "We submit the application to ICA or GDRFA through our priority network.", "color": "from-fuchsia-400 to-pink-600" },
+      { "step": "04", "icon": "BadgeCheck", "title": "Approval & Entry Permit", "description": "Approval issued with entry permit for your dependents to enter the UAE.", "color": "from-pink-400 to-rose-600" },
+      { "step": "05", "icon": "Stethoscope", "title": "Medical & Emirates ID", "description": "Dependents complete medical fitness tests and biometrics for Emirates ID.", "color": "from-rose-400 to-red-600" },
+      { "step": "06", "icon": "Stamp", "title": "Visa Stamping", "description": "Final residency visa stamped on passports — your family is now officially in the UAE.", "color": "from-red-400 to-orange-600" }
+    ]
+  },
+
+  "documentsSection": {
+    "badge": "What You'll Need",
+    "title": "Required Documents",
+    "titleHighlight": "Documents",
+    "subtitle": "We handle the complete paperwork and approvals on your behalf.",
+    "items": [
+      { "icon": "IdCard", "label": "Sponsor Emirates ID", "desc": "Front and back" },
+      { "icon": "ScrollText", "label": "Attested Marriage Certificate", "desc": "For spouse visa" },
+      { "icon": "Baby", "label": "Attested Birth Certificates", "desc": "For children visa" },
+      { "icon": "Camera", "label": "Passport Photos", "desc": "White background" },
+      { "icon": "FileSignature", "label": "Salary Certificate", "desc": "From employer" },
+      { "icon": "Home", "label": "Ejari / Tenancy Contract", "desc": "Proof of housing" },
+      { "icon": "Stethoscope", "label": "Health Insurance", "desc": "For dependents" },
+      { "icon": "FileText", "label": "Medical Fitness Certificate", "desc": "For residency" }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted Family Visa Partner",
+    "titleHighlight": "Family Visa Partner",
+    "subtitle": "Eight reasons why families trust us.",
+    "items": [
+      { "icon": "ShieldCheck", "label": "Direct Authority Access", "desc": "Priority ICA & GDRFA network" },
+      { "icon": "Zap", "label": "Fast Processing", "desc": "Expedited approvals" },
+      { "icon": "UserCheck", "label": "Dedicated Expert", "desc": "Personal family visa specialist" },
+      { "icon": "DollarSign", "label": "Transparent Pricing", "desc": "No hidden fees" },
+      { "icon": "Globe", "label": "Multilingual Team", "desc": "English, Arabic, Hindi, Urdu" },
+      { "icon": "RefreshCw", "label": "Renewal Support", "desc": "Ongoing visa management" },
+      { "icon": "HeartHandshake", "label": "Family Integration", "desc": "Complete family support" },
+      { "icon": "Award", "label": "Proven Track Record", "desc": "Thousands of approvals" }
+    ]
+  },
+
+  "growthStatsSection": {
+    "badge": "Business Growth Outlook",
+    "title": "Trusted by Thousands of Families",
+    "titleHighlight": "Thousands of Families",
+    "subtitle": "Your family's residency, in expert hands.",
+    "items": [
+      { "icon": "Users", "value": "5,000+", "label": "Family Visas", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Globe", "value": "180+", "label": "Nationalities", "color": "from-purple-400 to-fuchsia-600" },
+      { "icon": "TrendingUp", "value": "Leading", "label": "Family Expert", "color": "from-fuchsia-400 to-pink-600" },
+      { "icon": "Zap", "value": "Fast", "label": "Processing", "color": "from-pink-400 to-rose-600" },
+      { "icon": "ShieldCheck", "value": "100%", "label": "Compliant", "color": "from-rose-400 to-red-600" },
+      { "icon": "Crown", "value": "Preferred", "label": "Family Partner", "color": "from-red-400 to-orange-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about UAE Dependent Visas. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our family visa specialists.",
+      "whatsappMessage": "Hi! I have a question about UAE Dependent Visa."
+    },
+    "items": [
+      { "q": "Who can sponsor dependents in the UAE?", "a": "Any UAE residence visa holder with a valid employment or investor visa can sponsor dependents. Requirements include minimum salary (AED 4,000+ or AED 3,000 + accommodation), adequate housing, and health insurance." },
+      { "q": "What is the minimum salary to sponsor family?", "a": "For spouse and children: AED 4,000 monthly (or AED 3,000 + accommodation). For parents: typically AED 20,000 monthly salary with accommodation and insurance." },
+      { "q": "Can my spouse work in the UAE with a dependent visa?", "a": "Yes. Your spouse can apply for a work permit after obtaining the dependent visa. Many employers sponsor this change." },
+      { "q": "How long is a dependent visa valid?", "a": "Dependent visas are typically valid for 2-3 years, matching the sponsor's visa validity. They must be renewed along with the sponsor's visa." },
+      { "q": "Can I sponsor my parents in the UAE?", "a": "Yes. You can sponsor your parents (60+ years old) if you meet the minimum salary requirement (AED 20,000+ per month), provide adequate housing, and valid health insurance." },
+      { "q": "What documents need to be attested?", "a": "Marriage certificate (for spouse), birth certificates (for children), and educational certificates must be attested by the UAE Embassy in your home country and the MOFA in the UAE." },
+      { "q": "Can I sponsor my domestic worker?", "a": "Yes. You can sponsor domestic workers including housemaids, cooks, drivers, nannies, and gardeners under the domestic worker visa category." },
+      { "q": "How long does the dependent visa process take?", "a": "Typically 2-4 weeks depending on document readiness and processing times. We fast-track the process through our priority government network." },
+      { "q": "Can children study in the UAE with a dependent visa?", "a": "Yes. Children with dependent visas can enroll in UAE schools and universities. They need their Emirates ID and school-specific documentation." },
+      { "q": "Why choose Setup Zone Dubai for dependent visa services?", "a": "We provide end-to-end support — eligibility assessment, documentation, application filing, medicals, Emirates ID, and visa stamping. With a proven track record and direct authority access, we ensure fast, compliant processing." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Dependent Visa.",
+    "items": [
+      { "slug": "residence-visa", "title": "UAE Residence Visa", "description": "2-10 year residency options.", "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80", "gradient": "from-emerald-400 to-teal-600" },
+      { "slug": "golden-visa-services", "title": "Golden Visa Services", "description": "10-year UAE residency for investors & talent.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-600" },
+      { "slug": "company-formation", "title": "Company Formation in Dubai", "description": "Free Zone, Mainland & Offshore.", "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Bring Your Family Together",
+    "title": "Ready to Sponsor Your Family in the UAE?",
+    "titleHighlight": "Family in the UAE?",
+    "subtitle": "Contact us today and let our experts guide you through the complete family sponsorship process — from documents to visa stamping.",
+    "chips": ["Free Consultation", "Fast Processing", "Full Support"],
+    "whatsappMessage": "Hi! I'd like a free consultation for UAE Dependent Visa.",
+    "whatsappCardMessage": "Hi! I'd like to discuss UAE Dependent Visa."
+  }
+}

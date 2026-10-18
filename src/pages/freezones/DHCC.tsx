@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import dhccData from '../../content/freezones/dhcc-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2,
   Briefcase, ShieldCheck, Phone, MessageCircle, HomeIcon, Clock,
@@ -29,7 +30,9 @@ const iconMap: any = {
 };
 
 export default function DHCC({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || dhccData;
+  const { language } = useLanguage();
+  const dhccFallback = loadContent('freezones/dhcc-free-zone', language);
+  const data = tinaData?.data?.freeZones || dhccFallback;
 
   const {
     hero,

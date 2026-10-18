@@ -1,0 +1,179 @@
+{
+    "badge":  {
+                  "text":  "Mehr als 500 Unternehmen in den VAE vertrauen uns.",
+                  "showPulse":  true
+              },
+    "heading":  {
+                    "line1":  "Starten Sie Ihr",
+                    "line2Highlight":  "Dubai Business",
+                    "line3":  "In Tagen, nicht Monaten."
+                },
+    "subtext":  "Von der Unternehmensgründung über Visa, Bankgeschí¤fte und Steuern "“ wir kümmern uns um alles von A bis Z, damit Sie sich auf das Wachstum Ihres Unternehmens in der florierenden Wirtschaft der VAE konzentrieren kí¶nnen.",
+    "video":  {
+                  "src":  "/videos/hero-bg.mp4",
+                  "poster":  "/videos/hero-bg-poster.jpg"
+              },
+    "ctaPrimary":  {
+                       "text":  "Vereinbaren Sie eine kostenlose Beratung",
+                       "link":  "#contact"
+                   },
+    "ctaSecondary":  {
+                         "text":  "WhatsApp uns",
+                         "message":  "Hallo! Ich würde gerne über meine Geschí¤ftsgründung in Dubai sprechen."
+                     },
+    "trustPills":  [
+                       "100% Eigentum",
+                       "0 % persí¶nliche Steuer",
+                       "Schnelle Lizenzierung"
+                   ],
+    "googleBadge":  {
+                        "rating":  "4.8",
+                        "reviewsText":  "(34 Bewertungen)"
+                    },
+    "floatingCards":  [
+                          {
+                              "icon":  "Gebí¤ude 2",
+                              "title":  "Freizonenlizenz",
+                              "price":  "5.999 AED",
+                              "tag":  "Am beliebtesten",
+                              "tagColor":  "Gold",
+                              "delay":  0.8,
+                              "position":  {
+                                               "right":  "0px",
+                                               "top":  "20px"
+                                           },
+                              "z":  30
+                          },
+                          {
+                              "icon":  "Globus",
+                              "title":  "Einrichtung auf dem Festland",
+                              "price":  "16.999 AED",
+                              "tag":  "Bestes Preis-Leistungs-Verhí¤ltnis",
+                              "tagColor":  "Himmel",
+                              "delay":  1,
+                              "position":  {
+                                               "right":  "100px",
+                                               "top":  "220px"
+                                           },
+                              "z":  20
+                          },
+                          {
+                              "icon":  "Kreditkarte",
+                              "title":  "Bankkonto",
+                              "price":  "Schnelle Genehmigung",
+                              "tag":  "Schnell",
+                              "tagColor":  "violett",
+                              "delay":  1.2,
+                              "position":  {
+                                               "right":  "40px",
+                                               "top":  "420px"
+                                           },
+                              "z":  10
+                          }
+                      ],
+    "reviewsSection":  {
+                           "badgeText":  "Google-Rezensionen",
+                           "title":  "Was unsere Kunden sagen",
+                           "titleHighlight":  "Kunden sagen",
+                           "rating":  "4.8",
+                           "reviewsCountText":  ""¢ 34 verifizierte Bewertungen"
+                       },
+    "reviews":  [
+                    {
+                        "name":  "ZeeShan Butt",
+                        "initials":  "ZB",
+                        "rating":  5,
+                        "date":  "vor 3 Monaten",
+                        "text":  "Das Management von Brightlink verdient 100 von 100 Punkten. Muhammad Bilal Saleem und sein Team sind fantastisch und beweisen es immer wieder. Der gesamte Prozess "“ von der Beantragung des Goldenen Visums bis zum Staatsangehí¶rigkeitswechsel "“ wurde in weniger als 36 Stunden abgeschlossen. Die Abwicklung verlief reibungslos und stressfrei. Ein wahrhaft erstklassiger Service (Super Sonic Team).",
+                        "color":  "von-blau-500 bis-blau-700"
+                    },
+                    {
+                        "name":  "Mohammed",
+                        "initials":  "M",
+                        "rating":  5,
+                        "date":  "vor 3 Monaten",
+                        "text":  "Ich habe mit dem Brightlink-Team bei meinem Golden-Visa-Antrag sehr gute Erfahrungen gemacht. Sie waren professionell, hilfsbereit und haben den gesamten Prozess reibungslos abgewickelt. Ich habe das Visum innerhalb von zwei Tagen erhalten. Ich kann Brightlink jedem wí¤rmstens empfehlen, der ein schnelles und unkompliziertes Golden-Visa-Verfahren wünscht.",
+                        "color":  "von Violett-500 bis Lila-700"
+                    },
+                    {
+                        "name":  "Ritik Gupta",
+                        "initials":  "RG",
+                        "rating":  5,
+                        "date":  "vor 6 Monaten",
+                        "text":  "Hallo, ich habe mein zweijí¤hriges Aufenthaltsvisum über Brightlink Management Consultancy beantragt und war sehr zufrieden. Die Abwicklung war í¤uíŸerst professionell und das innerhalb von nur vier Werktagen "“ und das sogar wí¤hrend des Ramadan mit verkürzten í–ffnungszeiten. Ich kann das VIP-Paket wí¤rmstens empfehlen!",
+                        "color":  "von Smaragdgrün 500 bis Türkis 700"
+                    },
+                    {
+                        "name":  "Sina Behfard",
+                        "initials":  "SB",
+                        "rating":  5,
+                        "date":  "vor 8 Monaten",
+                        "text":  "Das Team arbeitet í¤uíŸerst effizient, professionell und transparent. Sie haben mich sehr unterstützt und meine Bewerbung, die bei einem anderen Unternehmen tagelang feststeckte, schnell übernommen und jeden Schritt mit groíŸer Sorgfalt bearbeitet.",
+                        "color":  "von Bernstein-500 bis Orange-700"
+                    },
+                    {
+                        "name":  "M J",
+                        "initials":  "MJ",
+                        "rating":  5,
+                        "date":  "vor 3 Monaten",
+                        "text":  "Hervorragender Service mit prompter Reaktion und zügiger Nachbearbeitung. Ich habe ihren Service für die Beantragung des Golden Visa genutzt; die Bearbeitung dauerte von Anfang bis Ende drei Tage.",
+                        "color":  "von 500 bis 700 Rosa"
+                    },
+                    {
+                        "name":  "Hakan TEKERCIOGLU",
+                        "initials":  "HT",
+                        "rating":  5,
+                        "date":  "vor 2 Monaten",
+                        "text":  "Der Antragsprozess für unser Goldenes Visum verlief reibungslos, termingerecht und zu fairen Preisen. Ich kann diesen Service uneingeschrí¤nkt weiterempfehlen.",
+                        "color":  "von Cyan-500 bis Blau-700"
+                    },
+                    {
+                        "name":  "Amin K",
+                        "initials":  "AK",
+                        "rating":  5,
+                        "date":  "vor 8 Monaten",
+                        "text":  "Der Service von Brightlink war einfach hervorragend! Von der Informationsbeschaffung und dem Preisangebot bis hin zur Ausstellung meines Emirates-Ausweises verlief alles reibungslos und schnell. Vielen Dank an Herrn Bilal, Herrn Abbas und das gesamte Team!",
+                        "color":  "von Fuchsia-500 bis Lila-700"
+                    },
+                    {
+                        "name":  "Tausif Ahmad",
+                        "initials":  "TA",
+                        "rating":  5,
+                        "date":  "vor 3 Monaten",
+                        "text":  "Exzellenter Service. Ein sehr ehrliches und hilfsbereites Team. Alle Formalití¤ten wurden innerhalb einer Woche erledigt, ohne versteckte Kosten. Besonderer Dank gilt Herrn Abbas.",
+                        "color":  "von Grün-500 bis Smaragd-700"
+                    },
+                    {
+                        "name":  "Clay Mullens",
+                        "initials":  "CM",
+                        "rating":  5,
+                        "date":  "vor 10 Monaten",
+                        "text":  "Abbas und das Brightlink-Team waren fantastisch! Vom ersten Kontakt an waren sie í¤uíŸerst hilfsbereit und reagierten prompt. Sie haben genau das geliefert, was ich brauchte. Ich kann sie jedem wí¤rmstens empfehlen, der einen schnellen Service für das Goldene Visum sucht.",
+                        "color":  "von Indigo 500 bis Blau 700"
+                    },
+                    {
+                        "name":  "Manaqib Ashraf",
+                        "initials":  "MA",
+                        "rating":  5,
+                        "date":  "vor 1 Jahr",
+                        "text":  "Ich habe vor Kurzem mein Familienvisum über Brightlink beantragt und bin mit dem Service mehr als zufrieden. Der gesamte Prozess wurde sehr schnell und professionell abgewickelt. Jetzt kann ich mit meiner Familie hier in den VAE leben. Absolut empfehlenswert!",
+                        "color":  "von Rot-500 bis Rosé-700"
+                    },
+                    {
+                        "name":  "Ahmed Ullah",
+                        "initials":  "AU",
+                        "rating":  5,
+                        "date":  "vor 1 Jahr",
+                        "text":  "Ich wollte mich ganz herzlich für die groíŸartige Unterstützung bei der Beantragung des Visums meiner Frau bedanken "“ und das in nur zwei Tagen! Ich weiíŸ es sehr zu schí¤tzen, wie reibungslos und schnell alles abgewickelt wurde. Die Professionalití¤t Ihres Teams ist wirklich auíŸergewí¶hnlich.",
+                        "color":  "von Türkis-500 bis Cyan-700"
+                    },
+                    {
+                        "name":  "Numan Shabbir",
+                        "initials":  "NS",
+                        "rating":  5,
+                        "date":  "vor 2 Jahren",
+                        "text":  "Wir waren von der gesamten Erfahrung begeistert. Unsere Visa erhielten wir innerhalb von nur drei Tagen. Das gesamte Team ist sehr erfahren und hí¤lt uns in jedem Schritt auf dem Laufenden. Wir kí¶nnen die Firma jedem empfehlen, der ein Unternehmen in Dubai gründen oder ein Goldenes Visum beantragen mí¶chte.",
+                        "color":  "von Gelb-500 bis Bernstein-700"
+                    }
+                ]
+}

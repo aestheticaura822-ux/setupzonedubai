@@ -1,0 +1,116 @@
+{
+  "badge": "Our Packages",
+  "heading": {
+    "line1": "Transparent Pricing,",
+    "highlight": "No Hidden Fees"
+  },
+  "subtitle": "Choose the package that fits your business. All prices are all-inclusive — no hidden costs, no surprises.",
+  "toggle": {
+    "oneTimeLabel": "One-time Payment",
+    "installmentLabel": "Installments",
+    "installmentSuffix": "Or 3x"
+  },
+  "packages": [
+    {
+      "id": "freezone",
+      "name": "Free Zone License",
+      "badge": null,
+      "price": "5,999",
+      "currency": "AED",
+      "period": "one-time",
+      "tagline": "Perfect for freelancers & remote businesses",
+      "icon": "Building2",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.3)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "iconBg": "from-sky-400 to-blue-600",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+      "features": [
+        "5 Free Business Activities",
+        "100% Ownership",
+        "0% Personal & Income Tax",
+        "Low Corporate Tax",
+        "Free Consultation",
+        "Lowest Price Guarantee"
+      ],
+      "cta": "Get Started Now",
+      "highlighted": false
+    },
+    {
+      "id": "freezone-residency",
+      "name": "Free Zone with Residency",
+      "badge": "Most Popular",
+      "price": "11,999",
+      "currency": "AED",
+      "period": "one-time",
+      "tagline": "Best for entrepreneurs relocating to Dubai",
+      "icon": "Globe",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "iconBg": "from-violet-400 to-purple-600",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+      "features": [
+        "All-Inclusive Free Zone License",
+        "5 Free Business Activities",
+        "100% Ownership",
+        "0% Personal & Income Tax",
+        "Low Corporate Tax",
+        "Free Consultation",
+        "Free Lease Agreement",
+        "1 UAE Residency / Investor Visa",
+        "Medical, Emirates ID, Status Change"
+      ],
+      "cta": "Get Started Now",
+      "highlighted": true
+    },
+    {
+      "id": "mainland-residency",
+      "name": "Mainland with Residency",
+      "badge": "Best Value",
+      "price": "16,999",
+      "currency": "AED",
+      "period": "one-time",
+      "tagline": "For businesses targeting local UAE market",
+      "icon": "Crown",
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentText": "text-amber-600",
+      "accentBg": "bg-amber-50",
+      "accentBorder": "border-amber-200",
+      "iconBg": "from-amber-400 to-orange-600",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+      "features": [
+        "Mainland License",
+        "100% Ownership",
+        "0% Personal & Income Tax",
+        "Low Corporate Tax",
+        "Free Consultation",
+        "1 UAE Residency / Investor Visa",
+        "Medical, Emirates ID, Status Change"
+      ],
+      "cta": "Get Started Now",
+      "highlighted": false
+    }
+  ],
+  "customPackageCTA": {
+    "title": "Need a Custom Package?",
+    "subtitle": "We'll tailor a package to your exact business needs — Mainland, Free Zone, or Offshore.",
+    "primaryCta": "Get Custom Quote",
+    "secondaryCta": "Call Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I need a custom package for my UAE business setup.",
+    "backgroundImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80"
+  },
+  "trustLine": [
+    { "label": "No Hidden Fees", "color": "emerald" },
+    { "label": "Transparent Pricing", "color": "sky" },
+    { "label": "FTA Compliant", "color": "violet" },
+    { "label": "Free Consultation", "color": "amber" }
+  ]
+}

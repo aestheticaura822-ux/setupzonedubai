@@ -1,0 +1,571 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "íœber 45 Freizonen. 100% Eigentum.",
+    "heroTitle":  "Unternehmensgründung in einer Freizone der VAE",
+    "heroTitleHighlight":  "Freizone",
+    "heroSubtitle":  "Gründen Sie Ihr Unternehmen in einer der über 45 Freizonen der VAE. 100 % auslí¤ndisches Eigentum, 0 % Steuern und vollstí¤ndige Gewinnrückführung "“ alles in nur 3"“7 Tagen.",
+    "heroChips":  [
+                      "100% Eigentum",
+                      "0 % Steuer",
+                      "3-7 Tage Einrichtungszeit",
+                      "Freizonen für Personen ab 45 Jahren"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Globus",
+                      "value":  "45+",
+                      "label":  "Freizonen",
+                      "color":  "von Smaragdgrün 400 bis Türkis 600"
+                  },
+                  {
+                      "icon":  "Globe2",
+                      "value":  "100%",
+                      "label":  "Auslí¤ndisches Eigentum",
+                      "color":  "von Türkis-400 bis Cyan-600"
+                  },
+                  {
+                      "icon":  "Dollarzeichen",
+                      "value":  "0 %",
+                      "label":  "Kí¶rperschaftsteuer",
+                      "color":  "von Cyan 400 bis Himmelblau 600"
+                  },
+                  {
+                      "icon":  "Uhr",
+                      "value":  "3-7",
+                      "label":  "Tagesaufbau",
+                      "color":  "von Himmel-400 bis Blau-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Was ist das?",
+                          "title":  "Was ist ein Unternehmen in einer Freihandelszone?",
+                          "titleHighlight":  "Freizonenunternehmen?",
+                          "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Steuerfreie Zone",
+                          "imageBadgeText":  "100% Eigentum",
+                          "paragraphs":  [
+                                             "Eine Freizonengesellschaft der VAE ist ein Unternehmen, das von einer der über 45 Freizonen in Dubai, Abu Dhabi, Sharjah und anderen Emiraten lizenziert ist. Sie bietet ein steuerfreies Umfeld mit 100% auslí¤ndischem Eigentum.",
+                                             "Unternehmen in der Freizone kí¶nnen innerhalb der Freizone, in den gesamten VAE (über Vertriebspartner) und international frei handeln. Ein direkter Handel auf dem Festlandmarkt der VAE ist ihnen nicht gestattet.",
+                                             "Zu den beliebten Freihandelszonen zí¤hlen IFZA, DMCC, Meydan, DAFZA, JAFZA, RAKEZ, SHAMS und Dubai Commercial City "“ jede mit einzigartigen Vorteilen für unterschiedliche Geschí¤ftsbereiche. Wir von Setup Zone Dubai unterstützen Sie bei der Auswahl der passenden Freihandelszone für Ihre Ziele."
+                                         ],
+                          "highlights":  [
+                                             "100% auslí¤ndisches Eigentum",
+                                             "0 % Kí¶rperschaftsteuer",
+                                             "Gewinnrückführung",
+                                             "Zollfreie Vorteile",
+                                             "Schnelle Einrichtung",
+                                             "Zonen ab 45 Jahren verfügbar"
+                                         ]
+                      },
+    "licenseTypesSection":  {
+                                "badge":  "Lizenzoptionen",
+                                "title":  "Welche Freihandelszonenlizenzen kí¶nnen Sie erhalten?",
+                                "titleHighlight":  "Freizonenlizenzen",
+                                "subtitle":  "Wischen Sie durch 6 Lizenztypen "“ wí¤hlen Sie den richtigen für Ihr Unternehmen.",
+                                "items":  [
+                                              {
+                                                  "id":  "kommerziell",
+                                                  "icon":  "Ladensymbol",
+                                                  "title":  "Gewerbelizenz",
+                                                  "tagline":  "Kaufen, Verkaufen \u0026 Tauschen",
+                                                  "description":  "Für Handelsunternehmen, Import-/Exportfirmen, GroíŸhí¤ndler, Einzelhí¤ndler und Distributoren. Handeln Sie frei innerhalb der Freizone, in den gesamten VAE und international.",
+                                                  "image":  "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200\u0026q=80",
+                                                  "color":  "von Smaragdgrün 500 bis Türkis 700",
+                                                  "features":  [
+                                                                   "Import/Export",
+                                                                   "GroíŸ- und Einzelhandel",
+                                                                   "Allgemeiner Handel",
+                                                                   "Weltweiter Vertrieb"
+                                                               ],
+                                                  "bestFor":  "Hí¤ndler"
+                                              },
+                                              {
+                                                  "id":  "Professional",
+                                                  "icon":  "Aktentasche",
+                                                  "title":  "Berufs-/Dienstleistungslizenz",
+                                                  "tagline":  "Expertise \u0026 Beratung",
+                                                  "description":  "Für Berater, IT-Dienstleister, Marketingagenturen, Pí¤dagogen, Coaches und professionelle Dienstleister mit 100%iger Eigentümerschaft.",
+                                                  "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                                  "color":  "von Türkis-500 bis Cyan-700",
+                                                  "features":  [
+                                                                   "Berater",
+                                                                   "IT-Dienstleistungen",
+                                                                   "Marketing",
+                                                                   "Ausbildung"
+                                                               ],
+                                                  "bestFor":  "Berater"
+                                              },
+                                              {
+                                                  "id":  "Industrie",
+                                                  "icon":  "Fabrik",
+                                                  "title":  "Industrielizenz",
+                                                  "tagline":  "Herstellung \u0026 Produktion",
+                                                  "description":  "Für Fertigungs-, Produktions-, Montage- und Industriebetriebe innerhalb ausgewiesener Freizonen mit Zugang zu Industrieflí¤chen und Infrastruktur.",
+                                                  "image":  "https://images.unsplash.com/photo-1565891741441-64926e441838?w=1200\u0026q=80",
+                                                  "color":  "von Cyan-500 bis Blau-700",
+                                                  "features":  [
+                                                                   "Herstellung",
+                                                                   "Produktion",
+                                                                   "Montage",
+                                                                   "Industriegebiet"
+                                                               ],
+                                                  "bestFor":  "Hersteller"
+                                              },
+                                              {
+                                                  "id":  "E-Commerce",
+                                                  "icon":  "Warenkorb",
+                                                  "title":  "E-Commerce-Lizenz",
+                                                  "tagline":  "Digital-First-Unternehmen",
+                                                  "description":  "Für Online-Shops, digitale Marktplí¤tze, Dropshipping und E-Commerce-Plattformen mit 100% Eigentumsrechten, niedrigen Kosten und steuerfreiem Umfeld.",
+                                                  "image":  "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1200\u0026q=80",
+                                                  "color":  "von Blau-500 bis Indigo-700",
+                                                  "features":  [
+                                                                   "Online-Shop",
+                                                                   "Digitaler Marktplatz",
+                                                                   "Dropshipping",
+                                                                   "Globale Reichweite"
+                                                               ],
+                                                  "bestFor":  "E-Commerce-Verkí¤ufer"
+                                              },
+                                              {
+                                                  "id":  "Freiberufler",
+                                                  "icon":  "Laptop",
+                                                  "title":  "Freiberufler-Genehmigung",
+                                                  "tagline":  "Einzelprofis",
+                                                  "description":  "Für Freelancer, Berater, Designer, Entwickler, Autoren und digitale Nomaden. Ideal für Einzelunternehmer, die rechtliche Anerkennung, Rechnungsstellung und Visaberechtigung wünschen.",
+                                                  "image":  "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200\u0026q=80",
+                                                  "color":  "von Indigo 500 bis Violett 700",
+                                                  "features":  [
+                                                                   "Einzelprofis",
+                                                                   "Rechtsrechnung",
+                                                                   "Visumberechtigt",
+                                                                   "Niedrige Kosten"
+                                                               ],
+                                                  "bestFor":  "Freiberufler"
+                                              },
+                                              {
+                                                  "id":  "halten",
+                                                  "icon":  "Krone",
+                                                  "title":  "Besitzlizenz",
+                                                  "tagline":  "Unternehmensstrukturierung",
+                                                  "description":  "Für Holdinggesellschaften, Investmentgesellschaften und Vermí¶gensverwalter. Verwaltung von Tochtergesellschaften, Immobilien, geistigem Eigentum und Beteiligungen ohne Beteiligung an kommerziellen Aktivití¤ten.",
+                                                  "image":  "https://images.unsplash.com/photo-1554469384-e58fac16e23a?w=1200\u0026q=80",
+                                                  "color":  "von Violett-500 bis Lila-700",
+                                                  "features":  [
+                                                                   "Holdinggesellschaft",
+                                                                   "Anlagevehikel",
+                                                                   "Vermí¶gensverwaltung",
+                                                                   "Vermí¶gensstrukturierung"
+                                                               ],
+                                                  "bestFor":  "Investoren und vermí¶gende Privatpersonen"
+                                              }
+                                          ]
+                            },
+    "topFreeZonesSection":  {
+                                "badge":  "Freizonen für Personen ab 45 Jahren",
+                                "title":  "Top-Freizeitzonen, die wir bedienen",
+                                "titleHighlight":  "Freizonen",
+                                "subtitle":  "Von der IFZA bis zur Dubai CommerCity "“ wir verfügen über Expertise in allen Freizonen der VAE.",
+                                "items":  [
+                                              {
+                                                  "name":  "IFZA",
+                                                  "tagline":  "Flexibel \u0026 Erschwinglich",
+                                                  "color":  "von Smaragdgrün 500 bis Türkis 700"
+                                              },
+                                              {
+                                                  "name":  "DMCC",
+                                                  "tagline":  "Rohstoffe \u0026 Handel",
+                                                  "color":  "von Türkis-500 bis Cyan-700"
+                                              },
+                                              {
+                                                  "name":  "Meydan",
+                                                  "tagline":  "Kostengünstige Einrichtung",
+                                                  "color":  "von Cyan 500 bis Himmelblau 700"
+                                              },
+                                              {
+                                                  "name":  "DAFZA",
+                                                  "tagline":  "Luftfahrt \u0026 Logistik",
+                                                  "color":  "von Himmelblau-500 bis Blau-700"
+                                              },
+                                              {
+                                                  "name":  "JAFZA",
+                                                  "tagline":  "Industrie \u0026 Handel",
+                                                  "color":  "von Blau-500 bis Indigo-700"
+                                              },
+                                              {
+                                                  "name":  "RAKEZ",
+                                                  "tagline":  "Kostengünstiger Multi-Sektor",
+                                                  "color":  "von Indigo 500 bis Violett 700"
+                                              },
+                                              {
+                                                  "name":  "SHAMS",
+                                                  "tagline":  "Freiberufler und KMU",
+                                                  "color":  "von Violett-500 bis Lila-700"
+                                              },
+                                              {
+                                                  "name":  "Dubai Commercial City",
+                                                  "tagline":  "E-Commerce-Hub",
+                                                  "color":  "von Lila 500 bis Fuchsia 700"
+                                              }
+                                          ]
+                            },
+    "benefitsSection":  {
+                            "badge":  "Vorteile der Freihandelszone",
+                            "title":  "Vorteile der Einrichtung einer Freizone",
+                            "titleHighlight":  "Einrichtung der Freizone",
+                            "subtitle":  "Acht überzeugende Vorteile eines Unternehmens in einer Freizone der VAE.",
+                            "items":  [
+                                          {
+                                              "icon":  "Globe2",
+                                              "title":  "100% auslí¤ndisches Eigentum",
+                                              "description":  "Volle Eigentümerschaft an Ihrem Unternehmen in den VAE "“ kein lokaler emiratischer Sponsor oder Partner aus den VAE erforderlich.",
+                                              "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                          },
+                                          {
+                                              "icon":  "Dollarzeichen",
+                                              "title":  "0 % Unternehmens- und Einkommensteuer",
+                                              "description":  "Steuerfreies Umfeld mit 0 % Kí¶rperschaftsteuer, 0 % Einkommensteuer und voller Gewinnbehaltung.",
+                                              "color":  "von Türkis-400 bis Cyan-600"
+                                          },
+                                          {
+                                              "icon":  "Geldbí¶rse",
+                                              "title":  "Vollstí¤ndige Gewinnrückführung",
+                                              "description":  "Führen Sie 100 % Ihres Kapitals und Ihrer Gewinne ohne Wí¤hrungsbeschrí¤nkungen zurück.",
+                                              "color":  "von Cyan 400 bis Himmelblau 600"
+                                          },
+                                          {
+                                              "icon":  "Paket",
+                                              "title":  "Zollfreie Vorteile",
+                                              "description":  "Innerhalb der Freizone fallen keine Import- oder Exportzí¶lle an "“ ideal für Handel, E-Commerce und Logistik.",
+                                              "color":  "von Himmel-400 bis Blau-600"
+                                          },
+                                          {
+                                              "icon":  "Zap",
+                                              "title":  "Schnellinstallation",
+                                              "description":  "Lizenzierung innerhalb von 3-7 Tagen mit vereinfachter Dokumentation und Fernregistrierung mí¶glich.",
+                                              "color":  "von Blau-400 bis Indigo-600"
+                                          },
+                                          {
+                                              "icon":  "Gebí¤ude 2",
+                                              "title":  "Flexible Bürolí¶sungen",
+                                              "description":  "Wí¤hlen Sie zwischen flexiblen Schreibtischen, Coworking-Spaces, privaten Büros oder Lagerhallen "“ alles sofort einsatzbereit.",
+                                              "color":  "von Indigo-400 bis Violett-600"
+                                          },
+                                          {
+                                              "icon":  "Bank",
+                                              "title":  "Firmenbankkonto",
+                                              "description":  "Erí¶ffnen Sie Firmenbankkonten in den VAE bei führenden Banken "“ wir unterstützen Sie umfassend bei KYC und der Dokumentation.",
+                                              "color":  "von Lila-400 bis Fuchsia-600"
+                                          }
+                                      ]
+                        },
+    "processSection":  {
+                           "badge":  "6-stufiger Prozess",
+                           "title":  "Wie Sie Ihre Freizonenlizenz erhalten",
+                           "titleHighlight":  "Freizonenlizenz",
+                           "subtitle":  "Sechs einfache Schritte zur Gründung Ihres Unternehmens in der Freihandelszone.",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Ziel",
+                                             "title":  "Wí¤hlen Sie Ihre Freizone",
+                                             "description":  "Wir helfen Ihnen, die beste Freihandelszone basierend auf Ihren Aktivití¤ten, Ihrem Budget und Ihren langfristigen Zielen auszuwí¤hlen.",
+                                             "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "Dateisignatur",
+                                             "title":  "Reserve-Handelsname",
+                                             "description":  "Sichern Sie sich Ihren Firmennamen bei der Freizonenbehí¶rde "“ die Genehmigung erfolgt in der Regel innerhalb weniger Stunden.",
+                                             "color":  "von Türkis-400 bis Cyan-600"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Zwischenablage prüfen",
+                                             "title":  "Lizenzantrag",
+                                             "description":  "Reichen Sie Ihre Bewerbung zusammen mit Passkopien, Geschí¤ftsplan und den erforderlichen Unterlagen ein.",
+                                             "color":  "von Cyan 400 bis Himmelblau 600"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "Gebí¤ude 2",
+                                             "title":  "Bürorí¤ume auswí¤hlen",
+                                             "description":  "Wí¤hlen Sie je nach Ihrer Lizenz einen flexiblen Arbeitsplatz, einen Coworking-Space, ein privates Büro oder ein Lager.",
+                                             "color":  "von Himmel-400 bis Blau-600"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "ScrollText",
+                                             "title":  "Erhalten Sie Ihre Lizenz",
+                                             "description":  "Sichern Sie sich Ihre Freizonen-Handelslizenz "“ diese wird in der Regel innerhalb von 3-7 Werktagen ausgestellt.",
+                                             "color":  "von Blau-400 bis Indigo-600"
+                                         }
+                                     ]
+                       },
+    "comparisonSection":  {
+                              "badge":  "Freizone vs. Festland",
+                              "title":  "Vergleichen Sie Ihre Optionen",
+                              "titleHighlight":  "Vergleichen",
+                              "subtitle":  "Erkennen Sie die Unterschiede auf einen Blick, um die richtige Wahl zu treffen.",
+                              "items":  [
+                                            {
+                                                "factor":  "Eigentum",
+                                                "freezone":  "100 % auslí¤ndisch",
+                                                "mainland":  "100 % (Die meisten)",
+                                                "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                            },
+                                            {
+                                                "factor":  "Einrichtungszeit",
+                                                "freezone":  "3-7 Tage",
+                                                "mainland":  "2-4 Wochen",
+                                                "color":  "von Türkis-400 bis Cyan-600"
+                                            },
+                                            {
+                                                "factor":  "Kosten",
+                                                "freezone":  "Untere",
+                                                "mainland":  "Hí¶her",
+                                                "color":  "von Cyan 400 bis Himmelblau 600"
+                                            },
+                                            {
+                                                "factor":  "Steuer",
+                                                "freezone":  "0 % Unternehmensanteil",
+                                                "mainland":  "0-9% Unternehmensanteil",
+                                                "color":  "von Himmel-400 bis Blau-600"
+                                            },
+                                            {
+                                                "factor":  "VAE-Markt",
+                                                "freezone":  "Beschrí¤nkt",
+                                                "mainland":  "Voller Zugriff",
+                                                "color":  "von Blau-400 bis Indigo-600"
+                                            },
+                                            {
+                                                "factor":  "Regierungsauftrí¤ge",
+                                                "freezone":  "NEIN",
+                                                "mainland":  "Ja",
+                                                "color":  "von Indigo-400 bis Violett-600"
+                                            }
+                                        ]
+                          },
+    "documentsSection":  {
+                             "badge":  "Erforderliche Dokumente",
+                             "title":  "Was Sie einreichen müssen",
+                             "titleHighlight":  "Einreichung erforderlich",
+                             "items":  [
+                                           {
+                                               "icon":  "Kamera",
+                                               "label":  "Passfotos",
+                                               "desc":  "WeiíŸer Hintergrund"
+                                           },
+                                           {
+                                               "icon":  "DateiText",
+                                               "label":  "Geschí¤ftsplan",
+                                               "desc":  "Für einige Freizonen"
+                                           },
+                                           {
+                                               "icon":  "Dateisignatur",
+                                               "label":  "3 Namensvorschlí¤ge",
+                                               "desc":  "In der Reihenfolge der Prí¤ferenz"
+                                           },
+                                           {
+                                               "icon":  "Aktentasche",
+                                               "label":  "Geschí¤ftstí¤tigkeit",
+                                               "desc":  "Aus der Liste der Genehmigten"
+                                           },
+                                           {
+                                               "icon":  "Kreditkarte",
+                                               "label":  "Adressnachweis",
+                                               "desc":  "Stromrechnung / Kontoauszug"
+                                           },
+                                           {
+                                               "icon":  "Dateiprüfung",
+                                               "label":  "NOC-Zertifikat",
+                                               "desc":  "Für Einwohner der VAE"
+                                           },
+                                           {
+                                               "icon":  "ScrollText",
+                                               "label":  "Lebenslauf / Berufsprofil",
+                                               "desc":  "Für berufliche Tí¤tigkeiten"
+                                           }
+                                       ]
+                         },
+    "whyChooseUsSection":  {
+                               "badge":  "Warum Sie sich für uns entscheiden sollten",
+                               "title":  "Ihr vertrauenswürdiger Partner in der Freihandelszone",
+                               "titleHighlight":  "Freizonenpartner",
+                               "items":  [
+                                             {
+                                                 "icon":  "ShieldCheck",
+                                                 "label":  "Expertise in Freizonen für über 45-Jí¤hrige",
+                                                 "desc":  "Umfassende Kenntnisse aller Freizonen der VAE"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Schnelle Einrichtung in 3-7 Tagen",
+                                                 "desc":  "Optimierter Prozess für einen schnellen Start"
+                                             },
+                                             {
+                                                 "icon":  "Dollarzeichen",
+                                                 "label":  "Transparente Preise",
+                                                 "desc":  "Niemals versteckte Gebühren"
+                                             },
+                                             {
+                                                 "icon":  "Benutzerprüfung",
+                                                 "label":  "Engagierter Berater",
+                                                 "desc":  "Persí¶nlicher Berater wí¤hrend des gesamten Aufenthalts"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "label":  "Mehrsprachiges Team",
+                                                 "desc":  "Englisch, Arabisch, Hindi, Urdu"
+                                             },
+                                             {
+                                                 "icon":  "Bank",
+                                                 "label":  "Unterstützung durch Firmenbanken",
+                                                 "desc":  "Netzwerk führender Banken in den VAE"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Laufende Einhaltung",
+                                                 "desc":  "Verlí¤ngerungen, PRO und Aktualisierungen"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "Geschí¤ftswachstumsaussichten",
+                               "title":  "Von Tausenden vertraut",
+                               "titleHighlight":  "Tausende",
+                               "subtitle":  "Ihre Freizone-Einrichtung "“ in Expertenhí¤nden.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Gebí¤ude 2",
+                                                 "value":  "Mehr als 10.000",
+                                                 "label":  "Gegründete Unternehmen",
+                                                 "color":  "von Smaragdgrün 400 bis Türkis 600"
+                                             },
+                                             {
+                                                 "icon":  "Globus",
+                                                 "value":  "45+",
+                                                 "label":  "Freizonen",
+                                                 "color":  "von Türkis-400 bis Cyan-600"
+                                             },
+                                             {
+                                                 "icon":  "Aufwí¤rtstrend",
+                                                 "value":  "Führend",
+                                                 "label":  "Einrichtungsexperte",
+                                                 "color":  "von Cyan 400 bis Himmelblau 600"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "3-7",
+                                                 "label":  "Tagesaufbau",
+                                                 "color":  "von Himmel-400 bis Blau-600"
+                                             },
+                                             {
+                                                 "icon":  "ShieldCheck",
+                                                 "value":  "100%",
+                                                 "label":  "Konform",
+                                                 "color":  "von Blau-400 bis Indigo-600"
+                                             },
+                                             {
+                                                 "icon":  "Krone",
+                                                 "value":  "Bevorzugt",
+                                                 "label":  "Einrichtungspartner",
+                                                 "color":  "von Indigo-400 bis Violett-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Hí¤ufig gestellte Fragen",
+                        "title":  "Hí¤ufig gestellte Fragen",
+                        "titleHighlight":  "Fragen",
+                        "subtitle":  "Alles, was Sie über die Gründung eines Unternehmens in einer Freizone der VAE wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+                        "sidebarCard":  {
+                                            "title":  "Haben Sie noch Fragen?",
+                                            "text":  "Lassen Sie sich kostenlos von unseren Freizonen-Spezialisten beraten.",
+                                            "whatsappMessage":  "Hallo! Ich habe eine Frage zur Unternehmensgründung in einer Freizone der VAE."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Was ist ein Unternehmen in einer Freizone der VAE?",
+                                          "a":  "Eine Freizonengesellschaft ist ein Unternehmen, das von einer der über 45 Freizonen der VAE lizenziert ist. Sie ermí¶glicht 100% auslí¤ndisches Eigentum, 0% Kí¶rperschaftsteuer und die vollstí¤ndige Gewinnrückführung "“ kann aber in der Regel nicht direkt auf dem Festlandmarkt der VAE handeln."
+                                      },
+                                      {
+                                          "q":  "Welche Freihandelszone ist die beste für mein Unternehmen?",
+                                          "a":  "Es kommt auf Ihre Geschí¤ftstí¤tigkeit, Ihr Budget und Ihre Ziele an. IFZA und Meydan eignen sich hervorragend für Startups und KMU. DMCC ist ideal für Rohstoffe. DAFZA ist für Luftfahrt und Logistik geeignet. Wir helfen Ihnen, die passende Plattform für Ihr Geschí¤ftsmodell zu finden."
+                                      },
+                                      {
+                                          "q":  "Wie viel kostet die Gründung eines Unternehmens in einer Freihandelszone?",
+                                          "a":  "Die Gründung eines Unternehmens in einer Freizone beginnt bei ca. 5.750 AED für ein Basislizenzpaket. Die endgültigen Kosten hí¤ngen von der Freizone, der Lizenzart, den Bürorí¤umen und dem Visakontingent ab. Wir bieten transparente Komplettpreise."
+                                      },
+                                      {
+                                          "q":  "Wie lange dauert es, eine Freizonenlizenz zu erhalten?",
+                                          "a":  "In der Regel 3"“7 Werktage bei vollstí¤ndiger Dokumentation. Einige Freihandelszonen bieten über unser Priorití¤tsnetzwerk Lizenzen noch am selben oder am ní¤chsten Tag an."
+                                      },
+                                      {
+                                          "q":  "Kann ich 100 % eines Unternehmens in einer Freihandelszone besitzen?",
+                                          "a":  "Ja. Alle Freizonen der VAE erlauben 100% auslí¤ndisches Eigentum "“ kein lokaler Sponsor oder Partner aus den VAE ist erforderlich."
+                                      },
+                                      {
+                                          "q":  "Kann ich über mein Unternehmen in der Freihandelszone Familienangehí¶rige sponsern?",
+                                          "a":  "Ja. Abhí¤ngig von der Freizone und Ihrem Visakontingent kí¶nnen Sie Investorenvisa für sich selbst, Mitarbeitervisa für Ihre Angestellten und Angehí¶rigenvisa für Ihre Familienmitglieder beantragen."
+                                      },
+                                      {
+                                          "q":  "Kann ein Unternehmen aus einer Freihandelszone auch auf dem Festland der VAE Handel treiben?",
+                                          "a":  "Nein. Unternehmen aus Freizonen dürfen nicht direkt auf dem Festlandmarkt der VAE handeln. Sie kí¶nnen jedoch über einen lokalen Vertriebspartner oder Agenten tí¤tig werden, und einige Freizonen bieten Optionen für eine Doppellizenzierung an."
+                                      },
+                                      {
+                                          "q":  "Welche Büroflí¤chenoptionen gibt es in Freizonen?",
+                                          "a":  "In den Freihandelszonen werden flexible Arbeitsplí¤tze, Coworking-Spaces, private Büros, Executive-Suiten, Lagerhallen und Industriehallen angeboten "“ je nach Geschí¤ftstí¤tigkeit und Lizenztyp."
+                                      },
+                                      {
+                                          "q":  "Kann ich mit einer Freizonenlizenz ein Firmenbankkonto erí¶ffnen?",
+                                          "a":  "Ja. Wir bieten umfassende Unterstützung bei der Erí¶ffnung von Firmenkonten bei führenden Banken in den VAE "“ einschlieíŸlich KYC-Vorbereitung, Dokumentation und Nachbearbeitung."
+                                      },
+                                      {
+                                          "q":  "Warum sollten Sie Setup Zone Dubai für die Einrichtung einer Freihandelszone wí¤hlen?",
+                                          "a":  "Wir verfügen über Expertise in allen über 45 Freizonen der VAE, bieten transparente Preise, umfassende Unterstützung (Lizenz, Visum, Bankwesen, PRO, Compliance) und kí¶nnen auf eine nachweisliche Erfolgsbilanz von über 10.000 erfolgreichen Niederlassungen zurückblicken."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Verwandte Dienstleistungen",
+                                   "titleHighlight":  "Dienstleistungen",
+                                   "subtitle":  "Dienstleistungen, die gut mit der Gründung eines Unternehmens in einer Freizone harmonieren.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Firmengründung in Dubai",
+                                                     "description":  "Freizonen-, Festland- und Offshore-Strukturen.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "von Smaragdgrün 400 bis Türkis 600"
+                                                 },
+                                                 {
+                                                     "slug":  "free-zone-locations",
+                                                     "title":  "Leitfaden zu den Standorten der Freihandelszonen",
+                                                     "description":  "Vergleichen Sie alle über 45 Freihandelszonen der VAE.",
+                                                     "image":  "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800\u0026q=80",
+                                                     "gradient":  "von Türkis-400 bis Cyan-600"
+                                                 },
+                                                 {
+                                                     "slug":  "ecommerce-license",
+                                                     "title":  "E-Commerce-Lizenz in Dubai",
+                                                     "description":  "Gründen Sie Ihr Online-Geschí¤ft in Dubai.",
+                                                     "image":  "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800\u0026q=80",
+                                                     "gradient":  "von Cyan 400 bis Himmelblau 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Start in 3-7 Tagen",
+                     "title":  "Sind Sie bereit, Ihr Unternehmen in der Freizone zu gründen?",
+                     "titleHighlight":  "Freizonenunternehmen?",
+                     "subtitle":  "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten Prozess "“ von der Auswahl der passenden Freihandelszone bis zur Lizenzerteilung und Kontoerí¶ffnung.",
+                     "chips":  [
+                                   "Kostenlose Beratung",
+                                   "3-7 Tage Einrichtungszeit",
+                                   "100% Eigentum"
+                               ],
+                     "whatsappMessage":  "Hallo! Ich hí¤tte gerne eine kostenlose Beratung zur Gründung eines Unternehmens in einer Freizone der VAE.",
+                     "whatsappCardMessage":  "Hallo! Ich würde gerne über die Gründung eines Unternehmens in einer Freizone der VAE sprechen."
+                 }
+}

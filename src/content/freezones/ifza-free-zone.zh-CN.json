@@ -1,0 +1,591 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1600&q=80",
+  "heroBadge": "国际自由区管理局",
+  "heroTitle": "IFZA自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "阿联酋发展最快、最具活力的自由区之一。100%外资所有权，0%税率，完全远程设立——是初创企业、中小企业和全球企业家的理想之选。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "2-3天完成安装"
+  ],
+  "heroCards": {
+    "primary": {
+      "badge": "性价比最高",
+      "icon": "DollarSign",
+      "label": "许可证来自",
+      "value": "11,500 迪拉姆",
+      "highlight": "2-3天",
+      "highlightLabel": "setup",
+      "footer": "价格透明，无隐藏费用",
+      "color": "from-violet-400 to-purple-600"
+    },
+    "secondary": {
+      "icon": "Globe",
+      "label": "完全远程",
+      "value": "99% 在线",
+      "title": "随时随地设置",
+      "subtext": "无需前往迪拜",
+      "color": "from-fuchsia-400 to-pink-500"
+    }
+  },
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "2-3",
+      "label": "设置天数",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-purple-400 to-fuchsia-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "税率",
+      "color": "from-fuchsia-400 to-pink-600"
+    },
+    {
+      "icon": "Users",
+      "value": "20,000+",
+      "label": "公司",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyIfzaSection": {
+    "badge": "为什么选择IFZA",
+    "title": "为什么选择IFZA自由区？",
+    "titleHighlight": "IFZA自由区？",
+    "subtitle": "阿联酋发展最快的自由区之一，拥有国际标准和灵活的低成本解决方案。",
+    "primaryCard": {
+      "icon": "Zap",
+      "title": "快速且经济高效",
+      "description": "注册最快只需 2-3 天，价格低廉透明，并提供定制套餐选项。",
+      "color": "from-violet-500 via-purple-600 to-violet-700"
+    },
+    "secondaryCards": [
+      {
+        "icon": "Globe",
+        "title": "99% 在线设置",
+        "description": "全数字化门户——非常适合远程创业者。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Users",
+        "title": "全球生态系统",
+        "description": "支持多语言服务和全球企业家网络。",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "主要优势",
+    "title": "IFZA自由区的主要优势",
+    "titleHighlight": "IFZA自由区",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "无需当地担保人，即可100%拥有公司所有权，并将利润和资本100%汇回本国。",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1200&q=80"
+      },
+      {
+        "icon": "Zap",
+        "title": "完全远程设置——99%在线",
+        "description": "IFZA 的数字门户和电子服务让您可以完全在线设置和管理您的公司。",
+        "color": "from-purple-400 to-fuchsia-600",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "企业及个人所得税均为 0%。",
+        "description": "您可以享受 0% 的企业所得税和个人所得税优惠——这使得 IFZA 成为阿联酋最优惠的司法管辖区。",
+        "color": "from-fuchsia-400 to-pink-600",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80"
+      },
+      {
+        "icon": "FileText",
+        "title": "多种许可选项",
+        "description": "选择您所需的 IFZA 商业、专业、工业、离岸或虚拟资产许可证。",
+        "color": "from-indigo-400 to-violet-600",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200&q=80"
+      },
+      {
+        "icon": "Clock",
+        "title": "速度与成本效益",
+        "description": "只需 2-3 天即可完成 IFZA 公司注册，价格低廉且透明。",
+        "color": "from-pink-400 to-rose-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80"
+      },
+      {
+        "icon": "Users",
+        "title": "高级商业生态系统",
+        "description": "扩大 IFZA 生态系统，将国际企业家与银行、咨询和公共关系服务联系起来。",
+        "color": "from-cyan-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&q=80"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "IFZA 的 7 个许可证类别",
+    "titleHighlight": "IFZA",
+    "subtitle": "提供种类繁多的许可证，适用于各种商业活动。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "营业执照",
+        "description": "用于进口、出口、批发或分销。",
+        "code": "TRD",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "专业执照",
+        "description": "适用于顾问、自由职业者和服务提供商。",
+        "code": "专业版",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "商业许可",
+        "description": "适用于各行各业的贸易公司。",
+        "code": "COM",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "用于制造、包装和生产。",
+        "code": "IND",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Compass",
+        "title": "旅游许可证",
+        "description": "适用于旅行社和旅游经营者。",
+        "code": "TRS",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Globe2",
+        "title": "离岸许可证",
+        "description": "适用于在阿联酋没有办事处的国际企业。",
+        "code": "离开",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Blocks",
+        "title": "元宇宙服务许可证",
+        "description": "适用于虚拟经济和数字资产企业。",
+        "code": "MTV",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "officeOptionsSection": {
+    "badge": "办公解决方案",
+    "title": "可扩展基础设施选项",
+    "titleHighlight": "基础设施选项",
+    "subtitle": "专为初创企业、中小企业和跨国公司量身定制。",
+    "items": [
+      {
+        "icon": "Monitor",
+        "title": "灵活办公桌",
+        "description": "为初创公司和自由职业者提供价格实惠的共享办公空间。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "智能办公室",
+        "description": "即刻可用的共享办公室，灵活便捷，节省成本。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "专用办公室",
+        "description": "为企业提供配备高速互联网和便利设施的办公空间装修服务。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "IFZA学院",
+        "description": "面向企业家的行业培训和技能提升计划。",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "complianceSection": {
+    "badge": "合规与监管支持",
+    "title": "全面合规支持",
+    "titleHighlight": "合规支持",
+    "subtitle": "我们为您处理所有法律和监管义务。",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "UBO合规性",
+        "description": "为确保法律透明度并遵守阿联酋反金融犯罪法律，需报告受益所有人信息。"
+      },
+      {
+        "icon": "Scale",
+        "title": "ESR合规性",
+        "description": "提供有关经济实质法规和适当报告的建议和文件。"
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "反洗钱合规",
+        "description": "风险评估、尽职调查、交易监控和员工培训。"
+      },
+      {
+        "icon": "Receipt",
+        "title": "IFZA增值税咨询",
+        "description": "根据阿联酋联邦税务局规定进行增值税登记、记录保存和申报。"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "许可证续期服务",
+        "description": "续约流程快捷，文件自动生成，并附有电子提醒。"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "IFZA PRO 服务",
+        "description": "文件翻译、公证、劳工卡和移民审批。"
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "全球企业家",
+    "title": "为什么IFZA是全球企业家的理想之选",
+    "titleHighlight": "非常适合全球企业家",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "IFZA全球布局",
+        "description": "非常适合希望激活阿联酋投资的海外投资者。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Receipt",
+        "title": "透明定价",
+        "description": "没有隐藏费用，没有意外支出——只有固定价格套餐。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "商业洞察与新闻",
+        "description": "专家博客、市场动态和行业分析。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "IFZA学院及培训",
+        "description": "世界一流的培训项目，提升您的团队技能。",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "适用人群",
+    "title": "哪些人适合在IFZA设立公司？",
+    "titleHighlight": "在IFZA吗？",
+    "items": [
+      {
+        "icon": "Code",
+        "title": "初创企业和科技企业家",
+        "description": "利用经济实惠的联合办公空间，加快产品上市速度。",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Palette",
+        "title": "数字服务提供商",
+        "description": "低成本的创意专业人士和自由职业者。",
+        "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务与交易",
+        "description": "地理位置优越，物流支持到位，海关方面也具有诸多优势。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "icon": "Blocks",
+        "title": "虚拟资产业务",
+        "description": "面向元宇宙服务的区块链和加密货币业务许可证。",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "专业服务",
+        "description": "需要经济实惠许可证的咨询顾问和服务提供商。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "howWeHelpSection": {
+    "badge": "我们如何提供帮助",
+    "title": "我们的IFZA公司注册流程",
+    "titleHighlight": "形成过程",
+    "steps": [
+      {
+        "step": "01",
+        "title": "免费咨询及商业计划书",
+        "description": "我们会评估您的业务目标、行业和长期愿景，从而推荐合适的许可证。",
+        "icon": "MessageCircle",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "step": "02",
+        "title": "商标名称预留",
+        "description": "完整的商标预留流程——确保商标可用、合规且已注册。",
+        "icon": "FileText",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "step": "03",
+        "title": "许可证申请与颁发",
+        "description": "通过IFZA数字门户直接提交申请——几个工作日内即可获得许可证。",
+        "icon": "BadgeCheck",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "step": "04",
+        "title": "办公室和工作空间选择",
+        "description": "在迪拜硅谷绿洲，我们提供灵活办公桌、智能办公室或专属办公空间——满足您的预算需求。",
+        "icon": "Building2",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "step": "05",
+        "title": "签证服务",
+        "description": "完整的签证办理流程：入境许可、阿联酋身份证、体检和居留签证盖章。",
+        "icon": "UserCheck",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "step": "06",
+        "title": "银行账户和保险",
+        "description": "公司银行账户设立（阿联酋顶级银行）+医疗保险咨询。",
+        "icon": "CreditCard",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "costTimelineSection": {
+    "badge": "成本和时间",
+    "title": "透明定价（2026 年）",
+    "titleHighlight": "定价（2026 年）",
+    "subtitle": "IFZA以透明、全包式定价而闻名。无任何隐藏费用。",
+    "costBreakdown": [
+      {
+        "item": "许可证（起始）",
+        "cost": "11,500",
+        "notes": "包括注册",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "item": "弹性办公桌",
+        "cost": "7,500 - 9,000",
+        "notes": "年度要求",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "item": "签证（每人）",
+        "cost": "4,500 - 6,500",
+        "notes": "阿联酋身份证",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "item": "营业执照",
+        "cost": "1500-2000",
+        "notes": "年度的",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "item": "增值税登记",
+        "cost": "1,000 - 2,000",
+        "notes": "如有需要",
+        "color": "from-cyan-400 to-blue-600"
+      }
+    ],
+    "year1Total": {
+      "label": "典型年份 1 总计",
+      "subtext": "单一股东公司，仅需一张签证",
+      "fromLabel": "从",
+      "minValue": "24,000",
+      "maxValue": "35,000"
+    },
+    "timelineBadge": "IFZA 时间表",
+    "timelineTitle": "预期情况",
+    "timeline": [
+      {
+        "day": "第一天",
+        "title": "姓名预订 + 活动选择",
+        "description": "我们帮助您预留商号并选择合适的商业活动。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "day": "第2-3天",
+        "title": "文件已审核，许可证已颁发",
+        "description": "您的申请将得到审核，许可证将在几个工作日内发放。",
+        "color": "from-purple-400 to-fuchsia-600"
+      },
+      {
+        "day": "第 1-2 周",
+        "title": "签证体检、阿联酋身份证、盖章",
+        "description": "办理全套签证手续，包括体检和阿联酋身份证生物识别信息采集。",
+        "color": "from-fuchsia-400 to-pink-600"
+      },
+      {
+        "day": "第2-3周",
+        "title": "公司银行账户已开立",
+        "description": "我们帮助您在阿联酋顶级银行开设公司银行账户。",
+        "color": "from-indigo-400 to-violet-600"
+      }
+    ],
+    "comparisonTitle": "IFZA 对阵 Rakez 对阵 Meydan",
+    "comparisonSubtitle": "预算自由区比较",
+    "comparisonHeaders": {
+      "factor": "因素",
+      "ifza": "IFZA",
+      "rakez": "拉凯兹",
+      "meydan": "迈丹"
+    },
+    "comparison": [
+      {
+        "factor": "起始成本",
+        "ifza": "11,500 迪拉姆",
+        "rakez": "6000迪拉姆",
+        "meydan": "5,750 迪拉姆"
+      },
+      {
+        "factor": "签证配额",
+        "ifza": "最多 15",
+        "rakez": "最多 10",
+        "meydan": "最多 6"
+      },
+      {
+        "factor": "处理速度",
+        "ifza": "3个工作日",
+        "rakez": "1-3天",
+        "meydan": "1-2天"
+      },
+      {
+        "factor": "地点",
+        "ifza": "迪拜硅谷绿洲",
+        "rakez": "拉斯海玛",
+        "meydan": "迪拜（迈丹）"
+      },
+      {
+        "factor": "银行友好度",
+        "ifza": "出色的",
+        "rakez": "好的",
+        "meydan": "好的"
+      }
+    ],
+    "verdictLabel": "判决：",
+    "verdictText": "IFZA 是需要规模的贸易公司的理想选择；Rakez 和 Meydan 则是纯粹的成本之王。"
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于IFZA自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的IFZA专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于IFZA自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "什么是IFZA？它为何是迪拜公司注册的理想之选？",
+        "a": "迪拜国际自由区 (IFZA) 是迪拜顶尖的自由区之一，以其低廉的设立成本、100% 外资所有权和灵活的许可证制度而闻名。这里免征企业所得税和个人所得税，是全球企业家、中小企业和初创公司的理想之选。"
+      },
+      {
+        "q": "在IFZA设立公司需要多长时间？",
+        "a": "通常情况下，在专业人员的协助下，需要 2-3 个工作日。如有需要，我们可以加快处理速度。"
+      },
+      {
+        "q": "我可以通过IFZA获得哪些许可证？",
+        "a": "商业、专业、工业、离岸、旅游和元宇宙/虚拟资产许可证。"
+      },
+      {
+        "q": "我可以通过IFZA远程运营我的业务吗？",
+        "a": "是的。IFZA 的数字化门户网站支持 99% 的在线设置和管理——非常适合远程创业者。"
+      },
+      {
+        "q": "IFZA是否允许100%外资控股？",
+        "a": "是的。完全外资所有，利润和资本100%汇回——无需当地担保人。"
+      },
+      {
+        "q": "IFZA是否征收企业所得税或个人所得税？",
+        "a": "不。0% 企业所得税和 0% 个人所得税——阿联酋最优惠的司法管辖区。"
+      },
+      {
+        "q": "IFZA提供哪些办公空间选择？",
+        "a": "迪拜硅谷绿洲的灵活办公桌、智能办公室、专属办公空间和物业服务。"
+      },
+      {
+        "q": "请问您能帮我为我的IFZA公司开设一个银行账户吗？",
+        "a": "是的。我们与阿联酋顶尖银行合作，以最少的资料为您开设公司账户。"
+      },
+      {
+        "q": "IFZA提供哪些合规支持？",
+        "a": "UBO 合规、ESR 合规、AML 合规、增值税咨询、许可证续期和 PRO 服务。"
+      },
+      {
+        "q": "设立IFZA需要多少费用？",
+        "a": "许可证费用 11,500 迪拉姆 + 灵活办公桌费用 7,500-9,000 迪拉姆 + 签证费用 4,500-6,500 迪拉姆。第一年总费用通常为 24,000 - 35,000 迪拉姆。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的自由区设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "合规服务",
+        "description": "UBO、ESR、AML 和增值税咨询。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "黄金签证",
+        "description": "为投资者和人才提供10年阿联酋居留权。",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天就开始",
+    "title": "准备好在IFZA启动了吗？",
+    "titleHighlight": "IFZA？",
+    "subtitle": "获取免费咨询。我们将指导您完成整个设置流程——从选择业务类型到颁发许可证和开设银行账户。",
+    "chips": [
+      "免费咨询",
+      "20,000+ 客户",
+      "2-3天完成安装"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于IFZA设立的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一下IFZA的设置。"
+  }
+}

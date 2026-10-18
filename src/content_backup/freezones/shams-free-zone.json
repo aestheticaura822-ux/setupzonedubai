@@ -1,0 +1,190 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1600&q=80",
+  "heroBadge": "Launch Fast. Grow Smart.",
+  "heroTitle": "SHAMS Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "Sharjah Media City — the creative, digital, and freelance hub in the UAE. Built for content creators, consultants, tech startups, and e-commerce platforms.",
+  "heroChips": ["100% Ownership", "0% Tax", "Remote Setup"],
+
+  "stats": [
+    { "icon": "Zap", "value": "3-5", "label": "Days Setup", "color": "from-rose-400 to-pink-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-pink-400 to-fuchsia-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-fuchsia-400 to-purple-600" },
+    { "icon": "Users", "value": "1000+", "label": "Creative Businesses", "color": "from-violet-400 to-purple-600" }
+  ],
+
+  "whyShamsSection": {
+    "badge": "Why SHAMS",
+    "title": "What Makes SHAMS a Standout Free Zone?",
+    "titleHighlight": "Standout Free Zone?",
+    "subtitle": "The Free Zone designed for digital-first, service-based, and creative businesses.",
+    "items": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership — no local sponsor needed.", "color": "from-rose-400 to-pink-600", "size": "small" },
+      { "icon": "DollarSign", "title": "No Tax", "description": "Zero income tax and corporate tax — keep everything you earn.", "color": "from-pink-400 to-fuchsia-600", "size": "small" },
+      { "icon": "Zap", "title": "Fast Processing", "description": "Company registration completed in just a few business days.", "color": "from-fuchsia-400 to-purple-600", "size": "small" },
+      { "icon": "Video", "title": "Built for Creators", "description": "Ideal for influencers, developers, consultants, designers, and e-commerce traders — the UAE's top choice for digital-first businesses.", "color": "from-violet-400 to-purple-600", "size": "large" },
+      { "icon": "Home2", "title": "No Office Required", "description": "Start with flexible workspace or work from home.", "color": "from-purple-400 to-indigo-600", "size": "small" }
+    ]
+  },
+
+  "readyToLaunchSection": {
+    "badge": "Ready to Launch?",
+    "title": "Start Your SHAMS Free Zone Business",
+    "titleHighlight": "Free Zone Business",
+    "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=1200&q=80",
+    "imageBadgeTitle": "Launch In",
+    "imageBadgeText": "3-5 Working Days",
+    "paragraphs": [
+      "Whether you're a freelancer, content creator, or e-commerce entrepreneur — SHAMS Free Zone is the UAE's top choice for flexible, fast, and future-ready company formation.",
+      "We help you with end-to-end setup services including trade license, visa, and business bank account assistance. With quick approvals, planned costs, and no hidden fees, SHAMS is the ideal location for digital creators, consultants, and small business owners.",
+      "We handle everything from license to launch — so you can stay focused on growing your brand."
+    ],
+    "highlights": ["Licence to Launch", "No Hidden Fees", "Fast Approvals", "Compliance Ready"]
+  },
+
+  "licensesSection": {
+    "badge": "License Categories",
+    "title": "One Zone. Many Possibilities.",
+    "titleHighlight": "Many Possibilities.",
+    "subtitle": "Each license can be customized to include single or multiple activities.",
+    "items": [
+      { "icon": "Film", "title": "Media License", "description": "For digital creators, film production, publishing, and broadcasting.", "code": "MED", "color": "from-rose-400 to-pink-600" },
+      { "icon": "ShoppingCart", "title": "E-commerce License", "description": "Ideal for online sellers, dropshipping, and marketplace owners.", "code": "ECM", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Briefcase", "title": "Consultancy License", "description": "For advisors in management, finance, HR, and education.", "code": "CNS", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Store", "title": "Trading License", "description": "Suitable for product import/export and warehousing.", "code": "TRD", "color": "from-violet-400 to-purple-600" },
+      { "icon": "UserCheck", "title": "Freelance Permit", "description": "For individuals offering creative, technical, or advisory services.", "code": "FRL", "color": "from-purple-400 to-indigo-600" },
+      { "icon": "Layers", "title": "Service License", "description": "Covers a broad range of professional services and support operations.", "code": "SRV", "color": "from-indigo-400 to-blue-600" }
+    ]
+  },
+
+  "workspacesSection": {
+    "badge": "Workspace Options",
+    "title": "Office Flexibility Built for Modern Work",
+    "titleHighlight": "Built for Modern Work",
+    "subtitle": "Operate from home, coworking space, or scale to a private office as needed.",
+    "items": [
+      { "icon": "Laptop", "title": "Smart Desks & Flexi-desks", "description": "For entrepreneurs working remotely or hybrid.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Building2", "title": "Executive Office Units", "description": "For teams or client-facing businesses.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Podcast", "title": "Studios & Podcast Rooms", "description": "Fully-equipped media and audio production spaces.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Wifi", "title": "Co-working Environments", "description": "High-speed connectivity and collaborative spaces.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Coffee", "title": "Lifestyle Amenities", "description": "Cafés, lounges, and fitness areas on-site.", "color": "from-purple-400 to-indigo-600" }
+    ]
+  },
+
+  "howWeHelpSection": {
+    "badge": "How We Help",
+    "title": "How We Help You Launch in SHAMS",
+    "titleHighlight": "Launch in SHAMS",
+    "subtitle": "An all-inclusive, guided business formation — from first meeting to post-setup support.",
+    "steps": [
+      { "step": "01", "title": "Consultation & Activity Selection", "description": "We help you decide which business activity suits your goals and reserve a company name per SHAMS regulations.", "icon": "MessageCircle", "color": "from-rose-400 to-pink-600" },
+      { "step": "02", "title": "License Application & Processing", "description": "We file all applications, manage the license process, and obtain your establishment card.", "icon": "FileText", "color": "from-pink-400 to-fuchsia-600" },
+      { "step": "03", "title": "Immigration File Creation", "description": "We create your immigration file and handle all visa steps.", "icon": "Users", "color": "from-fuchsia-400 to-purple-600" },
+      { "step": "04", "title": "Visa Processing & Emirates ID", "description": "Full visa applications for investors and employees — plus Emirates ID and medical steps.", "icon": "UserCheck", "color": "from-violet-400 to-purple-600" },
+      { "step": "05", "title": "Bank Account & Compliance", "description": "Bank account setup with documents in place — plus license renewals and compliance.", "icon": "CreditCard", "color": "from-purple-400 to-indigo-600" },
+      { "step": "06", "title": "Post-Setup Growth Support", "description": "Branding, profile creation, and web planning — we help you grow.", "icon": "Rocket", "color": "from-indigo-400 to-blue-600" }
+    ]
+  },
+
+  "activitiesSection": {
+    "badge": "Top Activities",
+    "title": "SHAMS Empowers Your Niche",
+    "titleHighlight": "Your Niche",
+    "subtitle": "SHAMS continues to expand as a hub for creative and digital businesses.",
+    "items": [
+      { "icon": "Film", "label": "Film Production & Videography" },
+      { "icon": "Camera", "label": "Post-Production" },
+      { "icon": "ShoppingCart", "label": "E-commerce Marketplaces" },
+      { "icon": "Package", "label": "Digital Product Sales" },
+      { "icon": "Megaphone", "label": "Advertising & PR" },
+      { "icon": "Radio", "label": "Media Buying" },
+      { "icon": "Briefcase", "label": "Business Consulting" },
+      { "icon": "GraduationCap", "label": "Educational Consulting" },
+      { "icon": "DollarSign", "label": "Financial Consulting" },
+      { "icon": "Cpu", "label": "App Development" },
+      { "icon": "Monitor", "label": "IT Services" },
+      { "icon": "BookOpen", "label": "Publishing Houses" },
+      { "icon": "Music", "label": "Content Businesses" },
+      { "icon": "Sparkles", "label": "Game Design" },
+      { "icon": "MonitorPlay", "label": "Streaming Services" },
+      { "icon": "Palette", "label": "Animation & Web Design" },
+      { "icon": "Pen", "label": "Branding Services" }
+    ],
+    "footerText": "We identify your activity with the correct SHAMS license codes"
+  },
+
+  "visaServicesSection": {
+    "badge": "Visa & Immigration",
+    "title": "Visa Services for SHAMS Businesses",
+    "titleHighlight": "SHAMS Businesses",
+    "subtitle": "We ensure your team stays compliant — and your operations are never interrupted.",
+    "items": [
+      { "icon": "UserCheck", "title": "Investor & Shareholder Visas", "description": "For business owners and shareholders in SHAMS.", "stampColor": "from-rose-500 to-pink-600" },
+      { "icon": "Briefcase", "title": "Employment Visas", "description": "For employees sponsored by your SHAMS company.", "stampColor": "from-pink-500 to-fuchsia-600" },
+      { "icon": "Users", "title": "Family Sponsorship", "description": "Sponsor spouse, children, and dependents.", "stampColor": "from-fuchsia-500 to-purple-600" },
+      { "icon": "FileBadge", "title": "Emirates ID & Medical", "description": "Full coordination for medical tests and Emirates ID.", "stampColor": "from-violet-500 to-purple-600" },
+      { "icon": "RefreshCw", "title": "Visa Renewals", "description": "Renewals and status tracking support.", "stampColor": "from-purple-500 to-indigo-600" },
+      { "icon": "ShieldCheck", "title": "Immigration & PRO", "description": "Immigration card creation and PRO services.", "stampColor": "from-indigo-500 to-blue-600" }
+    ]
+  },
+
+  "taxAdvantagesSection": {
+    "badge": "Tax & Financial Advantages",
+    "title": "Compelling Financial Incentives",
+    "titleHighlight": "Financial Incentives",
+    "subtitle": "We assist in structuring your finances for compliance and scalability.",
+    "items": [
+      { "icon": "DollarSign", "title": "0% Corporate & Personal Income Tax", "description": "Keep everything you earn — no taxes deducted." },
+      { "icon": "Send", "title": "Full Repatriation of Profits", "description": "Move your profits freely to your home country." },
+      { "icon": "FileCheck", "title": "No Audit Required", "description": "Most companies don't require audits." },
+      { "icon": "Package", "title": "No Customs Duty", "description": "No customs duties within the Free Zone." },
+      { "icon": "Percent", "title": "Optional VAT Registration", "description": "Depending on your turnover threshold." },
+      { "icon": "CreditCard", "title": "Bank Account Opening", "description": "With UAE and international banks." }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about SHAMS Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our SHAMS specialists.",
+      "whatsappMessage": "Hi! I have a question about SHAMS Free Zone."
+    },
+    "items": [
+      { "q": "How fast can I get my SHAMS license?", "a": "The whole company setup process takes about 3-5 working days with all documents properly prepared. Our end-to-end coordination means your business can be operational in less than a week." },
+      { "q": "Can I get a visa with my SHAMS license?", "a": "Yes. SHAMS allows visa quotas based on your license and package. We handle investor, employment, and family visas end-to-end." },
+      { "q": "What if I am working from a physical location outside the UAE?", "a": "SHAMS allows 100% remote setup. You can operate from anywhere in the world — we handle everything digitally." },
+      { "q": "Is a trade license required for my online store?", "a": "Yes. E-commerce activities require an E-commerce License from SHAMS. We help you choose the right license type." },
+      { "q": "How many business activities can I include in one license?", "a": "Depends on the license type. Many SHAMS licenses allow multiple activities — we help you maximize value." },
+      { "q": "Do I have to prepare a business plan for registration?", "a": "Not usually. Some activities may require additional documentation — we guide you on what's needed." },
+      { "q": "Is SHAMS cost-effective for new businesses?", "a": "Absolutely. SHAMS is one of the most affordable free zones for creative, digital, and freelance businesses — with no hidden fees." },
+      { "q": "Can I set up a SHAMS company without being in the UAE?", "a": "Yes. SHAMS allows 100% remote setup — no need to visit UAE." },
+      { "q": "Can I register an influencer brand or content creation company?", "a": "Yes! SHAMS is specifically designed for influencers, content creators, and media businesses." },
+      { "q": "Will you assist me after I have my license?", "a": "Yes. We provide post-setup support including license renewals, compliance, branding, and business growth services." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your SHAMS Free Zone setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-rose-400 to-pink-600" },
+      { "slug": "digital-marketing", "title": "Digital Marketing", "description": "Social media, paid ads, and content strategy.", "image": "https://images.unsplash.com/photo-1611926653458-09294b3142bf?w=800&q=80", "gradient": "from-fuchsia-400 to-purple-600" },
+      { "slug": "web-development", "title": "Web Development", "description": "Modern websites for creative businesses.", "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=800&q=80", "gradient": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in SHAMS?",
+    "titleHighlight": "SHAMS?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire setup process — from license to launch.",
+    "chips": ["Free Consultation", "No Hidden Fees", "3-5 Days Setup"],
+    "whatsappMessage": "Hi! I'd like a free consultation for SHAMS setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss SHAMS setup."
+  }
+}

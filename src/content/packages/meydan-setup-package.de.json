@@ -1,0 +1,551 @@
+{
+  "slug": "meydan-setup-package",
+  "hero": {
+    "badge": "Erstklassiges Geschäftsziel",
+    "title": "Meydan-Setup-Paket",
+    "titleHighlight": "Paket",
+    "subtitle": "Die Meydan Free Zone ist Dubais prestigeträchtigster Geschäftsstandort. Günstige Pakete ab nur 5.999 AED – inklusive Lizenz, Visum, Bankkonto und mehr.",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+    "breadcrumbLabel": "Meydan-Setup-Paket",
+    "ctaPrimaryText": "Pakete ansehen",
+    "ctaPrimaryLink": "#Pakete",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für das Meydan-Setup-Paket.",
+    "badges": [
+      "Ab 5.999 AED",
+      "11 Pakete",
+      "3-7 Tage Einrichtungszeit",
+      "100% Eigentum"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "Ausgehend von",
+      "color": "from-amber-400 to-yellow-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Pakete",
+      "color": "from-yellow-400 to-orange-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Tagesaufbau",
+      "color": "from-orange-400 to-amber-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Eigentum",
+      "color": "from-amber-400 to-orange-500"
+    }
+  ],
+  "intro": {
+    "badge": "Wir sind hier, um zu helfen!",
+    "title": "Preisgünstige Meydan-Einrichtungspakete für Ihr Unternehmen in den VAE",
+    "titleHighlight": "für Ihr Unternehmen in den VAE",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Freihandelszone Meydan",
+    "imageBadgeText": "Dubai, Vereinigte Arabische Emirate",
+    "paragraph1": "Möchten Sie Ihr Unternehmen im florierenden Markt der VAE etablieren? Unser Expertenteam ist darauf spezialisiert, Unternehmern bei der Gründung erfolgreicher Unternehmen in über 65 Jurisdiktionen zu helfen.",
+    "paragraph2": "Ob Sie die Flexibilität einer Freizone oder das Prestige einer Handelslizenz für das Festland bevorzugen, wir bieten Dubais beste Pakete zur Unternehmensgründung, die Ihren gehobenen Geschäftszielen gerecht werden.",
+    "paragraph3": "Alle Pakete bieten einen Ausgangspunkt für Ihre unternehmerische Reise und können an Ihre Bedürfnisse angepasst werden.",
+    "features": [
+      "65+ Gerichtsbarkeiten",
+      "Premiumzone",
+      "Anpassbare Pakete",
+      "Ab 5.999 AED",
+      "Schnelle Einrichtung in 3-7 Tagen",
+      "Volle Unterstützung"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "Premium-Business-Ökosystem",
+    "title": "Entwickelt für Premium-Branchen",
+    "titleHighlight": "Premium Industries",
+    "subtitle": "Sechs Premium-Sektoren, die in der Meydan Free Zone florieren.",
+    "items": [
+      {
+        "icon": "Trophy",
+        "title": "Sport & Reitsport",
+        "desc": "Rennsport, Reitsport, Sportmanagement, Veranstaltungen",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Hotel",
+        "title": "Gastgewerbe & Tourismus",
+        "desc": "Hotels, Resorts, Gastronomie, Reisedienstleistungen",
+        "color": "from-yellow-400 to-orange-600"
+      },
+      {
+        "icon": "Car",
+        "title": "Automobil & Luxus",
+        "desc": "Luxusautos, Autohäuser, Premiumprodukte",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Crown",
+        "title": "Luxus & Lifestyle",
+        "desc": "Mode, Schmuck, Luxuseinzelhandel",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Utensils",
+        "title": "Gastronomie & Restaurant",
+        "desc": "Gourmetrestaurants, Cafés, Catering-Services",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Medal",
+        "title": "Veranstaltungen & Unterhaltung",
+        "desc": "Konzerte, Ausstellungen, Firmenveranstaltungen",
+        "color": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Günstige Einrichtungspakete in Dubai",
+    "title": "Unsere Meydan-Aufbaupakete",
+    "titleHighlight": "Meydan-Einrichtungspakete",
+    "subtitle": "11 Premium-Pakete, speziell für Premium-Unternehmen entwickelt. Alle individuell anpassbar.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Reise- und Tourismusberatung",
+        "price": "14.499 AED",
+        "tagline": "Mit Aufenthaltsvisum",
+        "category": "Prämie",
+        "color": "from-amber-500 to-yellow-700",
+        "badge": "Beliebt",
+        "badgeColor": "von Bernstein-500 bis Gelb-600",
+        "includes": [
+          "Freizonenlizenz",
+          "1. Aufenthaltsgenehmigung/Investorenvisum für die VAE",
+          "Medizinischer Status, Emirates ID & Statusänderung",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Eventmanagement",
+        "price": "14.499 AED",
+        "tagline": "Mit Aufenthaltsvisum",
+        "category": "Prämie",
+        "color": "from-yellow-500 to-orange-700",
+        "badge": "Prämie",
+        "badgeColor": "von Gelb-500 bis Orange-600",
+        "includes": [
+          "Freizonenlizenz",
+          "1. Aufenthaltsgenehmigung/Investorenvisum für die VAE",
+          "Medizinischer Status, Emirates ID & Statusänderung",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Allgemeiner Handel",
+        "price": "15.999 AED",
+        "tagline": "Mit Aufenthaltsvisum",
+        "category": "Prämie",
+        "color": "from-orange-500 to-amber-700",
+        "badge": "Bestes Preis-Leistungs-Verhältnis",
+        "badgeColor": "von Orange-500 bis Bernstein-600",
+        "includes": [
+          "Freizonenlizenz",
+          "1. Aufenthaltsgenehmigung für die VAE / Investorenvisum",
+          "Medizinischer Status, Emirates ID & Statusänderung",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Modedesign",
+        "price": "5.999 AED",
+        "tagline": "Bis zu 5 Aktivitäten",
+        "category": "Wirtschaft",
+        "color": "from-amber-500 to-orange-700",
+        "badge": "Kreativ",
+        "badgeColor": "von Bernstein-500 bis Orange-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Fitness & Lifestyle",
+        "price": "5.999 AED",
+        "tagline": "Bis zu 5 Aktivitäten",
+        "category": "Wirtschaft",
+        "color": "from-orange-500 to-red-700",
+        "badge": "Erschwinglich",
+        "badgeColor": "von Orange-500 bis Rot-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "E-Commerce",
+        "price": "5.999 AED",
+        "tagline": "Bereit fürs Online-Business",
+        "category": "Wirtschaft",
+        "color": "from-red-500 to-rose-700",
+        "badge": "Beliebt",
+        "badgeColor": "von Rot-500 bis Rosé-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "IT-Dienstleistungen",
+        "price": "6.449 AED",
+        "tagline": "Bis zu 5 Aktivitäten",
+        "category": "Professional",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Technik",
+        "badgeColor": "von 500 bis 600 Rosa",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Allgemeiner Handel",
+        "price": "7.999 AED",
+        "tagline": "Trading für Einsteiger",
+        "category": "Standard",
+        "color": "from-pink-500 to-fuchsia-700",
+        "badge": "Bestseller",
+        "badgeColor": "von Rosa 500 bis Fuchsia 600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Freizonenlizenz mit lebenslanger Aufenthaltsgenehmigung in den VAE",
+        "price": "11.999 AED",
+        "tagline": "Lebenslanger Wohnsitz",
+        "category": "Prämie",
+        "color": "from-fuchsia-500 to-purple-700",
+        "badge": "Exklusiv",
+        "badgeColor": "von Fuchsia-500 bis Lila-600",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenlose Aufenthaltsgenehmigung für die VAE / Investorenvisum auf Lebenszeit",
+          "Kostenloser Mietvertrag",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Festlandlizenz mit Wohnsitz in den VAE",
+        "price": "16.999 AED",
+        "tagline": "Festland + Wohnsitz",
+        "category": "Festland",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "Festland",
+        "badgeColor": "von Schiefer 600 bis Schiefer 700",
+        "includes": [
+          "Festlandlizenz",
+          "1. Aufenthaltsgenehmigung/Investorenvisum für die VAE",
+          "Medizinische Versorgung, Emirates ID und Statusänderung",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Kostenlose Mehrwertsteuerberatung"
+        ],
+        "exampleActivities": [
+          "Projektmanagement",
+          "Unternehmensberatung",
+          "Gewerbemakler",
+          "Gebäudemanagement",
+          "Reinigungsdienste",
+          "Gebäudeinstandhaltung"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Unternehmerinnen",
+        "price": "5.999 AED",
+        "tagline": "Entwickelt für Gründerinnen",
+        "category": "Besonders",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Besonders",
+        "badgeColor": "von 500 bis 600 Rosa",
+        "includes": [
+          "Freizonenlizenz",
+          "Kostenloser Mietvertrag",
+          "Bis zu 5 Geschäftsaktivitäten",
+          "Kostenlose Unterstützung bei der Kontoeröffnung",
+          "Premium-Adresse in Dubai & gemeinsames Postfach",
+          "Kostenlose Mehrwertsteuerberatung"
+        ],
+        "exampleActivities": [
+          "Lifestyle-Coaching",
+          "Digitales Marketing",
+          "Mode- und Bekleidungsdesign",
+          "Veranstaltungsmanagement",
+          "Beratungsleistungen"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "Benötigen Sie ein individuelles Premium-Paket?",
+    "subtitle": "Schildern Sie uns Ihre Vision für ein Premium-Unternehmen und wir stellen das perfekte Paket für Sie zusammen.",
+    "buttonText": "Individuelles Angebot",
+    "whatsappMessage": "Hallo! Ich benötige ein individuelles Meydan-Setup-Paket."
+  },
+  "benefits": {
+    "badge": "Warum Meydan",
+    "title": "Vorteile des Meydan-Aufbaus",
+    "titleHighlight": "Meydan-Setup",
+    "subtitle": "Sechs überzeugende Vorteile für Premium-Unternehmen.",
+    "items": [
+      {
+        "icon": "Crown",
+        "title": "Prestigeträchtige Adresse",
+        "desc": "Meydans Luxusmarke",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Kostengünstige Einrichtung",
+        "desc": "Ab 5.999 AED",
+        "color": "from-yellow-400 to-orange-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "desc": "Vollständige ausländische Eigentümerschaft",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Einrichtung in 3-7 Tagen",
+        "desc": "Schnelle Führerscheinausstellung",
+        "color": "from-amber-400 to-orange-500"
+      },
+      {
+        "icon": "Wallet",
+        "title": "0% Steuerumfeld",
+        "desc": "Steuerfreie Vorteile",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Star",
+        "title": "Premium-Ökosystem",
+        "desc": "Luxus-Business-Netzwerk",
+        "color": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "6-stufiger Prozess",
+    "title": "So starten Sie",
+    "titleHighlight": "Los geht's",
+    "subtitle": "Von der Paketauswahl bis zum Bankkonto – wir kümmern uns um alles.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Wählen Sie Ihr Paket",
+        "description": "Wählen Sie aus unseren Premium-Paketen.",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Dokumente einreichen",
+        "description": "Passkopien, Geschäftsplan und Fotos.",
+        "color": "from-yellow-400 to-orange-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Lizenzantrag",
+        "description": "Wir reichen die Klage bei der Meydan-Behörde ein.",
+        "color": "from-orange-400 to-amber-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Erhalten Sie Ihre Lizenz",
+        "description": "Lizenzierung innerhalb von 3-7 Tagen.",
+        "color": "from-amber-400 to-orange-500"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Warum Sie sich für uns entscheiden sollten",
+    "title": "Ihr vertrauenswürdiger Meydan-Einrichtungspartner",
+    "titleHighlight": "Meydan-Einrichtungspartner",
+    "subtitle": "Acht Gründe, warum Premium-Unternehmen uns vertrauen.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Transparente Preise",
+        "desc": "Niemals versteckte Gebühren"
+      },
+      {
+        "icon": "Zap",
+        "label": "Schnelle Einrichtung in 3-7 Tagen",
+        "desc": "Schnelle Führerscheinausstellung"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "100%ige Einhaltung",
+        "desc": "Vollständig von der Regierung genehmigt"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Engagierter Berater",
+        "desc": "Persönlicher Berater"
+      },
+      {
+        "icon": "Globe",
+        "label": "Mehrsprachiges Team",
+        "desc": "Englisch, Arabisch, Hindi, Urdu"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Mehrwertsteuerberatung",
+        "desc": "Inklusive kostenlos"
+      },
+      {
+        "icon": "Award",
+        "label": "Mehr als 10.000 Unternehmen",
+        "desc": "Erfolgreich gestartet"
+      },
+      {
+        "icon": "Handshake",
+        "label": "End-to-End-Support",
+        "desc": "Lizenz zum Bankkonto"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Meydan Free Zone wissen müssen. Haben Sie noch Fragen? Schreiben Sie uns einfach.",
+    "items": [
+      {
+        "q": "Was ist die Meydan Free Zone?",
+        "a": "Die Meydan Free Zone ist eine prestigeträchtige Freihandelszone in Dubai, bekannt für ihre Verbindung zur legendären Meydan-Rennbahn und ihren luxuriösen Lebensstil. Sie bietet kostengünstige Gründung, 100% ausländisches Eigentum und eine schnelle Lizenzierung innerhalb von 3–7 Werktagen."
+      },
+      {
+        "q": "Wo befindet sich die Meydan Free Zone?",
+        "a": "Die Meydan Free Zone befindet sich in Dubai, VAE – in der Nähe der berühmten Meydan-Rennbahn. Sie bietet hervorragende Anbindungen an Downtown Dubai, Business Bay sowie wichtige Autobahnen und Flughäfen."
+      },
+      {
+        "q": "Was ist im Meydan-Einrichtungspaket enthalten?",
+        "a": "Je nach gewähltem Paket erhalten Sie die Freizonenlizenz, ein Aufenthaltsvisum, eine medizinische Untersuchung und einen Emirates-Ausweis, einen Mietvertrag, Unterstützung bei der Kontoeröffnung, eine Premium-Adresse und eine kostenlose Mehrwertsteuerberatung."
+      },
+      {
+        "q": "Was kostet ein Meydan-Paket?",
+        "a": "Unsere Meydan-Pakete beginnen bei 5.999 AED (Economy) und reichen bis zu 16.999 AED (Festland + Aufenthaltsgenehmigung). Premium-Pakete mit Visum sind ab 14.499 AED erhältlich."
+      },
+      {
+        "q": "Wie lange dauert die Einrichtung?",
+        "a": "In der Regel dauert die Ausstellung der Lizenz 3-7 Werktage, die Visabearbeitung und die Eröffnung eines Bankkontos dauern zusätzlich 1-2 Wochen."
+      },
+      {
+        "q": "Kann ich mein Paket individuell zusammenstellen?",
+        "a": "Ja. Alle Pakete sind Ausgangspunkte und können individuell an Ihre Geschäftsanforderungen, Visabestimmungen und Ihr Budget angepasst werden."
+      },
+      {
+        "q": "Erhalte ich ein Aufenthaltsvisum für die VAE?",
+        "a": "Ja, ausgewählte Pakete beinhalten ein Investoren-/Aufenthaltsvisum für die VAE inklusive medizinischer Untersuchung, Emirates ID und Statusänderung. Die Freizonenlizenz mit lebenslanger Aufenthaltsgenehmigung für die VAE bietet sogar eine lebenslange Aufenthaltsgenehmigung."
+      },
+      {
+        "q": "Ist die Eröffnung eines Bankkontos inbegriffen?",
+        "a": "Ja. Alle Pakete beinhalten kostenlose Unterstützung bei der Eröffnung eines Firmenkontos bei führenden Banken in den VAE."
+      },
+      {
+        "q": "Welche Aktivitäten kann ich in der Meydan Free Zone unternehmen?",
+        "a": "Meydan unterstützt Sport & Reitsport, Gastgewerbe & Tourismus, Automobil & Luxus, Luxus & Lifestyle, Gastronomie & Restaurants, Events & Unterhaltung sowie andere Premium-Branchen – mit bis zu 5 Aktivitäten in den meisten Economy-Paketen."
+      },
+      {
+        "q": "Warum sollten Sie Setup Zone Dubai für den Aufbau von Meydan wählen?",
+        "a": "Wir bieten transparente Preise, erstklassiges Branchen-Know-how, engagierte Berater und umfassende Unterstützung – von der Lizenzierung über das Visum bis hin zur Kontoeröffnung. Und das alles mit über 10.000 erfolgreichen Projekten."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Starten Sie noch heute Ihr Premium-Geschäft.",
+    "title": "Bereit für den Start in Meydan, Dubai?",
+    "titleHighlight": "Meydan Dubai?",
+    "subtitle": "Vereinbaren Sie eine kostenlose Beratung. Wir helfen Ihnen bei der Auswahl des passenden Pakets und sorgen dafür, dass Ihr Premium-Business innerhalb weniger Tage einsatzbereit ist.",
+    "primaryCta": "WhatsApp uns",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zum Meydan-Einrichtungspaket.",
+    "badges": [
+      "Ab 5.999 AED",
+      "3-7 Tage Einrichtungszeit",
+      "100% Eigentum"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "8:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "Résidence premium de 10 ans",
+  "heroTitle": "Services de visa doré",
+  "heroTitleHighlight": "Services",
+  "heroSubtitle": "Résidence sécurisée de 10 ans aux Émirats arabes unis pour les investisseurs, les entrepreneurs, les talents exceptionnels, les scientifiques et les professionnels de haut niveau. Pleine propriété, parrainage familial et stabilité.",
+  "heroChips": [
+    "Validité de 10 ans",
+    "Parrainage familial",
+    "Propriété à 100 %",
+    "Renouvelable"
+  ],
+  "stats": [
+    {
+      "icon": "Calendar",
+      "value": "10",
+      "label": "Années de validité",
+      "color": "from-amber-400 to-yellow-600"
+    },
+    {
+      "icon": "Users",
+      "value": "Famille",
+      "label": "Parrainage",
+      "color": "from-yellow-400 to-lime-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Propriété de l'entreprise",
+      "color": "from-lime-400 to-emerald-600"
+    },
+    {
+      "icon": "RefreshCw",
+      "value": "Renouvelable",
+      "label": "à long terme",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Qu'est-ce que c'est?",
+    "title": "Qu’est-ce que le visa doré des Émirats arabes unis ?",
+    "titleHighlight": "Visa doré des Émirats arabes unis ?",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Visa Premium",
+    "imageBadgeText": "Résidence de 10 ans",
+    "paragraphs": [
+      "Le Golden Visa des Émirats arabes unis est un visa de résidence renouvelable de longue durée (10 ans) destiné aux investisseurs, entrepreneurs, talents spécialisés, chercheurs, étudiants exceptionnels et professionnels.",
+      "Conçu pour attirer les talents et les investissements du monde entier, ce modèle offre une propriété à 100 % de l'entreprise, un parrainage familial et une stabilité inégalée, sans nécessiter de parrain ou de partenaire local.",
+      "Les titulaires d'un Golden Visa peuvent vivre, travailler et étudier aux Émirats arabes unis pendant 10 ans, parrainer des membres de leur famille pour la même durée et bénéficier d'un accès complet aux soins de santé, à l'éducation et aux opportunités commerciales des Émirats arabes unis."
+    ],
+    "highlights": [
+      "Résidence de 10 ans",
+      "Renouvelable indéfiniment",
+      "Parrainage familial",
+      "Propriété de l'entreprise à 100 %",
+      "Entrée multiple",
+      "Vivre à l'étranger et revenir"
+    ]
+  },
+  "categoriesSection": {
+    "badge": "Catégories d'admissibilité",
+    "title": "Qui peut prétendre au visa doré ?",
+    "titleHighlight": "Qualifie",
+    "subtitle": "Six catégories premium — trouvez votre voie vers une résidence de 10 ans.",
+    "items": [
+      {
+        "id": "investors",
+        "icon": "TrendingUp",
+        "title": "Investisseurs",
+        "tagline": "Investissement immobilier ou commercial",
+        "description": "Pour les investisseurs disposant d'un investissement public minimum de 2 millions de dirhams (AED) en immobilier, en entreprise ou en fonds d'investissement. Pleine propriété et stabilité à long terme pour vous et votre famille.",
+        "image": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80",
+        "color": "from-amber-500 to-yellow-700",
+        "features": [
+          "Propriété de plus de 2 millions de dirhams",
+          "Investissement des entreprises",
+          "Fonds d'investissement",
+          "Propriété à 100 %"
+        ],
+        "bestFor": "Investisseurs immobiliers et commerciaux"
+      },
+      {
+        "id": "entrepreneurs",
+        "icon": "Rocket",
+        "title": "Entrepreneurs",
+        "tagline": "Propriétaires et fondateurs d'entreprises",
+        "description": "Ce programme s'adresse aux entrepreneurs propriétaires d'une PME dont le chiffre d'affaires annuel est supérieur ou égal à 1 million de dirhams. Il est également ouvert aux fondateurs de projets d'une valeur minimale de 500 000 dirhams, approuvés par un incubateur agréé.",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200&q=80",
+        "color": "from-orange-500 to-red-700",
+        "features": [
+          "Chiffre d'affaires des PME supérieur à 1 million de dirhams",
+          "Incubateur agréé",
+          "Valeur du projet : plus de 500 000 AED",
+          "Propriété d'entreprise"
+        ],
+        "bestFor": "Les propriétaires d'entreprises"
+      },
+      {
+        "id": "talents",
+        "icon": "Palette",
+        "title": "Talents exceptionnels",
+        "tagline": "Leaders créatifs et culturels",
+        "description": "Pour les talents exceptionnels de la culture, de l'art, du sport, des médias et des industries créatives, reconnus par les autorités culturelles des Émirats arabes unis. Inclut des influenceurs, des artistes, des acteurs et des athlètes de renommée mondiale.",
+        "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200&q=80",
+        "color": "from-red-500 to-rose-700",
+        "features": [
+          "Culture et arts",
+          "Réalisations sportives",
+          "Médias et contenu",
+          "Industries créatives"
+        ],
+        "bestFor": "Artistes et athlètes"
+      },
+      {
+        "id": "scientists",
+        "icon": "Microscope",
+        "title": "Scientifiques et chercheurs",
+        "tagline": "Excellence académique",
+        "description": "Pour les scientifiques, les chercheurs et les universitaires de haut niveau ayant réalisé des performances exceptionnelles dans leurs domaines respectifs — reconnus par le Conseil des scientifiques des Émirats.",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&q=80",
+        "color": "from-rose-500 to-pink-700",
+        "features": [
+          "Chercheur de haut niveau",
+          "Doctorat + Publications",
+          "Approbation du conseil",
+          "Excellence académique"
+        ],
+        "bestFor": "Scientifiques et universitaires"
+      },
+      {
+        "id": "professionals",
+        "icon": "Stethoscope",
+        "title": "Des professionnels qualifiés",
+        "tagline": "Médecins, ingénieurs et cadres supérieurs",
+        "description": "Pour les professionnels hautement qualifiés comme les médecins, les ingénieurs, les spécialistes en informatique et les cadres possédant une expérience et des qualifications exceptionnelles — et des salaires de plus de 30 000 AED par mois.",
+        "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?w=1200&q=80",
+        "color": "from-pink-500 to-fuchsia-700",
+        "features": [
+          "Médecins et ingénieurs",
+          "Spécialistes en informatique",
+          "Cadres supérieurs",
+          "Salaire de plus de 30 000 AED"
+        ],
+        "bestFor": "Les meilleurs professionnels"
+      },
+      {
+        "id": "students",
+        "icon": "GraduationCap",
+        "title": "Étudiants exceptionnels",
+        "tagline": "Meilleurs résultats scolaires",
+        "description": "Pour les étudiants les plus brillants ayant des résultats scolaires exceptionnels dans les lycées ou universités des Émirats arabes unis — un visa doré de 10 ans pour construire leur avenir aux Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80",
+        "color": "from-fuchsia-500 to-purple-700",
+        "features": [
+          "Diplômés du secondaire",
+          "Distinctions universitaires",
+          "Réussites scolaires",
+          "Excellence des jeunes"
+        ],
+        "bestFor": "Étudiants exceptionnels"
+      }
+    ]
+  },
+  "benefitsSection": {
+    "badge": "Pourquoi le visa doré ?",
+    "title": "Avantages du visa doré des Émirats arabes unis",
+    "titleHighlight": "Visa d'or des Émirats arabes unis",
+    "subtitle": "Huit atouts majeurs du programme de résidence premium des Émirats arabes unis.",
+    "items": [
+      {
+        "icon": "Calendar",
+        "title": "Résidence de 10 ans",
+        "description": "Visa de résidence renouvelable de longue durée (10 ans) pour vous et votre famille – pas besoin de renouvellements fréquents.",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Users",
+        "title": "Parrainage familial",
+        "description": "Parrainez votre conjoint, vos enfants et vos parents à charge pour la même durée que votre Golden Visa.",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "Propriété de l'entreprise à 100 %",
+        "description": "Devenez pleinement propriétaire de votre entreprise aux Émirats arabes unis sans avoir besoin d'un sponsor local ou d'un partenaire national des Émirats arabes unis.",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Vivre hors des Émirats arabes unis",
+        "description": "Le Golden Visa reste valable même si vous passez de longues périodes hors des Émirats arabes unis, contrairement aux visas standards.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Bank",
+        "title": "Liberté bancaire et financière",
+        "description": "Accédez facilement à des services bancaires haut de gamme, à des facilités de crédit et à des services de gestion de patrimoine grâce à votre Golden Visa.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Shield",
+        "title": "Parcours vers la citoyenneté",
+        "description": "Résidence de longue durée pouvant mener à la citoyenneté des Émirats arabes unis dans des cas exceptionnels – approuvés par les autorités des Émirats arabes unis.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Avantages complets des Émirats arabes unis",
+        "description": "Accès aux soins de santé, à l'éducation, aux opportunités d'affaires et à tous les services gouvernementaux des Émirats arabes unis.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "processSection": {
+    "badge": "Processus en 6 étapes",
+    "title": "Comment obtenir votre visa doré",
+    "titleHighlight": "Visa d'or",
+    "subtitle": "Six étapes simples pour obtenir un permis de séjour de 10 ans aux Émirats arabes unis.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Évaluation d'admissibilité",
+        "description": "Nous évaluons votre profil par rapport aux critères du Golden Visa afin d'identifier la catégorie qui vous convient le mieux.",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileCheck",
+        "title": "Préparation des documents",
+        "description": "Nous collectons et préparons tous les documents requis, y compris les preuves d'investissement, les qualifications et les recommandations.",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "step": "03",
+        "icon": "Send",
+        "title": "Soumission de la candidature",
+        "description": "Votre demande est soumise à l'autorité compétente des Émirats arabes unis via notre réseau gouvernemental prioritaire.",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Approbation et aspects médicaux",
+        "description": "Une fois l'approbation obtenue, nous coordonnons les tests d'aptitude médicale, la biométrie et le traitement des cartes d'identité des Émirats.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "step": "05",
+        "icon": "Stamp",
+        "title": "Estampillage de visa",
+        "description": "Votre visa doré de 10 ans est apposé sur votre passeport — vous êtes désormais officiellement titulaire d'un visa doré.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "06",
+        "icon": "Users",
+        "title": "Parrainage familial",
+        "description": "Nous nous chargeons des demandes de visa doré pour votre conjoint, vos enfants et les personnes à votre charge sous votre parrainage.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "documentsSection": {
+    "badge": "Ce dont vous aurez besoin",
+    "title": "Documents requis",
+    "titleHighlight": "Documents",
+    "subtitle": "Nous nous occupons de toutes les formalités administratives et des autorisations en votre nom.",
+    "items": [
+      {
+        "icon": "Camera",
+        "label": "Photos de passeport",
+        "desc": "Fond blanc"
+      },
+      {
+        "icon": "FileText",
+        "label": "Preuve d'investissement",
+        "desc": "Pour les investisseurs"
+      },
+      {
+        "icon": "Award",
+        "label": "Lettre de recommandation",
+        "desc": "Pour les talents et les chercheurs"
+      },
+      {
+        "icon": "BookOpen",
+        "label": "Certificats universitaires",
+        "desc": "Pour les professionnels et les scientifiques"
+      },
+      {
+        "icon": "Bank",
+        "label": "États financiers",
+        "desc": "Relevés bancaires et justificatifs"
+      },
+      {
+        "icon": "IdCard",
+        "label": "Carte d'identité actuelle des Émirats arabes unis",
+        "desc": "Le cas échéant"
+      },
+      {
+        "icon": "FileSignature",
+        "label": "Certificat NOC",
+        "desc": "Pour les titulaires de visas existants"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Votre partenaire de confiance pour le Golden Visa",
+    "titleHighlight": "Partenaire du Golden Visa",
+    "subtitle": "Huit raisons pour lesquelles des talents exceptionnels nous font confiance.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Accès direct à l'autorité",
+        "desc": "Réseau gouvernemental prioritaire"
+      },
+      {
+        "icon": "Zap",
+        "label": "Traitement rapide",
+        "desc": "Approbations accélérées"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Expert dévoué",
+        "desc": "Spécialiste du visa doré personnel"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Tarification transparente",
+        "desc": "Aucuns frais cachés"
+      },
+      {
+        "icon": "Globe",
+        "label": "Équipe multilingue",
+        "desc": "Anglais, arabe, hindi, ourdou"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Soutien au renouvellement",
+        "desc": "Gestion continue des visas"
+      },
+      {
+        "icon": "HeartHandshake",
+        "label": "Intégration familiale",
+        "desc": "Soutien familial complet"
+      },
+      {
+        "icon": "Award",
+        "label": "Expérience avérée",
+        "desc": "Des milliers d'approbations"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Des milliers de personnes nous font confiance",
+    "titleHighlight": "Des milliers",
+    "subtitle": "Nos résultats parlent d'eux-mêmes.",
+    "items": [
+      {
+        "icon": "Calendar",
+        "value": "10",
+        "label": "Années de validité",
+        "color": "from-amber-400 to-yellow-600"
+      },
+      {
+        "icon": "Users",
+        "value": "5",
+        "label": "Catégories",
+        "color": "from-yellow-400 to-lime-600"
+      },
+      {
+        "icon": "Building2",
+        "value": "Plus de 1000",
+        "label": "Approuvé",
+        "color": "from-lime-400 to-emerald-600"
+      },
+      {
+        "icon": "Zap",
+        "value": "Rapide",
+        "label": "Traitement",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "value": "100%",
+        "label": "Conforme",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Prime",
+        "label": "Niveau de visa",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur le Golden Visa des Émirats arabes unis. Vous avez encore des questions ? N'hésitez pas à nous contacter.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une évaluation gratuite de votre admissibilité auprès de nos spécialistes du Golden Visa.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant les services de Golden Visa."
+    },
+    "items": [
+      {
+        "q": "Qu’est-ce que le Golden Visa des Émirats arabes unis ?",
+        "a": "Le Golden Visa des Émirats arabes unis est un visa de résidence renouvelable de longue durée (10 ans) destiné aux investisseurs, entrepreneurs, talents spécialisés, chercheurs, étudiants exceptionnels et professionnels, offrant la pleine propriété, le parrainage familial et la stabilité."
+      },
+      {
+        "q": "Qui peut prétendre au Golden Visa ?",
+        "a": "Investisseurs (plus de 2 millions d'AED), entrepreneurs (PME avec un chiffre d'affaires de plus de 1 million d'AED), talents exceptionnels, scientifiques et chercheurs, professionnels qualifiés (salaire de plus de 30 000 AED) et étudiants exceptionnels."
+      },
+      {
+        "q": "Quelle est la durée de validité du Golden Visa ?",
+        "a": "Le Golden Visa est valable 10 ans et est renouvelable indéfiniment, à condition de continuer à remplir les critères d'admissibilité."
+      },
+      {
+        "q": "Puis-je parrainer ma famille avec un visa doré ?",
+        "a": "Oui. Vous pouvez parrainer votre conjoint, vos enfants et vos parents à charge pour la même durée de 10 ans que celle de votre Golden Visa."
+      },
+      {
+        "q": "Puis-je posséder 100 % d'une entreprise aux Émirats arabes unis avec un visa doré ?",
+        "a": "Oui. Les titulaires d'un Golden Visa peuvent posséder 100 % de leur entreprise aux Émirats arabes unis sans avoir besoin d'un sponsor local ou d'un partenaire national des Émirats arabes unis."
+      },
+      {
+        "q": "Dois-je rester aux Émirats arabes unis pour conserver mon visa doré ?",
+        "a": "Non. Contrairement aux visas de résidence classiques, le Golden Visa reste valable même si vous passez de longues périodes hors des Émirats arabes unis."
+      },
+      {
+        "q": "Combien de temps dure la procédure de demande de Golden Visa ?",
+        "a": "Le délai est généralement de 4 à 8 semaines, selon la catégorie et les documents fournis. Nous accélérons le processus grâce à notre réseau prioritaire auprès des instances gouvernementales."
+      },
+      {
+        "q": "Quels documents sont nécessaires pour le Golden Visa ?",
+        "a": "Passeport valide, photos d'identité, preuve d'investissement ou lettre de recommandation, certificats académiques ou professionnels, relevés bancaires et carte d'identité des Émirats arabes unis en cours de validité (le cas échéant)."
+      },
+      {
+        "q": "Puis-je travailler aux Émirats arabes unis avec un visa doré ?",
+        "a": "Oui. Le Golden Visa vous confère tous les droits de travail et vous permet de parrainer des employés et leurs personnes à charge."
+      },
+      {
+        "q": "Pourquoi choisir Setup Zone Dubai pour ses services de Golden Visa ?",
+        "a": "Nous offrons un accompagnement complet : évaluation de l’admissibilité, constitution du dossier, dépôt de la demande, coordination médicale, obtention du visa et parrainage familial. Forts d’une expérience éprouvée et d’un accès direct aux autorités compétentes, nous garantissons un traitement rapide et conforme à la réglementation."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui complètent parfaitement votre Golden Visa.",
+    "items": [
+      {
+        "slug": "residence-visa",
+        "title": "Visa de résidence aux Émirats arabes unis",
+        "description": "Options de résidence de 2 à 10 ans.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "company-formation",
+        "title": "Création d'entreprise à Dubaï",
+        "description": "Zone franche, continentale et offshore.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-600"
+      },
+      {
+        "slug": "dependent-visa",
+        "title": "Visa de personne à charge pour les Émirats arabes unis",
+        "description": "Parrainage familial et des personnes à charge.",
+        "image": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Vérifiez votre admissibilité",
+    "title": "Prêt pour votre visa doré de 10 ans ?",
+    "titleHighlight": "Visa doré de 10 ans ?",
+    "subtitle": "Obtenez une évaluation d'admissibilité gratuite. Nos spécialistes analyseront votre profil et vous accompagneront tout au long du processus.",
+    "chips": [
+      "Évaluation gratuite",
+      "Validité de 10 ans",
+      "Famille incluse"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une évaluation gratuite de mon admissibilité au Golden Visa.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais parler du visa doré."
+  }
+}

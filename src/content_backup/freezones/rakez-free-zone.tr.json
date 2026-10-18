@@ -1,0 +1,564 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600\u0026q=80",
+    "heroBadge":  "İşler RAKEZ ile Başlar",
+    "heroTitle":  "RAKEZ Serbest Bölgesi",
+    "heroTitleHighlight":  "Serbest Bölge",
+    "heroSubtitle":  "Birleşik Arap Emirlikleri\u0027ndeki en güçlü iş ekosistemlerinden biri. Uygun maliyetli, esnek ve merkezi konumda olup bölgesel ve küresel pazarlara erişim imkanı sunmaktadır.",
+    "heroChips":  [
+                      "%100 Sahiplik",
+                      "%0 Vergi",
+                      "3-5 Gün Kurulum",
+                      "18.000\u0027den fazla şirket"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Bina 2",
+                      "value":  "18.000+",
+                      "label":  "Küresel Şirketler",
+                      "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "100+",
+                      "label":  "Ülkeler",
+                      "color":  "kırmızı-400\u0027den turuncu-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "%0",
+                      "label":  "Vergi Oranı",
+                      "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                  },
+                  {
+                      "icon":  "Saat",
+                      "value":  "3-5",
+                      "label":  "Kurulum Günleri",
+                      "color":  "amber-400\u0027den sarı-600\u0027e"
+                  }
+              ],
+    "introSection":  {
+                         "badge":  "Büyümeyi Destekleyen İş Bölgesi",
+                         "title":  "Küresel İş Fırsatlarını Açın",
+                         "titleHighlight":  "Küresel İş Fırsatları",
+                         "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                         "imageBadgeTitle":  "Ekonomik Bölge",
+                         "imageBadgeText":  "Ras Al Khaimah, Birleşik Arap Emirlikleri",
+                         "paragraphs":  [
+                                            "RAKEZ (Ras Al Khaimah Ekonomik Bölgesi), BAE\u0027deki en güçlü iş ekosistemlerinden biridir ve küresel girişimciler, KOBİ\u0027ler, üreticiler ve yeni kurulan şirketler için uygun maliyetli, merkezi ve esnek bir seçenek sunmaktadır.",
+                                            "İster bir ticaret şirketi, ister teknoloji girişimi, danışmanlık firması veya üretim tesisi kuruyor olun, RAKEZ başarılı bir BAE deneyimi için gerekli altyapıyı, lisans kombinasyonlarını, vergi teşviklerini ve daha fazlasını sunar.",
+                                            "Bölgesel ve küresel pazarlara açılan bir kapı olan RAKEZ, birinci sınıf bir serbest bölgenin gücünü dinamik bir anakara ekonomisinin avantajlarıyla birleştiriyor. 100\u0027den fazla ülkeden 18.000\u0027den fazla şirketi destekliyor ve bir sonraki siz olabilirsiniz."
+                                        ],
+                         "highlights":  [
+                                            "%100 Yabancı Mülkiyeti",
+                                            "Sıfır Vergi Ortamı",
+                                            "Hızlı Lisanslama",
+                                            "Küresel Pazar Erişimi",
+                                            "Çift Lisans Seçenekleri",
+                                            "Dünya Standartlarında Altyapı"
+                                        ]
+                     },
+    "whyChooseSection":  {
+                             "badge":  "Büyümeyi Destekleyen İş Bölgesi",
+                             "title":  "RAKEZ Serbest Bölgesini Neden Seçmelisiniz?",
+                             "titleHighlight":  "RAKEZ Serbest Bölgesi mi?",
+                             "subtitle":  "İşletmenizi RAKEZ\u0027de kurmanız için altı güçlü neden.",
+                             "items":  [
+                                           {
+                                               "icon":  "Küre",
+                                               "title":  "%100 Yabancı Mülkiyeti",
+                                               "description":  "Yerel bir Emirlik sponsoruna gerek yok. İşletme faaliyetleriniz, kÃ¢rlarınız ve karar alma süreçleriniz üzerinde tam kontrol sizde.",
+                                               "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Dolar İşareti",
+                                               "title":  "%0 Kurumlar ve Kişisel Vergi",
+                                               "description":  "Kurumlar vergisi veya kişisel gelir vergisi yok "” kÃ¢rı maksimize edin ve uzun vadeli mali yükümlülükleri minimize edin.",
+                                               "color":  "kırmızı-400\u0027den turuncu-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Cüzdan",
+                                               "title":  "Sermaye ve KÃ¢rların Tamamen Geri Gönderilmesi",
+                                               "description":  "KÃ¢rınızı herhangi bir kısıtlama olmaksızın ana ülkenize geri aktarın; bu, uluslararası işletmeler ve yabancı yatırımcılar için büyük bir avantajdır.",
+                                               "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Paket",
+                                               "title":  "Gümrüksüz İş Bölgesi",
+                                               "description":  "İthalat ve ihracat gümrük vergisi olmadan Serbest Bölge\u0027de ticaret yapın "” lojistik, e-ticaret, üretim ve ticaret için uygun maliyetli operasyonlar.",
+                                               "color":  "amber-400\u0027den sarı-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Kamyon",
+                                               "title":  "RAK Logistics\u0027e Doğrudan Erişim",
+                                               "description":  "RAK deniz limanlarına, BAE karayollarına ve uluslararası havaalanlarına anında erişim "” ithalat-ihracat işlemleri için daha hızlı tedarik zinciri hareketi.",
+                                               "color":  "sarı-400\u0027den limon-600\u0027e"
+                                           },
+                                           {
+                                               "icon":  "Zap",
+                                               "title":  "Hızlı Şirket Kurulumu",
+                                               "description":  "Lisans onayından vize işlemlerine ve ofis kurulumuna kadar, işletmeniz sadece birkaç gün içinde faaliyete geçebilir.",
+                                               "color":  "from-lime-400 to-emerald-600"
+                                           }
+                                       ]
+                         },
+    "licenseTypesSection":  {
+                                "badge":  "Esnek Lisanslar, Küresel Erişim",
+                                "title":  "RAKEZ\u0027de Hangi Lisans Türleri Mevcuttur?",
+                                "titleHighlight":  "RAKEZ\u0027de mevcut mu?",
+                                "subtitle":  "Faaliyet alanınıza uygun en iyi RAKEZ lisansını belirlemenize yardımcı oluyoruz.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Mağaza",
+                                                  "title":  "Ticari Lisans",
+                                                  "description":  "Genel ticaret, perakende ve ithalat-ihracat işletmeleri için.",
+                                                  "code":  "CML",
+                                                  "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Fabrika",
+                                                  "title":  "Sanayi Lisansı",
+                                                  "description":  "Üretim, paketleme ve montaj işlemleri için.",
+                                                  "code":  "IND",
+                                                  "color":  "kırmızı-400\u0027den turuncu-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Evrak çantası",
+                                                  "title":  "Hizmet Lisansı",
+                                                  "description":  "Pazarlama, hukuk, lojistik ve profesyonel hizmetler için.",
+                                                  "code":  "SRV",
+                                                  "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Alışveriş Sepeti",
+                                                  "title":  "E-Ticaret Lisansı",
+                                                  "description":  "Tam teşekküllü e-ticaret olanaklarıyla dünya çapında çevrimiçi ürün satışı yapın.",
+                                                  "code":  "ECM",
+                                                  "color":  "amber-400\u0027den sarı-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Kullanıcı Kontrolü",
+                                                  "title":  "Serbest Çalışma İzni",
+                                                  "description":  "Yaratıcı profesyoneller, danışmanlar ve bağımsız uzmanlar için.",
+                                                  "code":  "FRL",
+                                                  "color":  "sarı-400\u0027den limon-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Katmanlar",
+                                                  "title":  "Çift Lisans",
+                                                  "description":  "RAKEZ\u0027de ve BAE anakarasında tek bir lisans altında iş yapın.",
+                                                  "code":  "ÇİFT",
+                                                  "color":  "from-lime-400 to-emerald-600"
+                                              }
+                                          ]
+                            },
+    "facilitiesSection":  {
+                              "badge":  "Ofis ve Depo Tesisleri",
+                              "title":  "Her İşletme Büyüklüğü İçin Ölçeklenebilir Altyapı",
+                              "titleHighlight":  "Her İşletme Büyüklüğü İçin",
+                              "subtitle":  "Yeni kurulan şirketlerden büyük sanayi şirketlerine kadar RAKEZ, esnek, ekonomik ve uzun vadeli değer sunar.",
+                              "items":  [
+                                            {
+                                                "icon":  "Bina 2",
+                                                "title":  "Akıllı Ofisler",
+                                                "description":  "Yeni kurulan şirketler, danışmanlar ve küçük işletmeler için tasarlanmış, mobilyalı ve kullanıma hazır ofisler.",
+                                                "color":  "gül-400\u0027den kırmızı-600\u0027e",
+                                                "size":  "küçük"
+                                            },
+                                            {
+                                                "icon":  "Taç",
+                                                "title":  "Yönetici Süitleri",
+                                                "description":  "Bölge genel merkezleri için ideal olan, özel bir iş binasında yüksek standartlarda ofisler.",
+                                                "color":  "kırmızı-400\u0027den turuncu-600\u0027e",
+                                                "size":  "küçük"
+                                            },
+                                            {
+                                                "icon":  "Fabrika",
+                                                "title":  "Sanayi Arazisi Kiralama",
+                                                "description":  "Altyapı hizmetlerinin tamamı sağlanmış geniş sanayi arsalarının uzun vadeli kiralanması.",
+                                                "color":  "turuncu-500\u0027den kehribar-700\u0027e",
+                                                "size":  "büyük"
+                                            },
+                                            {
+                                                "icon":  "Depo",
+                                                "title":  "Depolar",
+                                                "description":  "Lojistik, dağıtım, depolama veya hafif imalat için nihai ürün üniteleri.",
+                                                "color":  "amber-400\u0027den sarı-600\u0027e",
+                                                "size":  "küçük"
+                                            },
+                                            {
+                                                "icon":  "Mezuniyet Şapkası",
+                                                "title":  "RAK Akademik ve İnovasyon Kümesi",
+                                                "description":  "Teknoloji girişimleri, Ar-Ge ve eğitim şirketleri için benzersiz bir ekosistem.",
+                                                "color":  "sarı-400\u0027den limon-600\u0027e",
+                                                "size":  "küçük"
+                                            }
+                                        ]
+                          },
+    "visaServicesSection":  {
+                                "badge":  "RAKEZ Vize Süreci Basitleştirildi",
+                                "title":  "Girişimciler için Vize ve Göçmenlik Hizmetleri",
+                                "titleHighlight":  "Girişimciler için Hizmetler",
+                                "subtitle":  "Vize damgalamasından göçmenlik kartı düzenlemeye kadar her şey kapsam dahilindedir.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Kullanıcı Kontrolü",
+                                                  "label":  "Yatırımcı Vizeleri ve Kuruluş Kartı"
+                                              },
+                                              {
+                                                  "icon":  "Kullanıcılar",
+                                                  "label":  "Personel için Çalışma Vizeleri"
+                                              },
+                                              {
+                                                  "icon":  "KalpElSıkışması",
+                                                  "label":  "Aile Vizesi Yönetimi"
+                                              },
+                                              {
+                                                  "icon":  "Kredi Kartı",
+                                                  "label":  "Emirates Kimlik Kartı ve Sağlık Testi"
+                                              },
+                                              {
+                                                  "icon":  "Rozet Kontrolü",
+                                                  "label":  "Vize Damgalama"
+                                              },
+                                              {
+                                                  "icon":  "Taç",
+                                                  "label":  "Birleşik Arap Emirlikleri Altın Vizesi Hakkında Tavsiyeler"
+                                              },
+                                              {
+                                                  "icon":  "Kalkan",
+                                                  "label":  "Tam Profesyonel Hizmetler"
+                                              }
+                                          ]
+                            },
+    "formationServicesSection":  {
+                                     "badge":  "Hızlı, Sorunsuz Oluşum",
+                                     "title":  "RAKEZ Şirketi Kurmanıza Nasıl Yardım Ediyoruz?",
+                                     "titleHighlight":  "RAKEZ Şirketi Kurun",
+                                     "subtitle":  "Faaliyet seçimi aşamasından mevzuat uyumluluğuna kadar uçtan uca eksiksiz işletme kurulum hizmetleri.",
+                                     "items":  [
+                                                   {
+                                                       "icon":  "Hedef",
+                                                       "label":  "İş Faaliyeti Seçimi"
+                                                   },
+                                                   {
+                                                       "icon":  "DosyaMetni",
+                                                       "label":  "Alan Adı Rezervasyonu"
+                                                   },
+                                                   {
+                                                       "icon":  "Pano Kontrolü",
+                                                       "label":  "RAKEZ Şirket Kaydı"
+                                                   },
+                                                   {
+                                                       "icon":  "Veritabanı",
+                                                       "label":  "Belge Hazırlama ve Başvuru"
+                                                   },
+                                                   {
+                                                       "icon":  "Dolar İşareti",
+                                                       "label":  "BAE Banka Hesabı Başvurusu"
+                                                   },
+                                                   {
+                                                       "icon":  "Yüzde",
+                                                       "label":  "RAKEZ KDV Kaydı"
+                                                   },
+                                                   {
+                                                       "icon":  "Ölçek",
+                                                       "label":  "Kurumsal Yapılandırma"
+                                                   },
+                                                   {
+                                                       "icon":  "Kalkan",
+                                                       "label":  "Aylık Uyumluluk İzleme"
+                                                   }
+                                               ]
+                                 },
+    "taxBenefitsSection":  {
+                               "badge":  "RAKEZ Tam Kontrol Sunar",
+                               "title":  "RAKEZ\u0027in Vergi ve Mülkiyet Avantajları",
+                               "titleHighlight":  "RAKEZ\u0027in Faydaları",
+                               "subtitle":  "Maksimum kar verimliliği arayan küresel yatırımcılar ve girişimciler için mükemmel.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Yüzde",
+                                                 "label":  "%0 Kişisel ve Kurumsal Gelir Vergisi",
+                                                 "detail":  "Maksimum kar tutma"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "label":  "Tamamen Yabancı Mülkiyet",
+                                                 "detail":  "Yerel sponsora gerek yok."
+                                             },
+                                             {
+                                                 "icon":  "Cüzdan",
+                                                 "label":  "Sermaye ve KÃ¢rların Serbestçe Geri Gönderilmesi",
+                                                 "detail":  "Herhangi bir kısıtlama yok."
+                                             },
+                                             {
+                                                 "icon":  "Paket",
+                                                 "label":  "İthalat/İhracat Vergisi Yok",
+                                                 "detail":  "Gümrüksüz satış işlemleri"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "label":  "Para Birimi Kısıtlaması Yok",
+                                                 "detail":  "Küresel işlemler hazır"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan",
+                                                 "label":  "BAE Vergi Danışmanlığı ve KDV Kaydı",
+                                                 "detail":  "Tam uyumluluk desteği"
+                                             }
+                                         ]
+                           },
+    "digitalServicesSection":  {
+                                   "badge":  "Geniş Ürün Yelpazesi. Kolay Kurulum.",
+                                   "title":  "RAKEZ ile İşletmenizi Dijital Olarak Büyütün",
+                                   "titleHighlight":  "RAKEZ\u0027de dijital olarak",
+                                   "subtitle":  "Pazarda rekabet edebilmeniz için size dijital altyapı ve pazarlama araçları sağlıyoruz.",
+                                   "items":  [
+                                                 {
+                                                     "icon":  "Küre",
+                                                     "title":  "Web Sitesi ve E-Ticaret Geliştirme",
+                                                     "description":  "Markanız için profesyonel web sitesi ve online mağaza geliştirme hizmeti.",
+                                                     "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Veritabanı",
+                                                     "title":  "CRM ve CMS Entegrasyonu",
+                                                     "description":  "İşletmenizin yönetimini optimize etmek için güçlü entegrasyonlar.",
+                                                     "color":  "kırmızı-400\u0027den turuncu-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Trend Yükseliyor",
+                                                     "title":  "RAK\u0027ta SEO Hizmetleri",
+                                                     "description":  "Arama sonuçlarında öne çıkın, organik trafik ve güvenilirlik oluşturun.",
+                                                     "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Megafon",
+                                                     "title":  "Sosyal Medya Pazarlaması",
+                                                     "description":  "Etkileşimi artırmak için özel olarak tasarlanmış sosyal medya, PPC ve içerik stratejileri.",
+                                                     "color":  "amber-400\u0027den sarı-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Palet",
+                                                     "title":  "Marka ve Logo Tasarımı",
+                                                     "description":  "İşletmenizin vizyonunu yansıtan dijital bir vitrin oluşturun.",
+                                                     "color":  "sarı-400\u0027den limon-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Rozet Kontrolü",
+                                                     "title":  "Ürün Kaydı ve Ticari Markalar",
+                                                     "description":  "Birleşik Arap Emirlikleri\u0027nde ürün tescili ve marka korumasına tam destek.",
+                                                     "color":  "from-lime-400 to-emerald-600"
+                                                 }
+                                             ],
+                                   "footerText":  "Setup Zone Dubai ile sadece bir iş kurmuyorsunuz; büyümeye, ölçeklenmeye ve başarılı olmaya hazır, sürdürülebilir bir marka geliştiriyorsunuz."
+                               },
+    "postLicenseSupportSection":  {
+                                      "badge":  "Lisans Sonrası Destek",
+                                      "title":  "Sunduğumuz Uyumluluk Hizmetleri",
+                                      "titleHighlight":  "Biz sağlıyoruz",
+                                      "subtitle":  "Lisansınızı aldıktan çok sonra bile operasyonel sürekliliği ve mevzuata uyumu sağlıyoruz.",
+                                      "items":  [
+                                                    {
+                                                        "icon":  "DosyaMetni",
+                                                        "label":  "Denetime Hazır Muhasebe"
+                                                    },
+                                                    {
+                                                        "icon":  "RefreshCw",
+                                                        "label":  "Lisans Yenileme Desteği"
+                                                    },
+                                                    {
+                                                        "icon":  "Ölçek",
+                                                        "label":  "Hukuki Belge Hazırlama ve Uyumluluk"
+                                                    },
+                                                    {
+                                                        "icon":  "Kredi Kartı",
+                                                        "label":  "Ödeme Geçidi Entegrasyonu"
+                                                    },
+                                                    {
+                                                        "icon":  "Dolar İşareti",
+                                                        "label":  "Bankacılık ve KYC Belgeleri"
+                                                    },
+                                                    {
+                                                        "icon":  "Kullanıcı Kontrolü",
+                                                        "label":  "Vize Yenileme ve Profesyonel Hizmetler"
+                                                    }
+                                                ]
+                                  },
+    "businessActivitiesSection":  {
+                                      "badge":  "İş Faaliyetleri",
+                                      "title":  "RAKEZ\u0027de Hangi Faaliyetlere İzin Veriliyor?",
+                                      "titleHighlight":  "RAKEZ\u0027de izin veriliyor mu?",
+                                      "subtitle":  "İşletmenizin hedeflerini RAKEZ\u0027in onaylı kategorileriyle uyumlu hale getiriyoruz.",
+                                      "items":  [
+                                                    {
+                                                        "icon":  "Mağaza",
+                                                        "label":  "Genel Ticaret, Perakende ve Toptan Satış",
+                                                        "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                                    },
+                                                    {
+                                                        "icon":  "Megafon",
+                                                        "label":  "Medya, Reklam ve Yaratıcı Ajanslar",
+                                                        "color":  "kırmızı-400\u0027den turuncu-600\u0027e"
+                                                    },
+                                                    {
+                                                        "icon":  "Alışveriş Sepeti",
+                                                        "label":  "Çevrimiçi Mağazalar, Pazaryerleri ve E-Ticaret",
+                                                        "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                                    },
+                                                    {
+                                                        "icon":  "Kod",
+                                                        "label":  "BT ve SaaS Hizmetleri, Bulut Bilişim",
+                                                        "color":  "amber-400\u0027den sarı-600\u0027e"
+                                                    },
+                                                    {
+                                                        "icon":  "Mikroskop",
+                                                        "label":  "Araştırma, Eğitim ve Sağlık Hizmetleri",
+                                                        "color":  "sarı-400\u0027den limon-600\u0027e"
+                                                    },
+                                                    {
+                                                        "icon":  "Yaprak",
+                                                        "label":  "Yenilenebilir Enerji ve Gelişmiş Üretim",
+                                                        "color":  "from-lime-400 to-emerald-600"
+                                                    }
+                                                ]
+                                  },
+    "growthStatsSection":  {
+                               "badge":  "İşletme Büyüme Beklentisi",
+                               "title":  "Birleşik Arap Emirlikleri\u0027nde Önde Gelen Bir Ekonomik Bölge",
+                               "titleHighlight":  "Birleşik Arap Emirlikleri\u0027ndeki Ekonomik Bölge",
+                               "subtitle":  "Küresel girişimciler ve uluslararası işletmeler için hızla büyüyen bir ekosistem.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bina 2",
+                                                 "value":  "18.000+",
+                                                 "label":  "Küresel Şirketler",
+                                                 "color":  "gül-400\u0027den kırmızı-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "value":  "100+",
+                                                 "label":  "Hizmet Verilen Ülkeler",
+                                                 "color":  "kırmızı-400\u0027den turuncu-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Trend Yükseliyor",
+                                                 "value":  "Önde gelen",
+                                                 "label":  "Ekonomik Bölge",
+                                                 "color":  "turuncu-400\u0027den kehribar-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "value":  "Büyüyor",
+                                                 "label":  "İşletme Ekonomisi",
+                                                 "color":  "amber-400\u0027den sarı-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "ÇubukGrafik3",
+                                                 "value":  "Önemli",
+                                                 "label":  "Bölgesel Etki",
+                                                 "color":  "sarı-400\u0027den limon-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "value":  "Tercih edilen",
+                                                 "label":  "Küresel İşletmeler İçin",
+                                                 "color":  "from-lime-400 to-emerald-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "RAKEZ Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "RAKEZ uzmanlarımızla ücretsiz görüşme yapın.",
+                                            "whatsappMessage":  "Merhaba! RAKEZ Serbest Bölgesi hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "RAKEZ\u0027de şirket kaydı ne kadar sürer?",
+                                          "a":  "RAKEZ\u0027e şirket kaydı genellikle iş faaliyetine, belgelere ve vize gereksinimlerine bağlı olarak yaklaşık 3-5 iş günü sürer. Şirketinizin sorunsuz bir şekilde kayıt altına alınması için süreci hızlandırıyoruz."
+                                      },
+                                      {
+                                          "q":  "Yabancı uyruklu biri olarak RAKEZ\u0027de şirket sahibi olabilir miyim?",
+                                          "a":  "Evet. RAKEZ, yerel bir Emirlik sponsoru gerektirmeden %100 yabancı mülkiyete izin veriyor. İşletme faaliyetleriniz, kÃ¢rlarınız ve karar alma süreçleriniz üzerinde tam kontrol sizde."
+                                      },
+                                      {
+                                          "q":  "RAKEZ\u0027de kayıt olmak için fiziksel bir ofise ihtiyacım var mı?",
+                                          "a":  "Mutlaka değil. RAKEZ, Akıllı Ofisler, Yönetici Süitleri ve paylaşımlı çalışma alanları da dahil olmak üzere esnek seçenekler sunmaktadır. Ancak, bazı lisanslar ve vize kotaları fiziksel varlığı gerektirebilir."
+                                      },
+                                      {
+                                          "q":  "RAKEZ\u0027de şirket kurma sürecinde vize dahil mi?",
+                                          "a":  "RAKEZ lisans paketleri vize uygunluğunu da içerir. Yatırımcı vizeleri, çalışma vizeleri, aile vizeleri, Emirates Kimlik Kartı, sağlık testleri ve vize damgalama işlemleri dahil olmak üzere uçtan uca eksiksiz destek sağlıyoruz."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde RAKEZ şirketine ait bir banka hesabı açabilir miyim?",
+                                          "a":  "Evet. Kurulum hizmetlerimizin bir parçası olarak, BAE\u0027de kurumsal banka hesabı açma konusunda (KYC belgeleri ve banka ile iletişim dahil) eksiksiz destek sağlıyoruz."
+                                      },
+                                      {
+                                          "q":  "RAKEZ e-ticaret ve çevrimiçi işletmeler için iyi bir seçenek mi?",
+                                          "a":  "Kesinlikle. RAKEZ, çevrimiçi mağazalar, pazar yerleri, dropshipping ve dijital ürün satıcıları için özel olarak tasarlanmış, tam ödeme geçidi entegrasyonu desteği içeren bir E-Ticaret Lisansı sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "RAKEZ\u0027de vergi avantajı var mı?",
+                                          "a":  "Evet. RAKEZ, %0 kişisel ve kurumlar vergisi, ithalat/ihracat vergisi olmaması, sermaye ve kÃ¢rların serbestçe geri gönderilmesi, döviz kısıtlaması olmaması ve KDV kaydı ile birlikte BAE vergi danışmanlığı hizmeti sunmaktadır."
+                                      },
+                                      {
+                                          "q":  "RAKEZ şirketiyle hem Serbest Bölgede hem de Birleşik Arap Emirlikleri anakarasında faaliyet gösterebilir miyim?",
+                                          "a":  "Evet. RAKEZ, serbest bölge avantajlarını BAE anakarasına erişimle birleştiren çift lisans seçeneği sunuyor; bu da maksimum pazar erişimi isteyen işletmeler için mükemmel bir çözüm."
+                                      },
+                                      {
+                                          "q":  "Şirket kurulumundan sonra yardıma ihtiyacım olursa ne olacak?",
+                                          "a":  "Lisans sonrası kapsamlı destek sağlıyoruz; denetime hazır muhasebe, lisans yenileme, yasal belge hazırlama, ödeme geçidi entegrasyonu, bankacılık belgeleri ve vize yenileme gibi işlemleri tam PRO hizmetleriyle birlikte sunuyoruz."
+                                      },
+                                      {
+                                          "q":  "RAKEZ kurulumu için neden Setup Zone Dubai\u0027yi seçmeliyim?",
+                                          "a":  "İş faaliyeti seçimi ve alan adı rezervasyonundan şirket kaydına, banka hesabına, KDV\u0027ye, mevzuata uygunluğa ve dijital büyüme hizmetlerine kadar uçtan uca destek sağlıyoruz. Hız, doğruluk ve tam şeffaflık konusundaki başarı geçmişimiz bunun kanıtıdır."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler ve Kılavuzlar",
+                                   "titleHighlight":  "Hizmetler ve Kılavuzlar",
+                                   "subtitle":  "RAKEZ sisteminizle uyumlu hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gül-400\u0027den kırmızı-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Altın Vize",
+                                                     "description":  "Yatırımcılar ve yetenekli kişiler için 10 yıllık BAE oturma izni.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "amber-400\u0027den sarı-500\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Uyumluluk Hizmetleri",
+                                                     "description":  "Gerçek faydalanıcı (UBO), kurumsal sosyal sorumluluk (ESR), kara para aklama ile mücadele (AML) ve KDV danışmanlığı.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "turuncu-400\u0027den kırmızı-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Bugün Başlatın",
+                     "title":  "RAKEZ Serbest Bölgesi\u0027nde faaliyete geçmeye hazır mısınız?",
+                     "titleHighlight":  "RAKEZ Serbest Bölgesi mi?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Lisanslamadan lansmana kadar tüm kurulum sürecinde size rehberlik edeceğiz.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "3-5 Gün Kurulum",
+                                   "18.000\u0027den fazla şirket"
+                               ],
+                     "whatsappMessage":  "Merhaba! RAKEZ kurulumu için ücretsiz danışmanlık almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! RAKEZ kurulumu hakkında konuşmak istiyorum."
+                 }
+}

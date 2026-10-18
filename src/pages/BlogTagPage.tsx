@@ -10,28 +10,91 @@ import {
   Search, Folder, ArrowUpRight, MessageCircle, Hash, User,
 } from 'lucide-react';
 import { getWhatsAppLink } from '../lib/whatsapp';
-import postsData from '../content/blog/posts.json';
-import tagContentData from '../content/blog/tagContent.json';
 import WhatsAppIcon from '../components/icons/WhatsAppIcon';
+import { useLanguage } from '../i18n/LanguageContext';
+import { loadContent } from '../lib/loadContent';
 
 export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
   const { slug } = useParams<{ slug: string }>();
   const [searchQuery, setSearchQuery] = useState('');
 
-  // Tina se ya local JSON se data
-  const allPosts = tinaData?.data?.blogPosts?.posts || postsData.posts;
-  const categories = tinaData?.data?.blogPosts?.categories || postsData.categories;
-  const archiveNames = tinaData?.data?.blogPosts?.archiveNames || postsData.archiveNames;
-  const allTagNames = tinaData?.data?.blogPosts?.popularTags || postsData.popularTags;
+  const { language } = useLanguage();
+  const postsFallback = loadContent('blog/posts', language) || {};
+  const tagContentFallback = loadContent('blog/tagContent', language) || {};
+  const allPosts = tinaData?.data?.blogPosts?.posts || postsFallback.posts || [];
+  const tagContents = tinaData?.data?.tagContent?.tagContents || tagContentFallback.tagContents || [];
 
-  // Tag content
-  const tagContents = tinaData?.data?.tagContent?.tagContents || tagContentData.tagContents;
+  const slugifyTag = (s: string) =>
+    s
+      .replace(/İ/g, 'i').replace(/I/g, 'i').replace(/ı/g, 'i')
+      .replace(/Ş/g, 's').replace(/ş/g, 's')
+      .replace(/Ğ/g, 'g').replace(/ğ/g, 'g')
+      .replace(/Ç/g, 'c').replace(/ç/g, 'c')
+      .replace(/Ü/g, 'u').replace(/ü/g, 'u')
+      .replace(/Ö/g, 'o').replace(/ö/g, 'o')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/^-|-$/g, '');
 
-  // Find current tag
-  const tag = tagContents.find((t: any) => t.slug === slug) || tagContents[0];
+  // ✅ Tag dhoondo (slug ya name se)
+  const tag = tagContents.find((t: any) => {
+    if (t.slug === slug) return true;
+    if (t.name && slugifyTag(t.name) === slug) return true;
+    return false;
+  }) || {
+    name: slug?.replace(/-/g, ' ').replace(/\b\w/g, (c: string) => c.toUpperCase()) || 'Tag',
+    description: '', longIntro: '', featuredPosts: [], slug: slug || '',
+  };
 
+  // ✅ Posts filter karo (slug aur name dono se)
   const tagPosts = allPosts.filter((p: any) =>
-    p.tags?.some((t: string) => t.toLowerCase().replace(/[^a-z0-9]+/g, '-') === slug)
+    p.tags?.some((t: string) => 
+      t === tag.name || 
+      slugifyTag(t) === tag.slug ||
+      slugifyTag(t) === slug ||
+      slugifyTag(t) === slugifyTag(tag.name)
+    )
+  );
+
+  // ✅ archiveNames derive karo
+  const archiveNames: string[] = Array.from(
+    new Set(
+      allPosts
+        .map((p: any) => p?.date)
+        .filter(Boolean)
+        .map((d: string) => {
+          const date = new Date(d);
+          return isNaN(date.getTime())
+            ? null
+            : date.toLocaleString(
+                language === 'de' ? 'de-DE' :
+                language === 'ar' ? 'ar-AE' :
+                language === 'tr' ? 'tr-TR' :
+                language === 'fr' ? 'fr-FR' :
+                language === 'es' ? 'es-ES' :
+                language === 'zh-CN' ? 'zh-CN' :
+                'en-US',
+                { month: 'long', year: 'numeric' }
+              );
+        })
+        .filter(Boolean)
+    )
+  ) as string[];
+
+  // ✅ categories derive karo
+  const categories = Array.from(
+    new Map(
+      allPosts
+        .filter((p: any) => p?.category)
+        .map((p: any) => [
+          p.category,
+          {
+            slug: slugifyTag(p.category), // ✅ Yahan slugifyTag use kiya
+            name: p.category,
+            count: allPosts.filter((x: any) => x.category === p.category).length,
+          },
+        ])
+    ).values()
   );
 
   const sidebarArchives = archiveNames.slice(0, 8);
@@ -75,97 +138,101 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
       </section>
 
       {/* LONG INTRO */}
-      <section className="relative py-12 md:py-16 bg-white">
-        <div className="max-w-4xl mx-auto px-6">
-          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="relative rounded-3xl bg-gradient-to-br from-pink-50 to-fuchsia-50 border border-pink-100 p-6 md:p-10 shadow-lg">
-            <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-pink-400 via-fuchsia-500 to-purple-500 rounded-t-3xl" />
-            <h2 className="text-xl md:text-2xl font-black text-[#0A0F1F] mb-4">About {tag.name}</h2>
-            <p className="text-base md:text-lg text-[#475569] font-medium leading-relaxed" data-tina-field={tinaField(tag, 'longIntro')}>{tag.longIntro}</p>
-          </motion.div>
-        </div>
-      </section>
+      {tag.longIntro && (
+        <section className="relative py-12 md:py-16 bg-white">
+          <div className="max-w-4xl mx-auto px-6">
+            <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="relative rounded-3xl bg-gradient-to-br from-pink-50 to-fuchsia-50 border border-pink-100 p-6 md:p-10 shadow-lg">
+              <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-pink-400 via-fuchsia-500 to-purple-500 rounded-t-3xl" />
+              <h2 className="text-xl md:text-2xl font-black text-[#0A0F1F] mb-4">About {tag.name}</h2>
+              <p className="text-base md:text-lg text-[#475569] font-medium leading-relaxed" data-tina-field={tinaField(tag, 'longIntro')}>{tag.longIntro}</p>
+            </motion.div>
+          </div>
+        </section>
+      )}
 
       {/* FEATURED POSTS */}
-      <section className="relative py-12 md:py-16 bg-gradient-to-b from-white to-pink-50/30">
-        <div className="max-w-7xl mx-auto px-6">
-          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="max-w-4xl mx-auto mb-12">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-pink-200 shadow-sm mb-4">
-              <Sparkles size={14} className="text-pink-600" />
-              <span className="text-xs font-bold tracking-wider uppercase text-pink-700">Featured Articles</span>
-            </div>
-            <h2 className="text-2xl md:text-3xl font-black text-[#0A0F1F] leading-tight">
-              In-Depth Guides on {tag.name}
-            </h2>
-          </motion.div>
+      {tag.featuredPosts && tag.featuredPosts.length > 0 && (
+        <section className="relative py-12 md:py-16 bg-gradient-to-b from-white to-pink-50/30">
+          <div className="max-w-7xl mx-auto px-6">
+            <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="max-w-4xl mx-auto mb-12">
+              <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white border border-pink-200 shadow-sm mb-4">
+                <Sparkles size={14} className="text-pink-600" />
+                <span className="text-xs font-bold tracking-wider uppercase text-pink-700">Featured Articles</span>
+              </div>
+              <h2 className="text-2xl md:text-3xl font-black text-[#0A0F1F] leading-tight">
+                In-Depth Guides on {tag.name}
+              </h2>
+            </motion.div>
 
-          <div className="max-w-4xl mx-auto space-y-12">
-            {tag.featuredPosts.map((post: any, pi: number) => (
-              <motion.article key={pi} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7, delay: pi * 0.1 }} className="relative rounded-3xl bg-white border border-slate-200 shadow-xl overflow-hidden">
-                <div className="h-1 bg-gradient-to-r from-pink-400 via-fuchsia-500 to-purple-500" />
-                <div className="p-6 md:p-10">
-                  <div className="flex flex-wrap items-center gap-4 text-xs text-slate-500 font-semibold mb-4">
-                    <span className="flex items-center gap-1.5"><User size={12} /> <span data-tina-field={tinaField(post, 'author')}>{post.author}</span></span>
-                    <span className="flex items-center gap-1.5"><Calendar size={12} /> <span data-tina-field={tinaField(post, 'date')}>{post.date}</span></span>
-                    <span className="flex items-center gap-1.5"><Clock size={12} /> <span data-tina-field={tinaField(post, 'readTime')}>{post.readTime}</span></span>
-                    <span className="px-2.5 py-1 rounded-full bg-pink-100 text-pink-700 text-[10px] font-black uppercase tracking-widest" data-tina-field={tinaField(post, 'category')}>
-                      {post.category}
-                    </span>
-                  </div>
+            <div className="max-w-4xl mx-auto space-y-12">
+              {tag.featuredPosts.map((post: any, pi: number) => (
+                <motion.article key={pi} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7, delay: pi * 0.1 }} className="relative rounded-3xl bg-white border border-slate-200 shadow-xl overflow-hidden">
+                  <div className="h-1 bg-gradient-to-r from-pink-400 via-fuchsia-500 to-purple-500" />
+                  <div className="p-6 md:p-10">
+                    <div className="flex flex-wrap items-center gap-4 text-xs text-slate-500 font-semibold mb-4">
+                      <span className="flex items-center gap-1.5"><User size={12} /> <span data-tina-field={tinaField(post, 'author')}>{post.author}</span></span>
+                      <span className="flex items-center gap-1.5"><Calendar size={12} /> <span data-tina-field={tinaField(post, 'date')}>{post.date}</span></span>
+                      <span className="flex items-center gap-1.5"><Clock size={12} /> <span data-tina-field={tinaField(post, 'readTime')}>{post.readTime}</span></span>
+                      <span className="px-2.5 py-1 rounded-full bg-pink-100 text-pink-700 text-[10px] font-black uppercase tracking-widest" data-tina-field={tinaField(post, 'category')}>
+                        {post.category}
+                      </span>
+                    </div>
 
-                  <h3 className="text-2xl md:text-3xl font-black text-[#0A0F1F] leading-tight mb-5" data-tina-field={tinaField(post, 'title')}>{post.title}</h3>
+                    <h3 className="text-2xl md:text-3xl font-black text-[#0A0F1F] leading-tight mb-5" data-tina-field={tinaField(post, 'title')}>{post.title}</h3>
 
-                  <div className="relative rounded-2xl overflow-hidden shadow-lg mb-6">
-                    <img src={post.image} alt={post.title} className="w-full h-64 md:h-80 object-cover" data-tina-field={tinaField(post, 'image')} />
-                  </div>
+                    <div className="relative rounded-2xl overflow-hidden shadow-lg mb-6">
+                      <img src={post.image} alt={post.title} className="w-full h-64 md:h-80 object-cover" data-tina-field={tinaField(post, 'image')} />
+                    </div>
 
-                  <p className="text-base md:text-lg text-[#475569] font-medium leading-relaxed mb-6" data-tina-field={tinaField(post, 'intro')}>{post.intro}</p>
+                    <p className="text-base md:text-lg text-[#475569] font-medium leading-relaxed mb-6" data-tina-field={tinaField(post, 'intro')}>{post.intro}</p>
 
-                  <div className="space-y-6 mb-6">
-                    {post.sections.map((section: any, si: number) => (
-                      <div key={si}>
-                        <h4 className="text-lg md:text-xl font-black text-[#0A0F1F] mb-3">{section.heading}</h4>
-                        <div className="space-y-3">
-                          {section.content.map((para: string, pi2: number) => (
-                            <p key={pi2} className="text-base text-[#475569] font-medium leading-relaxed">{para}</p>
-                          ))}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-
-                  <div className="mb-6">
-                    <h4 className="text-lg md:text-xl font-black text-[#0A0F1F] mb-3">Frequently Asked Questions</h4>
-                    <div className="space-y-3">
-                      {post.faq.map((faq: any, fi: number) => (
-                        <details key={fi} className="group rounded-2xl bg-gradient-to-br from-slate-50 to-pink-50/50 border border-slate-200 hover:border-pink-200 transition-all overflow-hidden">
-                          <summary className="flex items-start gap-3 p-4 cursor-pointer list-none">
-                            <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-pink-400 to-fuchsia-600 flex items-center justify-center flex-shrink-0 text-xs font-black text-white mt-0.5">
-                              {String(fi + 1).padStart(2, '0')}
-                            </div>
-                            <h5 className="flex-1 text-sm md:text-base font-black text-[#0A0F1F] leading-snug group-hover:text-pink-700 transition-colors">{faq.q}</h5>
-                            <div className="w-6 h-6 rounded-full bg-pink-100 flex items-center justify-center flex-shrink-0 group-open:bg-gradient-to-br group-open:from-pink-400 group-open:to-fuchsia-600 transition-all">
-                              <span className="text-pink-600 font-black text-sm group-open:text-white group-open:rotate-45 transition-all inline-block">+</span>
-                            </div>
-                          </summary>
-                          <div className="px-4 pb-4 pl-14">
-                            <p className="text-sm text-[#475569] font-medium leading-relaxed pt-2 border-t border-dashed border-slate-200">{faq.a}</p>
+                    <div className="space-y-6 mb-6">
+                      {post.sections?.map((section: any, si: number) => (
+                        <div key={si}>
+                          <h4 className="text-lg md:text-xl font-black text-[#0A0F1F] mb-3">{section.heading}</h4>
+                          <div className="space-y-3">
+                            {section.content?.map((para: string, pi2: number) => (
+                              <p key={pi2} className="text-base text-[#475569] font-medium leading-relaxed">{para}</p>
+                            ))}
                           </div>
-                        </details>
+                        </div>
                       ))}
                     </div>
-                  </div>
 
-                  <div className="p-6 rounded-2xl bg-gradient-to-br from-pink-500 via-fuchsia-600 to-purple-600 shadow-lg">
-                    <p className="text-base text-white font-medium leading-relaxed">
-                      Ready to get started? <span className="font-black">SetupZoneDubai</span> offers free consultations to help you plan your {tag.name.toLowerCase()} strategy.
-                    </p>
+                    <div className="mb-6">
+                      <h4 className="text-lg md:text-xl font-black text-[#0A0F1F] mb-3">Frequently Asked Questions</h4>
+                      <div className="space-y-3">
+                        {post.faq?.map((faq: any, fi: number) => (
+                          <details key={fi} className="group rounded-2xl bg-gradient-to-br from-slate-50 to-pink-50/50 border border-slate-200 hover:border-pink-200 transition-all overflow-hidden">
+                            <summary className="flex items-start gap-3 p-4 cursor-pointer list-none">
+                              <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-pink-400 to-fuchsia-600 flex items-center justify-center flex-shrink-0 text-xs font-black text-white mt-0.5">
+                                {String(fi + 1).padStart(2, '0')}
+                              </div>
+                              <h5 className="flex-1 text-sm md:text-base font-black text-[#0A0F1F] leading-snug group-hover:text-pink-700 transition-colors">{faq.q}</h5>
+                              <div className="w-6 h-6 rounded-full bg-pink-100 flex items-center justify-center flex-shrink-0 group-open:bg-gradient-to-br group-open:from-pink-400 group-open:to-fuchsia-600 transition-all">
+                                <span className="text-pink-600 font-black text-sm group-open:text-white group-open:rotate-45 transition-all inline-block">+</span>
+                              </div>
+                            </summary>
+                            <div className="px-4 pb-4 pl-14">
+                              <p className="text-sm text-[#475569] font-medium leading-relaxed pt-2 border-t border-dashed border-slate-200">{faq.a}</p>
+                            </div>
+                          </details>
+                        ))}
+                      </div>
+                    </div>
+
+                    <div className="p-6 rounded-2xl bg-gradient-to-br from-pink-500 via-fuchsia-600 to-purple-600 shadow-lg">
+                      <p className="text-base text-white font-medium leading-relaxed">
+                        Ready to get started? <span className="font-black">SetupZoneDubai</span> offers free consultations to help you plan your {tag.name.toLowerCase()} strategy.
+                      </p>
+                    </div>
                   </div>
-                </div>
-              </motion.article>
-            ))}
+                </motion.article>
+              ))}
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+      )}
 
       {/* ALL POSTS + SIDEBAR */}
       <section className="relative py-14 md:py-20 bg-gradient-to-b from-white to-pink-50/30">
@@ -256,7 +323,8 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
                 </h3>
                 <div className="space-y-1.5 max-h-64 overflow-y-auto pr-1">
                   {sidebarArchives.map((month: string, i: number) => (
-                    <Link key={i} to={`/blog/archive/${month.toLowerCase().replace(' ', '-')}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-pink-700 hover:bg-pink-50 transition-colors">
+                    // ✅ Archives ke liye slugifyTag use kiya
+                    <Link key={i} to={`/blog/archive/${arch.monthKey || slugifyTag(arch.name)}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-pink-700 hover:bg-pink-50 transition-colors">
                       <span className="flex items-center gap-2"><ChevronRight size={11} className="text-pink-500 group-hover:translate-x-0.5 transition-transform" strokeWidth={3} />{month}</span>
                     </Link>
                   ))}
@@ -269,7 +337,8 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
                 </h3>
                 <div className="space-y-1.5 max-h-64 overflow-y-auto pr-1">
                   {categories.map((cat: any, i: number) => (
-                    <Link key={i} to={`/blog/category/${cat.slug}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-pink-700 hover:bg-pink-50 transition-colors">
+                    // ✅ Categories ke liye cat.slug use kiya
+                    <Link key={i} to={`/blog/category/${cat.slug || slugifyTag(cat.name)}`} className="group flex items-center justify-between p-2 rounded-lg text-xs font-semibold text-slate-600 hover:text-pink-700 hover:bg-pink-50 transition-colors">
                       <span className="flex items-center gap-2 truncate"><TagIcon size={11} className="text-pink-500 flex-shrink-0" /><span className="truncate" data-tina-field={tinaField(cat, 'name')}>{cat.name}</span></span>
                       <span className="text-[10px] font-black text-pink-600 bg-pink-100 px-2 py-0.5 rounded-full flex-shrink-0" data-tina-field={tinaField(cat, 'count')}>{cat.count}</span>
                     </Link>
@@ -282,12 +351,20 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
                   <Sparkles size={14} className="text-pink-600" /> Popular Tags
                 </h3>
                 <div className="flex flex-wrap gap-2">
-                  {allTagNames.map((t: string, i: number) => {
-                    const tSlug = t.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+                  {tagContents.map((tc: any, i: number) => {
+                    const tSlug = tc.slug;
                     const isActive = tSlug === slug;
                     return (
-                      <Link key={i} to={`/blog/tag/${tSlug}`} className={`px-3 py-1.5 rounded-full border text-[11px] font-bold transition-all ${isActive ? 'bg-gradient-to-r from-pink-500 to-fuchsia-600 border-transparent text-white shadow-md' : 'bg-slate-50 border-slate-200 text-slate-600 hover:bg-pink-50 hover:border-pink-300 hover:text-pink-700'}`}>
-                        #{t}
+                      <Link 
+                        key={i} 
+                        to={`/blog/tag/${tSlug}`} 
+                        className={`px-3 py-1.5 rounded-full border text-[11px] font-bold transition-all ${
+                          isActive 
+                            ? 'bg-gradient-to-r from-pink-500 to-fuchsia-600 border-transparent text-white shadow-md' 
+                            : 'bg-slate-50 border-slate-200 text-slate-600 hover:bg-pink-50 hover:border-pink-300 hover:text-pink-700'
+                        }`}
+                      >
+                        #{tc.name}
                       </Link>
                     );
                   })}
@@ -303,7 +380,7 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
                   <h3 className="text-lg font-black text-white leading-tight mb-2">Need Help with Setup?</h3>
                   <p className="text-sm text-white/90 font-medium leading-relaxed mb-4">Talk to our experts — free consultation for your UAE business.</p>
                   <a href={getWhatsAppLink("Hi! I need help with UAE business setup.")} target="_blank" rel="noreferrer" className="inline-flex items-center justify-center gap-2 w-full px-4 py-2.5 rounded-xl bg-white text-pink-700 font-black text-xs uppercase tracking-widest shadow-lg hover:scale-105 transition-transform">
-<WhatsAppIcon size={14} className="text-emerald-600" />Ask Expert
+                    <WhatsAppIcon size={14} className="text-emerald-600" />Ask Expert
                   </a>
                 </div>
               </div>
@@ -328,11 +405,11 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
           </motion.div>
 
           <div className="flex flex-wrap gap-3 justify-center max-w-4xl mx-auto">
-            {allTagNames.filter((t: string) => t.toLowerCase().replace(/[^a-z0-9]+/g, '-') !== slug).map((t: string, i: number) => (
+            {tagContents.filter((tc: any) => tc.slug !== slug).map((tc: any, i: number) => (
               <motion.div key={i} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.4, delay: i * 0.03 }}>
-                <Link to={`/blog/tag/${t.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`} className="group inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white border border-slate-200 hover:border-pink-300 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300">
+                <Link to={`/blog/tag/${tc.slug}`} className="group inline-flex items-center gap-2 px-5 py-3 rounded-full bg-white border border-slate-200 hover:border-pink-300 hover:shadow-lg hover:-translate-y-0.5 transition-all duration-300">
                   <Hash size={14} className="text-pink-500" />
-                  <span className="text-sm font-bold text-slate-700 group-hover:text-pink-700 transition-colors">{t}</span>
+                  <span className="text-sm font-bold text-slate-700 group-hover:text-pink-700 transition-colors">{tc.name}</span>
                   <ArrowRight size={14} className="text-slate-400 group-hover:text-pink-500 group-hover:translate-x-1 transition-all" strokeWidth={2.5} />
                 </Link>
               </motion.div>
@@ -359,7 +436,7 @@ export default function BlogTagPage({ tinaData }: { tinaData?: any }) {
               </p>
               <div className="flex flex-wrap gap-4 justify-center">
                 <a href={getWhatsAppLink("Hi! I'd like a free consultation.")} target="_blank" rel="noreferrer" className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-pink-700 font-bold text-sm shadow-xl hover:scale-105 transition-all">
-<WhatsAppIcon size={16} className="text-emerald-600" />WhatsApp Us
+                  <WhatsAppIcon size={16} className="text-emerald-600" />WhatsApp Us
                   <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                 </a>
                 <Link to="/contact" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all">

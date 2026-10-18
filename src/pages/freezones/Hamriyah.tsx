@@ -16,7 +16,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import hamriyahData from '../../content/freezones/hamriyah-free-zone.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Globe, ArrowRight, Sparkles, CheckCircle2, Building2, TrendingUp,
   Briefcase, Phone, MessageCircle, HomeIcon, Clock,
@@ -29,7 +30,9 @@ const iconMap: any = {
 };
 
 export default function Hamriyah({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.freezones || hamriyahData;
+  const { language } = useLanguage();
+  const hamriyahFallback = loadContent('freezones/hamriyah-free-zone', language);
+  const data = tinaData?.data?.freeZones || hamriyahFallback;
 
   return (
     <div className="min-h-screen bg-white">

@@ -1,0 +1,187 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80",
+    "breadcrumbParent": "Free Zones",
+    "breadcrumbLabel": "Dubai Design District",
+    "badge": "Dubai Design District",
+    "title": "Dubai Design District",
+    "titleHighlight": "Design District",
+    "subtitle": "The Middle East's first creative free zone dedicated to design, fashion, art, and culture. Launch your creative business in Dubai's flagship design hub.",
+    "ctaPrimaryText": "Get Free Consultation",
+    "ctaPrimaryLink": "#contact",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in Dubai Design District Free Zone setup.",
+    "badges": ["100% Ownership", "0% Tax", "Creative Hub", "3-5 Days Setup"]
+  },
+
+  "stats": [
+    { "icon": "Building2", "value": "500+", "label": "Creative Brands", "color": "from-rose-400 to-pink-600" },
+    { "icon": "Globe", "value": "100%", "label": "Foreign Ownership", "color": "from-pink-400 to-fuchsia-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Tax Rate", "color": "from-emerald-400 to-teal-600" },
+    { "icon": "Clock", "value": "3-5", "label": "Days Setup", "color": "from-fuchsia-400 to-purple-600" }
+  ],
+
+  "dashboardCard": {
+    "title": "D3 Creative Hub",
+    "totalLabel": "Zone",
+    "totalValue": "Dubai, UAE",
+    "statusBadge": "Active",
+    "metrics": [
+      { "label": "Setup Time", "value": "3-5 Days", "color": "text-rose-600" },
+      { "label": "Brands", "value": "500+", "color": "text-pink-600" }
+    ]
+  },
+
+  "startInStyle": {
+    "badge": "Start In Style",
+    "title": "Start In Style at Dubai Design District",
+    "titleHighlight": "Dubai Design District",
+    "subtitle": "The region's creative capital for designers, artists, and fashion entrepreneurs.",
+    "smallCards": [
+      { "icon": "Globe", "title": "100% Foreign Ownership", "description": "Full ownership with no local sponsor required — complete control over your creative brand.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "DollarSign", "title": "0% Tax Environment", "description": "No corporate or personal income tax — maximize your creative business profits.", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Sparkles", "title": "Creative Community", "description": "Join a thriving ecosystem of designers, artists, and creative entrepreneurs from around the world.", "color": "from-fuchsia-400 to-purple-600" }
+    ],
+    "largeCard": {
+      "title": "Where Design Meets Business",
+      "description": "D3 is the region's creative hub — home to fashion houses, design studios, art galleries, and creative agencies. A purpose-built district for the creative economy.",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=1600&q=80"
+    }
+  },
+
+  "activitiesSection": {
+    "badge": "Business Activities",
+    "title": "Creative Activities in D3",
+    "titleHighlight": "in D3",
+    "subtitle": "A wide range of creative and design-focused business activities are permitted.",
+    "items": [
+      { "icon": "Palette", "title": "Design & Branding", "description": "Graphic design, branding, and creative agencies.", "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Shirt", "title": "Fashion & Textile", "description": "Fashion houses, textile design, and apparel brands.", "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&q=80", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Camera", "title": "Visual Arts & Photography", "description": "Photography studios, visual arts, and creative content.", "image": "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=800&q=80", "color": "from-fuchsia-400 to-purple-600" }
+    ]
+  },
+
+  "workspacesSection": {
+    "badge": "Workspaces",
+    "title": "Workspaces in D3",
+    "titleHighlight": "in D3",
+    "subtitle": "Purpose-built creative workspaces for every stage of your business.",
+    "items": [
+      { "icon": "Sparkles", "title": "Hot Desks", "description": "Flexible coworking for freelancers.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "Palette", "title": "Studios", "description": "Creative studios for design and fashion.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "Building2", "title": "Fitted Offices", "description": "Move-in ready offices for creative teams.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Store", "title": "Retail Spaces", "description": "Boutique retail for fashion brands.", "color": "from-purple-400 to-violet-600" },
+      { "icon": "Layers", "title": "Shell & Core", "description": "Customizable spaces for creative concepts.", "color": "from-violet-400 to-indigo-600" }
+    ]
+  },
+
+  "visaServicesSection": {
+    "badge": "Visa Services",
+    "title": "Visa Services at D3",
+    "titleHighlight": "at D3",
+    "subtitle": "Full visa support for you and your creative team.",
+    "items": [
+      { "icon": "UserCheck", "title": "Investor Visa", "description": "For business owners and shareholders.", "stampColor": "from-rose-500 to-pink-600" },
+      { "icon": "Briefcase", "title": "Employment Visa", "description": "For creative staff and team members.", "stampColor": "from-pink-500 to-fuchsia-600" },
+      { "icon": "FileBadge", "title": "Freelancer Visa", "description": "For independent creatives and consultants.", "stampColor": "from-fuchsia-500 to-purple-600" },
+      { "icon": "Users", "title": "Family Visa", "description": "For spouse, children, and dependents.", "stampColor": "from-purple-500 to-violet-600" },
+      { "icon": "RefreshCw", "title": "Visa Renewal", "description": "Full lifecycle visa management.", "stampColor": "from-violet-500 to-indigo-600" },
+      { "icon": "Send", "title": "Visa Cancellation", "description": "Compliant visa cancellation services.", "stampColor": "from-indigo-500 to-blue-600" }
+    ]
+  },
+
+  "growthSupportSection": {
+    "badge": "Growth Support",
+    "title": "Grow Your Creative Business",
+    "titleHighlight": "Creative Business",
+    "subtitle": "Beyond setup — we help your creative brand scale with strategic services.",
+    "items": [
+      { "icon": "Megaphone", "title": "Marketing & PR", "description": "Brand marketing and PR support for creative brands.", "color": "from-rose-400 to-pink-600" },
+      { "icon": "TrendingUp", "title": "Business Development", "description": "Growth strategy and partnership opportunities.", "color": "from-pink-400 to-fuchsia-600" },
+      { "icon": "BarChart3", "title": "Market Research", "description": "Insights on the regional creative industry.", "color": "from-fuchsia-400 to-purple-600" },
+      { "icon": "Cpu", "title": "Digital Transformation", "description": "E-commerce, web, and tech solutions for creative brands.", "color": "from-purple-400 to-violet-600" }
+    ]
+  },
+
+  "strategicSection": {
+    "badge": "Strategic Location",
+    "title": "Located in the Heart of Dubai",
+    "titleHighlight": "the Heart of Dubai",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+    "imageBadgeTitle": "Location",
+    "imageBadgeText": "Downtown Dubai",
+    "items": [
+      { "icon": "MapPin", "title": "Prime Location", "description": "Next to Burj Khalifa, Dubai Mall, and Dubai Canal." },
+      { "icon": "Plane", "title": "20 Minutes to DXB", "description": "Quick access to Dubai International Airport." },
+      { "icon": "Building2", "title": "Connected Community", "description": "Walkable district with galleries, cafes, and design hubs." },
+      { "icon": "Globe", "title": "Global Reach", "description": "Direct access to regional and international markets." },
+      { "icon": "Heart", "title": "Creative Lifestyle", "description": "Live, work, and play in a vibrant creative neighborhood." }
+    ]
+  },
+
+  "whyChooseUsSection": {
+    "badge": "Why Choose Us",
+    "title": "Your D3 Setup Partner",
+    "titleHighlight": "Setup Partner",
+    "subtitle": "Trusted by hundreds of creative businesses in Dubai.",
+    "items": [
+      { "icon": "Award", "title": "Creative Industry Expertise", "description": "We understand the unique needs of designers, artists, and fashion brands.", "color": "from-rose-400 to-pink-600", "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80" },
+      { "icon": "Zap", "title": "Fast Turnaround", "description": "Setup completed in 3-5 days with priority processing.", "color": "from-pink-400 to-fuchsia-600", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80" },
+      { "icon": "Compass", "title": "Strategic Guidance", "description": "Expert advice on activity selection, licensing, and creative business setup.", "color": "from-fuchsia-400 to-purple-600", "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80" }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about Dubai Design District Free Zone.",
+    "items": [
+      { "q": "What is Dubai Design District (D3)?", "a": "D3 is the Middle East's first creative free zone dedicated to design, fashion, art, and culture. It's home to 500+ creative businesses from around the world." },
+      { "q": "What activities can I run in D3?", "a": "Design & branding, fashion & textile, visual arts & photography, creative agencies, architecture, and digital media are all permitted activities." },
+      { "q": "How long does D3 setup take?", "a": "Typically 3-5 working days with proper documentation. Our team ensures a smooth process." },
+      { "q": "Can I get 100% foreign ownership in D3?", "a": "Yes. D3 allows 100% foreign ownership — no local sponsor required." },
+      { "q": "What are the tax benefits of D3?", "a": "0% corporate and personal income tax with full repatriation of profits and capital." },
+      { "q": "What office spaces are available in D3?", "a": "Hot desks, creative studios, fitted offices, retail spaces, and shell & core options." },
+      { "q": "Can I open a bank account with a D3 license?", "a": "Yes. We help open corporate bank accounts with top UAE banks based on your business profile." },
+      { "q": "Is D3 suitable for freelancers?", "a": "Yes. D3 offers freelance permits and hot desks designed for independent creatives." },
+      { "q": "Can I sponsor my family with a D3 license?", "a": "Yes. D3 supports family visa sponsorship along with investor and employment visas." },
+      { "q": "What support does Setup Zone Dubai provide?", "a": "We handle company registration, license issuance, visas, bank accounts, and ongoing business advisory." }
+    ]
+  },
+
+  "relatedServices": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your D3 setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-rose-400 to-pink-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-fuchsia-400 to-purple-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Launch Today",
+    "title": "Ready to Launch in D3?",
+    "titleHighlight": "D3?",
+    "subtitle": "Get a free consultation. We'll guide you through the entire D3 setup process — from license to launch.",
+    "primaryCta": "WhatsApp Us",
+    "whatsappMessage": "Hi! I'd like a free consultation for D3 setup.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": ["Free Consultation", "500+ Clients", "3-5 Days Setup"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "9 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

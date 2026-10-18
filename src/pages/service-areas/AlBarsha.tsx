@@ -11,7 +11,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import alBarshaData from '../../content/service-areas/al-barsha.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
-
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 const iconMap: any = {
   Building2, Globe, FileText, Users, Zap, Clock, Award, DollarSign,
   Layers, MapPin, Briefcase, Sparkles, ArrowRight, CheckCircle2,
@@ -19,7 +20,9 @@ const iconMap: any = {
 };
 
 export default function AlBarsha({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.serviceAreas || alBarshaData;
+  const { language } = useLanguage();
+  const alBarshaFallback = loadContent('service-areas/al-barsha', language);
+  const data = tinaData?.data?.serviceAreas || alBarshaFallback;
   const AREA_NAME = data.areaName;
   const AREA_SHORT = data.areaShort;
 

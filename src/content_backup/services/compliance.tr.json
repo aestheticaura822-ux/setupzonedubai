@@ -1,0 +1,372 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600\u0026q=80",
+    "heroBadge":  "Hukuki olarak sağlam kalın.",
+    "heroTitle":  "Birleşik Arap Emirlikleri\u0027nde Uyumluluk Hizmetleri",
+    "heroTitleHighlight":  "Birleşik Arap Emirlikleri",
+    "heroSubtitle":  "Anakara, Serbest Bölge ve Açık Deniz yargı bölgeleri için uçtan uca düzenleyici destek. ESR, UBO, Kurumlar Vergisi, KDV, AML ve WPS - hepsi uzmanlar tarafından yönetiliyor.",
+    "heroChips":  [
+                      "UBO Dosyalama",
+                      "ESR Raporları",
+                      "Sıfır Ceza"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Yasak",
+                      "value":  "1 milyon AED",
+                      "label":  "Max Para Cezaları",
+                      "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                  },
+                  {
+                      "icon":  "Kalkan Kontrolü",
+                      "value":  "%100",
+                      "label":  "Uyumluluk Oranı",
+                      "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                  },
+                  {
+                      "icon":  "DosyaMetni",
+                      "value":  "5+",
+                      "label":  "Dosyalama Türleri",
+                      "color":  "from-violet-400 to-purple-600"
+                  },
+                  {
+                      "icon":  "Kullanıcılar",
+                      "value":  "500+",
+                      "label":  "Hizmet Verilen İşletmeler",
+                      "color":  "from-emerald-400 to-teal-600"
+                  }
+              ],
+    "uboSection":  {
+                       "badge":  "UBO Dosyalama",
+                       "title":  "Gerçek Hak Sahibi (UBO) Nedir ve Neden Zorunludur?",
+                       "titleHighlight":  "Zorunlu?",
+                       "subtitle":  "Gerçek Hak Sahibi (UBO) düzenlemeleri, BAE işletmelerinin, diğer yasal kuruluşlar veya vekiller aracılığıyla faaliyet gösterseler bile, şirketi nihai olarak kimin kontrol ettiğini veya şirketten kimin fayda sağladığını açıklamalarını gerektirir.",
+                       "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                       "imageBadgeTitle":  "Zorunlu",
+                       "imageBadgeText":  "Birleşik Arap Emirlikleri\u0027ndeki Her İşletme İçin",
+                       "warningCard":  {
+                                           "label":  "Dosya Göndermeme",
+                                           "bigNumber":  "100.000 AED\u0027ye kadar",
+                                           "text":  "para cezaları + ehliyet iptali + yetkili makam soruşturmaları",
+                                           "ctaText":  "UBO dosyasını şimdi açın",
+                                           "ctaMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027ndeki işletmem için gerçek faydalanıcı (UBO) beyannamesi verme konusunda yardıma ihtiyacım var."
+                                       },
+                       "checklist":  [
+                                         "Gerçek hak sahiplerini belirleyin.",
+                                         "Hissedar bilgilerinin yapılandırılması",
+                                         "Dosya MOE Portalı üzerinden gönderiliyor.",
+                                         "İdari cezalardan kaçının"
+                                     ]
+                   },
+    "servicesSection":  {
+                            "badge":  "Sunduklarımız",
+                            "title":  "Uçtan Uca Uyumluluk Hizmetleri",
+                            "titleHighlight":  "Hizmetler",
+                            "subtitle":  "Tüm yasal başvurular ve yükümlülükler sizin için yönetilir.",
+                            "items":  [
+                                          {
+                                              "icon":  "Ölçek",
+                                              "title":  "ESR Uyumluluğu ve Dosyalama",
+                                              "description":  "ESR uygulanabilirliğini değerlendirin, madde beyanlarını hazırlayın, yerel maddeyi muhafaza edin ve Maliye Bakanlığı\u0027na raporlar sunun.",
+                                              "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Fiş",
+                                              "title":  "Kurumsal Vergi ve Serbest Ticaret Anlaşması",
+                                              "description":  "FTA\u0027ya kurumlar vergisi kaydı, yapılandırma danışmanlığı ve 2024 kuralları kapsamındaki raporlama gereklilikleri.",
+                                              "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Serbest Bölge Yönetimi",
+                                              "description":  "DMCC, IFZA, RAKEZ ve DAFZA şirketlerine ait yönetim kurulu kararları, hissedar güncellemeleri, lisans yenilemeleri ve düzenleyici başvurular.",
+                                              "image":  "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Parmak izi",
+                                              "title":  "UBO Beyanları",
+                                              "description":  "MOE Portalı aracılığıyla gerçek faydalanıcıları belirleyin, hissedar bilgilerini yapılandırın ve gerçek faydalanıcı bildirimlerini gönderin.",
+                                              "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcı Kontrolü",
+                                              "title":  "İşgücü ve Vize Uyumluluğu",
+                                              "description":  "Çalışan sözleşmesi denetimleri, Çalışma ve Sosyal Güvenlik Bakanlığı (MoHRE) mevzuatına uyum, vize durumu incelemeleri, işe alım/işten çıkarma prosedürleri.",
+                                              "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800\u0026q=80"
+                                          },
+                                          {
+                                              "icon":  "Pano Kontrolü",
+                                              "title":  "KDV Kaydı ve Beyannamesi",
+                                              "description":  "KDV kaydı, aylık/üç aylık beyannameler ve FTA denetimine hazırlık - faaliyetlerinize tamamen uyumlu.",
+                                              "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800\u0026q=80"
+                                          }
+                                      ]
+                        },
+    "esrSection":  {
+                       "badge":  "ESR Uyumluluğu",
+                       "title":  "ESR Nedir ve Neden Önemlidir?",
+                       "titleHighlight":  "Neden Önemli?",
+                       "subtitle":  "Ekonomik Özellik Düzenlemeleri, danışmanlık, holding, nakliye, finansman ve fikri mülkiyet gibi ilgili faaliyetleri yürüten BAE işletmeleri için geçerlidir. Cezalardan kaçınmak için başvuruların zamanında ve doğru bir şekilde yapılması gerekmektedir.",
+                       "image":  "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200\u0026q=80",
+                       "ctaText":  "ESR Desteği Alın",
+                       "ctaMessage":  "Merhaba! ESR uyumluluğu ve dosyalama konusunda yardıma ihtiyacım var.",
+                       "infoTable":  [
+                                         {
+                                             "label":  "Uygulanabilir Faaliyetler",
+                                             "value":  "Danışmanlık, Holding, Nakliye, Fikri Mülkiyet"
+                                         },
+                                         {
+                                             "label":  "Dosyalama Portalı",
+                                             "value":  "Maliye Bakanlığı"
+                                         },
+                                         {
+                                             "label":  "Dosyalama Sıklığı",
+                                             "value":  "Yıllık Bildirim + Rapor"
+                                         },
+                                         {
+                                             "label":  "Cezalar",
+                                             "value":  "500.000 AED\u0027ye kadar para cezası + Ehliyetin askıya alınması"
+                                         }
+                                     ],
+                       "imageBadgeTitle":  "Dosyalandı",
+                       "imageBadgeText":  "ESR Raporu 2025",
+                       "deadlineLabel":  "Sonraki Son Tarih",
+                       "deadlineValue":  "2026\u0027nın 2. çeyreği",
+                       "deadlineDays":  "128 gün kaldı"
+                   },
+    "whoNeedsSection":  {
+                            "badge":  "Kimin İhtiyacı Var?",
+                            "title":  "Uyumluluk Hizmetlerine Kimler İhtiyaç Duyar?",
+                            "titleHighlight":  "Uyumluluk Hizmetleri?",
+                            "subtitle":  "BAE\u0027deki her işletme - büyüklüğüne veya yetki alanına bakılmaksızın.",
+                            "items":  [
+                                          {
+                                              "icon":  "Bina 2",
+                                              "title":  "Anakara Çokuluslu Şirketleri",
+                                              "description":  "Anakara merkezli limited şirketler ve farklı yargı bölgelerinde faaliyet gösteren şubeler, ESR, Kurumlar Vergisi ve MoHRE (İnsan Kaynakları ve Çalışma Bakanlığı) yönetmeliklerine uymak zorundadır.",
+                                              "color":  "siyan-400\u0027den-mavi-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Ölçek",
+                                              "title":  "DNFBP\u0027ler",
+                                              "description":  "Gayrimenkul, hukuk, muhasebe, altın ticareti gibi sektörlerde faaliyet gösterenlerin goAML\u0027ye kayıt olmaları ve bir Uyum Sorumlusu atamaları zorunludur.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Kullanıcılar",
+                                              "title":  "WPS ve İşçi Uyumluluğu",
+                                              "description":  "Yabancı uyruklu çalışanları işe alan şirketler, sözleşmelerin BAE İş Kanunu ve WPS standartlarına uygun olduğundan emin olmalıdır.",
+                                              "color":  "from-emerald-400 to-teal-600"
+                                          },
+                                          {
+                                              "icon":  "Dosya Arama",
+                                              "title":  "Denetim Altındaki İşletmeler",
+                                              "description":  "Katma Değer Vergisi (KDV), Vergi veya Sağlık ve Sosyal Güvenlik Bakanlığı (MoHRE) denetimine tabi kuruluşların, uygun finansal, vergi, bordro ve işgücü belgelerine sahip olmaları gerekmektedir.",
+                                              "color":  "from-amber-400 to-orange-600"
+                                          },
+                                          {
+                                              "icon":  "Trend Yükseliyor",
+                                              "title":  "Serbest Bölge Genişleyen Şirketler",
+                                              "description":  "DMCC, IFZA, RAKEZ, DAFZA şirketlerinin genişleme veya yeniden yapılanma süreçlerinde uyumluluk incelemesi yapılması gerekmektedir.",
+                                              "color":  "pembe-400\u0027den gül-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "Denizaşırı Şirketler",
+                                              "description":  "RAK ICC, JAFZA Offshore "” Gerçek Faydalanıcıları (UBO) açıklamak, ESR raporları sunmak ve yıllık uyumluluğu sürdürmek zorundadır.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "risksSection":  {
+                         "badge":  "Uyarı "” Uyumluluk İhlali Riskleri",
+                         "title":  "İtaat etmediğinizde ne olur?",
+                         "titleHighlight":  "Uymayın",
+                         "subtitle":  "Kurallara uymayanları cezalar, lisans sorunları ve itibar kaybı bekliyor.",
+                         "image":  "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600\u0026q=80",
+                         "items":  [
+                                       {
+                                           "icon":  "Yasak",
+                                           "title":  "Lisansın Askıya Alınması veya İptali",
+                                           "description":  "ESR, UBO veya Kurumlar Vergisi beyannamelerinin verilmemesi, işletme lisansınızın askıya alınmasına veya iptal edilmesine yol açabilir.",
+                                           "color":  "kırmızı-400\u0027den gül-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Dolar İşareti",
+                                           "title":  "500.000 AED\u0027ye kadar para cezası",
+                                           "description":  "FTA, MoHRE veya Serbest Bölgeler, küçük ihlaller için 10.000 AED\u0027den ciddi ihlaller için 500.000 AED\u0027ye kadar para cezaları uygulamaktadır.",
+                                           "color":  "turuncu-400\u0027den kırmızı-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "XCircle",
+                                           "title":  "Vize Redleri",
+                                           "description":  "Çalışma ve Sosyal Güvenlik Bakanlığı (MoHRE) ve göçmenlik dairesi güncellenmiş iş sözleşmeleri, WPS (Çalışma ve Güvenlik Sertifikası) ve belgeler talep etmektedir; hatalar vize onaylarının reddedilmesine neden olur.",
+                                           "color":  "gül-400\u0027den-pembe-600\u0027e"
+                                       },
+                                       {
+                                           "icon":  "Düşüşte",
+                                           "title":  "Banka Gecikmeleri",
+                                           "description":  "Eksik ESR/UBO beyanları veya vergi sorunları banka hesaplarının açılmasını geciktirebilir veya kredi imkanlarının reddedilmesine neden olabilir.",
+                                           "color":  "from-amber-400 to-orange-600"
+                                       },
+                                       {
+                                           "icon":  "KalkanUyarısı",
+                                           "title":  "Kişisel Hukuki Sorumluluk",
+                                           "description":  "Yönetim kurulu üyeleri ve hissedarlar kişisel para cezaları, görevden uzaklaştırma veya hatta cezai sorumlulukla karşı karşıya kalabilirler.",
+                                           "color":  "kırmızı-500\u0027den kırmızı-700\u0027e"
+                                       }
+                                   ]
+                     },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Kurallara %100 uyun. Hiçbir ceza almayın.",
+                               "titleHighlight":  "Sıfır ceza.",
+                               "subtitle":  "Her son teslim tarihini takip ediyor, her raporu hazırlıyor ve işletmenizin Birleşik Arap Emirlikleri anakarası, serbest bölgeleri ve açık deniz yargı bölgelerindeki yasalarına tam olarak uyumlu kalmasını sağlıyoruz.",
+                               "ctaText":  "Uyumluluk Uzmanıyla Görüşün",
+                               "ctaMessage":  "Merhaba! Uyumluluk hizmetleriniz hakkında daha fazla bilgi edinmek istiyorum.",
+                               "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600\u0026q=80",
+                               "features":  [
+                                                {
+                                                    "icon":  "Ödül",
+                                                    "label":  "Birleşik Arap Emirlikleri\u0027nde Derinlemesine Düzenleme Uzmanlığı"
+                                                },
+                                                {
+                                                    "icon":  "Küre",
+                                                    "label":  "Anakara, Serbest Bölge ve Açık Deniz"
+                                                },
+                                                {
+                                                    "icon":  "Saat",
+                                                    "label":  "Gerçek Zamanlı Son Teslim Tarihi Takibi"
+                                                },
+                                                {
+                                                    "icon":  "Kalkan Kontrolü",
+                                                    "label":  "MOF, FTA, MoHRE Uyumluluğu"
+                                                },
+                                                {
+                                                    "icon":  "Göz",
+                                                    "label":  "Tamamen Şeffaf Fiyatlandırma"
+                                                },
+                                                {
+                                                    "icon":  "Kilit",
+                                                    "label":  "Yerel + Küresel Standartlar"
+                                                }
+                                            ],
+                               "dashboard":  {
+                                                 "complianceScore":  "%100",
+                                                 "complianceScoreLabel":  "âœ“ Tamamen Uyumlu",
+                                                 "filingsPending":  "0",
+                                                 "filingsPendingLabel":  "Gönderilenlerin tümü",
+                                                 "checklist":  [
+                                                                   {
+                                                                       "label":  "UBO Dosyalama",
+                                                                       "status":  "Dosyalandı"
+                                                                   },
+                                                                   {
+                                                                       "label":  "ESR Raporu",
+                                                                       "status":  "Dosyalandı"
+                                                                   },
+                                                                   {
+                                                                       "label":  "Kurumlar Vergisi",
+                                                                       "status":  "Kayıtlı"
+                                                                   },
+                                                                   {
+                                                                       "label":  "KDV Beyannamesi",
+                                                                       "status":  "Güncel"
+                                                                   },
+                                                                   {
+                                                                       "label":  "WPS Bordrosu",
+                                                                       "status":  "Uyumlu"
+                                                                   }
+                                                               ]
+                                             }
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "BAE mevzuatına uyum hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "Ücretsiz Uyumluluk Denetimi Alın",
+                                            "text":  "İşletmenizi inceleyeceğiz ve uyumluluk eksikliklerini belirleyeceğiz.",
+                                            "whatsappMessage":  "Merhaba! İşletmem için ücretsiz bir uyumluluk denetimi yaptırmak istiyorum."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde kurumsal uyumluluk nedir ve neden önemlidir?",
+                                          "a":  "Birleşik Arap Emirlikleri\u0027nde kurumsal uyumluluk, düzenleyici gereklilikleri (ESR, UBO, Kurumlar Vergisi, KDV, AML/CFT ve iş kanunları) yerine getirmek anlamına gelir. Bu, işletmenizin lisanslı, bankacılık hizmetlerinden yararlanan ve yasal olarak korunan bir işletme olarak kalmasını sağlar."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde Ekonomik Etki Düzenlemeleri (ESR) bildirimini kimlerin yapması gerekiyor?",
+                                          "a":  "ESR (Çevresel Sürdürülebilirlik Yönetmeliği), danışmanlık, holding, nakliye, finansman ve fikri mülkiyet gibi ilgili faaliyetleri yürüten işletmeler için geçerlidir. Bu işletmelerin Maliye Bakanlığı\u0027na bildirimde bulunmaları ve ESR raporları sunmaları gerekmektedir."
+                                      },
+                                      {
+                                          "q":  "Gerçek hak sahibi (UBO) bildirim sürelerini kaçırırsam ne olur?",
+                                          "a":  "100.000 AED\u0027ye varan para cezaları, lisans iptali ve Serbest Bölge veya DED soruşturmaları. Doğru ve zamanında dosyalama yaparak bunların önüne geçmenize yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Serbest bölge şirketleri için kurumlar vergisi zorunlu mu?",
+                                          "a":  "Evet. Serbest Bölge şirketlerinin Kurumlar Vergisi\u0027ne kayıt yaptırmaları zorunludur. Uygun gelirler %0 oranında vergilendirilebilir; uygun olmayan gelirler ise %9 oranında vergilendirilir."
+                                      },
+                                      {
+                                          "q":  "Birleşik Arap Emirlikleri\u0027nde küçük işletmelerin uyumluluk hizmetlerine ihtiyacı var mı?",
+                                          "a":  "Kesinlikle. ESR, UBO, KDV ve WPS yükümlülükleri, büyüklüğüne bakılmaksızın tüm kayıtlı işletmeler için geçerlidir."
+                                      },
+                                      {
+                                          "q":  "Kara Para Aklama ve Terör Finansmanıyla Mücadele (AML/CFT) uyumluluğu nedir ve kimlerin uyum sağlaması gerekir?",
+                                          "a":  "Kara Para Aklama / Terörizm Finansmanıyla Mücadele. Finansal Olmayan İşletmeler (gayrimenkul, hukuk, muhasebe, altın) goAML\u0027ye kayıt olmalı ve bir Uyum Görevlisi atamalıdır."
+                                      },
+                                      {
+                                          "q":  "WPS nedir ve nasıl uyum sağlarım?",
+                                          "a":  "Ücret Koruma Sistemi. İşverenler, maaşları Ücret Koruma Sistemi\u0027ne bağlı banka hesapları aracılığıyla ödemek ve Çalışma ve Sosyal Güvenlik Bakanlığı\u0027nın (MoHRE) yönetmeliklerine uygun kayıtlar tutmak zorundadır."
+                                      },
+                                      {
+                                          "q":  "Devlet denetimi sırasında yardımcı olur musunuz?",
+                                          "a":  "Evet. Tüm belgeleri hazırlıyoruz, sizi Maliye Bakanlığı/FTA/İnsan Kaynakları Bakanlığı nezdinde temsil ediyoruz ve denetimin sorunsuz bir şekilde tamamlanmasını sağlıyoruz."
+                                      },
+                                      {
+                                          "q":  "Kurallara uymamanın cezaları nelerdir?",
+                                          "a":  "Yöneticiler için 500.000 AED\u0027ye varan para cezaları, lisans askıya alınması, vize reddi, banka işlemlerinde gecikmeler ve kişisel yasal sorumluluklar söz konusu olabilir."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Uyumlulukla iyi uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "corporate-tax-vat",
+                                                     "title":  "Kurumlar Vergisi ve KDV",
+                                                     "description":  "Uzman vergi danışmanlığı, FTA kaydı ve mevzuata uyumluluk.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800\u0026q=80",
+                                                     "gradient":  "from-emerald-400 to-teal-600"
+                                                 },
+                                                 {
+                                                     "slug":  "accounting",
+                                                     "title":  "Muhasebe",
+                                                     "description":  "Muhasebe, KDV ve finansal raporlama.",
+                                                     "image":  "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800\u0026q=80",
+                                                     "gradient":  "from-violet-400 to-purple-600"
+                                                 },
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Banka Hesabı Açma",
+                                                     "description":  "Tüm KYC (Müşterinizi Tanıyın) desteğiyle BAE\u0027de ticari banka hesabı açın.",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Kurallara Uyum Sağlayın",
+                     "title":  "Kurallara tam uyum sağlamaya hazır mısınız?",
+                     "titleHighlight":  "Tamamen uyumlu mu?",
+                     "subtitle":  "Ücretsiz uyumluluk denetimi yaptırın. Eksiklikleri belirleyeceğiz, hızlıca gidereceğiz ve işletmenizi cezalardan koruyacağız.",
+                     "chips":  [
+                                   "Ücretsiz Denetim",
+                                   "Sıfır Ceza",
+                                   "Tam Uyumluluk"
+                               ],
+                     "whatsappMessage":  "Merhaba! İşletmem için ücretsiz bir uyumluluk denetimi yaptırmak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! İşletmemle ilgili uyumluluk konusunu görüşmek istiyorum."
+                 }
+}

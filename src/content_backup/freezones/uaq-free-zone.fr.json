@@ -1,0 +1,480 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600\u0026q=80",
+    "heroBadge":  "Création d\u0027entreprise sans tracas",
+    "heroTitle":  "Zone franche d\u0027Umm Al Quwain",
+    "heroTitleHighlight":  "Zone franche",
+    "heroSubtitle":  "L\u0027une des zones franches les plus favorables aux petites entreprises aux Émirats arabes unis. Création d\u0027entreprise abordable, flexible et sans stress, avec une propriété 100 % étrangère et des formules de licence À  bas prix.",
+    "heroChips":  [
+                      "Propriété À  100 %",
+                      "Taxe de 0 %",
+                      "Installation en 3 À  5 jours",
+                      "Forfaits À  bas prix"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Signe du dollar",
+                      "value":  "Faible",
+                      "label":  "coût d\u0027entrée",
+                      "color":  "de-émeraude-400 À -turquoise-600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "100%",
+                      "label":  "Propriété étrangère",
+                      "color":  "de turquoise 400 À  cyan 600"
+                  },
+                  {
+                      "icon":  "Pour cent",
+                      "value":  "0%",
+                      "label":  "Taux d\u0027imposition",
+                      "color":  "de cyan-400 À  ciel-600"
+                  },
+                  {
+                      "icon":  "Horloge",
+                      "value":  "3-5",
+                      "label":  "Installation des jours",
+                      "color":  "du ciel 400 au bleu 600"
+                  }
+              ],
+    "introSection":  {
+                         "badge":  "Lancez votre entreprise",
+                         "title":  "L\u0027une des zones les plus favorables aux petites entreprises des Émirats arabes unis",
+                         "titleHighlight":  "Zones favorables aux petites entreprises",
+                         "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                         "imageBadgeTitle":  "Zone de libre-échange",
+                         "imageBadgeText":  "Umm Al Quwain, Émirats arabes unis",
+                         "paragraphs":  [
+                                            "Vous souhaitez créer votre entreprise aux Émirats arabes unis de manière abordable, flexible et sans stress ? La zone franche d"™Umm Al Quwain (UAQ FTZ) est l"™une des zones franches les plus favorables aux petites entreprises des Émirats.",
+                                            "Réputée pour son exclusivité étrangère, son taux d\u0027imposition sur le revenu de 0 %, son enregistrement rapide des entreprises et ses formules de licences incroyablement économiques, la zone franche d\u0027UAQ est idéalement située entre Dubaï et Sharjah, À  proximité des grands axes routiers, des ports maritimes et des aéroports.",
+                                            "Que vous soyez indépendant, consultant, société commerciale ou entreprise technologique, UAQ FTZ propose une large gamme de licences, de solutions de bureaux et d\u0027opportunités de visa. Avec Setup Zone Dubai, nous simplifions et accélérons vos démarches d\u0027installation, en toute légalité et sans tracas."
+                                        ],
+                         "highlights":  [
+                                            "Propriété étrangère À  100 %",
+                                            "Environnement fiscal zéro",
+                                            "Inscription rapide",
+                                            "Forfaits À  bas prix",
+                                            "Emplacement stratégique",
+                                            "Connectivité mondiale"
+                                        ]
+                     },
+    "whyChooseSection":  {
+                             "badge":  "Environnement favorable aux entreprises",
+                             "title":  "Pourquoi choisir la zone franche de l\u0027UAQ ?",
+                             "titleHighlight":  "Zone franche de l\u0027UAQ ?",
+                             "subtitle":  "L\u0027une des zones franches les plus rentables et les plus favorables aux entreprises aux Émirats arabes unis.",
+                             "items":  [
+                                           {
+                                               "icon":  "Signe du dollar",
+                                               "title":  "Installation rentable",
+                                               "description":  "L\u0027une des zones franches les plus abordables des Émirats arabes unis, avec des procédures très simplifiées et des formules de licence À  bas prix "“ idéale pour les start-ups, les PME et les entrepreneurs internationaux.",
+                                               "color":  "de-émeraude-400 À -turquoise-600"
+                                           },
+                                           {
+                                               "icon":  "Globe",
+                                               "title":  "Propriété étrangère À  100 %",
+                                               "description":  "Maîtrisez pleinement la structure, les opérations et les bénéfices de votre entreprise sans avoir besoin d\u0027un sponsor émirati local.",
+                                               "color":  "de turquoise 400 À  cyan 600"
+                                           },
+                                           {
+                                               "icon":  "Pour cent",
+                                               "title":  "Exonérations fiscales",
+                                               "description":  "Exonération totale d\u0027impôt sur le revenu des personnes physiques et des entreprises "” conservez tous vos bénéfices et rapatriez librement votre capital.",
+                                               "color":  "de cyan-400 À  ciel-600"
+                                           },
+                                           {
+                                               "icon":  "Itinéraire",
+                                               "title":  "Connectivité stratégique",
+                                               "description":  "Idéalement situé entre Dubaï et Sharjah, À  proximité des grands axes routiers, des ports et des aéroports, avec une excellente connectivité internationale.",
+                                               "color":  "du ciel 400 au bleu 600"
+                                           },
+                                           {
+                                               "icon":  "Zap",
+                                               "title":  "Enregistrement rapide d\u0027entreprise",
+                                               "description":  "Des procédures simplifiées avec très peu de documentation et des approbations accélérées "” mettez votre entreprise en marche en 3 À  5 jours ouvrables.",
+                                               "color":  "du bleu 400 À  l\u0027indigo 600"
+                                           },
+                                           {
+                                               "icon":  "Bâtiment 2",
+                                               "title":  "Aucun obstacle pour commencer",
+                                               "description":  "Lancez un cabinet de conseil, une entreprise commerciale ou une agence numérique : il n"™existe littéralement aucune barrière, dans le cadre de la même structure que celle utilisée par de nombreuses entreprises de renommée mondiale.",
+                                               "color":  "de l\u0027indigo 400 au violet 600"
+                                           }
+                                       ]
+                         },
+    "formationServicesSection":  {
+                                     "badge":  "Soutien rapide et fiable À  la formation",
+                                     "title":  "Services de création d\u0027entreprise À  la zone franche de l\u0027UAQ",
+                                     "titleHighlight":  "Services À  la zone franche de l\u0027UAQ",
+                                     "subtitle":  "Nous rendons le processus d\u0027installation rapide, conforme et sans tracas, quelle que soit la taille de votre entreprise.",
+                                     "items":  [
+                                                   {
+                                                       "icon":  "Mallette",
+                                                       "label":  "Consultation initiale et sélection de l\u0027activité commerciale"
+                                                   },
+                                                   {
+                                                       "icon":  "Texte du fichier",
+                                                       "label":  "Demandes d\u0027approbation de nom d\u0027entreprise et de licence"
+                                                   },
+                                                   {
+                                                       "icon":  "Vérification du presse-papiers",
+                                                       "label":  "Préparation et soumission des documents"
+                                                   },
+                                                   {
+                                                       "icon":  "Carte de crédit",
+                                                       "label":  "Carte d\u0027immigration et enregistrement d\u0027établissement"
+                                                   },
+                                                   {
+                                                       "icon":  "Vérification de l\u0027utilisateur",
+                                                       "label":  "Attribution et apposition de visas pour les propriétaires et le personnel"
+                                                   },
+                                                   {
+                                                       "icon":  "Bouclier",
+                                                       "label":  "Conseils en matière de conformité post-immatriculation et de TVA"
+                                                   },
+                                                   {
+                                                       "icon":  "Signe du dollar",
+                                                       "label":  "Aide À  l\u0027ouverture de comptes bancaires d\u0027entreprise"
+                                                   }
+                                               ],
+                                     "footerText":  "Que vous soyez indépendant ou une équipe de plus de 10 personnes, nous vous aidons À  enregistrer votre entreprise UAQ rapidement, légalement et À  un prix abordable."
+                                 },
+    "licenseTypesSection":  {
+                                "badge":  "Approbations faciles et rapides",
+                                "title":  "Options de licence dans la zone franche d\u0027UAQ",
+                                "titleHighlight":  "dans la zone franche d\u0027UAQ",
+                                "subtitle":  "Diverses licences dans différents secteurs.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Magasin",
+                                                  "title":  "Licence commerciale",
+                                                  "description":  "Pour le commerce général, la vente au détail et les entreprises d\u0027import-export.",
+                                                  "code":  "LMC",
+                                                  "color":  "de-émeraude-400 À -turquoise-600"
+                                              },
+                                              {
+                                                  "icon":  "Usine",
+                                                  "title":  "Licence industrielle",
+                                                  "description":  "Pour les entreprises de fabrication, de production et de stockage.",
+                                                  "code":  "INDIANA",
+                                                  "color":  "de turquoise 400 À  cyan 600"
+                                              },
+                                              {
+                                                  "icon":  "Mallette",
+                                                  "title":  "Licence de consultant",
+                                                  "description":  "Pour les consultants en affaires, en marketing et en droit.",
+                                                  "code":  "SNC",
+                                                  "color":  "de cyan-400 À  ciel-600"
+                                              },
+                                              {
+                                                  "icon":  "Utilisateurs",
+                                                  "title":  "Licence de service",
+                                                  "description":  "Pour une large gamme de services B2B et B2C.",
+                                                  "code":  "SRV",
+                                                  "color":  "du ciel 400 au bleu 600"
+                                              },
+                                              {
+                                                  "icon":  "Vérification de l\u0027utilisateur",
+                                                  "title":  "Permis de travailleur indépendant",
+                                                  "description":  "Pour les particuliers et les professionnels travaillant À  distance.",
+                                                  "code":  "FRL",
+                                                  "color":  "du bleu 400 À  l\u0027indigo 600"
+                                              },
+                                              {
+                                                  "icon":  "Couches",
+                                                  "title":  "Option de double licence",
+                                                  "description":  "Pour combiner les avantages de la zone franche avec l\u0027accès au continent.",
+                                                  "code":  "DOUBLE",
+                                                  "color":  "de l\u0027indigo 400 au violet 600"
+                                              }
+                                          ]
+                            },
+    "facilitiesSection":  {
+                              "badge":  "Installations et infrastructures",
+                              "title":  "Une infrastructure évolutive pour les entreprises de toutes tailles.",
+                              "titleHighlight":  "pour les entreprises de toutes tailles",
+                              "subtitle":  "Des installations conÀ§ues sur mesure pour répondre À  vos besoins opérationnels.",
+                              "items":  [
+                                            {
+                                                "icon":  "Bâtiment 2",
+                                                "title":  "Espaces de bureaux À  louer",
+                                                "description":  "Contrats de location flexibles avec installation prête À  l\u0027emploi.",
+                                                "color":  "de-émeraude-400 À -turquoise-600",
+                                                "size":  "petit"
+                                            },
+                                            {
+                                                "icon":  "Couronne",
+                                                "title":  "Bureaux exécutifs",
+                                                "description":  "Des bureaux de prestige pour des réunions productives d\u0027équipe et d\u0027investisseurs.",
+                                                "color":  "de turquoise 400 À  cyan 600",
+                                                "size":  "petit"
+                                            },
+                                            {
+                                                "icon":  "Utilisateurs",
+                                                "title":  "Espaces de coworking",
+                                                "description":  "Espaces de travail partagés abordables pour les indépendants et les startups.",
+                                                "color":  "de-cyan-500 À -ciel-600",
+                                                "size":  "grand"
+                                            },
+                                            {
+                                                "icon":  "Entrepôt",
+                                                "title":  "Entrepôts",
+                                                "description":  "Des unités spécialement conÀ§ues pour la logistique, le stockage et la production.",
+                                                "color":  "du ciel 400 au bleu 600",
+                                                "size":  "petit"
+                                            },
+                                            {
+                                                "icon":  "Usine",
+                                                "title":  "Terrains industriels À  louer",
+                                                "description":  "Possibilités foncières pour des baux de plus longue durée et des installations plus importantes.",
+                                                "color":  "du bleu 400 À  l\u0027indigo 600",
+                                                "size":  "petit"
+                                            },
+                                            {
+                                                "icon":  "Camion",
+                                                "title":  "Plateforme logistique",
+                                                "description":  "Excellente infrastructure pour l\u0027import/export et le transport de marchandises.",
+                                                "color":  "de l\u0027indigo 400 au violet 600",
+                                                "size":  "petit"
+                                            }
+                                        ]
+                          },
+    "taxBenefitsSection":  {
+                               "badge":  "Avantages fiscaux et liés À  la propriété",
+                               "title":  "Des opérations rentables À  portée mondiale",
+                               "titleHighlight":  "avec une portée mondiale",
+                               "subtitle":  "Ces avantages font de la zone franche de l\u0027UAQ une destination privilégiée pour les entrepreneurs.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Globe",
+                                                 "label":  "Propriété étrangère À  100 %",
+                                                 "detail":  "Aucun partenaire local émirati requis"
+                                             },
+                                             {
+                                                 "icon":  "Pour cent",
+                                                 "label":  "Impôt sur le revenu des particuliers et des entreprises À  0 %",
+                                                 "detail":  "Rétention intégrale des bénéfices"
+                                             },
+                                             {
+                                                 "icon":  "Portefeuille",
+                                                 "label":  "Rapatriement des capitaux et des bénéfices",
+                                                 "detail":  "Déplacez votre argent librement"
+                                             },
+                                             {
+                                                 "icon":  "Signe du dollar",
+                                                 "label":  "Aucune restriction de change",
+                                                 "detail":  "Idéal pour les transactions internationales"
+                                             },
+                                             {
+                                                 "icon":  "Bouclier",
+                                                 "label":  "Assistance À  l\u0027enregistrement À  la TVA",
+                                                 "detail":  "Respectez scrupuleusement la législation fiscale des Émirats arabes unis."
+                                             }
+                                         ]
+                           },
+    "visaServicesSection":  {
+                                "badge":  "L\u0027accès simplifié",
+                                "title":  "Services de visas et d\u0027immigration",
+                                "titleHighlight":  "Services",
+                                "subtitle":  "Nous nous occupons de toutes les formalités d\u0027immigration, que vous vous lanciez en solo ou que vous agrandissiez votre équipe.",
+                                "items":  [
+                                              {
+                                                  "icon":  "Vérification de l\u0027utilisateur",
+                                                  "label":  "Visas d\u0027investisseur et de partenaire"
+                                              },
+                                              {
+                                                  "icon":  "Utilisateurs",
+                                                  "label":  "Visas de travail pour le personnel"
+                                              },
+                                              {
+                                                  "icon":  "Poignée de main en forme de cÅ“ur",
+                                                  "label":  "Soutien au parrainage familial"
+                                              },
+                                              {
+                                                  "icon":  "Carte de crédit",
+                                                  "label":  "Carte d\u0027identité des Émirats et tests médicaux"
+                                              },
+                                              {
+                                                  "icon":  "Vérification des badges",
+                                                  "label":  "Estampillage de visa"
+                                              },
+                                              {
+                                                  "icon":  "Bouclier",
+                                                  "label":  "Services PRO de bout en bout"
+                                              },
+                                              {
+                                                  "icon":  "RefreshCw",
+                                                  "label":  "Suivi des renouvellements et de la conformité"
+                                              }
+                                          ]
+                            },
+    "supportServicesSection":  {
+                                   "badge":  "Assistance et gestion des licences",
+                                   "title":  "Vous n\u0027obtenez pas seulement une licence, vous bénéficiez d\u0027un soutien À  long terme",
+                                   "titleHighlight":  "Vous bénéficiez d\u0027un soutien À  long terme",
+                                   "subtitle":  "Avec Setup Zone Dubai, nous vous accompagnons bien au-delÀ  de l\u0027installation.",
+                                   "items":  [
+                                                 {
+                                                     "icon":  "Palette",
+                                                     "label":  "Création de marque et de profil d\u0027entreprise"
+                                                 },
+                                                 {
+                                                     "icon":  "Globe",
+                                                     "label":  "Configuration du site Web et des outils numériques"
+                                                 },
+                                                 {
+                                                     "icon":  "Texte du fichier",
+                                                     "label":  "Inscription À  la TVA et comptabilité"
+                                                 },
+                                                 {
+                                                     "icon":  "Échelle",
+                                                     "label":  "Assistance et rédaction de documents juridiques"
+                                                 },
+                                                 {
+                                                     "icon":  "Signe du dollar",
+                                                     "label":  "Assistance pour les comptes bancaires d\u0027entreprise"
+                                                 },
+                                                 {
+                                                     "icon":  "RefreshCw",
+                                                     "label":  "Renouvellement des licences et surveillance de la conformité"
+                                                 }
+                                             ]
+                               },
+    "growthStatsSection":  {
+                               "badge":  "Perspectives de croissance des entreprises",
+                               "title":  "Une destination privilégiée pour les startups et les PME",
+                               "titleHighlight":  "pour les startups et les PME",
+                               "subtitle":  "Un écosystème en pleine expansion pour les entrepreneurs et les entreprises internationales.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bâtiment 2",
+                                                 "value":  "Plus de 1000",
+                                                 "label":  "Entreprises enregistrées",
+                                                 "color":  "de-émeraude-400 À -turquoise-600"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "value":  "Mondial",
+                                                 "label":  "Portée commerciale",
+                                                 "color":  "de turquoise 400 À  cyan 600"
+                                             },
+                                             {
+                                                 "icon":  "Tendances À  la hausse",
+                                                 "value":  "Rapide",
+                                                 "label":  "Création d\u0027entreprise",
+                                                 "color":  "de cyan-400 À  ciel-600"
+                                             },
+                                             {
+                                                 "icon":  "Signe du dollar",
+                                                 "value":  "Faible",
+                                                 "label":  "coût d\u0027entrée",
+                                                 "color":  "du ciel 400 au bleu 600"
+                                             },
+                                             {
+                                                 "icon":  "Graphique À  barres 3",
+                                                 "value":  "Croissance",
+                                                 "label":  "Économie d\u0027entreprise",
+                                                 "color":  "du bleu 400 À  l\u0027indigo 600"
+                                             },
+                                             {
+                                                 "icon":  "Couronne",
+                                                 "value":  "Préféré",
+                                                 "label":  "Pour les startups et les PME",
+                                                 "color":  "de l\u0027indigo 400 au violet 600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Questions fréquentes",
+                        "title":  "Foire aux questions",
+                        "titleHighlight":  "Questions",
+                        "subtitle":  "Tout ce que vous devez savoir sur la zone franche de l\u0027UAQ. Vous avez encore des questions ? N\u0027hésitez pas À  nous contacter.",
+                        "sidebarCard":  {
+                                            "title":  "Vous avez encore des questions ?",
+                                            "text":  "Obtenez une consultation gratuite avec nos spécialistes de la zone franche de l\u0027UAQ.",
+                                            "whatsappMessage":  "Bonjour ! J\u0027ai une question concernant la zone franche de l\u0027UAQ."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Quel est le délai pour enregistrer une entreprise dans la zone franche d\u0027UAQ ?",
+                                          "a":  "Le délai habituel d\u0027enregistrement d\u0027une société dans la zone franche d\u0027Umm Al Quwain est de 3 À  5 jours ouvrables, sous réserve de la conformité du dossier. Nous vous aidons À  vérifier vos documents au préalable et assurons le suivi des approbations afin d\u0027accélérer la procédure."
+                                      },
+                                      {
+                                          "q":  "Vais-je obtenir un visa avec ma licence de zone franche de l\u0027UAQ ?",
+                                          "a":  "Oui. UAQ FTZ propose un quota de visas en fonction de votre licence et de la superficie de vos bureaux. Nous prenons en charge les visas d\u0027investisseur, de partenaire, de travail et de regroupement familial, ainsi que les cartes d\u0027identité émiriennes, les examens médicaux et l\u0027apposition du visa."
+                                      },
+                                      {
+                                          "q":  "La zone franche de l\u0027UAQ est-elle avantageuse pour les travailleurs indépendants ?",
+                                          "a":  "Absolument. UAQ FTZ propose un permis de travail indépendant abordable, conÀ§u spécifiquement pour les particuliers et les professionnels travaillant À  distance "“ idéal pour les consultants, les designers, les développeurs et les créatifs."
+                                      },
+                                      {
+                                          "q":  "Ai-je besoin d\u0027un bureau physique pour m\u0027inscrire ?",
+                                          "a":  "Pas nécessairement. La zone franche de l\u0027UAQ propose des solutions flexibles, notamment des espaces de coworking et des bureaux partagés, vous permettant ainsi de démarrer sans avoir besoin d\u0027un grand bureau physique. Toutefois, certaines licences et certains quotas de visas peuvent exiger une présence physique."
+                                      },
+                                      {
+                                          "q":  "La zone franche d\u0027UAQ est-elle adaptée aux entreprises commerciales ?",
+                                          "a":  "Oui. La zone franche d\u0027UAQ propose une licence commerciale spécifiquement destinée au commerce général, À  la vente au détail et aux entreprises d\u0027import-export, avec une excellente infrastructure logistique et une connectivité optimale aux ports maritimes et aux aéroports."
+                                      },
+                                      {
+                                          "q":  "Quels sont les avantages fiscaux de la zone franche d\u0027UAQ ?",
+                                          "a":  "La zone franche d\u0027UAQ offre un taux d\u0027imposition de 0 % sur le revenu des personnes physiques et des sociétés, le rapatriement intégral des capitaux et des bénéfices, aucune restriction de change et une assistance À  l\u0027enregistrement À  la TVA, ce qui en fait un lieu idéal pour des opérations rentables À  portée mondiale."
+                                      },
+                                      {
+                                          "q":  "Puis-je ouvrir un compte bancaire avec mon permis UAQ ?",
+                                          "a":  "Oui. Nous offrons une assistance complète pour l\u0027ouverture de comptes bancaires d\u0027entreprise "” auprès de banques basées aux Émirats arabes unis et À  l\u0027international "” dans le cadre de nos services d\u0027assistance post-agrément."
+                                      },
+                                      {
+                                          "q":  "L\u0027audit annuel est-il obligatoire ?",
+                                          "a":  "Les exigences en matière d\u0027audit dépendent de votre type de licence et de votre activité. Nous proposons des services d\u0027immatriculation À  la TVA, de tenue de comptabilité et d\u0027accompagnement À  la conformité afin de garantir le respect total de la réglementation des Émirats arabes unis par votre entreprise."
+                                      },
+                                      {
+                                          "q":  "Puis-je exercer mon activité en dehors des Émirats arabes unis avec cette licence ?",
+                                          "a":  "Oui. Les entreprises de la zone franche de l\u0027UAQ peuvent opérer À  l\u0027international et, grâce À  l\u0027option de double licence, accéder également au marché continental des Émirats arabes unis. C\u0027est donc la solution idéale pour le commerce mondial et les activités transfrontalières."
+                                      },
+                                      {
+                                          "q":  "Pourquoi choisir Setup Zone Dubai pour la mise en place de la zone franche de l\u0027UAQ ?",
+                                          "a":  "Nous vous offrons un accompagnement complet : licence commerciale, visas, équipements de bureau, services bancaires, image de marque, site web, TVA et conformité. Forts de plus de dix ans d"™expérience, nous vous garantissons une installation rapide, légale et sans tracas."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Services et guides associés",
+                                   "titleHighlight":  "Services et guides",
+                                   "subtitle":  "Des services qui s\u0027accordent parfaitement avec votre configuration UAQ FTZ.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "bank-account",
+                                                     "title":  "Ouverture de compte bancaire",
+                                                     "description":  "Ouvrez des comptes bancaires professionnels aux Émirats arabes unis avec une prise en charge complète de la connaissance du client (KYC).",
+                                                     "image":  "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800\u0026q=80",
+                                                     "gradient":  "de-émeraude-400 À -turquoise-600"
+                                                 },
+                                                 {
+                                                     "slug":  "golden-visa",
+                                                     "title":  "Visa d\u0027or",
+                                                     "description":  "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "de l\u0027ambre 400 au jaune 500"
+                                                 },
+                                                 {
+                                                     "slug":  "compliance",
+                                                     "title":  "Services de conformité",
+                                                     "description":  "Conseils en matière d\u0027UBO, d\u0027ESR, de LBC et de TVA.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "de cyan 400 À  bleu 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Prêt À  lancer ?",
+                     "title":  "Prêt À  vous constituer en société dans la zone franche d\u0027UAQ ?",
+                     "titleHighlight":  "Zone franche de l\u0027UAQ ?",
+                     "subtitle":  "Installation À  faible coût, propriété complète et approbations rapides : tout est regroupé au même endroit. Obtenez une consultation gratuite dès aujourd"™hui.",
+                     "chips":  [
+                                   "Consultation gratuite",
+                                   "Installation en 3 À  5 jours",
+                                   "Forfaits À  bas prix"
+                               ],
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite pour la mise en place d\u0027une zone franche UAQ.",
+                     "whatsappCardMessage":  "Bonjour ! J\u0027aimerais discuter de la mise en place d\u0027une zone franche UAQ."
+                 }
+}

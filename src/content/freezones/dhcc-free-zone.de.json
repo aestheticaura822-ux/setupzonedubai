@@ -1,0 +1,428 @@
+{
+  "hero": {
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1600&q=80",
+    "breadcrumbParent": "Freizonen",
+    "breadcrumbLabel": "Dubai Healthcare City",
+    "badge": "Dubai Healthcare City",
+    "title": "Dubai Healthcare City",
+    "titleHighlight": "Gesundheitsstadt",
+    "subtitle": "Die weltweit größte Freihandelszone für Gesundheitswesen und Wellness. Gründen Sie Ihr Medizin-, Pharma- oder Wellnessunternehmen in Dubais führendem Gesundheitszentrum.",
+    "ctaPrimaryText": "Vereinbaren Sie eine kostenlose Beratung",
+    "ctaPrimaryLink": "#Kontakt",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hallo! Ich interessiere mich für die Einrichtung der Dubai Healthcare City Free Zone.",
+    "badges": [
+      "100% Eigentum",
+      "0 % Steuer",
+      "Medizinisches Zentrum",
+      "3-5 Tage Aufbauzeit"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "500+",
+      "label": "Healthcare Partners",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "Ausländisches Eigentum",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0 %",
+      "label": "Steuersatz",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "Tagesaufbau",
+      "color": "from-sky-400 to-blue-600"
+    }
+  ],
+  "dashboardCard": {
+    "title": "DHCC Medical Hub",
+    "totalLabel": "Zone",
+    "totalValue": "Dubai, Vereinigte Arabische Emirate",
+    "statusBadge": "Aktiv",
+    "metrics": [
+      {
+        "label": "Einrichtungszeit",
+        "value": "3-5 Tage",
+        "color": "text-teal-600"
+      },
+      {
+        "label": "Partner",
+        "value": "500+",
+        "color": "text-cyan-600"
+      }
+    ]
+  },
+  "whyDhcc": {
+    "badge": "Warum DHCC",
+    "title": "Warum Dubai Healthcare City wählen?",
+    "titleHighlight": "Dubai Healthcare City?",
+    "subtitle": "Die einzige Freihandelszone der Region, die sich ausschließlich dem Gesundheitswesen, dem Wohlbefinden und der medizinischen Ausbildung widmet.",
+    "smallCards": [
+      {
+        "icon": "Globe",
+        "title": "100% ausländisches Eigentum",
+        "description": "Volle Eigentümerschaft ohne lokale Sponsoren – vollständige Kontrolle über Ihre Arztpraxis.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "0% Steuerumfeld",
+        "description": "Keine Körperschafts- oder Einkommensteuer – maximieren Sie die Rentabilität Ihres Gesundheitsunternehmens.",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "DHA-Regulierungsunterstützung",
+        "description": "Direkter Zugang zum Lizenzierungs- und Regulierungsrahmen der Gesundheitsbehörde von Dubai.",
+        "color": "from-cyan-400 to-sky-600"
+      }
+    ],
+    "largeCard": {
+      "icon": "HeartPulse",
+      "title": "Die weltweit größte kostenlose Gesundheitszone",
+      "description": "Heimat von über 500 Partnern im Gesundheitswesen, erstklassigen Krankenhäusern, Kliniken und medizinischen Ausbildungseinrichtungen – mit integrierter Lizenzierung und Infrastruktur.",
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80"
+    },
+    "smallCard2": {
+      "icon": "Building2",
+      "title": "Integriertes medizinisches Ökosystem",
+      "description": "Krankenhäuser, Kliniken, Apotheken, Labore und Forschungszentren – alles in einem eigens dafür errichteten Viertel.",
+      "color": "from-teal-500 via-cyan-600 to-teal-700"
+    }
+  },
+  "whoCanOpenSection": {
+    "badge": "Wer kann öffnen",
+    "title": "Wer kann in DHCC ein Unternehmen gründen?",
+    "titleHighlight": "Unternehmen im DHCC?",
+    "subtitle": "Eine breite Palette von Gesundheits- und Medizinfachkräften kann hier ihre Praxis eröffnen.",
+    "items": [
+      {
+        "icon": "Stethoscope",
+        "label": "Ärzte und Chirurgen"
+      },
+      {
+        "icon": "Pill",
+        "label": "Apotheken & Apotheker"
+      },
+      {
+        "icon": "Activity",
+        "label": "Diagnostische Labore"
+      },
+      {
+        "icon": "Brain",
+        "label": "Psychische Gesundheit und Therapie"
+      },
+      {
+        "icon": "HeartPulse",
+        "label": "Fachkliniken"
+      },
+      {
+        "icon": "Smile",
+        "label": "Zahnarztpraxen"
+      },
+      {
+        "icon": "Ambulance",
+        "label": "Notfalldienste"
+      },
+      {
+        "icon": "Dna",
+        "label": "Forschung & Biotechnologie"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Pflege und häusliche Pflege"
+      },
+      {
+        "icon": "Monitor",
+        "label": "Gesundheitstechnologie & Telemedizin"
+      },
+      {
+        "icon": "FileBadge",
+        "label": "Medizinische Ausbildung"
+      },
+      {
+        "icon": "Package",
+        "label": "Handel mit medizinischen Geräten"
+      }
+    ]
+  },
+  "licensesSection": {
+    "badge": "Lizenzarten",
+    "title": "DHCC-Lizenztypen",
+    "titleHighlight": "Lizenzarten",
+    "items": [
+      {
+        "icon": "Stethoscope",
+        "title": "Ärztliche Zulassung",
+        "description": "Für Ärzte, Kliniken, Krankenhäuser und medizinische Fachzentren.",
+        "code": "MEDIZIN",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Pill",
+        "title": "Pharmazeutische Zulassung",
+        "description": "Für Apotheken, Pharma-Handelsunternehmen und medizinische Vertriebsfirmen.",
+        "code": "PHR",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Activity",
+        "title": "Diagnostik- und Laborlizenz",
+        "description": "Für Diagnosezentren, Pathologielabore und bildgebende Einrichtungen.",
+        "code": "LABOR",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Berufslizenz",
+        "description": "Für medizinische Berater, Gesundheitsberater und Wellness-Coaches.",
+        "code": "PRO",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Monitor",
+        "title": "HealthTech-Lizenz",
+        "description": "Für Telemedizin, digitale Gesundheit und medizinische SaaS-Plattformen.",
+        "code": "HTC",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "Bildungslizenz",
+        "description": "Für medizinische Ausbildungszentren, Krankenpflegeschulen und CME-Anbieter.",
+        "code": "EDU",
+        "color": "from-pink-400 to-rose-600"
+      }
+    ]
+  },
+  "documentsSectionDhcc": {
+    "badge": "Erforderliche Dokumente",
+    "title": "Für die DHCC-Einrichtung erforderliche Dokumente",
+    "titleHighlight": "DHCP-Einrichtung",
+    "items": [
+      {
+        "icon": "FileText",
+        "label": "Passkopien",
+        "description": "Gültige Passkopien aller Aktionäre und Geschäftsführer."
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Geschäftsplan",
+        "description": "Detaillierter Geschäftsplan inklusive Dienstleistungen und Zielmarkt."
+      },
+      {
+        "icon": "BadgeCheck",
+        "label": "Berufliche Qualifikationen",
+        "description": "Medizinische Abschlüsse, Lizenzen und DHA-Berechtigung für Angehörige der Gesundheitsberufe."
+      },
+      {
+        "icon": "FileBadge",
+        "label": "Markenreservierung",
+        "description": "Genehmigtes Handelsnamenszertifikat der DHCC-Behörde."
+      },
+      {
+        "icon": "MapPin",
+        "label": "Adressnachweis",
+        "description": "Nachweis der Adresse und Kontaktdaten der Aktionäre."
+      },
+      {
+        "icon": "CreditCard",
+        "label": "Foto & Unterschrift",
+        "description": "Passfotos und Unterschriftsproben."
+      }
+    ]
+  },
+  "setupProcessSectionDhcc": {
+    "badge": "Einrichtungsprozess",
+    "title": "DHCP-Einrichtung in 5 Schritten",
+    "titleHighlight": "in 5 Schritten",
+    "subtitle": "Gründen Sie Ihr Gesundheitsunternehmen in Dubai mit unserem geführten Prozess.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Aktivität und Lizenz auswählen",
+        "description": "Wählen Sie die passende Gesundheitsaktivität und den richtigen Lizenztyp für Ihr Unternehmen aus.",
+        "color": "from-teal-400 to-cyan-600",
+        "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80"
+      },
+      {
+        "step": "02",
+        "icon": "FileText",
+        "title": "Reserve-Handelsname",
+        "description": "Sichern Sie sich Ihren Wunschnamen für Ihr medizinisches Unternehmen bei DHCC und bezahlen Sie die Reservierungsgebühr.",
+        "color": "from-cyan-400 to-sky-600",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+      },
+      {
+        "step": "03",
+        "icon": "FileCheck",
+        "title": "Dokumente einreichen",
+        "description": "Bereiten Sie alle erforderlichen Unterlagen, einschließlich der medizinischen Qualifikationsnachweise, vor und reichen Sie diese ein.",
+        "color": "from-sky-400 to-blue-600",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "step": "04",
+        "icon": "BadgeCheck",
+        "title": "Lizenzerteilung",
+        "description": "Erhalten Sie Ihre DHCC-Gesundheitslizenz und die DHA-Zulassung.",
+        "color": "from-emerald-400 to-teal-600",
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80"
+      },
+      {
+        "step": "05",
+        "icon": "CreditCard",
+        "title": "Visa & Bankkonto",
+        "description": "Schließen Sie die Visabearbeitung ab und eröffnen Sie Ihr Firmenbankkonto.",
+        "color": "from-violet-400 to-purple-600",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80"
+      }
+    ]
+  },
+  "whyTrustUsSection": {
+    "badge": "Warum Sie uns vertrauen sollten",
+    "title": "Warum Trust Setup Zone Dubai für DHCC?",
+    "titleHighlight": "für DHCC?",
+    "items": [
+      {
+        "icon": "Award",
+        "title": "Mehr als 10 Jahre Erfahrung",
+        "description": "Mehr als zehn Jahre Erfahrung in der Gründung und Lizenzierung von Gesundheitsunternehmen in den VAE."
+      },
+      {
+        "icon": "Users",
+        "title": "Engagierte Berater im Gesundheitswesen",
+        "description": "Spezialisiertes Team mit fundierten Kenntnissen der DHA-Vorschriften und DHCC-Anforderungen."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "End-to-End-Support",
+        "description": "Von der Lizenzbeantragung über die Genehmigungen der DHA bis hin zu Visa und der Eröffnung eines Bankkontos."
+      },
+      {
+        "icon": "Zap",
+        "title": "Schnelle Bearbeitungszeit",
+        "description": "Optimierter Prozess mit priorisierter Einreichung für schnellere Genehmigungen."
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Transparente Preise",
+        "description": "Keine versteckten Gebühren – transparente All-inclusive-Pakete für jede Unternehmensart."
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Häufig gestellte Fragen",
+    "title": "Häufig gestellte Fragen",
+    "titleHighlight": "Fragen",
+    "subtitle": "Alles, was Sie über die Dubai Healthcare City Free Zone wissen müssen.",
+    "items": [
+      {
+        "q": "Was ist Dubai Healthcare City (DHCC)?",
+        "a": "Die DHCC ist die weltweit größte Freihandelszone für Gesundheitswesen und Wellness und befindet sich in Dubai. Sie beherbergt über 500 Partner aus dem Gesundheitswesen, darunter Krankenhäuser, Kliniken, Apotheken, Labore und medizinische Ausbildungseinrichtungen."
+      },
+      {
+        "q": "Wer kann in DHCC ein Unternehmen gründen?",
+        "a": "Ärzte, Chirurgen, Apotheker, Diagnostiklabore, Psychiater, Zahnarztpraxen, medizinische Forscher, Pflegedienste, Medizintechnikunternehmen und medizinische Ausbilder können sich im DHCC ansiedeln."
+      },
+      {
+        "q": "Welche Lizenzen sind in DHCC verfügbar?",
+        "a": "Medizinische Zulassung, Pharmazeutische Zulassung, Diagnostik- und Laborlizenz, Berufslizenz, HealthTech-Lizenz und Bildungslizenz."
+      },
+      {
+        "q": "Benötige ich eine DHA-Genehmigung, um im DHCC tätig zu sein?",
+        "a": "Ja. Gesundheitsdienstleister und -einrichtungen benötigen eine Lizenz und behördliche Genehmigung der Dubai Health Authority (DHA), bei deren Beschaffung wir Sie unterstützen."
+      },
+      {
+        "q": "Wie lange dauert die Einrichtung in DHCC?",
+        "a": "In der Regel dauert die Unternehmensgründung 3-5 Werktage und die vollständige DHA-Gesundheitslizenzierung 4-8 Wochen, abhängig von der Art der Tätigkeit."
+      },
+      {
+        "q": "Kann ich DHCC zu 100 % in ausländischem Besitz erwerben?",
+        "a": "Ja. DHCC erlaubt 100% ausländisches Eigentum – ein lokaler Sponsor ist nicht erforderlich."
+      },
+      {
+        "q": "Welche steuerlichen Vorteile bietet DHCC?",
+        "a": "0 % Körperschafts- und Einkommensteuer bei vollständiger Rückführung von Gewinnen und Kapital."
+      },
+      {
+        "q": "Welche Unterstützung bietet Setup Zone Dubai für DHCC?",
+        "a": "Wir übernehmen die Beantragung von Lizenzen, die Genehmigung durch die DHA, die Reservierung von Handelsnamen, die Dokumentenerstellung, Visaangelegenheiten, die Eröffnung von Bankkonten und die laufende Einhaltung der Vorschriften."
+      },
+      {
+        "q": "Benötige ich eine medizinische Qualifikation, um ein Gesundheitsunternehmen im DHCC zu eröffnen?",
+        "a": "Ja, für klinische Tätigkeiten – hierfür sind ein medizinischer Abschluss, eine Approbation und die DHA-Berechtigung erforderlich. Für nicht-klinische Tätigkeiten können andere Anforderungen gelten."
+      },
+      {
+        "q": "Welche Büroflächen stehen im DHCC zur Verfügung?",
+        "a": "Flexible Arbeitsplätze, Chefbüros, Kliniken, Labore und speziell eingerichtete medizinische Einrichtungen – je nach Art Ihres Unternehmens."
+      }
+    ]
+  },
+  "relatedServices": {
+    "title": "Verwandte Dienstleistungen",
+    "titleHighlight": "Dienstleistungen",
+    "subtitle": "Dienste, die gut mit Ihrer DHCP-Konfiguration harmonieren.",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "Eröffnung eines Bankkontos",
+        "description": "Eröffnen Sie Geschäftskonten in den VAE mit umfassender KYC-Unterstützung.",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-teal-400 to-cyan-600"
+      },
+      {
+        "slug": "compliance",
+        "title": "Compliance-Dienstleistungen",
+        "description": "Beratung zu UBO, ESR, AML und Mehrwertsteuer.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-cyan-400 to-blue-600"
+      },
+      {
+        "slug": "golden-visa",
+        "title": "Goldenes Visum",
+        "description": "10-jährige Aufenthaltsgenehmigung in den VAE für Investoren und Talente.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-yellow-500"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Heute starten",
+    "title": "Bereit für den Start in DHCC?",
+    "titleHighlight": "DHCC?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir begleiten Sie durch den gesamten DHCC-Einrichtungsprozess – von der Lizenzierung über die DHA-Genehmigung bis hin zur Inbetriebnahme.",
+    "primaryCta": "WhatsApp uns",
+    "whatsappMessage": "Hallo! Ich hätte gerne eine kostenlose Beratung zur Einrichtung von DHCC.",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "badges": [
+      "Kostenlose Beratung",
+      "Mehr als 500 Kunden",
+      "3-5 Tage Aufbauzeit"
+    ],
+    "office": {
+      "label": "Besuchen Sie unser Büro in Dubai",
+      "line1": "Büro M08-27, M1-Etage, Crystal Tower",
+      "line2": "Business Bay, Dubai, Vereinigte Arabische Emirate – Postfach: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Arbeitszeit",
+      "monFri": "9:00 – 18:00 Uhr",
+      "saturday": "10:00 – 17:00 Uhr",
+      "sunday": "Geschlossen"
+    }
+  }
+}

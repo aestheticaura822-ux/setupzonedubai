@@ -1,0 +1,427 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1600&q=80",
+  "heroBadge": "Contrôlez votre entité continentale",
+  "heroTitle": "Sponsor corporatif local à Dubaï",
+  "heroTitleHighlight": "Sponsor à Dubaï",
+  "heroSubtitle": "Prenez le contrôle total de votre entreprise sur le continent grâce à un partenaire de confiance. Accords de mandataire légal, procuration et contrôle opérationnel complet : vous conservez l’intégralité des bénéfices.",
+  "heroChips": [
+    "Contrôle total",
+    "0 % de partage des bénéfices",
+    "Accords juridiques",
+    "Frais fixes"
+  ],
+  "stats": [
+    {
+      "icon": "Percent",
+      "value": "49/51",
+      "label": "Division juridique",
+      "color": "from-amber-400 to-orange-600"
+    },
+    {
+      "icon": "Users",
+      "value": "100%",
+      "label": "Contrôle opérationnel",
+      "color": "from-orange-400 to-red-600"
+    },
+    {
+      "icon": "Bank",
+      "value": "0",
+      "label": "Partage des bénéfices",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "2-4",
+      "label": "Semaines de configuration",
+      "color": "from-rose-400 to-pink-600"
+    }
+  ],
+  "whatIsSection": {
+    "badge": "Comprendre la configuration",
+    "title": "Qu'est-ce qu'un commanditaire d'entreprise local ?",
+    "titleHighlight": "Sponsor corporatif local ?",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "Associé juridique",
+    "imageBadgeText": "Installation sur le continent",
+    "paragraphs": [
+      "Un sponsor corporatif local à Dubaï est une société détenue à 100 % par des Émiratis (propriété des Émirats arabes unis) qui détient 51 % des parts d'une entreprise située sur le continent, tandis que l'investisseur étranger détient les 49 % restants. Cet arrangement existe pour certaines activités commerciales et industrielles.",
+      "Contrairement au parrainage individuel, le parrainage d'une entreprise repose sur une société enregistrée et non sur une personne physique. Ceci permet d'établir une relation plus professionnelle, des contrats juridiquement contraignants et des accords de prête-nom donnant aux entrepreneurs étrangers le contrôle total de l'entreprise.",
+      "Grâce à des accords structurés entre actionnaires désignés et à des accords annexes, vous conservez légalement un contrôle à 100 % sur les opérations, les finances et la prise de décision, vous permettant ainsi d'accéder à l'économie continentale de Dubaï tout en protégeant vos intérêts."
+    ],
+    "highlights": [
+      "Entité corporative",
+      "Accord de candidat",
+      "Procuration",
+      "Accords annexes",
+      "Frais annuels fixes",
+      "Conforme à la loi"
+    ]
+  },
+  "whoNeedsSponsorSection": {
+    "badge": "Requis pour les permis du continent",
+    "title": "Qui a besoin d'un sponsor d'entreprise local ?",
+    "titleHighlight": "Sponsor corporatif local ?",
+    "subtitle": "Toutes les entreprises n'en ont pas besoin. Mais si vous exercez ces activités, c'est indispensable.",
+    "items": [
+      {
+        "icon": "Store",
+        "label": "Commerce général et vente au détail",
+        "desc": "Entreprises important, exportant ou vendant des marchandises"
+      },
+      {
+        "icon": "Building2",
+        "label": "Construction et entrepreneuriat",
+        "desc": "Entreprises réalisant des projets de construction et d'infrastructure"
+      },
+      {
+        "icon": "Home",
+        "label": "Immobilier et gestion immobilière",
+        "desc": "Sociétés de courtage et de gestion immobilière"
+      },
+      {
+        "icon": "Truck",
+        "label": "Automobile, transport et fret",
+        "desc": "Services de réparation, de logistique et de livraison"
+      },
+      {
+        "icon": "Factory",
+        "label": "Fabrication et industrie",
+        "desc": "entreprises de production et industrielles"
+      }
+    ],
+    "ctaCard": {
+      "title": "Vous ne savez pas si vous en avez besoin ?",
+      "text": "Parlez à nos experts — nous vous répondrons en 5 minutes.",
+      "buttonText": "Demandez à un expert",
+      "whatsappMessage": "Bonjour ! Je voudrais savoir si mon entreprise a besoin d'un sponsor local."
+    }
+  },
+  "flipCardsSection": {
+    "badge": "Sécurisez légalement votre propriété",
+    "title": "Comment se protéger légalement ?",
+    "titleHighlight": "Se protéger légalement ?",
+    "subtitle": "Cliquez sur n'importe quelle carte pour la retourner et consulter les informations légales.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "ContractIcon",
+        "frontTitle": "Rédaction de protocoles d'accord",
+        "frontTag": "Fondation juridique",
+        "backTitle": "Statuts",
+        "backDescription": "Les statuts (MOA) constituent le document juridique qui formalise la structure de votre entreprise, son actionnariat et vos relations avec vos partenaires. Nous les rédigeons conformément à la législation des Émirats arabes unis, tout en préservant votre droit d'exercer votre activité grâce à des accords internes.",
+        "color": "from-amber-500 to-orange-700"
+      },
+      {
+        "id": 2,
+        "icon": "Handshake",
+        "frontTitle": "Propriété effective",
+        "frontTag": "Accord privé",
+        "backTitle": "Accord de propriété effective",
+        "backDescription": "Des documents juridiques privés, signés en même temps que le protocole d'accord, confirment que vous, l'investisseur étranger, êtes le seul et unique bénéficiaire effectif. Le promoteur local n'est qu'un actionnaire fictif, sans aucun droit aux bénéfices, à l'exploitation ou aux décisions.",
+        "color": "from-orange-500 to-red-700"
+      },
+      {
+        "id": 3,
+        "icon": "Gavel",
+        "frontTitle": "Procuration commerciale",
+        "frontTag": "Pleine autorité",
+        "backTitle": "Procuration notariée",
+        "backDescription": "Un acte notarié vous conférant l'autorité exclusive sur toutes les décisions commerciales : comptes bancaires, embauches et opérations quotidiennes. Aucune approbation de sponsor n'est requise pour la gestion courante.",
+        "color": "from-red-500 to-rose-700"
+      },
+      {
+        "id": 4,
+        "icon": "Shield",
+        "frontTitle": "Limitation du sponsor",
+        "frontTag": "Partenaire silencieux",
+        "backTitle": "Accord de limitation du parrainage",
+        "backDescription": "Des clauses interdisant légalement au commanditaire de s'immiscer dans vos affaires. Il est clairement attendu que le commanditaire soit un partenaire passif, sans aucune implication dans les opérations, les finances ou la gestion.",
+        "color": "from-rose-500 to-pink-700"
+      },
+      {
+        "id": 5,
+        "icon": "Banknote",
+        "frontTitle": "Offre à taux fixe",
+        "frontTag": "Pas de partage des revenus",
+        "backTitle": "Frais annuels fixes pour le sponsor",
+        "backDescription": "Votre sponsor reçoit un montant annuel fixe, versé d'avance, sans aucune part des bénéfices ni du chiffre d'affaires. Transparence totale : pas de frais cachés, des paiements clairement définis et la pleine conservation de vos bénéfices.",
+        "color": "from-pink-500 to-fuchsia-700"
+      },
+      {
+        "id": 6,
+        "icon": "Scale",
+        "frontTitle": "Conformité légale",
+        "frontTag": "Entièrement notarié",
+        "backTitle": "Contrats juridiquement contraignants",
+        "backDescription": "Chaque document est rédigé et notarié par des avocats : protocole d’accord, accords annexes, contrats de prête-nom et procurations. Des contrats d’entreprise juridiquement contraignants vous assurent une sécurité juridique et financière à long terme.",
+        "color": "from-fuchsia-500 to-purple-700"
+      }
+    ]
+  },
+  "controlSection": {
+    "badge": "Puis-je conserver un contrôle total ?",
+    "title": "Oui — Contrôle opérationnel garanti à 100 %",
+    "titleHighlight": "Contrôle opérationnel à 100 %",
+    "subtitle": "Grâce à nos contrats de mandataire, vous conservez le contrôle opérationnel, financier et de gestion intégral de votre entreprise. Nos contrats stipulent clairement :",
+    "items": [
+      {
+        "icon": "EyeOff",
+        "label": "Le commanditaire n'a pas accès aux décisions commerciales.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Banknote",
+        "label": "Tous les bénéfices sont conservés par le propriétaire étranger",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Gavel",
+        "label": "Vous conservez la procuration.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Frais de parrainage annuels fixes — aucun partage de revenus",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ],
+    "footerText": "Nous rédigeons ces accords en pleine conformité avec les normes juridiques des Émirats arabes unis, et ils sont examinés par des consultants juridiques professionnels."
+  },
+  "exitOptionsSection": {
+    "badge": "Sortie et transfert flexibles",
+    "title": "Vous souhaitez vous retirer ou transférer la propriété ?",
+    "titleHighlight": "Cession ou transfert de propriété ?",
+    "subtitle": "Nous proposons des options flexibles — des transitions en douceur, sans risque ni litige.",
+    "items": [
+      {
+        "icon": "Banknote",
+        "label": "Vendez votre entreprise",
+        "desc": "Transfert sans encombre aux nouveaux propriétaires"
+      },
+      {
+        "icon": "UserPlus",
+        "label": "Faire venir un nouveau partenaire",
+        "desc": "Restructurer l'actionnariat"
+      },
+      {
+        "icon": "Repeat",
+        "label": "parrainage de transfert",
+        "desc": "Changer de sponsor"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Passez à une propriété à 100 %",
+        "desc": "Quand les lois changent"
+      }
+    ],
+    "footerText": "Notre équipe gère l'ensemble de la restructuration et de la documentation sans accroc, garantissant ainsi l'absence de risques ou de litiges tout au long du processus."
+  },
+  "licensingSection": {
+    "badge": "Licences et autorisations",
+    "title": "Le sponsor apporte son aide pour les licences et les approbations",
+    "titleHighlight": "Licences et autorisations",
+    "subtitle": "Obtention plus rapide des licences, renouvellements et approbations externes.",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "Licence commerciale DED Dubaï",
+        "description": "Organisme gouvernemental principal délivrant les licences commerciales pour Dubaï continental. Il gère les approbations d'activités, les réservations de noms, les renouvellements et la conformité au droit commercial.",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Home",
+        "title": "Municipalité et protection civile",
+        "description": "Approbations initiales vérifiant que votre emplacement commercial répond aux exigences en matière de sécurité, de zonage, d'hygiène et d'environnement, y compris les inspections de sécurité incendie.",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Autorités délivrant des licences commerciales",
+        "description": "Autorisations du ministère de l'Économie, du département du Tourisme, du ministère de la Santé ou de l'Autorité de régulation du tourisme (TRA) — selon l'activité commerciale choisie.",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Organismes de réglementation de l'industrie",
+        "description": "Approbations spéciales de la DHA, de la KHDA ou de la SCA pour les entreprises des secteurs de la santé, de l'éducation ou de la finance — garantissant une conformité réglementaire totale.",
+        "color": "from-rose-400 to-pink-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "Pourquoi nous choisir ?",
+    "title": "Pourquoi choisir Trust Setup Zone Dubai pour le parrainage ?",
+    "titleHighlight": "Zone d'installation Dubaï",
+    "subtitle": "Nous ne nous contentons pas de répondre aux exigences — nous protégeons votre avenir.",
+    "items": [
+      {
+        "icon": "ShieldCheck",
+        "label": "Conforme à la législation et sécurisé",
+        "desc": "parrainage d'entreprise entièrement conforme"
+      },
+      {
+        "icon": "DollarSign",
+        "label": "Coûts annuels transparents",
+        "desc": "Aucuns frais ni commissions cachés"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Accords contraignants de désignation de candidats",
+        "desc": "Vous détenez le contrôle total et les profits"
+      },
+      {
+        "icon": "Globe",
+        "label": "Équipe multilingue",
+        "desc": "Anglais, arabe, hindi et ourdou"
+      },
+      {
+        "icon": "FileCheck",
+        "label": "Assistance de bout en bout",
+        "desc": "Juridique, conformité et documentation"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "Protection à long terme",
+        "desc": "Configuration à l'épreuve du temps"
+      }
+    ]
+  },
+  "growthStatsSection": {
+    "badge": "Perspectives de croissance des entreprises",
+    "title": "Contrôle et conformité complets",
+    "titleHighlight": "Contrôle et conformité",
+    "subtitle": "Votre entreprise — entièrement protégée, entièrement conforme, entièrement à vous.",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "100%",
+        "label": "Contrôle",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Bank",
+        "value": "0",
+        "label": "Partage des bénéfices",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "Handshake",
+        "value": "Légal",
+        "label": "Accords de candidats",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "value": "Fixé",
+        "label": "Frais annuels",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "Scale",
+        "value": "Émirats arabes unis",
+        "label": "Conforme à la loi",
+        "color": "from-pink-400 to-fuchsia-600"
+      },
+      {
+        "icon": "Crown",
+        "value": "Fiable",
+        "label": "Partenaire sponsor",
+        "color": "from-fuchsia-400 to-purple-600"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "Questions fréquentes",
+    "title": "Foire aux questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Tout ce que vous devez savoir sur le parrainage d'entreprises locales. Vous avez encore des questions ? Contactez-nous.",
+    "sidebarCard": {
+      "title": "Vous avez encore des questions ?",
+      "text": "Obtenez une consultation gratuite avec nos spécialistes en commandites.",
+      "whatsappMessage": "Bonjour ! J'ai une question concernant le parrainage d'entreprises locales à Dubaï."
+    },
+    "items": [
+      {
+        "q": "Un sponsor d'entreprise locale est-il obligatoire pour toutes les entreprises souhaitant commercer à Dubaï ?",
+        "a": "Non. Le parrainage d'une entreprise locale n'est requis que pour certaines activités commerciales ou industrielles sur le territoire continental. Les entreprises de zones franches et les sociétés de services professionnels restent détenues à 100 % par des capitaux étrangers."
+      },
+      {
+        "q": "Si j'ai un sponsor d'entreprise locale, puis-je conserver le contrôle total sur le plan juridique ?",
+        "a": "Oui. Grâce à des accords de mandataire structurés, des procurations et des accords annexes, vous conservez le contrôle opérationnel, financier et de gestion à 100 % de l'entreprise, en toute légalité et sécurité."
+      },
+      {
+        "q": "Quelle est la différence entre un sponsor individuel et un sponsor d'entreprise ?",
+        "a": "Un sponsor individuel est une personne physique. Un sponsor corporatif est une société détenue à 100 % par des Émiratis, offrant ainsi une structure juridique plus professionnelle, des contrats contraignants et des accords de prête-nom."
+      },
+      {
+        "q": "Qu’est-ce qu’un accord de désignation de mandataire et de quoi s’agit-il ?",
+        "a": "Un contrat de prête-nom est un document juridique privé confirmant que vous (l'investisseur étranger) êtes le seul et unique bénéficiaire effectif. Le commanditaire détient des actions sans droit aux bénéfices, à l'exploitation ni aux décisions."
+      },
+      {
+        "q": "Puis-je changer de sponsor ou me débarrasser de celui-ci à l'avenir ?",
+        "a": "Oui. Nous proposons des options de sortie et de transfert flexibles : vendre votre entreprise, accueillir un nouveau partenaire, transférer le parrainage ou passer à une propriété à 100 % en cas de changement de législation."
+      },
+      {
+        "q": "Le sponsor va-t-il intervenir dans les finances de mon entreprise ou auprès de mes clients ?",
+        "a": "Non. Notre accord de limitation de responsabilité du sponsor interdit légalement toute ingérence. Le sponsor est un partenaire silencieux qui n'intervient ni dans les opérations, ni dans les finances, ni dans la gestion."
+      },
+      {
+        "q": "Le sponsor effectuera-t-il des opérations quelconques ?",
+        "a": "Non. Vous (l'investisseur étranger) conservez l'intégralité du contrôle des opérations, des décisions et de la gestion. Le sponsor ne détient que des actions sur le papier."
+      },
+      {
+        "q": "Que se passe-t-il si la propriété ou la direction de mon entreprise commanditaire change ?",
+        "a": "Nos accords sont conçus pour rester valides quelles que soient les modifications apportées à l'entreprise commanditaire. Nous prenons en charge toutes les mises à jour nécessaires et veillons à ce que votre contrôle reste toujours préservé."
+      },
+      {
+        "q": "Le fait d'avoir un sponsor d'entreprise établi facilite-t-il l'obtention des approbations ?",
+        "a": "Oui. Nos entreprises partenaires établies contribuent à accélérer l'obtention des licences DED, des renouvellements, des approbations municipales, des autorisations de protection civile et des approbations réglementaires de l'industrie."
+      },
+      {
+        "q": "Combien de temps faut-il pour obtenir ma licence commerciale à Dubaï ?",
+        "a": "Comptez généralement 2 à 4 semaines pour la mise en place sur le continent, y compris l'accord avec le sponsor d'entreprise. Nous accélérons le processus grâce à nos relations privilégiées avec le Département du Développement Économique et notre équipe juridique."
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "Services connexes",
+    "titleHighlight": "Services",
+    "subtitle": "Des services qui se marient bien avec le parrainage d'entreprises locales.",
+    "items": [
+      {
+        "slug": "company-formation",
+        "title": "Création d'entreprise à Dubaï",
+        "description": "Zone franche, structures continentales et offshore.",
+        "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80",
+        "gradient": "from-amber-400 to-orange-600"
+      },
+      {
+        "slug": "mainland-company-formation",
+        "title": "Création d'une société sur le continent",
+        "description": "Accès complet au marché des Émirats arabes unis grâce à la licence DED.",
+        "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800&q=80",
+        "gradient": "from-orange-400 to-red-600"
+      },
+      {
+        "slug": "local-business-partner",
+        "title": "Partenaire commercial local des Émirats arabes unis",
+        "description": "Partenaire de confiance pour votre projet aux Émirats arabes unis.",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80",
+        "gradient": "from-red-400 to-rose-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Vous lancez une entreprise sur le continent ?",
+    "title": "Assurez votre avenir avec un sponsor d'entreprise de confiance",
+    "titleHighlight": "Commanditaire corporatif de confiance",
+    "subtitle": "Accédez à l'économie florissante de Dubaï sans perdre le contrôle de votre entreprise. Maîtrise opérationnelle totale, aucune intrusion, parrainage juridiquement sécurisé par un prête-nom.",
+    "chips": [
+      "Consultation gratuite",
+      "Contrôle total",
+      "Frais fixes"
+    ],
+    "whatsappMessage": "Bonjour ! Je souhaiterais une consultation gratuite pour un parrainage d'entreprise locale.",
+    "whatsappCardMessage": "Bonjour ! J'aimerais discuter du parrainage d'entreprises locales."
+  }
+}

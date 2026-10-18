@@ -1,0 +1,532 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600\u0026q=80",
+    "heroBadge":  "Débloquez tous les avantages liés À  la résidence",
+    "heroTitle":  "Services de visa de résidence aux Émirats arabes unis",
+    "heroTitleHighlight":  "Services de visa",
+    "heroSubtitle":  "Obtenez votre visa de résidence aux Émirats arabes unis en toute sérénité grâce À  notre accompagnement personnalisé : critères d"™éligibilité, documents requis, examens médicaux, carte d"™identité émirienne et parrainage familial. Une procédure 100 % conforme et sans risque de refus.",
+    "heroChips":  [
+                      "5 types de visas",
+                      "Validité de 2 À  10 ans",
+                      "Parrainage familial",
+                      "Exonéré d\u0027impôt"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Horloge",
+                      "value":  "2-10",
+                      "label":  "Années de validité",
+                      "color":  "de-émeraude-400 À -turquoise-600"
+                  },
+                  {
+                      "icon":  "Utilisateurs",
+                      "value":  "5",
+                      "label":  "Catégories de visas",
+                      "color":  "de turquoise 400 À  cyan 600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "180+",
+                      "label":  "Nationalités desservies",
+                      "color":  "de cyan-400 À  ciel-600"
+                  },
+                  {
+                      "icon":  "Zap",
+                      "value":  "Rapide",
+                      "label":  "Traitement",
+                      "color":  "du ciel 400 au bleu 600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Pourquoi c\u0027est important",
+                          "title":  "Qu\u0027est-ce qu\u0027un visa de résidence aux Émirats arabes unis ?",
+                          "titleHighlight":  "Visa de résidence aux Émirats arabes unis ?",
+                          "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Résidence légale",
+                          "imageBadgeText":  "2 À  10 ans",
+                          "paragraphs":  [
+                                             "Un visa de résidence aux Émirats arabes unis est un document gouvernemental qui autorise les ressortissants étrangers À  résider aux Émirats arabes unis pour une durée de validité comprise entre 2 et 10 ans.",
+                                             "Contrairement À  un visa touristique, un visa de résidence vous permet de vivre, travailler, posséder des biens immobiliers, accéder aux soins de santé publics et parrainer des personnes À  charge À  Dubaï et dans tous les émirats. Il est obligatoire pour toute personne souhaitant résider durablement aux Émirats arabes unis, que ce soit pour affaires, emploi, regroupement familial, investissement ou retraite.",
+                                             "Chez Setup Zone Dubai, nous proposons des solutions de visa de résidence personnalisées, conformes et rapides aux particuliers, aux investisseurs, aux familles et aux chefs d\u0027entreprise."
+                                         ],
+                          "highlights":  [
+                                             "séjour légal de longue durée",
+                                             "Droits du travail",
+                                             "Propriété immobilière",
+                                             "Accès aux services bancaires",
+                                             "Parrainage familial",
+                                             "Accès aux soins de santé"
+                                         ]
+                      },
+    "benefitsSection":  {
+                            "badge":  "Vivez mieux avec un visa pour les Émirats arabes unis",
+                            "title":  "Avantages d\u0027un visa de résidence aux Émirats arabes unis",
+                            "titleHighlight":  "Visa de résidence aux Émirats arabes unis",
+                            "subtitle":  "Neuf atouts majeurs pour vivre, travailler et prospérer aux Émirats arabes unis.",
+                            "items":  [
+                                          {
+                                              "icon":  "Horloge",
+                                              "title":  "Résidence À  long terme",
+                                              "description":  "Bénéficiez d\u0027un séjour légal ininterrompu de 2 À  10 ans À  Dubaï ou dans d\u0027autres Émirats, renouvelable À  expiration.",
+                                              "color":  "de-émeraude-400 À -turquoise-600"
+                                          },
+                                          {
+                                              "icon":  "Tendances À  la hausse",
+                                              "title":  "Liberté d\u0027affaires et d\u0027investissement",
+                                              "description":  "Créez une entreprise, devenez propriétaire et investissez aux Émirats arabes unis "” en toute légalité et avec la liberté de vous développer.",
+                                              "color":  "de turquoise 400 À  cyan 600"
+                                          },
+                                          {
+                                              "icon":  "Utilisateurs",
+                                              "title":  "Parrainez votre famille",
+                                              "description":  "Faites venir votre conjoint, vos enfants, vos parents ou votre personnel domestique aux Émirats arabes unis grâce À  un parrainage complet.",
+                                              "color":  "de cyan-400 À  ciel-600"
+                                          },
+                                          {
+                                              "icon":  "Banque",
+                                              "title":  "Accès aux services bancaires",
+                                              "description":  "Ouvrez des comptes bancaires aux Émirats arabes unis, accédez À  des facilités de crédit et gérez vos finances en toute liberté.",
+                                              "color":  "du ciel 400 au bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Stéthoscope",
+                                              "title":  "Santé et éducation",
+                                              "description":  "Accédez À  des établissements de santé de renommée mondiale et À  une éducation de qualité supérieure pour vous et votre famille.",
+                                              "color":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "icon":  "Avion",
+                                              "title":  "Avantages liés au voyage sans visa",
+                                              "description":  "Voyagez facilement À  l\u0027intérieur et À  l\u0027extérieur des Émirats arabes unis grâce À  un accès aux pays du CCG et aux destinations sans visa dans le monde entier.",
+                                              "color":  "de l\u0027indigo 400 au violet 600"
+                                          },
+                                          {
+                                              "icon":  "Pièces",
+                                              "title":  "Revenu non imposable",
+                                              "description":  "Bénéficiez d\u0027un taux d\u0027imposition sur le revenu personnel de 0 % "” conservez 100 % de vos revenus et maximisez votre patrimoine.",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          },
+                                          {
+                                              "icon":  "Voiture",
+                                              "title":  "Permis de conduire et carte SIM",
+                                              "description":  "Obtenez votre permis de conduire des Émirats arabes unis, votre carte SIM mobile et vos abonnements aux services publics avec votre visa de résidence.",
+                                              "color":  "du violet 400 au fuchsia 600"
+                                          },
+                                          {
+                                              "icon":  "Carte d\u0027identité",
+                                              "title":  "Carte d\u0027identité des Émirats",
+                                              "description":  "Obtenez votre carte d\u0027identité officielle des Émirats arabes unis "” la clé d\u0027accès À  tous les services gouvernementaux et privés des Émirats arabes unis.",
+                                              "color":  "de fuchsia-400 À  rose-600"
+                                          }
+                                      ]
+                        },
+    "visaTypesSection":  {
+                             "badge":  "Choisissez le visa qui vous convient.",
+                             "title":  "Types de visas de résidence aux Émirats arabes unis",
+                             "titleHighlight":  "Visas de résidence aux Émirats arabes unis",
+                             "subtitle":  "Parcourez 6 catégories et trouvez celle qui correspond À  vos objectifs.",
+                             "items":  [
+                                           {
+                                               "id":  "investisseur",
+                                               "icon":  "Tendances À  la hausse",
+                                               "title":  "Visa d\u0027investisseur",
+                                               "tagline":  "Propriété ou entreprise",
+                                               "description":  "Idéal pour les investisseurs immobiliers aux Émirats arabes unis (750 000 À  2 millions de dirhams) ou en actions. Offre un permis de séjour de 2 À  10 ans, le parrainage familial et une voie d\u0027accès À  la résidence permanente.",
+                                               "image":  "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200\u0026q=80",
+                                               "color":  "de-émeraude-500 À -turquoise-700",
+                                               "features":  [
+                                                                "Propriété de 750 000 À  2 millions de dirhams",
+                                                                "Actions de la société",
+                                                                "Résidence de 2 À  10 ans",
+                                                                "Parrainage familial"
+                                                            ],
+                                               "bestFor":  "Investisseurs"
+                                           },
+                                           {
+                                               "id":  "travailleur indépendant",
+                                               "icon":  "Ordinateur portable",
+                                               "title":  "Travailleur indépendant / télétravailleur",
+                                               "tagline":  "Nomades numériques",
+                                               "description":  "Idéal pour les travailleurs indépendants, les télétravailleurs et les nomades numériques. Plusieurs options s\u0027offrent À  vous : visa de travailleur indépendant en zone franche, permis de séjour ou programme de travail virtuel.",
+                                               "image":  "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200\u0026q=80",
+                                               "color":  "de turquoise 500 À  cyan 700",
+                                               "features":  [
+                                                                "Visa pour travailleur indépendant en zone franche",
+                                                                "Programme de travail virtuel",
+                                                                "Validation du portefeuille",
+                                                                "Droits légaux au travail"
+                                                            ],
+                                               "bestFor":  "Freelances et nomades"
+                                           },
+                                           {
+                                               "id":  "emploi",
+                                               "icon":  "Mallette",
+                                               "title":  "Visa de travail",
+                                               "tagline":  "Les plus courants",
+                                               "description":  "Le visa le plus courant, parrainé par un employeur, est valable 2 ans (Chine continentale) ou 3 ans (Zone franche). Il inclut la carte d\u0027identité émirienne, un compte bancaire, une assurance et le parrainage des personnes À  charge.",
+                                               "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                               "color":  "de cyan 500 À  bleu 700",
+                                               "features":  [
+                                                                "parrainé par l\u0027employeur",
+                                                                "Validité de 2 À  3 ans",
+                                                                "Carte d\u0027identité des Émirats",
+                                                                "Assurance incluse"
+                                                            ],
+                                               "bestFor":  "Employés"
+                                           },
+                                           {
+                                               "id":  "famille",
+                                               "icon":  "Poignée de main en forme de cÅ“ur",
+                                               "title":  "Visa familial",
+                                               "tagline":  "Emploi dépendant",
+                                               "description":  "Permet aux titulaires d\u0027un visa de travail ou d\u0027investisseur de parrainer leur conjoint, leurs enfants, leurs parents ou leur personnel domestique. Un salaire minimum, un logement et une assurance sont exigés.",
+                                               "image":  "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=1200\u0026q=80",
+                                               "color":  "de bleu 500 À  indigo 700",
+                                               "features":  [
+                                                                "Parrainage du conjoint",
+                                                                "Enfants et parents",
+                                                                "Personnel domestique",
+                                                                "Soutien familial complet"
+                                                            ],
+                                               "bestFor":  "Familles"
+                                           },
+                                           {
+                                               "id":  "retraité",
+                                               "icon":  "Maison",
+                                               "title":  "Visa de retraité des Émirats arabes unis",
+                                               "tagline":  "Pour les expatriés de 55 ans et plus",
+                                               "description":  "Offre réservée aux expatriés de plus de 55 ans. Valable 5 ans avec possibilité de renouvellement. Conditions : bien immobilier d"™une valeur de 1 million de dirhams, épargne de 1 million de dirhams ou revenu mensuel de 20 000 dirhams. Couverture des personnes À  charge et des soins de santé.",
+                                               "image":  "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200\u0026q=80",
+                                               "color":  "de l\u0027indigo 500 au violet 700",
+                                               "features":  [
+                                                                "Expatriés de plus de 55 ans",
+                                                                "Validité de 5 ans",
+                                                                "Biens/Épargne/Revenus",
+                                                                "Couvre les personnes À  charge"
+                                                            ],
+                                               "bestFor":  "Retraités"
+                                           },
+                                           {
+                                               "id":  "doré",
+                                               "icon":  "Couronne",
+                                               "title":  "Visa d\u0027or",
+                                               "tagline":  "Résidence de 10 ans",
+                                               "description":  "L\u0027option de résidence premium des Émirats arabes unis pour les investisseurs, les entrepreneurs, les scientifiques, les universitaires et les talents. Elle offre la possibilité de détenir 100 % du capital d\u0027une entreprise, une résidence de longue durée, le parrainage familial et des entrées multiples.",
+                                               "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200\u0026q=80",
+                                               "color":  "de violet-500 À  pourpre-700",
+                                               "features":  [
+                                                                "Résidence de 10 ans",
+                                                                "Propriété de l\u0027entreprise À  100 %",
+                                                                "Parrainage familial",
+                                                                "Entrées multiples"
+                                                            ],
+                                               "bestFor":  "Personnes fortunées et talentueuses"
+                                           }
+                                       ]
+                         },
+    "whoNeedsSection":  {
+                            "badge":  "À€ qui cela s\u0027adresse-t-il ?",
+                            "title":  "Qui a besoin d\u0027un visa de résidence aux Émirats arabes unis ?",
+                            "titleHighlight":  "Visa de résidence aux Émirats arabes unis ?",
+                            "subtitle":  "7 catégories "” quelle que soit celle qui vous correspond, nous avons une solution.",
+                            "items":  [
+                                          {
+                                              "icon":  "Tendances À  la hausse",
+                                              "label":  "Investisseurs",
+                                              "desc":  "Immobilier, startups ou entreprises commerciales",
+                                              "color":  "de-émeraude-400 À -turquoise-600"
+                                          },
+                                          {
+                                              "icon":  "Mallette",
+                                              "label":  "Expatriés",
+                                              "desc":  "Des professionnels qui déménagent pour le travail",
+                                              "color":  "de turquoise 400 À  cyan 600"
+                                          },
+                                          {
+                                              "icon":  "Ordinateur portable",
+                                              "label":  "Nomades numériques",
+                                              "desc":  "Travailleurs indépendants travaillant À  distance depuis Dubaï",
+                                              "color":  "de cyan-400 À  ciel-600"
+                                          },
+                                          {
+                                              "icon":  "Bâtiment 2",
+                                              "label":  "Les propriétaires d\u0027entreprises",
+                                              "desc":  "Des entrepreneurs créant des entreprises sur le continent ou en zone franche",
+                                              "color":  "du ciel 400 au bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Utilisateurs2",
+                                              "label":  "Familles",
+                                              "desc":  "Conjoints, enfants et personnes âgées À  charge",
+                                              "color":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "icon":  "Maison",
+                                              "label":  "Retraités",
+                                              "desc":  "Les personnes qui souhaitent vivre confortablement après leur retraite",
+                                              "color":  "de l\u0027indigo 400 au violet 600"
+                                          },
+                                          {
+                                              "icon":  "Couronne",
+                                              "label":  "Candidats au Golden Visa",
+                                              "desc":  "Candidats fortunés et candidats talentueux",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          }
+                                      ],
+                            "ctaCard":  {
+                                            "title":  "Vous ne savez pas quel visa choisir ?",
+                                            "text":  "Parlez À  nos experts "“ évaluation gratuite.",
+                                            "buttonText":  "Demandez À  un expert",
+                                            "whatsappMessage":  "Bonjour ! J\u0027ai besoin d\u0027aide pour choisir le bon visa de résidence pour les Émirats arabes unis."
+                                        }
+                        },
+    "packageInclusionsSection":  {
+                                     "badge":  "Ce qui est inclus",
+                                     "title":  "Notre forfait visa comprend",
+                                     "titleHighlight":  "Le forfait comprend",
+                                     "subtitle":  "Service complet de bout en bout couvrant l\u0027intégralité du cycle de vie des visas.",
+                                     "items":  [
+                                                   {
+                                                       "icon":  "Cible",
+                                                       "title":  "Évaluation d\u0027admissibilité",
+                                                       "description":  "Évaluation complète basée sur votre profil et votre catégorie",
+                                                       "color":  "de-émeraude-400 À -turquoise-600"
+                                                   },
+                                                   {
+                                                       "icon":  "Bâtiment 2",
+                                                       "title":  "Création d\u0027entreprise / de propriété",
+                                                       "description":  "Assistance pour satisfaire aux exigences de base de votre visa",
+                                                       "color":  "de turquoise 400 À  cyan 600"
+                                                   },
+                                                   {
+                                                       "icon":  "Texte du fichier",
+                                                       "title":  "Collection de documents",
+                                                       "description":  "Préparation et soumission de tous les documents",
+                                                       "color":  "de cyan-400 À  ciel-600"
+                                                   },
+                                                   {
+                                                       "icon":  "Défilement du texte",
+                                                       "title":  "Délivrance de licences commerciales",
+                                                       "description":  "Pour les catégories de visas d\u0027investisseur et de travailleur indépendant",
+                                                       "color":  "du ciel 400 au bleu 600"
+                                                   },
+                                                   {
+                                                       "icon":  "Envoyer",
+                                                       "title":  "Demande ICA / GDRFA",
+                                                       "description":  "Nous prenons en charge l\u0027intégralité du processus de candidature.",
+                                                       "color":  "du bleu 400 À  l\u0027indigo 600"
+                                                   },
+                                                   {
+                                                       "icon":  "Stéthoscope",
+                                                       "title":  "Examens médicaux",
+                                                       "description":  "Gestion de vos examens médicaux requis pour l\u0027obtention d\u0027un visa",
+                                                       "color":  "de l\u0027indigo 400 au violet 600"
+                                                   },
+                                                   {
+                                                       "icon":  "Empreinte digitale",
+                                                       "title":  "Données biométriques et carte d\u0027identité des Émirats",
+                                                       "description":  "Numérisation biométrique et traitement de la carte d\u0027identité des Émirats",
+                                                       "color":  "de violet 400 À  pourpre 600"
+                                                   },
+                                                   {
+                                                       "icon":  "Poignée de main en forme de cÅ“ur",
+                                                       "title":  "Parrainage familial",
+                                                       "description":  "Assistance pour les demandes de visa de personne À  charge",
+                                                       "color":  "du violet 400 au fuchsia 600"
+                                                   },
+                                                   {
+                                                       "icon":  "Banque",
+                                                       "title":  "Compte bancaire professionnel",
+                                                       "description":  "Assistance À  la mise en place de services bancaires pour entreprises",
+                                                       "color":  "de fuchsia-400 À  rose-600"
+                                                   },
+                                                   {
+                                                       "icon":  "RefreshCw",
+                                                       "title":  "Renouvellement et annulation",
+                                                       "description":  "Services de renouvellement, d\u0027annulation et de réémission continus",
+                                                       "color":  "de rose 400 À  rose 600"
+                                                   }
+                                               ]
+                                 },
+    "whyChooseUsSection":  {
+                               "badge":  "Des services de visa sur lesquels vous pouvez compter",
+                               "title":  "Pourquoi choisir Setup Zone Dubai ?",
+                               "titleHighlight":  "Zone de configuration Dubaï ?",
+                               "subtitle":  "Six raisons pour lesquelles nos clients nous font confiance pour leur résidence aux Émirats arabes unis.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Signe du dollar",
+                                                 "title":  "Transparence totale",
+                                                 "description":  "Tarification transparente, sans frais cachés. Tous les frais sont indiqués en amont.",
+                                                 "color":  "de-émeraude-400 À -turquoise-600"
+                                             },
+                                             {
+                                                 "icon":  "Vérification de l\u0027utilisateur",
+                                                 "title":  "Consultant en visas spécialisé",
+                                                 "description":  "Un expert dédié et chargé des relations publiques, responsable de toutes les relations avec le gouvernement.",
+                                                 "color":  "de turquoise 400 À  cyan 600"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "title":  "Traitement rapide",
+                                                 "description":  "Portails gouvernementaux prioritaires avec des délais de traitement rapides pour les demandes et les examens médicaux.",
+                                                 "color":  "de cyan-400 À  ciel-600"
+                                             },
+                                             {
+                                                 "icon":  "Bouclier",
+                                                 "title":  "Conforme À  la RGPD et À  l\u0027ICA",
+                                                 "description":  "Respect strict de toutes les réglementations des Émirats arabes unis en matière de visas, de résidence et d\u0027immigration.",
+                                                 "color":  "du ciel 400 au bleu 600"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "title":  "Assistance multilingue",
+                                                 "description":  "Anglais, arabe, hindi, ourdou "” notre équipe parle votre langue.",
+                                                 "color":  "du bleu 400 À  l\u0027indigo 600"
+                                             },
+                                             {
+                                                 "icon":  "Couches",
+                                                 "title":  "Visa, permis et services bancaires",
+                                                 "description":  "Tout ce dont vous avez besoin au même endroit "“ plus besoin de courir d\u0027une agence À  l\u0027autre.",
+                                                 "color":  "de l\u0027indigo 400 au violet 600"
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "Perspectives de croissance des entreprises",
+                               "title":  "Des milliers de personnes nous font confiance",
+                               "titleHighlight":  "Des milliers",
+                               "subtitle":  "Votre résidence, entre des mains d\u0027experts.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Utilisateurs",
+                                                 "value":  "Plus de 10 000",
+                                                 "label":  "Visas traités",
+                                                 "color":  "de-émeraude-400 À -turquoise-600"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "value":  "180+",
+                                                 "label":  "Nationalités",
+                                                 "color":  "de turquoise 400 À  cyan 600"
+                                             },
+                                             {
+                                                 "icon":  "Tendances À  la hausse",
+                                                 "value":  "Menant",
+                                                 "label":  "Expert en visas",
+                                                 "color":  "de cyan-400 À  ciel-600"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "value":  "Rapide",
+                                                 "label":  "Traitement",
+                                                 "color":  "du ciel 400 au bleu 600"
+                                             },
+                                             {
+                                                 "icon":  "Vérification du bouclier",
+                                                 "value":  "100%",
+                                                 "label":  "Conforme",
+                                                 "color":  "du bleu 400 À  l\u0027indigo 600"
+                                             },
+                                             {
+                                                 "icon":  "Couronne",
+                                                 "value":  "Préféré",
+                                                 "label":  "Partenaire Visa",
+                                                 "color":  "de l\u0027indigo 400 au violet 600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Questions fréquentes",
+                        "title":  "Foire aux questions",
+                        "titleHighlight":  "Questions",
+                        "subtitle":  "Tout ce que vous devez savoir sur les visas de résidence aux Émirats arabes unis. Vous avez encore des questions ? N\u0027hésitez pas À  nous contacter.",
+                        "sidebarCard":  {
+                                            "title":  "Vous avez encore des questions ?",
+                                            "text":  "Obtenez une consultation gratuite avec nos spécialistes en visas.",
+                                            "whatsappMessage":  "Bonjour ! J\u0027ai une question concernant le visa de résidence aux Émirats arabes unis."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Quelle est la durée de validité d\u0027un visa de résidence aux Émirats arabes unis ?",
+                                          "a":  "La durée du visa dépend de son type. Les visas de travail ou familiaux sont généralement valables 2 À  3 ans. Les visas d\u0027investisseur ou de retraite sont valables 5 ou 10 ans. Le Golden Visa est valable 10 ans et renouvelable. Nous vous aidons À  déterminer la durée la mieux adaptée À  vos objectifs."
+                                      },
+                                      {
+                                          "q":  "Un visa de résidence aux Émirats arabes unis me permet-il de travailler aux Émirats arabes unis ?",
+                                          "a":  "Oui. Un visa de résidence vous permet de vivre et de travailler légalement aux Émirats arabes unis. Le type de travail dépend de votre catégorie de visa (salarié, investisseur, travailleur indépendant, etc.)."
+                                      },
+                                      {
+                                          "q":  "Quelle est la différence entre un visa de tourisme et un visa de résidence ?",
+                                          "a":  "Un visa de tourisme permet des séjours de courte durée (généralement de 30 À  90 jours) sans droit de travailler. Un visa de résidence permet un séjour légal de longue durée, le droit de travailler, d\u0027ouvrir un compte bancaire, d\u0027acquérir un bien immobilier, de parrainer un membre de sa famille et d\u0027accéder aux soins de santé."
+                                      },
+                                      {
+                                          "q":  "Puis-je parrainer les membres de ma famille si je possède un visa de résidence ?",
+                                          "a":  "Oui. Les titulaires de visas de travail et d\u0027investisseur peuvent parrainer leur conjoint, leurs enfants et, dans certains cas, leurs parents et leur personnel de maison. Nous prenons en charge l\u0027intégralité du processus de parrainage familial."
+                                      },
+                                      {
+                                          "q":  "Quels sont les critères de salaire pour parrainer ma famille ?",
+                                          "a":  "Les conditions varient. En général, un salaire mensuel minimum (généralement entre 4 000 et 5 000 AED) ainsi qu\u0027un logement et une assurance adéquats sont requis. Nous évaluons votre situation et vous conseillons."
+                                      },
+                                      {
+                                          "q":  "Un examen médical est-il requis pour obtenir un visa de résidence aux Émirats arabes unis ?",
+                                          "a":  "Oui. Un examen médical (prise de sang et radiographie pulmonaire) est obligatoire pour tous les visas de résidence. Nous prenons en charge l\u0027intégralité des démarches médicales."
+                                      },
+                                      {
+                                          "q":  "Les travailleurs indépendants ou les nomades numériques peuvent-ils demander la résidence aux Émirats arabes unis ?",
+                                          "a":  "Oui. Plusieurs options s\u0027offrent À  vous : visa de travailleur indépendant en zone franche, permis de séjour pour travailleur indépendant ou programme de travail virtuel. Nous vous aidons À  valider votre portfolio et vos justificatifs de revenus."
+                                      },
+                                      {
+                                          "q":  "Que se passe-t-il si je dois annuler ou renouveler mon visa ?",
+                                          "a":  "Nous gérons de A À  Z tous les renouvellements, annulations et réémissions, garantissant ainsi un séjour légal et sans tracas aux Émirats arabes unis."
+                                      },
+                                      {
+                                          "q":  "Dois-je être physiquement présent À  Dubaï pour postuler ?",
+                                          "a":  "La plupart des démarches peuvent être effectuées À  distance, mais les examens médicaux et la collecte des données biométriques pour la carte d\u0027identité émirienne nécessitent votre présence physique. Nous coordonnons tout pour que votre visite soit rapide et efficace."
+                                      },
+                                      {
+                                          "q":  "Comment Setup Zone Dubai peut-il m\u0027aider À  obtenir mon visa de résidence aux Émirats arabes unis ?",
+                                          "a":  "Nous proposons une gamme complète de services de visa : évaluation d"™éligibilité, constitution du dossier, dépôt de la demande, examens médicaux, carte d"™identité émirienne, parrainage familial et renouvellements. Un consultant dédié vous accompagne À  chaque étape."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Services connexes",
+                                   "titleHighlight":  "Services",
+                                   "subtitle":  "Des services qui correspondent parfaitement À  votre visa de résidence aux Émirats arabes unis.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "golden-visa-services",
+                                                     "title":  "Services de visa doré",
+                                                     "description":  "Résidence de 10 ans aux Émirats arabes unis pour les investisseurs et les talents.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "de l\u0027ambre 400 au jaune 500"
+                                                 },
+                                                 {
+                                                     "slug":  "dependent-visa",
+                                                     "title":  "Visa de résidence pour personne À  charge aux Émirats arabes unis",
+                                                     "description":  "Le parrainage familial simplifié.",
+                                                     "image":  "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=800\u0026q=80",
+                                                     "gradient":  "de-émeraude-400 À -turquoise-600"
+                                                 },
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Création d\u0027entreprise À  Dubaï",
+                                                     "description":  "Zone franche, continentale et offshore.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "de cyan 400 À  bleu 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Commencez dès aujourd\u0027hui",
+                     "title":  "Prêt À  obtenir votre visa de résidence aux Émirats arabes unis ?",
+                     "titleHighlight":  "Visa de résidence aux Émirats arabes unis ?",
+                     "subtitle":  "Contactez-nous dès aujourd\u0027hui et laissez nos experts vous guider en toute transparence juridique, avec des honoraires fixes et sans frais cachés.",
+                     "chips":  [
+                                   "Consultation gratuite",
+                                   "Frais fixes",
+                                   "Aucun frais caché"
+                               ],
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite concernant mon visa de résidence aux Émirats arabes unis.",
+                     "whatsappCardMessage":  "Bonjour ! Je voudrais discuter du visa de résidence aux Émirats arabes unis."
+                 }
+}

@@ -1,0 +1,551 @@
+{
+  "slug": "srtip-setup-package",
+  "hero": {
+    "badge": "İnovasyon Odaklı Serbest Bölge",
+    "title": "SRTP Kurulum Paketi",
+    "titleHighlight": "Paket",
+    "subtitle": "Şarjah Araştırma Teknoloji ve İnovasyon Parkı, teknoloji ve Ar-Ge profesyonelleri için özel olarak inşa edilmiş serbest bölge. Sadece 5.999 AED'den başlayan uygun fiyatlı paketler — lisans, vize, banka hesabı ve daha fazlası.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=80",
+    "breadcrumbLabel": "SRTP Kurulum Paketi",
+    "ctaPrimaryText": "Paketleri Görüntüle",
+    "ctaPrimaryLink": "#paketler",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Merhaba! SRTIP Kurulum Paketi ile ilgileniyorum.",
+    "badges": [
+      "5.999 AED'den itibaren",
+      "11 Paket",
+      "3-7 Gün Kurulum",
+      "%100 Sahiplik"
+    ]
+  },
+  "stats": [
+    {
+      "icon": "DollarSign",
+      "value": "5.999 AED",
+      "label": "Başlangıç Noktası",
+      "color": "from-teal-400 to-cyan-600"
+    },
+    {
+      "icon": "Package",
+      "value": "11",
+      "label": "Paketler",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-7",
+      "label": "Kurulum Günleri",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "%100",
+      "label": "Mülkiyet",
+      "color": "from-blue-400 to-indigo-600"
+    }
+  ],
+  "intro": {
+    "badge": "Yardımcı olmak için buradayız!",
+    "title": "Birleşik Arap Emirlikleri'ndeki İşletmeniz İçin Uygun Fiyatlı SRTI Kurulum Paketleri",
+    "titleHighlight": "Birleşik Arap Emirlikleri'ndeki İşletmeniz İçin",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&q=80",
+    "imageBadgeTitle": "SRIP Serbest Bölgesi",
+    "imageBadgeText": "Şarjah, Birleşik Arap Emirlikleri",
+    "paragraph1": "Gelişen BAE pazarında işletmenizi kurmayı mı düşünüyorsunuz? Uzman ekibimiz, 65'ten fazla yargı bölgesinde girişimcilerin başarılı şirketler kurmasına yardımcı olma konusunda uzmanlaşmıştır.",
+    "paragraph2": "İster Serbest Bölgenin esnekliğini, ister Anakara ticaret lisansının prestijini tercih edin, teknoloji ve inovasyon iş hedeflerinize uygun en iyi Şarjah iş kurma paketlerini sunuyoruz.",
+    "paragraph3": "Tüm paketler, iş yolculuğunuz için bir başlangıç noktası sunar ve ihtiyaçlarınıza göre özelleştirilebilir.",
+    "features": [
+      "65+ Yargı Bölgesi",
+      "İnovasyon Odaklı Bölge",
+      "Özelleştirilebilir Paketler",
+      "5.999 AED'den itibaren",
+      "3-7 Günde Hızlı Kurulum",
+      "Tam Destek"
+    ]
+  },
+  "businessIndustries": {
+    "badge": "İnovasyon Odaklı Ekosistem",
+    "title": "Teknoloji ve İnovasyon için tasarlandı",
+    "titleHighlight": "Teknoloji ve İnovasyon",
+    "subtitle": "SRTIP Serbest Bölgesi'nde gelişen altı inovasyon sektörü.",
+    "items": [
+      {
+        "icon": "FlaskConical",
+        "title": "Araştırma ve Geliştirme",
+        "desc": "Bilimsel araştırma, laboratuvar testleri, ürün Ar-Ge'si",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "Cpu",
+        "title": "Teknoloji ve İnovasyon",
+        "desc": "Yazılım, yapay zeka, Nesnelerin İnterneti, donanım geliştirme",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Microscope",
+        "title": "Yaşam Bilimleri",
+        "desc": "Biyoteknoloji, ilaç, tıbbi araştırma",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Yenilenebilir Enerji",
+        "desc": "Güneş enerjisi, temiz enerji, sürdürülebilirlik teknolojisi",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Atom",
+        "title": "Gelişmiş Malzemeler",
+        "desc": "Nanoteknoloji, kompozitler, malzeme bilimi",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "Binary",
+        "title": "Dijital Çözümler",
+        "desc": "Blok zinciri, veri bilimi, siber güvenlik",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "packages": {
+    "badge": "Şarjah Uygun Fiyatlı Kurulum Paketleri",
+    "title": "SRTP Kurulum Paketlerimiz",
+    "titleHighlight": "SRTP Kurulum Paketleri",
+    "subtitle": "Teknoloji ve inovasyon profesyonelleri için tasarlanmış 11 adet üst düzey paket. Hepsi özelleştirilebilir.",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Plane",
+        "title": "Seyahat ve Turizm Danışmanlığı",
+        "price": "14.499 AED",
+        "tagline": "Oturma İzniyle",
+        "category": "Premium",
+        "color": "from-teal-500 to-cyan-700",
+        "badge": "Popüler",
+        "badgeColor": "from-teal-500 to-cyan-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+          "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 2,
+        "icon": "Camera",
+        "title": "Etkinlik Yönetimi",
+        "price": "14.499 AED",
+        "tagline": "Oturma İzniyle",
+        "category": "Premium",
+        "color": "from-cyan-500 to-sky-700",
+        "badge": "Premium",
+        "badgeColor": "siyan-500'den gökyüzü-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+          "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 3,
+        "icon": "ShoppingCart",
+        "title": "Genel Ticaret",
+        "price": "15.999 AED",
+        "tagline": "Oturma İzniyle",
+        "category": "Premium",
+        "color": "from-sky-500 to-blue-700",
+        "badge": "En İyi Değer",
+        "badgeColor": "gökyüzünden-500'den-maviye-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "1. Birleşik Arap Emirlikleri Oturma İzni / Yatırımcı Vizesi",
+          "Sağlık durumu, Emirates Kimlik Kartı ve statü değişikliği",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 4,
+        "icon": "Palette",
+        "title": "Moda Tasarımı",
+        "price": "5.999 AED",
+        "tagline": "En fazla 5 aktivite",
+        "category": "Ekonomi",
+        "color": "from-blue-500 to-indigo-700",
+        "badge": "Yaratıcı",
+        "badgeColor": "mavi-500'den çivit-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 5,
+        "icon": "Dumbbell",
+        "title": "Fitness ve Yaşam Tarzı",
+        "price": "5.999 AED",
+        "tagline": "En fazla 5 aktivite",
+        "category": "Ekonomi",
+        "color": "from-indigo-500 to-violet-700",
+        "badge": "Ekonomik",
+        "badgeColor": "indigo-500'den mor-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 6,
+        "icon": "ShoppingCart",
+        "title": "E-Ticaret",
+        "price": "5.999 AED",
+        "tagline": "Çevrimiçi İşletme Hazır",
+        "category": "Ekonomi",
+        "color": "from-violet-500 to-purple-700",
+        "badge": "Popüler",
+        "badgeColor": "from-violet-500 to-purple-600",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 7,
+        "icon": "Laptop",
+        "title": "BT Hizmetleri",
+        "price": "6.449 AED",
+        "tagline": "En fazla 5 aktivite",
+        "category": "Profesyonel",
+        "color": "from-purple-500 to-fuchsia-700",
+        "badge": "Teknoloji",
+        "badgeColor": "mor-500'den fuşya-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 8,
+        "icon": "Store",
+        "title": "Genel Ticaret",
+        "price": "7.999 AED",
+        "tagline": "Giriş Seviyesi Ticaret",
+        "category": "Standart",
+        "color": "from-fuchsia-500 to-pink-700",
+        "badge": "En çok satan kitap",
+        "badgeColor": "fuşya-500'den pembe-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 9,
+        "icon": "Crown",
+        "title": "Ömür Boyu BAE Oturma İzni ile Serbest Bölge Lisansı",
+        "price": "11.999 AED",
+        "tagline": "Ömür Boyu Oturma İzni",
+        "category": "Premium",
+        "color": "from-pink-500 to-rose-700",
+        "badge": "Özel",
+        "badgeColor": "pembe-500'den gül-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ömür boyu ücretsiz BAE oturum izni / yatırımcı vizesi",
+          "Ücretsiz kira sözleşmesi",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ]
+      },
+      {
+        "id": 10,
+        "icon": "Landmark",
+        "title": "Birleşik Arap Emirlikleri'nde ikamet izni olan anakara lisansı.",
+        "price": "16.999 AED",
+        "tagline": "Anakara + İkamet",
+        "category": "Anakara",
+        "color": "from-slate-600 to-slate-800",
+        "badge": "Anakara",
+        "badgeColor": "600'den 700'e kadar",
+        "includes": [
+          "Anakara lisansı",
+          "1. Birleşik Arap Emirlikleri oturum izni / yatırımcı vizesi",
+          "Sağlık durumu, Emirates Kimliği ve statü değişikliği",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Ücretsiz KDV danışmanlığı"
+        ],
+        "exampleActivities": [
+          "Proje yönetimi",
+          "Yönetim danışmanlığı",
+          "Ticari aracı",
+          "Tesis yönetimi",
+          "Temizlik hizmetleri",
+          "Bina bakımı"
+        ]
+      },
+      {
+        "id": 11,
+        "icon": "Heart",
+        "title": "Kadın Girişimciliği",
+        "price": "5.999 AED",
+        "tagline": "Kadın Girişimciler İçin Tasarlandı",
+        "category": "Özel",
+        "color": "from-rose-500 to-pink-700",
+        "badge": "Özel",
+        "badgeColor": "gül-500'den-pembe-600'e",
+        "includes": [
+          "Serbest bölge lisansı",
+          "Ücretsiz kira sözleşmesi",
+          "En fazla 5 ticari faaliyet",
+          "Ücretsiz banka hesabı açma yardımı",
+          "Premium adres ve paylaşımlı posta kutusu",
+          "Ücretsiz KDV danışmanlığı"
+        ],
+        "exampleActivities": [
+          "Yaşam Tarzı Koçluğu",
+          "Dijital Pazarlama",
+          "Moda ve giyim tasarımı",
+          "Etkinlik yönetimi",
+          "Danışmanlık hizmetleri"
+        ]
+      }
+    ]
+  },
+  "customPackageCTA": {
+    "title": "Özel bir teknoloji paketine mi ihtiyacınız var?",
+    "subtitle": "Bize inovasyon vizyonunuzu anlatın, biz de size en uygun paketi hazırlayalım.",
+    "buttonText": "Özel Teklif",
+    "whatsappMessage": "Merhaba! Özel bir SRTIP kurulum paketine ihtiyacım var."
+  },
+  "benefits": {
+    "badge": "Neden SRTP?",
+    "title": "SRTP Kurulumunun Faydaları",
+    "titleHighlight": "SRTP Kurulumu",
+    "subtitle": "Teknoloji ve inovasyon profesyonelleri için altı güçlü avantaj.",
+    "items": [
+      {
+        "icon": "Rocket",
+        "title": "İnovasyon Odaklı Ekosistem",
+        "desc": "Teknoloji ve Ar-Ge için özel olarak tasarlanmıştır.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "Düşük Maliyetli Kurulum",
+        "desc": "5.999 AED'den başlayan fiyatlarla",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "%100 Yabancı Mülkiyeti",
+        "desc": "Tamamen yabancı mülkiyet",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "3-7 Günde Hızlı Kurulum",
+        "desc": "Hızlı lisans verme",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Wallet",
+        "title": "%0 Vergi Ortamı",
+        "desc": "Vergiden muaf avantajlar",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Hükümet Destekli",
+        "desc": "Şarjah hükümeti girişimi",
+        "color": "from-violet-400 to-purple-600"
+      }
+    ]
+  },
+  "process": {
+    "badge": "6 Adımlı Süreç",
+    "title": "Nasıl Başlanır?",
+    "titleHighlight": "Başlayın",
+    "subtitle": "Paket seçiminden banka hesabına kadar her şeyi biz hallediyoruz.",
+    "steps": [
+      {
+        "step": "01",
+        "icon": "Target",
+        "title": "Paketinizi Seçin",
+        "description": "Yenilik odaklı paketlerimizden birini seçin.",
+        "color": "from-teal-400 to-cyan-600"
+      },
+      {
+        "step": "02",
+        "icon": "FileSignature",
+        "title": "Belgeleri Gönder",
+        "description": "Pasaport fotokopileri, iş planı ve fotoğraflar.",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "step": "03",
+        "icon": "ClipboardCheck",
+        "title": "Lisans Başvurusu",
+        "description": "SRTIP yetkilisine başvuruda bulunuyoruz.",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "step": "04",
+        "icon": "ScrollText",
+        "title": "Lisansınızı Alın",
+        "description": "3-7 gün içinde lisans verilir.",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "title": "Güvenilir SRTIP Kurulum Ortağınız",
+    "titleHighlight": "SRIP Kurulum Ortağı",
+    "subtitle": "Teknoloji uzmanlarının bize güvenmesinin sekiz nedeni.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "label": "Şeffaf Fiyatlandırma",
+        "desc": "Gizli ücret yok, asla."
+      },
+      {
+        "icon": "Zap",
+        "label": "3-7 Günde Hızlı Kurulum",
+        "desc": "Hızlı lisans verme"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "%100 Uyumluluk",
+        "desc": "Tamamen devlet onaylı"
+      },
+      {
+        "icon": "UserCheck",
+        "label": "Özel Danışman",
+        "desc": "Kişisel danışman"
+      },
+      {
+        "icon": "Globe",
+        "label": "Çok Dilli Ekip",
+        "desc": "İngilizce, Arapça, Hintçe, Urduca"
+      },
+      {
+        "icon": "RefreshCw",
+        "label": "KDV Danışmanlığı",
+        "desc": "Ücretsiz olarak dahildir."
+      },
+      {
+        "icon": "Award",
+        "label": "10.000'den fazla Şirket",
+        "desc": "Başarıyla başlatıldı"
+      },
+      {
+        "icon": "Handshake",
+        "label": "Uçtan Uca Destek",
+        "desc": "Banka hesabı lisansı"
+      }
+    ]
+  },
+  "faqs": {
+    "badge": "Sıkça Sorulan Sorular",
+    "title": "Sıkça Sorulan Sorular",
+    "titleHighlight": "Sorular",
+    "subtitle": "SRTIP Serbest Bölgesi hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+    "items": [
+      {
+        "q": "SRTIP Serbest Bölgesi nedir?",
+        "a": "SRTIP (Şarjah Araştırma Teknoloji ve İnovasyon Parkı), teknoloji, araştırma ve inovasyon odaklı işletmeler için özel olarak inşa edilmiş bir serbest bölgedir. Düşük maliyetli kurulum, %100 yabancı mülkiyet ve 3-7 iş günü içinde hızlı lisanslama imkanı sunmaktadır."
+      },
+      {
+        "q": "SRTIP nerede bulunuyor?",
+        "a": "SRTIP, Birleşik Arap Emirlikleri'nin Şarjah şehrinde, Şarjah Amerikan Üniversitesi'nin bitişiğinde yer almaktadır. Ana otoyollara ve havaalanlarına kolay erişim sayesinde Dubai ve diğer emirliklere mükemmel bağlantı sağlamaktadır."
+      },
+      {
+        "q": "SRTIP kurulum paketine neler dahildir?",
+        "a": "Seçtiğiniz pakete bağlı olarak, Serbest Bölge lisansı, oturma vizesi, sağlık raporu ve Emirates kimliği, kira sözleşmesi, banka hesabı açma yardımı, premium adres ve ücretsiz KDV danışmanlığı alırsınız."
+      },
+      {
+        "q": "SRTIP paketinin maliyeti ne kadar?",
+        "a": "SRTIP paketlerimiz 5.999 AED'den (Ekonomi) başlayıp 16.999 AED'ye (Anakara + Oturma İzni) kadar çıkmaktadır. Vize dahil premium paketler ise 14.499 AED'den başlamaktadır."
+      },
+      {
+        "q": "Kurulum ne kadar sürer?",
+        "a": "Ehliyetin verilmesi genellikle 3-7 iş günü sürer ve vize işlemleri ile banka hesabı açılması için ek olarak 1-2 hafta daha gerekir."
+      },
+      {
+        "q": "Paketimi özelleştirebilir miyim?",
+        "a": "Evet. Tüm paketler başlangıç noktasıdır ve teknoloji işletmenize, vize ihtiyaçlarınıza ve bütçenize uyacak şekilde özelleştirilebilir."
+      },
+      {
+        "q": "Birleşik Arap Emirlikleri'nde oturum vizesi alabilir miyim?",
+        "a": "Evet, seçili paketler BAE yatırımcı/ikamet vizesi (sağlık muayenesi dahil), Emirates Kimlik Kartı ve statü değişikliğini içermektedir. Ömür Boyu BAE İkamet İzni ile Serbest Bölge Lisansı ise ömür boyu ikamet izni sunmaktadır."
+      },
+      {
+        "q": "Banka hesabı açma işlemi fiyata dahil mi?",
+        "a": "Evet. Tüm paketler, Birleşik Arap Emirlikleri'nin önde gelen bankalarında kurumsal banka hesabı açma konusunda ücretsiz destek içermektedir."
+      },
+      {
+        "q": "Teknolojiyle ilgili hangi etkinlikleri yapabilirim?",
+        "a": "SRTIP, araştırma ve geliştirme, teknoloji ve inovasyon, yaşam bilimleri, yenilenebilir enerji, ileri malzemeler, dijital çözümler ve diğer inovasyon odaklı sektörleri destekler; çoğu ekonomi paketinde 5'e kadar faaliyet yer alır."
+      },
+      {
+        "q": "SRTP kurulumu için neden Setup Zone Dubai'yi seçmelisiniz?",
+        "a": "Şeffaf fiyatlandırma, teknoloji sektörü uzmanlığı, alanında uzman danışmanlar ve lisanstan vizeye, banka hesabına kadar uçtan uca destek sunuyoruz. Tüm bunları 10.000'den fazla başarılı kurulumla gerçekleştiriyoruz."
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "Teknoloji İşletmenizi Bugün Başlatın",
+    "title": "SRTIP Sharjah'da Lansmana Hazır mısınız?",
+    "titleHighlight": "SRTP Sharjah?",
+    "subtitle": "Ücretsiz danışmanlık hizmetimizden yararlanın. Doğru paketi seçmenize ve teknoloji işletmenizi birkaç gün içinde faaliyete geçirmenize yardımcı olacağız.",
+    "primaryCta": "Bize WhatsApp'tan ulaşın",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Merhaba! SRTIP Kurulum Paketi için ücretsiz danışmanlık almak istiyorum.",
+    "badges": [
+      "5.999 AED'den itibaren",
+      "3-7 Gün Kurulum",
+      "%100 Sahiplik"
+    ],
+    "office": {
+      "label": "Dubai Ofisimizi Ziyaret Edin",
+      "line1": "Ofis M08-27, M1 Katı, Crystal Tower",
+      "line2": "Business Bay, Dubai, B.A.E — Posta Kutusu: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Çalışma Saatleri",
+      "monFri": "Sabah 8 - Akşam 6",
+      "saturday": "10:00 - 17:00",
+      "sunday": "Kapalı"
+    }
+  }
+}

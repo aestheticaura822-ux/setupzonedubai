@@ -1,0 +1,470 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600\u0026q=80",
+    "heroBadge":  "Güvenilir BAE Ortağınız",
+    "heroTitle":  "BAE Yerel İş Ortağı",
+    "heroTitleHighlight":  "İş Ortağı",
+    "heroSubtitle":  "Ana karadaki işletmenizi güvenilir bir yerel ortakla güvence altına alın. Tam yasal koruma, %100 operasyonel kontrol ve sabit yıllık ücretler "” kÃ¢r paylaşımı yok.",
+    "heroChips":  [
+                      "%100 Kontrol",
+                      "Sabit Yıllık Ücret",
+                      "Yasal Koruma",
+                      "Kar Paylaşımı Yok"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Yüzde",
+                      "value":  "51/49",
+                      "label":  "Hukuki Ayrılık",
+                      "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                  },
+                  {
+                      "icon":  "Küre",
+                      "value":  "%100",
+                      "label":  "Kontrol (anlaşmalar yoluyla)",
+                      "color":  "mavi-400\u0027den çivit-600\u0027e"
+                  },
+                  {
+                      "icon":  "Dolar İşareti",
+                      "value":  "Sabit",
+                      "label":  "Yıllık Ücret",
+                      "color":  "indigo-400\u0027den mor-600\u0027e"
+                  },
+                  {
+                      "icon":  "Kalkan",
+                      "value":  "%0",
+                      "label":  "Kar Paylaşımı",
+                      "color":  "from-violet-400 to-purple-600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Kurulumu Anlamak",
+                          "title":  "Yerel İş Ortağı Nedir?",
+                          "titleHighlight":  "Yerel İş Ortağı?",
+                          "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Hukuk Ortağı",
+                          "imageBadgeText":  "Anakara Kurulumu",
+                          "paragraphs":  [
+                                             "Yerel iş ortağı (yerel sponsor olarak da adlandırılır), yabancı yatırımcının %49 hisseye sahip olduğu bir anakara işletmesinde, hisselerin %51\u0027ine sahip olan bir BAE vatandaşı veya BAE\u0027ye ait bir şirkettir.",
+                                             "Bu düzenleme, BAE anakarasındaki belirli ticari ve endüstriyel faaliyetler için geçerlidir. Bireysel sponsorluğun aksine, kurumsal sponsorluk daha profesyonel bir yasal yapı ve bağlayıcı sözleşmeler sağlar.",
+                                             "Yapılandırılmış vekalet sözleşmeleri ve yan sözleşmeler aracılığıyla, işletme faaliyetleri, finansman ve karar alma süreçleri üzerinde yasal olarak %100 kontrol sahibi olursunuz. Bu, Dubai anakara ekonomisine erişmenin etkili ve yasalara uygun bir yoludur."
+                                         ],
+                          "highlights":  [
+                                             "Kurumsal Varlık",
+                                             "Adaylık Sözleşmesi",
+                                             "Temsil yetkisi",
+                                             "Yan Anlaşmalar",
+                                             "Sabit Yıllık Ücret",
+                                             "Yasalara Uygun"
+                                         ]
+                      },
+    "partnerTypesSection":  {
+                                "badge":  "Ortak Türleri",
+                                "title":  "Yerel Ortak Türleri",
+                                "titleHighlight":  "Yerel Ortaklar",
+                                "subtitle":  "3 farklı iş ortağı türü arasından işletmeniz için doğru olanı seçin.",
+                                "items":  [
+                                              {
+                                                  "id":  "kurumsal",
+                                                  "icon":  "Bina 2",
+                                                  "title":  "Kurumsal Sponsor",
+                                                  "tagline":  "Birleşik Arap Emirlikleri\u0027ne ait şirket",
+                                                  "description":  "Birleşik Arap Emirlikleri merkezli (tamamı BAE\u0027lilere ait) bir şirket, ana karadaki işletmenizin hisselerinin %51\u0027ine sahiptir. Profesyonel yasal yapı, bağlayıcı sözleşmeler ve tam kontrol sağlayan vekaletname düzenlemeleri sunar.",
+                                                  "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                                  "color":  "gökyüzünden-500\u0027den maviye-700\u0027e",
+                                                  "features":  [
+                                                                   "Profesyonel Hukuki Yapı",
+                                                                   "Bağlayıcı Sözleşmeler",
+                                                                   "Aday Gösterme Düzenlemeleri",
+                                                                   "Tam Operasyonel Kontrol"
+                                                               ],
+                                                  "bestFor":  "Ticari ve Endüstriyel Faaliyetler"
+                                              },
+                                              {
+                                                  "id":  "bireysel",
+                                                  "icon":  "Kullanıcı Simgesi",
+                                                  "title":  "Bireysel Sponsor",
+                                                  "tagline":  "Birleşik Arap Emirlikleri vatandaşı",
+                                                  "description":  "Birleşik Arap Emirlikleri vatandaşı bir kişi, hisselerin %51\u0027ine bireysel olarak sahip. Kurumsal sponsorluğa benzer, ancak şirket yerine bir kişi söz konusu. Kapsamlı geçmiş kontrolleri ve yasal güvenceler gerektiriyor.",
+                                                  "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                                  "color":  "mavi-500\u0027den çivit-700\u0027e",
+                                                  "features":  [
+                                                                   "Birleşik Arap Emirlikleri vatandaşı",
+                                                                   "%51 Yasal Hisseler",
+                                                                   "Yan Anlaşmalar",
+                                                                   "POA Koruması"
+                                                               ],
+                                                  "bestFor":  "Ticari Faaliyetler"
+                                              },
+                                              {
+                                                  "id":  "lsa",
+                                                  "icon":  "El sıkışma",
+                                                  "title":  "Yerel Servis Temsilcisi",
+                                                  "tagline":  "Ortaklık payı yok",
+                                                  "description":  "Birleşik Arap Emirlikleri vatandaşı veya BAE\u0027ye ait bir şirket, devlet daireleriyle idari irtibat görevlisi olarak hareket eder. Hiçbir hisseye sahip olmaz; %100 mülkiyeti elinizde tutarsınız. Meslek Lisansları ve Şube Ofisleri için gereklidir.",
+                                                  "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                                                  "color":  "indigo-500\u0027den mor-700\u0027e",
+                                                  "features":  [
+                                                                   "Sıfır Öz Sermaye",
+                                                                   "%100 Yabancı Mülkiyeti",
+                                                                   "İdari İrtibat Görevlisi",
+                                                                   "Sabit Yıllık Ücret"
+                                                               ],
+                                                  "bestFor":  "Profesyonel Hizmetler ve Şubeler"
+                                              }
+                                          ]
+                            },
+    "benefitsSection":  {
+                            "badge":  "Neden Yerel Ortak?",
+                            "title":  "Yerel Ortaklığın Faydaları",
+                            "titleHighlight":  "Yerel Ortaklık",
+                            "subtitle":  "Anakaradaki işletmeniz için altı güçlü avantaj.",
+                            "items":  [
+                                          {
+                                              "icon":  "Küre",
+                                              "title":  "Tam Pazar Erişimi",
+                                              "description":  "Yedi Emirliğin tamamında coğrafi kısıtlama olmaksızın faaliyet gösterin "” BAE yerel pazarına, devlet sözleşmelerine ve B2B/B2C müşterilerine erişin.",
+                                              "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Önemli bir dönüm noktası",
+                                              "title":  "Devlet Sözleşmeleri",
+                                              "description":  "Devlet ihalelerine ve kamu sektörü projelerine teklif vermek, Serbest Bölge şirketlerinin sahip olmadığı önemli bir avantajdır.",
+                                              "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Kalkan",
+                                              "title":  "Yasal Koruma",
+                                              "description":  "Mutabakat zaptı, yan sözleşmeler, vekaletname ve temsilcilik sözleşmeleri de dahil olmak üzere kapsamlı yasal yapı; hepsi noter onaylı ve yasal olarak bağlayıcıdır.",
+                                              "color":  "indigo-400\u0027den mor-600\u0027e"
+                                          },
+                                          {
+                                              "icon":  "Cüzdan",
+                                              "title":  "%100 Kar Koruma",
+                                              "description":  "Yasal yan anlaşmalar sayesinde kÃ¢rın %100\u0027ünü siz elde edersiniz. Sponsor yalnızca sabit bir yıllık ücret alır; gelirden pay almaz.",
+                                              "color":  "from-violet-400 to-purple-600"
+                                          },
+                                          {
+                                              "icon":  "Tokmak",
+                                              "title":  "Tam Operasyonel Kontrol",
+                                              "description":  "Vekaletname size tüm ticari konularda tek karar alma yetkisi verir; sponsorun müdahalesi olmaz.",
+                                              "color":  "from-purple-400 to-fuchsia-600"
+                                          },
+                                          {
+                                              "icon":  "RefreshCw",
+                                              "title":  "%100 Sahipliğe Giden Yol",
+                                              "description":  "Birleşik Arap Emirlikleri yasaları geliştikçe, birçok faaliyet artık tamamen yabancı mülkiyetine izin veriyor. Uygun olduğunuzda lisansınızı dönüştürmenize yardımcı oluyoruz.",
+                                              "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                          }
+                                      ]
+                        },
+    "legalProtectionSection":  {
+                                   "badge":  "Yasal Koruma",
+                                   "title":  "İlgi Alanlarınızı Nasıl Koruyoruz?",
+                                   "titleHighlight":  "Çıkarlarınızı Koruyun",
+                                   "subtitle":  "Tam bir gönül rahatlığı için altı yasal güvence.",
+                                   "items":  [
+                                                 {
+                                                     "icon":  "Kaydırma Metni",
+                                                     "title":  "Mutabakat Anlaşması Taslağı",
+                                                     "desc":  "Şirket Ana Sözleşmesi, haklarınızı korurken BAE yasalarına da uygun olarak hazırlanmıştır.",
+                                                     "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "El sıkışma",
+                                                     "title":  "Gerçek Hak Sahipliği Sözleşmesi",
+                                                     "desc":  "Mülkün gerçek ve tek hak sahibi olduğunuzu teyit eden özel yasal belgeler.",
+                                                     "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Tokmak",
+                                                     "title":  "Ticari Vekaletname",
+                                                     "desc":  "Noter onaylı vekaletname, tüm iş kararları ve banka hesapları üzerinde size tek yetki verir.",
+                                                     "color":  "indigo-400\u0027den mor-600\u0027e"
+                                                 },
+                                                 {
+                                                     "icon":  "Kalkan",
+                                                     "title":  "Sponsor Sınırlama Anlaşması",
+                                                     "desc":  "Sponsorun işletme faaliyetlerinize müdahale etmesini yasal olarak yasaklayan maddeler.",
+                                                     "color":  "from-violet-400 to-purple-600"
+                                                 },
+                                                 {
+                                                     "icon":  "Banknot",
+                                                     "title":  "Sabit Yıllık Ücret",
+                                                     "desc":  "Sponsor, sabit bir yıllık ücret alır; kÃ¢r, gelir veya giderlerden pay almaz.",
+                                                     "color":  "from-purple-400 to-fuchsia-600"
+                                                 },
+                                                 {
+                                                     "icon":  "Dosya Kontrolü",
+                                                     "title":  "Noter Onaylı Belgeler",
+                                                     "desc":  "Tüm belgeler imzalanmış ve noter onaylıdır, bu da tam bir şeffaflık ve hukuki güvenlik sağlar.",
+                                                     "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "processSection":  {
+                           "badge":  "6 Adımlı Süreç",
+                           "title":  "İşletmenizi Nasıl Güvence Altına Alıyoruz?",
+                           "titleHighlight":  "İşletmenizi Güvence Altına Alın",
+                           "subtitle":  "Anakarada faaliyet gösteren bir işletmeyi tamamen güvence altına almanın altı basit adımı.",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Hedef",
+                                             "title":  "Aktivite Değerlendirmesi",
+                                             "description":  "İşletmenizin yerel bir ortağa, kurumsal sponsora veya yerel bir hizmet temsilcisine ihtiyaç duyup duymadığını belirliyoruz.",
+                                             "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "UserPlus",
+                                             "title":  "Ortak Seçimi",
+                                             "description":  "Sizi, güvenilir ve başarılı bir geçmişe sahip, doğrulanmış bir Birleşik Arap Emirlikleri ortağı veya kurumsal sponsoruyla eşleştiriyoruz.",
+                                             "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Dosyaİmzası",
+                                             "title":  "Yasal Belgeler",
+                                             "description":  "Menfaatlerinizi korumak için mutabakat anlaşmaları, yan anlaşmalar, vekaletnameler ve vekalet sözleşmeleri hazırlamak ve noter onayını yapmak.",
+                                             "color":  "indigo-400\u0027den mor-600\u0027e"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "Kaydırma Metni",
+                                             "title":  "Lisans Başvurusu",
+                                             "description":  "Ticaret ruhsatı başvurunuzu DED\u0027ye (Çevre Koruma Dairesi) iletiyoruz ve tüm devlet onaylarını koordine ediyoruz.",
+                                             "color":  "from-violet-400 to-purple-600"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "Pano Kontrolü",
+                                             "title":  "Ticari Banka Hesabı",
+                                             "description":  "Birleşik Arap Emirlikleri\u0027nin önde gelen bankalarında kurumsal banka hesabı açma konusunda yardım.",
+                                             "color":  "from-purple-400 to-fuchsia-600"
+                                         },
+                                         {
+                                             "step":  "06",
+                                             "icon":  "RefreshCw",
+                                             "title":  "Sürekli Destek",
+                                             "description":  "Lisans yenilemeleri, PRO hizmetleri, uyumluluk ve uygun olduğunda gelecekte %100 sahipliğe geçiş.",
+                                             "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                         }
+                                     ]
+                       },
+    "requirementsSection":  {
+                                "badge":  "Temel Gereksinimler",
+                                "title":  "Bilmeniz Gerekenler",
+                                "titleHighlight":  "Bilmeniz Gerekenler",
+                                "items":  [
+                                              {
+                                                  "icon":  "Yüzde",
+                                                  "title":  "%51 Yasal Pay",
+                                                  "description":  "Yerel ortak yasal olarak %51 hisseye sahipken, siz kağıt üzerinde %49 hisseye sahipsiniz.",
+                                                  "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Dosyaİmzası",
+                                                  "title":  "Yan Anlaşmalar",
+                                                  "description":  "Yasal anlaşmalar, tam kontrolü ve kÃ¢rı elinizde tutmanızı sağlar.",
+                                                  "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "Dolar İşareti",
+                                                  "title":  "Sabit Yıllık Ücret",
+                                                  "description":  "Sponsor yıllık olarak sabit bir miktar ödedi; kÃ¢r paylaşımı söz konusu değildi.",
+                                                  "color":  "indigo-400\u0027den mor-600\u0027e"
+                                              },
+                                              {
+                                                  "icon":  "RefreshCw",
+                                                  "title":  "Çıkış Seçenekleri",
+                                                  "description":  "Esnek transfer, sponsorluk değişikliği veya %100 sahiplik dönüşümü.",
+                                                  "color":  "from-violet-400 to-purple-600"
+                                              }
+                                          ]
+                            },
+    "whyChooseUsSection":  {
+                               "badge":  "Neden Bizi Seçmelisiniz?",
+                               "title":  "Güvenilir Yerel Ortağınız",
+                               "titleHighlight":  "Yerel Ortak",
+                               "items":  [
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "label":  "Güvenilir Ortaklar",
+                                                 "desc":  "Başarılı bir geçmişe sahip, doğrulanmış Birleşik Arap Emirlikleri sponsorları."
+                                             },
+                                             {
+                                                 "icon":  "Dosya Kontrolü",
+                                                 "label":  "Yasal Belgeler",
+                                                 "desc":  "Tüm anlaşmalar noter onaylı ve yasal olarak bağlayıcıdır."
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "label":  "Şeffaf Fiyatlandırma",
+                                                 "desc":  "Gizli ücret veya komisyon yok."
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "label":  "Çok Dilli Ekip",
+                                                 "desc":  "İngilizce, Arapça, Hintçe, Urduca"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Hızlı Onaylar",
+                                                 "desc":  "Doğrudan DED ve hükümet ağı"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Sürekli Destek",
+                                                 "desc":  "Yenileme, PRO ve dönüşüm yardımı"
+                                             },
+                                             {
+                                                 "icon":  "Kullanıcılar",
+                                                 "label":  "Binlerce kişi tarafından güvenilen",
+                                                 "desc":  "Başarılı kurulumlar konusunda kanıtlanmış bir geçmişe sahibiz."
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "label":  "Uzun Vadeli Ortaklık",
+                                                 "desc":  "Sadece mevcut sisteminizi değil, geleceğinizi de koruyoruz."
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "İşletme Büyüme Beklentisi",
+                               "title":  "Binlerce kişi tarafından güvenilen",
+                               "titleHighlight":  "Binlerce",
+                               "subtitle":  "İşletmenizin korunması, uzman ellerde.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bina 2",
+                                                 "value":  "10.000+",
+                                                 "label":  "Kurulan Şirketler",
+                                                 "color":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Küre",
+                                                 "value":  "%100",
+                                                 "label":  "Kontrol Korundu",
+                                                 "color":  "mavi-400\u0027den çivit-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Trend Yükseliyor",
+                                                 "value":  "Önde gelen",
+                                                 "label":  "Sponsorluk Uzmanı",
+                                                 "color":  "indigo-400\u0027den mor-600\u0027e"
+                                             },
+                                             {
+                                                 "icon":  "Dolar İşareti",
+                                                 "value":  "Sabit",
+                                                 "label":  "Yıllık Ücret",
+                                                 "color":  "from-violet-400 to-purple-600"
+                                             },
+                                             {
+                                                 "icon":  "Kalkan Kontrolü",
+                                                 "value":  "%100",
+                                                 "label":  "Uyumlu",
+                                                 "color":  "from-purple-400 to-fuchsia-600"
+                                             },
+                                             {
+                                                 "icon":  "Taç",
+                                                 "value":  "Tercih edilen",
+                                                 "label":  "Ortak",
+                                                 "color":  "fuşya-400\u0027den pembe-600\u0027e"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Sıkça Sorulan Sorular",
+                        "title":  "Sıkça Sorulan Sorular",
+                        "titleHighlight":  "Sorular",
+                        "subtitle":  "Birleşik Arap Emirlikleri Yerel İş Ortakları hakkında bilmeniz gereken her şey. Hala sorularınız mı var? Bir mesaj uzağınızdayız.",
+                        "sidebarCard":  {
+                                            "title":  "HÃ¢lÃ¢ sorularınız mı var?",
+                                            "text":  "Yerel uzman ortaklarımızdan ücretsiz danışmanlık hizmeti alın.",
+                                            "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri Yerel İş Ortağı hakkında bir sorum var."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Dubai\u0027de tüm işletmeler için Yerel İş Ortağı zorunlu mu?",
+                                          "a":  "Hayır. 2021 reformlarından bu yana, anakara Çin\u0027deki çoğu ticari faaliyet %100 yabancı mülkiyete izin vermektedir. Yerel sponsorlar yalnızca belirli ticari veya endüstriyel faaliyetler için gereklidir. Profesyonel hizmetler ve Serbest Bölge şirketleri %100 mülkiyetten yararlanabilir."
+                                      },
+                                      {
+                                          "q":  "Yerel Ortak ile Yerel Servis Temsilcisi arasındaki fark nedir?",
+                                          "a":  "Yerel Ortak (Sponsor), şirketinizin yasal hisselerinin %51\u0027ine sahiptir. Yerel Hizmet Temsilcisi (LSA) ise HİÇBİR hisseye sahip değildir; yalnızca sabit bir yıllık ücret karşılığında devlet daireleriyle idari irtibat görevlisi olarak hareket eder."
+                                      },
+                                      {
+                                          "q":  "Yerel bir ortakla %100 kontrolü elimde tutabilir miyim?",
+                                          "a":  "Evet. Yapılandırılmış vekaletnameler, yetki belgeleri ve yan sözleşmeler aracılığıyla operasyonel, finansal ve yönetimsel kontrolün %100\u0027ünü elinizde tutarsınız. Sponsor, hiçbir şekilde müdahil olmayan sessiz bir ortaktır."
+                                      },
+                                      {
+                                          "q":  "Yerel bir iş ortağının maliyeti ne kadar?",
+                                          "a":  "Kurumsal sponsorluk ücretleri, hizmetlerin kapsamına ve sponsorun itibarına bağlı olarak genellikle yıllık 8.000 AED ile 20.000 AED arasında değişmektedir. Bu sabit bir ücrettir; kÃ¢r paylaşımı söz konusu değildir."
+                                      },
+                                      {
+                                          "q":  "Eğer şirketten ayrılmak veya mülkiyeti devretmek istersem ne olur?",
+                                          "a":  "Esnek çıkış ve devir seçenekleri sunuyoruz: İşletmenizi satabilir, yeni bir ortak getirebilir, sponsorluğu devredebilir veya yasalar izin veriyorsa %100 sahipliğe geçebilirsiniz."
+                                      },
+                                      {
+                                          "q":  "Sponsor iş faaliyetlerime müdahale edecek mi?",
+                                          "a":  "Hayır. Sponsorluk Sınırlama Anlaşmamız, müdahaleyi yasal olarak yasaklamaktadır. Sponsor, operasyonlara, finansmana veya karar alma süreçlerine erişimi olmayan sessiz bir ortaktır."
+                                      },
+                                      {
+                                          "q":  "İleride mülkiyeti %100\u0027e çıkarabilir miyim?",
+                                          "a":  "Evet. Birleşik Arap Emirlikleri yasaları geliştikçe, birçok faaliyet artık tamamen yabancı mülkiyetine izin veriyor. Güncellemeleri takip ediyoruz ve uygun olduğunuzda sponsorunuzu kaldırarak ve belgelerinizi güncelleyerek lisansınızı dönüştürmenize yardımcı oluyoruz."
+                                      },
+                                      {
+                                          "q":  "Hangi yasal belgeler çıkarlarımı koruyor?",
+                                          "a":  "Önemli belgeler arasında Mutabakat Anlaşması, Gerçek Hak Sahipliği Anlaşması, Vekaletname ve Sponsor Sınırlama Anlaşması yer almaktadır. Tüm belgeler noter onaylıdır ve yasal olarak bağlayıcıdır."
+                                      },
+                                      {
+                                          "q":  "Yerel bir sponsora sahip olmak, devlet onaylarında yardımcı olur mu?",
+                                          "a":  "Evet. Kurumsal sponsorlarımız, DED lisanslama, yenileme, belediye onayları, sivil savunma ve sektör düzenleyici onaylarının hızlandırılmasına yardımcı oluyor."
+                                      },
+                                      {
+                                          "q":  "Yerel iş ortağı hizmetleri için neden Setup Zone Dubai\u0027yi tercih etmelisiniz?",
+                                          "a":  "Güvenilir Birleşik Arap Emirlikleri ortakları, kapsamlı yasal dokümantasyon, şeffaf fiyatlandırma ve uçtan uca destek sağlıyoruz. Kanıtlanmış başarı geçmişimiz ve doğrudan hükümet erişimimiz sayesinde hızlı, uyumlu ve güvenli kurulum sağlıyoruz."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "İlgili Hizmetler",
+                                   "titleHighlight":  "Hizmetler",
+                                   "subtitle":  "Yerel İş Ortağı ile iyi uyum sağlayan hizmetler.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "local-corporate-sponsor",
+                                                     "title":  "Yerel Kurumsal Sponsor",
+                                                     "description":  "Güvenilir bir sponsor ile %100 kontrol sağlayın.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "gökyüzünden-400\u0027den maviye-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "mainland-company-formation",
+                                                     "title":  "Anakara Şirketi Kuruluşu",
+                                                     "description":  "DET lisansı ile BAE pazarına tam erişim.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "mavi-400\u0027den çivit-600\u0027e"
+                                                 },
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Dubai\u0027de Şirket Kurulumu",
+                                                     "description":  "Serbest Bölge, Anakara ve Açık Deniz yapıları.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "indigo-400\u0027den mor-600\u0027e"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "İşletmenizi Güvence Altına Alın",
+                     "title":  "Güvenilir bir yerel ortağa hazır mısınız?",
+                     "titleHighlight":  "Güvenilir Yerel Ortak mı?",
+                     "subtitle":  "Ücretsiz danışmanlık hizmetimizden yararlanın. Güvenilir bir yerel ortak ve tam yasal koruma ile anakaradaki işletmenizi kurmanıza yardımcı olacağız.",
+                     "chips":  [
+                                   "Ücretsiz Danışmanlık",
+                                   "%100 Kontrol",
+                                   "Sabit Ücret"
+                               ],
+                     "whatsappMessage":  "Merhaba! Birleşik Arap Emirlikleri Yerel İş Ortağı için ücretsiz danışmanlık hizmeti almak istiyorum.",
+                     "whatsappCardMessage":  "Merhaba! Birleşik Arap Emirlikleri\u0027nde yerel iş ortağı olma konusunu görüşmek istiyorum."
+                 }
+}

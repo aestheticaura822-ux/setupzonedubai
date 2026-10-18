@@ -1,0 +1,372 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+  "heroBadge": "保持合法合规",
+  "heroTitle": "阿联酋合规服务",
+  "heroTitleHighlight": "阿联酋",
+  "heroSubtitle": "为中国大陆、自由区和离岸司法管辖区提供端到端的监管支持。ESR、UBO、企业所得税、增值税、反洗钱和WPS——所有这些都由专家负责管理。",
+  "heroChips": [
+    "UBO备案",
+    "ESR报告",
+    "零罚款"
+  ],
+  "stats": [
+    {
+      "icon": "Ban",
+      "value": "100万迪拉姆",
+      "label": "最高罚款",
+      "color": "from-red-400 to-rose-600"
+    },
+    {
+      "icon": "ShieldCheck",
+      "value": "100%",
+      "label": "合规率",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "FileText",
+      "value": "5岁以上",
+      "label": "文件类型",
+      "color": "from-violet-400 to-purple-600"
+    },
+    {
+      "icon": "Users",
+      "value": "500+",
+      "label": "服务对象",
+      "color": "from-emerald-400 to-teal-600"
+    }
+  ],
+  "uboSection": {
+    "badge": "UBO备案",
+    "title": "什么是UBO（最终受益所有人）？为什么它是强制性的？",
+    "titleHighlight": "强制的？",
+    "subtitle": "UBO 法规要求阿联酋企业披露最终控制或受益于公司的人员——即使他们通过其他法律实体或代理人运营。",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=80",
+    "imageBadgeTitle": "强制的",
+    "imageBadgeText": "适用于所有阿联酋企业",
+    "warningCard": {
+      "label": "未提交",
+      "bigNumber": "最高可达 10 万迪拉姆",
+      "text": "罚款 + 吊销驾照 + 当局调查",
+      "ctaText": "立即提交最终受益所有人文件",
+      "ctaMessage": "您好！我的阿联酋公司需要办理最终受益所有人 (UBO) 申报手续，我需要帮助。"
+    },
+    "checklist": [
+      "识别真正的受益所有人",
+      "股东信息结构",
+      "通过教育部门户网站提交",
+      "避免行政处罚"
+    ]
+  },
+  "servicesSection": {
+    "badge": "我们提供的服务",
+    "title": "端到端合规服务",
+    "titleHighlight": "服务",
+    "subtitle": "所有监管申报和义务均由我们代您处理。",
+    "items": [
+      {
+        "icon": "Scale",
+        "title": "ESR合规与申报",
+        "description": "评估 ESR 适用性，准备物质声明，维护本地物质，并向财政部提交报告。",
+        "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80"
+      },
+      {
+        "icon": "Receipt",
+        "title": "企业所得税和自由贸易协定",
+        "description": "向联邦税务局 (FTA) 进行企业所得税登记、结构建议以及 2024 年规则下的报告要求。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+      },
+      {
+        "icon": "Building2",
+        "title": "自由区治理",
+        "description": "DMCC、IFZA、RAKEZ、DAFZA 的董事会决议、股东更新、许可证续期和监管文件。",
+        "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
+      },
+      {
+        "icon": "Fingerprint",
+        "title": "最终受益所有人声明",
+        "description": "通过MOE门户网站识别真正的受益所有人，构建股东信息，并提交UBO披露文件。",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80"
+      },
+      {
+        "icon": "UserCheck",
+        "title": "劳工和签证合规",
+        "description": "员工合同审核、人力资源和酋长国事务部合规性、签证状态审查、入职/离职程序。",
+        "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=800&q=80"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "增值税登记及申报",
+        "description": "增值税登记、月度/季度申报和联邦税务局审计准备——完全与您的业务活动相符。",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
+      }
+    ]
+  },
+  "esrSection": {
+    "badge": "ESR合规性",
+    "title": "什么是ESR？它为什么重要？",
+    "titleHighlight": "为什么这很重要？",
+    "subtitle": "经济实质法规适用于在阿联酋从事相关活动（包括咨询、控股、航运、融资和知识产权）的企业。申报必须及时准确，以免受到处罚。",
+    "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=1200&q=80",
+    "ctaText": "获取 ESR 支持",
+    "ctaMessage": "您好！我需要有关ESR合规和申报方面的帮助。",
+    "infoTable": [
+      {
+        "label": "适用活动",
+        "value": "咨询、控股、航运、知识产权"
+      },
+      {
+        "label": "文件提交门户",
+        "value": "财政部"
+      },
+      {
+        "label": "提交频率",
+        "value": "年度通知及报告"
+      },
+      {
+        "label": "处罚",
+        "value": "最高罚款 50 万迪拉姆 + 吊销驾照"
+      }
+    ],
+    "imageBadgeTitle": "已提交",
+    "imageBadgeText": "ESR 2025 年报告",
+    "deadlineLabel": "下一个截止日期",
+    "deadlineValue": "2026年第二季度",
+    "deadlineDays": "还剩128天"
+  },
+  "whoNeedsSection": {
+    "badge": "谁需要它",
+    "title": "哪些人需要合规服务？",
+    "titleHighlight": "合规服务？",
+    "subtitle": "阿联酋所有企业——无论规模大小或管辖范围。",
+    "items": [
+      {
+        "icon": "Building2",
+        "title": "大陆跨国公司",
+        "description": "大陆有限责任公司和跨司法管辖区运营的分支机构必须遵守 ESR、企业所得税和 MoHRE 的规定。",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Scale",
+        "title": "DNFBPs",
+        "description": "房地产、法律、会计、黄金交易——必须注册 goAML 并任命一名合规官。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Users",
+        "title": "工作保护体系及劳工合规性",
+        "description": "公司在聘用外籍员工时，必须确保合同符合阿联酋劳动法和工作场所安全标准。",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "FileSearch",
+        "title": "接受审计的企业",
+        "description": "接受增值税、税务或人力资源部审计的实体需要提供完整的财务、税务、工资和劳动文件。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "自由区扩张公司",
+        "description": "DMCC、IFZA、RAKEZ、DAFZA 的企业在扩张或重组时需要进行合规性审查。",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Globe",
+        "title": "离岸公司",
+        "description": "RAK ICC、JAFZA Offshore — 必须披露最终受益所有人 (UBO)、提交 ESR 报告并保持年度合规性。",
+        "color": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "risksSection": {
+    "badge": "警告——不合规风险",
+    "title": "不遵守规定会发生什么？",
+    "titleHighlight": "不要服从",
+    "subtitle": "不遵守规定的人将面临罚款、吊销执照和声誉损害。",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&q=80",
+    "items": [
+      {
+        "icon": "Ban",
+        "title": "驾照暂停或注销",
+        "description": "未按规定申报 ESR、UBO 或企业所得税，可能导致您的营业执照被暂停或吊销。",
+        "color": "from-red-400 to-rose-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "罚款最高可达50万迪拉姆",
+        "description": "自由贸易区、人力资源和酋长国化部或自由区会对违规行为处以罚款——轻微违规罚款 10,000 迪拉姆，严重违规罚款 500,000 迪拉姆。",
+        "color": "from-orange-400 to-red-600"
+      },
+      {
+        "icon": "XCircle",
+        "title": "签证拒签",
+        "description": "人力资源和酋长国化部 (MoHRE) 和移民局要求提供最新的劳动合同、工作保障计划 (WPS) 和文件——错误会导致签证不被批准。",
+        "color": "from-rose-400 to-pink-600"
+      },
+      {
+        "icon": "TrendingDown",
+        "title": "银行延误",
+        "description": "ESR/UBO 申报不完整或税务问题会导致银行账户和信贷额度延迟或被拒。",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "个人法律责任",
+        "description": "董事和股东可能面临个人罚款、取消资格，甚至刑事责任。",
+        "color": "from-red-500 to-red-700"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "100% 合规，零罚款。",
+    "titleHighlight": "零罚款。",
+    "subtitle": "我们会监控每一个截止日期，提交每一份报告，并确保您的业务在阿联酋大陆、自由区和离岸司法管辖区内完全符合阿联酋法律。",
+    "ctaText": "联系合规专家",
+    "ctaMessage": "您好！我想进一步了解贵公司的合规服务。",
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1600&q=80",
+    "features": [
+      {
+        "icon": "Award",
+        "label": "深厚的阿联酋监管专业知识"
+      },
+      {
+        "icon": "Globe",
+        "label": "大陆、自由区及离岸"
+      },
+      {
+        "icon": "Clock",
+        "label": "实时截止时间监控"
+      },
+      {
+        "icon": "ShieldCheck",
+        "label": "财政部、FTA、人力资源和可再生能源部合规性"
+      },
+      {
+        "icon": "Eye",
+        "label": "完全透明的定价"
+      },
+      {
+        "icon": "Lock",
+        "label": "本地标准 + 全球标准"
+      }
+    ],
+    "dashboard": {
+      "complianceScore": "100%",
+      "complianceScoreLabel": "✓ 完全合规",
+      "filingsPending": "0",
+      "filingsPendingLabel": "所有提交",
+      "checklist": [
+        {
+          "label": "UBO备案",
+          "status": "已提交"
+        },
+        {
+          "label": "ESR报告",
+          "status": "已提交"
+        },
+        {
+          "label": "企业所得税",
+          "status": "挂号的"
+        },
+        {
+          "label": "增值税申报表",
+          "status": "最新"
+        },
+        {
+          "label": "WPS 工资单",
+          "status": "合规"
+        }
+      ]
+    }
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "您需要了解的关于阿联酋合规的一切信息。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "免费合规性审计",
+      "text": "我们将审查您的业务，并指出任何合规性方面的不足。",
+      "whatsappMessage": "您好！我想为我的企业进行一次免费的合规性审计。"
+    },
+    "items": [
+      {
+        "q": "阿联酋的企业合规是什么？它为什么如此重要？",
+        "a": "在阿联酋，企业合规意味着满足各项监管要求，包括企业社会责任（ESR）、最终受益所有人（UBO）、企业所得税、增值税（VAT）、反洗钱/反恐融资（AML/CFT）以及劳动法。这能确保您的企业保持合法经营、银行账户有效，并受到法律保护。"
+      },
+      {
+        "q": "在阿联酋，哪些企业必须提交经济实质法规（ESR）？",
+        "a": "企业社会责任（ESR）适用于从事相关活动的企业，例如咨询、控股、航运、融资和知识产权。这些企业必须向财政部提交通知和企业社会责任报告。"
+      },
+      {
+        "q": "如果我错过了最终受益所有人申报截止日期会怎样？",
+        "a": "最高可面临 10 万迪拉姆的罚款、吊销执照，以及自由区或迪拜经济发展局 (DED) 的调查。我们通过准确、及时的申报，帮助您避免这些风险。"
+      },
+      {
+        "q": "自由区公司必须缴纳企业所得税吗？",
+        "a": "是的。自由区公司必须注册缴纳企业所得税。符合条件的收入可享受0%的税率；不符合条件的收入按9%的税率征税。"
+      },
+      {
+        "q": "阿联酋的小企业需要合规服务吗？",
+        "a": "当然。ESR、UBO、增值税和WPS义务适用于所有注册企业，无论其规模大小。"
+      },
+      {
+        "q": "什么是反洗钱/反恐融资合规？哪些人需要遵守？",
+        "a": "反洗钱/反恐融资。指定非金融企业（房地产、法律、会计、黄金）必须在goAML注册并任命一名合规官。"
+      },
+      {
+        "q": "什么是WPS？我该如何遵守WPS规定？",
+        "a": "工资保障体系。雇主必须通过与工资保障体系关联的银行账户支付工资，并保持符合人力资源和酋长国化部规定的记录。"
+      },
+      {
+        "q": "您愿意协助政府进行审计吗？",
+        "a": "是的。我们会准备所有文件，代表您与财政部/自由贸易协定部/人力资源部进行沟通，并确保审计顺利通过。"
+      },
+      {
+        "q": "不遵守规定的处罚是什么？",
+        "a": "罚款最高可达 50 万迪拉姆以上，吊销执照，签证被拒，银行延迟付款，董事承担个人法律责任。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与合规性相辅相成的服务。",
+    "items": [
+      {
+        "slug": "corporate-tax-vat",
+        "title": "企业所得税和增值税",
+        "description": "专业的税务咨询、FTA注册和合规服务。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      },
+      {
+        "slug": "accounting",
+        "title": "会计",
+        "description": "簿记、增值税和财务报告。",
+        "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=800&q=80",
+        "gradient": "from-violet-400 to-purple-600"
+      },
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "保持合规",
+    "title": "准备好完全合规了吗？",
+    "titleHighlight": "完全合规？",
+    "subtitle": "获取免费合规性审计。我们将找出漏洞，快速修复，并保护您的企业免受处罚。",
+    "chips": [
+      "免费审计",
+      "零罚款",
+      "完全合规"
+    ],
+    "whatsappMessage": "您好！我想为我的企业进行一次免费的合规性审计。",
+    "whatsappCardMessage": "您好！我想探讨一下我公司相关的合规问题。"
+  }
+}

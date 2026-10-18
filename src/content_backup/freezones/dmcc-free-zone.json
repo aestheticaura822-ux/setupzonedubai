@@ -1,0 +1,171 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1518684079-3c830dcef090?w=1600&q=80",
+  "heroBadge": "Dubai Means Business",
+  "heroTitle": "DMCC Free Zone",
+  "heroTitleHighlight": "Free Zone",
+  "heroSubtitle": "The world's #1 free zone. Launch your business in Dubai's flagship free zone — home to 21,000+ companies from 180 countries across commodities, crypto, tech, and finance.",
+  "heroChips": ["100% Ownership", "Zero Tax", "VARA Approved"],
+
+  "stats": [
+    { "icon": "Users", "value": "21,000+", "label": "Member Companies", "color": "from-amber-400 to-yellow-500" },
+    { "icon": "Globe", "value": "180+", "label": "Nationalities", "color": "from-yellow-400 to-amber-600" },
+    { "icon": "Award", "value": "#1", "label": "Free Zone of the Year", "color": "from-amber-500 to-orange-600" },
+    { "icon": "DollarSign", "value": "0%", "label": "Personal Income Tax", "color": "from-emerald-400 to-teal-600" }
+  ],
+
+  "whyDmccSection": {
+    "badge": "Why DMCC",
+    "title": "Why Choose DMCC Free Zone?",
+    "titleHighlight": "DMCC Free Zone?",
+    "subtitle": "Global Free Zone of the Year — recognized multiple times.",
+    "cards": [
+      { "icon": "Globe", "title": "World's #1 Free Zone", "description": "20,000+ businesses from 180 countries across crypto, commodities, tech, finance, and media.", "color": "from-amber-500 via-yellow-500 to-amber-600", "size": "large" },
+      { "icon": "MapPin", "title": "Prime JLT Location", "description": "Minutes from Dubai Marina with premium offices.", "color": "from-violet-400 to-purple-600", "size": "small" },
+      { "icon": "Landmark", "title": "Strong Banking Ties", "description": "Easier corporate account approvals with UAE banks.", "color": "from-emerald-400 to-teal-600", "size": "small" }
+    ]
+  },
+
+  "benefitsSection": {
+    "badge": "Key Benefits",
+    "title": "Benefits for Business Owners",
+    "titleHighlight": "Business Owners",
+    "subtitle": "Establishing your business in DMCC provides many advantages over competitors.",
+    "items": [
+      { "icon": "Truck", "title": "Streamlined Trade Facilitation", "description": "Export/import support with world-class logistics and customs integration across Jebel Ali Port and DXB.", "color": "from-amber-400 to-yellow-500", "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=1200&q=80" },
+      { "icon": "Gem", "title": "Specialized Commodity Zones", "description": "Dedicated zones for tea, coffee, gold, and diamonds trading — a unique ecosystem unmatched in the region.", "color": "from-yellow-400 to-amber-600", "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1200&q=80" },
+      { "icon": "Monitor", "title": "Digital Compliance Tools", "description": "Online submissions, renewals, and full digital documentation — manage everything from your dashboard.", "color": "from-amber-500 to-orange-600", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80" },
+      { "icon": "Share2", "title": "Networking & Matchmaking", "description": "Broad range of business events, forums, and matchmaking platforms to help you grow.", "color": "from-violet-400 to-purple-600", "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&q=80" }
+    ]
+  },
+
+  "licensesSection": {
+    "badge": "License Types",
+    "title": "Fit-For-Purpose Licensing",
+    "titleHighlight": "Licensing",
+    "subtitle": "Whether you're a sole operator or multinational, there's a license to suit your needs.",
+    "items": [
+      { "icon": "Store", "title": "Trading License", "description": "Designed to facilitate buying, selling, or distributing goods.", "code": "TRD", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Briefcase", "title": "Service License", "description": "For providing professional services — legal, consulting, or IT.", "code": "SRV", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Factory", "title": "Industrial License", "description": "For businesses that are light manufacturing or production-based.", "code": "IND", "color": "from-orange-400 to-amber-600" },
+      { "icon": "ShoppingCart", "title": "E-commerce License", "description": "Tailored for online retail, dropshipping, or online business models.", "code": "ECM", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "UserCheck", "title": "Freelance Permit", "description": "Allows individuals to operate legally and invoice clients as independent contractors.", "code": "FRL", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "registrationSection": {
+    "badge": "Registration Process",
+    "title": "How to Register in 6 Steps",
+    "titleHighlight": "6 Steps",
+    "subtitle": "Simple, online, and fast. We handle everything for you.",
+    "steps": [
+      { "step": "01", "title": "Document Business Activity", "description": "Select your business activity and propose your company name for approval.", "icon": "FileText", "color": "from-amber-400 to-yellow-500" },
+      { "step": "02", "title": "Choose License & Address", "description": "Select your license type and JLT office address (flexi-desk, executive, or private).", "icon": "Building2", "color": "from-yellow-400 to-amber-600" },
+      { "step": "03", "title": "Upload Application", "description": "Submit your application and identification documents through the DMCC portal.", "icon": "FileCheck", "color": "from-orange-400 to-amber-600" },
+      { "step": "04", "title": "Preliminary Approval", "description": "Receive preliminary approval and pay the license fees to proceed.", "icon": "BadgeCheck", "color": "from-emerald-400 to-teal-600" },
+      { "step": "05", "title": "Pick Up Your License", "description": "Collect your DMCC trade license and begin operating legally.", "icon": "Award", "color": "from-violet-400 to-purple-600" },
+      { "step": "06", "title": "Visas & Bank Account", "description": "Apply for establishment card, residency visas, and open a corporate bank account.", "icon": "CreditCard", "color": "from-sky-400 to-blue-600" }
+    ]
+  },
+
+  "officeSection": {
+    "badge": "Office Options",
+    "title": "Workspaces in Jumeirah Lakes Towers",
+    "titleHighlight": "Jumeirah Lakes Towers",
+    "subtitle": "Your workspace reflects your brand — choose from top-tier options in the vibrant JLT area.",
+    "items": [
+      { "icon": "Monitor", "title": "Flexi Desks", "description": "Ideal for startups and freelancers with limited office needs.", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Briefcase", "title": "Executive Offices", "description": "Fully serviced spaces with premium business amenities.", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Building2", "title": "Private Offices", "description": "Secure, customizable spaces for growing teams.", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Globe", "title": "Virtual Offices", "description": "Perfect for remote businesses needing a legal presence.", "color": "from-emerald-400 to-teal-600" }
+    ]
+  },
+
+  "globalGrowthSection": {
+    "badge": "Global Growth",
+    "title": "A Springboard for Global Growth",
+    "titleHighlight": "Global Growth",
+    "subtitle": "DMCC is more than a trading free zone — it's your launchpad to international markets.",
+    "items": [
+      { "icon": "Truck", "title": "Exports & Re-exports", "description": "Global trade facilitation through Jebel Ali Port and DXB." },
+      { "icon": "ShoppingCart", "title": "Cross-Border E-commerce", "description": "Logistics and payments infrastructure for global online retail." },
+      { "icon": "Blocks", "title": "Crypto & Blockchain", "description": "VARA-approved digital asset activities within a compliant framework." },
+      { "icon": "Gem", "title": "Gold & Diamond Trading", "description": "Specialized commodities ecosystem unmatched in the region." },
+      { "icon": "Landmark", "title": "Financial Services", "description": "Fintech and financial advisory businesses with regulatory support." },
+      { "icon": "Cpu", "title": "AI & Technology", "description": "Future-ready infrastructure for AI and emerging technology." }
+    ]
+  },
+
+  "postSetupSection": {
+    "badge": "Post-Setup Support",
+    "title": "We Go Beyond Formation",
+    "titleHighlight": "Beyond Formation",
+    "subtitle": "Company formation is just the beginning. Full suite of digital and operational services to help you scale.",
+    "items": [
+      { "icon": "Palette", "title": "Branding & Logo Design", "description": "Corporate identity and brand assets." },
+      { "icon": "MonitorPlay", "title": "Website Development", "description": "SEO-optimized websites and content strategy." },
+      { "icon": "Layers", "title": "CRM & CMS Implementation", "description": "Operations and workflow integration." },
+      { "icon": "Percent", "title": "VAT Registration", "description": "FTA compliance and ongoing filings." },
+      { "icon": "Megaphone", "title": "Social Media Setup", "description": "Profiles, automation, and campaigns." },
+      { "icon": "FileBadge", "title": "Investor Pitch Deck", "description": "Documentation for fundraising." }
+    ]
+  },
+
+  "whoShouldSection": {
+    "badge": "Who It's For",
+    "title": "Which Companies Choose DMCC?",
+    "titleHighlight": "DMCC?",
+    "items": [
+      { "icon": "Gem", "title": "Commodities Trading", "description": "Gold, diamond, tea, coffee, and precious metals.", "image": "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=800&q=80", "color": "from-amber-400 to-yellow-500" },
+      { "icon": "Blocks", "title": "Crypto & Web3", "description": "VARA-licensed crypto, exchange, and blockchain companies.", "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&q=80", "color": "from-violet-400 to-purple-600" },
+      { "icon": "Cpu", "title": "Tech & AI", "description": "Technology, AI, and digital businesses.", "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Banknote", "title": "Financial Services", "description": "Fintech, insurance, and financial advisory firms.", "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80", "color": "from-emerald-400 to-teal-600" },
+      { "icon": "Briefcase", "title": "Consultancies", "description": "Professional and management consulting firms.", "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80", "color": "from-pink-400 to-rose-600" },
+      { "icon": "Megaphone", "title": "Media & Marketing", "description": "Media, marketing, and creative agencies.", "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&q=80", "color": "from-cyan-400 to-sky-600" }
+    ]
+  },
+
+  "faqsSection": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about DMCC Free Zone. Still have questions? We're one message away.",
+    "sidebarCard": {
+      "title": "Still Have Questions?",
+      "text": "Get a free consultation with our DMCC specialists.",
+      "whatsappMessage": "Hi! I have a question about DMCC Free Zone."
+    },
+    "items": [
+      { "q": "What is DMCC Free Zone and why is it ideal for business setup in Dubai?", "a": "DMCC is considered the #1 free zone in the world, located in JLT Dubai. It has a vibrant community across commodities, crypto, consulting, trading, and professional services with simple registration, excellent legal frameworks, and world-class infrastructure." },
+      { "q": "What types of licenses are available in DMCC Free Zone?", "a": "Trading License (buying/selling goods), Service License (legal, consulting, IT), Industrial License (light manufacturing), E-commerce License (online retail), and Freelance Permit (individual contractors)." },
+      { "q": "How long does it take to register a company in DMCC Free Zone?", "a": "DMCC registration typically takes 5-7 business days for a standard application." },
+      { "q": "Can I get 100% foreign ownership for my DMCC company?", "a": "Yes. DMCC allows 100% foreign ownership — no local sponsor required." },
+      { "q": "Which industries are best suited for DMCC Free Zone?", "a": "Commodities (gold, diamond, tea, coffee), crypto and Web3, tech and AI, financial services, media, consulting, and e-commerce." },
+      { "q": "Can I open a bank account after getting a DMCC license?", "a": "Yes. DMCC has strong banking relationships which make corporate account opening easier for member companies." },
+      { "q": "Is DMCC Free Zone suitable for freelancers and small startups?", "a": "Yes. DMCC offers freelance permits and cost-effective packages including flexi-desks designed for individuals and small businesses." },
+      { "q": "What are the office options available in DMCC Free Zone?", "a": "Flexi Desks, Executive Offices, Private Offices, and Virtual Offices — all in the vibrant JLT area of Dubai." },
+      { "q": "What is the minimum cost to set up in DMCC?", "a": "DMCC company setup starts from AED 33,000 per year including membership, license, and flexi-desk. Full trading company with one visa: roughly AED 30,000 - 45,000." },
+      { "q": "Can I get a visa with a DMCC license?", "a": "Yes. DMCC allows visa quotas based on office space. A flexi-desk gives you 1 visa, while dedicated offices allow more (up to 6)." }
+    ]
+  },
+
+  "relatedServicesSection": {
+    "title": "Related Services",
+    "titleHighlight": "Services",
+    "subtitle": "Services that pair well with your Free Zone setup.",
+    "items": [
+      { "slug": "bank-account", "title": "Bank Account Opening", "description": "Open UAE business bank accounts with full KYC support.", "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80", "gradient": "from-sky-400 to-blue-600" },
+      { "slug": "compliance", "title": "Compliance Services", "description": "UBO, ESR, AML, and VAT advisory.", "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=80", "gradient": "from-cyan-400 to-blue-600" },
+      { "slug": "golden-visa", "title": "Golden Visa", "description": "10-year UAE residency for investors and talents.", "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80", "gradient": "from-amber-400 to-yellow-500" }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Today",
+    "title": "Ready to Launch in DMCC?",
+    "titleHighlight": "DMCC?",
+    "subtitle": "Get a free consultation. We'll guide you through the setup process — from activity selection to license issuance and bank account opening.",
+    "chips": ["Free Consultation", "21,000+ Clients", "5-7 Days Setup"],
+    "whatsappMessage": "Hi! I'd like a free consultation for DMCC setup.",
+    "whatsappCardMessage": "Hi! I'd like to discuss DMCC setup."
+  }
+}

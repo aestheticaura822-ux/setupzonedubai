@@ -17,6 +17,8 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import hiringData from '../../content/mainland/hiring-employee-management.json';
 import WhatsAppIcon from '../../components/icons/WhatsAppIcon';
+import { useLanguage } from '../../i18n/LanguageContext';
+import { loadContent } from '../../lib/loadContent';
 
 const iconMap: any = {
   Globe, Building2, Briefcase, Phone, MessageCircle, Clock, Users, Award,
@@ -28,7 +30,9 @@ const iconMap: any = {
 };
 
 export default function HiringEmployeeManagement({ tinaData }: { tinaData?: any }) {
-  const data = tinaData?.data?.mainland || hiringData;
+  const { language } = useLanguage();
+  const hiringFallback = loadContent('mainland/hiring-employee-management', language);
+  const data = tinaData?.data?.mainland || hiringFallback;
   const [activeIndustry, setActiveIndustry] = useState(0);
   const [openFaq, setOpenFaq] = useState<number | null>(0);
 

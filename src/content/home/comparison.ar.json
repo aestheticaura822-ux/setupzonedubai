@@ -1,0 +1,142 @@
+{
+  "badge": "قم بتنظيم أعمالك بذكاء",
+  "heading": {
+    "line1": "ما هو الأفضل لك؟",
+    "highlight": "منطقة حرة أم بر رئيسي؟"
+  },
+  "subtitle": "يعتمد الهيكل الأمثل للشركة على مكان العمل المخطط له، وعدد التأشيرات المطلوبة، والميزانية المتاحة. إليك ملخص سريع.",
+  "vsLabel": "مقابل",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "المنطقة الحرة",
+      "short": "منطقة حرة",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "دولي",
+      "tagline": "الأفضل للشركات العالمية",
+      "bestFor": "التجارة الدولية، الخدمات الإلكترونية، الاستشارات",
+      "highlight": "ملكية كاملة، مزايا ضريبية، لا رسوم جمركية",
+      "limitation": "تأشيرات محدودة بناءً على حجم المكتب",
+      "ctaText": "استكشف إعداد المنطقة الحرة",
+      "whatsappMessage": "مرحباً! أنا مهتم بتأسيس شركة في منطقة حرة في دبي.",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "البر الرئيسى",
+      "short": "ML",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "السوق المحلي",
+      "tagline": "الأفضل للنمو المحلي",
+      "bestFor": "تجارة التجزئة المحلية، والبناء، والمطاعم، والوكالات",
+      "highlight": "إمكانية الوصول الكامل إلى سوق الإمارات العربية المتحدة، بدون قيود تجارية",
+      "limitation": "زيادة شروط الحصول على التأشيرة تتطلب مساحة مكتبية أكبر",
+      "ctaText": "استكشف إعدادات البر الرئيسي",
+      "whatsappMessage": "مرحباً! أنا مهتم بتأسيس شركة في البر الرئيسي في دبي.",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "الأفضل لـ",
+  "tableHeaders": {
+    "features": "سمات",
+    "freezone": "المنطقة الحرة",
+    "mainland": "البر الرئيسى"
+  },
+  "features": [
+    {
+      "icon": "Wallet",
+      "label": "ملكية",
+      "freezone": {
+        "value": "100%",
+        "score": 100
+      },
+      "mainland": {
+        "value": "100%",
+        "score": 100
+      }
+    },
+    {
+      "icon": "TrendingUp",
+      "label": "المزايا الضريبية",
+      "freezone": {
+        "value": "0% - 9%",
+        "score": 90
+      },
+      "mainland": {
+        "value": "0% - 9%",
+        "score": 85
+      }
+    },
+    {
+      "icon": "Target",
+      "label": "الوصول إلى سوق الإمارات العربية المتحدة",
+      "freezone": {
+        "value": "محدود",
+        "score": 40
+      },
+      "mainland": {
+        "value": "ممتلىء",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Users",
+      "label": "شروط الحصول على التأشيرة",
+      "freezone": {
+        "value": "محدود",
+        "score": 60
+      },
+      "mainland": {
+        "value": "عالي",
+        "score": 90
+      }
+    },
+    {
+      "icon": "Landmark",
+      "label": "التجارة المحلية",
+      "freezone": {
+        "value": "مقيد",
+        "score": 30
+      },
+      "mainland": {
+        "value": "غير محدود",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Zap",
+      "label": "سرعة الإعداد",
+      "freezone": {
+        "value": "3-7 أيام",
+        "score": 95
+      },
+      "mainland": {
+        "value": "من أسبوعين إلى أربعة أسابيع",
+        "score": 50
+      }
+    }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "ما زلت غير متأكد من أيهما تختار؟",
+    "subtitle": "احصل على استشارة مجانية. سنقوم بتحليل نشاطك التجاري ونوصي بأفضل هيكل يناسبك.",
+    "primaryCta": "تحدث إلى خبير",
+    "secondaryCta": "اتصل بنا",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "مرحباً! أحتاج للمساعدة في الاختيار بين المنطقة الحرة والبر الرئيسي. هل يمكننا مناقشة الأمر؟",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

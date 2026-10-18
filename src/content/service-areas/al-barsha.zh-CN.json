@@ -1,0 +1,231 @@
+{
+  "areaName": "阿尔巴尔沙",
+  "areaShort": "阿尔巴尔沙",
+  "heroImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1600&q=80",
+  "heroBadge": "服务区域",
+  "heroTitle": "在阿尔巴沙设立公司",
+  "heroTitleHighlight": "阿尔巴尔沙",
+  "heroSubtitle": "阿尔巴沙是迪拜一个成熟的住宅和商业区，以其毗邻迪拜互联网城、媒体城和阿联酋购物中心而闻名。在阿尔巴沙设立企业可享受便捷的交通和蓬勃发展的商业环境。",
+  "stats": [
+    {
+      "icon": "Building2",
+      "value": "250+",
+      "label": "公司设立",
+      "color": "from-cyan-400 to-sky-600"
+    },
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-sky-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "所有权",
+      "color": "from-blue-400 to-indigo-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "5,999 迪拉姆",
+      "label": "从",
+      "color": "from-indigo-400 to-violet-600"
+    }
+  ],
+  "whyChooseSection": {
+    "badge": "为什么选择阿尔巴沙？",
+    "title": "蓬勃发展的商业社区",
+    "titleHighlight": "商业社区",
+    "image": "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200&q=80",
+    "imageBadgeTitle": "地点",
+    "imageBadgeText": "迪拜阿尔巴沙",
+    "paragraph": "阿尔巴沙为各种规模的企业提供了卓越的优势。凭借世界一流的基础设施、优越的地理位置和完善的商业生态系统，这里是您在迪拜设立公司的理想之地。",
+    "items": [
+      {
+        "icon": "MapPin",
+        "title": "黄金地段",
+        "desc": "迪拜交通便利，四通八达。"
+      },
+      {
+        "icon": "Users",
+        "title": "人才库",
+        "desc": "接触多元化专业人才的机会"
+      },
+      {
+        "icon": "Layers",
+        "title": "基础设施",
+        "desc": "世界一流的设施和服务"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "商业社区",
+        "desc": "全球公司蓬勃发展的生态系统"
+      },
+      {
+        "icon": "Zap",
+        "title": "交通连接",
+        "desc": "靠近主要地铁和高速公路"
+      }
+    ]
+  },
+  "servicesSection": {
+    "badge": "我们的服务",
+    "title": "阿尔巴沙的商业设立服务",
+    "titleHighlight": "阿尔巴尔沙",
+    "subtitle": "为您的阿联酋业务提供完整的端到端解决方案。",
+    "items": [
+      {
+        "icon": "Globe",
+        "title": "自由区公司注册",
+        "desc": "在最合适的自由区设立公司——100% 所有权，零企业所得税，利润全额汇回。",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "icon": "Building2",
+        "title": "大陆公司成立",
+        "desc": "持阿联酋本土许可证即可直接在阿联酋市场进行贸易。我们负责所有DED文件和许可证办理事宜。",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "迪拜贸易许可证",
+        "desc": "快速获得商业、专业或工业贸易许可证，并完全符合监管规定。",
+        "color": "from-blue-400 to-indigo-600"
+      },
+      {
+        "icon": "Users",
+        "title": "签证办理及专业服务",
+        "desc": "投资者签证、雇员签证和家属签证——我们负责体检、阿联酋身份证和签证盖章。",
+        "color": "from-indigo-400 to-violet-600"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "公司银行账户开立",
+        "desc": "在阿联酋领先的银行开设企业银行账户——我们负责处理文件和KYC（了解你的客户）事宜。",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "FileText",
+        "title": "会计及税务服务",
+        "desc": "遵守阿联酋企业所得税和增值税规定——记账、增值税申报和报告。",
+        "color": "from-purple-400 to-fuchsia-600"
+      }
+    ]
+  },
+  "packagesSection": {
+    "badge": "定价",
+    "title": "我们的企业设立套餐",
+    "titleHighlight": "包裹",
+    "subtitle": "透明、全包式的公司设立套餐，起价：",
+    "items": [
+      {
+        "name": "自由区许可证",
+        "price": "5,999 迪拉姆",
+        "note": "无居住权",
+        "color": "from-cyan-400 to-sky-600"
+      },
+      {
+        "name": "自由区许可证 + 居留权",
+        "price": "11,999 迪拉姆",
+        "note": "拥有阿联酋居留权",
+        "color": "from-sky-400 to-blue-600"
+      },
+      {
+        "name": "大陆驾照+居住地",
+        "price": "16,999 迪拉姆",
+        "note": "大陆 + 居住地",
+        "color": "from-blue-400 to-indigo-600"
+      }
+    ]
+  },
+  "whyChooseUsSection": {
+    "badge": "为什么选择我们",
+    "title": "为什么选择 SetupZoneDubai？",
+    "titleHighlight": "SetupZoneDubai",
+    "items": [
+      "端到端的业务设立支持",
+      "精通迪拜自由区和迪拜大陆地区的法规",
+      "价格透明，无任何隐藏费用",
+      "专属客户经理",
+      "授权后支持——专业版、会计和合规性",
+      "快速办理——3-5个工作日内即可获得驾照"
+    ]
+  },
+  "areaFaqsSection": {
+    "badge": "区域常见问题解答",
+    "title": "关于在阿尔巴沙设立公司的常见问题",
+    "titleHighlight": "在阿尔巴沙设立公司",
+    "items": [
+      {
+        "q": "在阿尔巴沙设立一家公司需要多长时间？",
+        "a": "大多数企业可在 3-5 个工作日内完成注册并开始运营，具体时间取决于许可证类型和所需审批。"
+      },
+      {
+        "q": "外国人可以在阿尔巴沙区开办企业吗？",
+        "a": "是的，外国人可以在迪拜自由区设立公司，并拥有100%的所有权。根据业务活动的不同，迪拜本土公司可能需要当地担保人。"
+      },
+      {
+        "q": "我需要亲自到迪拜吗？",
+        "a": "大部分注册流程都可以远程完成。我们的团队会代表您处理文书工作和政府提交材料。"
+      },
+      {
+        "q": "我可以在阿尔巴沙设立哪些类型的企业？",
+        "a": "根据您选择的许可证类型，您可以在迪拜设立商业、专业、工业、电子商务和自由职业企业。"
+      }
+    ]
+  },
+  "quickAnswersSection": {
+    "badge": "快速解答",
+    "title": "快速解答",
+    "titleHighlight": "答案",
+    "subtitle": "关于在迪拜设立公司的常见问题。还有其他疑问？欢迎随时联系我们。",
+    "relatedServicesTitle": "相关服务与指南",
+    "items": [
+      {
+        "q": "在迪拜创业需要多少成本？",
+        "a": "在迪拜设立公司，基本自由区许可证的起价为 9,500 迪拉姆。在阿联酋大陆设立公司的起价为 14,500 迪拉姆。"
+      },
+      {
+        "q": "外国人可以在迪拜拥有100%的公司所有权吗？",
+        "a": "是的，外国人可以在大多数自由区和大陆的许多行业中拥有100%的公司所有权。"
+      },
+      {
+        "q": "迪拜最便宜的自由区是哪个？",
+        "a": "RAK ICC、Ajman FTZ 和 SRTIP 提供最实惠的套餐，起价为 5,900 迪拉姆。"
+      },
+      {
+        "q": "在迪拜注册公司需要多长时间？",
+        "a": "自由贸易区注册需要3-7个工作日，大陆地区注册需要2-4周。"
+      },
+      {
+        "q": "我需要在迪拜寻找当地合作伙伴吗？",
+        "a": "自由区除外。在中国大陆，许多行业现在允许外商100%控股。"
+      }
+    ],
+    "relatedServices": [
+      {
+        "icon": "Building2",
+        "title": "JVC的业务设立",
+        "desc": "探索 JVC 中的设置选项",
+        "color": "from-cyan-400 to-sky-600",
+        "link": "/service-areas/jvc"
+      },
+      {
+        "icon": "FileText",
+        "title": "在迪拜码头注册公司",
+        "desc": "迪拜码头建设指南",
+        "color": "from-sky-400 to-blue-600",
+        "link": "/service-areas/dubai-marina"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "准备开始吗？",
+    "title": "准备在阿尔巴沙创业吗？",
+    "titleHighlight": "阿尔巴尔沙",
+    "subtitle": "立即联系我们专业的公司设立团队，获取免费咨询。我们将指导您完成公司注册流程的每一步，并帮助您选择最适合您业务的司法管辖区。",
+    "primaryCta": "立即联系我们",
+    "secondaryCta": "+971 56 655 6645",
+    "whatsappMessage": "您好！我想在阿尔巴沙设立我的公司。"
+  }
+}

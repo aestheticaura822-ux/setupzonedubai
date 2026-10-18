@@ -1,0 +1,470 @@
+{
+    "heroImage":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1600\u0026q=80",
+    "heroBadge":  "Votre partenaire de confiance aux Émirats arabes unis",
+    "heroTitle":  "Partenaire commercial local des Émirats arabes unis",
+    "heroTitleHighlight":  "Partenaire commercial",
+    "heroSubtitle":  "Sécurisez votre activité en France métropolitaine avec un partenaire local fiable. Protection juridique complète, contrôle opérationnel total et frais annuels fixes "“ sans partage des bénéfices.",
+    "heroChips":  [
+                      "Contrôle total",
+                      "Frais annuels fixes",
+                      "Protection juridique",
+                      "Pas de partage des bénéfices"
+                  ],
+    "stats":  [
+                  {
+                      "icon":  "Pour cent",
+                      "value":  "51/49",
+                      "label":  "Division juridique",
+                      "color":  "du ciel 400 au bleu 600"
+                  },
+                  {
+                      "icon":  "Globe",
+                      "value":  "100%",
+                      "label":  "Contrôle (par le biais d\u0027accords)",
+                      "color":  "du bleu 400 À  l\u0027indigo 600"
+                  },
+                  {
+                      "icon":  "Signe du dollar",
+                      "value":  "Fixé",
+                      "label":  "Frais annuels",
+                      "color":  "de l\u0027indigo 400 au violet 600"
+                  },
+                  {
+                      "icon":  "Bouclier",
+                      "value":  "0%",
+                      "label":  "Partage des bénéfices",
+                      "color":  "de violet 400 À  pourpre 600"
+                  }
+              ],
+    "whatIsSection":  {
+                          "badge":  "Comprendre la configuration",
+                          "title":  "Qu\u0027est-ce qu\u0027un partenaire commercial local ?",
+                          "titleHighlight":  "Partenaire commercial local ?",
+                          "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                          "imageBadgeTitle":  "Associé juridique",
+                          "imageBadgeText":  "Installation sur le continent",
+                          "paragraphs":  [
+                                             "Un partenaire commercial local (également appelé sponsor local) est un ressortissant des Émirats arabes unis ou une société appartenant aux Émirats arabes unis détenant 51 % des parts d\u0027une entreprise du continent, tandis que l\u0027investisseur étranger en détient 49 %.",
+                                             "Ce dispositif s\u0027applique À  certaines activités commerciales et industrielles sur le territoire continental des Émirats arabes unis. Contrairement au parrainage individuel, le parrainage par une entreprise offre un cadre juridique plus professionnel et des contrats contraignants.",
+                                             "Grâce À  des accords de prête-nom et des conventions parallèles structurés, vous conservez légalement le contrôle total de vos opérations commerciales, de vos finances et de vos prises de décision. Il s\u0027agit d\u0027un moyen efficace et conforme À  la réglementation d\u0027accéder À  l\u0027économie de Dubaï."
+                                         ],
+                          "highlights":  [
+                                             "Entité corporative",
+                                             "Accord de candidat",
+                                             "Procuration",
+                                             "Accords annexes",
+                                             "Frais annuels fixes",
+                                             "Conforme À  la loi"
+                                         ]
+                      },
+    "partnerTypesSection":  {
+                                "badge":  "Types de partenaires",
+                                "title":  "Types de partenaires locaux",
+                                "titleHighlight":  "Partenaires locaux",
+                                "subtitle":  "Faites défiler les 3 types de partenaires et choisissez celui qui convient le mieux À  votre entreprise.",
+                                "items":  [
+                                              {
+                                                  "id":  "entreprise",
+                                                  "icon":  "Bâtiment 2",
+                                                  "title":  "Sponsor corporatif",
+                                                  "tagline":  "Société détenue par les Émirats arabes unis",
+                                                  "description":  "Une société basée aux Émirats arabes unis (détenue À  100 % par des Émiratis) détient 51 % des parts de votre entreprise en Chine continentale. Elle fournit une structure juridique professionnelle, des contrats contraignants et des accords de prête-nom vous permettant de garder le contrôle total.",
+                                                  "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=1200\u0026q=80",
+                                                  "color":  "du ciel 500 au bleu 700",
+                                                  "features":  [
+                                                                   "Structure juridique professionnelle",
+                                                                   "Contrats exécutoires",
+                                                                   "Dispositifs de désignation",
+                                                                   "Contrôle opérationnel total"
+                                                               ],
+                                                  "bestFor":  "Activités commerciales et industrielles"
+                                              },
+                                              {
+                                                  "id":  "individuel",
+                                                  "icon":  "Icône utilisateur",
+                                                  "title":  "Parrain individuel",
+                                                  "tagline":  "Ressortissant émirati",
+                                                  "description":  "Un ressortissant émirati détient 51 % des actions À  titre personnel. Ce type d\u0027investissement s\u0027apparente À  un parrainage d\u0027entreprise, mais concerne une personne physique et non une société. Il exige des vérifications approfondies des antécédents et des garanties juridiques.",
+                                                  "image":  "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=1200\u0026q=80",
+                                                  "color":  "de bleu 500 À  indigo 700",
+                                                  "features":  [
+                                                                   "Émirati",
+                                                                   "51 % des actions légales",
+                                                                   "Accords annexes",
+                                                                   "Protection du mandataire"
+                                                               ],
+                                                  "bestFor":  "Activités commerciales"
+                                              },
+                                              {
+                                                  "id":  "lsa",
+                                                  "icon":  "Poignée de main",
+                                                  "title":  "Agent de service local",
+                                                  "tagline":  "Aucun associé en capital",
+                                                  "description":  "Un ressortissant émirati ou une société détenue aux Émirats arabes unis assure la liaison administrative avec les ministères. Aucune action n\u0027est détenue ; vous conservez 100 % de la propriété. Cette démarche est requise pour les licences professionnelles et les succursales.",
+                                                  "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200\u0026q=80",
+                                                  "color":  "de l\u0027indigo 500 au violet 700",
+                                                  "features":  [
+                                                                   "Zéro capital",
+                                                                   "Propriété étrangère À  100 %",
+                                                                   "Liaison administrative",
+                                                                   "Frais annuels fixes"
+                                                               ],
+                                                  "bestFor":  "Services professionnels et succursales"
+                                              }
+                                          ]
+                            },
+    "benefitsSection":  {
+                            "badge":  "Pourquoi un partenaire local ?",
+                            "title":  "Avantages d\u0027un partenariat local",
+                            "titleHighlight":  "Partenariat local",
+                            "subtitle":  "Six atouts majeurs pour votre entreprise sur le continent.",
+                            "items":  [
+                                          {
+                                              "icon":  "Globe",
+                                              "title":  "Accès complet au marché",
+                                              "description":  "Opérez dans les sept Émirats sans aucune restriction géographique "” accédez au marché local des Émirats arabes unis, aux contrats gouvernementaux et aux clients B2B/B2C.",
+                                              "color":  "du ciel 400 au bleu 600"
+                                          },
+                                          {
+                                              "icon":  "Point de repère",
+                                              "title":  "Contrats gouvernementaux",
+                                              "description":  "Soumissionner aux appels d\u0027offres gouvernementaux et aux projets du secteur public "” un avantage majeur dont les entreprises des zones franches ne disposent pas.",
+                                              "color":  "du bleu 400 À  l\u0027indigo 600"
+                                          },
+                                          {
+                                              "icon":  "Bouclier",
+                                              "title":  "Protection juridique",
+                                              "description":  "Structure juridique complète avec protocole d\u0027accord, accords annexes, procuration et accords de mandataire "“ tous notariés et juridiquement contraignants.",
+                                              "color":  "de l\u0027indigo 400 au violet 600"
+                                          },
+                                          {
+                                              "icon":  "Portefeuille",
+                                              "title":  "Rétention des bénéfices À  100 %",
+                                              "description":  "Grâce À  des accords juridiques annexes, vous conservez 100 % des bénéfices. Le sponsor ne perÀ§oit qu\u0027une redevance annuelle fixe, sans aucune part des revenus.",
+                                              "color":  "de violet 400 À  pourpre 600"
+                                          },
+                                          {
+                                              "icon":  "Marteau",
+                                              "title":  "Contrôle opérationnel total",
+                                              "description":  "La procuration vous confère le pouvoir de décision exclusif sur toutes les questions commerciales "“ sans ingérence du commanditaire.",
+                                              "color":  "du violet 400 au fuchsia 600"
+                                          },
+                                          {
+                                              "icon":  "RefreshCw",
+                                              "title":  "Voie vers la propriété À  100 %",
+                                              "description":  "L\u0027évolution de la législation des Émirats arabes unis autorise désormais la propriété étrangère À  100 % de nombreuses activités. Nous vous accompagnons dans la conversion de votre licence lorsque vous remplissez les conditions requises.",
+                                              "color":  "de fuchsia-400 À  rose-600"
+                                          }
+                                      ]
+                        },
+    "legalProtectionSection":  {
+                                   "badge":  "Protection juridique",
+                                   "title":  "Comment nous protégeons vos intérêts",
+                                   "titleHighlight":  "Protégez vos intérêts",
+                                   "subtitle":  "Six garanties juridiques pour une tranquillité d\u0027esprit totale.",
+                                   "items":  [
+                                                 {
+                                                     "icon":  "Défilement du texte",
+                                                     "title":  "Rédaction de protocoles d\u0027accord",
+                                                     "desc":  "Statuts rédigés conformément À  la législation des Émirats arabes unis tout en protégeant vos droits.",
+                                                     "color":  "du ciel 400 au bleu 600"
+                                                 },
+                                                 {
+                                                     "icon":  "Poignée de main",
+                                                     "title":  "Accord de propriété effective",
+                                                     "desc":  "Documents juridiques privés confirmant que vous êtes le seul et unique bénéficiaire effectif.",
+                                                     "color":  "du bleu 400 À  l\u0027indigo 600"
+                                                 },
+                                                 {
+                                                     "icon":  "Marteau",
+                                                     "title":  "Procuration commerciale",
+                                                     "desc":  "Procuration notariée vous donnant le contrôle exclusif de toutes les décisions commerciales et des comptes bancaires.",
+                                                     "color":  "de l\u0027indigo 400 au violet 600"
+                                                 },
+                                                 {
+                                                     "icon":  "Bouclier",
+                                                     "title":  "Accord de limitation du parrainage",
+                                                     "desc":  "Clauses interdisant légalement au sponsor de s\u0027immiscer dans vos opérations commerciales.",
+                                                     "color":  "de violet 400 À  pourpre 600"
+                                                 },
+                                                 {
+                                                     "icon":  "Billet de banque",
+                                                     "title":  "Frais annuels fixes",
+                                                     "desc":  "Le sponsor perÀ§oit des frais annuels fixes "” sans aucune part des bénéfices, des revenus ou des dépenses.",
+                                                     "color":  "du violet 400 au fuchsia 600"
+                                                 },
+                                                 {
+                                                     "icon":  "Vérification de fichiers",
+                                                     "title":  "Documents notariés",
+                                                     "desc":  "Tous les documents sont signés et notariés, garantissant une clarté totale et une sécurité juridique optimale.",
+                                                     "color":  "de fuchsia-400 À  rose-600"
+                                                 }
+                                             ]
+                               },
+    "processSection":  {
+                           "badge":  "Processus en 6 étapes",
+                           "title":  "Comment nous sécurisons votre entreprise",
+                           "titleHighlight":  "Sécurisez votre entreprise",
+                           "subtitle":  "Six étapes simples pour une entreprise continentale entièrement protégée.",
+                           "steps":  [
+                                         {
+                                             "step":  "01",
+                                             "icon":  "Cible",
+                                             "title":  "Évaluation de l\u0027activité",
+                                             "description":  "Nous déterminons si votre activité commerciale nécessite un partenaire local, un sponsor d\u0027entreprise ou un agent de service local.",
+                                             "color":  "du ciel 400 au bleu 600"
+                                         },
+                                         {
+                                             "step":  "02",
+                                             "icon":  "UserPlus",
+                                             "title":  "Sélection des partenaires",
+                                             "description":  "Nous vous mettons en relation avec un partenaire ou un sponsor d\u0027entreprise émirati fiable et vérifié, ayant fait ses preuves.",
+                                             "color":  "du bleu 400 À  l\u0027indigo 600"
+                                         },
+                                         {
+                                             "step":  "03",
+                                             "icon":  "Signature du fichier",
+                                             "title":  "Documentation juridique",
+                                             "description":  "Rédaction et légalisation des protocoles d\u0027accord, des accords annexes, des procurations et des accords de désignation de mandataire afin de protéger vos intérêts.",
+                                             "color":  "de l\u0027indigo 400 au violet 600"
+                                         },
+                                         {
+                                             "step":  "04",
+                                             "icon":  "Défilement du texte",
+                                             "title":  "Demande de licence",
+                                             "description":  "Nous déposons votre demande de licence commerciale auprès du DED et coordonnons toutes les approbations gouvernementales.",
+                                             "color":  "de violet 400 À  pourpre 600"
+                                         },
+                                         {
+                                             "step":  "05",
+                                             "icon":  "Vérification du presse-papiers",
+                                             "title":  "Compte bancaire professionnel",
+                                             "description":  "Assistance pour l\u0027ouverture de votre compte bancaire professionnel auprès des meilleures banques des Émirats arabes unis.",
+                                             "color":  "du violet 400 au fuchsia 600"
+                                         },
+                                         {
+                                             "step":  "06",
+                                             "icon":  "RefreshCw",
+                                             "title":  "Soutien continu",
+                                             "description":  "Renouvellements de licences, services PRO, conformité et future conversion À  une propriété À  100 % lorsque les conditions seront remplies.",
+                                             "color":  "de fuchsia-400 À  rose-600"
+                                         }
+                                     ]
+                       },
+    "requirementsSection":  {
+                                "badge":  "Exigences clés",
+                                "title":  "Ce que vous devez savoir",
+                                "titleHighlight":  "À€ savoir",
+                                "items":  [
+                                              {
+                                                  "icon":  "Pour cent",
+                                                  "title":  "51% Part légale",
+                                                  "description":  "Le partenaire local détient 51 % des parts légales tandis que vous conservez 49 % sur le papier.",
+                                                  "color":  "du ciel 400 au bleu 600"
+                                              },
+                                              {
+                                                  "icon":  "Signature du fichier",
+                                                  "title":  "Accords annexes",
+                                                  "description":  "Les accords légaux vous garantissent de conserver le contrôle total et les bénéfices.",
+                                                  "color":  "du bleu 400 À  l\u0027indigo 600"
+                                              },
+                                              {
+                                                  "icon":  "Signe du dollar",
+                                                  "title":  "Frais annuels fixes",
+                                                  "description":  "Le sponsor versait un montant fixe annuel "“ sans participation aux bénéfices.",
+                                                  "color":  "de l\u0027indigo 400 au violet 600"
+                                              },
+                                              {
+                                                  "icon":  "RefreshCw",
+                                                  "title":  "Options de sortie",
+                                                  "description":  "Transfert flexible, changement de sponsor ou conversion À  100 % de la propriété.",
+                                                  "color":  "de violet 400 À  pourpre 600"
+                                              }
+                                          ]
+                            },
+    "whyChooseUsSection":  {
+                               "badge":  "Pourquoi nous choisir ?",
+                               "title":  "Votre partenaire local de confiance",
+                               "titleHighlight":  "Partenaire local",
+                               "items":  [
+                                             {
+                                                 "icon":  "Vérification du bouclier",
+                                                 "label":  "Partenaires fiables",
+                                                 "desc":  "Sponsors émiratis vérifiés avec des antécédents éprouvés"
+                                             },
+                                             {
+                                                 "icon":  "Vérification de fichiers",
+                                                 "label":  "Documentation juridique",
+                                                 "desc":  "Tous les accords sont notariés et juridiquement contraignants."
+                                             },
+                                             {
+                                                 "icon":  "Signe du dollar",
+                                                 "label":  "Tarification transparente",
+                                                 "desc":  "Aucuns frais ni commissions cachés"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "label":  "Équipe multilingue",
+                                                 "desc":  "Anglais, arabe, hindi, ourdou"
+                                             },
+                                             {
+                                                 "icon":  "Zap",
+                                                 "label":  "Approbation rapide",
+                                                 "desc":  "Réseau direct DED et gouvernemental"
+                                             },
+                                             {
+                                                 "icon":  "RefreshCw",
+                                                 "label":  "Soutien continu",
+                                                 "desc":  "Renouvellements, PRO et assistance À  la conversion"
+                                             },
+                                             {
+                                                 "icon":  "Utilisateurs",
+                                                 "label":  "Des milliers de personnes nous font confiance",
+                                                 "desc":  "Expérience avérée en matière d\u0027installations réussies"
+                                             },
+                                             {
+                                                 "icon":  "Couronne",
+                                                 "label":  "Partenariat À  long terme",
+                                                 "desc":  "Nous protégeons votre avenir, pas seulement votre installation."
+                                             }
+                                         ]
+                           },
+    "growthStatsSection":  {
+                               "badge":  "Perspectives de croissance des entreprises",
+                               "title":  "Des milliers de personnes nous font confiance",
+                               "titleHighlight":  "Des milliers",
+                               "subtitle":  "La protection de votre entreprise, entre des mains d\u0027experts.",
+                               "items":  [
+                                             {
+                                                 "icon":  "Bâtiment 2",
+                                                 "value":  "Plus de 10 000",
+                                                 "label":  "Sociétés créées",
+                                                 "color":  "du ciel 400 au bleu 600"
+                                             },
+                                             {
+                                                 "icon":  "Globe",
+                                                 "value":  "100%",
+                                                 "label":  "Contrôle préservé",
+                                                 "color":  "du bleu 400 À  l\u0027indigo 600"
+                                             },
+                                             {
+                                                 "icon":  "Tendances À  la hausse",
+                                                 "value":  "Menant",
+                                                 "label":  "Expert en parrainage",
+                                                 "color":  "de l\u0027indigo 400 au violet 600"
+                                             },
+                                             {
+                                                 "icon":  "Signe du dollar",
+                                                 "value":  "Fixé",
+                                                 "label":  "Frais annuels",
+                                                 "color":  "de violet 400 À  pourpre 600"
+                                             },
+                                             {
+                                                 "icon":  "Vérification du bouclier",
+                                                 "value":  "100%",
+                                                 "label":  "Conforme",
+                                                 "color":  "du violet 400 au fuchsia 600"
+                                             },
+                                             {
+                                                 "icon":  "Couronne",
+                                                 "value":  "Préféré",
+                                                 "label":  "Partenaire",
+                                                 "color":  "de fuchsia-400 À  rose-600"
+                                             }
+                                         ]
+                           },
+    "faqsSection":  {
+                        "badge":  "Questions fréquentes",
+                        "title":  "Foire aux questions",
+                        "titleHighlight":  "Questions",
+                        "subtitle":  "Tout ce que vous devez savoir sur les partenaires commerciaux locaux aux Émirats arabes unis. Vous avez encore des questions ? N\u0027hésitez pas À  nous contacter.",
+                        "sidebarCard":  {
+                                            "title":  "Vous avez encore des questions ?",
+                                            "text":  "Obtenez une consultation gratuite avec nos spécialistes partenaires locaux.",
+                                            "whatsappMessage":  "Bonjour ! J\u0027ai une question concernant les partenaires commerciaux locaux aux Émirats arabes unis."
+                                        },
+                        "items":  [
+                                      {
+                                          "q":  "Un partenaire commercial local est-il obligatoire pour toutes les entreprises À  Dubaï ?",
+                                          "a":  "Non. Depuis les réformes de 2021, la plupart des activités commerciales en Chine continentale permettent une détention À  100 % par des étrangers. La présence de sponsors locaux n\u0027est requise que pour certaines activités commerciales ou industrielles. Les entreprises de services professionnels et celles situées en zone franche peuvent bénéficier d\u0027une détention À  100 %."
+                                      },
+                                      {
+                                          "q":  "Quelle est la différence entre un partenaire local et un agent de service local ?",
+                                          "a":  "Un partenaire local (sponsor) détient 51 % des parts légales de votre entreprise. Un agent de service local (ASL) ne détient aucune part ; il assure uniquement la liaison administrative avec les ministères, moyennant des frais annuels fixes."
+                                      },
+                                      {
+                                          "q":  "Puis-je conserver un contrôle total avec un partenaire local ?",
+                                          "a":  "Oui. Grâce À  des conventions de mandataire, des procurations et des accords annexes structurés, vous conservez un contrôle opérationnel, financier et de gestion total. Le commanditaire est un partenaire silencieux, sans aucune implication."
+                                      },
+                                      {
+                                          "q":  "Combien coûte un partenaire local ?",
+                                          "a":  "Les frais de parrainage d\u0027entreprise varient généralement de 8 000 À  20 000 AED par an, selon l\u0027étendue des services et la notoriété du sponsor. Il s\u0027agit d\u0027un montant fixe, sans partage des bénéfices."
+                                      },
+                                      {
+                                          "q":  "Que se passe-t-il si je souhaite me retirer ou transférer la propriété ?",
+                                          "a":  "Nous proposons des options de sortie et de transfert flexibles : vendez votre entreprise, accueillez un nouveau partenaire, transférez votre parrainage ou passez À  une propriété À  100 % si la loi le permet."
+                                      },
+                                      {
+                                          "q":  "Le sponsor va-t-il interférer dans mes activités commerciales ?",
+                                          "a":  "Non. Notre accord de limitation de participation interdit légalement toute ingérence. Le sponsor est un partenaire silencieux sans accès aux opérations, aux finances ni À  la prise de décision."
+                                      },
+                                      {
+                                          "q":  "Puis-je acquérir 100 % des parts À  l\u0027avenir ?",
+                                          "a":  "Oui. L\u0027évolution de la législation des Émirats arabes unis permet désormais À  de nombreuses activités d\u0027être entièrement détenues par des étrangers. Nous assurons une veille juridique et vous accompagnons dans la conversion de votre licence lorsque vous remplissez les conditions requises, en supprimant le sponsor et en mettant À  jour vos documents."
+                                      },
+                                      {
+                                          "q":  "Quels documents juridiques protègent mes intérêts ?",
+                                          "a":  "Les documents essentiels comprennent le protocole d\u0027accord, la convention de bénéficiaire effectif, la procuration et la convention de limitation du parrainage. Tous ces documents sont notariés et juridiquement contraignants."
+                                      },
+                                      {
+                                          "q":  "Le fait d\u0027avoir un sponsor local facilite-t-il l\u0027obtention des autorisations gouvernementales ?",
+                                          "a":  "Oui. Nos entreprises partenaires établies contribuent À  accélérer l\u0027obtention des licences DED, des renouvellements, des approbations municipales, des autorisations de protection civile et des approbations réglementaires de l\u0027industrie."
+                                      },
+                                      {
+                                          "q":  "Pourquoi choisir Setup Zone Dubai pour les services de partenaires locaux ?",
+                                          "a":  "Nous mettons À  votre disposition des partenaires émiratis de confiance, une documentation juridique complète, une tarification transparente et un accompagnement de A À  Z. Forts d\u0027une expérience éprouvée et d\u0027un accès direct aux autorités gouvernementales, nous vous garantissons une mise en place rapide, conforme et sécurisée."
+                                      }
+                                  ]
+                    },
+    "relatedServicesSection":  {
+                                   "title":  "Services connexes",
+                                   "titleHighlight":  "Services",
+                                   "subtitle":  "Des services qui s\u0027accordent bien avec un partenaire commercial local.",
+                                   "items":  [
+                                                 {
+                                                     "slug":  "local-corporate-sponsor",
+                                                     "title":  "Sponsor corporatif local",
+                                                     "description":  "Obtenez un contrôle total grâce À  un sponsor de confiance.",
+                                                     "image":  "https://images.unsplash.com/photo-1546412414-e1885259563a?w=800\u0026q=80",
+                                                     "gradient":  "du ciel 400 au bleu 600"
+                                                 },
+                                                 {
+                                                     "slug":  "mainland-company-formation",
+                                                     "title":  "Création d\u0027une société sur le continent",
+                                                     "description":  "Accès complet au marché des Émirats arabes unis avec la licence DET.",
+                                                     "image":  "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800\u0026q=80",
+                                                     "gradient":  "du bleu 400 À  l\u0027indigo 600"
+                                                 },
+                                                 {
+                                                     "slug":  "company-formation",
+                                                     "title":  "Création d\u0027entreprise À  Dubaï",
+                                                     "description":  "Zone franche, structures continentales et offshore.",
+                                                     "image":  "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800\u0026q=80",
+                                                     "gradient":  "de l\u0027indigo 400 au violet 600"
+                                                 }
+                                             ]
+                               },
+    "finalCTA":  {
+                     "badge":  "Sécurisez votre entreprise",
+                     "title":  "Prêt pour un partenaire local de confiance ?",
+                     "titleHighlight":  "Partenaire local de confiance ?",
+                     "subtitle":  "Bénéficiez d\u0027une consultation gratuite. Nous vous aiderons À  créer votre entreprise en France métropolitaine avec un partenaire local fiable et une protection juridique complète.",
+                     "chips":  [
+                                   "Consultation gratuite",
+                                   "Contrôle total",
+                                   "Frais fixes"
+                               ],
+                     "whatsappMessage":  "Bonjour ! Je souhaiterais une consultation gratuite pour un partenariat commercial local aux Émirats arabes unis.",
+                     "whatsappCardMessage":  "Bonjour ! Je souhaiterais discuter d\u0027un partenariat commercial local aux Émirats arabes unis."
+                 }
+}

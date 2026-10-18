@@ -1,0 +1,60 @@
+{
+  "badge": "Unsere Erfolgsbilanz",
+  "heading": {
+    "line1": "Von folgenden Personen geschätzt",
+    "line2Highlight": "Mehr als 500 Unternehmen"
+  },
+  "subtitle": "Zahlen, die für sich sprechen – 15 Jahre Exzellenz, mehr als 500 erfolgreiche Produkteinführungen und ein Team, das niemals schläft.",
+  "stats": [
+    {
+      "icon": "Users",
+      "value": 10000,
+      "suffix": "+",
+      "label": "Zufriedene Kunden",
+      "description": "Unternehmen wurden in den gesamten VAE gegründet",
+      "gradient": "from-sky-400 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)"
+    },
+    {
+      "icon": "Award",
+      "value": 15,
+      "suffix": "+",
+      "label": "Jahre Erfahrung",
+      "description": "Vertrauenswürdige Expertise bei der Gründung in den VAE",
+      "gradient": "from-violet-400 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)"
+    },
+    {
+      "icon": "UserCheck",
+      "value": 25,
+      "suffix": "+",
+      "label": "Expertenberater",
+      "description": "Ein eigenes Team für jeden Kunden",
+      "gradient": "from-amber-400 to-orange-500",
+      "glowColor": "rgba(245,158,11,0.4)"
+    },
+    {
+      "icon": "Clock",
+      "value": 24,
+      "suffix": "/7",
+      "label": "Kundenservice",
+      "description": "Wir stehen Ihnen jederzeit zur Verfügung.",
+      "gradient": "from-emerald-400 to-green-600",
+      "glowColor": "rgba(16,185,129,0.4)"
+    }
+  ],
+  "bottomTrust": [
+    {
+      "label": "Lizenziert und reguliert",
+      "color": "bg-brand-green"
+    },
+    {
+      "label": "Dubais Wirtschaftsabteilung genehmigt",
+      "color": "bg-brand-sky"
+    },
+    {
+      "label": "Expertise in mehreren Rechtsordnungen",
+      "color": "bg-brand-violet"
+    }
+  ]
+}

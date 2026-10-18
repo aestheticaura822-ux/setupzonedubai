@@ -1,0 +1,142 @@
+{
+  "badge": "Strukturieren Sie Ihr Unternehmen clever",
+  "heading": {
+    "line1": "Was ist besser für Sie?",
+    "highlight": "Freizone oder Festland?"
+  },
+  "subtitle": "Die richtige Unternehmensstruktur hí¤ngt davon ab, wo Sie tí¤tig werden mí¶chten, wie viele Visa Sie bení¶tigen und wie hoch Ihr Budget ist. Hier eine kurze íœbersicht.",
+  "vsLabel": "VS",
+  "zones": [
+    {
+      "id": "freezone",
+      "name": "Freizone",
+      "short": "FZ",
+      "icon": "Globe",
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glow": "rgba(14,165,233,0.4)",
+      "accentText": "text-sky-600",
+      "accentBg": "bg-sky-50",
+      "accentBorder": "border-sky-200",
+      "image": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?w=1200&q=80",
+      "badge": "International",
+      "tagline": "Ideal für globale Unternehmen",
+      "bestFor": "Internationaler Handel, Online-Dienstleistungen, Beratung",
+      "highlight": "100% Eigentum, Steuervorteile, keine Zí¶lle",
+      "limitation": "Begrenzte Anzahl an Visa abhí¤ngig von der Bürogrí¶íŸe",
+      "ctaText": "Einrichtung der Freizone erkunden",
+      "whatsappMessage": "Hallo! Ich habe Interesse daran, ein Unternehmen in einer Freihandelszone in Dubai zu gründen.",
+      "watermark": "01"
+    },
+    {
+      "id": "mainland",
+      "name": "Festland",
+      "short": "ML",
+      "icon": "Building2",
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glow": "rgba(139,92,246,0.4)",
+      "accentText": "text-violet-600",
+      "accentBg": "bg-violet-50",
+      "accentBorder": "border-violet-200",
+      "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=1200&q=80",
+      "badge": "Lokaler Markt",
+      "tagline": "Am besten geeignet für lokales Wachstum",
+      "bestFor": "Lokaler Einzelhandel, Bauwesen, Restaurants, Agenturen",
+      "highlight": "Voller Marktzugang in den VAE, keine Handelsbeschrí¤nkungen",
+      "limitation": "Hí¶here Visaberechtigung erfordert mehr Büroflí¤che",
+      "ctaText": "Erkunden Sie die Einrichtung auf dem Festland",
+      "whatsappMessage": "Hallo! Ich habe Interesse daran, eine Firma vom Festland in Dubai zu gründen.",
+      "watermark": "02"
+    }
+  ],
+  "bestForLabel": "Am besten geeignet für",
+  "tableHeaders": {
+    "features": "Merkmale",
+    "freezone": "Freizone",
+    "mainland": "Festland"
+  },
+  "features": [
+    {
+      "icon": "Wallet",
+      "label": "Eigentum",
+      "freezone": {
+        "value": "100%",
+        "score": 100
+      },
+      "mainland": {
+        "value": "100%",
+        "score": 100
+      }
+    },
+    {
+      "icon": "TrendingUp",
+      "label": "Steuervorteile",
+      "freezone": {
+        "value": "0 % - 9 %",
+        "score": 90
+      },
+      "mainland": {
+        "value": "0 % - 9 %",
+        "score": 85
+      }
+    },
+    {
+      "icon": "Target",
+      "label": "Marktzugang in den VAE",
+      "freezone": {
+        "value": "Beschrí¤nkt",
+        "score": 40
+      },
+      "mainland": {
+        "value": "Voll",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Users",
+      "label": "Visaberechtigung",
+      "freezone": {
+        "value": "Beschrí¤nkt",
+        "score": 60
+      },
+      "mainland": {
+        "value": "Hoch",
+        "score": 90
+      }
+    },
+    {
+      "icon": "Landmark",
+      "label": "Lokaler Handel",
+      "freezone": {
+        "value": "Eingeschrí¤nkt",
+        "score": 30
+      },
+      "mainland": {
+        "value": "Unbegrenzt",
+        "score": 100
+      }
+    },
+    {
+      "icon": "Zap",
+      "label": "Einrichtungsgeschwindigkeit",
+      "freezone": {
+        "value": "3-7 Tage",
+        "score": 95
+      },
+      "mainland": {
+        "value": "2-4 Wochen",
+        "score": 50
+      }
+    }
+  ],
+  "bottomCTA": {
+    "icon": "ShieldCheck",
+    "title": "Sie sind sich immer noch nicht sicher, welches Sie wí¤hlen sollen?",
+    "subtitle": "Lassen Sie sich kostenlos beraten. Wir analysieren Ihre Geschí¤ftstí¤tigkeit und empfehlen Ihnen die optimale Struktur.",
+    "primaryCta": "Sprechen Sie mit einem Experten",
+    "secondaryCta": "Rufen Sie uns an",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hallo! Ich brauche Hilfe bei der Entscheidung zwischen Freizone und Festland. Kí¶nnen wir das besprechen?",
+    "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1600&q=80"
+  }
+}

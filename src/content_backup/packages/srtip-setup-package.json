@@ -1,0 +1,173 @@
+{
+  "slug": "srtip-setup-package",
+  "hero": {
+    "badge": "Innovation-First Free Zone",
+    "title": "SRTIP Setup Package",
+    "titleHighlight": "Package",
+    "subtitle": "Sharjah Research Technology and Innovation Park's purpose-built free zone for tech and R&D professionals. Affordable packages starting from just AED 5,999 — license, visa, bank account, and more.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1600&q=80",
+    "breadcrumbLabel": "SRTIP Setup Package",
+    "ctaPrimaryText": "View Packages",
+    "ctaPrimaryLink": "#packages",
+    "ctaSecondaryText": "WhatsApp",
+    "ctaSecondaryMessage": "Hi! I'm interested in SRTIP Setup Package.",
+    "badges": ["From AED 5,999", "11 Packages", "3-7 Days Setup", "100% Ownership"]
+  },
+
+  "stats": [
+    { "icon": "DollarSign", "value": "AED 5,999", "label": "Starting From", "color": "from-teal-400 to-cyan-600" },
+    { "icon": "Package", "value": "11", "label": "Packages", "color": "from-cyan-400 to-sky-600" },
+    { "icon": "Clock", "value": "3-7", "label": "Days Setup", "color": "from-sky-400 to-blue-600" },
+    { "icon": "Globe", "value": "100%", "label": "Ownership", "color": "from-blue-400 to-indigo-600" }
+  ],
+
+  "intro": {
+    "badge": "We're Here to Help!",
+    "title": "Affordable SRTIP Setup Packages for Your UAE Business",
+    "titleHighlight": "for Your UAE Business",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1200&q=80",
+    "imageBadgeTitle": "SRTIP Free Zone",
+    "imageBadgeText": "Sharjah, UAE",
+    "paragraph1": "Are you looking to establish your business in the thriving UAE market? Our expert team specializes in helping entrepreneurs set up successful companies across 65+ jurisdictions.",
+    "paragraph2": "Whether you prefer the flexibility of a Free Zone or the prestige of a Mainland trade license, we offer Sharjah's best business setup packages to match your tech and innovation business goals.",
+    "paragraph3": "All packages offer a starting point for your business journey and can be customized to suit your needs.",
+    "features": [
+      "65+ Jurisdictions",
+      "Innovation-First Zone",
+      "Customizable Packages",
+      "From AED 5,999",
+      "Fast 3-7 Day Setup",
+      "Full Support"
+    ]
+  },
+
+  "businessIndustries": {
+    "badge": "Innovation-First Ecosystem",
+    "title": "Built for Tech & Innovation",
+    "titleHighlight": "Tech & Innovation",
+    "subtitle": "Six innovation sectors that thrive in SRTIP Free Zone.",
+    "items": [
+      { "icon": "FlaskConical", "title": "Research & Development", "desc": "Scientific research, lab testing, product R&D", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "Cpu", "title": "Technology & Innovation", "desc": "Software, AI, IoT, hardware development", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Microscope", "title": "Life Sciences", "desc": "Biotech, pharma, medical research", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Lightbulb", "title": "Renewable Energy", "desc": "Solar, clean energy, sustainability tech", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Atom", "title": "Advanced Materials", "desc": "Nanotech, composites, material science", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "Binary", "title": "Digital Solutions", "desc": "Blockchain, data science, cybersecurity", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "packages": {
+    "badge": "Sharjah Affordable Setup Packages",
+    "title": "Our SRTIP Setup Packages",
+    "titleHighlight": "SRTIP Setup Packages",
+    "subtitle": "11 premium packages designed for tech and innovation professionals. All customizable.",
+    "items": [
+      { "id": 1, "icon": "Plane", "title": "Travel & Tourism Consultancy", "price": "AED 14,499", "tagline": "With Residency Visa", "category": "Premium", "color": "from-teal-500 to-cyan-700", "badge": "Popular", "badgeColor": "from-teal-500 to-cyan-600", "includes": ["Free zone license", "1 UAE residency / investor visa", "Medical, Emirates ID & status change", "Free lease agreement", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 2, "icon": "Camera", "title": "Event Management", "price": "AED 14,499", "tagline": "With Residency Visa", "category": "Premium", "color": "from-cyan-500 to-sky-700", "badge": "Premium", "badgeColor": "from-cyan-500 to-sky-600", "includes": ["Free zone license", "1 UAE residency / investor visa", "Medical, Emirates ID & status change", "Free lease agreement", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 3, "icon": "ShoppingCart", "title": "General Trading", "price": "AED 15,999", "tagline": "With Residency Visa", "category": "Premium", "color": "from-sky-500 to-blue-700", "badge": "Best Value", "badgeColor": "from-sky-500 to-blue-600", "includes": ["Free zone license", "1 UAE Residency / Investor Visa", "Medical, Emirates ID & status change", "Free lease agreement", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 4, "icon": "Palette", "title": "Fashion Design", "price": "AED 5,999", "tagline": "Up to 5 Activities", "category": "Economy", "color": "from-blue-500 to-indigo-700", "badge": "Creative", "badgeColor": "from-blue-500 to-indigo-600", "includes": ["Free zone license", "Free lease agreement", "Up to 5 business activities", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 5, "icon": "Dumbbell", "title": "Fitness & Lifestyle", "price": "AED 5,999", "tagline": "Up to 5 Activities", "category": "Economy", "color": "from-indigo-500 to-violet-700", "badge": "Affordable", "badgeColor": "from-indigo-500 to-violet-600", "includes": ["Free zone license", "Free lease agreement", "Up to 5 business activities", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 6, "icon": "ShoppingCart", "title": "E-Commerce", "price": "AED 5,999", "tagline": "Online Business Ready", "category": "Economy", "color": "from-violet-500 to-purple-700", "badge": "Popular", "badgeColor": "from-violet-500 to-purple-600", "includes": ["Free zone license", "Free lease agreement", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 7, "icon": "Laptop", "title": "IT Services", "price": "AED 6,449", "tagline": "Up to 5 Activities", "category": "Professional", "color": "from-purple-500 to-fuchsia-700", "badge": "Tech", "badgeColor": "from-purple-500 to-fuchsia-600", "includes": ["Free zone license", "Free lease agreement", "Up to 5 business activities", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 8, "icon": "Store", "title": "General Trading", "price": "AED 7,999", "tagline": "Entry Level Trading", "category": "Standard", "color": "from-fuchsia-500 to-pink-700", "badge": "Best Seller", "badgeColor": "from-fuchsia-500 to-pink-600", "includes": ["Free zone license", "Free lease agreement", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 9, "icon": "Crown", "title": "Free Zone License with Lifetime UAE Residency", "price": "AED 11,999", "tagline": "Lifetime Residency", "category": "Premium", "color": "from-pink-500 to-rose-700", "badge": "Exclusive", "badgeColor": "from-pink-500 to-rose-600", "includes": ["Free zone license", "Free UAE residency / investor visa for life", "Free lease agreement", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"] },
+      { "id": 10, "icon": "Landmark", "title": "Mainland License with UAE Residency", "price": "AED 16,999", "tagline": "Mainland + Residency", "category": "Mainland", "color": "from-slate-600 to-slate-800", "badge": "Mainland", "badgeColor": "from-slate-600 to-slate-700", "includes": ["Mainland license", "1 UAE residency / investor visa", "Medical, Emirates ID, and status change", "Free bank account opening assistance", "Free VAT consultation"], "exampleActivities": ["Project management", "Management consultancy", "Commercial broker", "Facility management", "Cleaning services", "Building maintenance"] },
+      { "id": 11, "icon": "Heart", "title": "Women Entrepreneurship", "price": "AED 5,999", "tagline": "Designed for Women Founders", "category": "Special", "color": "from-rose-500 to-pink-700", "badge": "Special", "badgeColor": "from-rose-500 to-pink-600", "includes": ["Free zone license", "Free lease agreement", "Up to 5 business activities", "Free bank account opening assistance", "Premium address & shared P.O. box", "Free VAT consultation"], "exampleActivities": ["Lifestyle Coaching", "Digital Marketing", "Fashion & clothes designing", "Event management", "Consultancy services"] }
+    ]
+  },
+
+  "customPackageCTA": {
+    "title": "Need a Custom Tech Package?",
+    "subtitle": "Tell us your innovation vision and we'll build the perfect package.",
+    "buttonText": "Custom Quote",
+    "whatsappMessage": "Hi! I need a custom SRTIP setup package."
+  },
+
+  "benefits": {
+    "badge": "Why SRTIP",
+    "title": "Benefits of SRTIP Setup",
+    "titleHighlight": "SRTIP Setup",
+    "subtitle": "Six powerful advantages for tech and innovation professionals.",
+    "items": [
+      { "icon": "Rocket", "title": "Innovation-First Ecosystem", "desc": "Purpose-built for tech & R&D", "color": "from-teal-400 to-cyan-600" },
+      { "icon": "DollarSign", "title": "Low-Cost Setup", "desc": "Starting from AED 5,999", "color": "from-cyan-400 to-sky-600" },
+      { "icon": "Globe", "title": "100% Foreign Ownership", "desc": "Full foreign ownership", "color": "from-sky-400 to-blue-600" },
+      { "icon": "Zap", "title": "Fast 3-7 Day Setup", "desc": "Quick license issuance", "color": "from-blue-400 to-indigo-600" },
+      { "icon": "Wallet", "title": "0% Tax Environment", "desc": "Tax-free benefits", "color": "from-indigo-400 to-violet-600" },
+      { "icon": "ShieldCheck", "title": "Government Backed", "desc": "Sharjah govt initiative", "color": "from-violet-400 to-purple-600" }
+    ]
+  },
+
+  "process": {
+    "badge": "6-Step Process",
+    "title": "How to Get Started",
+    "titleHighlight": "Get Started",
+    "subtitle": "From package selection to bank account — we handle everything.",
+    "steps": [
+      { "step": "01", "icon": "Target", "title": "Choose Your Package", "description": "Select from our innovation-focused packages.", "color": "from-teal-400 to-cyan-600" },
+      { "step": "02", "icon": "FileSignature", "title": "Submit Documents", "description": "Passport copies, business plan, and photos.", "color": "from-cyan-400 to-sky-600" },
+      { "step": "03", "icon": "ClipboardCheck", "title": "License Application", "description": "We file with SRTIP authority.", "color": "from-sky-400 to-blue-600" },
+      { "step": "04", "icon": "ScrollText", "title": "Receive Your License", "description": "Licensed within 3-7 days.", "color": "from-blue-400 to-indigo-600" }
+    ]
+  },
+
+  "whyChooseUs": {
+    "badge": "Why Choose Us",
+    "title": "Your Trusted SRTIP Setup Partner",
+    "titleHighlight": "SRTIP Setup Partner",
+    "subtitle": "Eight reasons why tech professionals trust us.",
+    "items": [
+      { "icon": "DollarSign", "label": "Transparent Pricing", "desc": "No hidden fees, ever" },
+      { "icon": "Zap", "label": "Fast 3-7 Day Setup", "desc": "Quick license issuance" },
+      { "icon": "ShieldCheck", "label": "100% Compliance", "desc": "Fully government approved" },
+      { "icon": "UserCheck", "label": "Dedicated Consultant", "desc": "Personal advisor" },
+      { "icon": "Globe", "label": "Multilingual Team", "desc": "English, Arabic, Hindi, Urdu" },
+      { "icon": "RefreshCw", "label": "VAT Consultation", "desc": "Included free" },
+      { "icon": "Award", "label": "10,000+ Companies", "desc": "Successfully launched" },
+      { "icon": "Handshake", "label": "End-to-End Support", "desc": "License to bank account" }
+    ]
+  },
+
+  "faqs": {
+    "badge": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "titleHighlight": "Questions",
+    "subtitle": "Everything you need to know about SRTIP Free Zone. Still have questions? We're one message away.",
+    "items": [
+      { "q": "What is SRTIP Free Zone?", "a": "SRTIP (Sharjah Research Technology and Innovation Park) is a purpose-built free zone for technology, research, and innovation-driven businesses. It offers low-cost setup, 100% foreign ownership, and quick licensing within 3-7 working days." },
+      { "q": "Where is SRTIP located?", "a": "SRTIP is located in Sharjah, UAE — adjacent to American University of Sharjah. It provides excellent connectivity to Dubai and other emirates with easy access to major highways and airports." },
+      { "q": "What is included in the SRTIP setup package?", "a": "Depending on the package, you get the Free Zone license, residency visa, medical & Emirates ID, lease agreement, bank account assistance, premium address, and free VAT consultation." },
+      { "q": "How much does an SRTIP package cost?", "a": "Our SRTIP packages start from AED 5,999 (Economy) and go up to AED 16,999 (Mainland + Residency). Premium packages with visa start at AED 14,499." },
+      { "q": "How long does setup take?", "a": "Typically 3-7 working days for license issuance, and additional 1-2 weeks for visa processing and bank account opening." },
+      { "q": "Can I customize my package?", "a": "Yes. All packages are starting points and can be customized to match your tech business, visa needs, and budget." },
+      { "q": "Do I get a UAE residency visa?", "a": "Yes, select packages include a UAE investor/residency visa with medical, Emirates ID, and status change. The Free Zone License with Lifetime UAE Residency even offers lifetime residency." },
+      { "q": "Is bank account opening included?", "a": "Yes. All packages include free assistance with corporate bank account opening at top UAE banks." },
+      { "q": "What tech activities can I do?", "a": "SRTIP supports research & development, technology & innovation, life sciences, renewable energy, advanced materials, digital solutions, and other innovation-driven industries — with up to 5 activities in most economy packages." },
+      { "q": "Why choose Setup Zone Dubai for SRTIP setup?", "a": "We offer transparent pricing, tech industry expertise, dedicated consultants, and end-to-end support — from license to visa to bank account. All with 10,000+ successful setups." }
+    ]
+  },
+
+  "finalCTA": {
+    "badge": "Start Your Tech Business Today",
+    "title": "Ready to Launch in SRTIP Sharjah?",
+    "titleHighlight": "SRTIP Sharjah?",
+    "subtitle": "Get a free consultation. We'll help you choose the right package and get your tech business running in days.",
+    "primaryCta": "WhatsApp Us",
+    "phone": "+971 56 655 6645",
+    "phoneHref": "tel:+971566556645",
+    "whatsappMessage": "Hi! I'd like a free consultation for SRTIP Setup Package.",
+    "badges": ["From AED 5,999", "3-7 Days Setup", "100% Ownership"],
+    "office": {
+      "label": "Visit Our Dubai Office",
+      "line1": "Office M08-27, M1 Floor, Crystal Tower",
+      "line2": "Business Bay, Dubai, U.A.E — PO Box: 554552",
+      "mapLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai"
+    },
+    "hours": {
+      "label": "Working Hours",
+      "monFri": "8 AM – 6 PM",
+      "saturday": "10 AM – 5 PM",
+      "sunday": "Closed"
+    }
+  }
+}

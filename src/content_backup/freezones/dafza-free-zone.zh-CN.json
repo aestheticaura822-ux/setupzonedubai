@@ -1,0 +1,380 @@
+{
+  "heroImage": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1600&q=80",
+  "heroBadge": "与 DAFZA 一起起飞",
+  "heroTitle": "迪拜机场自由区",
+  "heroTitleHighlight": "自由区",
+  "heroSubtitle": "这是阿联酋最负盛名的自由区之一，地理位置优越，毗邻迪拜国际机场。非常适合航空、物流、贸易和科技公司入驻。",
+  "heroChips": [
+    "100% 所有权",
+    "0% 税率",
+    "机场附近"
+  ],
+  "stats": [
+    {
+      "icon": "Clock",
+      "value": "3-5",
+      "label": "设置天数",
+      "color": "from-cyan-400 to-blue-600"
+    },
+    {
+      "icon": "Globe",
+      "value": "100%",
+      "label": "外资所有权",
+      "color": "from-sky-400 to-cyan-600"
+    },
+    {
+      "icon": "DollarSign",
+      "value": "0%",
+      "label": "企业所得税",
+      "color": "from-emerald-400 to-teal-600"
+    },
+    {
+      "icon": "Plane",
+      "value": "150+",
+      "label": "全球目的地",
+      "color": "from-violet-400 to-purple-600"
+    }
+  ],
+  "whyDafzaSection": {
+    "badge": "为什么选择 DAFZA",
+    "title": "为什么选择 DAFZA 作为您的企业发展基地？",
+    "titleHighlight": "您的企业？",
+    "subtitle": "中东地区交通最便利、技术最先进的自由区之一。",
+    "cards": [
+      {
+        "icon": "Globe",
+        "title": "100% 外资所有",
+        "description": "企业由您所有，决策由您做主——无需当地赞助商。",
+        "color": "from-cyan-500 via-blue-600 to-cyan-700",
+        "size": "大的"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "企业及个人所得税均为 0%。",
+        "description": "在全球互联平台上免税运营。",
+        "color": "from-emerald-400 to-teal-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Wallet",
+        "title": "利润全额返还",
+        "description": "您可以自由地将利润汇回您的祖国。",
+        "color": "from-violet-400 to-purple-600",
+        "size": "小的"
+      },
+      {
+        "icon": "Building2",
+        "title": "世界一流的基础设施",
+        "description": "办公空间、物流空间、仓库和先进的海关服务——您的企业高效运营所需的一切。",
+        "color": "from-amber-500 via-orange-600 to-amber-700",
+        "size": "全宽"
+      }
+    ]
+  },
+  "takeOffSection": {
+    "badge": "起飞",
+    "title": "从迪拜机场自由区起飞",
+    "titleHighlight": "迪拜机场自由区",
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80",
+    "imageBadgeTitle": "位于",
+    "imageBadgeText": "毗邻迪拜国际机场",
+    "paragraphs": [
+      "在迪拜机场自由区 (DAFZA) 设立公司，将使您在全球贸易和物流的十字路口拥有强大的优势。",
+      "迪拜机场自由区 (DAFZA) 地理位置优越，毗邻迪拜国际机场，为企业提供通往全球 150 多个目的地的便捷通道。对于需要速度、连接性和国际信誉的企业而言，这里是理想的枢纽。",
+      "无论您从事航空、物流、贸易、科技、制药还是电子商务——DAFZA 都能提供世界一流的基础设施，助您拓展全球业务。"
+    ],
+    "highlights": [
+      "全球贸易中心",
+      "现代基础设施",
+      "高级海关",
+      "战略连通性"
+    ]
+  },
+  "licensesSection": {
+    "badge": "许可证类型",
+    "title": "DAFZA许可证类型",
+    "titleHighlight": "许可证类型",
+    "subtitle": "根据您的业务活动和发展计划，注册正确的许可证。",
+    "footerNote": "随着您的业务发展，我们还可以办理许可证续期、修改和新增手续。",
+    "items": [
+      {
+        "icon": "Store",
+        "title": "商业许可",
+        "description": "适用于贸易公司、分销商和进出口商。",
+        "code": "COM",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Factory",
+        "title": "工业许可证",
+        "description": "适用于轻型制造商、包装商和组装商。",
+        "code": "IND",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "专业执照",
+        "description": "咨询公司、服务提供商和自由职业者。",
+        "code": "专业版",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务许可证",
+        "description": "适用于电子商务企业和在线零售商。",
+        "code": "细胞外基质",
+        "color": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "visaSection": {
+    "badge": "签证服务",
+    "title": "签证及移民服务",
+    "titleHighlight": "服务",
+    "subtitle": "全程管理——从配额申请到体检和阿联酋身份证办理。",
+    "items": [
+      {
+        "icon": "UserCheck",
+        "title": "投资者签证",
+        "description": "适用于迪拜机场自由区 (DAFZA) 的企业主和股东。",
+        "stampColor": "从青色 500 到蓝色 600"
+      },
+      {
+        "icon": "Briefcase",
+        "title": "工作签证",
+        "description": "适用于由您所在 DAFZA 公司赞助的员工。",
+        "stampColor": "从紫罗兰色-500 到紫罗兰色-600"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "自由职业者签证",
+        "description": "适用于独立专业人士和顾问。",
+        "stampColor": "从琥珀色 500 到橙色 600"
+      },
+      {
+        "icon": "Users",
+        "title": "家庭签证",
+        "description": "适用于配偶、子女和受抚养人。",
+        "stampColor": "从翡翠绿 500 到青色 600"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "签证续签与注销",
+        "description": "为所有签证类型提供全生命周期支持。",
+        "stampColor": "从粉色500到玫瑰色600"
+      }
+    ]
+  },
+  "whyIdealSection": {
+    "badge": "为什么它是理想的",
+    "title": "助您企业腾飞所需的一切",
+    "titleHighlight": "起飞",
+    "items": [
+      {
+        "icon": "Plane",
+        "title": "机场附近",
+        "description": "紧邻迪拜国际机场——全球最繁忙的国际枢纽。"
+      },
+      {
+        "icon": "Globe",
+        "title": "150多个目的地",
+        "description": "通过直航航线无缝进入全球市场。"
+      },
+      {
+        "icon": "Truck",
+        "title": "物流优势",
+        "description": "进出口、仓储和海关业务均在迪拜机场自由区内开展。"
+      },
+      {
+        "icon": "DollarSign",
+        "title": "免税运营",
+        "description": "企业所得税和个人所得税均为0%——利润最大化。"
+      },
+      {
+        "icon": "Warehouse",
+        "title": "世界一流的设施",
+        "description": "现代化的办公楼、仓库和物流基础设施。"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "政府支持",
+        "description": "政府支持的自由区，监管简化。"
+      }
+    ]
+  },
+  "whoShouldSection": {
+    "badge": "适用人群",
+    "title": "哪些企业应该在迪拜机场自由区 (DAFZA) 设立机构？",
+    "titleHighlight": "DAFZA？",
+    "subtitle": "非常适合这些行业和企业类型。",
+    "scrollHint": "← 滑动查看更多 →",
+    "items": [
+      {
+        "icon": "Plane",
+        "title": "航空服务",
+        "description": "航空公司、维修、修理和大修公司以及航空支持公司。",
+        "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800&q=80",
+        "color": "from-cyan-400 to-blue-600"
+      },
+      {
+        "icon": "Truck",
+        "title": "物流与货运",
+        "description": "货运代理和供应链业务。",
+        "image": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=800&q=80",
+        "color": "from-violet-400 to-purple-600"
+      },
+      {
+        "icon": "Store",
+        "title": "贸易公司",
+        "description": "进出口和分销业务。",
+        "image": "https://images.unsplash.com/photo-1553413077-190dd305871c?w=800&q=80",
+        "color": "from-amber-400 to-orange-600"
+      },
+      {
+        "icon": "ShoppingCart",
+        "title": "电子商务",
+        "description": "满足线上零售和物流需求。",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
+        "color": "from-emerald-400 to-teal-600"
+      },
+      {
+        "icon": "Heart",
+        "title": "制药",
+        "description": "制药和医疗保健产品公司。",
+        "image": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=800&q=80",
+        "color": "from-pink-400 to-rose-600"
+      },
+      {
+        "icon": "Zap",
+        "title": "科技创业公司",
+        "description": "具有全球影响力的科技和数字企业。",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&q=80",
+        "color": "from-indigo-400 to-purple-600"
+      }
+    ]
+  },
+  "supportSection": {
+    "badge": "端到端支持",
+    "title": "一站式全方位商务支持",
+    "titleHighlight": "同一屋檐下",
+    "subtitle": "我们提供的服务不仅限于公司注册，而是涵盖整个发展周期，让您能够自信地拓展业务。",
+    "items": [
+      {
+        "icon": "CreditCard",
+        "title": "银行账户开立",
+        "description": "在阿联酋顶级银行开设企业账户。"
+      },
+      {
+        "icon": "Percent",
+        "title": "税务及增值税咨询",
+        "description": "注册并遵守FTA规定。"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "业务拓展",
+        "description": "设置后的增长和扩展支持。"
+      },
+      {
+        "icon": "FileBadge",
+        "title": "专业文档清理",
+        "description": "政府联络和文件处理。"
+      },
+      {
+        "icon": "Scale",
+        "title": "法律咨询",
+        "description": "自由区合规和公司架构。"
+      },
+      {
+        "icon": "BarChart3",
+        "title": "会计与簿记",
+        "description": "财务记录、增值税申报和报告。"
+      }
+    ]
+  },
+  "faqsSection": {
+    "badge": "常见问题",
+    "title": "常见问题解答",
+    "titleHighlight": "问题",
+    "subtitle": "关于迪拜机场自由区，您需要了解的一切。还有疑问？欢迎随时联系我们。",
+    "sidebarCard": {
+      "title": "还有其他问题吗？",
+      "text": "联系我们的 DAFZA 专家，获取免费咨询。",
+      "whatsappMessage": "您好！我有一个关于迪拜机场自由区的问题。"
+    },
+    "items": [
+      {
+        "q": "在迪拜机场自由区 (DAFZA) 注册公司需要多长时间？",
+        "a": "在迪拜机场自由区 (DAFZA) 注册公司通常需要 3-5 个工作日，前提是文件齐全。我们负责从申请到审批的整个流程。"
+      },
+      {
+        "q": "作为外国人，我是否可以拥有迪拜机场自由区（DAFZA）公司100%的股份？",
+        "a": "是的。迪拜机场自由区允许100%外资控股——无需本地担保人。"
+      },
+      {
+        "q": "我在迪拜机场自由区 (DAFZA) 的企业应该选择哪种类型的许可证？",
+        "a": "根据您的业务活动，可获得商业（贸易/分销）、工业（轻工业制造）、专业（咨询/服务）或电子商务许可证。"
+      },
+      {
+        "q": "我是否需要在迪拜机场自由区 (DAFZA) 设立实体办公室？",
+        "a": "是的，DAFZA要求必须拥有实体办公室或灵活办公桌。我们会帮助您选择符合您预算的合适办公空间。"
+      },
+      {
+        "q": "您能协助办理银行业务吗？",
+        "a": "是的。我们会根据您的企业情况，协助您在阿联酋顶级银行开设企业银行账户。"
+      },
+      {
+        "q": "有哪些签证类型可供选择？",
+        "a": "投资签证、工作签证、自由职业者签证、家庭签证以及签证续签/注销服务——全部提供全面支持。"
+      },
+      {
+        "q": "DAFZA适合电子商务公司吗？",
+        "a": "是的。DAFZA为线上企业提供电子商务许可证和世界一流的物流基础设施。"
+      },
+      {
+        "q": "我可以在迪拜机场自由区 (DAFZA) 进行货物进出口吗？",
+        "a": "是的。迪拜机场自由区 (DAFZA) 旨在为进出口和再出口业务提供先进的海关服务和关税优惠。"
+      }
+    ]
+  },
+  "relatedServicesSection": {
+    "title": "相关服务",
+    "titleHighlight": "服务",
+    "subtitle": "与您的自由区设置完美匹配的服务。",
+    "items": [
+      {
+        "slug": "bank-account",
+        "title": "银行账户开立",
+        "description": "开设阿联酋企业银行账户，并提供完整的KYC支持。",
+        "image": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?w=800&q=80",
+        "gradient": "from-sky-400 to-blue-600"
+      },
+      {
+        "slug": "pro-services",
+        "title": "专业服务",
+        "description": "阿联酋身份证、劳工卡、签证盖章和续签。",
+        "image": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80",
+        "gradient": "from-indigo-400 to-purple-600"
+      },
+      {
+        "slug": "corporate-tax-vat",
+        "title": "企业所得税和增值税",
+        "description": "专业税务咨询和联邦税务管理局合规服务。",
+        "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+        "gradient": "from-emerald-400 to-teal-600"
+      }
+    ]
+  },
+  "finalCTA": {
+    "badge": "今天起飞",
+    "title": "准备在迪拜机场自由区 (DAFZA) 启动？",
+    "titleHighlight": "DAFZA？",
+    "subtitle": "获取免费咨询。我们将指导您完成所有设置流程——从驾照选择到签证办理和银行账户开设。",
+    "chips": [
+      "免费咨询",
+      "10,000+ 客户",
+      "3-5天安装完成"
+    ],
+    "whatsappMessage": "您好！我想咨询一下关于迪拜机场自由区设立的免费咨询服务。",
+    "whatsappCardMessage": "您好！我想讨论一下 DAFZA 的设置。"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "badge": "我们的核心服务",
+  "heading": {
+    "line1": "全面的企业设立",
+    "highlight": "迪拜和阿联酋"
+  },
+  "subtitle": "自由区、大陆地区和全面的商业支持——您在阿联酋创业和发展所需的一切，尽在一处。",
+  "services": [
+    {
+      "id": "freezone",
+      "icon": "Building2",
+      "title": "自由区设立",
+      "tagline": "面向国际和远程企业",
+      "description": "100% 所有权，零税收，远程办公友好——我们会根据您的活动和预算，为您匹配最佳的自由区。",
+      "image": "https://images.pexels.com/photos/36260007/pexels-photo-36260007.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "100% 外资所有",
+        "0% 个人及企业税",
+        "5项免费商业活动",
+        "远程友好型设置"
+      ],
+      "gradient": "from-sky-400 via-blue-500 to-blue-600",
+      "glowColor": "rgba(14,165,233,0.4)",
+      "accentColor": "文本-天空-600",
+      "bgAccent": "bg-sky-50",
+      "borderAccent": "border-sky-200",
+      "number": "01"
+    },
+    {
+      "id": "mainland",
+      "icon": "Globe",
+      "title": "大陆设置",
+      "tagline": "针对阿联酋本地市场运营",
+      "description": "在阿联酋境内开展贸易，自由招聘，拓展业务版图。我们负责所有DED文件、许可证办理和办公支持。",
+      "image": "https://images.pexels.com/photos/32761488/pexels-photo-32761488.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "features": [
+        "全面进入阿联酋市场",
+        "无交易限制",
+        "自由雇用员工",
+        "政府招标符合资格"
+      ],
+      "gradient": "from-violet-400 via-purple-500 to-purple-600",
+      "glowColor": "rgba(139,92,246,0.4)",
+      "accentColor": "text-violet-600",
+      "bgAccent": "bg-violet-50",
+      "borderAccent": "border-violet-200",
+      "number": "02"
+    },
+    {
+      "id": "support",
+      "icon": "Briefcase",
+      "title": "业务支持",
+      "tagline": "适用于在阿联酋开展业务的公司",
+      "description": "经营公司？我们负责后台事务：增值税、银行事务、续约、工资单、签证、法律文件等等。",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
+      "features": [
+        "增值税和企业所得税申报",
+        "银行账户管理",
+        "驾照和签证续期",
+        "薪资与会计"
+      ],
+      "gradient": "from-amber-400 via-orange-500 to-orange-600",
+      "glowColor": "rgba(245,158,11,0.4)",
+      "accentColor": "text-amber-600",
+      "bgAccent": "bg-amber-50",
+      "borderAccent": "border-amber-200",
+      "number": "03"
+    }
+  ],
+  "bottomCTA": {
+    "question": "不确定哪一款更适合你？",
+    "buttonText": "与专家交流",
+    "buttonLink": "＃接触"
+  }
+}
