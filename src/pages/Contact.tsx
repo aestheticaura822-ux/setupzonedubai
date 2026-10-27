@@ -1,4 +1,4 @@
-// File: src/pages/Contact.tsx
+﻿// File: src/pages/Contact.tsx
 
 import { useState } from 'react';
 import { motion } from 'framer-motion';
@@ -325,7 +325,7 @@ export default function Contact({ tinaData }: { tinaData?: any }) {
                       </p>
                       <div className="flex flex-wrap gap-2">
                         <a href={data.sidebar.officeCard.phoneHref} className="inline-flex items-center gap-1 text-[10px] font-black text-amber-700 uppercase tracking-widest hover:text-amber-800 transition">
-                          <Phone size={10} strokeWidth={3} /> {data.sidebar.officeCard.phone}
+                          <Phone size={10} strokeWidth={3} /> <span dir="ltr" className="inline-block"><span dir="ltr" className="inline-block">{data.sidebar.officeCard.phone}</span></span>
                         </a>
                         <a href={data.sidebar.officeCard.directionsHref} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 text-[10px] font-black text-amber-700 uppercase tracking-widest hover:text-amber-800 transition">
                           <MapPin size={10} strokeWidth={3} /> Directions
@@ -486,7 +486,7 @@ export default function Contact({ tinaData }: { tinaData?: any }) {
                   <div className="flex flex-wrap gap-4 mb-8">
                     <a href={data.finalCTA.phoneHref} className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-rose-700 font-bold text-sm shadow-xl hover:scale-105 transition-all duration-300">
                       <Phone size={16} />
-                      <span data-tina-field={tinaField(data.finalCTA, 'phone')}>{data.finalCTA.phone}</span>
+                      <span data-tina-field={tinaField(data.finalCTA, 'phone')}><span dir="ltr" className="inline-block"><span dir="ltr" className="inline-block">{data.finalCTA.phone}</span></span></span>
                       <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
                     </a>
                     <a href={getWhatsAppLink(data.finalCTA.whatsappMessage)} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all duration-300">

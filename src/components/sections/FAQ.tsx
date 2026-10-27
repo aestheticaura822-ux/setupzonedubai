@@ -3,7 +3,6 @@
 import { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import {
-  MessageCircle,
   Phone,
   Sparkles,
   Search,
@@ -23,20 +22,23 @@ import {
   ShieldCheck,
 } from 'lucide-react';
 import { getWhatsAppLink } from '../../lib/whatsapp';
-import { useTina, tinaField } from 'tinacms/dist/react';
+import { tinaField } from 'tinacms/dist/react';
 import WhatsAppIcon from '../icons/WhatsAppIcon';
-import faqData from '../../content/home/faq.json';
 import { useLanguage } from '../../i18n/LanguageContext';
 import { loadContent } from '../../lib/loadContent';
+
 const iconMap: any = {
   HelpCircle, Building2, Receipt, Crown, Landmark, ShieldCheck, Lightbulb,
 };
 
 export default function FAQ({ tinaData }: { tinaData?: any }) {
-const { language } = useLanguage();
-const faqFallback = loadContent('home/faq', language);
-const data = tinaData?.data?.home || faqFallback;  
-const [activeCategory, setActiveCategory] = useState('all');
+  const { language } = useLanguage();
+  const faqFallback = loadContent('home/faq', language);
+  const data = tinaData?.data?.home || faqFallback;
+
+  const isRTL = language === 'ar';
+
+  const [activeCategory, setActiveCategory] = useState('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [openId, setOpenId] = useState<number | null>(0);
   const [expandAll, setExpandAll] = useState(false);
@@ -65,9 +67,13 @@ const [activeCategory, setActiveCategory] = useState('all');
   };
 
   return (
-    <section id="faq" className="relative py-14 md:py-20 overflow-hidden bg-gradient-to-b from-white via-slate-50/40 to-white">
-      <div className="absolute top-0 left-0 w-[700px] h-[700px] rounded-full bg-sky-100/50 blur-[150px] pointer-events-none" />
-      <div className="absolute bottom-0 right-0 w-[700px] h-[700px] rounded-full bg-violet-100/50 blur-[150px] pointer-events-none" />
+    <section
+      id="faq"
+      dir={isRTL ? 'rtl' : 'ltr'}
+      className="relative py-14 md:py-20 overflow-hidden bg-gradient-to-b from-white via-slate-50/40 to-white"
+    >
+      <div className="absolute top-0 start-0 w-[700px] h-[700px] rounded-full bg-sky-100/50 blur-[150px] pointer-events-none" />
+      <div className="absolute bottom-0 end-0 w-[700px] h-[700px] rounded-full bg-violet-100/50 blur-[150px] pointer-events-none" />
 
       <div
         className="absolute inset-0 opacity-[0.1] pointer-events-none"
@@ -81,9 +87,9 @@ const [activeCategory, setActiveCategory] = useState('all');
 
       <div className="relative max-w-7xl mx-auto px-6">
         <div className="grid lg:grid-cols-12 gap-10 lg:gap-14 items-start">
-          {/* LEFT SIDE */}
+          {/* LEFT SIDE (visually starts from left in LTR, right in RTL) */}
           <motion.div
-            initial={{ opacity: 0, x: -40 }}
+            initial={{ opacity: 0, x: isRTL ? 40 : -40 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
@@ -100,7 +106,7 @@ const [activeCategory, setActiveCategory] = useState('all');
               <span data-tina-field={tinaField(data.heading, 'line1')}>{data.heading.line1}</span>{' '}
               <span className="relative inline-block">
                 <span className="gradient-text" data-tina-field={tinaField(data.heading, 'highlight')}>{data.heading.highlight}</span>
-                <svg className="absolute -bottom-1 left-0 w-full" height="10" viewBox="0 0 300 10" fill="none" preserveAspectRatio="none">
+                <svg className="absolute -bottom-1 start-0 w-full" height="10" viewBox="0 0 300 10" fill="none" preserveAspectRatio="none">
                   <path d="M2 7C60 2 120 1 180 3C220 4.5 260 6 298 8" stroke="url(#faqUnderline)" strokeWidth="3" strokeLinecap="round" />
                   <defs>
                     <linearGradient id="faqUnderline" x1="0" y1="0" x2="300" y2="0">
@@ -126,9 +132,9 @@ const [activeCategory, setActiveCategory] = useState('all');
               <motion.div
                 animate={{ y: [0, -10, 0], rotate: [0, 10, 0] }}
                 transition={{ duration: 5, repeat: Infinity }}
-                className="absolute -top-3 -right-3 opacity-20"
+                className="absolute -top-3 -end-3 opacity-20"
               >
-<WhatsAppIcon size={90} className="text-white" />
+                <WhatsAppIcon size={90} className="text-white" />
               </motion.div>
 
               <div className="relative p-6 md:p-7">
@@ -150,7 +156,7 @@ const [activeCategory, setActiveCategory] = useState('all');
                     rel="noreferrer"
                     className="group inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-white text-sky-700 font-bold text-xs shadow-lg hover:scale-105 transition-all duration-300"
                   >
-<WhatsAppIcon size={14} />
+                    <WhatsAppIcon size={14} />
                     <span data-tina-field={tinaField(data.contactCard, 'whatsappText')}>{data.contactCard.whatsappText}</span>
                   </a>
                   <a
@@ -192,7 +198,7 @@ const [activeCategory, setActiveCategory] = useState('all');
 
           {/* RIGHT SIDE */}
           <motion.div
-            initial={{ opacity: 0, x: 40 }}
+            initial={{ opacity: 0, x: isRTL ? -40 : 40 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.7 }}
@@ -200,7 +206,7 @@ const [activeCategory, setActiveCategory] = useState('all');
           >
             {/* Search */}
             <div className="relative mb-5">
-              <div className="absolute inset-y-0 left-0 pl-5 flex items-center pointer-events-none">
+              <div className="absolute inset-y-0 start-0 ps-5 flex items-center pointer-events-none">
                 <Search size={18} className="text-[#94A3B8]" strokeWidth={2.5} />
               </div>
               <input
@@ -208,10 +214,10 @@ const [activeCategory, setActiveCategory] = useState('all');
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder={data.searchPlaceholder}
-                className="w-full pl-14 pr-12 py-4 rounded-2xl bg-white border border-border shadow-soft text-sm font-semibold text-[#0A0F1F] placeholder:text-[#94A3B8] focus:outline-none focus:border-sky-300 focus:ring-4 focus:ring-sky-100 transition-all duration-300"
+                className="w-full ps-14 pe-12 py-4 rounded-2xl bg-white border border-border shadow-soft text-sm font-semibold text-[#0A0F1F] placeholder:text-[#94A3B8] focus:outline-none focus:border-sky-300 focus:ring-4 focus:ring-sky-100 transition-all duration-300"
               />
               {searchQuery && (
-                <button onClick={() => setSearchQuery('')} className="absolute inset-y-0 right-0 pr-5 flex items-center">
+                <button onClick={() => setSearchQuery('')} className="absolute inset-y-0 end-0 pe-5 flex items-center">
                   <X size={18} className="text-[#94A3B8] hover:text-[#0A0F1F] transition" />
                 </button>
               )}
@@ -306,17 +312,17 @@ const [activeCategory, setActiveCategory] = useState('all');
                           isOpen ? 'border-sky-200 shadow-[0_20px_60px_rgba(14,165,233,0.15)]' : 'border-border hover:border-sky-200 hover:shadow-[0_10px_40px_rgba(15,23,42,0.06)]'
                         }`}
                       >
-                        <div className={`absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-sky-400 to-violet-500 transition-opacity duration-300 ${isOpen ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}`} />
-                        <div className={`absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-sky-400 to-violet-500 transition-opacity duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'}`} />
+                        <div className={`absolute start-0 top-0 bottom-0 w-1 bg-gradient-to-b from-sky-400 to-violet-500 transition-opacity duration-300 ${isOpen ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'}`} />
+                        <div className={`absolute top-0 start-0 end-0 h-[2px] bg-gradient-to-r from-sky-400 to-violet-500 transition-opacity duration-300 ${isOpen ? 'opacity-100' : 'opacity-0'}`} />
 
-                        <button onClick={() => toggleFaq(globalIndex)} className="relative w-full flex items-start gap-4 p-5 md:p-6 text-left">
+                        <button onClick={() => toggleFaq(globalIndex)} className="relative w-full flex items-start gap-4 p-5 md:p-6 text-start">
                           <div className={`w-10 h-10 rounded-2xl flex items-center justify-center shadow-md flex-shrink-0 transition-all duration-500 ${
                             isOpen ? 'bg-gradient-to-br from-sky-500 to-violet-600 scale-110' : 'bg-gradient-to-br from-sky-400 to-violet-500 group-hover:scale-110'
                           }`}>
                             <span className="text-sm font-black text-white">{String(index + 1).padStart(2, '0')}</span>
                           </div>
 
-                          <div className="flex-1 pt-1 pr-2">
+                          <div className="flex-1 pt-1 pe-2">
                             <h3 className={`font-black text-base md:text-lg leading-snug tracking-tight transition-colors duration-300 ${
                               isOpen ? 'text-sky-700' : 'text-[#0A0F1F] group-hover:text-sky-700'
                             }`} data-tina-field={tinaField(faq, 'q')}>
@@ -340,7 +346,7 @@ const [activeCategory, setActiveCategory] = useState('all');
                               transition={{ duration: 0.3, ease: 'easeInOut' }}
                               className="overflow-hidden"
                             >
-                              <div className="px-5 md:px-6 pb-5 md:pb-6 pl-[72px] md:pl-[88px]">
+                              <div className="px-5 md:px-6 pb-5 md:pb-6 ps-[72px] md:ps-[88px]">
                                 <div className="pt-3 border-t border-dashed border-border">
                                   <p className="pt-3 text-sm md:text-base text-[#475569] font-medium leading-relaxed" data-tina-field={tinaField(faq, 'a')}>
                                     {faq.a}
@@ -351,7 +357,7 @@ const [activeCategory, setActiveCategory] = useState('all');
                           )}
                         </AnimatePresence>
 
-                        <div className={`absolute -bottom-16 -right-16 w-32 h-32 rounded-full bg-gradient-to-br from-sky-400 to-violet-500 blur-2xl transition-opacity duration-500 pointer-events-none ${isOpen ? 'opacity-[0.08]' : 'opacity-0'}`} />
+                        <div className={`absolute -bottom-16 -end-16 w-32 h-32 rounded-full bg-gradient-to-br from-sky-400 to-violet-500 blur-2xl transition-opacity duration-500 pointer-events-none ${isOpen ? 'opacity-[0.08]' : 'opacity-0'}`} />
                       </motion.div>
                     );
                   })
@@ -368,7 +374,7 @@ const [activeCategory, setActiveCategory] = useState('all');
               className="mt-8 relative rounded-3xl overflow-hidden p-6 bg-gradient-to-r from-slate-50 to-sky-50/40 border border-sky-100"
             >
               <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-                <div className="flex items-center gap-3 text-center sm:text-left">
+                <div className="flex items-center gap-3 text-center sm:text-start">
                   <div className="w-11 h-11 rounded-2xl bg-gradient-to-br from-sky-500 to-violet-600 flex items-center justify-center shadow-lg flex-shrink-0">
                     <BottomIcon size={20} className="text-white" strokeWidth={2.2} />
                   </div>
@@ -388,7 +394,7 @@ const [activeCategory, setActiveCategory] = useState('all');
                   className="group inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-gradient-to-r from-sky-500 to-violet-600 text-white font-bold text-xs shadow-lg hover:scale-105 transition-all duration-300 flex-shrink-0"
                 >
                   <span data-tina-field={tinaField(data.bottomCTA, 'buttonText')}>{data.bottomCTA.buttonText}</span>
-                  <ArrowRight size={14} className="group-hover:translate-x-1 transition-transform" />
+                  <ArrowRight size={14} className="rtl:rotate-180 group-hover:translate-x-1 transition-transform" />
                 </a>
               </div>
             </motion.div>

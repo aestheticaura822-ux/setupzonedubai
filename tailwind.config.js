@@ -35,6 +35,7 @@ export default {
       },
       fontFamily: {
         sans: ["Inter", "Roboto", "system-ui", "sans-serif"],
+        arabic: ["Cairo", "sans-serif"], // ✅ Arabic Font added
       },
       boxShadow: {
         soft: "0 1px 3px rgba(15,23,42,0.06), 0 1px 2px rgba(15,23,42,0.04)",
@@ -57,44 +58,24 @@ export default {
         "float-slow": "float 8s ease-in-out infinite",
         "gradient-shift": "gradientShift 8s ease infinite",
         "pulse-soft": "pulseSoft 3s ease-in-out infinite",
+        "shine": "shine 2s ease-in-out infinite",
       },
-      animation: {
-  "float": "float 6s ease-in-out infinite",
-  "float-slow": "float 8s ease-in-out infinite",
-  "gradient-shift": "gradientShift 8s ease infinite",
-  "pulse-soft": "pulseSoft 3s ease-in-out infinite",
-  "shine": "shine 2s ease-in-out infinite",
-},
-keyframes: {
-  float: {
-    "0%, 100%": { transform: "translateY(0) translateX(0)" },
-    "50%": { transform: "translateY(-30px) translateX(15px)" },
-  },
-  gradientShift: {
-    "0%, 100%": { backgroundPosition: "0% 50%" },
-    "50%": { backgroundPosition: "100% 50%" },
-  },
-  pulseSoft: {
-    "0%, 100%": { opacity: "0.5", transform: "scale(1)" },
-    "50%": { opacity: "0.8", transform: "scale(1.08)" },
-  },
-  shine: {
-    "0%": { transform: "translateX(-100%)" },
-    "100%": { transform: "translateX(200%)" },
-  },
-},
       keyframes: {
         float: {
-          "0%, 100%": { transform: "translateY(0)" },
-          "50%": { transform: "translateY(-20px)" },
+          "0%, 100%": { transform: "translateY(0) translateX(0)" },
+          "50%": { transform: "translateY(-30px) translateX(15px)" },
         },
         gradientShift: {
           "0%, 100%": { backgroundPosition: "0% 50%" },
           "50%": { backgroundPosition: "100% 50%" },
         },
         pulseSoft: {
-          "0%, 100%": { opacity: "0.6", transform: "scale(1)" },
-          "50%": { opacity: "1", transform: "scale(1.05)" },
+          "0%, 100%": { opacity: "0.5", transform: "scale(1)" },
+          "50%": { opacity: "0.8", transform: "scale(1.08)" },
+        },
+        shine: {
+          "0%": { transform: "translateX(-100%)" },
+          "100%": { transform: "translateX(200%)" },
         },
       },
     },

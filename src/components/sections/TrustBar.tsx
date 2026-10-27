@@ -3,8 +3,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { motion, useInView } from 'framer-motion';
 import { Users, Award, UserCheck, Clock } from 'lucide-react';
-import { useTina, tinaField } from 'tinacms/dist/react';
-import trustBarData from '../../content/home/trust-bar.json';
+import { tinaField } from 'tinacms/dist/react';
 import { useLanguage } from '../../i18n/LanguageContext';
 import { loadContent } from '../../lib/loadContent';
 
@@ -12,8 +11,15 @@ const iconMap: any = {
   Users, Award, UserCheck, Clock,
 };
 
-// Count-up hook
-function useCountUp(end: number, duration = 2000, start = 0) {
+// Count-up hook — defensive against strings, undefined, NaN, Arabic text, etc.
+function useCountUp(rawEnd: number | string, duration = 2000, start = 0) {
+  // Coerce any input into a real finite number
+  const parsed =
+    typeof rawEnd === 'number'
+      ? rawEnd
+      : parseFloat(String(rawEnd ?? '').replace(/[^\d.]/g, '')) || 0;
+  const end = Number.isFinite(parsed) ? parsed : 0;
+
   const [count, setCount] = useState(start);
   const ref = useRef<HTMLSpanElement>(null);
   const isInView = useInView(ref, { once: true, margin: '-100px' });
@@ -27,7 +33,8 @@ function useCountUp(end: number, duration = 2000, start = 0) {
       if (startTime === null) startTime = timestamp;
       const progress = Math.min((timestamp - startTime) / duration, 1);
       const eased = 1 - Math.pow(1 - progress, 3);
-      setCount(Math.floor(eased * (end - start) + start));
+      const next = Math.floor(eased * (end - start) + start);
+      setCount(Number.isFinite(next) ? next : end);
       if (progress < 1) raf = requestAnimationFrame(step);
     };
     raf = requestAnimationFrame(step);
@@ -77,14 +84,21 @@ function StatCard({ stat, index }: { stat: any; index: number }) {
           </div>
         </div>
 
-        {/* Number */}
-        <div className="flex items-baseline gap-1 mb-2">
+        {/* Number — forced LTR so "+" and "/7" don't flip in Arabic */}
+        <div
+          dir="ltr"
+          className="flex items-baseline justify-start gap-1 mb-2 whitespace-nowrap"
+        >
           <span className="text-5xl md:text-6xl font-black tracking-tight bg-gradient-to-br from-[#0A0F1F] to-[#334155] bg-clip-text text-transparent leading-none">
-            {count}
+            {count.toLocaleString('en-US')}
           </span>
-          <span className={`text-3xl md:text-4xl font-black bg-gradient-to-br ${stat.gradient} bg-clip-text text-transparent leading-none`}>
-            {stat.suffix}
-          </span>
+          {stat.suffix && (
+            <span
+              className={`inline-block text-3xl md:text-4xl font-black bg-gradient-to-br ${stat.gradient} bg-clip-text text-transparent leading-none`}
+            >
+              {stat.suffix}
+            </span>
+          )}
         </div>
 
         {/* Label */}
@@ -105,10 +119,11 @@ function StatCard({ stat, index }: { stat: any; index: number }) {
 }
 
 export default function TrustBar({ tinaData }: { tinaData?: any }) {
- const { language } = useLanguage();
+  const { language } = useLanguage();
   const trustBarFallback = loadContent('home/trust-bar', language);
   const data = tinaData?.data?.home?.trustBar || trustBarFallback;
-    return (
+
+  return (
     <section className="relative py-14 md:py-20 bg-gradient-to-b from-white via-slate-50/50 to-white overflow-hidden">
       {/* Soft mesh background */}
       <div className="absolute top-0 left-0 w-[600px] h-[600px] rounded-full bg-brand-sky/8 blur-[140px] pointer-events-none" />

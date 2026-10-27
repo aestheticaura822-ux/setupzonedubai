@@ -44,17 +44,8 @@
     }
   ],
   "bottomTrust": [
-    {
-      "label": "مرخص وخاضع للرقابة",
-      "color": "bg-brand-green"
-    },
-    {
-      "label": "تمت الموافقة من قبل اقتصاد دبي",
-      "color": "bg-brand-sky"
-    },
-    {
-      "label": "خبرة في عدة ولايات قضائية",
-      "color": "bg-brand-violet"
-    }
+    { "label": "مرخص وخاضع للرقابة",        "color": "bg-brand-green"  },
+    { "label": "تمت الموافقة من قبل اقتصاد دبي", "color": "bg-brand-sky"    },
+    { "label": "خبرة في عدة ولايات قضائية",  "color": "bg-brand-violet" }
   ]
 }

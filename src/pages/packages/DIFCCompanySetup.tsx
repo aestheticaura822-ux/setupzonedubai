@@ -1,4 +1,4 @@
-// File: src/pages/packages/DIFCCompanySetup.tsx
+﻿// File: src/pages/packages/DIFCCompanySetup.tsx
 
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -96,82 +96,7 @@ export default function DIFCCompanySetup({ tinaData }: { tinaData?: any }) {
               </motion.div>
             </div>
 
-            {/* RIGHT — Calculator Card */}
-            <div className="lg:col-span-5 relative h-[520px] hidden lg:block">
-              <motion.div animate={{ scale: [1, 1.1, 1], opacity: [0.3, 0.5, 0.3] }} transition={{ duration: 6, repeat: Infinity }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[420px] h-[420px] rounded-full bg-gradient-to-br from-indigo-400 to-blue-600 opacity-40 blur-[100px]" />
-
-              <motion.div animate={{ rotate: 360 }} transition={{ duration: 40, repeat: Infinity, ease: 'linear' }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px]">
-                <div className="absolute top-0 left-1/2 w-3 h-3 -translate-x-1/2 rounded-full bg-indigo-300 shadow-[0_0_20px_rgba(129,140,248,0.8)]" />
-                <div className="absolute bottom-0 left-1/2 w-2 h-2 -translate-x-1/2 rounded-full bg-blue-300" />
-                <div className="absolute top-1/2 left-0 w-2.5 h-2.5 -translate-y-1/2 rounded-full bg-cyan-300" />
-              </motion.div>
-
-              <motion.div initial={{ opacity: 0, y: 40 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.8, type: 'spring', stiffness: 80 }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30">
-                <motion.div animate={{ y: [0, -15, 0] }} transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }} className="relative">
-                  <div className="absolute inset-0 bg-gradient-to-br from-indigo-400 to-blue-600 opacity-40 blur-2xl rounded-3xl" />
-                  <Link to="/calculator" className="block group">
-                    <div className="relative w-[340px] rounded-3xl bg-white/95 backdrop-blur-2xl border border-white shadow-2xl overflow-hidden hover:scale-[1.02] transition-transform duration-300">
-                      <div className="bg-gradient-to-r from-indigo-500 to-blue-600 px-5 py-3 flex items-center justify-between">
-                        <div className="flex items-center gap-2">
-                          <Calculator size={16} className="text-white" strokeWidth={2.5} />
-                          <span className="text-[10px] font-black text-white uppercase tracking-widest">Cost Calculator</span>
-                        </div>
-                        <span className="text-[10px] font-black text-white/80 uppercase tracking-widest group-hover:text-white transition">
-                          Try Now →
-                        </span>
-                      </div>
-
-                      <div className="p-6">
-                        <div className="flex items-center gap-3 mb-5">
-                          <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-indigo-400 to-blue-600 flex items-center justify-center shadow-lg group-hover:scale-110 group-hover:rotate-6 transition-transform duration-500">
-                            <Calculator size={26} className="text-white" strokeWidth={2.5} />
-                          </div>
-                          <div className="flex-1">
-                            <div className="text-[10px] font-bold text-txt-muted uppercase tracking-widest mb-0.5">Instant Estimate</div>
-                            <div className="text-base font-black text-[#0A0F1F]">Calculate Your Cost</div>
-                          </div>
-                        </div>
-
-                        <div className="space-y-3 mb-5">
-                          <div className="flex items-center justify-between p-3 rounded-xl bg-gradient-to-br from-indigo-50 to-blue-50 border border-indigo-100">
-                            <div className="flex items-center gap-2">
-                              <Package size={16} className="text-indigo-600" strokeWidth={2.5} />
-                              <span className="text-xs font-bold text-[#0A0F1F]">Choose Package</span>
-                            </div>
-                            <ChevronRight size={14} className="text-indigo-600" strokeWidth={2.5} />
-                          </div>
-                          <div className="flex items-center justify-between p-3 rounded-xl bg-gradient-to-br from-indigo-50 to-blue-50 border border-indigo-100">
-                            <div className="flex items-center gap-2">
-                              <Users size={16} className="text-indigo-600" strokeWidth={2.5} />
-                              <span className="text-xs font-bold text-[#0A0F1F]">Select Visa Count</span>
-                            </div>
-                            <ChevronRight size={14} className="text-indigo-600" strokeWidth={2.5} />
-                          </div>
-                          <div className="flex items-center justify-between p-3 rounded-xl bg-gradient-to-br from-indigo-50 to-blue-50 border border-indigo-100">
-                            <div className="flex items-center gap-2">
-                              <DollarSign size={16} className="text-indigo-600" strokeWidth={2.5} />
-                              <span className="text-xs font-bold text-[#0A0F1F]">Get Instant Price</span>
-                            </div>
-                            <ChevronRight size={14} className="text-indigo-600" strokeWidth={2.5} />
-                          </div>
-                        </div>
-
-                        <div className="pt-5 border-t border-dashed border-indigo-200">
-                          <div className="flex items-center justify-center gap-2 px-4 py-3 rounded-xl bg-gradient-to-r from-indigo-500 to-blue-600 shadow-lg group-hover:scale-105 transition-transform duration-300">
-                            <Calculator size={16} className="text-white" strokeWidth={2.5} />
-                            <span className="text-xs font-black text-white uppercase tracking-widest">Open Calculator</span>
-                            <ArrowRight size={14} className="text-white group-hover:translate-x-0.5 transition-transform" strokeWidth={2.5} />
-                          </div>
-                          <p className="text-center text-[10px] font-semibold text-slate-500 mt-3">
-                            💡 Get instant quote in seconds
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </Link>
-                </motion.div>
-              </motion.div>
-            </div>
+            
           </div>
         </div>
       </section>
@@ -678,7 +603,7 @@ export default function DIFCCompanySetup({ tinaData }: { tinaData?: any }) {
                       </div>
                       <div className="flex-1">
                         <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-0.5">WhatsApp Us</p>
-                        <p className="text-base font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA, 'phone')}>{data.finalCTA.phone}</p>
+                        <p className="text-base font-black text-[#0A0F1F]" dir="ltr" data-tina-field={tinaField(data.finalCTA, 'phone')}><span dir="ltr" className="inline-block"><span dir="ltr" className="inline-block">{data.finalCTA.phone}</span></span></p>
                         <p className="text-[11px] text-green-600 font-semibold mt-0.5">● Instant replies almost anytime</p>
                       </div>
                       <ArrowRight size={18} className="text-txt-muted group-hover:text-indigo-600 group-hover:translate-x-1 transition-all" />

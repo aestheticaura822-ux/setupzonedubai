@@ -22,9 +22,11 @@ const iconMap: any = {
 function ServiceCard({
   service,
   index,
+  learnMore,  // ✅ NAYA PROP
 }: {
   service: any;
   index: number;
+  learnMore: string;  // ✅ NAYA TYPE
 }) {
   const Icon = iconMap[service.icon] || Building2;
 
@@ -112,9 +114,9 @@ function ServiceCard({
           <div className="h-px bg-gradient-to-r from-border via-border/50 to-transparent mb-5" />
 
           <a href={`#${service.id}`} className="group/btn flex items-center justify-between">
-            <span className="text-sm font-black text-[#0A0F1F] group-hover/btn:text-transparent group-hover/btn:bg-clip-text group-hover/btn:bg-gradient-to-r group-hover/btn:from-sky-600 group-hover/btn:to-violet-600 transition-all">
-              Learn More
-            </span>
+            <span className="text-sm font-black text-[#0A0F1F] ..." >
+  {learnMore}
+</span>
             <div className={`w-9 h-9 rounded-full ${service.bgAccent} ${service.borderAccent} border flex items-center justify-center group-hover/btn:scale-110 transition-all duration-300`}>
               <ArrowUpRight size={16} className={`${service.accentColor} transition-colors`} strokeWidth={2.5} />
             </div>
@@ -186,7 +188,12 @@ const data = tinaData?.data?.home || servicesFallback;
         {/* Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7 lg:gap-8">
           {data.services.map((service: any, index: number) => (
-            <ServiceCard key={service.id} service={service} index={index} />
+  <ServiceCard 
+    key={service.id} 
+    service={service} 
+    index={index} 
+    learnMore={data.learnMore || 'Learn More'}  // ✅ PASS KARO
+  />
           ))}
         </div>
 

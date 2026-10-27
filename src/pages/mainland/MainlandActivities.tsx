@@ -1,4 +1,4 @@
-// File: src/pages/mainland/MainlandActivities.tsx
+﻿// File: src/pages/mainland/MainlandActivities.tsx
 
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -94,73 +94,7 @@ export default function MainlandActivities({ tinaData }: { tinaData?: any }) {
               </motion.div>
             </div>
 
-            {/* RIGHT — Mainland Dashboard Card */}
-            <div className="lg:col-span-5 relative h-[520px] hidden lg:block">
-              <motion.div animate={{ scale: [1, 1.1, 1], opacity: [0.3, 0.5, 0.3] }} transition={{ duration: 6, repeat: Infinity }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[420px] h-[420px] rounded-full bg-gradient-to-br from-emerald-400 to-teal-600 opacity-40 blur-[100px]" />
-
-              <motion.div animate={{ rotate: 360 }} transition={{ duration: 40, repeat: Infinity, ease: 'linear' }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px]">
-                <div className="absolute top-0 left-1/2 w-3 h-3 -translate-x-1/2 rounded-full bg-emerald-300 shadow-[0_0_20px_rgba(52,211,153,0.8)]" />
-                <div className="absolute bottom-0 left-1/2 w-2 h-2 -translate-x-1/2 rounded-full bg-teal-300" />
-                <div className="absolute top-1/2 left-0 w-2.5 h-2.5 -translate-y-1/2 rounded-full bg-cyan-300" />
-              </motion.div>
-
-              <motion.div initial={{ opacity: 0, y: 40 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.8, type: 'spring', stiffness: 80 }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30">
-                <motion.div animate={{ y: [0, -15, 0] }} transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }} className="relative">
-                  <div className="absolute inset-0 bg-gradient-to-br from-emerald-400 to-teal-600 opacity-40 blur-2xl rounded-3xl" />
-                  <div className="relative w-[320px] rounded-3xl bg-white/95 backdrop-blur-2xl border border-white shadow-2xl overflow-hidden">
-                    <div className="bg-gradient-to-r from-emerald-500 to-teal-600 px-5 py-3 flex items-center justify-between">
-                      <div className="flex items-center gap-2">
-                        <Building2 size={16} className="text-white" strokeWidth={2.5} />
-                        <span className="text-[10px] font-black text-white uppercase tracking-widest">Mainland UAE</span>
-                      </div>
-                      <span className="text-[10px] font-black text-white/80 uppercase tracking-widest">Live</span>
-                    </div>
-
-                    <div className="p-5">
-                      <div className="flex items-center gap-3 mb-5">
-                        <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-emerald-400 to-teal-600 flex items-center justify-center shadow-lg">
-                          <Landmark size={22} className="text-white" strokeWidth={2.5} />
-                        </div>
-                        <div className="flex-1">
-                          <div className="text-[9px] font-bold text-txt-muted uppercase tracking-widest">Authority</div>
-                          <div className="text-sm font-black text-[#0A0F1F]">DED Licensed</div>
-                        </div>
-                        <div className="px-2.5 py-1 rounded-full bg-gradient-to-r from-emerald-400 to-teal-600 shadow-md">
-                          <span className="text-[9px] font-black text-white uppercase tracking-widest">Active</span>
-                        </div>
-                      </div>
-
-                      <div className="grid grid-cols-2 gap-3 mb-4">
-                        <div className="p-3 rounded-xl bg-gradient-to-br from-emerald-50 to-teal-50 border border-emerald-100">
-                          <div className="text-[8px] font-bold text-txt-muted uppercase tracking-widest mb-1">Activities</div>
-                          <div className="text-lg font-black text-emerald-600">2K+</div>
-                        </div>
-                        <div className="p-3 rounded-xl bg-gradient-to-br from-teal-50 to-cyan-50 border border-teal-100">
-                          <div className="text-[8px] font-bold text-txt-muted uppercase tracking-widest mb-1">Setup Time</div>
-                          <div className="text-lg font-black text-teal-600">2-4 Wks</div>
-                        </div>
-                      </div>
-
-                      <div className="flex items-center justify-between p-3 rounded-xl bg-slate-50 border border-slate-100 mb-4">
-                        <Store size={18} className="text-emerald-500" />
-                        <Briefcase size={18} className="text-teal-500" />
-                        <Factory size={18} className="text-cyan-500" />
-                        <GraduationCap size={18} className="text-sky-500" />
-                        <HeartHandshake size={18} className="text-blue-500" />
-                        <Code size={18} className="text-indigo-500" />
-                      </div>
-
-                      <div className="pt-4 border-t border-dashed border-border flex items-center justify-between">
-                        <span className="text-[10px] font-black text-emerald-600 uppercase tracking-widest">Launch Now</span>
-                        <div className="w-7 h-7 rounded-full bg-gradient-to-br from-emerald-400 to-teal-600 flex items-center justify-center">
-                          <ArrowRight size={12} className="text-white" strokeWidth={2.5} />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </motion.div>
-              </motion.div>
-            </div>
+           
           </div>
         </div>
       </section>
@@ -605,102 +539,7 @@ WhatsApp
             ))}
           </div>
 
-          {/* FINAL CTA */}
-          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="relative rounded-[32px] overflow-hidden shadow-[0_30px_80px_rgba(15,23,42,0.2)]">
-            <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url(${data.hero.image})` }} />
-            <div className="absolute inset-0 bg-gradient-to-r from-emerald-950/90 via-teal-900/70 to-cyan-900/50" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
-            <div className="absolute inset-0 opacity-[0.08]" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '28px 28px' }} />
-
-            <div className="relative p-8 md:p-14 lg:p-16">
-              <div className="grid lg:grid-cols-12 gap-10 lg:gap-14 items-center">
-                <div className="lg:col-span-7">
-                  <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 mb-6">
-                    <Sparkles size={14} className="text-white" />
-                    <span className="text-xs font-bold tracking-wider uppercase text-white" data-tina-field={tinaField(data.finalCTA, 'badge')}>{data.finalCTA.badge}</span>
-                  </div>
-
-                  <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white leading-[1.1] tracking-tight mb-5 drop-shadow-lg" data-tina-field={tinaField(data.finalCTA, 'title')}>
-                    {data.finalCTA.title.replace(data.finalCTA.titleHighlight, '')}
-                    <span className="text-emerald-300">{data.finalCTA.titleHighlight}</span>
-                  </h2>
-
-                  <p className="text-base md:text-lg text-white/95 font-medium leading-relaxed mb-8 max-w-xl drop-shadow" data-tina-field={tinaField(data.finalCTA, 'subtitle')}>
-                    {data.finalCTA.subtitle}
-                  </p>
-
-                  <div className="flex flex-wrap gap-4 mb-8">
-                    <a href={getWhatsAppLink(data.finalCTA.whatsappMessage)} target="_blank" rel="noreferrer" className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-emerald-700 font-bold text-sm shadow-xl hover:scale-105 transition-all duration-300">
-                      <WhatsAppIcon size={16} className="text-emerald-600" />
-
-                      <span data-tina-field={tinaField(data.finalCTA, 'primaryCta')}>{data.finalCTA.primaryCta}</span>
-                      <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-                    </a>
-                    <a href={data.finalCTA.phoneHref} className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all duration-300">
-                      <Phone size={16} />Call Now
-                    </a>
-                  </div>
-
-                  <div className="flex flex-wrap gap-3">
-                    {data.finalCTA.badges.map((item: string, i: number) => (
-                      <div key={i} className="flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/15 backdrop-blur-md border border-white/25 text-xs">
-                        <CheckCircle2 size={12} className="text-emerald-300" strokeWidth={3} />
-                        <span className="font-semibold text-white">{item}</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="lg:col-span-5 space-y-4">
-                  <motion.a href={getWhatsAppLink(data.finalCTA.whatsappMessage)} target="_blank" rel="noreferrer" initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.1 }} className="group block relative p-5 rounded-2xl bg-white/95 backdrop-blur-xl border border-white/50 shadow-2xl hover:shadow-[0_20px_60px_rgba(255,255,255,0.2)] hover:-translate-y-1 transition-all duration-300">
-                    <div className="flex items-center gap-4">
-                      <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-<WhatsAppIcon size={22} className="text-emerald-600" />
-                      </div>
-                      <div className="flex-1">
-                        <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-0.5">WhatsApp Us</p>
-                        <p className="text-base font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA, 'phone')}>{data.finalCTA.phone}</p>
-                        <p className="text-[11px] text-green-600 font-semibold mt-0.5">● Instant replies almost anytime</p>
-                      </div>
-                      <ArrowRight size={18} className="text-txt-muted group-hover:text-emerald-600 group-hover:translate-x-1 transition-all" />
-                    </div>
-                  </motion.a>
-
-                  <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.2 }} className="group relative p-5 rounded-2xl bg-white/95 backdrop-blur-xl border border-white/50 shadow-2xl">
-                    <div className="flex items-start gap-4">
-                      <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-emerald-400 to-teal-600 flex items-center justify-center shadow-lg flex-shrink-0">
-                        <Building2 size={22} className="text-white" strokeWidth={2.2} />
-                      </div>
-                      <div className="flex-1">
-                        <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-1" data-tina-field={tinaField(data.finalCTA.office, 'label')}>{data.finalCTA.office.label}</p>
-                        <p className="text-sm font-bold text-[#0A0F1F] leading-snug mb-1" data-tina-field={tinaField(data.finalCTA.office, 'line1')}>{data.finalCTA.office.line1}</p>
-                        <p className="text-xs text-[#64748B] font-medium leading-snug" data-tina-field={tinaField(data.finalCTA.office, 'line2')}>{data.finalCTA.office.line2}</p>
-                        <a href={data.finalCTA.office.mapLink} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1.5 mt-2 text-xs font-black text-emerald-600 hover:text-emerald-700 transition">
-                          Get Directions<ArrowRight size={12} />
-                        </a>
-                      </div>
-                    </div>
-                  </motion.div>
-
-                  <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.3 }} className="group relative p-5 rounded-2xl bg-white/95 backdrop-blur-xl border border-white/50 shadow-2xl">
-                    <div className="flex items-start gap-4">
-                      <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-600 flex items-center justify-center shadow-lg flex-shrink-0">
-                        <Clock size={22} className="text-white" strokeWidth={2.2} />
-                      </div>
-                      <div className="flex-1">
-                        <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-1" data-tina-field={tinaField(data.finalCTA.hours, 'label')}>{data.finalCTA.hours.label}</p>
-                        <div className="space-y-1 text-xs">
-                          <div className="flex justify-between items-center"><span className="text-[#64748B] font-medium">Mon – Fri</span><span className="font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA.hours, 'monFri')}>{data.finalCTA.hours.monFri}</span></div>
-                          <div className="flex justify-between items-center"><span className="text-[#64748B] font-medium">Saturday</span><span className="font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA.hours, 'saturday')}>{data.finalCTA.hours.saturday}</span></div>
-                          <div className="flex justify-between items-center"><span className="text-[#64748B] font-medium">Sunday</span><span className="font-black text-red-500" data-tina-field={tinaField(data.finalCTA.hours, 'sunday')}>{data.finalCTA.hours.sunday}</span></div>
-                        </div>
-                      </div>
-                    </div>
-                  </motion.div>
-                </div>
-              </div>
-            </div>
-          </motion.div>
+          
         </div>
       </section>
 

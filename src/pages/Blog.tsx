@@ -1,4 +1,4 @@
-// File: src/pages/Blog.tsx
+﻿// File: src/pages/Blog.tsx
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -325,7 +325,7 @@ export default function Blog({ tinaData }: { tinaData?: any }) {
                       <div className="w-8 h-8 rounded-lg bg-white/20 backdrop-blur-xl flex items-center justify-center">
                         <Phone size={14} className="text-white" strokeWidth={2.5} />
                       </div>
-                      <span className="text-sm font-bold" data-tina-field={tinaField(data.faqs.contactCard, 'phone')}>{data.faqs.contactCard.phone}</span>
+                      <span className="text-sm font-bold" data-tina-field={tinaField(data.faqs.contactCard, 'phone')}><span dir="ltr" className="inline-block"><span dir="ltr" className="inline-block">{data.faqs.contactCard.phone}</span></span></span>
                     </a>
                     <a href={data.faqs.contactCard.emailHref} className="flex items-center gap-2.5 text-white hover:text-violet-200 transition">
                       <div className="w-8 h-8 rounded-lg bg-white/20 backdrop-blur-xl flex items-center justify-center">

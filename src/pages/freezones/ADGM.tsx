@@ -1,4 +1,4 @@
-// File: src/pages/free-zones/ADGM.tsx
+﻿// File: src/pages/free-zones/ADGM.tsx
 
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -40,7 +40,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/30" />
         <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
 
-        <motion.div animate={{ y: [0, -20, 0], rotate: [0, 10, 0] }} transition={{ duration: 6, repeat: Infinity }} className="absolute top-32 right-[35%] opacity-15 hidden lg:block">
+        <motion.div animate={{ y: [0, -20, 0], rotate: [0, 10, 0] }} transition={{ duration: 6, repeat: Infinity }} className="absolute top-32 end-[35%] opacity-15 hidden lg:block">
           <Landmark size={120} className="text-white" />
         </motion.div>
 
@@ -70,7 +70,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
               <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.6 }} className="flex flex-wrap gap-4">
                 <a href={data.hero.ctaPrimaryLink} className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-indigo-700 font-bold text-sm shadow-xl hover:scale-105 transition-all duration-300">
                   <span data-tina-field={tinaField(data.hero, 'ctaPrimaryText')}>{data.hero.ctaPrimaryText}</span>
-                  <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
+                  <ArrowRight size={16} className="rtl:rotate-180 group-hover:translate-x-1 transition-transform" />
                 </a>
                 <a href={getWhatsAppLink(data.hero.ctaSecondaryMessage)} target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all duration-300">
                   <WhatsAppIcon size={16} className="text-emerald-600" />
@@ -89,69 +89,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
               </motion.div>
             </div>
 
-            {/* RIGHT — Financial Dashboard Card */}
-            <div className="lg:col-span-5 relative h-[520px] hidden lg:block">
-              <motion.div animate={{ scale: [1, 1.1, 1], opacity: [0.3, 0.5, 0.3] }} transition={{ duration: 6, repeat: Infinity }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[420px] h-[420px] rounded-full bg-gradient-to-br from-indigo-400 to-violet-600 opacity-40 blur-[100px]" />
-
-              <motion.div animate={{ rotate: 360 }} transition={{ duration: 40, repeat: Infinity, ease: 'linear' }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[480px] h-[480px]">
-                <div className="absolute top-0 left-1/2 w-3 h-3 -translate-x-1/2 rounded-full bg-indigo-300 shadow-[0_0_20px_rgba(129,140,248,0.8)]" />
-                <div className="absolute bottom-0 left-1/2 w-2 h-2 -translate-x-1/2 rounded-full bg-violet-300" />
-                <div className="absolute top-1/2 left-0 w-2.5 h-2.5 -translate-y-1/2 rounded-full bg-emerald-300" />
-              </motion.div>
-
-              <motion.div initial={{ opacity: 0, y: 40 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.8, type: 'spring', stiffness: 80 }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30">
-                <motion.div animate={{ y: [0, -15, 0] }} transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }} className="relative">
-                  <div className="absolute inset-0 bg-gradient-to-br from-indigo-400 to-violet-600 opacity-40 blur-2xl rounded-3xl" />
-                  <div className="relative w-[320px] rounded-3xl bg-white/95 backdrop-blur-2xl border border-white shadow-2xl overflow-hidden">
-                    <div className="bg-gradient-to-r from-indigo-500 to-violet-600 px-5 py-3 flex items-center justify-between">
-                      <div className="flex items-center gap-2">
-                        <Landmark size={16} className="text-white" strokeWidth={2.5} />
-                        <span className="text-[10px] font-black text-white uppercase tracking-widest" data-tina-field={tinaField(data.dashboardCard, 'title')}>{data.dashboardCard.title}</span>
-                      </div>
-                      <span className="text-[10px] font-black text-white/80 uppercase tracking-widest">{data.dashboardCard.statusLabel}</span>
-                    </div>
-
-                    <div className="p-5">
-                      <div className="mb-5">
-                        <div className="text-[9px] font-bold text-txt-muted uppercase tracking-widest mb-1" data-tina-field={tinaField(data.dashboardCard, 'balanceLabel')}>{data.dashboardCard.balanceLabel}</div>
-                        <div className="text-3xl font-black text-[#0A0F1F] leading-none mb-1" data-tina-field={tinaField(data.dashboardCard, 'balanceValue')}>{data.dashboardCard.balanceValue}</div>
-                        <div className="flex items-center gap-1.5">
-                          <TrendingUp size={12} className="text-emerald-600" />
-                          <span className="text-[10px] font-bold text-emerald-600 uppercase tracking-widest" data-tina-field={tinaField(data.dashboardCard, 'balanceSubtext')}>{data.dashboardCard.balanceSubtext}</span>
-                        </div>
-                      </div>
-
-                      <div className="grid grid-cols-2 gap-3 mb-5">
-                        {data.dashboardCard.metrics.map((m: any, i: number) => (
-                          <div key={i} className="p-3 rounded-xl bg-slate-50 border border-slate-100">
-                            <div className="text-[8px] font-bold text-txt-muted uppercase tracking-widest mb-1">{m.label}</div>
-                            <div className={`text-lg font-black ${m.color}`}>{m.value}</div>
-                          </div>
-                        ))}
-                      </div>
-
-                      <div className="p-3 rounded-xl bg-slate-50 border border-slate-100">
-                        <div className="flex items-center justify-between mb-2">
-                          <span className="text-[9px] font-bold text-txt-muted uppercase tracking-widest" data-tina-field={tinaField(data.dashboardCard, 'chartLabel')}>{data.dashboardCard.chartLabel}</span>
-                          <span className="text-[9px] font-black text-emerald-600" data-tina-field={tinaField(data.dashboardCard, 'chartValue')}>{data.dashboardCard.chartValue}</span>
-                        </div>
-                        <div className="flex items-end gap-1 h-12">
-                          {data.dashboardCard.chartBars.map((h: number, i: number) => (
-                            <motion.div
-                              key={i}
-                              initial={{ height: 0 }}
-                              animate={{ height: `${h}%` }}
-                              transition={{ duration: 0.8, delay: 1 + i * 0.08 }}
-                              className="flex-1 rounded-t bg-gradient-to-t from-indigo-500 to-violet-400"
-                            />
-                          ))}
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </motion.div>
-              </motion.div>
-            </div>
+           
           </div>
         </div>
       </section>
@@ -181,7 +119,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
       {/* ============ 3. WHY ADGM ============ */}
       <section className="relative py-14 md:py-20 bg-gradient-to-br from-indigo-50 via-violet-50 to-fuchsia-50 overflow-hidden">
-        <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
+        <div className="absolute top-0 end-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="text-center mb-14 max-w-3xl mx-auto">
@@ -221,8 +159,8 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
       {/* ============ 4. BEGIN JOURNEY (DARK) ============ */}
       <section className="relative py-14 md:py-20 overflow-hidden bg-gradient-to-br from-indigo-950 via-violet-950 to-indigo-950">
         <div className="absolute inset-0 bg-cover bg-center opacity-[0.08]" style={{ backgroundImage: `url(${data.hero.image})` }} />
-        <div className="absolute top-0 left-0 w-[700px] h-[700px] rounded-full bg-indigo-500/20 blur-[150px] pointer-events-none" />
-        <div className="absolute bottom-0 right-0 w-[700px] h-[700px] rounded-full bg-violet-500/20 blur-[150px] pointer-events-none" />
+        <div className="absolute top-0 start-0 w-[700px] h-[700px] rounded-full bg-indigo-500/20 blur-[150px] pointer-events-none" />
+        <div className="absolute bottom-0 end-0 w-[700px] h-[700px] rounded-full bg-violet-500/20 blur-[150px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <div className="grid lg:grid-cols-12 gap-12 items-center">
@@ -231,7 +169,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
               <div className="relative rounded-3xl overflow-hidden border border-white/20 shadow-2xl">
                 <img src={data.beginJourney.image} alt="ADGM" className="w-full h-[520px] object-cover" data-tina-field={tinaField(data.beginJourney, 'image')} />
                 <div className="absolute inset-0 bg-gradient-to-t from-indigo-950 via-transparent to-transparent" />
-                <div className="absolute bottom-5 left-5 right-5 p-4 rounded-2xl bg-white/95 backdrop-blur-xl shadow-lg">
+                <div className="absolute bottom-5 start-5 end-5 p-4 rounded-2xl bg-white/95 backdrop-blur-xl shadow-lg">
                   <div className="flex items-center gap-3">
                     <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-400 to-violet-600 flex items-center justify-center">
                       <MapPin size={18} className="text-white" />
@@ -279,7 +217,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
       {/* ============ 5. LICENSE OPTIONS ============ */}
       <section className="relative py-14 md:py-20 bg-gradient-to-br from-indigo-50 via-violet-50 to-fuchsia-50 overflow-hidden">
-        <div className="absolute top-0 left-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
+        <div className="absolute top-0 start-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="text-center mb-14 max-w-3xl mx-auto">
@@ -373,7 +311,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
       {/* ============ 7. OFFICE SOLUTIONS (BENTO) ============ */}
       <section className="relative py-14 md:py-20 bg-gradient-to-br from-indigo-50 via-violet-50 to-fuchsia-50 overflow-hidden">
-        <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
+        <div className="absolute top-0 end-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="text-center mb-14 max-w-3xl mx-auto">
@@ -405,7 +343,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
             <motion.div initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.3 }} className="lg:col-span-12 group relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-500 via-violet-600 to-fuchsia-600 p-7 shadow-xl hover:shadow-2xl hover:-translate-y-2 transition-all duration-500">
               <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '20px 20px' }} />
-              <motion.div animate={{ y: [0, -10, 0], rotate: [0, 8, 0] }} transition={{ duration: 5, repeat: Infinity }} className="absolute -bottom-6 -right-6 opacity-15">
+              <motion.div animate={{ y: [0, -10, 0], rotate: [0, 8, 0] }} transition={{ duration: 5, repeat: Infinity }} className="absolute -bottom-6 -end-6 opacity-15">
                 <Building2 size={180} className="text-white" />
               </motion.div>
               <div className="relative flex flex-col md:flex-row md:items-center gap-6">
@@ -424,7 +362,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
       {/* ============ 8. BUSINESS SUPPORT ============ */}
       <section className="relative py-14 md:py-20 bg-white overflow-hidden">
-        <div className="absolute top-0 left-0 w-[600px] h-[600px] rounded-full bg-indigo-100/40 blur-[140px] pointer-events-none" />
+        <div className="absolute top-0 start-0 w-[600px] h-[600px] rounded-full bg-indigo-100/40 blur-[140px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="text-center mb-14 max-w-3xl mx-auto">
@@ -444,7 +382,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
               const Icon = iconMap[item.icon] || Scale;
               return (
                 <motion.div key={i} initial={{ opacity: 0, y: 40 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: i * 0.08 }} className="group relative flex items-start gap-4 p-5 rounded-2xl bg-white border border-border shadow-md hover:shadow-[0_20px_60px_rgba(99,102,241,0.15)] hover:-translate-y-1 transition-all duration-500 overflow-hidden">
-                  <div className="absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-indigo-400 to-violet-600 opacity-0 group-hover:opacity-100 transition-opacity" />
+                  <div className="absolute start-0 top-0 bottom-0 w-1 bg-gradient-to-b from-indigo-400 to-violet-600 opacity-0 group-hover:opacity-100 transition-opacity" />
                   <div className="flex-shrink-0 w-12 h-12 rounded-2xl bg-gradient-to-br from-indigo-400 to-violet-600 flex items-center justify-center shadow-md group-hover:scale-110 group-hover:rotate-6 transition-transform duration-500">
                     <Icon size={22} className="text-white" strokeWidth={2.2} />
                   </div>
@@ -462,8 +400,8 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
       {/* ============ 9. STRATEGIC ADVANTAGES (DARK) ============ */}
       <section className="relative py-14 md:py-20 overflow-hidden bg-gradient-to-br from-indigo-950 via-violet-950 to-indigo-950">
         <div className="absolute inset-0 bg-cover bg-center opacity-10" style={{ backgroundImage: `url(${data.hero.image})` }} />
-        <div className="absolute top-0 left-0 w-[700px] h-[700px] rounded-full bg-indigo-500/20 blur-[150px] pointer-events-none" />
-        <div className="absolute bottom-0 right-0 w-[700px] h-[700px] rounded-full bg-violet-500/20 blur-[150px] pointer-events-none" />
+        <div className="absolute top-0 start-0 w-[700px] h-[700px] rounded-full bg-indigo-500/20 blur-[150px] pointer-events-none" />
+        <div className="absolute bottom-0 end-0 w-[700px] h-[700px] rounded-full bg-violet-500/20 blur-[150px] pointer-events-none" />
         <div className="absolute inset-0 opacity-[0.08] pointer-events-none" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '32px 32px' }} />
 
         <div className="relative max-w-7xl mx-auto px-6">
@@ -502,7 +440,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
       {/* ============ 10. WHY CHOOSE US ============ */}
       <section className="relative py-14 md:py-20 bg-gradient-to-br from-indigo-50 via-violet-50 to-fuchsia-50 overflow-hidden">
-        <div className="absolute top-0 right-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
+        <div className="absolute top-0 end-0 w-[600px] h-[600px] rounded-full bg-indigo-100/50 blur-[140px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="text-center mb-14 max-w-3xl mx-auto">
@@ -537,7 +475,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
                     <p className="text-sm text-[#64748B] font-medium leading-relaxed" data-tina-field={tinaField(item, 'description')}>{item.description}</p>
                   </div>
 
-                  <ArrowRight size={16} className="hidden md:block text-[#64748B] group-hover:text-indigo-600 group-hover:translate-x-1 transition-all" />
+                  <ArrowRight size={16} className="rtl:rotate-180 hidden md:block text-[#64748B] group-hover:text-indigo-600 group-hover:translate-x-1 transition-all" />
                 </motion.div>
               );
             })}
@@ -547,7 +485,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
       {/* ============ 11. FAQ ============ */}
       <section className="relative py-14 md:py-20 bg-white overflow-hidden">
-        <div className="absolute top-0 left-0 w-[600px] h-[600px] rounded-full bg-indigo-100/40 blur-[140px] pointer-events-none" />
+        <div className="absolute top-0 start-0 w-[600px] h-[600px] rounded-full bg-indigo-100/40 blur-[140px] pointer-events-none" />
 
         <div className="relative max-w-7xl mx-auto px-6">
           <div className="grid lg:grid-cols-12 gap-10 lg:gap-14 items-start">
@@ -566,7 +504,7 @@ export default function ADGM({ tinaData }: { tinaData?: any }) {
 
               <div className="relative rounded-3xl overflow-hidden p-6 bg-gradient-to-br from-indigo-500 via-violet-600 to-fuchsia-700 shadow-2xl">
                 <div className="absolute inset-0 opacity-10" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '20px 20px' }} />
-                <motion.div animate={{ y: [0, -10, 0], rotate: [0, 10, 0] }} transition={{ duration: 5, repeat: Infinity }} className="absolute -top-3 -right-3 opacity-20">
+                <motion.div animate={{ y: [0, -10, 0], rotate: [0, 10, 0] }} transition={{ duration: 5, repeat: Infinity }} className="absolute -top-3 -end-3 opacity-20">
                   <Landmark size={80} className="text-white" />
                 </motion.div>
                 <div className="relative">
@@ -591,15 +529,15 @@ WhatsApp
             <div className="lg:col-span-7 space-y-4">
               {data.faqs.items.map((faq: any, i: number) => (
                 <motion.details key={i} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.5, delay: i * 0.05 }} className="group relative rounded-3xl bg-white border border-border hover:border-indigo-200 hover:shadow-[0_20px_60px_rgba(99,102,241,0.15)] transition-all duration-500 overflow-hidden cursor-pointer">
-                  <div className="absolute left-0 top-0 bottom-0 w-1 bg-gradient-to-b from-indigo-400 to-violet-600 opacity-0 group-open:opacity-100 group-hover:opacity-100 transition-opacity duration-300" />
-                  <div className="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-indigo-400 to-violet-600 opacity-0 group-open:opacity-100 transition-opacity duration-300" />
+                  <div className="absolute start-0 top-0 bottom-0 w-1 bg-gradient-to-b from-indigo-400 to-violet-600 opacity-0 group-open:opacity-100 group-hover:opacity-100 transition-opacity duration-300" />
+                  <div className="absolute top-0 start-0 end-0 h-[2px] bg-gradient-to-r from-indigo-400 to-violet-600 opacity-0 group-open:opacity-100 transition-opacity duration-300" />
 
                   <summary className="flex items-start gap-4 p-6 list-none">
                     <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-indigo-400 to-violet-600 flex items-center justify-center shadow-lg flex-shrink-0 group-open:scale-110 transition-transform duration-300">
                       <span className="text-sm font-black text-white">{String(i + 1).padStart(2, '0')}</span>
                     </div>
                     <div className="flex-1 pt-1">
-                      <h3 className="font-black text-[#0A0F1F] text-base md:text-lg leading-snug tracking-tight pr-4 group-hover:text-indigo-700 transition-colors" data-tina-field={tinaField(faq, 'q')}>{faq.q}</h3>
+                      <h3 className="font-black text-[#0A0F1F] text-base md:text-lg leading-snug tracking-tight pe-4 group-hover:text-indigo-700 transition-colors" data-tina-field={tinaField(faq, 'q')}>{faq.q}</h3>
                     </div>
                     <div className="relative flex-shrink-0 pt-1">
                       <div className="w-8 h-8 rounded-full bg-indigo-50 border border-indigo-200 flex items-center justify-center group-open:bg-gradient-to-br group-open:from-indigo-400 group-open:to-violet-600 group-open:border-transparent transition-all duration-300">
@@ -607,7 +545,7 @@ WhatsApp
                       </div>
                     </div>
                   </summary>
-                  <div className="px-6 pb-6 pl-20">
+                  <div className="px-6 pb-6 ps-20">
                     <div className="pt-2 border-t border-dashed border-border">
                       <p className="pt-4 text-sm md:text-base text-[#475569] font-medium leading-relaxed" data-tina-field={tinaField(faq, 'a')}>{faq.a}</p>
                     </div>
@@ -638,13 +576,13 @@ WhatsApp
                     <div className="absolute inset-0 bg-cover bg-center transition-transform duration-[1.2s] group-hover:scale-110" style={{ backgroundImage: `url(${service.image})` }} />
                     <div className={`absolute inset-0 bg-gradient-to-br ${service.gradient} opacity-70 mix-blend-multiply`} />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
-                    <h3 className="absolute bottom-4 left-5 right-5 text-xl font-black text-white" data-tina-field={tinaField(service, 'title')}>{service.title}</h3>
+                    <h3 className="absolute bottom-4 start-5 end-5 text-xl font-black text-white" data-tina-field={tinaField(service, 'title')}>{service.title}</h3>
                   </div>
                   <div className="p-5">
                     <p className="text-sm text-[#64748B] font-medium leading-relaxed mb-4" data-tina-field={tinaField(service, 'description')}>{service.description}</p>
                     <div className="flex items-center gap-2 text-sm font-black">
                       <span className="gradient-text">Read More</span>
-                      <ArrowRight size={14} className="text-indigo-600 group-hover:translate-x-1 transition-transform" />
+                      <ArrowRight size={14} className="rtl:rotate-180 text-indigo-600 group-hover:translate-x-1 transition-transform" />
                     </div>
                   </div>
                 </Link>
@@ -652,101 +590,7 @@ WhatsApp
             ))}
           </div>
 
-          {/* FINAL CTA */}
-          <motion.div initial={{ opacity: 0, y: 30 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }} className="relative rounded-[32px] overflow-hidden shadow-[0_30px_80px_rgba(15,23,42,0.2)]">
-            <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url(${data.hero.image})` }} />
-            <div className="absolute inset-0 bg-gradient-to-r from-indigo-950/90 via-violet-900/70 to-indigo-900/50" />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
-            <div className="absolute inset-0 opacity-[0.08]" style={{ backgroundImage: 'radial-gradient(circle, white 1px, transparent 1px)', backgroundSize: '28px 28px' }} />
-
-            <div className="relative p-8 md:p-14 lg:p-16">
-              <div className="grid lg:grid-cols-12 gap-10 lg:gap-14 items-center">
-                <div className="lg:col-span-7">
-                  <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 mb-6">
-                    <Sparkles size={14} className="text-white" />
-                    <span className="text-xs font-bold tracking-wider uppercase text-white" data-tina-field={tinaField(data.finalCTA, 'badge')}>{data.finalCTA.badge}</span>
-                  </div>
-
-                  <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white leading-[1.1] tracking-tight mb-5 drop-shadow-lg" data-tina-field={tinaField(data.finalCTA, 'title')}>
-                    {data.finalCTA.title.replace(data.finalCTA.titleHighlight, '')}
-                    <span className="text-indigo-300">{data.finalCTA.titleHighlight}</span>
-                  </h2>
-
-                  <p className="text-base md:text-lg text-white/95 font-medium leading-relaxed mb-8 max-w-xl drop-shadow" data-tina-field={tinaField(data.finalCTA, 'subtitle')}>{data.finalCTA.subtitle}</p>
-
-                  <div className="flex flex-wrap gap-4 mb-8">
-                    <a href={getWhatsAppLink(data.finalCTA.whatsappMessage)} target="_blank" rel="noreferrer" className="group inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white text-indigo-700 font-bold text-sm shadow-xl hover:scale-105 transition-all duration-300">
-                      <WhatsAppIcon size={16} className="text-emerald-600" />
-
-                      <span data-tina-field={tinaField(data.finalCTA, 'primaryCta')}>{data.finalCTA.primaryCta}</span>
-                      <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
-                    </a>
-                    <a href={data.finalCTA.phoneHref} className="inline-flex items-center gap-2 px-7 py-3.5 rounded-full bg-white/15 backdrop-blur-xl border border-white/30 text-white font-bold text-sm hover:bg-white/25 transition-all duration-300">
-                      <Phone size={16} />Call Now
-                    </a>
-                  </div>
-
-                  <div className="flex flex-wrap gap-3">
-                    {data.finalCTA.badges.map((item: string, i: number) => (
-                      <div key={i} className="flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-white/15 backdrop-blur-md border border-white/25 text-xs">
-                        <CheckCircle2 size={12} className="text-indigo-300" strokeWidth={3} />
-                        <span className="font-semibold text-white">{item}</span>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-
-                <div className="lg:col-span-5 space-y-4">
-                  <motion.a href={getWhatsAppLink(data.finalCTA.whatsappMessage)} target="_blank" rel="noreferrer" initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.1 }} className="group block relative p-5 rounded-2xl bg-white/95 backdrop-blur-xl border border-white/50 shadow-2xl hover:-translate-y-1 transition-all duration-300">
-                    <div className="flex items-center gap-4">
-                      <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-green-400 to-green-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                        <WhatsAppIcon size={22} className="text-emerald-600" />
-
-                      </div>
-                      <div className="flex-1">
-                        <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-0.5">WhatsApp Us</p>
-                        <p className="text-base font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA, 'phone')}>{data.finalCTA.phone}</p>
-                        <p className="text-[11px] text-green-600 font-semibold mt-0.5">● Instant replies almost anytime</p>
-                      </div>
-                      <ArrowRight size={18} className="text-txt-muted group-hover:text-indigo-600 group-hover:translate-x-1 transition-all" />
-                    </div>
-                  </motion.a>
-
-                  <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.2 }} className="group relative p-5 rounded-2xl bg-white/95 backdrop-blur-xl border border-white/50 shadow-2xl">
-                    <div className="flex items-start gap-4">
-                      <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-indigo-400 to-violet-600 flex items-center justify-center shadow-lg flex-shrink-0">
-                        <Building2 size={22} className="text-white" strokeWidth={2.2} />
-                      </div>
-                      <div className="flex-1">
-                        <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-1" data-tina-field={tinaField(data.finalCTA.office, 'label')}>{data.finalCTA.office.label}</p>
-                        <p className="text-sm font-bold text-[#0A0F1F] leading-snug mb-1" data-tina-field={tinaField(data.finalCTA.office, 'line1')}>{data.finalCTA.office.line1}</p>
-                        <p className="text-xs text-[#64748B] font-medium leading-snug" data-tina-field={tinaField(data.finalCTA.office, 'line2')}>{data.finalCTA.office.line2}</p>
-                        <a href={data.finalCTA.office.mapLink} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1.5 mt-2 text-xs font-black text-indigo-600 hover:text-indigo-700 transition">
-                          Get Directions<ArrowRight size={12} />
-                        </a>
-                      </div>
-                    </div>
-                  </motion.div>
-
-                  <motion.div initial={{ opacity: 0, x: 30 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} transition={{ duration: 0.6, delay: 0.3 }} className="group relative p-5 rounded-2xl bg-white/95 backdrop-blur-xl border border-white/50 shadow-2xl">
-                    <div className="flex items-start gap-4">
-                      <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-amber-400 to-orange-600 flex items-center justify-center shadow-lg flex-shrink-0">
-                        <Clock size={22} className="text-white" strokeWidth={2.2} />
-                      </div>
-                      <div className="flex-1">
-                        <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-1" data-tina-field={tinaField(data.finalCTA.hours, 'label')}>{data.finalCTA.hours.label}</p>
-                        <div className="space-y-1 text-xs">
-                          <div className="flex justify-between items-center"><span className="text-[#64748B] font-medium">Mon – Fri</span><span className="font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA.hours, 'monFri')}>{data.finalCTA.hours.monFri}</span></div>
-                          <div className="flex justify-between items-center"><span className="text-[#64748B] font-medium">Saturday</span><span className="font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA.hours, 'saturday')}>{data.finalCTA.hours.saturday}</span></div>
-                          <div className="flex justify-between items-center"><span className="text-[#64748B] font-medium">Sunday</span><span className="font-black text-red-500" data-tina-field={tinaField(data.finalCTA.hours, 'sunday')}>{data.finalCTA.hours.sunday}</span></div>
-                        </div>
-                      </div>
-                    </div>
-                  </motion.div>
-                </div>
-              </div>
-            </div>
-          </motion.div>
+          
         </div>
       </section>
 

@@ -14,7 +14,7 @@ import {
 import { getWhatsAppLink } from '../../lib/whatsapp';
 import { useLanguage, LANGUAGES } from '../../i18n/LanguageContext';
 import type { LanguageCode } from '../../i18n/LanguageContext';
-import { loadContent } from '../../lib/loadContent'; // ✅ NEW
+import { loadContent } from '../../lib/loadContent';
 
 // ============ DATA (With Translation Keys) ============
 const freeZoneCategories = [
@@ -74,10 +74,8 @@ export default function Navbar() {
   const languageRef = useRef<HTMLDivElement>(null);
   const location = useLocation();
 
-  // ✅ JSON se Navbar content load karo
   const t = loadContent('layout/navbar', language) as any;
 
-  // ✅ URLs hamesha English rahenge
   const navLinks = [
     { name: t.home || 'Home', href: '/', hasDropdown: false },
     { name: t.freeZone || 'Free Zone', href: '#', hasDropdown: true, dropdownType: 'freezone' },
@@ -97,16 +95,31 @@ export default function Navbar() {
 
   return (
     <>
-      <header className={`sticky top-0 z-50 transition-all duration-500 ${scrolled ? 'bg-white/90 backdrop-blur-2xl border-b border-slate-200 shadow-[0_8px_40px_rgba(15,23,42,0.08)]' : 'bg-gradient-to-b from-white to-slate-50/30 border-b border-transparent'}`} onMouseLeave={handleMouseLeave}>
+      {/* 
+        ✅ FIX: Yahan dir="ltr" add kiya gaya hai. 
+        Is se navbar ka layout HAMESHA English jaisa (Logo Left, Links Center, Lang Right) rahega,
+        chahe user Arabic (RTL) select kare ya koi aur language.
+      */}
+      <header dir="ltr" className={`sticky top-0 z-50 transition-all duration-500 ${scrolled ? 'bg-white/90 backdrop-blur-2xl border-b border-slate-200 shadow-[0_8px_40px_rgba(15,23,42,0.08)]' : 'bg-gradient-to-b from-white to-slate-50/30 border-b border-transparent'}`} onMouseLeave={handleMouseLeave}>
         <div className="max-w-7xl mx-auto px-6">
           <div className="flex items-center justify-between py-3.5">
-            {/* === LOGO === */}
+            
+            {/* === LOGO (Left Side) === */}
             <Link to="/" className="group flex items-center gap-3">
-              <div className="relative"><motion.div animate={{ scale: [1, 1.15, 1], opacity: [0.3, 0.6, 0.3] }} transition={{ duration: 4, repeat: Infinity }} className="absolute inset-0 rounded-2xl bg-gradient-to-br from-sky-500 via-violet-500 to-fuchsia-500 blur-lg" /><div className="relative w-12 h-12 rounded-2xl bg-gradient-to-br from-sky-500 via-blue-600 to-violet-600 flex items-center justify-center shadow-[0_8px_24px_rgba(56,189,248,0.4)] group-hover:scale-105 group-hover:shadow-[0_12px_32px_rgba(56,189,248,0.6)] transition-all duration-300"><span className="text-white font-black text-lg tracking-tight">SZ</span><div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 rounded-full bg-emerald-400 border-2 border-white shadow-sm" /></div></div>
-              <div className="flex flex-col leading-none"><span className="text-xl md:text-[1.4rem] font-black bg-gradient-to-r from-slate-900 via-sky-800 to-slate-900 bg-clip-text text-transparent group-hover:scale-[1.02] transition-transform duration-300 origin-left tracking-tight">Setup Zone Dubai</span><span className="text-[9px] text-slate-400 tracking-[0.25em] uppercase font-bold mt-1">Operated by Brightlink</span></div>
+              <div className="relative">
+                <motion.div animate={{ scale: [1, 1.15, 1], opacity: [0.3, 0.6, 0.3] }} transition={{ duration: 4, repeat: Infinity }} className="absolute inset-0 rounded-2xl bg-gradient-to-br from-sky-500 via-violet-500 to-fuchsia-500 blur-lg" />
+                <div className="relative w-12 h-12 rounded-2xl bg-gradient-to-br from-sky-500 via-blue-600 to-violet-600 flex items-center justify-center shadow-[0_8px_24px_rgba(56,189,248,0.4)] group-hover:scale-105 group-hover:shadow-[0_12px_32px_rgba(56,189,248,0.6)] transition-all duration-300">
+                  <span className="text-white font-black text-lg tracking-tight">SZ</span>
+                  <div className="absolute -bottom-0.5 -right-0.5 w-3.5 h-3.5 rounded-full bg-emerald-400 border-2 border-white shadow-sm" />
+                </div>
+              </div>
+              <div dir="ltr" className="flex flex-col leading-none text-left">
+                <span className="text-xl md:text-[1.4rem] font-black bg-gradient-to-r from-slate-900 via-sky-800 to-slate-900 bg-clip-text text-transparent group-hover:scale-[1.02] transition-transform duration-300 origin-left tracking-tight">Setup Zone Dubai</span>
+                <span className="text-[9px] text-slate-400 tracking-[0.25em] uppercase font-bold mt-1">Operated by Brightlink</span>
+              </div>
             </Link>
 
-            {/* === DESKTOP MENU === */}
+            {/* === DESKTOP MENU (Center) === */}
             <nav className="hidden lg:flex items-center gap-0.5 bg-slate-100/60 p-1 rounded-2xl border border-slate-200/50">
               {navLinks.map((link) => (
                 <div key={link.name} className="relative" onMouseEnter={() => link.hasDropdown && handleMouseEnter(link.name)}>

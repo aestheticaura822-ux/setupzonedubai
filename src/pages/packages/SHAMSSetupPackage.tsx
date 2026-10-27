@@ -1,4 +1,4 @@
-// File: src/pages/packages/SHAMSSetupPackage.tsx
+﻿// File: src/pages/packages/SHAMSSetupPackage.tsx
 
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
@@ -628,7 +628,7 @@ export default function SHAMSSetupPackage({ tinaData }: { tinaData?: any }) {
                       </div>
                       <div className="flex-1">
                         <p className="text-[10px] font-bold text-txt-muted uppercase tracking-wider mb-0.5">WhatsApp Us</p>
-                        <p className="text-base font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA, 'phone')}>{data.finalCTA.phone}</p>
+                        <p className="text-base font-black text-[#0A0F1F]" data-tina-field={tinaField(data.finalCTA, 'phone')}><span dir="ltr" className="inline-block">{data.finalCTA.phone}</span></p>
                         <p className="text-[11px] text-green-600 font-semibold mt-0.5">● Instant replies almost anytime</p>
                       </div>
                       <ArrowRight size={18} className="text-txt-muted group-hover:text-orange-600 group-hover:translate-x-1 transition-all" />

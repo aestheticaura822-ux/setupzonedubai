@@ -9,7 +9,7 @@
     {
       "icon": "Phone",
       "label": "اتصل بنا",
-      "value": "+971 56 655 6645",
+      "value": "‎+971 56 655 6645‎",
       "sub": "من الإثنين إلى السبت: من الساعة 9 صباحاً إلى الساعة 6 مساءً",
       "href": "tel:+971566556645",
       "gradient": "from-sky-400 to-blue-600",
@@ -36,63 +36,22 @@
   ],
   "workingHoursCard": {
     "title": "ساعات العمل",
-    "timezoneLabel": "توقيت دبي (GST)",
+    "timezoneLabel": "توقيت دبي ‎(GST)‎",
     "todayBadge": "اليوم",
     "hours": [
-      {
-        "day": "الاثنين",
-        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
-        "active": true
-      },
-      {
-        "day": "يوم الثلاثاء",
-        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
-        "active": false
-      },
-      {
-        "day": "الأربعاء",
-        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
-        "active": false
-      },
-      {
-        "day": "يوم الخميس",
-        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
-        "active": false
-      },
-      {
-        "day": "جمعة",
-        "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً",
-        "active": false
-      },
-      {
-        "day": "السبت",
-        "hours": "من الساعة 10:00 صباحاً إلى الساعة 5:00 مساءً",
-        "active": false
-      },
-      {
-        "day": "الأحد",
-        "hours": "مغلق",
-        "active": false,
-        "closed": true
-      }
+      { "day": "الاثنين",  "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً", "active": true },
+      { "day": "الثلاثاء", "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً", "active": false },
+      { "day": "الأربعاء", "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً", "active": false },
+      { "day": "الخميس",   "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً", "active": false },
+      { "day": "الجمعة",   "hours": "من الساعة 9:00 صباحاً إلى الساعة 6:00 مساءً", "active": false },
+      { "day": "السبت",    "hours": "من الساعة 10:00 صباحاً إلى الساعة 5:00 مساءً", "active": false },
+      { "day": "الأحد",    "hours": "مغلق", "active": false, "closed": true }
     ]
   },
   "trustBadges": [
-    {
-      "icon": "Zap",
-      "label": "أقل من 24 ساعة",
-      "sub": "إجابة"
-    },
-    {
-      "icon": "Lock",
-      "label": "100%",
-      "sub": "مؤتمن"
-    },
-    {
-      "icon": "CheckCircle2",
-      "label": "حر",
-      "sub": "استشارة"
-    }
+    { "icon": "Zap",          "label": "أقل من 24 ساعة", "sub": "إجابة" },
+    { "icon": "Lock",         "label": "100%",           "sub": "مؤمَّن" },
+    { "icon": "CheckCircle2", "label": "مجاناً",          "sub": "استشارة" }
   ],
   "form": {
     "title": "أرسل لنا رسالة",
@@ -104,36 +63,12 @@
     "whatsappNumber": "971566556645",
     "whatsappSenderLine": "تم الإرسال من setupzonedubai@gmail.com",
     "fields": {
-      "name": {
-        "label": "الاسم الكامل",
-        "placeholder": "جون سميث",
-        "required": true
-      },
-      "email": {
-        "label": "بريد إلكتروني",
-        "placeholder": "john@company.com",
-        "required": true
-      },
-      "phone": {
-        "label": "رقم التليفون",
-        "placeholder": "+971 50 123 4567",
-        "required": true
-      },
-      "nationality": {
-        "label": "جنسية",
-        "placeholder": "مثال: بريطاني، هندي",
-        "required": false
-      },
-      "service": {
-        "label": "اختر الخدمة",
-        "placeholder": "اختر خدمة...",
-        "required": true
-      },
-      "message": {
-        "label": "رسالتك",
-        "placeholder": "أخبرنا عن احتياجات عملك...",
-        "required": true
-      }
+      "name":        { "label": "الاسم الكامل",  "placeholder": "جون سميث",          "required": true },
+      "email":       { "label": "بريد إلكتروني", "placeholder": "john@company.com",    "required": true },
+      "phone":       { "label": "رقم الهاتف",    "placeholder": "‎+971 50 123 4567‎",  "required": true },
+      "nationality": { "label": "الجنسية",       "placeholder": "مثال: بريطاني، هندي", "required": false },
+      "service":     { "label": "اختر الخدمة",   "placeholder": "اختر خدمة...",        "required": true },
+      "message":     { "label": "رسالتك",        "placeholder": "أخبرنا عن احتياجات عملك...", "required": true }
     },
     "services": [
       "تأسيس الأعمال التجارية - المنطقة الحرة",
@@ -158,7 +93,7 @@
     "directionsLink": "https://maps.google.com/?q=Crystal+Tower+Business+Bay+Dubai",
     "embedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.215978934677!2d55.2762!3d25.1859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43348b9e2c25%3A0x7d5be3a9d04c4f27!2sCrystal%20Tower%20Business%20Bay!5e0!3m2!1sen!2sae!4v1699999999999!5m2!1sen!2sae",
     "quickContactLabel": "اتصال سريع",
-    "quickContactPhone": "+971 56 655 6645",
+    "quickContactPhone": "‎+971 56 655 6645‎",
     "quickContactMessage": "مرحباً! أود زيارة مكتبكم."
   }
 }

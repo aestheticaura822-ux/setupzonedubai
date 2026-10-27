@@ -91,44 +91,7 @@ WhatsApp
             </div>
 
             {/* RIGHT — Calculator Card */}
-            <div className="lg:col-span-5 relative h-[520px] hidden lg:block">
-              <motion.div animate={{ scale: [1, 1.1, 1], opacity: [0.3, 0.5, 0.3] }} transition={{ duration: 6, repeat: Infinity }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[420px] h-[420px] rounded-full bg-gradient-to-br from-purple-400 to-violet-600 opacity-40 blur-[100px]" />
-
-              <motion.div initial={{ opacity: 0, y: 40 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.8, type: 'spring', stiffness: 80 }} className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-30">
-                <motion.div animate={{ y: [0, -15, 0] }} transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }} className="relative">
-                  <div className="absolute inset-0 bg-gradient-to-br from-purple-400 to-violet-600 opacity-40 blur-2xl rounded-3xl" />
-                  <Link to="/calculator" className="block group">
-                    <div className="relative w-[340px] rounded-3xl bg-white/95 backdrop-blur-2xl border border-white shadow-2xl overflow-hidden hover:scale-[1.02] transition-transform duration-300">
-                      <div className="bg-gradient-to-r from-purple-500 to-violet-600 px-5 py-3 flex items-center justify-between">
-                        <div className="flex items-center gap-2">
-                          <Calculator size={16} className="text-white" strokeWidth={2.5} />
-                          <span className="text-[10px] font-black text-white uppercase tracking-widest">Cost Calculator</span>
-                        </div>
-                        <span className="text-[10px] font-black text-white/80 uppercase tracking-widest group-hover:text-white transition">Try Now →</span>
-                      </div>
-                      <div className="p-6">
-                        <div className="flex items-center gap-3 mb-5">
-                          <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-purple-400 to-violet-600 flex items-center justify-center shadow-lg">
-                            <Calculator size={26} className="text-white" strokeWidth={2.5} />
-                          </div>
-                          <div className="flex-1">
-                            <div className="text-[10px] font-bold text-txt-muted uppercase tracking-widest mb-0.5">Instant Estimate</div>
-                            <div className="text-base font-black text-[#0A0F1F]">Calculate Your Cost</div>
-                          </div>
-                        </div>
-                        <div className="pt-5 border-t border-dashed border-purple-200">
-                          <div className="flex items-center justify-center gap-2 px-4 py-3 rounded-xl bg-gradient-to-r from-purple-500 to-violet-600 shadow-lg group-hover:scale-105 transition-transform duration-300">
-                            <Calculator size={16} className="text-white" strokeWidth={2.5} />
-                            <span className="text-xs font-black text-white uppercase tracking-widest">Open Calculator</span>
-                            <ArrowRight size={14} className="text-white group-hover:translate-x-0.5 transition-transform" strokeWidth={2.5} />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </Link>
-                </motion.div>
-              </motion.div>
-            </div>
+            
           </div>
         </div>
       </section>
